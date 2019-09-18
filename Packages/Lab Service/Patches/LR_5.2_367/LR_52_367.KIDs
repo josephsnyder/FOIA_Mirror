@@ -1,0 +1,1230 @@
+KIDS Distribution saved on Apr 13, 2009@13:06:50
+LR*5.2*367 041309@1305
+**KIDS**:LR*5.2*367^
+
+**INSTALL NAME**
+LR*5.2*367
+"BLD",5758,0)
+LR*5.2*367^LAB SERVICE^0^3090413^y
+"BLD",5758,1,0)
+^^200^200^3090413^
+"BLD",5758,1,1,0)
+The installation of LR*5.2*367 will be controlled by phase release to 
+"BLD",5758,1,2,0)
+support the new blood bank software Vista Blood Establishment Computer 
+"BLD",5758,1,3,0)
+System, VBECS. An Implementation Manager will be assigned to your site 
+"BLD",5758,1,4,0)
+and will contact your POC for VBECS and will provide your site with the 
+"BLD",5758,1,5,0)
+location of the KIDS Host Files prior to your scheduled installation date.
+"BLD",5758,1,6,0)
+ 
+"BLD",5758,1,7,0)
+This patch will allow the VistA Blood Establishment Computer System 
+"BLD",5758,1,8,0)
+(VBECS) to use HL7 order update messages to complete orders created 
+"BLD",5758,1,9,0)
+through the Blood Bank Accession Area.  The functionality will complete 
+"BLD",5758,1,10,0)
+the accession for the specified test and the associated Computerized 
+"BLD",5758,1,11,0)
+Patient Record System (CPRS) order
+"BLD",5758,1,12,0)
+ 
+"BLD",5758,1,13,0)
+ROUTINE: LR7OVB
+"BLD",5758,1,14,0)
+========
+"BLD",5758,1,15,0)
+ 
+"BLD",5758,1,16,0)
+OPTIONS: None
+"BLD",5758,1,17,0)
+========
+"BLD",5758,1,18,0)
+ 
+"BLD",5758,1,19,0)
+PROTOCOL: LR7O VBECS RECEIVE
+"BLD",5758,1,20,0)
+=========
+"BLD",5758,1,21,0)
+ 
+"BLD",5758,1,22,0)
+BLOOD BANK CLEARANCE
+"BLD",5758,1,23,0)
+ 
+"BLD",5758,1,24,0)
+EFFECT ON BLOOD BANK FUNCTIONAL REQUIREMENTS: Patch LR*5.2*367 does not 
+"BLD",5758,1,25,0)
+contain any changes to the VISTA BLOOD BANK Software as defined by VHA 
+"BLD",5758,1,26,0)
+DIRECTIVE 2004-053 titled VISTA BLOOD BANK SOFTWARE VERSION 5.2.
+"BLD",5758,1,27,0)
+ 
+"BLD",5758,1,28,0)
+EFFECT ON BLOOD BANK FUNCTIONAL REQUIREMENTS: Patch LR*5.2*367 does not 
+"BLD",5758,1,29,0)
+alter or modify any software design safeguards or safety critical 
+"BLD",5758,1,30,0)
+elements functions.
+"BLD",5758,1,31,0)
+ 
+"BLD",5758,1,32,0)
+RISK ANALYSIS: Changes made by patch LR*5.2*367 have no effect on Blood 
+"BLD",5758,1,33,0)
+Bank software functionality, therefore RISK is none.
+"BLD",5758,1,34,0)
+ 
+"BLD",5758,1,35,0)
+VALIDATION REQUIREMENTS BY OPTION: Because of the nature of the changes 
+"BLD",5758,1,36,0)
+made, no specific validation requirements exist as a result of 
+"BLD",5758,1,37,0)
+installation of this patch.
+"BLD",5758,1,38,0)
+ 
+"BLD",5758,1,39,0)
+ 
+"BLD",5758,1,40,0)
+ASSOCIATED Remedy Tickets: None
+"BLD",5758,1,41,0)
+==========================
+"BLD",5758,1,42,0)
+ 
+"BLD",5758,1,43,0)
+ASSOCIATED NSR/E3R: None
+"BLD",5758,1,44,0)
+===================
+"BLD",5758,1,45,0)
+ 
+"BLD",5758,1,46,0)
+XINDEX Warnings:
+"BLD",5758,1,47,0)
+================
+"BLD",5758,1,48,0)
+XINDEX displays the following warning. The referenced routine (^ORMVBEC) 
+"BLD",5758,1,49,0)
+will be installed with patch OR*3*212. This patch is part of the 
+"BLD",5758,1,50,0)
+controlled release of VBECS and will be installed as part of the VBECS 
+"BLD",5758,1,51,0)
+system installation.
+"BLD",5758,1,52,0)
+ 
+"BLD",5758,1,53,0)
+LR7OVB   * *  105 Lines,  4318 Bytes, Checksum: B19945746
+"BLD",5758,1,54,0)
+   COMPLETE+38  F - Reference to routine '^ORMVBEC'. That isn't in this 
+"BLD",5758,1,55,0)
+UCI.
+"BLD",5758,1,56,0)
+ 
+"BLD",5758,1,57,0)
+--- Routine Detail ---
+"BLD",5758,1,58,0)
+*****   ERRORS & WARNINGS IN LR7OVB   *****
+"BLD",5758,1,59,0)
+   COMPLETE+38  F - Reference to routine '^ORMVBEC'. That isn't in this 
+"BLD",5758,1,60,0)
+UCI.
+"BLD",5758,1,61,0)
+ 
+"BLD",5758,1,62,0)
+*****   INDEX OF LR7OVB   *****
+"BLD",5758,1,63,0)
+ 
+"BLD",5758,1,64,0)
+TEST SITES:
+"BLD",5758,1,65,0)
+===========
+"BLD",5758,1,66,0)
+HEARTLAND-EAST HCS
+"BLD",5758,1,67,0)
+PHILADELPHIA, PA
+"BLD",5758,1,68,0)
+SAN DIEGO, CA
+"BLD",5758,1,69,0)
+ 
+"BLD",5758,1,70,0)
+REQUIRED BUILDS: None
+"BLD",5758,1,71,0)
+================
+"BLD",5758,1,72,0)
+ 
+"BLD",5758,1,73,0)
+Installation Information:
+"BLD",5758,1,74,0)
+==========================
+"BLD",5758,1,75,0)
+ 
+"BLD",5758,1,76,0)
+This patch LR*5.2*367 is being exported as part of the VBECS package 
+"BLD",5758,1,77,0)
+release. This installation of these patches will be controlled by phase 
+"BLD",5758,1,78,0)
+release. An Implementation Manager will be assigned to your site and will 
+"BLD",5758,1,79,0)
+contact your POC for VBECS and will provide your site with the location 
+"BLD",5758,1,80,0)
+of the KIDS Host Files prior to your scheduled installation date 
+"BLD",5758,1,81,0)
+Installation Sequence
+"BLD",5758,1,82,0)
+ 
+"BLD",5758,1,83,0)
+Installation Sequence 
+"BLD",5758,1,84,0)
+======================
+"BLD",5758,1,85,0)
+The files listed below represent the patches will be part of the 
+"BLD",5758,1,86,0)
+controlled phased release.  Follow the sequence listed below when your 
+"BLD",5758,1,87,0)
+phased installation occurs.
+"BLD",5758,1,88,0)
+ 
+"BLD",5758,1,89,0)
+  1. LR*5.2*335
+"BLD",5758,1,90,0)
+  2. LR*5.2*367
+"BLD",5758,1,91,0)
+  3. VBECS Bundle (consisting of VBEC*1*0 and LR*5.2*325)
+"BLD",5758,1,92,0)
+  4. VBEC*1.0*1
+"BLD",5758,1,93,0)
+  5. OR*3.0*212 
+"BLD",5758,1,94,0)
+ 
+"BLD",5758,1,95,0)
+Documentation Retrieval:
+"BLD",5758,1,96,0)
+========================
+"BLD",5758,1,97,0)
+Although this is a controlled, phased released, the user & technical 
+"BLD",5758,1,98,0)
+documentation will be available to all sites when the patch is officially 
+"BLD",5758,1,99,0)
+released and the phased implementations start.  This will allow sites the 
+"BLD",5758,1,100,0)
+opportunity to retrieve the documents before their phased installation 
+"BLD",5758,1,101,0)
+date
+"BLD",5758,1,102,0)
+ 
+"BLD",5758,1,103,0)
+ 
+"BLD",5758,1,104,0)
+Documentation is available for the entire VBECS package on the 
+"BLD",5758,1,105,0)
+ANONYMOUS.SOFTWRE directory at one of the following Office of Information 
+"BLD",5758,1,106,0)
+(OI) Field Offices.  Sites may retrieve documentation either the ".PDF" 
+"BLD",5758,1,107,0)
+or "DOC" format in one of the following ways:
+"BLD",5758,1,108,0)
+ 
+"BLD",5758,1,109,0)
+The preferred method is to FTP the files from :
+"BLD",5758,1,110,0)
+        download.vista.domain.ext
+"BLD",5758,1,111,0)
+ 
+"BLD",5758,1,112,0)
+This transmits files from the first available FTP server.  Sites may also 
+"BLD",5758,1,113,0)
+elect to retrieve documentation directly from a 
+"BLD",5758,1,114,0)
+specific server as follows:
+"BLD",5758,1,115,0)
+       Albany                  DOMAIN.EXT
+"BLD",5758,1,116,0)
+       Hines                   DOMAIN.EXT
+"BLD",5758,1,117,0)
+       Salt Lake City          DOMAIN.EXT
+"BLD",5758,1,118,0)
+ 
+"BLD",5758,1,119,0)
+NOTE:  The documentation files listed below will be listed in each of the 
+"BLD",5758,1,120,0)
+VBECS and LR patches that are part of the VBECS package and associate 
+"BLD",5758,1,121,0)
+patches, they only need to be downloaded once.
+"BLD",5758,1,122,0)
+ 
+"BLD",5758,1,123,0)
+File Name:                                  Retrieval format:  Binary
+"BLD",5758,1,124,0)
+==========                                  ==========================
+"BLD",5758,1,125,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5758,1,126,0)
+ADPAC Guide.doc
+"BLD",5758,1,127,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5758,1,128,0)
+ADPAC Guide.pdf
+"BLD",5758,1,129,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5758,1,130,0)
+Installation and User Guide.doc
+"BLD",5758,1,131,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5758,1,132,0)
+Installation and User Guide.pdf
+"BLD",5758,1,133,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5758,1,134,0)
+Technical Manual.doc
+"BLD",5758,1,135,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5758,1,136,0)
+Technical Manual.pdf
+"BLD",5758,1,137,0)
+VBECS Data Conversion Recommended Validation Method.xls
+"BLD",5758,1,138,0)
+VBECS Application Interfacing Support Software Installation and User 
+"BLD",5758,1,139,0)
+Configuration Guide.doc
+"BLD",5758,1,140,0)
+VBECS Application Interfacing Support Software Installation and User 
+"BLD",5758,1,141,0)
+Configuration Guide.pdf
+"BLD",5758,1,142,0)
+VBECS Implementation Process.xls
+"BLD",5758,1,143,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"BLD",5758,1,144,0)
+Guide.doc
+"BLD",5758,1,145,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"BLD",5758,1,146,0)
+Guide.pdf
+"BLD",5758,1,147,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"BLD",5758,1,148,0)
+Manual-Security Guide.doc
+"BLD",5758,1,149,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"BLD",5758,1,150,0)
+Manual-Security Guide.pdf
+"BLD",5758,1,151,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.doc
+"BLD",5758,1,152,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.pdf
+"BLD",5758,1,153,0)
+Known Defects and Anomalies.doc
+"BLD",5758,1,154,0)
+Known Defects and Anomalies.pdf
+"BLD",5758,1,155,0)
+ 
+"BLD",5758,1,156,0)
+Installation Files: 
+"BLD",5758,1,157,0)
+===================
+"BLD",5758,1,158,0)
+ 
+"BLD",5758,1,159,0)
+LR_52_367.KID
+"BLD",5758,1,160,0)
+ 
+"BLD",5758,1,161,0)
+ 
+"BLD",5758,1,162,0)
+The host file LR_52_367 will be made available by the Implementation 
+"BLD",5758,1,163,0)
+Manager prior to your site's implementation schedule along with 
+"BLD",5758,1,164,0)
+instruction to retrieve.
+"BLD",5758,1,165,0)
+ 
+"BLD",5758,1,166,0)
+Installation Instructions:
+"BLD",5758,1,167,0)
+==========================
+"BLD",5758,1,168,0)
+This patch may be loaded with users on the system.
+"BLD",5758,1,169,0)
+Installation will take less than 5 minutes.
+"BLD",5758,1,170,0)
+ 
+"BLD",5758,1,171,0)
+The installation of VBECS and its related patches are being handled as a 
+"BLD",5758,1,172,0)
+controlled release. The implementation manager will contact you with the 
+"BLD",5758,1,173,0)
+location of the KIDS Host Files prior to your scheduled installation date.
+"BLD",5758,1,174,0)
+ 
+"BLD",5758,1,175,0)
+    1) Use the 'LOAD A DISTRIBUTION' option on the KIDS Installation
+"BLD",5758,1,176,0)
+       menu. The Host File name is LR_52_367.KID .  Answer YES to the
+"BLD",5758,1,177,0)
+       question: "Want to Continue with Load? YES//"
+"BLD",5758,1,178,0)
+    2) From the Kernel Installation and Distribution System Menu,
+"BLD",5758,1,179,0)
+       select the Installation menu.
+"BLD",5758,1,180,0)
+ 
+"BLD",5758,1,181,0)
+    3) From this menu, you may elect to use the following options
+"BLD",5758,1,182,0)
+       (when prompted for the INSTALL NAME, enter LR*5.2*367).
+"BLD",5758,1,183,0)
+       a) Backup a Transport Global - this option will create a backup
+"BLD",5758,1,184,0)
+          message of any routines exported with the patch.  It will NOT
+"BLD",5758,1,185,0)
+          backup any other changes such as DDs or templates.
+"BLD",5758,1,186,0)
+       b) Compare Transport Global to Current System - this option will
+"BLD",5758,1,187,0)
+          allow you to view all changes that will be made when the patch
+"BLD",5758,1,188,0)
+          is installed.  It compares all components of the patch
+"BLD",5758,1,189,0)
+          (routines, DDs, templates, etc.).
+"BLD",5758,1,190,0)
+       c) Verify Checksums in Transport Global - this option will allow
+"BLD",5758,1,191,0)
+          you to ensure the integrity of the routines that are in the
+"BLD",5758,1,192,0)
+          transport global.
+"BLD",5758,1,193,0)
+       d) Print Transport Global - this option will allow you to view the
+"BLD",5758,1,194,0)
+          components of the KIDS build.
+"BLD",5758,1,195,0)
+    4) Use the Install Package(s) option and select the package
+"BLD",5758,1,196,0)
+       LR*5.2*367.
+"BLD",5758,1,197,0)
+    5) When prompted 'Want KIDS to INHIBIT LOGONs during the install? 
+"BLD",5758,1,198,0)
+       YES//', respond NO.
+"BLD",5758,1,199,0)
+    6) When prompted 'Want to DISABLE Scheduled Options, Menu Options, and
+"BLD",5758,1,200,0)
+       Protocols? YES//', respond NO.
+"BLD",5758,4,0)
+^9.64PA^^
+"BLD",5758,6.3)
+12
+"BLD",5758,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",5758,"KRN",.4,0)
+.4
+"BLD",5758,"KRN",.401,0)
+.401
+"BLD",5758,"KRN",.402,0)
+.402
+"BLD",5758,"KRN",.403,0)
+.403
+"BLD",5758,"KRN",.5,0)
+.5
+"BLD",5758,"KRN",.84,0)
+.84
+"BLD",5758,"KRN",3.6,0)
+3.6
+"BLD",5758,"KRN",3.8,0)
+3.8
+"BLD",5758,"KRN",9.2,0)
+9.2
+"BLD",5758,"KRN",9.8,0)
+9.8
+"BLD",5758,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",5758,"KRN",9.8,"NM",1,0)
+LR7OVB^^0^B19945746
+"BLD",5758,"KRN",9.8,"NM","B","LR7OVB",1)
+
+"BLD",5758,"KRN",19,0)
+19
+"BLD",5758,"KRN",19.1,0)
+19.1
+"BLD",5758,"KRN",101,0)
+101
+"BLD",5758,"KRN",101,"NM",0)
+^9.68A^1^1
+"BLD",5758,"KRN",101,"NM",1,0)
+LR7O VBECS RECEIVE^^0
+"BLD",5758,"KRN",101,"NM","B","LR7O VBECS RECEIVE",1)
+
+"BLD",5758,"KRN",409.61,0)
+409.61
+"BLD",5758,"KRN",771,0)
+771
+"BLD",5758,"KRN",870,0)
+870
+"BLD",5758,"KRN",8989.51,0)
+8989.51
+"BLD",5758,"KRN",8989.52,0)
+8989.52
+"BLD",5758,"KRN",8994,0)
+8994
+"BLD",5758,"KRN","B",.4,.4)
+
+"BLD",5758,"KRN","B",.401,.401)
+
+"BLD",5758,"KRN","B",.402,.402)
+
+"BLD",5758,"KRN","B",.403,.403)
+
+"BLD",5758,"KRN","B",.5,.5)
+
+"BLD",5758,"KRN","B",.84,.84)
+
+"BLD",5758,"KRN","B",3.6,3.6)
+
+"BLD",5758,"KRN","B",3.8,3.8)
+
+"BLD",5758,"KRN","B",9.2,9.2)
+
+"BLD",5758,"KRN","B",9.8,9.8)
+
+"BLD",5758,"KRN","B",19,19)
+
+"BLD",5758,"KRN","B",19.1,19.1)
+
+"BLD",5758,"KRN","B",101,101)
+
+"BLD",5758,"KRN","B",409.61,409.61)
+
+"BLD",5758,"KRN","B",771,771)
+
+"BLD",5758,"KRN","B",870,870)
+
+"BLD",5758,"KRN","B",8989.51,8989.51)
+
+"BLD",5758,"KRN","B",8989.52,8989.52)
+
+"BLD",5758,"KRN","B",8994,8994)
+
+"BLD",5758,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",5758,"QUES",0)
+^9.62^^
+"KRN",101,7221,-1)
+0^1
+"KRN",101,7221,0)
+LR7O VBECS RECEIVE^Lab Receives Order Completion Msg from VBECS^^A^^^^^^^^
+"KRN",101,7221,20)
+D EN1^LR7OVB(.XQORMSG)
+"KRN",101,7221,99)
+60502,41156
+"MBREQ")
+0
+"ORD",15,101)
+101;15;;;PRO^XPDTA;PROF1^XPDIA;PROE1^XPDIA;PROF2^XPDIA;;PRODEL^XPDIA
+"ORD",15,101,0)
+PROTOCOL
+"PKG",26,-1)
+1^1
+"PKG",26,0)
+LAB SERVICE^LR^CORE LAB SYSTEM
+"PKG",26,20,0)
+^9.402P^1^1
+"PKG",26,20,1,0)
+2^^LRXDRPT
+"PKG",26,20,1,1)
+
+"PKG",26,20,"B",2,1)
+
+"PKG",26,22,0)
+^9.49I^1^1
+"PKG",26,22,1,0)
+5.2^2940927^2950304
+"PKG",26,22,1,"PAH",1,0)
+367^3090413
+"PKG",26,22,1,"PAH",1,1,0)
+^^200^200^3090413
+"PKG",26,22,1,"PAH",1,1,1,0)
+The installation of LR*5.2*367 will be controlled by phase release to 
+"PKG",26,22,1,"PAH",1,1,2,0)
+support the new blood bank software Vista Blood Establishment Computer 
+"PKG",26,22,1,"PAH",1,1,3,0)
+System, VBECS. An Implementation Manager will be assigned to your site 
+"PKG",26,22,1,"PAH",1,1,4,0)
+and will contact your POC for VBECS and will provide your site with the 
+"PKG",26,22,1,"PAH",1,1,5,0)
+location of the KIDS Host Files prior to your scheduled installation date.
+"PKG",26,22,1,"PAH",1,1,6,0)
+ 
+"PKG",26,22,1,"PAH",1,1,7,0)
+This patch will allow the VistA Blood Establishment Computer System 
+"PKG",26,22,1,"PAH",1,1,8,0)
+(VBECS) to use HL7 order update messages to complete orders created 
+"PKG",26,22,1,"PAH",1,1,9,0)
+through the Blood Bank Accession Area.  The functionality will complete 
+"PKG",26,22,1,"PAH",1,1,10,0)
+the accession for the specified test and the associated Computerized 
+"PKG",26,22,1,"PAH",1,1,11,0)
+Patient Record System (CPRS) order
+"PKG",26,22,1,"PAH",1,1,12,0)
+ 
+"PKG",26,22,1,"PAH",1,1,13,0)
+ROUTINE: LR7OVB
+"PKG",26,22,1,"PAH",1,1,14,0)
+========
+"PKG",26,22,1,"PAH",1,1,15,0)
+ 
+"PKG",26,22,1,"PAH",1,1,16,0)
+OPTIONS: None
+"PKG",26,22,1,"PAH",1,1,17,0)
+========
+"PKG",26,22,1,"PAH",1,1,18,0)
+ 
+"PKG",26,22,1,"PAH",1,1,19,0)
+PROTOCOL: LR7O VBECS RECEIVE
+"PKG",26,22,1,"PAH",1,1,20,0)
+=========
+"PKG",26,22,1,"PAH",1,1,21,0)
+ 
+"PKG",26,22,1,"PAH",1,1,22,0)
+BLOOD BANK CLEARANCE
+"PKG",26,22,1,"PAH",1,1,23,0)
+ 
+"PKG",26,22,1,"PAH",1,1,24,0)
+EFFECT ON BLOOD BANK FUNCTIONAL REQUIREMENTS: Patch LR*5.2*367 does not 
+"PKG",26,22,1,"PAH",1,1,25,0)
+contain any changes to the VISTA BLOOD BANK Software as defined by VHA 
+"PKG",26,22,1,"PAH",1,1,26,0)
+DIRECTIVE 2004-053 titled VISTA BLOOD BANK SOFTWARE VERSION 5.2.
+"PKG",26,22,1,"PAH",1,1,27,0)
+ 
+"PKG",26,22,1,"PAH",1,1,28,0)
+EFFECT ON BLOOD BANK FUNCTIONAL REQUIREMENTS: Patch LR*5.2*367 does not 
+"PKG",26,22,1,"PAH",1,1,29,0)
+alter or modify any software design safeguards or safety critical 
+"PKG",26,22,1,"PAH",1,1,30,0)
+elements functions.
+"PKG",26,22,1,"PAH",1,1,31,0)
+ 
+"PKG",26,22,1,"PAH",1,1,32,0)
+RISK ANALYSIS: Changes made by patch LR*5.2*367 have no effect on Blood 
+"PKG",26,22,1,"PAH",1,1,33,0)
+Bank software functionality, therefore RISK is none.
+"PKG",26,22,1,"PAH",1,1,34,0)
+ 
+"PKG",26,22,1,"PAH",1,1,35,0)
+VALIDATION REQUIREMENTS BY OPTION: Because of the nature of the changes 
+"PKG",26,22,1,"PAH",1,1,36,0)
+made, no specific validation requirements exist as a result of 
+"PKG",26,22,1,"PAH",1,1,37,0)
+installation of this patch.
+"PKG",26,22,1,"PAH",1,1,38,0)
+ 
+"PKG",26,22,1,"PAH",1,1,39,0)
+ 
+"PKG",26,22,1,"PAH",1,1,40,0)
+ASSOCIATED Remedy Tickets: None
+"PKG",26,22,1,"PAH",1,1,41,0)
+==========================
+"PKG",26,22,1,"PAH",1,1,42,0)
+ 
+"PKG",26,22,1,"PAH",1,1,43,0)
+ASSOCIATED NSR/E3R: None
+"PKG",26,22,1,"PAH",1,1,44,0)
+===================
+"PKG",26,22,1,"PAH",1,1,45,0)
+ 
+"PKG",26,22,1,"PAH",1,1,46,0)
+XINDEX Warnings:
+"PKG",26,22,1,"PAH",1,1,47,0)
+================
+"PKG",26,22,1,"PAH",1,1,48,0)
+XINDEX displays the following warning. The referenced routine (^ORMVBEC) 
+"PKG",26,22,1,"PAH",1,1,49,0)
+will be installed with patch OR*3*212. This patch is part of the 
+"PKG",26,22,1,"PAH",1,1,50,0)
+controlled release of VBECS and will be installed as part of the VBECS 
+"PKG",26,22,1,"PAH",1,1,51,0)
+system installation.
+"PKG",26,22,1,"PAH",1,1,52,0)
+ 
+"PKG",26,22,1,"PAH",1,1,53,0)
+LR7OVB   * *  105 Lines,  4318 Bytes, Checksum: B19945746
+"PKG",26,22,1,"PAH",1,1,54,0)
+   COMPLETE+38  F - Reference to routine '^ORMVBEC'. That isn't in this 
+"PKG",26,22,1,"PAH",1,1,55,0)
+UCI.
+"PKG",26,22,1,"PAH",1,1,56,0)
+ 
+"PKG",26,22,1,"PAH",1,1,57,0)
+--- Routine Detail ---
+"PKG",26,22,1,"PAH",1,1,58,0)
+*****   ERRORS & WARNINGS IN LR7OVB   *****
+"PKG",26,22,1,"PAH",1,1,59,0)
+   COMPLETE+38  F - Reference to routine '^ORMVBEC'. That isn't in this 
+"PKG",26,22,1,"PAH",1,1,60,0)
+UCI.
+"PKG",26,22,1,"PAH",1,1,61,0)
+ 
+"PKG",26,22,1,"PAH",1,1,62,0)
+*****   INDEX OF LR7OVB   *****
+"PKG",26,22,1,"PAH",1,1,63,0)
+ 
+"PKG",26,22,1,"PAH",1,1,64,0)
+TEST SITES:
+"PKG",26,22,1,"PAH",1,1,65,0)
+===========
+"PKG",26,22,1,"PAH",1,1,66,0)
+HEARTLAND-EAST HCS
+"PKG",26,22,1,"PAH",1,1,67,0)
+PHILADELPHIA, PA
+"PKG",26,22,1,"PAH",1,1,68,0)
+SAN DIEGO, CA
+"PKG",26,22,1,"PAH",1,1,69,0)
+ 
+"PKG",26,22,1,"PAH",1,1,70,0)
+REQUIRED BUILDS: None
+"PKG",26,22,1,"PAH",1,1,71,0)
+================
+"PKG",26,22,1,"PAH",1,1,72,0)
+ 
+"PKG",26,22,1,"PAH",1,1,73,0)
+Installation Information:
+"PKG",26,22,1,"PAH",1,1,74,0)
+==========================
+"PKG",26,22,1,"PAH",1,1,75,0)
+ 
+"PKG",26,22,1,"PAH",1,1,76,0)
+This patch LR*5.2*367 is being exported as part of the VBECS package 
+"PKG",26,22,1,"PAH",1,1,77,0)
+release. This installation of these patches will be controlled by phase 
+"PKG",26,22,1,"PAH",1,1,78,0)
+release. An Implementation Manager will be assigned to your site and will 
+"PKG",26,22,1,"PAH",1,1,79,0)
+contact your POC for VBECS and will provide your site with the location 
+"PKG",26,22,1,"PAH",1,1,80,0)
+of the KIDS Host Files prior to your scheduled installation date 
+"PKG",26,22,1,"PAH",1,1,81,0)
+Installation Sequence
+"PKG",26,22,1,"PAH",1,1,82,0)
+ 
+"PKG",26,22,1,"PAH",1,1,83,0)
+Installation Sequence 
+"PKG",26,22,1,"PAH",1,1,84,0)
+======================
+"PKG",26,22,1,"PAH",1,1,85,0)
+The files listed below represent the patches will be part of the 
+"PKG",26,22,1,"PAH",1,1,86,0)
+controlled phased release.  Follow the sequence listed below when your 
+"PKG",26,22,1,"PAH",1,1,87,0)
+phased installation occurs.
+"PKG",26,22,1,"PAH",1,1,88,0)
+ 
+"PKG",26,22,1,"PAH",1,1,89,0)
+  1. LR*5.2*335
+"PKG",26,22,1,"PAH",1,1,90,0)
+  2. LR*5.2*367
+"PKG",26,22,1,"PAH",1,1,91,0)
+  3. VBECS Bundle (consisting of VBEC*1*0 and LR*5.2*325)
+"PKG",26,22,1,"PAH",1,1,92,0)
+  4. VBEC*1.0*1
+"PKG",26,22,1,"PAH",1,1,93,0)
+  5. OR*3.0*212 
+"PKG",26,22,1,"PAH",1,1,94,0)
+ 
+"PKG",26,22,1,"PAH",1,1,95,0)
+Documentation Retrieval:
+"PKG",26,22,1,"PAH",1,1,96,0)
+========================
+"PKG",26,22,1,"PAH",1,1,97,0)
+Although this is a controlled, phased released, the user & technical 
+"PKG",26,22,1,"PAH",1,1,98,0)
+documentation will be available to all sites when the patch is officially 
+"PKG",26,22,1,"PAH",1,1,99,0)
+released and the phased implementations start.  This will allow sites the 
+"PKG",26,22,1,"PAH",1,1,100,0)
+opportunity to retrieve the documents before their phased installation 
+"PKG",26,22,1,"PAH",1,1,101,0)
+date
+"PKG",26,22,1,"PAH",1,1,102,0)
+ 
+"PKG",26,22,1,"PAH",1,1,103,0)
+ 
+"PKG",26,22,1,"PAH",1,1,104,0)
+Documentation is available for the entire VBECS package on the 
+"PKG",26,22,1,"PAH",1,1,105,0)
+ANONYMOUS.SOFTWRE directory at one of the following Office of Information 
+"PKG",26,22,1,"PAH",1,1,106,0)
+(OI) Field Offices.  Sites may retrieve documentation either the ".PDF" 
+"PKG",26,22,1,"PAH",1,1,107,0)
+or "DOC" format in one of the following ways:
+"PKG",26,22,1,"PAH",1,1,108,0)
+ 
+"PKG",26,22,1,"PAH",1,1,109,0)
+The preferred method is to FTP the files from :
+"PKG",26,22,1,"PAH",1,1,110,0)
+        download.vista.domain.ext
+"PKG",26,22,1,"PAH",1,1,111,0)
+ 
+"PKG",26,22,1,"PAH",1,1,112,0)
+This transmits files from the first available FTP server.  Sites may also 
+"PKG",26,22,1,"PAH",1,1,113,0)
+elect to retrieve documentation directly from a 
+"PKG",26,22,1,"PAH",1,1,114,0)
+specific server as follows:
+"PKG",26,22,1,"PAH",1,1,115,0)
+       Albany                  DOMAIN.EXT
+"PKG",26,22,1,"PAH",1,1,116,0)
+       Hines                   DOMAIN.EXT
+"PKG",26,22,1,"PAH",1,1,117,0)
+       Salt Lake City          DOMAIN.EXT
+"PKG",26,22,1,"PAH",1,1,118,0)
+ 
+"PKG",26,22,1,"PAH",1,1,119,0)
+NOTE:  The documentation files listed below will be listed in each of the 
+"PKG",26,22,1,"PAH",1,1,120,0)
+VBECS and LR patches that are part of the VBECS package and associate 
+"PKG",26,22,1,"PAH",1,1,121,0)
+patches, they only need to be downloaded once.
+"PKG",26,22,1,"PAH",1,1,122,0)
+ 
+"PKG",26,22,1,"PAH",1,1,123,0)
+File Name:                                  Retrieval format:  Binary
+"PKG",26,22,1,"PAH",1,1,124,0)
+==========                                  ==========================
+"PKG",26,22,1,"PAH",1,1,125,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",26,22,1,"PAH",1,1,126,0)
+ADPAC Guide.doc
+"PKG",26,22,1,"PAH",1,1,127,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",26,22,1,"PAH",1,1,128,0)
+ADPAC Guide.pdf
+"PKG",26,22,1,"PAH",1,1,129,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",26,22,1,"PAH",1,1,130,0)
+Installation and User Guide.doc
+"PKG",26,22,1,"PAH",1,1,131,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",26,22,1,"PAH",1,1,132,0)
+Installation and User Guide.pdf
+"PKG",26,22,1,"PAH",1,1,133,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",26,22,1,"PAH",1,1,134,0)
+Technical Manual.doc
+"PKG",26,22,1,"PAH",1,1,135,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",26,22,1,"PAH",1,1,136,0)
+Technical Manual.pdf
+"PKG",26,22,1,"PAH",1,1,137,0)
+VBECS Data Conversion Recommended Validation Method.xls
+"PKG",26,22,1,"PAH",1,1,138,0)
+VBECS Application Interfacing Support Software Installation and User 
+"PKG",26,22,1,"PAH",1,1,139,0)
+Configuration Guide.doc
+"PKG",26,22,1,"PAH",1,1,140,0)
+VBECS Application Interfacing Support Software Installation and User 
+"PKG",26,22,1,"PAH",1,1,141,0)
+Configuration Guide.pdf
+"PKG",26,22,1,"PAH",1,1,142,0)
+VBECS Implementation Process.xls
+"PKG",26,22,1,"PAH",1,1,143,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"PKG",26,22,1,"PAH",1,1,144,0)
+Guide.doc
+"PKG",26,22,1,"PAH",1,1,145,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"PKG",26,22,1,"PAH",1,1,146,0)
+Guide.pdf
+"PKG",26,22,1,"PAH",1,1,147,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"PKG",26,22,1,"PAH",1,1,148,0)
+Manual-Security Guide.doc
+"PKG",26,22,1,"PAH",1,1,149,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"PKG",26,22,1,"PAH",1,1,150,0)
+Manual-Security Guide.pdf
+"PKG",26,22,1,"PAH",1,1,151,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.doc
+"PKG",26,22,1,"PAH",1,1,152,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.pdf
+"PKG",26,22,1,"PAH",1,1,153,0)
+Known Defects and Anomalies.doc
+"PKG",26,22,1,"PAH",1,1,154,0)
+Known Defects and Anomalies.pdf
+"PKG",26,22,1,"PAH",1,1,155,0)
+ 
+"PKG",26,22,1,"PAH",1,1,156,0)
+Installation Files: 
+"PKG",26,22,1,"PAH",1,1,157,0)
+===================
+"PKG",26,22,1,"PAH",1,1,158,0)
+ 
+"PKG",26,22,1,"PAH",1,1,159,0)
+LR_52_367.KID
+"PKG",26,22,1,"PAH",1,1,160,0)
+ 
+"PKG",26,22,1,"PAH",1,1,161,0)
+ 
+"PKG",26,22,1,"PAH",1,1,162,0)
+The host file LR_52_367 will be made available by the Implementation 
+"PKG",26,22,1,"PAH",1,1,163,0)
+Manager prior to your site's implementation schedule along with 
+"PKG",26,22,1,"PAH",1,1,164,0)
+instruction to retrieve.
+"PKG",26,22,1,"PAH",1,1,165,0)
+ 
+"PKG",26,22,1,"PAH",1,1,166,0)
+Installation Instructions:
+"PKG",26,22,1,"PAH",1,1,167,0)
+==========================
+"PKG",26,22,1,"PAH",1,1,168,0)
+This patch may be loaded with users on the system.
+"PKG",26,22,1,"PAH",1,1,169,0)
+Installation will take less than 5 minutes.
+"PKG",26,22,1,"PAH",1,1,170,0)
+ 
+"PKG",26,22,1,"PAH",1,1,171,0)
+The installation of VBECS and its related patches are being handled as a 
+"PKG",26,22,1,"PAH",1,1,172,0)
+controlled release. The implementation manager will contact you with the 
+"PKG",26,22,1,"PAH",1,1,173,0)
+location of the KIDS Host Files prior to your scheduled installation date.
+"PKG",26,22,1,"PAH",1,1,174,0)
+ 
+"PKG",26,22,1,"PAH",1,1,175,0)
+    1) Use the 'LOAD A DISTRIBUTION' option on the KIDS Installation
+"PKG",26,22,1,"PAH",1,1,176,0)
+       menu. The Host File name is LR_52_367.KID .  Answer YES to the
+"PKG",26,22,1,"PAH",1,1,177,0)
+       question: "Want to Continue with Load? YES//"
+"PKG",26,22,1,"PAH",1,1,178,0)
+    2) From the Kernel Installation and Distribution System Menu,
+"PKG",26,22,1,"PAH",1,1,179,0)
+       select the Installation menu.
+"PKG",26,22,1,"PAH",1,1,180,0)
+ 
+"PKG",26,22,1,"PAH",1,1,181,0)
+    3) From this menu, you may elect to use the following options
+"PKG",26,22,1,"PAH",1,1,182,0)
+       (when prompted for the INSTALL NAME, enter LR*5.2*367).
+"PKG",26,22,1,"PAH",1,1,183,0)
+       a) Backup a Transport Global - this option will create a backup
+"PKG",26,22,1,"PAH",1,1,184,0)
+          message of any routines exported with the patch.  It will NOT
+"PKG",26,22,1,"PAH",1,1,185,0)
+          backup any other changes such as DDs or templates.
+"PKG",26,22,1,"PAH",1,1,186,0)
+       b) Compare Transport Global to Current System - this option will
+"PKG",26,22,1,"PAH",1,1,187,0)
+          allow you to view all changes that will be made when the patch
+"PKG",26,22,1,"PAH",1,1,188,0)
+          is installed.  It compares all components of the patch
+"PKG",26,22,1,"PAH",1,1,189,0)
+          (routines, DDs, templates, etc.).
+"PKG",26,22,1,"PAH",1,1,190,0)
+       c) Verify Checksums in Transport Global - this option will allow
+"PKG",26,22,1,"PAH",1,1,191,0)
+          you to ensure the integrity of the routines that are in the
+"PKG",26,22,1,"PAH",1,1,192,0)
+          transport global.
+"PKG",26,22,1,"PAH",1,1,193,0)
+       d) Print Transport Global - this option will allow you to view the
+"PKG",26,22,1,"PAH",1,1,194,0)
+          components of the KIDS build.
+"PKG",26,22,1,"PAH",1,1,195,0)
+    4) Use the Install Package(s) option and select the package
+"PKG",26,22,1,"PAH",1,1,196,0)
+       LR*5.2*367.
+"PKG",26,22,1,"PAH",1,1,197,0)
+    5) When prompted 'Want KIDS to INHIBIT LOGONs during the install? 
+"PKG",26,22,1,"PAH",1,1,198,0)
+       YES//', respond NO.
+"PKG",26,22,1,"PAH",1,1,199,0)
+    6) When prompted 'Want to DISABLE Scheduled Options, Menu Options, and
+"PKG",26,22,1,"PAH",1,1,200,0)
+       Protocols? YES//', respond NO.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","LR7OVB")
+0^1^B19945746
+"RTN","LR7OVB",1,0)
+LR7OVB ;HOIFO/BNT - Lab Receive HL7 Order Update from VBECS ;2/22/08  21:19
+"RTN","LR7OVB",2,0)
+ ;;5.2;LAB SERVICE;**367**;Sep 27, 1994;Build 12
+"RTN","LR7OVB",3,0)
+ ;Reference to $$FIND1^DIC supported by IA #2051
+"RTN","LR7OVB",4,0)
+ ;Reference to EN^ORMVBEC supported by IA #4982
+"RTN","LR7OVB",5,0)
+ ;Reference to $$HL7TFM^XLFDT supported by IA #10103
+"RTN","LR7OVB",6,0)
+ ;Reference to $$NOW^XLFDT supported by IA #10103
+"RTN","LR7OVB",7,0)
+ ;Reference to $$STRIP^XLFSTR supported by IA #10104
+"RTN","LR7OVB",8,0)
+ ;
+"RTN","LR7OVB",9,0)
+EN1(LRMSG) ; Entry point for LR7O VBECS RECEIVE Protocol
+"RTN","LR7OVB",10,0)
+ N LRSEG,LRSEGID,LRERR,LRACK,ORDCNTRL,LROIEN,LRTST,LRDFN,DFN,LRI,LRJ,ORIFN,ORDSTS,ORDCNTRL
+"RTN","LR7OVB",11,0)
+ S LRQUIT=0
+"RTN","LR7OVB",12,0)
+ S LRI=0 F  S LRI=$O(LRMSG(LRI)) Q:'LRI  D  Q:$D(LRERR)!(LRQUIT)
+"RTN","LR7OVB",13,0)
+ . S LRSEG=LRMSG(LRI),LRSEGID=$P(LRMSG(LRI),HL("FS"))
+"RTN","LR7OVB",14,0)
+ . I $T(@LRSEGID)]"" D @LRSEGID
+"RTN","LR7OVB",15,0)
+ Q:$D(LRERR)!(LRQUIT)
+"RTN","LR7OVB",16,0)
+ ;
+"RTN","LR7OVB",17,0)
+ I 'LRACK D GENACK
+"RTN","LR7OVB",18,0)
+ Q
+"RTN","LR7OVB",19,0)
+ ;
+"RTN","LR7OVB",20,0)
+ORC ; - Process ORC segment
+"RTN","LR7OVB",21,0)
+ S ORDCNTRL=$TR($P(LRSEG,HL("FS"),2),"@","P")
+"RTN","LR7OVB",22,0)
+ I '$L(ORDCNTRL) S LRERR="Invalid control code" D ERROR Q
+"RTN","LR7OVB",23,0)
+ S ORDSTS=$P(LRSEG,HL("FS"),6)
+"RTN","LR7OVB",24,0)
+ I ORDSTS'="CM" D ERROR Q
+"RTN","LR7OVB",25,0)
+ Q
+"RTN","LR7OVB",26,0)
+ ;
+"RTN","LR7OVB",27,0)
+OBR ; -- Process OBR segment
+"RTN","LR7OVB",28,0)
+ S LROIEN=$P($P(LRSEG,HL("FS"),14),";")
+"RTN","LR7OVB",29,0)
+ S LRTST=$$STRIP^XLFSTR($P($P(LRSEG,HL("FS"),14),";",4)," ")
+"RTN","LR7OVB",30,0)
+ I LRTST']"" S LRERR="Missing Lab Test ID" D ERROR Q
+"RTN","LR7OVB",31,0)
+ I LROIEN']"" S LRERR="Missing Lab Test IEN" D ERROR Q
+"RTN","LR7OVB",32,0)
+ ; Complete the Lab Order
+"RTN","LR7OVB",33,0)
+ D COMPLETE(LROIEN,LRTST,LRDFN1)
+"RTN","LR7OVB",34,0)
+ Q
+"RTN","LR7OVB",35,0)
+ ;
+"RTN","LR7OVB",36,0)
+PID ; -- Process PID segment
+"RTN","LR7OVB",37,0)
+ N I,X,PIDLST
+"RTN","LR7OVB",38,0)
+ ; Adding logic to support v2.4 Patient Id List
+"RTN","LR7OVB",39,0)
+ S PIDLST=$P(LRSEG,HL("FS"),4)
+"RTN","LR7OVB",40,0)
+ I PIDLST[$E(HL("ECH")) D
+"RTN","LR7OVB",41,0)
+ . F I=1:1:$L(PIDLST,$E(HL("ECH"),2)) S X=$P(PIDLST,$E(HL("ECH"),2),I) Q:X=""  I $P(X,$E(HL("ECH")),5)["PI" S LRDFN1=+X Q
+"RTN","LR7OVB",42,0)
+ I PIDLST'[$E(HL("ECH")) S LRDFN1=+$P(LRSEG,HL("FS"),4)
+"RTN","LR7OVB",43,0)
+ I '$D(^DPT(LRDFN1,0)) S LRERR="Invalid Patient Id "_LRDFN1 D ERROR Q
+"RTN","LR7OVB",44,0)
+ Q
+"RTN","LR7OVB",45,0)
+ ;
+"RTN","LR7OVB",46,0)
+FMDATE(Y) ; -- Convert HL7 date/time to FM format
+"RTN","LR7OVB",47,0)
+ Q $$HL7TFM^XLFDT(Y)  ;**97
+"RTN","LR7OVB",48,0)
+ ;
+"RTN","LR7OVB",49,0)
+ERROR ;
+"RTN","LR7OVB",50,0)
+ S LRQUIT=1
+"RTN","LR7OVB",51,0)
+ I 'LRACK D GENACK
+"RTN","LR7OVB",52,0)
+ Q
+"RTN","LR7OVB",53,0)
+ ;
+"RTN","LR7OVB",54,0)
+COMPLETE(LROIEN,LRTST,LRDFN1) ; - Complete the accession for this test and the OERR order
+"RTN","LR7OVB",55,0)
+ ; LROIEN = File 69 IEN
+"RTN","LR7OVB",56,0)
+ ; LRTST = File 60 IEN
+"RTN","LR7OVB",57,0)
+ ; LRDFN1 = File 2 IEN
+"RTN","LR7OVB",58,0)
+ N LRA,LRB,LRC,LR0,LRV,LRAA,LRY,LRAD,LRAN,LRODT,LRSN
+"RTN","LR7OVB",59,0)
+ S (LRQUIT,LRW)=0
+"RTN","LR7OVB",60,0)
+ I '$D(LRACK) S LRACK=1
+"RTN","LR7OVB",61,0)
+ I '$D(^LRO(69,"C",LROIEN)) S LRERR="Invalid Lab Order Number" D ERROR Q
+"RTN","LR7OVB",62,0)
+ S LRA=0 F  S LRA=$O(^LRO(69,"C",LROIEN,LRA)) Q:'LRA  D  Q:LRQUIT
+"RTN","LR7OVB",63,0)
+ . S LRB=0 F  S LRB=$O(^LRO(69,"C",LROIEN,LRA,LRB)) Q:'LRB  D
+"RTN","LR7OVB",64,0)
+ . . ; Order has been merged.
+"RTN","LR7OVB",65,0)
+ . . I $P($G(^LRO(69,LRA,1,LRB,1)),"^",7)]"" D ERROR Q
+"RTN","LR7OVB",66,0)
+ . . S LRC=0 F  S LRC=$O(^LRO(69,LRA,1,LRB,2,LRC)) Q:'LRC  D
+"RTN","LR7OVB",67,0)
+ . . . S LR0=^LRO(69,LRA,1,LRB,2,LRC,0) Q:+LR0'=LRTST
+"RTN","LR7OVB",68,0)
+ . . . S LRDFN=$P(^LRO(69,LRA,1,LRB,0),"^",1)
+"RTN","LR7OVB",69,0)
+ . . . I $P($G(^LR(LRDFN,0)),"^",3)'=LRDFN1 S LRERR="Lab Patient on order does not match patient DFN" D ERROR Q
+"RTN","LR7OVB",70,0)
+ . . . S LRAA=$P($G(LR0),"^",4)
+"RTN","LR7OVB",71,0)
+ . . . S LRAD=$P($G(LR0),"^",3)
+"RTN","LR7OVB",72,0)
+ . . . S LRAN=$P($G(LR0),"^",5)
+"RTN","LR7OVB",73,0)
+ . . . S ORIFN=$P($G(LR0),"^",7)
+"RTN","LR7OVB",74,0)
+ . . . S LRK=$$NOW^XLFDT()
+"RTN","LR7OVB",75,0)
+ . . . I '$$FIND1^DIC(68.04,","_LRAN_","_LRAD_","_LRAA_",","QUX",LRTST,,,"LRERR") Q  ;Test not ordered or not accession. Same action either way.
+"RTN","LR7OVB",76,0)
+ . . . S LRV=$$GET1^DIQ(68.04,LRTST_","_LRAN_","_LRAD_","_LRAA_",",4,"I",,"LRERR") Q:LRV  ;Already complete
+"RTN","LR7OVB",77,0)
+ . . . S X=^LRO(68,LRAA,1,LRAD,1,LRAN,0)
+"RTN","LR7OVB",78,0)
+ . . . S LRSVC=$P(X,"^",9)
+"RTN","LR7OVB",79,0)
+ . . . S LRLLOC=$P(X,"^",7)
+"RTN","LR7OVB",80,0)
+ . . . S LRDFN=+X Q:'$D(^LR(LRDFN,0))
+"RTN","LR7OVB",81,0)
+ . . . S LRODT=$P(X,"^",4)
+"RTN","LR7OVB",82,0)
+ . . . S LRSN=$P(X,"^",5)
+"RTN","LR7OVB",83,0)
+ . . . ;S LRLABPOC=$$FIND1^DIC(200,,"BOX","LRLAB,POC",,,"ERR") S:'LRLABPOC LRLABPOC=".5"
+"RTN","LR7OVB",84,0)
+ . . . K DIERR,LRFDA D FDA^DILF(68.04,LRTST_","_LRAN_","_LRAD_","_LRAA_",",4,,LRK,"LRFDA")
+"RTN","LR7OVB",85,0)
+ . . . D FDA^DILF(68.04,LRTST_","_LRAN_","_LRAD_","_LRAA_",",3,,"LRLAB,POC","LRFDA")
+"RTN","LR7OVB",86,0)
+ . . . D FILE^DIE("E","LRFDA","LRERR")
+"RTN","LR7OVB",87,0)
+ . . . S Y=^LRO(68,LRAA,1,LRAD,1,LRAN,0),Y(4)=$P(Y,"^",4),Y(5)=$P(Y,"^",5)
+"RTN","LR7OVB",88,0)
+ . . . ;Y(4)=Date Ordered, Y(5)=Specimen Number
+"RTN","LR7OVB",89,0)
+ . . . I Y(4),Y(5),$D(^LRO(69,Y(4),1,Y(5),3)) K DIERR,LRFDA D FDA^DILF(69.01,Y(5)_","_Y(4)_",",21,,LRK,"LRFDA") Q:$D(DIERR)  D FILE^DIE("E","LRFDA","LRERR")
+"RTN","LR7OVB",90,0)
+ . . . S:'$D(^LRO(68,LRAA,1,LRAD,1,LRAN,4,LRTST,1,0)) ^(0)="^68.14P^^"
+"RTN","LR7OVB",91,0)
+ . . . S ORDCNTRL="SC",ORDSTS="CM"
+"RTN","LR7OVB",92,0)
+ . . . D EN^ORMVBEC
+"RTN","LR7OVB",93,0)
+ . . . Q
+"RTN","LR7OVB",94,0)
+ ;
+"RTN","LR7OVB",95,0)
+ Q
+"RTN","LR7OVB",96,0)
+ ;
+"RTN","LR7OVB",97,0)
+GENACK ; -- Send an acknowldegement to original message
+"RTN","LR7OVB",98,0)
+ ;Q:$G(VBTEST)
+"RTN","LR7OVB",99,0)
+ S MSA1="AA"
+"RTN","LR7OVB",100,0)
+ I $D(LRERR) S MSA1="AR"
+"RTN","LR7OVB",101,0)
+ S HLA("HLA",1)="MSA"_HL("FS")_MSA1_HL("FS")_HL("MID")_$S($D(LRERR):HL("FS")_LRERR,1:"")
+"RTN","LR7OVB",102,0)
+ S HLEID=HL("EID"),HLEIDS=HL("EIDS")
+"RTN","LR7OVB",103,0)
+ D GENACK^HLMA1(HL("EID"),HLMTIENS,HL("EIDS"),"LM",1,.RESULT)
+"RTN","LR7OVB",104,0)
+ K MSA
+"RTN","LR7OVB",105,0)
+ Q
+"VER")
+8.0^22.0
+**END**
+**END**
