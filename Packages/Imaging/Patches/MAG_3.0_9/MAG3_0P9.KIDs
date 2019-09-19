@@ -1,0 +1,3850 @@
+KIDS Distribution saved on Mar 24, 2003@10:40:49
+VistA Imaging v3.0 - patch 9 3/12/03 1:57pm
+**KIDS**:MAG*3.0*9^
+
+**INSTALL NAME**
+MAG*3.0*9
+"BLD",2068,0)
+MAG*3.0*9^IMAGING^0^3030324^
+"BLD",2068,1,0)
+^^13^13^3030312^
+"BLD",2068,1,1,0)
+ 
+"BLD",2068,1,2,0)
+Routing application for VistA Imaging 3.0
+"BLD",2068,1,3,0)
+ 
+"BLD",2068,1,4,0)
+Checksums:
+"BLD",2068,1,5,0)
+ 
+"BLD",2068,1,6,0)
+MAGBRTLD  value = 6108978
+"BLD",2068,1,7,0)
+MAGBRTUT  value = 7369522
+"BLD",2068,1,8,0)
+MAGIPOS9  value = 3409921
+"BLD",2068,1,9,0)
+MAGJMN1   value = 11228518
+"BLD",2068,1,10,0)
+MAGJRT    value = 11669345
+"BLD",2068,1,11,0)
+MAGJUTL3  value = 8695865
+"BLD",2068,1,12,0)
+ 
+"BLD",2068,1,13,0)
+Please note that routine MAGIPOS9 is deleted after the KIDs installation.
+"BLD",2068,4,0)
+^9.64PA^2005^9
+"BLD",2068,4,2005,0)
+2005
+"BLD",2068,4,2005,2,0)
+^9.641^2005.0106^1
+"BLD",2068,4,2005,2,2005.0106,0)
+ROUTING TIMESTAMP  (sub-file)
+"BLD",2068,4,2005,2,2005.0106,1,0)
+^9.6411^^
+"BLD",2068,4,2005,222)
+y^y^p^^^^n
+"BLD",2068,4,2005.2,0)
+2005.2
+"BLD",2068,4,2005.2,2,0)
+^9.641^2005.2^1
+"BLD",2068,4,2005.2,2,2005.2,0)
+NETWORK LOCATION  (File-top level)
+"BLD",2068,4,2005.2,2,2005.2,1,0)
+^9.6411^5^2
+"BLD",2068,4,2005.2,2,2005.2,1,1,0)
+PHYSICAL REFERENCE
+"BLD",2068,4,2005.2,2,2005.2,1,5,0)
+OPERATIONAL STATUS
+"BLD",2068,4,2005.2,222)
+y^y^p^^^^n
+"BLD",2068,4,2006.035,0)
+2006.035
+"BLD",2068,4,2006.035,222)
+y^y^f^^^^n
+"BLD",2068,4,2006.036,0)
+2006.036
+"BLD",2068,4,2006.036,222)
+y^y^f^^^^n
+"BLD",2068,4,2006.563,0)
+2006.563
+"BLD",2068,4,2006.563,2,0)
+^9.641^2006.563^1
+"BLD",2068,4,2006.563,2,2006.563,0)
+DICOM GATEWAY PARAMETER  (File-top level)
+"BLD",2068,4,2006.563,2,2006.563,1,0)
+^9.6411^33^7
+"BLD",2068,4,2006.563,2,2006.563,1,17,0)
+PLACE
+"BLD",2068,4,2006.563,2,2006.563,1,28,0)
+LOCATION NAME
+"BLD",2068,4,2006.563,2,2006.563,1,29,0)
+ACCESS CODE
+"BLD",2068,4,2006.563,2,2006.563,1,30,0)
+VERIFY CODE
+"BLD",2068,4,2006.563,2,2006.563,1,31,0)
+READ ONLY ACCESS
+"BLD",2068,4,2006.563,2,2006.563,1,32,0)
+PROGRAMMER ACCESS
+"BLD",2068,4,2006.563,2,2006.563,1,33,0)
+EVALUATOR
+"BLD",2068,4,2006.563,222)
+y^y^p^^^^n
+"BLD",2068,4,2006.59,0)
+2006.59
+"BLD",2068,4,2006.59,222)
+y^y^f^^^^n
+"BLD",2068,4,2006.5906,0)
+2006.5906
+"BLD",2068,4,2006.5906,222)
+y^y^f^^^^n
+"BLD",2068,4,2006.596,0)
+2006.596
+"BLD",2068,4,2006.596,222)
+y^y^f^^^^n
+"BLD",2068,4,2006.69,0)
+2006.69
+"BLD",2068,4,2006.69,2,0)
+^9.641^2006.69^1
+"BLD",2068,4,2006.69,2,2006.69,0)
+MAG VISTARAD SITE PARAMETERS  (File-top level)
+"BLD",2068,4,2006.69,2,2006.69,1,0)
+^9.6411^9^2
+"BLD",2068,4,2006.69,2,2006.69,1,8,0)
+REMOTE LIST ONLY REMOTE CACHE?
+"BLD",2068,4,2006.69,2,2006.69,1,9,0)
+SITE SENDS TO REMOTE CACHE
+"BLD",2068,4,2006.69,222)
+y^y^p^^^^n
+"BLD",2068,4,"APDD",2005,2005.0106)
+
+"BLD",2068,4,"APDD",2005.2,2005.2)
+
+"BLD",2068,4,"APDD",2005.2,2005.2,1)
+
+"BLD",2068,4,"APDD",2005.2,2005.2,5)
+
+"BLD",2068,4,"APDD",2006.563,2006.563)
+
+"BLD",2068,4,"APDD",2006.563,2006.563,17)
+
+"BLD",2068,4,"APDD",2006.563,2006.563,28)
+
+"BLD",2068,4,"APDD",2006.563,2006.563,29)
+
+"BLD",2068,4,"APDD",2006.563,2006.563,30)
+
+"BLD",2068,4,"APDD",2006.563,2006.563,31)
+
+"BLD",2068,4,"APDD",2006.563,2006.563,32)
+
+"BLD",2068,4,"APDD",2006.563,2006.563,33)
+
+"BLD",2068,4,"APDD",2006.69,2006.69)
+
+"BLD",2068,4,"APDD",2006.69,2006.69,8)
+
+"BLD",2068,4,"APDD",2006.69,2006.69,9)
+
+"BLD",2068,4,"B",2005,2005)
+
+"BLD",2068,4,"B",2005.2,2005.2)
+
+"BLD",2068,4,"B",2006.035,2006.035)
+
+"BLD",2068,4,"B",2006.036,2006.036)
+
+"BLD",2068,4,"B",2006.563,2006.563)
+
+"BLD",2068,4,"B",2006.59,2006.59)
+
+"BLD",2068,4,"B",2006.5906,2006.5906)
+
+"BLD",2068,4,"B",2006.596,2006.596)
+
+"BLD",2068,4,"B",2006.69,2006.69)
+
+"BLD",2068,"ABNS",0)
+^9.66A^^
+"BLD",2068,"ABPKG")
+y^y
+"BLD",2068,"INI")
+PRE^MAGIPOS9
+"BLD",2068,"INID")
+^y
+"BLD",2068,"INIT")
+POST^MAGIPOS9
+"BLD",2068,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",2068,"KRN",.4,0)
+.4
+"BLD",2068,"KRN",.401,0)
+.401
+"BLD",2068,"KRN",.402,0)
+.402
+"BLD",2068,"KRN",.403,0)
+.403
+"BLD",2068,"KRN",.5,0)
+.5
+"BLD",2068,"KRN",.84,0)
+.84
+"BLD",2068,"KRN",3.6,0)
+3.6
+"BLD",2068,"KRN",3.8,0)
+3.8
+"BLD",2068,"KRN",9.2,0)
+9.2
+"BLD",2068,"KRN",9.8,0)
+9.8
+"BLD",2068,"KRN",9.8,"NM",0)
+^9.68A^7^7
+"BLD",2068,"KRN",9.8,"NM",1,0)
+MAGJMN1^^0^B37125508
+"BLD",2068,"KRN",9.8,"NM",2,0)
+MAGJRT^^0^B43910591
+"BLD",2068,"KRN",9.8,"NM",3,0)
+MAGJUTL3^^0^B33438656
+"BLD",2068,"KRN",9.8,"NM",4,0)
+MAGBRTAQ^^1^
+"BLD",2068,"KRN",9.8,"NM",5,0)
+MAGBRTLD^^0^B12028973
+"BLD",2068,"KRN",9.8,"NM",6,0)
+MAGBRTUT^^0^B22478736
+"BLD",2068,"KRN",9.8,"NM",7,0)
+MAGDMFB^^1^
+"BLD",2068,"KRN",9.8,"NM","B","MAGBRTAQ",4)
+
+"BLD",2068,"KRN",9.8,"NM","B","MAGBRTLD",5)
+
+"BLD",2068,"KRN",9.8,"NM","B","MAGBRTUT",6)
+
+"BLD",2068,"KRN",9.8,"NM","B","MAGDMFB",7)
+
+"BLD",2068,"KRN",9.8,"NM","B","MAGJMN1",1)
+
+"BLD",2068,"KRN",9.8,"NM","B","MAGJRT",2)
+
+"BLD",2068,"KRN",9.8,"NM","B","MAGJUTL3",3)
+
+"BLD",2068,"KRN",19,0)
+19
+"BLD",2068,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",2068,"KRN",19.1,0)
+19.1
+"BLD",2068,"KRN",19.1,"NM",0)
+^9.68A^1^1
+"BLD",2068,"KRN",19.1,"NM",1,0)
+MAGJ DEMAND ROUTE^^0
+"BLD",2068,"KRN",19.1,"NM","B","MAGJ DEMAND ROUTE",1)
+
+"BLD",2068,"KRN",101,0)
+101
+"BLD",2068,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",2068,"KRN",409.61,0)
+409.61
+"BLD",2068,"KRN",771,0)
+771
+"BLD",2068,"KRN",870,0)
+870
+"BLD",2068,"KRN",8989.51,0)
+8989.51
+"BLD",2068,"KRN",8989.52,0)
+8989.52
+"BLD",2068,"KRN",8994,0)
+8994
+"BLD",2068,"KRN","B",.4,.4)
+
+"BLD",2068,"KRN","B",.401,.401)
+
+"BLD",2068,"KRN","B",.402,.402)
+
+"BLD",2068,"KRN","B",.403,.403)
+
+"BLD",2068,"KRN","B",.5,.5)
+
+"BLD",2068,"KRN","B",.84,.84)
+
+"BLD",2068,"KRN","B",3.6,3.6)
+
+"BLD",2068,"KRN","B",3.8,3.8)
+
+"BLD",2068,"KRN","B",9.2,9.2)
+
+"BLD",2068,"KRN","B",9.8,9.8)
+
+"BLD",2068,"KRN","B",19,19)
+
+"BLD",2068,"KRN","B",19.1,19.1)
+
+"BLD",2068,"KRN","B",101,101)
+
+"BLD",2068,"KRN","B",409.61,409.61)
+
+"BLD",2068,"KRN","B",771,771)
+
+"BLD",2068,"KRN","B",870,870)
+
+"BLD",2068,"KRN","B",8989.51,8989.51)
+
+"BLD",2068,"KRN","B",8989.52,8989.52)
+
+"BLD",2068,"KRN","B",8994,8994)
+
+"BLD",2068,"QUES",0)
+^9.62^^
+"BLD",2068,"REQB",0)
+^9.611^1^1
+"BLD",2068,"REQB",1,0)
+MAG*3.0*16^2
+"BLD",2068,"REQB","B","MAG*3.0*16",1)
+
+"FIA",2005)
+IMAGE
+"FIA",2005,0)
+^MAG(2005,
+"FIA",2005,0,0)
+2005I
+"FIA",2005,0,1)
+y^y^p^^^^n
+"FIA",2005,0,10)
+
+"FIA",2005,0,11)
+
+"FIA",2005,0,"RLRO")
+
+"FIA",2005,0,"VR")
+3.0^MAG
+"FIA",2005,2005)
+1
+"FIA",2005,2005,106)
+
+"FIA",2005,2005.0106)
+0
+"FIA",2005.2)
+NETWORK LOCATION
+"FIA",2005.2,0)
+^MAG(2005.2,
+"FIA",2005.2,0,0)
+2005.2I
+"FIA",2005.2,0,1)
+y^y^p^^^^n
+"FIA",2005.2,0,10)
+
+"FIA",2005.2,0,11)
+
+"FIA",2005.2,0,"RLRO")
+
+"FIA",2005.2,0,"VR")
+3.0^MAG
+"FIA",2005.2,2005.2)
+1
+"FIA",2005.2,2005.2,1)
+
+"FIA",2005.2,2005.2,5)
+
+"FIA",2006.035)
+SEND QUEUE
+"FIA",2006.035,0)
+^MAGQUEUE(2006.035,
+"FIA",2006.035,0,0)
+2006.035
+"FIA",2006.035,0,1)
+y^y^f^^^^n
+"FIA",2006.035,0,10)
+
+"FIA",2006.035,0,11)
+
+"FIA",2006.035,0,"RLRO")
+
+"FIA",2006.035,0,"VR")
+3.0^MAG
+"FIA",2006.035,2006.035)
+0
+"FIA",2006.036)
+ROUTING STATISTICS
+"FIA",2006.036,0)
+^MAGQUEUE(2006.036,
+"FIA",2006.036,0,0)
+2006.036
+"FIA",2006.036,0,1)
+y^y^f^^^^n
+"FIA",2006.036,0,10)
+
+"FIA",2006.036,0,11)
+
+"FIA",2006.036,0,"RLRO")
+
+"FIA",2006.036,0,"VR")
+3.0^MAG
+"FIA",2006.036,2006.036)
+0
+"FIA",2006.036,2006.03601)
+0
+"FIA",2006.563)
+DICOM GATEWAY PARAMETER
+"FIA",2006.563,0)
+^MAGDICOM(2006.563,
+"FIA",2006.563,0,0)
+2006.563
+"FIA",2006.563,0,1)
+y^y^p^^^^n
+"FIA",2006.563,0,10)
+
+"FIA",2006.563,0,11)
+
+"FIA",2006.563,0,"RLRO")
+
+"FIA",2006.563,0,"VR")
+3.0^MAG
+"FIA",2006.563,2006.563)
+1
+"FIA",2006.563,2006.563,17)
+
+"FIA",2006.563,2006.563,28)
+
+"FIA",2006.563,2006.563,29)
+
+"FIA",2006.563,2006.563,30)
+
+"FIA",2006.563,2006.563,31)
+
+"FIA",2006.563,2006.563,32)
+
+"FIA",2006.563,2006.563,33)
+
+"FIA",2006.59)
+ROUTING RULE
+"FIA",2006.59,0)
+^MAGDICOM(2006.59,
+"FIA",2006.59,0,0)
+2006.59
+"FIA",2006.59,0,1)
+y^y^f^^^^n
+"FIA",2006.59,0,10)
+
+"FIA",2006.59,0,11)
+
+"FIA",2006.59,0,"RLRO")
+
+"FIA",2006.59,0,"VR")
+3.0^MAG
+"FIA",2006.59,2006.59)
+0
+"FIA",2006.59,2006.5901)
+0
+"FIA",2006.59,2006.5902)
+0
+"FIA",2006.59,2006.5903)
+0
+"FIA",2006.59,2006.5904)
+0
+"FIA",2006.59,2006.5905)
+0
+"FIA",2006.5906)
+ROUTE LOAD BALANCE
+"FIA",2006.5906,0)
+^MAGDICOM(2006.5906,
+"FIA",2006.5906,0,0)
+2006.5906P
+"FIA",2006.5906,0,1)
+y^y^f^^^^n
+"FIA",2006.5906,0,10)
+
+"FIA",2006.5906,0,11)
+
+"FIA",2006.5906,0,"RLRO")
+
+"FIA",2006.5906,0,"VR")
+3.0^MAG
+"FIA",2006.5906,2006.5906)
+0
+"FIA",2006.5906,2006.59061)
+0
+"FIA",2006.596)
+ACTION QUEUE STATUS
+"FIA",2006.596,0)
+^MAGDICOM(2006.596,
+"FIA",2006.596,0,0)
+2006.596S
+"FIA",2006.596,0,1)
+y^y^f^^^^n
+"FIA",2006.596,0,10)
+
+"FIA",2006.596,0,11)
+
+"FIA",2006.596,0,"RLRO")
+
+"FIA",2006.596,0,"VR")
+3.0^MAG
+"FIA",2006.596,2006.596)
+0
+"FIA",2006.596,2006.5961)
+0
+"FIA",2006.69)
+MAG VISTARAD SITE PARAMETERS
+"FIA",2006.69,0)
+^MAG(2006.69,
+"FIA",2006.69,0,0)
+2006.69
+"FIA",2006.69,0,1)
+y^y^p^^^^n
+"FIA",2006.69,0,10)
+
+"FIA",2006.69,0,11)
+
+"FIA",2006.69,0,"RLRO")
+
+"FIA",2006.69,0,"VR")
+3.0^MAG
+"FIA",2006.69,2006.69)
+1
+"FIA",2006.69,2006.69,8)
+
+"FIA",2006.69,2006.69,9)
+
+"INI")
+PRE^MAGIPOS9
+"INIT")
+POST^MAGIPOS9
+"IX",2005,2005,"ROUTE",0)
+2005^ROUTE^Which files were routed to where^R^^R^IR^W^2005.0106^^^^^LS
+"IX",2005,2005,"ROUTE",.1,0)
+^^4^4^3000307^
+"IX",2005,2005,"ROUTE",.1,1,0)
+This cross reference keeps track of which files were routed
+"IX",2005,2005,"ROUTE",.1,2,0)
+to which remote locations.
+"IX",2005,2005,"ROUTE",.1,3,0)
+This cross reference is automatically cleaned up when entries are
+"IX",2005,2005,"ROUTE",.1,4,0)
+removed from this multiple during the daily purge for the remote location.
+"IX",2005,2005,"ROUTE",1)
+S ^MAG(2005,"ROUTE",X(1),X(2),DA(1),DA)=""
+"IX",2005,2005,"ROUTE",2)
+K ^MAG(2005,"ROUTE",X(1),X(2),DA(1),DA)
+"IX",2005,2005,"ROUTE",2.5)
+K ^MAG(2005,"ROUTE")
+"IX",2005,2005,"ROUTE",11.1,0)
+^.114IA^2^2
+"IX",2005,2005,"ROUTE",11.1,1,0)
+1^F^2005.0106^2^^1^F
+"IX",2005,2005,"ROUTE",11.1,1,3)
+
+"IX",2005,2005,"ROUTE",11.1,2,0)
+2^F^2005.0106^.01^^2^F
+"IX",2005,2005,"ROUTE",11.1,2,3)
+
+"IX",2005.2,2005.2,"C",0)
+2005.2^C^PHYSICAL REFERENCE and OPERATIONAL STATUS^MU^^R^IR^I^2005.2^^^^^LS
+"IX",2005.2,2005.2,"C",.1,0)
+^^1^1^3030220^
+"IX",2005.2,2005.2,"C",.1,1,0)
+This cross reference keeps track of which devices are on (or off) line.
+"IX",2005.2,2005.2,"C",1)
+S ^MAG(2005.2,"C",X(1),X(2),DA)=""
+"IX",2005.2,2005.2,"C",2)
+K ^MAG(2005.2,"C",X(1),X(2),DA)
+"IX",2005.2,2005.2,"C",2.5)
+K ^MAG(2005.2,"C")
+"IX",2005.2,2005.2,"C",11.1,0)
+^.114IA^2^2
+"IX",2005.2,2005.2,"C",11.1,1,0)
+1^F^2005.2^1^63^1^F
+"IX",2005.2,2005.2,"C",11.1,2,0)
+2^F^2005.2^5^^2^F
+"IX",2006.035,2006.035,"DEST",0)
+2006.035^DEST^Destination, status, and file type^R^^R^IR^I^2006.035^^^^^LS
+"IX",2006.035,2006.035,"DEST",.1,0)
+^^2^2^3020312^
+"IX",2006.035,2006.035,"DEST",.1,1,0)
+This cross reference keeps track of which images are
+"IX",2006.035,2006.035,"DEST",.1,2,0)
+slated to go where.
+"IX",2006.035,2006.035,"DEST",1)
+S ^MAGQUEUE(2006.035,"DEST",X(1),X(2),X(3),X(4),DA)=""
+"IX",2006.035,2006.035,"DEST",2)
+K ^MAGQUEUE(2006.035,"DEST",X(1),X(2),X(3),X(4),DA)
+"IX",2006.035,2006.035,"DEST",2.5)
+K ^MAGQUEUE(2006.035,"DEST")
+"IX",2006.035,2006.035,"DEST",11.1,0)
+^.114IA^4^4
+"IX",2006.035,2006.035,"DEST",11.1,1,0)
+1^F^2006.035^1^^1^F
+"IX",2006.035,2006.035,"DEST",11.1,1,3)
+
+"IX",2006.035,2006.035,"DEST",11.1,2,0)
+2^F^2006.035^3^^2^F
+"IX",2006.035,2006.035,"DEST",11.1,2,3)
+
+"IX",2006.035,2006.035,"DEST",11.1,3,0)
+3^F^2006.035^.01^^3^F
+"IX",2006.035,2006.035,"DEST",11.1,3,3)
+
+"IX",2006.035,2006.035,"DEST",11.1,4,0)
+4^F^2006.035^2^^4^F
+"IX",2006.035,2006.035,"DEST",11.1,4,3)
+
+"IX",2006.035,2006.035,"STS",0)
+2006.035^STS^Status, priority and destination^R^^R^IR^I^2006.035^^^^^LS
+"IX",2006.035,2006.035,"STS",.1,0)
+^^2^2^3020312^
+"IX",2006.035,2006.035,"STS",.1,1,0)
+This cross reference keeps track of which files are to be sent where and
+"IX",2006.035,2006.035,"STS",.1,2,0)
+in which order.
+"IX",2006.035,2006.035,"STS",1)
+S ^MAGQUEUE(2006.035,"STS",X(1),X(2),X(3),X(4),DA)=""
+"IX",2006.035,2006.035,"STS",2)
+K ^MAGQUEUE(2006.035,"STS",X(1),X(2),X(3),X(4),DA)
+"IX",2006.035,2006.035,"STS",2.5)
+K ^MAGQUEUE(2006.035,"STS")
+"IX",2006.035,2006.035,"STS",11.1,0)
+^.114IA^4^4
+"IX",2006.035,2006.035,"STS",11.1,1,0)
+1^F^2006.035^8^^1^F
+"IX",2006.035,2006.035,"STS",11.1,2,0)
+2^F^2006.035^3^^2^F
+"IX",2006.035,2006.035,"STS",11.1,3,0)
+3^F^2006.035^4^^3^F
+"IX",2006.035,2006.035,"STS",11.1,4,0)
+4^F^2006.035^1^^4^F
+"IX",2006.5906,2006.5906,"D",0)
+2006.5906^D^Daily track-record for load balancer^R^^R^IR^W^2006.59061^^^^^LS
+"IX",2006.5906,2006.5906,"D",.1,0)
+^^12^12^3020405^
+"IX",2006.5906,2006.5906,"D",.1,1,0)
+This cross reference keeps track of where studies have been slated
+"IX",2006.5906,2006.5906,"D",.1,2,0)
+for transmission.
+"IX",2006.5906,2006.5906,"D",.1,3,0)
+ 
+"IX",2006.5906,2006.5906,"D",.1,4,0)
+The subscripts in this cross-reference are:
+"IX",2006.5906,2006.5906,"D",.1,5,0)
+    date, destination, routing-rule, image(parent)
+"IX",2006.5906,2006.5906,"D",.1,6,0)
+ 
+"IX",2006.5906,2006.5906,"D",.1,7,0)
+This cross-reference is used to clean up any records that are more
+"IX",2006.5906,2006.5906,"D",.1,8,0)
+than 1 day old.
+"IX",2006.5906,2006.5906,"D",.1,9,0)
+ 
+"IX",2006.5906,2006.5906,"D",.1,10,0)
+For entries that belong to the current day, this cross-reference
+"IX",2006.5906,2006.5906,"D",.1,11,0)
+is used to decide the selection of the next destination that
+"IX",2006.5906,2006.5906,"D",.1,12,0)
+the load-balancer chooses for the transmission of a new study.
+"IX",2006.5906,2006.5906,"D",1)
+S ^MAGDICOM(2006.5906,"D",X(1),X(2),DA(1),DA)=""
+"IX",2006.5906,2006.5906,"D",2)
+K ^MAGDICOM(2006.5906,"D",X(1),X(2),DA(1),DA)
+"IX",2006.5906,2006.5906,"D",2.5)
+K ^MAGDICOM(2006.5906,"D")
+"IX",2006.5906,2006.5906,"D",11.1,0)
+^.114IA^2^2
+"IX",2006.5906,2006.5906,"D",11.1,1,0)
+1^F^2006.59061^1^^1^F
+"IX",2006.5906,2006.5906,"D",11.1,1,3)
+
+"IX",2006.5906,2006.5906,"D",11.1,2,0)
+2^F^2006.59061^2^^2^F
+"IX",2006.5906,2006.5906,"D",11.1,2,3)
+
+"KRN",19.1,786,-1)
+0^1
+"KRN",19.1,786,0)
+MAGJ DEMAND ROUTE^Allow Demand Routing of images
+"KRN",19.1,786,1,0)
+^^3^3^3020819^
+"KRN",19.1,786,1,1,0)
+Allow the user to queue exam images to be routed on demand.
+"KRN",19.1,786,1,2,0)
+ This functionality exists in the VistaRad Exam List, and only for sites that
+"KRN",19.1,786,1,3,0)
+ have been configured for remote routing of images.
+"MBREQ")
+0
+"ORD",0,9.8)
+9.8;;1;RTNF^XPDTA;RTNE^XPDTA
+"ORD",0,9.8,0)
+ROUTINE
+"ORD",3,19.1)
+19.1;3;1;;KEY^XPDTA1;;;;;KEYDEL^XPDIA1
+"ORD",3,19.1,0)
+SECURITY KEY
+"PKG",474,-1)
+1^1
+"PKG",474,0)
+IMAGING^MAG^VistA Imaging
+"PKG",474,20,0)
+^9.402P^^
+"PKG",474,22,0)
+^9.49I^1^1
+"PKG",474,22,1,0)
+3.0^3020319^3020327^133
+"PKG",474,22,1,"PAH",1,0)
+9^3030324^133
+"PKG",474,22,1,"PAH",1,1,0)
+^^13^13^3030324
+"PKG",474,22,1,"PAH",1,1,1,0)
+ 
+"PKG",474,22,1,"PAH",1,1,2,0)
+Routing application for VistA Imaging 3.0
+"PKG",474,22,1,"PAH",1,1,3,0)
+ 
+"PKG",474,22,1,"PAH",1,1,4,0)
+Checksums:
+"PKG",474,22,1,"PAH",1,1,5,0)
+ 
+"PKG",474,22,1,"PAH",1,1,6,0)
+MAGBRTLD  value = 6108978
+"PKG",474,22,1,"PAH",1,1,7,0)
+MAGBRTUT  value = 7369522
+"PKG",474,22,1,"PAH",1,1,8,0)
+MAGIPOS9  value = 3409921
+"PKG",474,22,1,"PAH",1,1,9,0)
+MAGJMN1   value = 11228518
+"PKG",474,22,1,"PAH",1,1,10,0)
+MAGJRT    value = 11669345
+"PKG",474,22,1,"PAH",1,1,11,0)
+MAGJUTL3  value = 8695865
+"PKG",474,22,1,"PAH",1,1,12,0)
+ 
+"PKG",474,22,1,"PAH",1,1,13,0)
+Please note that routine MAGIPOS9 is deleted after the KIDs installation.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+8
+"RTN","MAGBRTAQ")
+1^4^B0
+"RTN","MAGBRTLD")
+0^5^B12036323
+"RTN","MAGBRTLD",1,0)
+MAGBRTLD ;WOIFO/EdM - List of destinations ; [ 04/15/2002  12:51 ]
+"RTN","MAGBRTLD",2,0)
+ ;;3.0;IMAGING;**9**;Mar 12, 2003
+"RTN","MAGBRTLD",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTLD",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGBRTLD",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGBRTLD",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGBRTLD",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGBRTLD",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGBRTLD",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGBRTLD",10,0)
+ ;; |                                                               |
+"RTN","MAGBRTLD",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGBRTLD",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGBRTLD",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGBRTLD",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGBRTLD",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGBRTLD",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTLD",17,0)
+ ;;
+"RTN","MAGBRTLD",18,0)
+ Q
+"RTN","MAGBRTLD",19,0)
+ ;
+"RTN","MAGBRTLD",20,0)
+LIST(TO,LIST) N DEST,N,ORI,PRI,X
+"RTN","MAGBRTLD",21,0)
+ S TO=$$UPNOPU(TO),N=0 K LIST
+"RTN","MAGBRTLD",22,0)
+ ;
+"RTN","MAGBRTLD",23,0)
+ S ORI="" F  S ORI=$O(^MAGQUEUE(2006.035,"STS",ORI)) Q:ORI=""  D
+"RTN","MAGBRTLD",24,0)
+ . S PRI="" F  S PRI=$O(^MAGQUEUE(2006.035,"STS",ORI,"SENT",PRI)) Q:PRI=""  D
+"RTN","MAGBRTLD",25,0)
+ . . S DEST="" F  S DEST=$O(^MAGQUEUE(2006.035,"STS",ORI,"SENT",PRI,DEST)) Q:DEST=""  D
+"RTN","MAGBRTLD",26,0)
+ . . . S DEST(DEST,ORI)=""
+"RTN","MAGBRTLD",27,0)
+ . . . Q
+"RTN","MAGBRTLD",28,0)
+ . . Q
+"RTN","MAGBRTLD",29,0)
+ . Q
+"RTN","MAGBRTLD",30,0)
+ ;
+"RTN","MAGBRTLD",31,0)
+ S DEST="" F  S DEST=$O(DEST(DEST)) Q:DEST=""  D
+"RTN","MAGBRTLD",32,0)
+ . N PW
+"RTN","MAGBRTLD",33,0)
+ . S PW=$P($G(^MAG(2005.2,DEST,2)),"^",1,2)
+"RTN","MAGBRTLD",34,0)
+ . S $P(PW,"^",2)=$$DECRYP^ROUTINE($P(PW,"^",2))
+"RTN","MAGBRTLD",35,0)
+ . S X=$G(^MAG(2005.2,DEST,0))
+"RTN","MAGBRTLD",36,0)
+ . Q:$$UPNOPU($P(X,"^",1))'[TO
+"RTN","MAGBRTLD",37,0)
+ . S N=N+1,LIST(N)=$P(X,"^",2)_"^"_$P($G(^MAG(2005.2,DEST,4)),"^",2)_"^"_$P(X,"^",8)_"^"_PW_"^"_$P($G(^MAG(2005.2,DEST,3)),"^",5)_"^"_DEST
+"RTN","MAGBRTLD",38,0)
+ . Q
+"RTN","MAGBRTLD",39,0)
+ S LIST=N
+"RTN","MAGBRTLD",40,0)
+ Q
+"RTN","MAGBRTLD",41,0)
+ ;
+"RTN","MAGBRTLD",42,0)
+AVERAGE() N A,D0,D1,N,P,X
+"RTN","MAGBRTLD",43,0)
+ S (A,N)=0
+"RTN","MAGBRTLD",44,0)
+ S D0=0 F  S D0=$O(^MAGQUEUE(2006.036,D0)) Q:'D0  D
+"RTN","MAGBRTLD",45,0)
+ . S N=N+1
+"RTN","MAGBRTLD",46,0)
+ . S D1=0 F  S D1=$O(^MAGQUEUE(2006.036,D0,1,D1)) Q:'D1  D
+"RTN","MAGBRTLD",47,0)
+ . . S X=$G(^MAGQUEUE(2006.036,D0,1,D1,0)) Q:$P(X,"^",6)'["Duration"
+"RTN","MAGBRTLD",48,0)
+ . . F P=1:1:4 S A=A+$P(X,"^",P)
+"RTN","MAGBRTLD",49,0)
+ . . Q
+"RTN","MAGBRTLD",50,0)
+ . Q
+"RTN","MAGBRTLD",51,0)
+ Q A/$S(N:N,1:1)
+"RTN","MAGBRTLD",52,0)
+ ;
+"RTN","MAGBRTLD",53,0)
+UPNOPU(X) Q $TR(X,"abcdefghijklmnopqrstuvwxyz !""#$%&'()*+,-./:;<=>?@[\]^_`{|}~","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","MAGBRTLD",54,0)
+ ;
+"RTN","MAGBRTLD",55,0)
+PURGSTAT N COUNT,DATE,FIRST,IMAGE,LAST,LOC
+"RTN","MAGBRTLD",56,0)
+ W !!,"Overview of images to be purged.",!
+"RTN","MAGBRTLD",57,0)
+ S LOC="" F  S LOC=$O(^MAG(2005,"ROUTE",LOC)) Q:LOC=""  D
+"RTN","MAGBRTLD",58,0)
+ . S FIRST=$O(^MAG(2005,"ROUTE",LOC,""))\1
+"RTN","MAGBRTLD",59,0)
+ . S LAST=$O(^MAG(2005,"ROUTE",LOC,""),-1)\1
+"RTN","MAGBRTLD",60,0)
+ . S COUNT=0
+"RTN","MAGBRTLD",61,0)
+ . S DATE="" F  S DATE=$O(^MAG(2005,"ROUTE",LOC,DATE)) Q:DATE=""  D
+"RTN","MAGBRTLD",62,0)
+ . . S IMAGE="" F  S IMAGE=$O(^MAG(2005,"ROUTE",LOC,DATE,IMAGE)) Q:IMAGE=""  S COUNT=COUNT+1
+"RTN","MAGBRTLD",63,0)
+ . . Q
+"RTN","MAGBRTLD",64,0)
+ . W !,COUNT," image" W:COUNT'=1 "s"
+"RTN","MAGBRTLD",65,0)
+ . W " to be purged on ",$P(^MAG(2005.2,LOC,0),"^",2)
+"RTN","MAGBRTLD",66,0)
+ . W !?5,"(transmitted "
+"RTN","MAGBRTLD",67,0)
+ . I FIRST=LAST W " on ",$$FMD(FIRST)
+"RTN","MAGBRTLD",68,0)
+ . E  W " between ",$$FMD(FIRST)," and ",$$FMD(LAST)
+"RTN","MAGBRTLD",69,0)
+ . W ")"
+"RTN","MAGBRTLD",70,0)
+ . Q
+"RTN","MAGBRTLD",71,0)
+ Q
+"RTN","MAGBRTLD",72,0)
+ ;
+"RTN","MAGBRTLD",73,0)
+FMD(X) Q (X#100)_" "_$P("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"," ",X\100#100)_" "_(X\10000+1700)
+"RTN","MAGBRTLD",74,0)
+ ;
+"RTN","MAGBRTUT")
+0^6^B22478736
+"RTN","MAGBRTUT",1,0)
+MAGBRTUT ;WOIFO/EdM - Routing Utilities ; 01/03/2003  13:38
+"RTN","MAGBRTUT",2,0)
+ ;;3.0;IMAGING;**9**;Mar 12, 2003
+"RTN","MAGBRTUT",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTUT",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGBRTUT",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGBRTUT",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGBRTUT",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGBRTUT",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGBRTUT",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGBRTUT",10,0)
+ ;; |                                                               |
+"RTN","MAGBRTUT",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGBRTUT",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGBRTUT",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGBRTUT",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGBRTUT",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGBRTUT",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTUT",17,0)
+ ;;
+"RTN","MAGBRTUT",18,0)
+ Q
+"RTN","MAGBRTUT",19,0)
+ ;
+"RTN","MAGBRTUT",20,0)
+SEND(IMAGE,LOC,PRI,MECH,FROM) N D0,FLAG,I,ORIGIN,QQ
+"RTN","MAGBRTUT",21,0)
+ ; IMAGE ;---- Internal Entry Number in Image FIle
+"RTN","MAGBRTUT",22,0)
+ ; LOC ;------ Internal Entry Number in either Network Location file
+"RTN","MAGBRTUT",23,0)
+ ;             or SCU_List file
+"RTN","MAGBRTUT",24,0)
+ ; PRI ;------ Priority
+"RTN","MAGBRTUT",25,0)
+ ; MECHanism = 1: Send using MS-DOS-Copy
+"RTN","MAGBRTUT",26,0)
+ ;           = 2: Send using DICOM_Send
+"RTN","MAGBRTUT",27,0)
+ ; FROM ;----- Location from which request originates
+"RTN","MAGBRTUT",28,0)
+ N D0 ;------- Internal Entry number
+"RTN","MAGBRTUT",29,0)
+ N FLAG ;----- List of file-types to transmit
+"RTN","MAGBRTUT",30,0)
+ N I ;-------- Scratch and loop counter
+"RTN","MAGBRTUT",31,0)
+ N ORIGIN ;--- Location from which image is being sent (IEN in Institution file)
+"RTN","MAGBRTUT",32,0)
+ N QQ ;------- List of queue-entries created
+"RTN","MAGBRTUT",33,0)
+ ;
+"RTN","MAGBRTUT",34,0)
+ S QQ="",MECH=$G(MECH) S:'MECH MECH=1
+"RTN","MAGBRTUT",35,0)
+ I '$D(^MAG(2005,+$G(IMAGE))) Q:$Q QQ Q
+"RTN","MAGBRTUT",36,0)
+ I MECH=1,'$D(^MAG(2005.2,+$G(LOC))) Q:$Q QQ Q
+"RTN","MAGBRTUT",37,0)
+ I MECH=2,'$D(^MAGDICOM(2006.585,+$G(LOC))) Q:$Q QQ Q
+"RTN","MAGBRTUT",38,0)
+ I MECH'=1,MECH'=2 Q:$Q QQ Q
+"RTN","MAGBRTUT",39,0)
+ ;
+"RTN","MAGBRTUT",40,0)
+ S ORIGIN=$G(FROM) D:'ORIGIN
+"RTN","MAGBRTUT",41,0)
+ . S ORIGIN=$P($G(^MAG(2005,IMAGE,100)),"^",3)
+"RTN","MAGBRTUT",42,0)
+ . S:'ORIGIN ORIGIN=$$LOCBOTH()
+"RTN","MAGBRTUT",43,0)
+ . Q
+"RTN","MAGBRTUT",44,0)
+ ;
+"RTN","MAGBRTUT",45,0)
+ S PRI=$G(PRI,500)
+"RTN","MAGBRTUT",46,0)
+ S FLAG=$G(^MAG(2005.2,+LOC,1)) S:MECH=2 FLAG="^^^^5"
+"RTN","MAGBRTUT",47,0)
+ F I=1:1:5 D:$P(FLAG,"^",I)
+"RTN","MAGBRTUT",48,0)
+ . N T,X
+"RTN","MAGBRTUT",49,0)
+ . S T=$P("ABSTRACT FULL BIG TEXT DICOM"," ",I)
+"RTN","MAGBRTUT",50,0)
+ . ;
+"RTN","MAGBRTUT",51,0)
+ . ; Don't send multiple copies
+"RTN","MAGBRTUT",52,0)
+ . ;
+"RTN","MAGBRTUT",53,0)
+ . Q:$D(^MAGQUEUE(2006.035,"DEST",LOC,"WAITING",IMAGE,T))
+"RTN","MAGBRTUT",54,0)
+ . ;
+"RTN","MAGBRTUT",55,0)
+ . L +^MAGQUEUE(2006.035,0)
+"RTN","MAGBRTUT",56,0)
+ . S D0=$O(^MAGQUEUE(2006.035," "),-1)+1
+"RTN","MAGBRTUT",57,0)
+ . S X=$G(^MAGQUEUE(2006.035,0))
+"RTN","MAGBRTUT",58,0)
+ . S $P(X,"^",1,2)="IMAGE ROUTING QUEUE^2006.035"
+"RTN","MAGBRTUT",59,0)
+ . S $P(X,"^",3)=D0
+"RTN","MAGBRTUT",60,0)
+ . S $P(X,"^",4)=$P(X,"^",4)+1
+"RTN","MAGBRTUT",61,0)
+ . S ^MAGQUEUE(2006.035,0)=X
+"RTN","MAGBRTUT",62,0)
+ . S ^MAGQUEUE(2006.035,D0,0)=IMAGE_"^"_LOC_"^"_T_"^"_MECH_"^"_ORIGIN
+"RTN","MAGBRTUT",63,0)
+ . D NOW^%DTC
+"RTN","MAGBRTUT",64,0)
+ . S ^MAGQUEUE(2006.035,D0,1)="WAITING^"_PRI_"^"_%
+"RTN","MAGBRTUT",65,0)
+ . S ^MAGQUEUE(2006.035,"STS",ORIGIN,"WAITING",PRI,LOC,D0)=""
+"RTN","MAGBRTUT",66,0)
+ . S ^MAGQUEUE(2006.035,"DEST",LOC,"WAITING",IMAGE,T,D0)=""
+"RTN","MAGBRTUT",67,0)
+ . L -^MAGQUEUE(2006.035,0)
+"RTN","MAGBRTUT",68,0)
+ . S QQ=QQ_D0_"^"
+"RTN","MAGBRTUT",69,0)
+ . Q
+"RTN","MAGBRTUT",70,0)
+ Q:$Q QQ Q
+"RTN","MAGBRTUT",71,0)
+ ;
+"RTN","MAGBRTUT",72,0)
+LOCBOTH() ; Return pointer to Institution File for current Location
+"RTN","MAGBRTUT",73,0)
+ ; If consolidated site, fetch from Site Parameters
+"RTN","MAGBRTUT",74,0)
+ ; If non-consolidated, look up using FileMan
+"RTN","MAGBRTUT",75,0)
+ N DISYS,DTIME,I,IO,M,NAME,R,X
+"RTN","MAGBRTUT",76,0)
+ S I=+$G(^MAGDICOM(2006.563,1,"LOCATION")) Q:I I
+"RTN","MAGBRTUT",77,0)
+ S I=+$O(^MAG(2006.1,0)),NAME=$P($G(^MAG(2006.1,I,0)),"^",1)
+"RTN","MAGBRTUT",78,0)
+ I NAME Q +NAME
+"RTN","MAGBRTUT",79,0)
+ D DT^DICRW
+"RTN","MAGBRTUT",80,0)
+ D FIND^DIC(4,"","","BX",NAME,"*","","","","R","M")
+"RTN","MAGBRTUT",81,0)
+ Q +$G(R("DILIST",2,1))
+"RTN","MAGBRTUT",82,0)
+ ;
+"RTN","MAGBRTUT",83,0)
+VALID N CONS,D0,LOC,ONE,OTHER
+"RTN","MAGBRTUT",84,0)
+ S CONS=$G(^MAGDICOM(2006.563,1,"CONSOLIDATED"))="YES"
+"RTN","MAGBRTUT",85,0)
+ D:'CONS
+"RTN","MAGBRTUT",86,0)
+ . W !,"This site is set up with ""non-consolidated"" software."
+"RTN","MAGBRTUT",87,0)
+ . S ONE=$P($G(^MAG(2006.1,1,0)),"^",1)
+"RTN","MAGBRTUT",88,0)
+ . S OTHER=$$FLD(4,+$G(^MAGDICOM(2006.563,1,"LOCATION")),.01)
+"RTN","MAGBRTUT",89,0)
+ . I ONE=OTHER W !,"The name of this site is consistently ",ONE Q
+"RTN","MAGBRTUT",90,0)
+ . W !,"The name of this site is not filled in consistently"
+"RTN","MAGBRTUT",91,0)
+ . W !,"The Imaging Site Parameter has """,ONE,""""
+"RTN","MAGBRTUT",92,0)
+ . W:ONE " (""",$$FLD(4,+ONE,.01),""")" W "."
+"RTN","MAGBRTUT",93,0)
+ . W !,"The DICOM Gateway Parameter has """,OTHER,"""."
+"RTN","MAGBRTUT",94,0)
+ . W !,"Please correct the erroneous information."
+"RTN","MAGBRTUT",95,0)
+ . Q
+"RTN","MAGBRTUT",96,0)
+ D:CONS
+"RTN","MAGBRTUT",97,0)
+ . W !,"This site is set up with ""consolidated"" software."
+"RTN","MAGBRTUT",98,0)
+ . S OTHER=+$G(^MAGDICOM(2006.563,1,"LOCATION"))
+"RTN","MAGBRTUT",99,0)
+ . S D0=0 F  S D0=$O(^MAG(2006.1,D0)) Q:'D0  D
+"RTN","MAGBRTUT",100,0)
+ . . S ONE=$P(^MAG(2006.1,D0,0),"^",1) S:ONE LOC(ONE)=""
+"RTN","MAGBRTUT",101,0)
+ . . Q
+"RTN","MAGBRTUT",102,0)
+ . I $D(LOC(OTHER)) D  Q
+"RTN","MAGBRTUT",103,0)
+ . . W !,"The name of this site is consistently ",OTHER
+"RTN","MAGBRTUT",104,0)
+ . . W " (""",$$FLD(4,+OTHER,.01),""")."
+"RTN","MAGBRTUT",105,0)
+ . . Q
+"RTN","MAGBRTUT",106,0)
+ . W !,"The name of this site is not filled in consistently"
+"RTN","MAGBRTUT",107,0)
+ . W !,"The Imaging Site Parameter has:"
+"RTN","MAGBRTUT",108,0)
+ . S D0=0 F  S D0=$O(^MAG(2006.1,D0)) Q:'D0  D
+"RTN","MAGBRTUT",109,0)
+ . . S ONE=$P(^MAG(2006.1,D0,0),"^",1) Q:'ONE
+"RTN","MAGBRTUT",110,0)
+ . . W !?5,D0,": ",?12,"""",$$FLD(4,ONE,.01),""""
+"RTN","MAGBRTUT",111,0)
+ . . Q
+"RTN","MAGBRTUT",112,0)
+ . W !,"The DICOM Gateway Parameter has """,$$FLD(4,OTHER,.01),"""."
+"RTN","MAGBRTUT",113,0)
+ . W !,"Please correct the erroneous information."
+"RTN","MAGBRTUT",114,0)
+ . Q
+"RTN","MAGBRTUT",115,0)
+ Q
+"RTN","MAGBRTUT",116,0)
+ ;
+"RTN","MAGBRTUT",117,0)
+FLD(FILE,D0,FIELD) N M,R
+"RTN","MAGBRTUT",118,0)
+ D GETS^DIQ(FILE,D0,FIELD,"","R","M")
+"RTN","MAGBRTUT",119,0)
+ Q $G(R(FILE,D0_",",FIELD))
+"RTN","MAGBRTUT",120,0)
+ ;
+"RTN","MAGDMFB")
+1^7^B0
+"RTN","MAGIPOS9")
+0^^B5795108
+"RTN","MAGIPOS9",1,0)
+MAGIPOS9 ;Post init routine to queue site activity at install.
+"RTN","MAGIPOS9",2,0)
+ ;;3.0;IMAGING;**9**;Dec 13, 2002
+"RTN","MAGIPOS9",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPOS9",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPOS9",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPOS9",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPOS9",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPOS9",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPOS9",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPOS9",10,0)
+ ;; |                                                               |
+"RTN","MAGIPOS9",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPOS9",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPOS9",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPOS9",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPOS9",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPOS9",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPOS9",17,0)
+ ;
+"RTN","MAGIPOS9",18,0)
+POST ;
+"RTN","MAGIPOS9",19,0)
+ I $T(POST^MAGQST)-"" Q
+"RTN","MAGIPOS9",20,0)
+ D POST^MAGQST
+"RTN","MAGIPOS9",21,0)
+ Q
+"RTN","MAGIPOS9",22,0)
+PRE ;Clear any values in field 13 which was the 6th piece of node 1.
+"RTN","MAGIPOS9",23,0)
+ N CONS,ENTRY,DIK,DA,FILE
+"RTN","MAGIPOS9",24,0)
+ S ENTRY=0
+"RTN","MAGIPOS9",25,0)
+ F  S ENTRY=$O(^MAG(2005.2,ENTRY)) Q:'ENTRY  D
+"RTN","MAGIPOS9",26,0)
+ . Q:'$D(^MAG(2005.2,ENTRY,0))
+"RTN","MAGIPOS9",27,0)
+ . I $D(^MAG(2005.2,ENTRY,1)) S $P(^MAG(2005.2,ENTRY,1),"^",6)=""
+"RTN","MAGIPOS9",28,0)
+ . Q
+"RTN","MAGIPOS9",29,0)
+ ;Delete the VIEWER field #13
+"RTN","MAGIPOS9",30,0)
+ S DIK="^DD(2005.2,",DA=13,DA(1)=2005.2 D ^DIK
+"RTN","MAGIPOS9",31,0)
+ K DIK,DA
+"RTN","MAGIPOS9",32,0)
+ ;Reset the DDs for the following files but only if they exist.
+"RTN","MAGIPOS9",33,0)
+ F FILE=2006.5906,2006.596,2006.035,2006.036,2006.59 D
+"RTN","MAGIPOS9",34,0)
+ . I $$VFILE^DILFD(FILE) D DELFILE(FILE)
+"RTN","MAGIPOS9",35,0)
+ . Q
+"RTN","MAGIPOS9",36,0)
+ S CONS=0
+"RTN","MAGIPOS9",37,0)
+ I $T(CONSOLID^MAGBAPI)'="",$$CONSOLID^MAGBAPI() S CONS=1
+"RTN","MAGIPOS9",38,0)
+ D:'CONS
+"RTN","MAGIPOS9",39,0)
+ . S X=$$KSP^XUPARAM("INST") Q:'X
+"RTN","MAGIPOS9",40,0)
+ . S X=$$GET1^DIQ(4,+X,.01)
+"RTN","MAGIPOS9",41,0)
+ . S $P(^MAG(2006.1,1,0),"^",1)=X
+"RTN","MAGIPOS9",42,0)
+ . Q
+"RTN","MAGIPOS9",43,0)
+ Q
+"RTN","MAGIPOS9",44,0)
+DELFILE(NUMBER) ;
+"RTN","MAGIPOS9",45,0)
+ N DIU,SNDX
+"RTN","MAGIPOS9",46,0)
+ Q:'NUMBER
+"RTN","MAGIPOS9",47,0)
+ I (NUMBER<2006)!(NUMBER>2006.5906) Q
+"RTN","MAGIPOS9",48,0)
+ ; Remove subfile before deleting the file.
+"RTN","MAGIPOS9",49,0)
+ S SNDX="" F  S SNDX=$O(^DD(NUMBER,"SB",SNDX)) Q:SNDX'?1N.N.".".N  D
+"RTN","MAGIPOS9",50,0)
+ . S DIU=SNDX,DIU(0)="S" D EN^DIU2
+"RTN","MAGIPOS9",51,0)
+ S DIU=NUMBER,DIU(0)="E" W !,"FILE # ",NUMBER D EN^DIU2
+"RTN","MAGIPOS9",52,0)
+ K DIU
+"RTN","MAGIPOS9",53,0)
+ Q
+"RTN","MAGJMN1")
+0^1^B37125508
+"RTN","MAGJMN1",1,0)
+MAGJMN1 ;WIRMFO/JHC VistaRad Maintenance functions [ 05/06/1999  2:42 PM ]
+"RTN","MAGJMN1",2,0)
+ ;;3.0;IMAGING;**16,9**;Mar 12, 2003
+"RTN","MAGJMN1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJMN1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJMN1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJMN1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJMN1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJMN1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJMN1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJMN1",10,0)
+ ;; |                                                               |
+"RTN","MAGJMN1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJMN1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJMN1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJMN1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJMN1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJMN1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJMN1",17,0)
+ ;;
+"RTN","MAGJMN1",18,0)
+ Q
+"RTN","MAGJMN1",19,0)
+ ; Subroutines for VistaRad file maintenance activities
+"RTN","MAGJMN1",20,0)
+ ;
+"RTN","MAGJMN1",21,0)
+SVRLIST ;
+"RTN","MAGJMN1",22,0)
+ W @IOF,!!?10,"Enter/Edit VistARad Exams List Definition",!!
+"RTN","MAGJMN1",23,0)
+ N MAGIEN
+"RTN","MAGJMN1",24,0)
+ K DIC S DIC=2006.631,DIC(0)="ALMEQ"
+"RTN","MAGJMN1",25,0)
+ D ^DIC I Y=-1 K DIC,DA,DR,DIE Q
+"RTN","MAGJMN1",26,0)
+ S X=$P(@(DIC_+Y_",0)"),U,2)
+"RTN","MAGJMN1",27,0)
+ I X>9000 W !!,*7,"You may not edit System-Supplied files!" H 3 G SVRLIST
+"RTN","MAGJMN1",28,0)
+ S DIE=2006.631,DA=+Y,DR="[MAGJ LIST EDIT]"
+"RTN","MAGJMN1",29,0)
+ S MAGIEN=DA
+"RTN","MAGJMN1",30,0)
+ D ^DIE I '$D(DA) G SVRLIST
+"RTN","MAGJMN1",31,0)
+ D ENSRCH
+"RTN","MAGJMN1",32,0)
+ D BLDDEF(MAGIEN)
+"RTN","MAGJMN1",33,0)
+ D NOW^%DTC S $P(^MAG(2006.631,MAGIEN,0),U,5)=%
+"RTN","MAGJMN1",34,0)
+ W !!,"List Definition complete!" R X:2
+"RTN","MAGJMN1",35,0)
+ G SVRLIST
+"RTN","MAGJMN1",36,0)
+ Q
+"RTN","MAGJMN1",37,0)
+ENSRCH ; Invoke Search for 2006.631 definition
+"RTN","MAGJMN1",38,0)
+ N GREF,GLIN,GO,CT,DIARI,DIC
+"RTN","MAGJMN1",39,0)
+ S GREF=$NA(^MAG(2006.631,MAGIEN,"DEF"))
+"RTN","MAGJMN1",40,0)
+ S GO=1 I $D(@GREF@(5,1)) D
+"RTN","MAGJMN1",41,0)
+ . W ! D DISPSRCH(GREF)
+"RTN","MAGJMN1",42,0)
+ . S X=$$YN("Do you want to delete or re-enter the search logic?","NO")
+"RTN","MAGJMN1",43,0)
+ . I X'="Y" S GO=0 Q
+"RTN","MAGJMN1",44,0)
+ . W !!?7,"Re-entering the search logic requires first deleting the current",!?7,"definition, then entering the new definition from scratch."
+"RTN","MAGJMN1",45,0)
+ . S X=$$YN("Are you sure you want to continue?","NO")
+"RTN","MAGJMN1",46,0)
+ . I X'="Y" S GO=0 Q
+"RTN","MAGJMN1",47,0)
+ I 'GO Q
+"RTN","MAGJMN1",48,0)
+ W !!?7,"Now enter search logic for this List.  To do this, the program"
+"RTN","MAGJMN1",49,0)
+ W !?7,"will prompt you just as if you were going to run a Fileman Search."
+"RTN","MAGJMN1",50,0)
+ W !?7,"When prompted STORE RESULTS OF SEARCH IN TEMPLATE:, answer with 'TEMP'"
+"RTN","MAGJMN1",51,0)
+ W !?7,"If prompted ... OK TO PURGE? NO// answer 'YES'; don't bother specifying"
+"RTN","MAGJMN1",52,0)
+ W !?7,"output print fields, but just RETURN through all the prompts to"
+"RTN","MAGJMN1",53,0)
+ W !?7,"complete the process.  The search definition will be saved as part"
+"RTN","MAGJMN1",54,0)
+ W !?7,"of this List definition; you will test it out by running it from "
+"RTN","MAGJMN1",55,0)
+ W !?7,"the workstation.  If you need to modify the search logic, you will"
+"RTN","MAGJMN1",56,0)
+ W !?7,"have to re-enter it in its entirety."
+"RTN","MAGJMN1",57,0)
+ W !!?7,"NOTES: EXAM LOCK INDICATOR will not work for search logic;"
+"RTN","MAGJMN1",58,0)
+ W !?14,"REMOTE CACHE INDICATOR only works for Null/Not Null logic."
+"RTN","MAGJMN1",59,0)
+ S DIC=2006.634 D EN^DIS  ; .634 is intentional--do not change this!
+"RTN","MAGJMN1",60,0)
+ I '$G(DIARI) W !!," Search logic NOT updated" D  Q
+"RTN","MAGJMN1",61,0)
+ . Q:'$D(@GREF@(5,1))
+"RTN","MAGJMN1",62,0)
+ . S X=$$YN("Do you want to DELETE the search logic?","NO")
+"RTN","MAGJMN1",63,0)
+ . I X="Y" K @GREF@(3) K ^(4),^(5) W " -- Deleted!"
+"RTN","MAGJMN1",64,0)
+ K @GREF@(3) K ^(4),^(5)
+"RTN","MAGJMN1",65,0)
+ S GLIN=$NA(^DIBT(DIARI))  ; Copy search logic to 2006.631 "DEF" nodes
+"RTN","MAGJMN1",66,0)
+ F TNOD=3,4 S FNOD=$P("^^DC^DL",U,TNOD) D
+"RTN","MAGJMN1",67,0)
+ . S T="",CT=0
+"RTN","MAGJMN1",68,0)
+ . F  S T=$O(@GLIN@(FNOD,T)) Q:T=""  S X=^(T) I X]"" S CT=CT+1,@GREF@(TNOD,CT)=X
+"RTN","MAGJMN1",69,0)
+ . S @GREF@(TNOD,0)=CT
+"RTN","MAGJMN1",70,0)
+ S T=0 F  S T=$O(@GLIN@("O",T)) Q:T=""  S @GREF@(5,T)=^(T,0)
+"RTN","MAGJMN1",71,0)
+ Q
+"RTN","MAGJMN1",72,0)
+ ;
+"RTN","MAGJMN1",73,0)
+BLDDEF(LSTID) ; build DEF nodes for Column/Sort definitions
+"RTN","MAGJMN1",74,0)
+ N QX,SS,STR,LSTHDR,T,T0,T6,HASCASE S SS=0,HASCASE=0
+"RTN","MAGJMN1",75,0)
+ ; columns/hdrs:
+"RTN","MAGJMN1",76,0)
+ F  S SS=$O(^MAG(2006.631,LSTID,1,SS)) D  Q:'SS
+"RTN","MAGJMN1",77,0)
+ . I 'SS Q:HASCASE
+"RTN","MAGJMN1",78,0)
+ . I  S X=1  ; * FORCE list to always contain CASE #
+"RTN","MAGJMN1",79,0)
+ . E  S X=^MAG(2006.631,LSTID,1,SS,0)
+"RTN","MAGJMN1",80,0)
+ . S X=+X_$S($P(X,U,2):";"_+$P(X,U,2),1:"")
+"RTN","MAGJMN1",81,0)
+ . I 'HASCASE S HASCASE=(+X=1)
+"RTN","MAGJMN1",82,0)
+ . S T0=^MAG(2006.63,+X,0),T6=+$P(T0,U,6) S:'T6 T6=99
+"RTN","MAGJMN1",83,0)
+ . S T8=$P(T0,U,8) I T8]"" S T8="~"_T8
+"RTN","MAGJMN1",84,0)
+ . S T(T6,+X)=X_U_$S($P(T0,U,3)]"":$P(T0,U,3),1:$P(T0,U,2))_T8
+"RTN","MAGJMN1",85,0)
+ S QX="T",STR="",LSTHDR=""
+"RTN","MAGJMN1",86,0)
+ F  S QX=$Q(@QX) Q:QX=""  S X=@QX D
+"RTN","MAGJMN1",87,0)
+ . S STR=STR_$S(STR="":"",1:U)_$P(X,U)
+"RTN","MAGJMN1",88,0)
+ . S LSTHDR=LSTHDR_$S(LSTHDR="":"",1:U)_$P(X,U,2)
+"RTN","MAGJMN1",89,0)
+ S ^MAG(2006.631,LSTID,"DEF",.5)=LSTHDR,^(1)=STR
+"RTN","MAGJMN1",90,0)
+ ; Sort values:
+"RTN","MAGJMN1",91,0)
+ S SS=0,STR=""
+"RTN","MAGJMN1",92,0)
+ F  S SS=$O(^MAG(2006.631,LSTID,2,SS)) Q:'SS  S X=^(SS,0) D
+"RTN","MAGJMN1",93,0)
+ . S X=+X_$S($P(X,U,2):"-",1:"")
+"RTN","MAGJMN1",94,0)
+ . S STR=STR_$S(STR="":"",1:U)_X
+"RTN","MAGJMN1",95,0)
+ S ^MAG(2006.631,LSTID,"DEF",2)=STR
+"RTN","MAGJMN1",96,0)
+ D NOW^%DTC S $P(^MAG(2006.631,LSTID,"DEF",0),U)=%
+"RTN","MAGJMN1",97,0)
+ Q
+"RTN","MAGJMN1",98,0)
+ ;
+"RTN","MAGJMN1",99,0)
+ ;
+"RTN","MAGJMN1",100,0)
+YN(MSG,DFLT) ; prompt for Yes/No reply
+"RTN","MAGJMN1",101,0)
+ N X I $G(DFLT)="" S DFLT="N"
+"RTN","MAGJMN1",102,0)
+ W !
+"RTN","MAGJMN1",103,0)
+ S DFLT=$E(DFLT),DFLT=$S(DFLT="N":"NO",1:"YES")
+"RTN","MAGJMN1",104,0)
+YN1 W !,MSG_" "_DFLT_"// "
+"RTN","MAGJMN1",105,0)
+ R X:DTIME S:X="" X=DFLT S X=$E(X),X=$TR(X,"ynYN","YNYN")
+"RTN","MAGJMN1",106,0)
+ I "YN"'[X W "  ??? Enter YES or NO",! G YN1
+"RTN","MAGJMN1",107,0)
+ Q X
+"RTN","MAGJMN1",108,0)
+ ;
+"RTN","MAGJMN1",109,0)
+LSTINQ ; Inquire/Display list def'n
+"RTN","MAGJMN1",110,0)
+ N GREF,MAGIEN
+"RTN","MAGJMN1",111,0)
+ W !!?15,"Display VistARad Exams List Definition",!!
+"RTN","MAGJMN1",112,0)
+ N MAGIEN
+"RTN","MAGJMN1",113,0)
+ S DIC=2006.631,DIC(0)="AMEQ"
+"RTN","MAGJMN1",114,0)
+ D ^DIC I Y=-1 K DIC,DA,DR Q
+"RTN","MAGJMN1",115,0)
+ K DR S DA=+Y,MAGIEN=DA
+"RTN","MAGJMN1",116,0)
+ S GREF=$NA(^MAG(2006.631,MAGIEN,"DEF"))
+"RTN","MAGJMN1",117,0)
+ W ! D EN^DIQ
+"RTN","MAGJMN1",118,0)
+ R !,"Enter RETURN to display the Search Logic: ",X:DTIME W !
+"RTN","MAGJMN1",119,0)
+ D DISPSRCH(GREF)
+"RTN","MAGJMN1",120,0)
+ G LSTINQ
+"RTN","MAGJMN1",121,0)
+ Q
+"RTN","MAGJMN1",122,0)
+ ;
+"RTN","MAGJMN1",123,0)
+DISPSRCH(GREF) ;
+"RTN","MAGJMN1",124,0)
+ I $D(@GREF@(5,1)) W !,"List Exams where:",! D
+"RTN","MAGJMN1",125,0)
+ . F I=1:1 Q:'$D(@GREF@(5,I))  W !?3,^(I)
+"RTN","MAGJMN1",126,0)
+ E  W !?3,"NO Search Logic defined!"
+"RTN","MAGJMN1",127,0)
+ Q
+"RTN","MAGJMN1",128,0)
+ ;
+"RTN","MAGJMN1",129,0)
+VRSIT ;
+"RTN","MAGJMN1",130,0)
+ W @IOF,!!?10,"Enter/Edit VistARad Site Parameters",!!
+"RTN","MAGJMN1",131,0)
+ S DIC=2006.69,DIC(0)="ALMEQ"
+"RTN","MAGJMN1",132,0)
+ I '$D(^MAG(DIC,1)) S DLAYGO=DIC
+"RTN","MAGJMN1",133,0)
+ D ^DIC I Y=-1 K DIC,DA,DR,DIE,DLAYGO Q
+"RTN","MAGJMN1",134,0)
+ S DIE=2006.69,DA=+Y,DR=".01:3.99;4.1:20"
+"RTN","MAGJMN1",135,0)
+ D ^DIE
+"RTN","MAGJMN1",136,0)
+ K DIC,DA,DR,DIE,DLAYGO
+"RTN","MAGJMN1",137,0)
+ Q
+"RTN","MAGJMN1",138,0)
+ ;
+"RTN","MAGJMN1",139,0)
+EEPREF ;
+"RTN","MAGJMN1",140,0)
+ W @IOF,!!?10,"Enter/Edit VistARad Prefetch Logic",!!
+"RTN","MAGJMN1",141,0)
+ N MAGIEN
+"RTN","MAGJMN1",142,0)
+ K DIC S DIC=2006.65,DIC(0)="ALMEQ"
+"RTN","MAGJMN1",143,0)
+ D ^DIC I Y=-1 K DIC,DIE,DR Q
+"RTN","MAGJMN1",144,0)
+ S DIE=2006.65,DA=+Y,DR="[MAGJ PRIOR EDIT]"
+"RTN","MAGJMN1",145,0)
+ S MAGIEN=DA
+"RTN","MAGJMN1",146,0)
+ D ^DIE I '$D(DA) G EEPREF
+"RTN","MAGJMN1",147,0)
+ G EEPREF
+"RTN","MAGJMN1",148,0)
+ Q
+"RTN","MAGJMN1",149,0)
+INPREF ; Inquire VistARad PreFetch
+"RTN","MAGJMN1",150,0)
+ W @IOF,!!?10,"Inquire VistARad Prefetch Logic",!!
+"RTN","MAGJMN1",151,0)
+ N MAGIEN
+"RTN","MAGJMN1",152,0)
+ S DIC=2006.65,DIC(0)="AMEQ"
+"RTN","MAGJMN1",153,0)
+ D ^DIC I Y=-1 K DIC Q
+"RTN","MAGJMN1",154,0)
+ S DA=+Y,(FR,TO)=$P(Y,U,2),MAGIEN=DA,L=0
+"RTN","MAGJMN1",155,0)
+ S BY="[MAGJ PRIOR SORT]",DIS(0)="I D0=MAGIEN"
+"RTN","MAGJMN1",156,0)
+ D EN^DIP
+"RTN","MAGJMN1",157,0)
+ R !,"Enter RETURN to continue: ",X:DTIME W !
+"RTN","MAGJMN1",158,0)
+ G INPREF
+"RTN","MAGJMN1",159,0)
+ Q
+"RTN","MAGJMN1",160,0)
+PRPREF ;Print VistARad Prefetch
+"RTN","MAGJMN1",161,0)
+ W !! S DIC=2006.65,L=0,BY="[MAGJ PRIOR SORT]"
+"RTN","MAGJMN1",162,0)
+ D EN1^DIP
+"RTN","MAGJMN1",163,0)
+ R !,"Enter RETURN to continue: ",X:DTIME W !
+"RTN","MAGJMN1",164,0)
+ Q
+"RTN","MAGJMN1",165,0)
+ ;
+"RTN","MAGJMN1",166,0)
+END ;
+"RTN","MAGJRT")
+0^2^B43910591
+"RTN","MAGJRT",1,0)
+MAGJRT ;WIRMFO/JHC VistaRad RPC calls for Demand Routing [ 02/25/2000  4:35 PM ]
+"RTN","MAGJRT",2,0)
+ ;;3.0;IMAGING;**9**;Mar 12, 2003
+"RTN","MAGJRT",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJRT",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJRT",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJRT",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJRT",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJRT",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJRT",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJRT",10,0)
+ ;; |                                                               |
+"RTN","MAGJRT",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJRT",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJRT",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJRT",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJRT",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJRT",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJRT",17,0)
+ ;;
+"RTN","MAGJRT",18,0)
+ Q
+"RTN","MAGJRT",19,0)
+ ; Entry Points:
+"RTN","MAGJRT",20,0)
+ ;   RTENA -- Determine whether user has Security Key required to use Demand Routing
+"RTN","MAGJRT",21,0)
+ ;   RTREQ -- Build message to create Demand Routing Request form on the W/S
+"RTN","MAGJRT",22,0)
+ ;  RTEXAM -- Queue images to route according to input requests
+"RTN","MAGJRT",23,0)
+ ;
+"RTN","MAGJRT",24,0)
+ERR N ERR S ERR=$$EC^%ZOSV S @MAGGRY@(0)="0^4~"_ERR
+"RTN","MAGJRT",25,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGJRT",26,0)
+ Q:$Q 1  Q
+"RTN","MAGJRT",27,0)
+ ;
+"RTN","MAGJRT",28,0)
+RTENA(MAGGRY,DATA) ; RPC: MAGJ ROUTE ENABLE
+"RTN","MAGJRT",29,0)
+ S X="ERR^MAGJRT",@^%ZOSF("TRAP")
+"RTN","MAGJRT",30,0)
+ I '$D(MAGJOB("KEYS")) D USERKEYS^MAGJUTL3
+"RTN","MAGJRT",31,0)
+ S MAGGRY=$S($D(MAGJOB("KEYS","MAGJ DEMAND ROUTE")):"TRUE",1:"FALSE")
+"RTN","MAGJRT",32,0)
+ Q
+"RTN","MAGJRT",33,0)
+ ;
+"RTN","MAGJRT",34,0)
+RTREQ(MAGGRY,DATA) ; RPC: MAGJ ROUTE REQUEST
+"RTN","MAGJRT",35,0)
+ ; request to route exams;  info returned in MAGGRY
+"RTN","MAGJRT",36,0)
+ ; input in DATA(1:n): RADFN ^ RADTI ^ RACNI ^ RARPT
+"RTN","MAGJRT",37,0)
+ ;  - RADFN^RADTI^RACNI input to specify case of interest
+"RTN","MAGJRT",38,0)
+ ; Returns: Exam Info for routable exams in ^TMP($J,"MAGJROUTE",1:N)
+"RTN","MAGJRT",39,0)
+ ;          Followed by Prompts for Routing Locations & Priority
+"RTN","MAGJRT",40,0)
+ ;          Then error messages, if any
+"RTN","MAGJRT",41,0)
+ ;
+"RTN","MAGJRT",42,0)
+ I $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGJRT"
+"RTN","MAGJRT",43,0)
+ E  S X="ERR^MAGJRT",@^%ZOSF("TRAP")
+"RTN","MAGJRT",44,0)
+ N RARPT,RADFN,RADTI,RACNI
+"RTN","MAGJRT",45,0)
+ N DAYCASE,REPLY,CT,MAGS,STARTNOD,DATAOUT,RADATA,MAGSTRT,MAGEND,NEXAM
+"RTN","MAGJRT",46,0)
+ N IDATA,NOGO
+"RTN","MAGJRT",47,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJRT",48,0)
+ S CT=0,NEXAM=0,DATAOUT="",DAYCASE=""
+"RTN","MAGJRT",49,0)
+ S NOGO(0)=0  ; array for reply for exams unable to process
+"RTN","MAGJRT",50,0)
+ S MAGLST="MAGJROUTE",STARTNOD=1
+"RTN","MAGJRT",51,0)
+ K MAGGRY S MAGGRY=$NA(^TMP($J,MAGLST)) K @MAGGRY
+"RTN","MAGJRT",52,0)
+ S IDATA=""
+"RTN","MAGJRT",53,0)
+ F  S IDATA=$O(DATA(IDATA)) Q:IDATA=""  S DATA=DATA(IDATA) D EXDAT("RTGET")
+"RTN","MAGJRT",54,0)
+ I NEXAM D  ; have some exams eligible to be routed
+"RTN","MAGJRT",55,0)
+ . S @MAGGRY@(STARTNOD)="^Case #^Patient^Procedure^Image Date/Time^Status^Modality"
+"RTN","MAGJRT",56,0)
+ . S CT=CT+1,@MAGGRY@(CT+STARTNOD)="*END"
+"RTN","MAGJRT",57,0)
+ . S REPLY="1~Route Exams to Selected Locations"
+"RTN","MAGJRT",58,0)
+ . D RTLOCS(.CT) D RTPRIOR(.CT)
+"RTN","MAGJRT",59,0)
+ E  D
+"RTN","MAGJRT",60,0)
+ . S REPLY="0~Unable to Route any Exams"
+"RTN","MAGJRT",61,0)
+RTREQZ I NOGO(0) D NOGO("Routed",.CT)
+"RTN","MAGJRT",62,0)
+ S @MAGGRY@(0)=NEXAM_U_REPLY
+"RTN","MAGJRT",63,0)
+ Q
+"RTN","MAGJRT",64,0)
+ ;
+"RTN","MAGJRT",65,0)
+ ;
+"RTN","MAGJRT",66,0)
+EXDAT(GET) ; Put routable exam info in output file, non-routable in NOGO(n)
+"RTN","MAGJRT",67,0)
+ S NOGO=0,RARPT=+$P(DATA,U,4)
+"RTN","MAGJRT",68,0)
+ S RADFN=$P(DATA,U),RADTI=$P(DATA,U,2),RACNI=$P(DATA,U,3),X=0
+"RTN","MAGJRT",69,0)
+ I RADFN,RADTI,RACNI D GETEXAM2^MAGJUTL1(RADFN,RADTI,RACNI,"",.X)
+"RTN","MAGJRT",70,0)
+ I 'X S NOGO="1~Request has Invalid Case Pointer ("_RADFN_U_RADTI_U_RACNI_U_RARPT_")." G EXDATZ
+"RTN","MAGJRT",71,0)
+ S RADATA=$G(^TMP($J,"MAGRAEX",1,1)) K ^TMP($J,"MAGRAEX")
+"RTN","MAGJRT",72,0)
+ S RARPT=$P(RADATA,U,10),DAYCASE=$P(RADATA,U,12)
+"RTN","MAGJRT",73,0)
+ S DATAOUT="" D @GET
+"RTN","MAGJRT",74,0)
+EXDATZ I NOGO D
+"RTN","MAGJRT",75,0)
+ . S NOGO(0)=NOGO(0)+1,NOGO(NOGO(0))=$P(NOGO,"~",2,99)
+"RTN","MAGJRT",76,0)
+ E  D
+"RTN","MAGJRT",77,0)
+ . S DATAOUT=U_DATAOUT_"|"_RADFN_U_RADTI_U_RACNI_U_RARPT_"||"
+"RTN","MAGJRT",78,0)
+ . S NEXAM=NEXAM+1,CT=CT+1,@MAGGRY@(CT+STARTNOD)=DATAOUT
+"RTN","MAGJRT",79,0)
+ Q
+"RTN","MAGJRT",80,0)
+ ;
+"RTN","MAGJRT",81,0)
+RTGET ;GET code for Demand Routing function
+"RTN","MAGJRT",82,0)
+ ; get data for exams (DATAOUT), or reason for error (NOGO)
+"RTN","MAGJRT",83,0)
+ N IMAG,MAGIEN,MDL,MAGS
+"RTN","MAGJRT",84,0)
+ S X=$$JBFETCH^MAGJUTL2(RARPT,.MAGS)  ; ? route only if NOT on Jukebox
+"RTN","MAGJRT",85,0)
+ I +X S NOGO="2~Case #"_DAYCASE_"--Images have been requested from Jukebox; try again later." Q
+"RTN","MAGJRT",86,0)
+ I '$P(X,U,2) S NOGO="3~Case #"_DAYCASE_"--No Images exist for exam." Q
+"RTN","MAGJRT",87,0)
+ F IMAG=1:1 S MAGIEN=$P($G(MAGS(IMAG)),U,4) Q:MAGIEN=""  D  Q:MDL]""
+"RTN","MAGJRT",88,0)
+ . S MDL=$P(MAGS(IMAG),U,3)
+"RTN","MAGJRT",89,0)
+ . I MDL="DR" S MDL="CR"  ; for now, hard code cx of non-standard code
+"RTN","MAGJRT",90,0)
+ ; Contents of DATAOUT=
+"RTN","MAGJRT",91,0)
+ ;  DAYCASE ^ Pt Name ^ Proc. Name ^ Exam Date/Time ^ Status ^ MDL
+"RTN","MAGJRT",92,0)
+ S DATAOUT=DAYCASE_U_$P(RADATA,U,4)_U_$P(RADATA,U,9)
+"RTN","MAGJRT",93,0)
+ S DATAOUT=DATAOUT_U_$$DTTIM($P(RADATA,U,6))_U_$P(RADATA,U,14)_U_MDL
+"RTN","MAGJRT",94,0)
+ Q
+"RTN","MAGJRT",95,0)
+ ;
+"RTN","MAGJRT",96,0)
+DTTIM(X) ; Format Image Date/Time
+"RTN","MAGJRT",97,0)
+ N T S T=$L(X,"  "),X=$P(X,"  ",1,T-1)_"@"_$P(X,"  ",T)
+"RTN","MAGJRT",98,0)
+ Q X
+"RTN","MAGJRT",99,0)
+ ;
+"RTN","MAGJRT",100,0)
+RTLOCS(CT) ; define prompts for Routing Locations
+"RTN","MAGJRT",101,0)
+ ;DROP-Down List, Default=[Do Not Route], Enable Auto-fill (if>1 exam)
+"RTN","MAGJRT",102,0)
+ N AUTOFILL,T,X
+"RTN","MAGJRT",103,0)
+ S AUTOFILL=$S($G(NEXAM)>1:"AUTOFILL",1:"")
+"RTN","MAGJRT",104,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="*PROMPT"
+"RTN","MAGJRT",105,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="DROP^Route To^"_AUTOFILL_"^[Do Not Route]"
+"RTN","MAGJRT",106,0)
+ S T=0
+"RTN","MAGJRT",107,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="0^[Do Not Route]"
+"RTN","MAGJRT",108,0)
+ F  S T=$O(^MAG(2005.2,T)) Q:'T  S X=$G(^(T,0)) I X]"" D
+"RTN","MAGJRT",109,0)
+ . Q:'$P(X,U,9)  ; Not a routable location
+"RTN","MAGJRT",110,0)
+ . S X=$P(X,U)
+"RTN","MAGJRT",111,0)
+ . S CT=CT+1,@MAGGRY@(CT+STARTNOD)=T_U_X
+"RTN","MAGJRT",112,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="*END"
+"RTN","MAGJRT",113,0)
+ Q
+"RTN","MAGJRT",114,0)
+ ;
+"RTN","MAGJRT",115,0)
+RTPRIOR(CT) ; define prompts for Routing Priorities
+"RTN","MAGJRT",116,0)
+ ;DROP-Down List, Default=Medium
+"RTN","MAGJRT",117,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="*PROMPT"
+"RTN","MAGJRT",118,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="DROP^Priority^^Medium"
+"RTN","MAGJRT",119,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="900^STAT"
+"RTN","MAGJRT",120,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="750^High"
+"RTN","MAGJRT",121,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="500^Medium"
+"RTN","MAGJRT",122,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="250^Low"
+"RTN","MAGJRT",123,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="*END"
+"RTN","MAGJRT",124,0)
+ Q
+"RTN","MAGJRT",125,0)
+ ;
+"RTN","MAGJRT",126,0)
+NOGO(HDR,CT) ; output error msgs for exams
+"RTN","MAGJRT",127,0)
+ Q:'NOGO(0)
+"RTN","MAGJRT",128,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="*ERROR"
+"RTN","MAGJRT",129,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)=NOGO(0)_" Exams Not Able to be "_HDR
+"RTN","MAGJRT",130,0)
+ F I=1:1:NOGO(0) S CT=CT+1,@MAGGRY@(CT+STARTNOD)=NOGO(I)
+"RTN","MAGJRT",131,0)
+ S CT=CT+1,@MAGGRY@(CT+STARTNOD)="*END"
+"RTN","MAGJRT",132,0)
+ Q
+"RTN","MAGJRT",133,0)
+ ;
+"RTN","MAGJRT",134,0)
+ ; 1  RADFN   RADTI    RACNI   RANME   RASSN    <-- from GETEXAM
+"RTN","MAGJRT",135,0)
+ ; 6  RADATE  RADTE    RACN    RAPRC   RARPT            (=RADATA)
+"RTN","MAGJRT",136,0)
+ ; 11 RAST    DAYCASE  RAELOC  RASTP   RASTORD
+"RTN","MAGJRT",137,0)
+ ; 16 RADTPRT RACPT
+"RTN","MAGJRT",138,0)
+ ;
+"RTN","MAGJRT",139,0)
+RTEXAM(MAGGRY,DATA) ; RPC: MAGJ ROUTE EXAMS
+"RTN","MAGJRT",140,0)
+ ; queue images to route according to input requests
+"RTN","MAGJRT",141,0)
+ ; input in DATA(1:n), list of exams to route: 
+"RTN","MAGJRT",142,0)
+ ;    Destination Network Loc'n ^ Priority | RADFN ^ RADTI ^ RACNI ^ RARPT
+"RTN","MAGJRT",143,0)
+ ; Returns: Reply status in ^TMP($J,"MAGJROUTE",1:N)
+"RTN","MAGJRT",144,0)
+ ;          Then error messages for each exam if applicable
+"RTN","MAGJRT",145,0)
+ ;
+"RTN","MAGJRT",146,0)
+ ;        MAGS = # Images stored for the case
+"RTN","MAGJRT",147,0)
+ ;  MAGS(1:n) = 1/0 ^ FULL/BIG ^ Mod ^ ien ^ Series ^ Routed-to Locations
+"RTN","MAGJRT",148,0)
+ ;              (1=Image is on Magnetic Disk)
+"RTN","MAGJRT",149,0)
+ ;
+"RTN","MAGJRT",150,0)
+ I $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGJRT"
+"RTN","MAGJRT",151,0)
+ E  S X="ERR^MAGJRT",@^%ZOSF("TRAP")
+"RTN","MAGJRT",152,0)
+ N IEXAM,RTLOC,RTPRI,RARPT,IDATA,REPLY,CT,MAGS,STARTNOD,NEXAM,NOGO
+"RTN","MAGJRT",153,0)
+ N IMAG,MAGLST,MAGIEN
+"RTN","MAGJRT",154,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJRT",155,0)
+ K NOGO S NOGO(0)=0  ; array for reply for exams unable to process
+"RTN","MAGJRT",156,0)
+ S MAGLST="MAGJROUTE",CT=0,STARTNOD=0,NEXAM=0
+"RTN","MAGJRT",157,0)
+ K MAGGRY S MAGGRY=$NA(^TMP($J,MAGLST)) K @MAGGRY
+"RTN","MAGJRT",158,0)
+ S IDATA=""
+"RTN","MAGJRT",159,0)
+ F  S IDATA=$O(DATA(IDATA)) Q:IDATA=""  D
+"RTN","MAGJRT",160,0)
+ . S X=DATA(IDATA),DATA=$P(X,"|",2),X=$P(X,"|"),RTLOC=$P(X,U),RTPRI=$P(X,U,2)
+"RTN","MAGJRT",161,0)
+ . I 'RTLOC Q  ; routing cancelled for this exam
+"RTN","MAGJRT",162,0)
+ . S RARPT=$P(DATA,U,4)  I 'RARPT D  Q
+"RTN","MAGJRT",163,0)
+ . . S NOGO(0)=NOGO(0)+1,NOGO(NOGO(0))="Exam not queued: Missing exam pointer information for exam ("_DATA(IDATA)_")"
+"RTN","MAGJRT",164,0)
+ . S X=$$JBFETCH^MAGJUTL2(RARPT,.MAGS)
+"RTN","MAGJRT",165,0)
+ . F IMAG=1:1 S MAGIEN=$P($G(MAGS(IMAG)),U,4) Q:MAGIEN=""  D
+"RTN","MAGJRT",166,0)
+ . . D SEND^MAGBRTUT(MAGIEN,RTLOC,RTPRI,1) ; 1=dos file copy
+"RTN","MAGJRT",167,0)
+ . I IMAG>1 S NEXAM=NEXAM+1
+"RTN","MAGJRT",168,0)
+ . E  S NOGO(0)=NOGO(0)+1,NOGO(NOGO(0))="Exam not queued: No images found ("_DATA(IDATA)_")"
+"RTN","MAGJRT",169,0)
+ I NEXAM S REPLY=1_"~"_NEXAM_" Exam"_$S(NEXAM-1:"s",1:"")_" were queued to be routed."
+"RTN","MAGJRT",170,0)
+ E  S REPLY="0~Unable to queue any exams for routing."
+"RTN","MAGJRT",171,0)
+RTEXAMZ I NOGO(0) D NOGO("Queued",.CT)
+"RTN","MAGJRT",172,0)
+ S @MAGGRY@(0)=$S(NOGO(0):CT,1:0)_U_REPLY
+"RTN","MAGJRT",173,0)
+ Q
+"RTN","MAGJRT",174,0)
+ ;
+"RTN","MAGJRT",175,0)
+END Q
+"RTN","MAGJRT",176,0)
+ ;
+"RTN","MAGJUTL3")
+0^3^B33438656
+"RTN","MAGJUTL3",1,0)
+MAGJUTL3 ;WIRMFO/JHC VistRad subroutines for RPC calls[ 2/21/97  10:53 AM ]
+"RTN","MAGJUTL3",2,0)
+ ;;3.0;IMAGING;**16,9**;Mar 12, 2003
+"RTN","MAGJUTL3",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJUTL3",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJUTL3",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJUTL3",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJUTL3",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJUTL3",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJUTL3",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJUTL3",10,0)
+ ;; |                                                               |
+"RTN","MAGJUTL3",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJUTL3",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJUTL3",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJUTL3",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJUTL3",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJUTL3",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJUTL3",17,0)
+ ;;
+"RTN","MAGJUTL3",18,0)
+ Q
+"RTN","MAGJUTL3",19,0)
+ ;Entry points:
+"RTN","MAGJUTL3",20,0)
+ ;  LISTINF -- send Custom Exam List data to Server
+"RTN","MAGJUTL3",21,0)
+ ;  LOGOFF -- update session file at logoff
+"RTN","MAGJUTL3",22,0)
+ ;  CACHEQ -- At logon, assorted initializations and sets up assorted data for the session
+"RTN","MAGJUTL3",23,0)
+ ;  PINF1 -- Patient info returned to W/S
+"RTN","MAGJUTL3",24,0)
+ ;  LOG -- Update image access logs
+"RTN","MAGJUTL3",25,0)
+ ;
+"RTN","MAGJUTL3",26,0)
+LISTINF(MAGGRY) ; RPC: MAGJ CUSTOM LISTS
+"RTN","MAGJUTL3",27,0)
+ ;  send Exam List data to Server
+"RTN","MAGJUTL3",28,0)
+ ; Return Info in ^TMP($J,"MAGJLSTINF",0:N) (@MAGGRY)
+"RTN","MAGJUTL3",29,0)
+ ;     0)= # Entries below (0:n)
+"RTN","MAGJUTL3",30,0)
+ ;   1:n)= Button Label^List #^Button Hints text^List Type
+"RTN","MAGJUTL3",31,0)
+ N D0,GLB,INF,MAGLST,NAM,T
+"RTN","MAGJUTL3",32,0)
+ S MAGLST="MAGJLSTINF"
+"RTN","MAGJUTL3",33,0)
+ K MAGGRY S MAGGRY=$NA(^TMP($J,MAGLST)) K @MAGGRY S @MAGGRY@(0)=0
+"RTN","MAGJUTL3",34,0)
+ S GLB=$NA(^MAG(2006.631)),NAM=""
+"RTN","MAGJUTL3",35,0)
+ F  S NAM=$O(@GLB@("B",NAM)) Q:NAM=""  S D0="" D
+"RTN","MAGJUTL3",36,0)
+ . S D0=$O(@GLB@("B",NAM,D0)) Q:'D0  D
+"RTN","MAGJUTL3",37,0)
+ . . S X=$G(@GLB@(D0,0)) Q:($P(X,U,2)>9000)!'$P(X,U,6)  ; List Active & User-defined
+"RTN","MAGJUTL3",38,0)
+ . . S INF="" F I=1:1 S T=$P("7^2^1^3",U,I) Q:T=""  S Y=$P(X,U,T) Q:Y=""  S $P(INF,U,I)=Y
+"RTN","MAGJUTL3",39,0)
+ . . Q:T'=""  ; req'd fields not all there
+"RTN","MAGJUTL3",40,0)
+ . . S T=@MAGGRY@(0)+1,^(0)=T,^(T)=INF
+"RTN","MAGJUTL3",41,0)
+ Q
+"RTN","MAGJUTL3",42,0)
+ ;
+"RTN","MAGJUTL3",43,0)
+LOG(ACTION,RADFN,MAGIEN,NIMGS,REMOTE) ; Log exam access
+"RTN","MAGJUTL3",44,0)
+ N PTCT,TXT
+"RTN","MAGJUTL3",45,0)
+ S PTCT=RADFN'=$G(MAGJOB("LASTPT"))
+"RTN","MAGJUTL3",46,0)
+ I PTCT S MAGJOB("LASTPT")=RADFN
+"RTN","MAGJUTL3",47,0)
+ S TXT=ACTION_U_RADFN_U_MAGIEN_U_U_U_NIMGS
+"RTN","MAGJUTL3",48,0)
+ S TXT=TXT_U_PTCT_U_$S(+MAGJOB("USER",1):1,1:0)_U_REMOTE
+"RTN","MAGJUTL3",49,0)
+ ; Session Log
+"RTN","MAGJUTL3",50,0)
+ D ACTION^MAGGTAU(TXT,1)
+"RTN","MAGJUTL3",51,0)
+ ; Mag Log
+"RTN","MAGJUTL3",52,0)
+ I REMOTE S ACTION=ACTION_"/REM"
+"RTN","MAGJUTL3",53,0)
+ D ENTRY^MAGLOG(ACTION,+DUZ,MAGIEN,"VRAD:"_MAGJOB("VRVERSION"),RADFN,NIMGS)
+"RTN","MAGJUTL3",54,0)
+ Q
+"RTN","MAGJUTL3",55,0)
+ ;
+"RTN","MAGJUTL3",56,0)
+LOGOFF(MAGRY,DATA) ; RPC: MAGJ LOGOFF -- Call when session is over.
+"RTN","MAGJUTL3",57,0)
+ ; update session file with logoff time & mark the session entry closed
+"RTN","MAGJUTL3",58,0)
+ ;
+"RTN","MAGJUTL3",59,0)
+ D LOGOFF^MAGGTAU(.MAGRY)
+"RTN","MAGJUTL3",60,0)
+ Q
+"RTN","MAGJUTL3",61,0)
+ ;
+"RTN","MAGJUTL3",62,0)
+CACHEQ(MAGGRY,DATA) ; RPC: MAGJ CACHELOCATION
+"RTN","MAGJUTL3",63,0)
+ ; logon initializations for the session
+"RTN","MAGJUTL3",64,0)
+ ; Query host for Local Cache paths for Remote Reading
+"RTN","MAGJUTL3",65,0)
+ ; input in DATA: WSLOC
+"RTN","MAGJUTL3",66,0)
+ ;  - WSLOC   = Workstation Location
+"RTN","MAGJUTL3",67,0)
+ ;  - VRADVER = VistaRad Client Version
+"RTN","MAGJUTL3",68,0)
+ ;  - OSVER   = Client OS Version
+"RTN","MAGJUTL3",69,0)
+ ; Return Info in ^TMP($J,"MAGJCACHE",0:N) (@MAGGRY)
+"RTN","MAGJUTL3",70,0)
+ ;     0)= # Entries below (0:n)
+"RTN","MAGJUTL3",71,0)
+ ;   1:n)= PhysName^Subdirectory^HashFlag^Username^Password
+"RTN","MAGJUTL3",72,0)
+ ; Also builds local array:
+"RTN","MAGJUTL3",73,0)
+ ;    MAGJOB("LOC",NetworkLocnIEN)=Site Abbreviation
+"RTN","MAGJUTL3",74,0)
+ ;    MAGJOB("REMOTE")=1/0  (T/F for "User is reading at Remote Loc'n")
+"RTN","MAGJUTL3",75,0)
+ ;    MAGJOB("WSLOC")=Workstation_Location String
+"RTN","MAGJUTL3",76,0)
+ ;    MAGJOB("WSLOCTYP")=Workstation_Location Type
+"RTN","MAGJUTL3",77,0)
+ ;    MAGJOB("WSNAME")=Workstation ID
+"RTN","MAGJUTL3",78,0)
+ ;    MAGJOB("VRVERSION")=VRAD Version
+"RTN","MAGJUTL3",79,0)
+ ;    MAGJOB("OSVER")=O/S Version
+"RTN","MAGJUTL3",80,0)
+ ;    MAGJOB("ALTPATH")=1/0 ^ 1/0 (T/F Alternate Paths are defined 
+"RTN","MAGJUTL3",81,0)
+ ;               ^ Alt Paths are Enabled/Disabled for most recent exam)
+"RTN","MAGJUTL3",82,0)
+ ;
+"RTN","MAGJUTL3",83,0)
+ S X="ERR^MAGJEX1",@^%ZOSF("TRAP")
+"RTN","MAGJUTL3",84,0)
+ ;
+"RTN","MAGJUTL3",85,0)
+ N I,MAGLST,REPLY,TMP,WSLOC,XX,VRADVER,OSVER
+"RTN","MAGJUTL3",86,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJUTL3",87,0)
+ S REPLY=0,MAGLST="MAGJCACHE"
+"RTN","MAGJUTL3",88,0)
+ K MAGGRY S MAGGRY=$NA(^TMP($J,MAGLST)) K @MAGGRY
+"RTN","MAGJUTL3",89,0)
+ S WSLOC=$P(DATA,U),VRADVER=$P(DATA,U,2),OSVER=$P(DATA,U,3)
+"RTN","MAGJUTL3",90,0)
+ S MAGJOB("OSVER")=$S(OSVER]"":OSVER,1:"UNK")
+"RTN","MAGJUTL3",91,0)
+ S MAGJOB("VRVERSION")=$S(VRADVER]"":VRADVER,1:"UNK")
+"RTN","MAGJUTL3",92,0)
+ S X=$P($G(IO("CLNM")),".")
+"RTN","MAGJUTL3",93,0)
+ S MAGJOB("WSNAME")=$S(X]"":X,1:"VistaradWS")
+"RTN","MAGJUTL3",94,0)
+ ;
+"RTN","MAGJUTL3",95,0)
+ ; Since this function is executed at user Login, use the opportunity to
+"RTN","MAGJUTL3",96,0)
+ ; initialize various things
+"RTN","MAGJUTL3",97,0)
+ ;
+"RTN","MAGJUTL3",98,0)
+ D REMLOCK
+"RTN","MAGJUTL3",99,0)
+ D MAGJOB ; Inits magjob array
+"RTN","MAGJUTL3",100,0)
+ S MAGJOB("WSLOCTYP")=$S(+MAGJOB("USER",1):"RAD",1:"Non-Rad")
+"RTN","MAGJUTL3",101,0)
+ I '$D(MAGJOB("WRKSIEN")) D
+"RTN","MAGJUTL3",102,0)
+ . S X=MAGJOB("WSNAME")_"^^^"_MAGJOB("WSLOCTYP")_U_U_U_U_1_U_MAGJOB("OSVER")_U_MAGJOB("VRVERSION")
+"RTN","MAGJUTL3",103,0)
+ . D UPD^MAGGTAU(.Y,X)
+"RTN","MAGJUTL3",104,0)
+ ;
+"RTN","MAGJUTL3",105,0)
+ ; get cache location info
+"RTN","MAGJUTL3",106,0)
+ S MAGJOB("WSLOC")=WSLOC,MAGJOB("REMOTE")=0,MAGJOB("ALTPATH")="0^0"
+"RTN","MAGJUTL3",107,0)
+ I WSLOC]"" D
+"RTN","MAGJUTL3",108,0)
+ . S X=$P($G(^MAG(2006.1,+MAGJOB("SITEP"),0)),U,9)
+"RTN","MAGJUTL3",109,0)
+ . I X]"",(X'=WSLOC) S MAGJOB("REMOTE")=1
+"RTN","MAGJUTL3",110,0)
+ . E  Q
+"RTN","MAGJUTL3",111,0)
+ . D LIST^MAGBRTLD(WSLOC,.TMP)
+"RTN","MAGJUTL3",112,0)
+ . I TMP S REPLY=TMP,MAGJOB("ALTPATH")="1^1" F I=1:1:TMP D
+"RTN","MAGJUTL3",113,0)
+ . . S XX=$P(TMP(I),U,1,5),X=$P(XX,U,3),$P(XX,U,3)=$S(X="Y":1,1:0)
+"RTN","MAGJUTL3",114,0)
+ . . S X=$P(XX,U,4),$P(XX,U,4)=$P(XX,U,5),$P(XX,U,5)=X
+"RTN","MAGJUTL3",115,0)
+ . . S @MAGGRY@(I)=XX,MAGJOB("LOC",$P(TMP(I),U,7))=$P(TMP(I),U,6)
+"RTN","MAGJUTL3",116,0)
+ S @MAGGRY@(0)=REPLY
+"RTN","MAGJUTL3",117,0)
+CACHEQZ Q
+"RTN","MAGJUTL3",118,0)
+ ;
+"RTN","MAGJUTL3",119,0)
+REMLOCK ;  Remove dangling exam locks:
+"RTN","MAGJUTL3",120,0)
+ S RARPT=""
+"RTN","MAGJUTL3",121,0)
+ F  S RARPT=$O(^XTMP("MAGJ","LOCK",RARPT)) Q:'RARPT  D
+"RTN","MAGJUTL3",122,0)
+ . L +^XTMP("MAGJ","LOCK",RARPT):0 I  D  ; found one (maybe)
+"RTN","MAGJUTL3",123,0)
+ . . S X=$G(^XTMP("MAGJ","LOCK",RARPT))
+"RTN","MAGJUTL3",124,0)
+ . . I +X=DUZ,($P(X,U,2)=$J)         ; leave this job's locks alone
+"RTN","MAGJUTL3",125,0)
+ . . E  K ^XTMP("MAGJ","LOCK",RARPT) ; get rid of this one
+"RTN","MAGJUTL3",126,0)
+ . . L -^XTMP("MAGJ","LOCK",RARPT)
+"RTN","MAGJUTL3",127,0)
+ N TS S TS="" F I=2,0 S %H=$H+I D YMD^%DTC S TS=TS_$S(TS="":"",1:U)_X
+"RTN","MAGJUTL3",128,0)
+ S ^XTMP("MAGJ",0)=TS_U_"VistaRad Locks"
+"RTN","MAGJUTL3",129,0)
+ Q
+"RTN","MAGJUTL3",130,0)
+ ;
+"RTN","MAGJUTL3",131,0)
+MAGJOB ; Initialize general magjob array entries
+"RTN","MAGJUTL3",132,0)
+ ;    MAGJOB("SITEP")=IEN to active Site Parameter
+"RTN","MAGJUTL3",133,0)
+ ;    MAGJOB("CONSOLIDATED")=1/0
+"RTN","MAGJUTL3",134,0)
+ ;    MAGJOB( "KEYS", security_keys ) = ""
+"RTN","MAGJUTL3",135,0)
+ ;    MAGJOB( "USER", 1 ) = RIST_Type ^ NAME ^ INITIALS
+"RTN","MAGJUTL3",136,0)
+ N T,RIST
+"RTN","MAGJUTL3",137,0)
+ D USERKEYS
+"RTN","MAGJUTL3",138,0)
+ N MAGSPEC D FIELD^DID(2006.1,.01,"","SPECIFIER","MAGSPEC")
+"RTN","MAGJUTL3",139,0)
+ S MAGJOB("CONSOLIDATED")=MAGSPEC("SPECIFIER")["P"
+"RTN","MAGJUTL3",140,0)
+ S MAGJOB("SITEP")=$$IMGSIT^MAGJUTL1(DUZ(2))   ; Determine Site Param ien
+"RTN","MAGJUTL3",141,0)
+ I 'MAGJOB("SITEP") S X=$O(^MAG(2006.1,0)) S MAGJOB("SITEP")=X_U_$P(^(X,0),U,9)  ; Default to 1st
+"RTN","MAGJUTL3",142,0)
+ ;
+"RTN","MAGJUTL3",143,0)
+ S RIST="" F X="S","R" I $D(^VA(200,"ARC",X,DUZ)) S RIST=X Q
+"RTN","MAGJUTL3",144,0)
+ S RIST=$S(RIST="S":15,RIST="R":12,1:0) ; Staff/Resident/Non rist
+"RTN","MAGJUTL3",145,0)
+ S MAGJOB("USER",1)=RIST_U_$$USERINF(+DUZ,".01;1")
+"RTN","MAGJUTL3",146,0)
+ Q
+"RTN","MAGJUTL3",147,0)
+ ;
+"RTN","MAGJUTL3",148,0)
+USERINF(DUZ,FLDS) ; get data from user file; return ^-delimited result string
+"RTN","MAGJUTL3",149,0)
+ I FLDS=""!'DUZ Q ""
+"RTN","MAGJUTL3",150,0)
+ N I,RSL,T S RSL=""
+"RTN","MAGJUTL3",151,0)
+ D GETS^DIQ(200,+DUZ,FLDS,"E","T")
+"RTN","MAGJUTL3",152,0)
+ S T=+DUZ_","
+"RTN","MAGJUTL3",153,0)
+ F I=1:1:$L(FLDS,";") S RSL=RSL_$S(RSL="":"",1:U)_T(200,T,$P(FLDS,";",I),"E")
+"RTN","MAGJUTL3",154,0)
+ Q RSL
+"RTN","MAGJUTL3",155,0)
+ ;
+"RTN","MAGJUTL3",156,0)
+USERKEYS ; Store VistaRad Security Keys in MagJob array
+"RTN","MAGJUTL3",157,0)
+ ;
+"RTN","MAGJUTL3",158,0)
+ N I,X,Y
+"RTN","MAGJUTL3",159,0)
+ N MAGKS ; list of keys to send to XUS KEY CHECK
+"RTN","MAGJUTL3",160,0)
+ N MAGKG ; list returned from XUS KEY CHECK
+"RTN","MAGJUTL3",161,0)
+ K MAGJOB("KEYS")
+"RTN","MAGJUTL3",162,0)
+ S X="MAGJ",I=0
+"RTN","MAGJUTL3",163,0)
+ F  S X=$O(^XUSEC(X)) Q:$E(X,1,4)'="MAGJ"  D
+"RTN","MAGJUTL3",164,0)
+ . S I=I+1,MAGKS(I)=X
+"RTN","MAGJUTL3",165,0)
+ I '$D(MAGKS) Q
+"RTN","MAGJUTL3",166,0)
+ D OWNSKEY^XUSRB(.MAGKG,.MAGKS)
+"RTN","MAGJUTL3",167,0)
+ S I=0 F  S I=$O(MAGKG(I)) Q:'I  I MAGKG(I) S MAGJOB("KEYS",MAGKS(I))=""
+"RTN","MAGJUTL3",168,0)
+ Q
+"RTN","MAGJUTL3",169,0)
+ ;
+"RTN","MAGJUTL3",170,0)
+ Q
+"RTN","MAGJUTL3",171,0)
+PINF1(MAGRY,MAGDFN) ;RPC Call MAGJ PT INFO -- Return patient info.
+"RTN","MAGJUTL3",172,0)
+ ; Code borrowed from MAGGTCP
+"RTN","MAGJUTL3",173,0)
+ D INFO^MAGGTPT1(.MAGRY,MAGDFN_"^1") ; 1=Don't log to session file
+"RTN","MAGJUTL3",174,0)
+ Q
+"RTN","MAGJUTL3",175,0)
+ ;
+"RTN","MAGJUTL3",176,0)
+END Q  ;
+"SEC","^DIC",2006.035,2006.035,0,"AUDIT")
+@
+"SEC","^DIC",2006.035,2006.035,0,"DD")
+@
+"SEC","^DIC",2006.035,2006.035,0,"DEL")
+@
+"SEC","^DIC",2006.035,2006.035,0,"LAYGO")
+@
+"SEC","^DIC",2006.035,2006.035,0,"RD")
+@
+"SEC","^DIC",2006.035,2006.035,0,"WR")
+@
+"SEC","^DIC",2006.036,2006.036,0,"AUDIT")
+@
+"SEC","^DIC",2006.036,2006.036,0,"DD")
+@
+"SEC","^DIC",2006.036,2006.036,0,"DEL")
+@
+"SEC","^DIC",2006.036,2006.036,0,"LAYGO")
+@
+"SEC","^DIC",2006.036,2006.036,0,"RD")
+@
+"SEC","^DIC",2006.036,2006.036,0,"WR")
+@
+"SEC","^DIC",2006.59,2006.59,0,"AUDIT")
+@
+"SEC","^DIC",2006.59,2006.59,0,"DD")
+@
+"SEC","^DIC",2006.59,2006.59,0,"DEL")
+@
+"SEC","^DIC",2006.59,2006.59,0,"LAYGO")
+@
+"SEC","^DIC",2006.59,2006.59,0,"RD")
+@
+"SEC","^DIC",2006.59,2006.59,0,"WR")
+@
+"SEC","^DIC",2006.5906,2006.5906,0,"AUDIT")
+@
+"SEC","^DIC",2006.5906,2006.5906,0,"DD")
+@
+"SEC","^DIC",2006.5906,2006.5906,0,"DEL")
+@
+"SEC","^DIC",2006.5906,2006.5906,0,"LAYGO")
+@
+"SEC","^DIC",2006.5906,2006.5906,0,"RD")
+@
+"SEC","^DIC",2006.5906,2006.5906,0,"WR")
+@
+"SEC","^DIC",2006.596,2006.596,0,"AUDIT")
+@
+"SEC","^DIC",2006.596,2006.596,0,"DD")
+@
+"SEC","^DIC",2006.596,2006.596,0,"DEL")
+@
+"SEC","^DIC",2006.596,2006.596,0,"LAYGO")
+@
+"SEC","^DIC",2006.596,2006.596,0,"RD")
+@
+"SEC","^DIC",2006.596,2006.596,0,"WR")
+@
+"UP",2005,2005.0106,-1)
+2005^4
+"UP",2005,2005.0106,0)
+2005.0106
+"VER")
+8.0^22.0
+"^DD",2005,2005,106,0)
+ROUTING TIMESTAMP^2005.0106DA^^4;0
+"^DD",2005,2005,106,21,0)
+^.001^1^1^3001005^^^^
+"^DD",2005,2005,106,21,1,0)
+This field keeps track of any routing activity.
+"^DD",2005,2005,106,"DT")
+3030220
+"^DD",2005,2005.0106,0)
+ROUTING TIMESTAMP SUB-FIELD^^4^4
+"^DD",2005,2005.0106,0,"DT")
+2981208
+"^DD",2005,2005.0106,0,"IX","LOC",2005.0106,2)
+
+"^DD",2005,2005.0106,0,"NM","ROUTING TIMESTAMP")
+
+"^DD",2005,2005.0106,0,"UP")
+2005
+"^DD",2005,2005.0106,.01,0)
+ROUTING TIMESTAMP^D^^0;1^S %DT="ESTXR" D ^%DT S X=Y K:Y<1 X
+"^DD",2005,2005.0106,.01,1,0)
+^.1^^0
+"^DD",2005,2005.0106,.01,3)
+Enter the date and time when the image file was 'routed'.
+"^DD",2005,2005.0106,.01,21,0)
+^^6^6^2981208^
+"^DD",2005,2005.0106,.01,21,1,0)
+This field keeps track of any routing activity.
+"^DD",2005,2005.0106,.01,21,2,0)
+For each time that an image file is transmitted in the context
+"^DD",2005,2005.0106,.01,21,3,0)
+of 'routing', an entry will be added to this multiple that
+"^DD",2005,2005.0106,.01,21,4,0)
+records which type of image file was transmitted (FULL, BIG,
+"^DD",2005,2005.0106,.01,21,5,0)
+ABSTRACT, etcetera), and to which destination (pointer to
+"^DD",2005,2005.0106,.01,21,6,0)
+network location) it was transmitted.
+"^DD",2005,2005.0106,.01,"DT")
+3030220
+"^DD",2005,2005.0106,2,0)
+DESTINATION^RP2005.2'^MAG(2005.2,^0;2^Q
+"^DD",2005,2005.0106,2,.1)
+
+"^DD",2005,2005.0106,2,1,0)
+^.1^^-1
+"^DD",2005,2005.0106,2,1,1,0)
+2005.0106^LOC
+"^DD",2005,2005.0106,2,1,1,1)
+S ^MAG(2005,DA(1),4,"LOC",$E(X,1,30),DA)=""
+"^DD",2005,2005.0106,2,1,1,2)
+K ^MAG(2005,DA(1),4,"LOC",$E(X,1,30),DA)
+"^DD",2005,2005.0106,2,1,1,"%D",0)
+^^3^3^2981222^
+"^DD",2005,2005.0106,2,1,1,"%D",1,0)
+This cross-reference keeps track of which destinations
+"^DD",2005,2005.0106,2,1,1,"%D",2,0)
+(network locations) have received image files from the
+"^DD",2005,2005.0106,2,1,1,"%D",3,0)
+current system.
+"^DD",2005,2005.0106,2,1,1,"DT")
+2981222
+"^DD",2005,2005.0106,2,3)
+Enter the destination to which the image file was transmitted.
+"^DD",2005,2005.0106,2,21,0)
+^^3^3^2981221^^^
+"^DD",2005,2005.0106,2,21,1,0)
+The value of this field is a pointer (into the network location file)
+"^DD",2005,2005.0106,2,21,2,0)
+that indicated where an image file was sent in the context of
+"^DD",2005,2005.0106,2,21,3,0)
+automated routing.
+"^DD",2005,2005.0106,2,"DT")
+3030220
+"^DD",2005,2005.0106,3,0)
+TYPE^RS^FULL:Full;ABSTRACT:Abstract;BIG:Big;TEXT:Text;DICOM:DICOM;^0;3^Q
+"^DD",2005,2005.0106,3,3)
+Enter the type of image file that was transmitted.
+"^DD",2005,2005.0106,3,21,0)
+^^2^2^2981221^^
+"^DD",2005,2005.0106,3,21,1,0)
+The value of this field indicates what type of image file
+"^DD",2005,2005.0106,3,21,2,0)
+was transmitted (FULL, BIG, TEXT, DICOM or ABSTRACT).
+"^DD",2005,2005.0106,3,"DT")
+3030220
+"^DD",2005,2005.0106,4,0)
+FILENAME^RF^^0;4^K:$L(X)>100!($L(X)<1) X
+"^DD",2005,2005.0106,4,3)
+Enter the name of the transmitted file (path+name at destination).
+"^DD",2005,2005.0106,4,21,0)
+^^3^3^2981221^^
+"^DD",2005,2005.0106,4,21,1,0)
+The value of this field is the name of the transmitted file as
+"^DD",2005,2005.0106,4,21,2,0)
+it is at the destination location. This file name contains all
+"^DD",2005,2005.0106,4,21,3,0)
+directory prefixes and a 'type' suffix.
+"^DD",2005,2005.0106,4,"DT")
+3030220
+"^DD",2005.2,2005.2,1,0)
+PHYSICAL REFERENCE^RFX^^0;2^K:$L(X)>63!($L(X)<1)!'((X?1"\\".E1"\".E1"\")!(X?1A1":\"1E.E1"\")) X
+"^DD",2005.2,2005.2,1,1,0)
+^.1^^-1
+"^DD",2005.2,2005.2,1,1,1,0)
+2005.2^AC
+"^DD",2005.2,2005.2,1,1,1,1)
+S ^MAG(2005.2,"AC",X,DA)=""
+"^DD",2005.2,2005.2,1,1,1,2)
+K ^MAG(2005.2,"AC",X,DA)
+"^DD",2005.2,2005.2,1,1,1,"%D",0)
+^.101^2^2^3030220^^^^
+"^DD",2005.2,2005.2,1,1,1,"%D",1,0)
+This cross-reference allows a network location to be looked up
+"^DD",2005.2,2005.2,1,1,1,"%D",2,0)
+by physical name.
+"^DD",2005.2,2005.2,1,1,1,"DT")
+2951017
+"^DD",2005.2,2005.2,1,3)
+Enter the name of the physical location for this device. Answer must be 1-63 character in length.
+"^DD",2005.2,2005.2,1,21,0)
+^.001^3^3^3030226^^^^
+"^DD",2005.2,2005.2,1,21,1,0)
+This is the physical network location where the image is stored. This is
+"^DD",2005.2,2005.2,1,21,2,0)
+the Universal Naming Convention (UNC)PATH for the Image Storage. For
+"^DD",2005.2,2005.2,1,21,3,0)
+example: \\SERVER01\IMAGE1\
+"^DD",2005.2,2005.2,1,"DT")
+3030220
+"^DD",2005.2,2005.2,5,0)
+OPERATIONAL STATUS^RSX^0:Off-Line;1:On-Line;^0;6^Q:DA["+1"  S:$P(^MAG(2005.2,DA,0),U,6)="" $P(^MAG(2005.2,DA,0),U,6)="0"
+"^DD",2005.2,2005.2,5,.1)
+Reachability Status
+"^DD",2005.2,2005.2,5,1,0)
+^.1^^0
+"^DD",2005.2,2005.2,5,3)
+Code the Network Location ONline/OFFline status
+"^DD",2005.2,2005.2,5,21,0)
+^.001^3^3^3020211^^^^
+"^DD",2005.2,2005.2,5,21,1,0)
+This field tells the Imaging software whether or not this network
+"^DD",2005.2,2005.2,5,21,2,0)
+location, where images are stored, is online. The default is online if the
+"^DD",2005.2,2005.2,5,21,3,0)
+field is null.
+"^DD",2005.2,2005.2,5,23,0)
+^.001^1^1^3020211^^^^
+"^DD",2005.2,2005.2,5,23,1,0)
+ 
+"^DD",2005.2,2005.2,5,"DT")
+3030220
+"^DD",2006.035,2006.035,0)
+FIELD^^8^9
+"^DD",2006.035,2006.035,0,"DDA")
+N
+"^DD",2006.035,2006.035,0,"DT")
+3020312
+"^DD",2006.035,2006.035,0,"NM","SEND QUEUE")
+
+"^DD",2006.035,2006.035,0,"VRPK")
+MAG
+"^DD",2006.035,2006.035,.01,0)
+IMAGE^RP2005'^MAG(2005,^0;1^Q
+"^DD",2006.035,2006.035,.01,.1)
+Image
+"^DD",2006.035,2006.035,.01,1,0)
+^.1^^0
+"^DD",2006.035,2006.035,.01,3)
+
+"^DD",2006.035,2006.035,.01,21,0)
+^^3^3^3000216^^
+"^DD",2006.035,2006.035,.01,21,1,0)
+The value of this field is a pointer to the image file.
+"^DD",2006.035,2006.035,.01,21,2,0)
+This entry in the SEND queue is intended to cause transmission
+"^DD",2006.035,2006.035,.01,21,3,0)
+of files for the image that is indicated by this pointer.
+"^DD",2006.035,2006.035,.01,"DT")
+3020312
+"^DD",2006.035,2006.035,1,0)
+DESTINATION^RV^^0;2^Q
+"^DD",2006.035,2006.035,1,3)
+Enter the name of the destination to which images are to be transmitted.
+"^DD",2006.035,2006.035,1,21,0)
+^^10^10^3020312^
+"^DD",2006.035,2006.035,1,21,1,0)
+The value of this field is a "Variable Pointer".
+"^DD",2006.035,2006.035,1,21,2,0)
+ 
+"^DD",2006.035,2006.035,1,21,3,0)
+The pointer may reference either an entry in
+"^DD",2006.035,2006.035,1,21,4,0)
+either File 2005.2 (Imaging Network Location) or
+"^DD",2006.035,2006.035,1,21,5,0)
+File 2006.585 (DICOM User Application).
+"^DD",2006.035,2006.035,1,21,6,0)
+ 
+"^DD",2006.035,2006.035,1,21,7,0)
+When pointing to File 2005.2, images will be
+"^DD",2006.035,2006.035,1,21,8,0)
+transmitted using a host-system copy protocol;
+"^DD",2006.035,2006.035,1,21,9,0)
+when pointing to File 2006.585, images will be
+"^DD",2006.035,2006.035,1,21,10,0)
+transmitted using the DICOM protocol.
+"^DD",2006.035,2006.035,1,"DT")
+3020312
+"^DD",2006.035,2006.035,1,"V",0)
+^.12P^2^2
+"^DD",2006.035,2006.035,1,"V",1,0)
+2005.2^Send to which Network Location^1^N^n^n
+"^DD",2006.035,2006.035,1,"V",2,0)
+2006.585^Send to which DICOM SCU^2^D^n^n
+"^DD",2006.035,2006.035,2,0)
+TYPE^RS^ABSTRACT:ABSTRACT;FULL:FULL;BIG:BIG;TEXT:TEXT;DICOM:DICOM;^0;3^Q
+"^DD",2006.035,2006.035,2,.1)
+Type of file
+"^DD",2006.035,2006.035,2,1,0)
+^.1^^0
+"^DD",2006.035,2006.035,2,21,0)
+^^2^2^2980921^
+"^DD",2006.035,2006.035,2,21,1,0)
+This field identifies the kind of file that is to be transmitted.
+"^DD",2006.035,2006.035,2,21,2,0)
+Currently 5 possible types exist (Abstract, Full, Big, Text and DICOM).
+"^DD",2006.035,2006.035,2,"DT")
+3020312
+"^DD",2006.035,2006.035,3,0)
+STATUS^S^WAITING:WAITING;SENDING:SENDING;SENT:SENT;FAILED:FAILED;^1;1^Q
+"^DD",2006.035,2006.035,3,.1)
+Status
+"^DD",2006.035,2006.035,3,1,0)
+^.1^^0
+"^DD",2006.035,2006.035,3,21,0)
+^^11^11^3000216^^
+"^DD",2006.035,2006.035,3,21,1,0)
+The value of this field indicates the status of the queue-entry.
+"^DD",2006.035,2006.035,3,21,2,0)
+Normally, an entry goes through three stages:
+"^DD",2006.035,2006.035,3,21,3,0)
+First, the status is "WAITING".
+"^DD",2006.035,2006.035,3,21,4,0)
+When the queue-processor starts working on the current file, the status will become "SENDING".
+"^DD",2006.035,2006.035,3,21,5,0)
+When the file has been transmitted, the status will change to "SENT".
+"^DD",2006.035,2006.035,3,21,6,0)
+ 
+"^DD",2006.035,2006.035,3,21,7,0)
+When a transmission fails, the queue processor will make a number of additional attempts to
+"^DD",2006.035,2006.035,3,21,8,0)
+transmit the file. If all attempts remain unsuccessful, the status
+"^DD",2006.035,2006.035,3,21,9,0)
+will be changed to "FAILED".
+"^DD",2006.035,2006.035,3,21,10,0)
+ 
+"^DD",2006.035,2006.035,3,21,11,0)
+There is a menu option to "re-queue" entries with a status of "FAILED".
+"^DD",2006.035,2006.035,3,"DT")
+3020312
+"^DD",2006.035,2006.035,4,0)
+PRIORITY^NJ3,0^^1;2^K:+X'=X!(X>999)!(X<1)!(X?.E1"."1N.N) X
+"^DD",2006.035,2006.035,4,.1)
+Relative priority
+"^DD",2006.035,2006.035,4,1,0)
+^.1^^0
+"^DD",2006.035,2006.035,4,3)
+Enter a number that represents the priority (normal is 500).
+"^DD",2006.035,2006.035,4,21,0)
+^^4^4^3000216^^
+"^DD",2006.035,2006.035,4,21,1,0)
+This field indicates the relative priority of the entry in the queue.
+"^DD",2006.035,2006.035,4,21,2,0)
+Normally, all entries have priority 500.
+"^DD",2006.035,2006.035,4,21,3,0)
+The software may assign a low priority (250) or a high priority (750).
+"^DD",2006.035,2006.035,4,21,4,0)
+In the future further refinement of these priorities is expected.
+"^DD",2006.035,2006.035,4,"DT")
+3020312
+"^DD",2006.035,2006.035,5,0)
+TIME IN^RD^^1;3^S %DT="ESTXR" D ^%DT S X=Y K:Y<1 X
+"^DD",2006.035,2006.035,5,.1)
+Timestamp (enter queue)
+"^DD",2006.035,2006.035,5,21,0)
+^^2^2^2980921^
+"^DD",2006.035,2006.035,5,21,1,0)
+The value of this field is a time-stamp that identifies the date and time
+"^DD",2006.035,2006.035,5,21,2,0)
+on which the entry was added to the queue.
+"^DD",2006.035,2006.035,5,"DT")
+2980921
+"^DD",2006.035,2006.035,6,0)
+TIME OUT^D^^1;4^S %DT="ESTXR" D ^%DT S X=Y K:Y<1 X
+"^DD",2006.035,2006.035,6,.1)
+Timestamp (processed)
+"^DD",2006.035,2006.035,6,21,0)
+^^3^3^2980921^
+"^DD",2006.035,2006.035,6,21,1,0)
+The value of this field is a time stamp that identifies when the
+"^DD",2006.035,2006.035,6,21,2,0)
+entry in the queue was processed (status changed to either SENT
+"^DD",2006.035,2006.035,6,21,3,0)
+or FAILED).
+"^DD",2006.035,2006.035,6,"DT")
+2980921
+"^DD",2006.035,2006.035,7,0)
+MECHANISM^S^1:MS-DOS Copy;2:DICOM Send;^0;4^Q
+"^DD",2006.035,2006.035,7,3)
+Enter a code for the method of transmission.
+"^DD",2006.035,2006.035,7,21,0)
+^^4^4^3000216^
+"^DD",2006.035,2006.035,7,21,1,0)
+The value of this field is a code that indicates how files
+"^DD",2006.035,2006.035,7,21,2,0)
+are to be transmitted to the remote location.
+"^DD",2006.035,2006.035,7,21,3,0)
+Possible methods of transmission are "MS-DOS copy" and
+"^DD",2006.035,2006.035,7,21,4,0)
+"DICOM copy".
+"^DD",2006.035,2006.035,7,"DT")
+2991222
+"^DD",2006.035,2006.035,8,0)
+ORIGIN^RP4'^DIC(4,^0;5^Q
+"^DD",2006.035,2006.035,8,3)
+Enter the location from which this image originates.
+"^DD",2006.035,2006.035,8,21,0)
+^^5^5^3010309^
+"^DD",2006.035,2006.035,8,21,1,0)
+The value of this field is a pointer (to the Institution
+"^DD",2006.035,2006.035,8,21,2,0)
+file, #4). The institution that is identified by this value
+"^DD",2006.035,2006.035,8,21,3,0)
+is the place where the image "comes from". In the context
+"^DD",2006.035,2006.035,8,21,4,0)
+of auto-routing, the image "comes from" the place where it
+"^DD",2006.035,2006.035,8,21,5,0)
+is permanently stored.
+"^DD",2006.035,2006.035,8,"DT")
+3020312
+"^DD",2006.036,2006.036,0)
+FIELD^^1^2
+"^DD",2006.036,2006.036,0,"DDA")
+N
+"^DD",2006.036,2006.036,0,"DT")
+2991104
+"^DD",2006.036,2006.036,0,"NM","ROUTING STATISTICS")
+
+"^DD",2006.036,2006.036,.01,0)
+DATE^RDX^^0;1^S %DT="EX" D ^%DT S X=Y K:Y<1 X S:$D(X) DINUM=X
+"^DD",2006.036,2006.036,.01,1,0)
+^.1^^0
+"^DD",2006.036,2006.036,.01,3)
+Enter the date for which statistics will be presented.
+"^DD",2006.036,2006.036,.01,"DT")
+2991104
+"^DD",2006.036,2006.036,1,0)
+DETAILS^2006.03601A^^1;0
+"^DD",2006.036,2006.03601,0)
+DETAILS SUB-FIELD^^6^6
+"^DD",2006.036,2006.03601,0,"DT")
+2991104
+"^DD",2006.036,2006.03601,0,"NM","DETAILS")
+
+"^DD",2006.036,2006.03601,0,"UP")
+2006.036
+"^DD",2006.036,2006.03601,.01,0)
+LESS THAN 5 MINUTES^NJ9,0^^0;1^K:+X'=X!(X>999999999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.036,2006.03601,.01,1,0)
+^.1^^0
+"^DD",2006.036,2006.03601,.01,3)
+Enter the number of groups that took less than 5 minutes
+"^DD",2006.036,2006.03601,.01,"DT")
+2991104
+"^DD",2006.036,2006.03601,2,0)
+LESS THAN 15 MINUTES^NJ9,0^^0;2^K:+X'=X!(X>999999999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.036,2006.03601,2,3)
+Enter the number of groups that took less than 15 minutes.
+"^DD",2006.036,2006.03601,2,"DT")
+2991104
+"^DD",2006.036,2006.03601,3,0)
+LESS THAN 1 HOUR^NJ9,0^^0;3^K:+X'=X!(X>999999999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.036,2006.03601,3,3)
+Enter the number of groups that took less than 1 hour.
+"^DD",2006.036,2006.03601,3,"DT")
+2991104
+"^DD",2006.036,2006.03601,4,0)
+REST^NJ9,0^^0;4^K:+X'=X!(X>999999999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.036,2006.03601,4,3)
+Enter the number of groups that took an hour or more.
+"^DD",2006.036,2006.03601,4,"DT")
+2991104
+"^DD",2006.036,2006.03601,5,0)
+LONGEST^NJ9,0^^0;5^K:+X'=X!(X>999999999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.036,2006.03601,5,3)
+Enter the number of seconds for the image that took the longest.
+"^DD",2006.036,2006.03601,5,"DT")
+2991104
+"^DD",2006.036,2006.03601,6,0)
+DESCRIPTION^F^^0;6^K:$L(X)>40!($L(X)<1) X
+"^DD",2006.036,2006.03601,6,3)
+Enter a description for these counts.
+"^DD",2006.036,2006.03601,6,"DT")
+2991104
+"^DD",2006.563,2006.563,17,0)
+PLACE^P4'^DIC(4,^LOCATION;1^Q
+"^DD",2006.563,2006.563,17,3)
+Enter the name of the institution where this gateway resides.
+"^DD",2006.563,2006.563,17,21,0)
+^^3^3^3010309^
+"^DD",2006.563,2006.563,17,21,1,0)
+The value of this field is a pointer to the Institution file (#4).
+"^DD",2006.563,2006.563,17,21,2,0)
+This value identifies the institution where this DICOM Gateway
+"^DD",2006.563,2006.563,17,21,3,0)
+computer resides.
+"^DD",2006.563,2006.563,17,"DT")
+3010309
+"^DD",2006.563,2006.563,28,0)
+LOCATION NAME^F^^LOCATION NAME;1^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.563,2006.563,28,3)
+Enter the name of the location to which this station belongs.
+"^DD",2006.563,2006.563,28,21,0)
+^^7^7^3011016^
+"^DD",2006.563,2006.563,28,21,1,0)
+The value of this field is a string that represents the name
+"^DD",2006.563,2006.563,28,21,2,0)
+of a site. Its value is copied from the INSTITUTION file when
+"^DD",2006.563,2006.563,28,21,3,0)
+a value is assigned to the field LOCATION in this table.
+"^DD",2006.563,2006.563,28,21,4,0)
+ 
+"^DD",2006.563,2006.563,28,21,5,0)
+A DICOM Gateway stores a redundant copy of this name, so that
+"^DD",2006.563,2006.563,28,21,6,0)
+it will be able to display the name when DDP is not available,
+"^DD",2006.563,2006.563,28,21,7,0)
+and the value cannot be fetched from ^DIC.
+"^DD",2006.563,2006.563,28,"DT")
+3011016
+"^DD",2006.563,2006.563,29,0)
+ACCESS CODE^F^^LOGIN ACCESS;1^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.563,2006.563,29,3)
+Enter the access code for this gateway.
+"^DD",2006.563,2006.563,29,21,0)
+^^2^2^3010226^
+"^DD",2006.563,2006.563,29,21,1,0)
+The value of this field is a string that represents the access code that will be used
+"^DD",2006.563,2006.563,29,21,2,0)
+to operate this DICOM Gateway.
+"^DD",2006.563,2006.563,29,"DT")
+3010226
+"^DD",2006.563,2006.563,30,0)
+VERIFY CODE^F^^LOGIN VERIFY;1^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.563,2006.563,30,3)
+Enter the verify code for this gateway.
+"^DD",2006.563,2006.563,30,21,0)
+^^2^2^3010226^
+"^DD",2006.563,2006.563,30,21,1,0)
+The value of this field is a string that represents the verify
+"^DD",2006.563,2006.563,30,21,2,0)
+code that will be used to operate this DICOM Gateway.
+"^DD",2006.563,2006.563,30,"DT")
+3010226
+"^DD",2006.563,2006.563,31,0)
+READ ONLY ACCESS^F^^LOGIN PRINT/VIEW ONLY;1^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.563,2006.563,31,3)
+Enter the read-only access code for this gateway.
+"^DD",2006.563,2006.563,31,21,0)
+^^2^2^3010226^
+"^DD",2006.563,2006.563,31,21,1,0)
+The value of this field is a string that represents the access
+"^DD",2006.563,2006.563,31,21,2,0)
+code that will be used to operate this gateway in "read only" mode.
+"^DD",2006.563,2006.563,31,"DT")
+3010226
+"^DD",2006.563,2006.563,32,0)
+PROGRAMMER ACCESS^F^^LOGIN PROGRAMMER ACCESS;1^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.563,2006.563,32,3)
+Enter the programmer access code for this gateway.
+"^DD",2006.563,2006.563,32,21,0)
+^^2^2^3010226^
+"^DD",2006.563,2006.563,32,21,1,0)
+The value of this field is a string that represents the access
+"^DD",2006.563,2006.563,32,21,2,0)
+code that will be used to gain programmer access to this gateway.
+"^DD",2006.563,2006.563,32,"DT")
+3010226
+"^DD",2006.563,2006.563,33,0)
+EVALUATOR^S^0:No;1:Yes;^EVAL;1^Q
+"^DD",2006.563,2006.563,33,3)
+Indicate whether a Rule Evaluator may currently run on this computer.
+"^DD",2006.563,2006.563,33,21,0)
+^^7^7^3020809^
+"^DD",2006.563,2006.563,33,21,1,0)
+The value of this field is a code that indicates whether or not
+"^DD",2006.563,2006.563,33,21,2,0)
+a Rule Evaluator may currently run on this computer.
+"^DD",2006.563,2006.563,33,21,3,0)
+ 
+"^DD",2006.563,2006.563,33,21,4,0)
+This flag is automatically set to 1 (yes) when the menu option
+"^DD",2006.563,2006.563,33,21,5,0)
+is used to start a Rule Evaluator, and to 0 (no) when the
+"^DD",2006.563,2006.563,33,21,6,0)
+menu option is used to stop all Rule Evaluators.
+"^DD",2006.563,2006.563,33,21,7,0)
+ 
+"^DD",2006.563,2006.563,33,"DT")
+3020809
+"^DD",2006.59,2006.59,0)
+FIELD^^4^5
+"^DD",2006.59,2006.59,0,"DDA")
+N
+"^DD",2006.59,2006.59,0,"DT")
+2981112
+"^DD",2006.59,2006.59,0,"NM","ROUTING RULE")
+
+"^DD",2006.59,2006.59,0,"PT",2006.5906,.01)
+
+"^DD",2006.59,2006.59,0,"VRPK")
+MAG
+"^DD",2006.59,2006.59,.01,0)
+RULE NUMBER^RF^^0;1^K:$L(X)>30!($L(X)<3)!'(X'?1P.E) X
+"^DD",2006.59,2006.59,.01,.1)
+Rule Number
+"^DD",2006.59,2006.59,.01,1,0)
+^.1^^0
+"^DD",2006.59,2006.59,.01,3)
+Enter an integer number that uniquely identifies a rule.
+"^DD",2006.59,2006.59,.01,21,0)
+^^2^2^3000223^^
+"^DD",2006.59,2006.59,.01,21,1,0)
+The value of this field is an integer number
+"^DD",2006.59,2006.59,.01,21,2,0)
+that uniquely identifies a routing rule.
+"^DD",2006.59,2006.59,.01,"DT")
+2980921
+"^DD",2006.59,2006.59,1,0)
+RAW TEXT^2006.5901A^^1;0
+"^DD",2006.59,2006.59,2,0)
+ACTION^2006.5902A^^ACTION;0
+"^DD",2006.59,2006.59,3,0)
+CONDITION^2006.5904A^^CONDITION;0
+"^DD",2006.59,2006.59,4,0)
+PRIORITY^S^HIGH:High;NORMAL:Normal;LOW:Low;^PRIORITY;1^Q
+"^DD",2006.59,2006.59,4,3)
+Enter a priority for this action (High, Normal or Low).
+"^DD",2006.59,2006.59,4,21,0)
+^^3^3^3000223^^
+"^DD",2006.59,2006.59,4,21,1,0)
+The value of this field is a priority to be assigned to this action.
+"^DD",2006.59,2006.59,4,21,2,0)
+The priority will be observed by the queue manager that takes
+"^DD",2006.59,2006.59,4,21,3,0)
+actions off a queue.
+"^DD",2006.59,2006.59,4,"DT")
+2981112
+"^DD",2006.59,2006.5901,0)
+RAW TEXT SUB-FIELD^^.01^1
+"^DD",2006.59,2006.5901,0,"DT")
+2980911
+"^DD",2006.59,2006.5901,0,"NM","RAW TEXT")
+
+"^DD",2006.59,2006.5901,0,"UP")
+2006.59
+"^DD",2006.59,2006.5901,.01,0)
+LINE^MRF^^0;1^K:$L(X)>250!($L(X)<1) X
+"^DD",2006.59,2006.5901,.01,1,0)
+^.1^^0
+"^DD",2006.59,2006.5901,.01,3)
+Enter a text that defines a routing rule.
+"^DD",2006.59,2006.5901,.01,21,0)
+^^7^7^3000223^^
+"^DD",2006.59,2006.5901,.01,21,1,0)
+The value of this field is a line of text that would
+"^DD",2006.59,2006.5901,.01,21,2,0)
+be read from the file 'route.dic'.
+"^DD",2006.59,2006.5901,.01,21,3,0)
+ 
+"^DD",2006.59,2006.5901,.01,21,4,0)
+The text in this file specifies a group of routing
+"^DD",2006.59,2006.5901,.01,21,5,0)
+rules. The further fields in this file contain the
+"^DD",2006.59,2006.5901,.01,21,6,0)
+parsed values from these texts that are used to
+"^DD",2006.59,2006.5901,.01,21,7,0)
+evaluate the rules at run time.
+"^DD",2006.59,2006.5901,.01,"DT")
+2990422
+"^DD",2006.59,2006.5902,0)
+ACTION SUB-FIELD^^1^2
+"^DD",2006.59,2006.5902,0,"DT")
+2980911
+"^DD",2006.59,2006.5902,0,"NM","ACTION")
+
+"^DD",2006.59,2006.5902,0,"UP")
+2006.59
+"^DD",2006.59,2006.5902,.01,0)
+VERB^F^^0;1^K:$L(X)>31!($L(X)<1) X
+"^DD",2006.59,2006.5902,.01,1,0)
+^.1^^0
+"^DD",2006.59,2006.5902,.01,3)
+Enter a verb like 'SEND' or 'BALANCE'.
+"^DD",2006.59,2006.5902,.01,21,0)
+^^5^5^3000223^^
+"^DD",2006.59,2006.5902,.01,21,1,0)
+The value of this field is a string that defines
+"^DD",2006.59,2006.5902,.01,21,2,0)
+the action-verb for the rule at hand.
+"^DD",2006.59,2006.5902,.01,21,3,0)
+ 
+"^DD",2006.59,2006.5902,.01,21,4,0)
+Currently, only 'SEND' and 'BALANCE' are defined
+"^DD",2006.59,2006.5902,.01,21,5,0)
+actions.
+"^DD",2006.59,2006.5902,.01,"DT")
+2990422
+"^DD",2006.59,2006.5902,1,0)
+PARAMETER^2006.5903A^^1;0
+"^DD",2006.59,2006.5903,0)
+PARAMETER SUB-FIELD^^.01^1
+"^DD",2006.59,2006.5903,0,"DT")
+2980911
+"^DD",2006.59,2006.5903,0,"NM","PARAMETER")
+
+"^DD",2006.59,2006.5903,0,"UP")
+2006.5902
+"^DD",2006.59,2006.5903,.01,0)
+VALUE^F^^0;1^K:$L(X)>250!($L(X)<1) X
+"^DD",2006.59,2006.5903,.01,1,0)
+^.1^^0
+"^DD",2006.59,2006.5903,.01,3)
+Enter the value of a positional parameter.
+"^DD",2006.59,2006.5903,.01,21,0)
+^^5^5^3000223^^
+"^DD",2006.59,2006.5903,.01,21,1,0)
+The value of this field is a string that defines
+"^DD",2006.59,2006.5903,.01,21,2,0)
+a parameter to a routing rule.
+"^DD",2006.59,2006.5903,.01,21,3,0)
+ 
+"^DD",2006.59,2006.5903,.01,21,4,0)
+For the verb 'SEND', the parameter would be the
+"^DD",2006.59,2006.5903,.01,21,5,0)
+name of the destination to send a file to.
+"^DD",2006.59,2006.5903,.01,"DT")
+2990422
+"^DD",2006.59,2006.5904,0)
+CONDITION SUB-FIELD^^4^5
+"^DD",2006.59,2006.5904,0,"DT")
+2980911
+"^DD",2006.59,2006.5904,0,"NM","CONDITION")
+
+"^DD",2006.59,2006.5904,0,"UP")
+2006.59
+"^DD",2006.59,2006.5904,.01,0)
+FIELD^F^^0;1^K:$L(X)>250!($L(X)<1) X
+"^DD",2006.59,2006.5904,.01,1,0)
+^.1^^0
+"^DD",2006.59,2006.5904,.01,3)
+Enter a the name of a parameter.
+"^DD",2006.59,2006.5904,.01,21,0)
+^^6^6^3000223^^
+"^DD",2006.59,2006.5904,.01,21,1,0)
+The value of this field is a string that identifies
+"^DD",2006.59,2006.5904,.01,21,2,0)
+a parameter that is checked for the purpose of evaluating
+"^DD",2006.59,2006.5904,.01,21,3,0)
+the current condition.
+"^DD",2006.59,2006.5904,.01,21,4,0)
+ 
+"^DD",2006.59,2006.5904,.01,21,5,0)
+Such a parameter can be any field from the Image File
+"^DD",2006.59,2006.5904,.01,21,6,0)
+(# 2005, stored in ^MAG(2005,...), or 'NOW'.
+"^DD",2006.59,2006.5904,.01,"DT")
+2990422
+"^DD",2006.59,2006.5904,1,0)
+DATATYPE^S^DT:Date Time;LO:Long String;SH:Short String;AE:AE;AS:AS;AT:AT;CS:CS;DA:DA;DS:DS;FL:FL;FD:FD;IS:IS;LT:LT;OB:OB;OW:OW;PN:PN;SL:SL;SQ:SQ;SS:SS;ST:ST;TM:TM;UI:UI;UL:UL;UN:UN;US:US;UT:UT;^DATATYPE;1^Q
+"^DD",2006.59,2006.5904,1,3)
+Enter the data type for this condition.
+"^DD",2006.59,2006.5904,1,21,0)
+^^30^30^3000223^^
+"^DD",2006.59,2006.5904,1,21,1,0)
+The value of this field is a code that identifies
+"^DD",2006.59,2006.5904,1,21,2,0)
+the data type of the field that is referenced in
+"^DD",2006.59,2006.5904,1,21,3,0)
+the current condition to be evaluated.
+"^DD",2006.59,2006.5904,1,21,4,0)
+ 
+"^DD",2006.59,2006.5904,1,21,5,0)
+Possible data types are:
+"^DD",2006.59,2006.5904,1,21,6,0)
+  AE   Application Entity
+"^DD",2006.59,2006.5904,1,21,7,0)
+  AS   Age String
+"^DD",2006.59,2006.5904,1,21,8,0)
+  AT   Attribute Tag
+"^DD",2006.59,2006.5904,1,21,9,0)
+  CS   Code String
+"^DD",2006.59,2006.5904,1,21,10,0)
+  DA   Date
+"^DD",2006.59,2006.5904,1,21,11,0)
+  DS   Decimal String
+"^DD",2006.59,2006.5904,1,21,12,0)
+  DT   Date/Time
+"^DD",2006.59,2006.5904,1,21,13,0)
+  FL   Floating Point Single
+"^DD",2006.59,2006.5904,1,21,14,0)
+  FD   Floating Point Double
+"^DD",2006.59,2006.5904,1,21,15,0)
+  IS   Integer String
+"^DD",2006.59,2006.5904,1,21,16,0)
+  LO   Long String
+"^DD",2006.59,2006.5904,1,21,17,0)
+  LT   Long Text
+"^DD",2006.59,2006.5904,1,21,18,0)
+  OB   Other Byte String
+"^DD",2006.59,2006.5904,1,21,19,0)
+  OW   Other Word String
+"^DD",2006.59,2006.5904,1,21,20,0)
+  PN   Person Name
+"^DD",2006.59,2006.5904,1,21,21,0)
+  SH   Short String
+"^DD",2006.59,2006.5904,1,21,22,0)
+  SL   Signed Long
+"^DD",2006.59,2006.5904,1,21,23,0)
+  SQ   Sequence of Items
+"^DD",2006.59,2006.5904,1,21,24,0)
+  SS   Signed Short
+"^DD",2006.59,2006.5904,1,21,25,0)
+  ST   Short Text
+"^DD",2006.59,2006.5904,1,21,26,0)
+  TM   Time
+"^DD",2006.59,2006.5904,1,21,27,0)
+  UI   Unique Identifier
+"^DD",2006.59,2006.5904,1,21,28,0)
+  UL   Unsigned Long
+"^DD",2006.59,2006.5904,1,21,29,0)
+  US   Unsigned Short
+"^DD",2006.59,2006.5904,1,21,30,0)
+  UT   Unlimited Text
+"^DD",2006.59,2006.5904,1,"DT")
+2980911
+"^DD",2006.59,2006.5904,2,0)
+OPERATOR^F^^OPERATOR;1^K:$L(X)>5!($L(X)<1) X
+"^DD",2006.59,2006.5904,2,3)
+Enter an operator for this comparison.
+"^DD",2006.59,2006.5904,2,21,0)
+^^6^6^3000223^^
+"^DD",2006.59,2006.5904,2,21,1,0)
+The value if this field is a short string that defines
+"^DD",2006.59,2006.5904,2,21,2,0)
+the operator that is applied to compare the value of a
+"^DD",2006.59,2006.5904,2,21,3,0)
+parameter with a specified value.
+"^DD",2006.59,2006.5904,2,21,4,0)
+ 
+"^DD",2006.59,2006.5904,2,21,5,0)
+Typical operators are = (equal), != (not equal),
+"^DD",2006.59,2006.5904,2,21,6,0)
+> (greater or later than) and < (less or earlier than).
+"^DD",2006.59,2006.5904,2,"DT")
+2980911
+"^DD",2006.59,2006.5904,3,0)
+VALUE^F^^VALUE;1^K:$L(X)>250!($L(X)<1) X
+"^DD",2006.59,2006.5904,3,3)
+Enter the value to compare this parameter to.
+"^DD",2006.59,2006.5904,3,21,0)
+^^3^3^3000223^^
+"^DD",2006.59,2006.5904,3,21,1,0)
+The value of this field is a string that defines
+"^DD",2006.59,2006.5904,3,21,2,0)
+the value to which a parameter is being compared
+"^DD",2006.59,2006.5904,3,21,3,0)
+in the context of evaluating the current rule.
+"^DD",2006.59,2006.5904,3,"DT")
+2980911
+"^DD",2006.59,2006.5904,4,0)
+TIMEFRAME^2006.5905A^^1;0
+"^DD",2006.59,2006.5905,0)
+TIMEFRAME SUB-FIELD^^3^4
+"^DD",2006.59,2006.5905,0,"DT")
+2980911
+"^DD",2006.59,2006.5905,0,"NM","TIMEFRAME")
+
+"^DD",2006.59,2006.5905,0,"UP")
+2006.5904
+"^DD",2006.59,2006.5905,.01,0)
+NUMBER^NJ5,0^^0;1^K:+X'=X!(X>99999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.59,2006.5905,.01,1,0)
+^.1^^0
+"^DD",2006.59,2006.5905,.01,3)
+Enter an integer number that uniquely identifies a time-frame.
+"^DD",2006.59,2006.5905,.01,21,0)
+^^2^2^3000223^^
+"^DD",2006.59,2006.5905,.01,21,1,0)
+The value of this field is an integer number
+"^DD",2006.59,2006.5905,.01,21,2,0)
+that uniquely identifies a time frame for a routing rule.
+"^DD",2006.59,2006.5905,.01,"DT")
+2990422
+"^DD",2006.59,2006.5905,1,0)
+MASK^F^^MASK;1^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.59,2006.5905,1,3)
+Enter a date/time mask ('ddd yyymmdd.hhmmss').
+"^DD",2006.59,2006.5905,1,21,0)
+^.001^8^8^3020815^^^
+"^DD",2006.59,2006.5905,1,21,1,0)
+The value of this field is a string of characters
+"^DD",2006.59,2006.5905,1,21,2,0)
+that indicates which fields in the values for the
+"^DD",2006.59,2006.5905,1,21,3,0)
+start and end of the current time-frame are validated
+"^DD",2006.59,2006.5905,1,21,4,0)
+while evaluating the current routing rule.
+"^DD",2006.59,2006.5905,1,21,5,0)
+ 
+"^DD",2006.59,2006.5905,1,21,6,0)
+Those characters in the 'begin' and 'end' fields
+"^DD",2006.59,2006.5905,1,21,7,0)
+that correspond to upper case characters in this
+"^DD",2006.59,2006.5905,1,21,8,0)
+mask, will be evaluated.
+"^DD",2006.59,2006.5905,1,"DT")
+2980911
+"^DD",2006.59,2006.5905,2,0)
+BEGIN DATE/TIME^F^^BEGIN;1^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.59,2006.5905,2,3)
+Enter a date/time ('ddd yyymmdd.hhmmss' start of frame).
+"^DD",2006.59,2006.5905,2,21,0)
+^^4^4^3000223^^
+"^DD",2006.59,2006.5905,2,21,1,0)
+The value of this field is a date/time string
+"^DD",2006.59,2006.5905,2,21,2,0)
+that indicates the start of the time-frame that
+"^DD",2006.59,2006.5905,2,21,3,0)
+validates as 'positive' for this part of the
+"^DD",2006.59,2006.5905,2,21,4,0)
+routing rule.
+"^DD",2006.59,2006.5905,2,"DT")
+2980911
+"^DD",2006.59,2006.5905,3,0)
+END DATE/TIME^F^^END;1^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.59,2006.5905,3,3)
+Enter a date/time ('ddd yyymmdd.hhmmss' end of frame).
+"^DD",2006.59,2006.5905,3,21,0)
+^^4^4^3000223^^
+"^DD",2006.59,2006.5905,3,21,1,0)
+The value of this field is a date/time string
+"^DD",2006.59,2006.5905,3,21,2,0)
+that indicates the end of the time-frame that
+"^DD",2006.59,2006.5905,3,21,3,0)
+validates as 'positive' for this part of the
+"^DD",2006.59,2006.5905,3,21,4,0)
+routing rule.
+"^DD",2006.59,2006.5905,3,"DT")
+2980911
+"^DD",2006.5906,2006.5906,0)
+FIELD^^2^3
+"^DD",2006.5906,2006.5906,0,"DT")
+3020405
+"^DD",2006.5906,2006.5906,0,"NM","ROUTE LOAD BALANCE")
+
+"^DD",2006.5906,2006.5906,.01,0)
+RULE^RP2006.59'^MAGDICOM(2006.59,^0;1^Q
+"^DD",2006.5906,2006.5906,.01,1,0)
+^.1^^0
+"^DD",2006.5906,2006.5906,.01,3)
+Identify the routing rule for this record.
+"^DD",2006.5906,2006.5906,.01,21,0)
+^^9^9^3020405^
+"^DD",2006.5906,2006.5906,.01,21,1,0)
+The value of this field is a pointer to a Routing Rule
+"^DD",2006.5906,2006.5906,.01,21,2,0)
+(file # 2006.59).
+"^DD",2006.5906,2006.5906,.01,21,3,0)
+ 
+"^DD",2006.5906,2006.5906,.01,21,4,0)
+The information in the current record describes how image files
+"^DD",2006.5906,2006.5906,.01,21,5,0)
+are being routed to destinations, and how the load per destination
+"^DD",2006.5906,2006.5906,.01,21,6,0)
+is balanced, based on a routing rule.
+"^DD",2006.5906,2006.5906,.01,21,7,0)
+ 
+"^DD",2006.5906,2006.5906,.01,21,8,0)
+The value of this field identifies the routing rule that governs
+"^DD",2006.5906,2006.5906,.01,21,9,0)
+the balancing act that is described in the current record.
+"^DD",2006.5906,2006.5906,.01,"DT")
+3020405
+"^DD",2006.5906,2006.5906,1,0)
+PARENT^2006.59061PA^^1;0
+"^DD",2006.5906,2006.5906,2,0)
+BALANCE^F^^2;E1,250^K:$L(X)>250!($L(X)<1) X
+"^DD",2006.5906,2006.5906,2,3)
+Enter the balancing parameters.
+"^DD",2006.5906,2006.5906,2,21,0)
+^^9^9^3020405^
+"^DD",2006.5906,2006.5906,2,21,1,0)
+The value of this field is computed by the program that
+"^DD",2006.5906,2006.5906,2,21,2,0)
+balances the load over multiple destinations.
+"^DD",2006.5906,2006.5906,2,21,3,0)
+ 
+"^DD",2006.5906,2006.5906,2,21,4,0)
+This value is a string that consists of a variable number
+"^DD",2006.5906,2006.5906,2,21,5,0)
+of data elements (the number depends on the number of possible
+"^DD",2006.5906,2006.5906,2,21,6,0)
+destinations in the routine rule, see file # 2006.59).
+"^DD",2006.5906,2006.5906,2,21,7,0)
+ 
+"^DD",2006.5906,2006.5906,2,21,8,0)
+The value for this string is calculated and updated in subroutine
+"^DD",2006.5906,2006.5906,2,21,9,0)
+BALANCE^MAGBRTE2(IMAGE,RULE).
+"^DD",2006.5906,2006.5906,2,"DT")
+3020405
+"^DD",2006.5906,2006.59061,0)
+PARENT SUB-FIELD^^2^3
+"^DD",2006.5906,2006.59061,0,"DT")
+3020405
+"^DD",2006.5906,2006.59061,0,"NM","PARENT")
+
+"^DD",2006.5906,2006.59061,0,"UP")
+2006.5906
+"^DD",2006.5906,2006.59061,.01,0)
+PARENT^P2005'^MAG(2005,^0;1^Q
+"^DD",2006.5906,2006.59061,.01,1,0)
+^.1^^0
+"^DD",2006.5906,2006.59061,.01,3)
+Identify the image(group) to be routed.
+"^DD",2006.5906,2006.59061,.01,21,0)
+^^12^12^3020405^
+"^DD",2006.5906,2006.59061,.01,21,1,0)
+The value of this field is a pointer to the Image File (# 2005).
+"^DD",2006.5906,2006.59061,.01,21,2,0)
+ 
+"^DD",2006.5906,2006.59061,.01,21,3,0)
+While balancing the load over multiple destinations, all images
+"^DD",2006.5906,2006.59061,.01,21,4,0)
+for a given study should be sent to the same destination.
+"^DD",2006.5906,2006.59061,.01,21,5,0)
+ 
+"^DD",2006.5906,2006.59061,.01,21,6,0)
+When the first image of a study is being routed, the balancer
+"^DD",2006.5906,2006.59061,.01,21,7,0)
+creates a new record in this multiple to indicate where all other images
+"^DD",2006.5906,2006.59061,.01,21,8,0)
+for the study to which that image belongs.
+"^DD",2006.5906,2006.59061,.01,21,9,0)
+ 
+"^DD",2006.5906,2006.59061,.01,21,10,0)
+The value of this pointer identifies either the "parent" of
+"^DD",2006.5906,2006.59061,.01,21,11,0)
+a group of images, or a single image, if that image is a "group
+"^DD",2006.5906,2006.59061,.01,21,12,0)
+of 1".
+"^DD",2006.5906,2006.59061,.01,"DT")
+3020405
+"^DD",2006.5906,2006.59061,1,0)
+ROUTE DATE^RD^^0;2^S %DT="EX" D ^%DT S X=Y K:Y<1 X
+"^DD",2006.5906,2006.59061,1,3)
+Enter the date on which this image is to be routed.
+"^DD",2006.5906,2006.59061,1,21,0)
+^^6^6^3020405^
+"^DD",2006.5906,2006.59061,1,21,1,0)
+The value of this field is a string that represents a date
+"^DD",2006.5906,2006.59061,1,21,2,0)
+(no time part included). This date identifies the date on which
+"^DD",2006.5906,2006.59061,1,21,3,0)
+an image file is being routed to a remote destination.
+"^DD",2006.5906,2006.59061,1,21,4,0)
+ 
+"^DD",2006.5906,2006.59061,1,21,5,0)
+The load-balancer uses this date to balance the load (per day)
+"^DD",2006.5906,2006.59061,1,21,6,0)
+over the various possible destinations.
+"^DD",2006.5906,2006.59061,1,"DT")
+3020405
+"^DD",2006.5906,2006.59061,2,0)
+DESTINATION^RNJ9,0^^0;3^K:+X'=X!(X>999999999)!(X<1)!(X?.E1"."1N.N) X
+"^DD",2006.5906,2006.59061,2,3)
+Identify the destination for all images of this study.
+"^DD",2006.5906,2006.59061,2,21,0)
+^^10^10^3020405^
+"^DD",2006.5906,2006.59061,2,21,1,0)
+The value of this field is a pointer to a destination.
+"^DD",2006.5906,2006.59061,2,21,2,0)
+This value is not a pointer in the "normal" sense that FileMan uses:
+"^DD",2006.5906,2006.59061,2,21,3,0)
+it is the value of D2 in the reference
+"^DD",2006.5906,2006.59061,2,21,4,0)
+  ^MAGDICOM(2006.59,D0,"ACTION",D1,1,D2,0)
+"^DD",2006.5906,2006.59061,2,21,5,0)
+ 
+"^DD",2006.5906,2006.59061,2,21,6,0)
+This pointer identifies the data record that contains the identification
+"^DD",2006.5906,2006.59061,2,21,7,0)
+of the destination (which is a variable pointer to either a
+"^DD",2006.5906,2006.59061,2,21,8,0)
+Network Location (file # 2005.2) or a DICOM Application
+"^DD",2006.5906,2006.59061,2,21,9,0)
+(file # 2006.585) to which all images of the current study are
+"^DD",2006.5906,2006.59061,2,21,10,0)
+being transmitted.
+"^DD",2006.5906,2006.59061,2,"DT")
+3020405
+"^DD",2006.596,2006.596,0)
+FIELD^^1^2
+"^DD",2006.596,2006.596,0,"DT")
+3020404
+"^DD",2006.596,2006.596,0,"IX","B",2006.596,.01)
+
+"^DD",2006.596,2006.596,0,"NM","ACTION QUEUE STATUS")
+
+"^DD",2006.596,2006.596,.01,0)
+ACTION QUEUE^RS^SEND:Send;^0;1^Q
+"^DD",2006.596,2006.596,.01,1,0)
+^.1
+"^DD",2006.596,2006.596,.01,1,1,0)
+2006.596^B
+"^DD",2006.596,2006.596,.01,1,1,1)
+S ^MAGDICOM(2006.596,"B",$E(X,1,30),DA)=""
+"^DD",2006.596,2006.596,.01,1,1,2)
+K ^MAGDICOM(2006.596,"B",$E(X,1,30),DA)
+"^DD",2006.596,2006.596,.01,3)
+Enter the name of the queue.
+"^DD",2006.596,2006.596,.01,21,0)
+^^2^2^3020404^
+"^DD",2006.596,2006.596,.01,21,1,0)
+The value of this field is the name of an "action queue".
+"^DD",2006.596,2006.596,.01,21,2,0)
+Currently, only one action queue exists, which has the name "SEND".
+"^DD",2006.596,2006.596,.01,"DT")
+3020404
+"^DD",2006.596,2006.596,1,0)
+THREAD^2006.5961A^^1;0
+"^DD",2006.596,2006.5961,0)
+THREAD SUB-FIELD^^2^2
+"^DD",2006.596,2006.5961,0,"DT")
+3020404
+"^DD",2006.596,2006.5961,0,"NM","THREAD")
+
+"^DD",2006.596,2006.5961,0,"UP")
+2006.596
+"^DD",2006.596,2006.5961,.01,0)
+THREAD^F^^0;1^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.596,2006.5961,.01,1,0)
+^.1^^0
+"^DD",2006.596,2006.5961,.01,3)
+Enter the name of a queue-thread.
+"^DD",2006.596,2006.5961,.01,21,0)
+^.001^6^6^3020404^^
+"^DD",2006.596,2006.5961,.01,21,1,0)
+Each queue may have zero or more "threads".
+"^DD",2006.596,2006.5961,.01,21,2,0)
+Each thread will process an instance of the queue,
+"^DD",2006.596,2006.5961,.01,21,3,0)
+thus taking care of the workload for one or more "origins",
+"^DD",2006.596,2006.5961,.01,21,4,0)
+and delivering to one or more "destinations".
+"^DD",2006.596,2006.5961,.01,21,5,0)
+ 
+"^DD",2006.596,2006.5961,.01,21,6,0)
+The format of names for threads is yet to be decided...
+"^DD",2006.596,2006.5961,.01,"DT")
+3020404
+"^DD",2006.596,2006.5961,2,0)
+STATUS^S^ACTIVE:Active;IDLE:Idle;SUSPENDED:Suspended;^0;2^Q
+"^DD",2006.596,2006.5961,2,3)
+Enter the code for the current status of the queue-thread.
+"^DD",2006.596,2006.5961,2,21,0)
+^^5^5^3020404^
+"^DD",2006.596,2006.5961,2,21,1,0)
+The value of this field is a code for the status of the queue-thread.
+"^DD",2006.596,2006.5961,2,21,2,0)
+Possible values are:
+"^DD",2006.596,2006.5961,2,21,3,0)
+ ACTIVE - thread is active, and has files to process
+"^DD",2006.596,2006.5961,2,21,4,0)
+ IDLE - thread is active, and has no files to process
+"^DD",2006.596,2006.5961,2,21,5,0)
+ SUSPENDED - thread is not active
+"^DD",2006.596,2006.5961,2,"DT")
+3020404
+"^DD",2006.69,2006.69,8,0)
+REMOTE LIST ONLY REMOTE CACHE?^S^1:YES;0:NO;^0;10^Q
+"^DD",2006.69,2006.69,8,3)
+Enter 'NO' to list ALL exams, 'YES' to list only exams that were routed to the remote site.
+"^DD",2006.69,2006.69,8,21,0)
+^.001^6^6^3021001^^^
+"^DD",2006.69,2006.69,8,21,1,0)
+This question only applies to sites that use the Imaging Routing Gateway
+"^DD",2006.69,2006.69,8,21,2,0)
+to route images to a remote facility for reading.
+"^DD",2006.69,2006.69,8,21,3,0)
+ 
+"^DD",2006.69,2006.69,8,21,4,0)
+At the remote reading workstation, the Unread & Recent Exams lists may
+"^DD",2006.69,2006.69,8,21,5,0)
+display either all exams, or only the subset of the exams that have been
+"^DD",2006.69,2006.69,8,21,6,0)
+routed to the remote site. Enter YES to display only the routed exams.
+"^DD",2006.69,2006.69,8,"DT")
+2981222
+"^DD",2006.69,2006.69,9,0)
+SITE SENDS TO REMOTE CACHE^S^1:YES;0:NO;^0;11^Q
+"^DD",2006.69,2006.69,9,3)
+Enter YES if this site routes images to remote locations.
+"^DD",2006.69,2006.69,9,21,0)
+^.001^5^5^3021001^^^
+"^DD",2006.69,2006.69,9,21,1,0)
+This question only applies to sites that use the Imaging Routing Gateway
+"^DD",2006.69,2006.69,9,21,2,0)
+to route images to a remote facility for reading.
+"^DD",2006.69,2006.69,9,21,3,0)
+ 
+"^DD",2006.69,2006.69,9,21,4,0)
+Answering this question YES turns on extra processing that is needed
+"^DD",2006.69,2006.69,9,21,5,0)
+to manage the remote exams properly in VistARad.
+"^DD",2006.69,2006.69,9,"DT")
+2990319
+"^DIC",2006.035,2006.035,0)
+SEND QUEUE^2006.035
+"^DIC",2006.035,2006.035,0,"GL")
+^MAGQUEUE(2006.035,
+"^DIC",2006.035,2006.035,"%D",0)
+^^26^26^3020528^^
+"^DIC",2006.035,2006.035,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.035,2006.035,"%D",2,0)
+ |                                                               |
+"^DIC",2006.035,2006.035,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.035,2006.035,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.035,2006.035,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.035,2006.035,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.035,2006.035,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.035,2006.035,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.035,2006.035,"%D",9,0)
+ |                                                               |
+"^DIC",2006.035,2006.035,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.035,2006.035,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.035,2006.035,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.035,2006.035,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.035,2006.035,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.035,2006.035,"%D",15,0)
+ |                                                               |
+"^DIC",2006.035,2006.035,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.035,2006.035,"%D",17,0)
+ 
+"^DIC",2006.035,2006.035,"%D",18,0)
+The entries in this file each represent a file to be transmitted
+"^DIC",2006.035,2006.035,"%D",19,0)
+to a remote location.
+"^DIC",2006.035,2006.035,"%D",20,0)
+Entries are placed (automatically) into this file when images
+"^DIC",2006.035,2006.035,"%D",21,0)
+are acquired, based on rules that are set up in a separate table.
+"^DIC",2006.035,2006.035,"%D",22,0)
+Entries in this file are processed by a "background routing processor"
+"^DIC",2006.035,2006.035,"%D",23,0)
+that takes care of the actual transmission of files to remote locations,
+"^DIC",2006.035,2006.035,"%D",24,0)
+and also takes care of purging obsolete routed files from those locations.
+"^DIC",2006.035,2006.035,"%D",25,0)
+Processed entries can be purged from this file using a menu option
+"^DIC",2006.035,2006.035,"%D",26,0)
+on the menu of the "Routing Processor".
+"^DIC",2006.035,"B","SEND QUEUE",2006.035)
+
+"^DIC",2006.036,2006.036,0)
+ROUTING STATISTICS^2006.036
+"^DIC",2006.036,2006.036,0,"GL")
+^MAGQUEUE(2006.036,
+"^DIC",2006.036,2006.036,"%",0)
+^1.005^^0
+"^DIC",2006.036,2006.036,"%D",0)
+^^33^33^3020528^^
+"^DIC",2006.036,2006.036,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.036,2006.036,"%D",2,0)
+ |                                                               |
+"^DIC",2006.036,2006.036,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.036,2006.036,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.036,2006.036,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.036,2006.036,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.036,2006.036,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.036,2006.036,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.036,2006.036,"%D",9,0)
+ |                                                               |
+"^DIC",2006.036,2006.036,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.036,2006.036,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.036,2006.036,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.036,2006.036,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.036,2006.036,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.036,2006.036,"%D",15,0)
+ |                                                               |
+"^DIC",2006.036,2006.036,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.036,2006.036,"%D",17,0)
+ 
+"^DIC",2006.036,2006.036,"%D",18,0)
+The entries in this file tally the activity of any automated routing
+"^DIC",2006.036,2006.036,"%D",19,0)
+that takes place on the site where this file resides. Any images
+"^DIC",2006.036,2006.036,"%D",20,0)
+that are transmitted from this file will be tallied in this file.
+"^DIC",2006.036,2006.036,"%D",21,0)
+See also the "DICOM STATION" file, which contains similar information,
+"^DIC",2006.036,2006.036,"%D",22,0)
+but compiled for multiple sites.
+"^DIC",2006.036,2006.036,"%D",23,0)
+
+"^DIC",2006.036,2006.036,"%D",24,0)
+The counts that are reported in this table reflect the numbers of groups
+"^DIC",2006.036,2006.036,"%D",25,0)
+of images that were transmitted to the various locations
+"^DIC",2006.036,2006.036,"%D",26,0)
+The 'Description' field further describes the counts in an entry
+"^DIC",2006.036,2006.036,"%D",27,0)
+to reflect either 'Duration' or 'Lag' time.
+"^DIC",2006.036,2006.036,"%D",28,0)
+'Duration' refers to the total time needed to transmit the whole
+"^DIC",2006.036,2006.036,"%D",29,0)
+group of images
+"^DIC",2006.036,2006.036,"%D",30,0)
+'Lag' time refers to the time-span between the acquisition of the last
+"^DIC",2006.036,2006.036,"%D",31,0)
+file of a group of images, and the transmission of the
+"^DIC",2006.036,2006.036,"%D",32,0)
+first file for that group of images to the destination
+"^DIC",2006.036,2006.036,"%D",33,0)
+in question.
+"^DIC",2006.036,"B","ROUTING STATISTICS",2006.036)
+
+"^DIC",2006.59,2006.59,0)
+ROUTING RULE^2006.59
+"^DIC",2006.59,2006.59,0,"GL")
+^MAGDICOM(2006.59,
+"^DIC",2006.59,2006.59,"%",0)
+^1.005^^
+"^DIC",2006.59,2006.59,"%D",0)
+^^19^19^3020528^^
+"^DIC",2006.59,2006.59,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.59,2006.59,"%D",2,0)
+ |                                                               |
+"^DIC",2006.59,2006.59,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.59,2006.59,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.59,2006.59,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.59,2006.59,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.59,2006.59,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.59,2006.59,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.59,2006.59,"%D",9,0)
+ |                                                               |
+"^DIC",2006.59,2006.59,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.59,2006.59,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.59,2006.59,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.59,2006.59,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.59,2006.59,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.59,2006.59,"%D",15,0)
+ |                                                               |
+"^DIC",2006.59,2006.59,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.59,2006.59,"%D",17,0)
+ 
+"^DIC",2006.59,2006.59,"%D",18,0)
+The entries in this table define the various rules for automatically
+"^DIC",2006.59,2006.59,"%D",19,0)
+routing image files to remote locations.
+"^DIC",2006.59,"B","ROUTING RULE",2006.59)
+
+"^DIC",2006.5906,2006.5906,0)
+ROUTE LOAD BALANCE^2006.5906
+"^DIC",2006.5906,2006.5906,0,"GL")
+^MAGDICOM(2006.5906,
+"^DIC",2006.5906,2006.5906,"%D",0)
+^^31^31^3020405^^
+"^DIC",2006.5906,2006.5906,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.5906,2006.5906,"%D",2,0)
+ |                                                               |
+"^DIC",2006.5906,2006.5906,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.5906,2006.5906,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.5906,2006.5906,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.5906,2006.5906,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.5906,2006.5906,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.5906,2006.5906,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.5906,2006.5906,"%D",9,0)
+ |                                                               |
+"^DIC",2006.5906,2006.5906,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.5906,2006.5906,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.5906,2006.5906,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.5906,2006.5906,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.5906,2006.5906,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.5906,2006.5906,"%D",15,0)
+ |                                                               |
+"^DIC",2006.5906,2006.5906,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.5906,2006.5906,"%D",17,0)
+
+"^DIC",2006.5906,2006.5906,"%D",18,0)
+This file will be used by the software that processes routing rules
+"^DIC",2006.5906,2006.5906,"%D",19,0)
+and that governs the load-balancing of images to be viewed over
+"^DIC",2006.5906,2006.5906,"%D",20,0)
+a number of candidate recipients.
+"^DIC",2006.5906,2006.5906,"%D",21,0)
+
+"^DIC",2006.5906,2006.5906,"%D",22,0)
+The data in this file will be extremely volatile, and any data
+"^DIC",2006.5906,2006.5906,"%D",23,0)
+older than a day will be removed automatically.
+"^DIC",2006.5906,2006.5906,"%D",24,0)
+ 
+"^DIC",2006.5906,2006.5906,"%D",25,0)
+The load-balancer uses the data in this file in two ways:
+"^DIC",2006.5906,2006.5906,"%D",26,0)
+ - when the first image of a new study is being processed,
+"^DIC",2006.5906,2006.5906,"%D",27,0)
+   the load-balancer will calculate the designated recipient
+"^DIC",2006.5906,2006.5906,"%D",28,0)
+   for that study, based on the routing rule in question
+"^DIC",2006.5906,2006.5906,"%D",29,0)
+ - when subsequent images of that study are being processed
+"^DIC",2006.5906,2006.5906,"%D",30,0)
+   the load-balancer will ensure that they are transmitted
+"^DIC",2006.5906,2006.5906,"%D",31,0)
+   to the same destination.
+"^DIC",2006.5906,"B","ROUTE LOAD BALANCE",2006.5906)
+
+"^DIC",2006.596,2006.596,0)
+ACTION QUEUE STATUS^2006.596
+"^DIC",2006.596,2006.596,0,"GL")
+^MAGDICOM(2006.596,
+"^DIC",2006.596,2006.596,"%D",0)
+^^27^27^3020405^^
+"^DIC",2006.596,2006.596,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.596,2006.596,"%D",2,0)
+ |                                                               |
+"^DIC",2006.596,2006.596,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.596,2006.596,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.596,2006.596,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.596,2006.596,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.596,2006.596,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.596,2006.596,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.596,2006.596,"%D",9,0)
+ |                                                               |
+"^DIC",2006.596,2006.596,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.596,2006.596,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.596,2006.596,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.596,2006.596,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.596,2006.596,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.596,2006.596,"%D",15,0)
+ |                                                               |
+"^DIC",2006.596,2006.596,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.596,2006.596,"%D",17,0)
+
+"^DIC",2006.596,2006.596,"%D",18,0)
+This file is used to keep track of the various queues and
+"^DIC",2006.596,2006.596,"%D",19,0)
+queue-threads that are used to conduct automated routing.
+"^DIC",2006.596,2006.596,"%D",20,0)
+
+"^DIC",2006.596,2006.596,"%D",21,0)
+The information in this file will be used by end-users
+"^DIC",2006.596,2006.596,"%D",22,0)
+to view which queue-threads are active, and to indicate that
+"^DIC",2006.596,2006.596,"%D",23,0)
+queue-threads are to be stopped or resumed.
+"^DIC",2006.596,2006.596,"%D",24,0)
+
+"^DIC",2006.596,2006.596,"%D",25,0)
+The various queue-processors will query this file to see
+"^DIC",2006.596,2006.596,"%D",26,0)
+whether a request has been posted to stop (suspend)
+"^DIC",2006.596,2006.596,"%D",27,0)
+the queue-thread that they are processing.
+"^DIC",2006.596,"B","ACTION QUEUE STATUS",2006.596)
+
+**END**
+**END**

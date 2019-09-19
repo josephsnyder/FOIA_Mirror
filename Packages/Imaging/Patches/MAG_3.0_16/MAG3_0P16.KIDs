@@ -1,0 +1,4076 @@
+KIDS Distribution saved on Sep 20, 2002@15:17:59
+Imaging 3.0 *16 KIDS build 8
+**KIDS**:MAG*3.0*16^
+
+**INSTALL NAME**
+MAG*3.0*16
+"BLD",2828,0)
+MAG*3.0*16^IMAGING^0^3020920^y
+"BLD",2828,1,0)
+^^13^13^3020920^^
+"BLD",2828,1,1,0)
+Imaging Patch 16, for VistARad maintenance update.
+"BLD",2828,1,2,0)
+Routine Checksums:
+"BLD",2828,1,3,0)
+MAGGTAU   value = 9853264
+"BLD",2828,1,4,0)
+MAGGTPT1  value = 6979388
+"BLD",2828,1,5,0)
+MAGJEX1   value = 25560938
+"BLD",2828,1,6,0)
+MAGJEX1B  value = 6011556
+"BLD",2828,1,7,0)
+MAGJLS2B  value = 16352911
+"BLD",2828,1,8,0)
+MAGJLS3   value = 16365765
+"BLD",2828,1,9,0)
+MAGJLST1  value = 28077172
+"BLD",2828,1,10,0)
+MAGJMN1   value = 11493328
+"BLD",2828,1,11,0)
+MAGJORD   value = 7374192
+"BLD",2828,1,12,0)
+MAGJUPD1  value = 17522294
+"BLD",2828,1,13,0)
+MAGJUTL3  value = 11237728
+"BLD",2828,4,0)
+^9.64PA^2006.81^1
+"BLD",2828,4,2006.81,0)
+2006.81
+"BLD",2828,4,2006.81,2,0)
+^9.641^2006.81^1
+"BLD",2828,4,2006.81,2,2006.81,0)
+IMAGING WINDOWS WORKSTATIONS  (File-top level)
+"BLD",2828,4,2006.81,2,2006.81,1,0)
+^9.6411^9.7^1
+"BLD",2828,4,2006.81,2,2006.81,1,9.7,0)
+VISTARAD VERSION
+"BLD",2828,4,2006.81,222)
+y^y^p^^^^n
+"BLD",2828,4,"APDD",2006.81,2006.81)
+
+"BLD",2828,4,"APDD",2006.81,2006.81,9.7)
+
+"BLD",2828,4,"B",2006.81,2006.81)
+
+"BLD",2828,"ABNS",0)
+^9.66A^^
+"BLD",2828,"ABPKG")
+n^y^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",2828,"INI")
+
+"BLD",2828,"INIT")
+
+"BLD",2828,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",2828,"KRN",.4,0)
+.4
+"BLD",2828,"KRN",.401,0)
+.401
+"BLD",2828,"KRN",.402,0)
+.402
+"BLD",2828,"KRN",.403,0)
+.403
+"BLD",2828,"KRN",.5,0)
+.5
+"BLD",2828,"KRN",.84,0)
+.84
+"BLD",2828,"KRN",3.6,0)
+3.6
+"BLD",2828,"KRN",3.8,0)
+3.8
+"BLD",2828,"KRN",9.2,0)
+9.2
+"BLD",2828,"KRN",9.8,0)
+9.8
+"BLD",2828,"KRN",9.8,"NM",0)
+^9.68A^11^11
+"BLD",2828,"KRN",9.8,"NM",1,0)
+MAGJEX1^^0^B75496508
+"BLD",2828,"KRN",9.8,"NM",2,0)
+MAGJEX1B^^0^B9860007
+"BLD",2828,"KRN",9.8,"NM",3,0)
+MAGJUPD1^^0^B56610847
+"BLD",2828,"KRN",9.8,"NM",4,0)
+MAGJUTL3^^0^B43911382
+"BLD",2828,"KRN",9.8,"NM",5,0)
+MAGJORD^^0^B14808646
+"BLD",2828,"KRN",9.8,"NM",6,0)
+MAGJLST1^^0^B85459436
+"BLD",2828,"KRN",9.8,"NM",7,0)
+MAGJLS3^^0^B66200627
+"BLD",2828,"KRN",9.8,"NM",8,0)
+MAGJLS2B^^0^B60844861
+"BLD",2828,"KRN",9.8,"NM",9,0)
+MAGGTAU^^0^B44750623
+"BLD",2828,"KRN",9.8,"NM",10,0)
+MAGGTPT1^^0^B22566818
+"BLD",2828,"KRN",9.8,"NM",11,0)
+MAGJMN1^^0^B37975621
+"BLD",2828,"KRN",9.8,"NM","B","MAGGTAU",9)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGGTPT1",10)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJEX1",1)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJEX1B",2)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJLS2B",8)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJLS3",7)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJLST1",6)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJMN1",11)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJORD",5)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJUPD1",3)
+
+"BLD",2828,"KRN",9.8,"NM","B","MAGJUTL3",4)
+
+"BLD",2828,"KRN",19,0)
+19
+"BLD",2828,"KRN",19,"NM",0)
+^9.68A^1^1
+"BLD",2828,"KRN",19,"NM",1,0)
+MAGJ VISTARAD WINDOWS^^0
+"BLD",2828,"KRN",19,"NM","B","MAGJ VISTARAD WINDOWS",1)
+
+"BLD",2828,"KRN",19.1,0)
+19.1
+"BLD",2828,"KRN",101,0)
+101
+"BLD",2828,"KRN",409.61,0)
+409.61
+"BLD",2828,"KRN",771,0)
+771
+"BLD",2828,"KRN",870,0)
+870
+"BLD",2828,"KRN",8989.51,0)
+8989.51
+"BLD",2828,"KRN",8989.52,0)
+8989.52
+"BLD",2828,"KRN",8994,0)
+8994
+"BLD",2828,"KRN",8994,"NM",0)
+^9.68A^2^2
+"BLD",2828,"KRN",8994,"NM",1,0)
+MAGJ LOGOFF^^0
+"BLD",2828,"KRN",8994,"NM",2,0)
+MAGJ PT INFO^^0
+"BLD",2828,"KRN",8994,"NM","B","MAGJ LOGOFF",1)
+
+"BLD",2828,"KRN",8994,"NM","B","MAGJ PT INFO",2)
+
+"BLD",2828,"KRN","B",.4,.4)
+
+"BLD",2828,"KRN","B",.401,.401)
+
+"BLD",2828,"KRN","B",.402,.402)
+
+"BLD",2828,"KRN","B",.403,.403)
+
+"BLD",2828,"KRN","B",.5,.5)
+
+"BLD",2828,"KRN","B",.84,.84)
+
+"BLD",2828,"KRN","B",3.6,3.6)
+
+"BLD",2828,"KRN","B",3.8,3.8)
+
+"BLD",2828,"KRN","B",9.2,9.2)
+
+"BLD",2828,"KRN","B",9.8,9.8)
+
+"BLD",2828,"KRN","B",19,19)
+
+"BLD",2828,"KRN","B",19.1,19.1)
+
+"BLD",2828,"KRN","B",101,101)
+
+"BLD",2828,"KRN","B",409.61,409.61)
+
+"BLD",2828,"KRN","B",771,771)
+
+"BLD",2828,"KRN","B",870,870)
+
+"BLD",2828,"KRN","B",8989.51,8989.51)
+
+"BLD",2828,"KRN","B",8989.52,8989.52)
+
+"BLD",2828,"KRN","B",8994,8994)
+
+"BLD",2828,"QUES",0)
+^9.62^^
+"BLD",2828,"REQB",0)
+^9.611^1^1
+"BLD",2828,"REQB",1,0)
+MAG*3.0*7^2
+"BLD",2828,"REQB","B","MAG*3.0*7",1)
+
+"FIA",2006.81)
+IMAGING WINDOWS WORKSTATIONS
+"FIA",2006.81,0)
+^MAG(2006.81,
+"FIA",2006.81,0,0)
+2006.81
+"FIA",2006.81,0,1)
+y^y^p^^^^n
+"FIA",2006.81,0,10)
+
+"FIA",2006.81,0,11)
+
+"FIA",2006.81,0,"RLRO")
+
+"FIA",2006.81,0,"VR")
+3.0^MAG
+"FIA",2006.81,2006.81)
+1
+"FIA",2006.81,2006.81,9.7)
+
+"KRN",19,20839,-1)
+0^1
+"KRN",19,20839,0)
+MAGJ VISTARAD WINDOWS^MAGJ VISTARAD RPC'S^^B^^^^^^^^
+"KRN",19,20839,1,0)
+^19.06^1^1^3010321^^^
+"KRN",19,20839,1,1,0)
+This option is the Broker entry for holding the Imaging VistaRad RPC's.
+"KRN",19,20839,99.1)
+58510,33726
+"KRN",19,20839,"RPC",0)
+^19.05P^29^29
+"KRN",19,20839,"RPC",1,0)
+MAGJ CACHELOCATION
+"KRN",19,20839,"RPC",3,0)
+MAGJ PTRADEXAMS
+"KRN",19,20839,"RPC",4,0)
+MAGJ RADACTIVEEXAMS
+"KRN",19,20839,"RPC",5,0)
+MAGJ RADCASEIMAGES
+"KRN",19,20839,"RPC",6,0)
+MAGJ RADSTATUSUPDATE
+"KRN",19,20839,"RPC",7,0)
+MAGJ CUSTOM LISTS
+"KRN",19,20839,"RPC",8,0)
+MAGGUSER2
+"KRN",19,20839,"RPC",11,0)
+MAGGRADREPORT
+"KRN",19,20839,"RPC",12,0)
+MAGGDGRPD
+"KRN",19,20839,"RPC",13,0)
+MAGGHSLIST
+"KRN",19,20839,"RPC",14,0)
+MAGGHS
+"KRN",19,20839,"RPC",15,0)
+MAGJ RADORDERDISP
+"KRN",19,20839,"RPC",16,0)
+MAGG PAT FIND
+"KRN",19,20839,"RPC",17,0)
+MAGG PAT INFO
+"KRN",19,20839,"RPC",18,0)
+MAGG PAT BS5 CHECK
+"KRN",19,20839,"RPC",19,0)
+DG CHK PAT/DIV MEANS TEST
+"KRN",19,20839,"RPC",20,0)
+DG SENSITIVE RECORD ACCESS
+"KRN",19,20839,"RPC",21,0)
+DG SENSITIVE RECORD BULLETIN
+"KRN",19,20839,"RPC",22,0)
+MAGJ PT ALL EXAMS
+"KRN",19,20839,"RPC",23,0)
+MAGJ EXAM REPORT
+"KRN",19,20839,"RPC",25,0)
+MAGJ ROUTE ENABLE
+"KRN",19,20839,"RPC",26,0)
+MAGJ ROUTE EXAMS
+"KRN",19,20839,"RPC",27,0)
+MAGJ ROUTE REQUEST
+"KRN",19,20839,"RPC",28,0)
+MAGJ LOGOFF
+"KRN",19,20839,"RPC",29,0)
+MAGJ PT INFO
+"KRN",19,20839,"U")
+MAGJ VISTARAD RPC'S
+"KRN",8994,1261,-1)
+0^2
+"KRN",8994,1261,0)
+MAGJ PT INFO^PINF1^MAGJUTL3^1^R
+"KRN",8994,1261,1,0)
+^8994.01^16^16^3020703^^^
+"KRN",8994,1261,1,1,0)
+ +---------------------------------------------------------------+
+"KRN",8994,1261,1,2,0)
+ | Property of the US Government.                                |
+"KRN",8994,1261,1,3,0)
+ | No permission to copy or redistribute this software is given. |
+"KRN",8994,1261,1,4,0)
+ | Use of unreleased versions of this software requires the user |
+"KRN",8994,1261,1,5,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"KRN",8994,1261,1,6,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"KRN",8994,1261,1,7,0)
+ | telephone (301) 734-0100.                                     |
+"KRN",8994,1261,1,8,0)
+ |                                                               |
+"KRN",8994,1261,1,9,0)
+ | The Food and Drug Administration classifies this software as  |
+"KRN",8994,1261,1,10,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"KRN",8994,1261,1,11,0)
+ | Modifications to this software may result in an adulterated   |
+"KRN",8994,1261,1,12,0)
+ | medical device under 21CFR820, the use of which is considered |
+"KRN",8994,1261,1,13,0)
+ | to be a violation of US Federal Statutes.                     |
+"KRN",8994,1261,1,14,0)
+ +---------------------------------------------------------------+
+"KRN",8994,1261,1,15,0)
+ 
+"KRN",8994,1261,1,16,0)
+Returns Patient data for the DFN input.
+"KRN",8994,1261,2,0)
+^8994.02A^1^1
+"KRN",8994,1261,2,1,0)
+MAGDFN^1^30^1^1
+"KRN",8994,1261,2,1,1,0)
+^8994.021^1^1^3020703^^^
+"KRN",8994,1261,2,1,1,1,0)
+Patient DFN
+"KRN",8994,1261,2,"B","MAGDFN",1)
+
+"KRN",8994,1261,2,"PARAMSEQ",1,1)
+
+"KRN",8994,1261,3,0)
+^8994.03^10^10^3020703^^
+"KRN",8994,1261,3,1,0)
+ 
+"KRN",8994,1261,3,2,0)
+Returns an '^' delimited string of patient info in the format :
+"KRN",8994,1261,3,3,0)
+        Field   Field Description
+"KRN",8994,1261,3,4,0)
+ $p(1)  .01      name
+"KRN",8994,1261,3,5,0)
+ $p(2)  .02      sex
+"KRN",8994,1261,3,6,0)
+ $p(3)  .03      DOB
+"KRN",8994,1261,3,7,0)
+ $p(4)  .09      SSN
+"KRN",8994,1261,3,8,0)
+ $p(5)  .301    S/C
+"KRN",8994,1261,3,9,0)
+ $p(6)  391     TYPE
+"KRN",8994,1261,3,10,0)
+ $p(7)  1901   Veteran(y/n)
+"KRN",8994,1279,-1)
+0^1
+"KRN",8994,1279,0)
+MAGJ LOGOFF^LOGOFF^MAGJUTL3^1^R
+"KRN",8994,1279,1,0)
+^^1^1^3020703^
+"KRN",8994,1279,1,1,0)
+Capture the Logoff event for the Imaging Session file.
+"KRN",8994,1279,3,0)
+^^1^1^3020703^
+"KRN",8994,1279,3,1,0)
+Always returns "1"
+"MBREQ")
+0
+"ORD",16,8994)
+8994;16;1;;;;;;;RPCDEL^XPDIA1
+"ORD",16,8994,0)
+REMOTE PROCEDURE
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging-V1 to release 
+"PKG",454,20,0)
+^9.402P^^
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020319^3020402^126
+"PKG",454,22,1,"PAH",1,0)
+16^3020920^131
+"PKG",454,22,1,"PAH",1,1,0)
+^^13^13^3020920
+"PKG",454,22,1,"PAH",1,1,1,0)
+Imaging Patch 16, for VistARad maintenance update.
+"PKG",454,22,1,"PAH",1,1,2,0)
+Routine Checksums:
+"PKG",454,22,1,"PAH",1,1,3,0)
+MAGGTAU   value = 9853264
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGGTPT1  value = 6979388
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGJEX1   value = 25560938
+"PKG",454,22,1,"PAH",1,1,6,0)
+MAGJEX1B  value = 6011556
+"PKG",454,22,1,"PAH",1,1,7,0)
+MAGJLS2B  value = 16352911
+"PKG",454,22,1,"PAH",1,1,8,0)
+MAGJLS3   value = 16365765
+"PKG",454,22,1,"PAH",1,1,9,0)
+MAGJLST1  value = 28077172
+"PKG",454,22,1,"PAH",1,1,10,0)
+MAGJMN1   value = 11493328
+"PKG",454,22,1,"PAH",1,1,11,0)
+MAGJORD   value = 7374192
+"PKG",454,22,1,"PAH",1,1,12,0)
+MAGJUPD1  value = 17522294
+"PKG",454,22,1,"PAH",1,1,13,0)
+MAGJUTL3  value = 11237728
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+11
+"RTN","MAGGTAU")
+0^9^B44750623
+"RTN","MAGGTAU",1,0)
+MAGGTAU ;WOIFO/GEK - RPC Calls to Update the Imaging Windows Workstation file ; [ 03/25/2001 11:20 ]
+"RTN","MAGGTAU",2,0)
+ ;;3.0;IMAGING;**7,16**;Apr 17, 2002
+"RTN","MAGGTAU",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTAU",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGTAU",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGTAU",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGTAU",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGTAU",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGTAU",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGTAU",10,0)
+ ;; |                                                               |
+"RTN","MAGGTAU",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGTAU",12,0)
+ ;; | a medical device.  As such, it may not be changed             |
+"RTN","MAGGTAU",13,0)
+ ;; | in any way.  Modifications to this software may result in an  |
+"RTN","MAGGTAU",14,0)
+ ;; | adulterated medical device under 21CFR820, the use of which   |
+"RTN","MAGGTAU",15,0)
+ ;; | is considered to be a violation of US Federal Statutes.       |
+"RTN","MAGGTAU",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTAU",17,0)
+ ;;
+"RTN","MAGGTAU",18,0)
+ Q
+"RTN","MAGGTAU",19,0)
+UPD(MAGRY,DATA) ;RPC Call from workstation updating it's exe's Date/Time
+"RTN","MAGGTAU",20,0)
+ ; and other Workstation information into IMAGING WINDOWS WORKSTATION
+"RTN","MAGGTAU",21,0)
+ ; at logon of user.
+"RTN","MAGGTAU",22,0)
+ ; 
+"RTN","MAGGTAU",23,0)
+ ; DATA is '^' delimited piece
+"RTN","MAGGTAU",24,0)
+ ; 1 Workstation name            2 Date/Time of capture app.
+"RTN","MAGGTAU",25,0)
+ ; 3 Date/Time of Display App.
+"RTN","MAGGTAU",26,0)
+ ; 4 Location of worksation      5 Date/Time of MAGSETUP
+"RTN","MAGGTAU",27,0)
+ ; 6 Version of Display          7 Version of Capture 
+"RTN","MAGGTAU",28,0)
+ ; 8  1=Normal startup 2=Started by CPRS
+"RTN","MAGGTAU",29,0)
+ ; 9 OS Version                 10 VistaRad Version
+"RTN","MAGGTAU",30,0)
+ N X,Y,Z
+"RTN","MAGGTAU",31,0)
+ N MAGNAME,MAGCDT,MAGDDT,MAG0,MAGLOC,MAGIEN,MAGSETUP,MAGSTART,MAGSRV
+"RTN","MAGGTAU",32,0)
+ N MAGVERSD,MAGVERSC,MAGMODE,MAGOSVER,MAGVERVR
+"RTN","MAGGTAU",33,0)
+ K MAGGFDA,MAGXERR,MAGXIEN
+"RTN","MAGGTAU",34,0)
+ S MAGNAME=$P(DATA,U,1)
+"RTN","MAGGTAU",35,0)
+ S MAGCDT=$P(DATA,U,2)
+"RTN","MAGGTAU",36,0)
+ S MAGDDT=$P(DATA,U,3)
+"RTN","MAGGTAU",37,0)
+ S MAGLOC=$P(DATA,U,4)
+"RTN","MAGGTAU",38,0)
+ S MAGSETUP=$P(DATA,U,5)
+"RTN","MAGGTAU",39,0)
+ S MAGVERSD=$P(DATA,U,6)
+"RTN","MAGGTAU",40,0)
+ S MAGVERSC=$P(DATA,U,7)
+"RTN","MAGGTAU",41,0)
+ S MAGMODE=$P(DATA,U,8)
+"RTN","MAGGTAU",42,0)
+ S MAGOSVER=$P(DATA,U,9)
+"RTN","MAGGTAU",43,0)
+ S MAGVERVR=$P(DATA,U,10)
+"RTN","MAGGTAU",44,0)
+ S MAGIEN=0
+"RTN","MAGGTAU",45,0)
+ I $L(MAGNAME) S MAGIEN=$O(^MAG(2006.81,"B",MAGNAME,""))
+"RTN","MAGGTAU",46,0)
+ I 'MAGIEN D NEWWRKS(MAGNAME,MAGLOC,.MAGIEN)
+"RTN","MAGGTAU",47,0)
+ I MAGIEN<1 S MAGRY="0^Workstation Not on file" Q
+"RTN","MAGGTAU",48,0)
+ ;
+"RTN","MAGGTAU",49,0)
+ S %DT="T",X=MAGCDT D ^%DT S MAGCDT=Y
+"RTN","MAGGTAU",50,0)
+ S %DT="T",X=MAGDDT D ^%DT S MAGDDT=Y
+"RTN","MAGGTAU",51,0)
+ S %DT="T",X=MAGSETUP D ^%DT S MAGSETUP=Y
+"RTN","MAGGTAU",52,0)
+ S MAG0=^MAG(2006.81,MAGIEN,0) ; '0' node for use later.
+"RTN","MAGGTAU",53,0)
+ L +^MAG(2006.81,"LOCK",MAGIEN):0
+"RTN","MAGGTAU",54,0)
+ S MAGIEN=+MAGIEN_","
+"RTN","MAGGTAU",55,0)
+ S MAGGFDA(2006.81,MAGIEN,.01)=MAGNAME ; Compter Name
+"RTN","MAGGTAU",56,0)
+ I MAGCDT>-1 S MAGGFDA(2006.81,MAGIEN,4)=MAGCDT ;TELE19N.EXE dttm
+"RTN","MAGGTAU",57,0)
+ I MAGDDT>-1 S MAGGFDA(2006.81,MAGIEN,5)=MAGDDT ;IMGVWP10.EXE dttm 
+"RTN","MAGGTAU",58,0)
+ I MAGSETUP>-1 S MAGGFDA(2006.81,MAGIEN,7)=MAGSETUP ; MAGSETUP.EXE dttm
+"RTN","MAGGTAU",59,0)
+ S MAGGFDA(2006.81,MAGIEN,8)=1 ; Active or not.
+"RTN","MAGGTAU",60,0)
+ S MAGGFDA(2006.81,MAGIEN,6)=MAGLOC ; location free text from .INI
+"RTN","MAGGTAU",61,0)
+ S MAGGFDA(2006.81,MAGIEN,3)="@" ; delete logff time for this job.
+"RTN","MAGGTAU",62,0)
+ S MAGGFDA(2006.81,MAGIEN,10)="@" ; delete session pointer
+"RTN","MAGGTAU",63,0)
+ S MAGGFDA(2006.81,MAGIEN,11)="@" ; reset the session error count.
+"RTN","MAGGTAU",64,0)
+ S MAGGFDA(2006.81,MAGIEN,9)=MAGVERSD ; IMGVWP10.EXE Version Info
+"RTN","MAGGTAU",65,0)
+ S MAGGFDA(2006.81,MAGIEN,9.5)=MAGVERSC ; TELE19N.EXE Version Info
+"RTN","MAGGTAU",66,0)
+ S MAGGFDA(2006.81,MAGIEN,9.7)=MAGVERVR ; VistARad.EXE Version Info
+"RTN","MAGGTAU",67,0)
+ S MAGGFDA(2006.81,MAGIEN,13)=MAGOSVER ; Operating System Version.
+"RTN","MAGGTAU",68,0)
+ ;
+"RTN","MAGGTAU",69,0)
+ S X=$P(MAG0,U,12)
+"RTN","MAGGTAU",70,0)
+ S MAGGFDA(2006.81,MAGIEN,12)=X+1 ; total session count for workstation
+"RTN","MAGGTAU",71,0)
+ ;
+"RTN","MAGGTAU",72,0)
+ S X=$$NOW^XLFDT
+"RTN","MAGGTAU",73,0)
+ S MAGSTART=$E(X,1,12)
+"RTN","MAGGTAU",74,0)
+ I $G(DUZ) D 
+"RTN","MAGGTAU",75,0)
+ . S MAGGFDA(2006.81,MAGIEN,1)=DUZ
+"RTN","MAGGTAU",76,0)
+ . S MAGGFDA(2006.81,MAGIEN,2)=MAGSTART
+"RTN","MAGGTAU",77,0)
+ ;
+"RTN","MAGGTAU",78,0)
+ D UPDATE^DIE("S","MAGGFDA","MAGXIEN","MAGXERR")
+"RTN","MAGGTAU",79,0)
+ I $D(DIERR) D RTRNERR(.MAGRY) Q
+"RTN","MAGGTAU",80,0)
+ ; The " MAGJOB(" array is used by other Imaging routines that are
+"RTN","MAGGTAU",81,0)
+ ; called from the Delphi application.  Instead of variables we are
+"RTN","MAGGTAU",82,0)
+ ; going to use nodes of the local array MAGJ0B.  Mainly to give an
+"RTN","MAGGTAU",83,0)
+ ; object feel to the RPC calls and organize the shared global variables.
+"RTN","MAGGTAU",84,0)
+ ; This will help stop the use of different variable names for the same 
+"RTN","MAGGTAU",85,0)
+ ; variable.
+"RTN","MAGGTAU",86,0)
+ ;
+"RTN","MAGGTAU",87,0)
+ S MAGJOB("WRKSIEN")=+MAGIEN
+"RTN","MAGGTAU",88,0)
+ S MAGJOB("VERSION")=MAGVERSD
+"RTN","MAGGTAU",89,0)
+ S MAGRY="1^"
+"RTN","MAGGTAU",90,0)
+ ;
+"RTN","MAGGTAU",91,0)
+ ; SESSION : Now here we have to create a new session entry;
+"RTN","MAGGTAU",92,0)
+ ;
+"RTN","MAGGTAU",93,0)
+ D GETS^DIQ(200,DUZ_",","29","I","Z","") ; service/section
+"RTN","MAGGTAU",94,0)
+ S MAGSRV=$G(Z(200,DUZ_",",29,"I"))
+"RTN","MAGGTAU",95,0)
+ ;
+"RTN","MAGGTAU",96,0)
+ K MAGGFDA,MAGXERR,MAGXIEN
+"RTN","MAGGTAU",97,0)
+ S MAGGFDA(2006.82,"+1,",.01)=$P(^VA(200,DUZ,0),U,1) ; User
+"RTN","MAGGTAU",98,0)
+ S MAGGFDA(2006.82,"+1,",1)=DUZ ; USER
+"RTN","MAGGTAU",99,0)
+ S MAGGFDA(2006.82,"+1,",2)=MAGSTART ; Session Start Time
+"RTN","MAGGTAU",100,0)
+ S MAGGFDA(2006.82,"+1,",4)=+MAGIEN ; Workstation 
+"RTN","MAGGTAU",101,0)
+ S MAGGFDA(2006.82,"+1,",7)=+MAGSRV ; User's Service/Section pointer
+"RTN","MAGGTAU",102,0)
+ S MAGGFDA(2006.82,"+1,",13)=MAGMODE ; 1=normal 2= started by CPRS
+"RTN","MAGGTAU",103,0)
+ ;
+"RTN","MAGGTAU",104,0)
+ ;
+"RTN","MAGGTAU",105,0)
+ D UPDATE^DIE("","MAGGFDA","MAGXIEN","MAGXERR")
+"RTN","MAGGTAU",106,0)
+ I $D(DIERR) D RTRNERR(.MAGRY) Q
+"RTN","MAGGTAU",107,0)
+ S MAGRY="1^"
+"RTN","MAGGTAU",108,0)
+ I '+MAGXIEN(1) S MAGRY="0^" Q
+"RTN","MAGGTAU",109,0)
+ S MAGJOB("SESSION")=+MAGXIEN(1)
+"RTN","MAGGTAU",110,0)
+ S MAGRY=MAGJOB("SESSION")_"^Session # "_MAGJOB("SESSION")_" Started."
+"RTN","MAGGTAU",111,0)
+ S MAGGFDA(2006.81,+MAGIEN_",",10)=+MAGXIEN(1)
+"RTN","MAGGTAU",112,0)
+ D UPDATE^DIE("","MAGGFDA","MAGXIEN","MAGXERR")
+"RTN","MAGGTAU",113,0)
+ D ACTION("LOGON^")
+"RTN","MAGGTAU",114,0)
+ Q
+"RTN","MAGGTAU",115,0)
+LOGACT(MAGRY,ACTION) ;RPC Call to log actions for Imaging Session from 
+"RTN","MAGGTAU",116,0)
+ ; Delphi interface
+"RTN","MAGGTAU",117,0)
+ D ACTION(ACTION)
+"RTN","MAGGTAU",118,0)
+ S MAGRY="1^Action Logged"
+"RTN","MAGGTAU",119,0)
+ Q
+"RTN","MAGGTAU",120,0)
+ACTION(TXT,LOGTM,MAGSESS) ;Call to log actions for Imaging Session from other M routines
+"RTN","MAGGTAU",121,0)
+ ; ACTIONS LOGGED 
+"RTN","MAGGTAU",122,0)
+ ; LOGON - Session StartTime     LOGOFF - Session End Time
+"RTN","MAGGTAU",123,0)
+ ; IMG   - Image accessed        PAT    - Patient Accessed
+"RTN","MAGGTAU",124,0)
+ ; CAP   - Image Captured        MOD    - Image entry modified
+"RTN","MAGGTAU",125,0)
+ ; IMPORT - Import API has been called
+"RTN","MAGGTAU",126,0)
+ ; Data   - a node of data passed to Import API
+"RTN","MAGGTAU",127,0)
+ ; Result - a node of the Result Array from Import API Processing.
+"RTN","MAGGTAU",128,0)
+ ; VR-VW  - VistaRad Exam displayed
+"RTN","MAGGTAU",129,0)
+ ; VR-INT - VistaRad Exam interpreted
+"RTN","MAGGTAU",130,0)
+ ;
+"RTN","MAGGTAU",131,0)
+ ; TXT is "^" delimited string
+"RTN","MAGGTAU",132,0)
+ ; $P(1) is code ( see above )   $P(2) is DFN
+"RTN","MAGGTAU",133,0)
+ ; $P(3) is Image IEN            $P(4) reserved for procedure
+"RTN","MAGGTAU",134,0)
+ ; $P(5) reserved for time-stamp $P(6) is Vrad Image Count
+"RTN","MAGGTAU",135,0)
+ ; $P(7) is Vrad Patient Count   
+"RTN","MAGGTAU",136,0)
+ ; $P(8) is Vrad User Type (1/0 = Rad/Non-Rad)
+"RTN","MAGGTAU",137,0)
+ ; $P(9) is Vrad REMOTE Read flag (1/0; 1=REMOTE)
+"RTN","MAGGTAU",138,0)
+ ;
+"RTN","MAGGTAU",139,0)
+ ; LOGTM   - [1|0] Flag to indicate wheter or not to log the time of the Action.  Default = 0
+"RTN","MAGGTAU",140,0)
+ ; MAGSESS - Session IEN where the action should be logged.  Default to MAGJOB("SESSION")
+"RTN","MAGGTAU",141,0)
+ ;
+"RTN","MAGGTAU",142,0)
+ N NODE,SESSIEN,MAGGFDA,MAGXERR,MAGXIEN,MAGPROC
+"RTN","MAGGTAU",143,0)
+ S LOGTM=$G(LOGTM)
+"RTN","MAGGTAU",144,0)
+ S SESSIEN=$S($G(MAGSESS):MAGSESS,$D(MAGJOB("SESSION")):MAGJOB("SESSION"),1:0)
+"RTN","MAGGTAU",145,0)
+ I 'SESSIEN Q
+"RTN","MAGGTAU",146,0)
+ S NODE="+1,"_SESSIEN_","
+"RTN","MAGGTAU",147,0)
+ I $P(TXT,U,3) S MAGPROC=$P(^MAG(2005,$P(TXT,U,3),0),U,8)
+"RTN","MAGGTAU",148,0)
+ ;
+"RTN","MAGGTAU",149,0)
+ I $P(TXT,U)="PAT" D
+"RTN","MAGGTAU",150,0)
+ . S Z=+$G(^MAG(2006.82,SESSIEN,1))+1
+"RTN","MAGGTAU",151,0)
+ . S MAGGFDA(2006.82,SESSIEN_",",10)=Z
+"RTN","MAGGTAU",152,0)
+ I $P(TXT,U)="IMG" D
+"RTN","MAGGTAU",153,0)
+ . S Z=+$P($G(^MAG(2006.82,SESSIEN,1)),U,2)+1
+"RTN","MAGGTAU",154,0)
+ . S MAGGFDA(2006.82,SESSIEN_",",11)=Z
+"RTN","MAGGTAU",155,0)
+ I $P(TXT,U)="CAP" D
+"RTN","MAGGTAU",156,0)
+ . S Z=+$P($G(^MAG(2006.82,SESSIEN,1)),U,3)+1
+"RTN","MAGGTAU",157,0)
+ . S MAGGFDA(2006.82,SESSIEN_",",12)=Z
+"RTN","MAGGTAU",158,0)
+ I $P(TXT,U,2) D
+"RTN","MAGGTAU",159,0)
+ . S MAGGFDA(2006.82,SESSIEN_",",5)=$P(TXT,U,2)
+"RTN","MAGGTAU",160,0)
+ I LOGTM D
+"RTN","MAGGTAU",161,0)
+ . S X=$$NOW^XLFDT
+"RTN","MAGGTAU",162,0)
+ . S $P(TXT,U,4)=$G(MAGPROC),$P(TXT,U,5)=$E(X,1,12)
+"RTN","MAGGTAU",163,0)
+ S MAGGFDA(2006.821,NODE,.01)=TXT
+"RTN","MAGGTAU",164,0)
+ D UPDATE^DIE("S","MAGGFDA","MAGXIEN","MAGXERR")
+"RTN","MAGGTAU",165,0)
+ Q
+"RTN","MAGGTAU",166,0)
+TESTERR(SESSIEN) ;
+"RTN","MAGGTAU",167,0)
+ K MAGGFDA,MAGXERR,MAGXIEN
+"RTN","MAGGTAU",168,0)
+ I '$D(^MAG(2006.82,SESSIEN)) Q
+"RTN","MAGGTAU",169,0)
+ S X="+1,"_SESSIEN_","
+"RTN","MAGGTAU",170,0)
+ S MAGGFDA(2006.823,X,.01)="FAKE ERROR TEXT"
+"RTN","MAGGTAU",171,0)
+ D UPDATE^DIE("S","MAGGFDA","MAGXIEN","MAGXERR")
+"RTN","MAGGTAU",172,0)
+ Q
+"RTN","MAGGTAU",173,0)
+NEWWRKS(MAGNAME,MAGLOC,MAGIEN) ;
+"RTN","MAGGTAU",174,0)
+ N Y
+"RTN","MAGGTAU",175,0)
+ K DD,DO,DIC S DIC="^MAG(2006.81,",DIC(0)="L"
+"RTN","MAGGTAU",176,0)
+ S X=MAGNAME
+"RTN","MAGGTAU",177,0)
+ Q:X=""  ;
+"RTN","MAGGTAU",178,0)
+ S DIC("DR")="6////"_MAGLOC
+"RTN","MAGGTAU",179,0)
+ D FILE^DICN
+"RTN","MAGGTAU",180,0)
+ S MAGIEN=+Y
+"RTN","MAGGTAU",181,0)
+ Q
+"RTN","MAGGTAU",182,0)
+LOGOFF(MAGRY) ;RPC Call when session is over.  
+"RTN","MAGGTAU",183,0)
+ ; This will update session file with logoff time, and mark the 
+"RTN","MAGGTAU",184,0)
+ ;  session entry as closed.
+"RTN","MAGGTAU",185,0)
+ ;
+"RTN","MAGGTAU",186,0)
+ K ^TMP("MAGGTAU","LOGOFF",$J)
+"RTN","MAGGTAU",187,0)
+ S MAGRY=1
+"RTN","MAGGTAU",188,0)
+ N MAGGFDA,MAGXERR,MAGXIEN,MAGIEN,MAGSESS,MAGEND,MAGCON
+"RTN","MAGGTAU",189,0)
+ ; THIS WILL BE USED TO KEEP TIME OF USER SESSIOIN.
+"RTN","MAGGTAU",190,0)
+ ; THE Imaging Workstation file now keeps time of login
+"RTN","MAGGTAU",191,0)
+ ; We need to enter the logoff time ($$now^xlfdt) here.
+"RTN","MAGGTAU",192,0)
+ S X=$$NOW^XLFDT
+"RTN","MAGGTAU",193,0)
+ S MAGEND=$E(X,1,12)
+"RTN","MAGGTAU",194,0)
+ Q:'+$G(MAGJOB("WRKSIEN"))
+"RTN","MAGGTAU",195,0)
+ L -^MAG(2006.81,"LOCK",MAGJOB("WRKSIEN"))
+"RTN","MAGGTAU",196,0)
+ S MAGIEN=+MAGJOB("WRKSIEN")_","
+"RTN","MAGGTAU",197,0)
+ S MAGGFDA(2006.81,MAGIEN,3)=MAGEND ; logoff dttm
+"RTN","MAGGTAU",198,0)
+ S MAGGFDA(2006.81,MAGIEN,8)=0 ; Set job number to 0
+"RTN","MAGGTAU",199,0)
+ D UPDATE^DIE("S","MAGGFDA","MAGXIEN","MAGXERR")
+"RTN","MAGGTAU",200,0)
+ ;MAGJOB("WRKSIEN")
+"RTN","MAGGTAU",201,0)
+ Q:(+$G(MAGJOB("SESSION"))=0)
+"RTN","MAGGTAU",202,0)
+ S MAGSESS=+MAGJOB("SESSION")_","
+"RTN","MAGGTAU",203,0)
+ K MAGGFDA,MAGXERR,MAGXIEN
+"RTN","MAGGTAU",204,0)
+ S MAGGFDA(2006.82,MAGSESS,3)=MAGEND
+"RTN","MAGGTAU",205,0)
+ ; calculate the length of the session
+"RTN","MAGGTAU",206,0)
+ S MAGCON=""
+"RTN","MAGGTAU",207,0)
+ S MAGGFDA(2006.82,MAGSESS,14)=MAGCON
+"RTN","MAGGTAU",208,0)
+ D UPDATE^DIE("S","MAGGFDA","MAGXIEN","MAGXERR")
+"RTN","MAGGTAU",209,0)
+ D ACTION("LOGOFF^")
+"RTN","MAGGTAU",210,0)
+ ;
+"RTN","MAGGTAU",211,0)
+ Q
+"RTN","MAGGTAU",212,0)
+RTRNERR(ETXT) ; There was error from UPDATE^DIE quit with error text
+"RTN","MAGGTAU",213,0)
+ S ETXT="0^ERROR  "_MAGXERR("DIERR",1,"TEXT",1)
+"RTN","MAGGTAU",214,0)
+ Q
+"RTN","MAGGTAU",215,0)
+CHKVER(MAGRY,MAGVER) ;
+"RTN","MAGGTAU",216,0)
+ ; MAGVER is the version of the Delphi App.  We can decide here, if the 
+"RTN","MAGGTAU",217,0)
+ ;  Delphi App should continue , or we can force it to exit.
+"RTN","MAGGTAU",218,0)
+ ;  
+"RTN","MAGGTAU",219,0)
+ ;  For now we let it continue.
+"RTN","MAGGTAU",220,0)
+ S MAGRY(0)="1^Version not Checked, continue"
+"RTN","MAGGTAU",221,0)
+ Q
+"RTN","MAGGTPT1")
+0^10^B22566818
+"RTN","MAGGTPT1",1,0)
+MAGGTPT1 ;WOIFO/GEK - Delphi-Broker calls for patient lookup and information ; [ 06/20/2001 08:57 ]
+"RTN","MAGGTPT1",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGGTPT1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTPT1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGTPT1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGTPT1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGTPT1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGTPT1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGTPT1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGTPT1",10,0)
+ ;; |                                                               |
+"RTN","MAGGTPT1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGTPT1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGTPT1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGTPT1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGTPT1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGTPT1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTPT1",17,0)
+ ;;
+"RTN","MAGGTPT1",18,0)
+ Q
+"RTN","MAGGTPT1",19,0)
+ ;
+"RTN","MAGGTPT1",20,0)
+FIND(MAGRY,ZY) ;RPC Call to Do a lookup using FIND^DIC
+"RTN","MAGGTPT1",21,0)
+ ; MAGRY is the Array to return.
+"RTN","MAGGTPT1",22,0)
+ ; ZY is parameter sent by calling app (Delphi)
+"RTN","MAGGTPT1",23,0)
+ ;    FILE NUM ^ NUM TO RETURN ^ TEXT TO MATCH ^  ^ SCREEN ($P 5-99)
+"RTN","MAGGTPT1",24,0)
+ IF $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGGTERR"
+"RTN","MAGGTPT1",25,0)
+ E  S X="ERRA^MAGGTERR",@^%ZOSF("TRAP")
+"RTN","MAGGTPT1",26,0)
+ ;
+"RTN","MAGGTPT1",27,0)
+ N X,Y,I,Z,MAGDFN,WARD
+"RTN","MAGGTPT1",28,0)
+ N FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT
+"RTN","MAGGTPT1",29,0)
+ S (FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT)=""
+"RTN","MAGGTPT1",30,0)
+ ;
+"RTN","MAGGTPT1",31,0)
+ S FILE=2 ; Patient File
+"RTN","MAGGTPT1",32,0)
+ ;          Number of entries to return, If 0 we'll stop at 100
+"RTN","MAGGTPT1",33,0)
+ S NUM=$S(+$P(ZY,U,1):+$P(ZY,U,1),1:100)
+"RTN","MAGGTPT1",34,0)
+ S VAL=$P(ZY,U,2) ; this is the starting value i.e. 'Smi'
+"RTN","MAGGTPT1",35,0)
+ S SCR=$P(ZY,U,5,99)
+"RTN","MAGGTPT1",36,0)
+ S FLDS=$P(ZY,U,3)
+"RTN","MAGGTPT1",37,0)
+ ; $P(ZU,U,4) isn't used.
+"RTN","MAGGTPT1",38,0)
+ ;  If specific fields aren't requested, 
+"RTN","MAGGTPT1",39,0)
+ ;     Get Identifiers, and ward as FLDS
+"RTN","MAGGTPT1",40,0)
+ ;I '$L(FLDS) S FLDS=FLDS_";.1;.03;.09;.301;391"
+"RTN","MAGGTPT1",41,0)
+ I '$L(FLDS) S FLDS=FLDS_";.1;.301;391"
+"RTN","MAGGTPT1",42,0)
+ ;  we'll add ACN to the index to search, for ward
+"RTN","MAGGTPT1",43,0)
+ ; for speed we'll decide which xref to use
+"RTN","MAGGTPT1",44,0)
+ S INDEX=$S(VAL?9N:"SSN^ACN",VAL?1U1.N:"BS5^ACN",1:"B^ACN")
+"RTN","MAGGTPT1",45,0)
+ ;
+"RTN","MAGGTPT1",46,0)
+ K ^TMP("DILIST",$J) ; is this necessary ?
+"RTN","MAGGTPT1",47,0)
+ K ^TMP("DIERR",$J) ; This is.
+"RTN","MAGGTPT1",48,0)
+ ; 
+"RTN","MAGGTPT1",49,0)
+ D FIND^DIC(FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT)
+"RTN","MAGGTPT1",50,0)
+ ;
+"RTN","MAGGTPT1",51,0)
+ ;  if no Match or ERROR  we return 0 as 1st '^' piece.
+"RTN","MAGGTPT1",52,0)
+ ;
+"RTN","MAGGTPT1",53,0)
+ I '$D(^TMP("DILIST",$J,1)) S I=1 D  Q
+"RTN","MAGGTPT1",54,0)
+ . I $D(^TMP("DIERR",$J)) D FINDERR(I) Q
+"RTN","MAGGTPT1",55,0)
+ . S MAGRY(I)="NO MATCH for lookup on """_$P(ZY,"^",2)_""""
+"RTN","MAGGTPT1",56,0)
+ ;
+"RTN","MAGGTPT1",57,0)
+ ;  so we have some matches, (BUT we could still have an error)
+"RTN","MAGGTPT1",58,0)
+ ;  so first list all matches, then the Errors, if any.
+"RTN","MAGGTPT1",59,0)
+ S I="" F  S I=$O(^TMP("DILIST",$J,1,I)) Q:I=""  D
+"RTN","MAGGTPT1",60,0)
+ . S X=^TMP("DILIST",$J,1,I) ; Name
+"RTN","MAGGTPT1",61,0)
+ . S MAGDFN=^TMP("DILIST",$J,2,I) ; DFN
+"RTN","MAGGTPT1",62,0)
+ . ;
+"RTN","MAGGTPT1",63,0)
+ . S WARD=^TMP("DILIST",$J,"ID",I,.1)
+"RTN","MAGGTPT1",64,0)
+ . K ^TMP("DILIST",$J,"ID",I,.1)
+"RTN","MAGGTPT1",65,0)
+ . I $E(WARD,1,$L(VAL))=VAL S X=WARD_"   "_X
+"RTN","MAGGTPT1",66,0)
+ . ;
+"RTN","MAGGTPT1",67,0)
+ . S X=X_"   "_$$DOB^DPTLK1(MAGDFN)_"   "_$$SSN^DPTLK1(MAGDFN)
+"RTN","MAGGTPT1",68,0)
+ . S Z=0
+"RTN","MAGGTPT1",69,0)
+ . ; We are displaying other identifers with each patient.
+"RTN","MAGGTPT1",70,0)
+ . F  S Z=$O(^TMP("DILIST",$J,"ID",I,Z)) Q:Z=""  S X=X_"   "_^(Z)
+"RTN","MAGGTPT1",71,0)
+ . S MAGRY(I)=X_"^"_+MAGDFN
+"RTN","MAGGTPT1",72,0)
+ ;
+"RTN","MAGGTPT1",73,0)
+ I $D(^TMP("DIERR",$J)) D FINDERR() Q
+"RTN","MAGGTPT1",74,0)
+ I '$D(^TMP("DILIST",$J,0)) Q
+"RTN","MAGGTPT1",75,0)
+ S X=^TMP("DILIST",$J,0)
+"RTN","MAGGTPT1",76,0)
+ S I=$O(MAGRY(""),-1)+1
+"RTN","MAGGTPT1",77,0)
+ S MAGRY(0)="Found "_$P(X,"^")_" entr"_$S((+X=1):"y",1:"ies")_" matching """_$P(ZY,"^",3)_""""
+"RTN","MAGGTPT1",78,0)
+ I $P(X,"^",3)>0 S MAGRY(0)=MAGRY(0)_" there are more"
+"RTN","MAGGTPT1",79,0)
+ Q
+"RTN","MAGGTPT1",80,0)
+FINDERR(XI) ;
+"RTN","MAGGTPT1",81,0)
+ I '+$G(XI) S XI=$O(MAGRY(""),-1)+1
+"RTN","MAGGTPT1",82,0)
+ S MAGRY(XI)="ERROR^"_^TMP("DIERR",$J,1,"TEXT",1)
+"RTN","MAGGTPT1",83,0)
+ Q
+"RTN","MAGGTPT1",84,0)
+INFO(MAGRY,DATA) ;RPC Call to  Return patient info.
+"RTN","MAGGTPT1",85,0)
+ ; Input in DATA:  MAGDFN ^ NOLOG
+"RTN","MAGGTPT1",86,0)
+ ;     MAGDFN -- Patient DFN
+"RTN","MAGGTPT1",87,0)
+ ;     NOLOG  -- 0/1; if 1, then do NOT update the Session log
+"RTN","MAGGTPT1",88,0)
+ ;  We return the following :
+"RTN","MAGGTPT1",89,0)
+ ; .01 - name    .02 - sex    .03 DOB   .09 SSN   .301 SERVICE CONNECTED?
+"RTN","MAGGTPT1",90,0)
+ ;   391 TYPE      1901  VETERAN (Y/N)?
+"RTN","MAGGTPT1",91,0)
+ ; VADM(1)=Patient's name
+"RTN","MAGGTPT1",92,0)
+ ; VADM(5)=Patient's sex (M^MALE)
+"RTN","MAGGTPT1",93,0)
+ ; VADM(3)=Patient's DOB (internal^external)
+"RTN","MAGGTPT1",94,0)
+ ; VADM(2)=Patient's SSN (internal^external)
+"RTN","MAGGTPT1",95,0)
+ ; VAEL(3)=Patient's Service Connected? (#.301) (1=yes)
+"RTN","MAGGTPT1",96,0)
+ ; VAEL(4)=Patient's Veteran Y/N (#1901) (1=yes)
+"RTN","MAGGTPT1",97,0)
+ ; VAEL(6)=Patient's Type (#391) (internal^external)
+"RTN","MAGGTPT1",98,0)
+ ;
+"RTN","MAGGTPT1",99,0)
+ N MAGDFN,DFN,X,NOLOG
+"RTN","MAGGTPT1",100,0)
+ S MAGDFN=$P(DATA,U),NOLOG=+$P(DATA,U,2)
+"RTN","MAGGTPT1",101,0)
+ S DFN=+MAGDFN D DEM^VADPT,ELIG^VADPT
+"RTN","MAGGTPT1",102,0)
+ I VAERR S MAGRY="0^"_"Entry not found in Patient file."
+"RTN","MAGGTPT1",103,0)
+ S X=$TR($$FMTE^XLFDT($P(VADM(3),"^"),"2FD")," ",0)
+"RTN","MAGGTPT1",104,0)
+ S MAGRY="1^"_+MAGDFN_"^"
+"RTN","MAGGTPT1",105,0)
+ S MAGRY=MAGRY_$G(VADM(1))_"^"_$P(VADM(5),"^",2)_"^"_X_"^"_$P(VADM(2),"^")_"^"
+"RTN","MAGGTPT1",106,0)
+ ; Fields:        NAME,           SEX,      DATE OF BIRTH,    SSN
+"RTN","MAGGTPT1",107,0)
+ S MAGRY=MAGRY_$S(+VAEL(3):"YES",1:"")_"^"_$P(VAEL(6),"^",2)_"^"_$S(+VAEL(4):"YES",1:"")
+"RTN","MAGGTPT1",108,0)
+ ; Fields:         Service Connected?,       Type,                   Veteran Y/N?     
+"RTN","MAGGTPT1",109,0)
+ D KVAR^VADPT,KVA^VADPT
+"RTN","MAGGTPT1",110,0)
+ I NOLOG  ; Don't update session log
+"RTN","MAGGTPT1",111,0)
+ E  D ACTION^MAGGTAU("PAT^"_MAGDFN)
+"RTN","MAGGTPT1",112,0)
+ Q
+"RTN","MAGGTPT1",113,0)
+BS5CHK(MAGRY,MAGDFN) ;RPC Call to check the BS5 cross ref 
+"RTN","MAGGTPT1",114,0)
+ ; and see if any similiar patients exist.
+"RTN","MAGGTPT1",115,0)
+ ; If yes, all matching patients will be listed and shown to the user.
+"RTN","MAGGTPT1",116,0)
+ ;
+"RTN","MAGGTPT1",117,0)
+ N MAGX,MAGDPT,XDFN,XSSN,CT,LNTH
+"RTN","MAGGTPT1",118,0)
+ S LNTH=0
+"RTN","MAGGTPT1",119,0)
+ S MAGRY(1)="-1^Error checking cross reference"
+"RTN","MAGGTPT1",120,0)
+ D GUIBS5A^DPTLK6(.MAGRY,MAGDFN)
+"RTN","MAGGTPT1",121,0)
+ I MAGRY(1)=0 Q
+"RTN","MAGGTPT1",122,0)
+ S CT=$O(MAGRY(""),-1)+1
+"RTN","MAGGTPT1",123,0)
+ S MAGRY(CT)=MAGRY(CT-1),MAGRY(CT-1)="0^ "
+"RTN","MAGGTPT1",124,0)
+ S I="" F  S I=$O(MAGRY(I)) Q:'I  D
+"RTN","MAGGTPT1",125,0)
+ . I $P(MAGRY(I),U)=0 Q
+"RTN","MAGGTPT1",126,0)
+ . I $L($P(MAGRY(I),U,3))>LNTH S LNTH=$L($P(MAGRY(I),U,3))
+"RTN","MAGGTPT1",127,0)
+ S LNTH=LNTH+1
+"RTN","MAGGTPT1",128,0)
+ S I=1 F  S I=$O(MAGRY(I)) Q:'I  D
+"RTN","MAGGTPT1",129,0)
+ . I $P(MAGRY(I),U)="0" S MAGRY(I)=$P(MAGRY(I),U,2) Q
+"RTN","MAGGTPT1",130,0)
+ . S XDFN=$P(MAGRY(I),U,2)
+"RTN","MAGGTPT1",131,0)
+ . I +XDFN=+MAGDFN S MAGX="   >>>>>> "
+"RTN","MAGGTPT1",132,0)
+ . E  S MAGX="          "
+"RTN","MAGGTPT1",133,0)
+ . S XSSN=$$SSN^DPTLK1(XDFN) I XSSN?9N S XSSN=$E(XSSN,1,3)_"-"_$E(XSSN,4,5)_"-"_$E(XSSN,6,9)
+"RTN","MAGGTPT1",134,0)
+ . S MAGDPT=$P(MAGRY(I),U,3),$E(MAGDPT,LNTH)=" "
+"RTN","MAGGTPT1",135,0)
+ . S MAGX=MAGX_MAGDPT_"   "_$$DOB^DPTLK1(XDFN)_"   "_XSSN
+"RTN","MAGGTPT1",136,0)
+ . S MAGRY(I)=MAGX
+"RTN","MAGGTPT1",137,0)
+ Q
+"RTN","MAGJEX1")
+0^1^B75496508
+"RTN","MAGJEX1",1,0)
+MAGJEX1 ;WIRMFO/JHC VistARad RPC calls[ 02/25/2000  4:35 PM ]
+"RTN","MAGJEX1",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJEX1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJEX1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJEX1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJEX1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJEX1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJEX1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJEX1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJEX1",10,0)
+ ;; |                                                               |
+"RTN","MAGJEX1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJEX1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJEX1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJEX1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJEX1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJEX1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJEX1",17,0)
+ ;;
+"RTN","MAGJEX1",18,0)
+ Q
+"RTN","MAGJEX1",19,0)
+ ; Entry Points:
+"RTN","MAGJEX1",20,0)
+ ;   OPENCASE-- Send all images for a case to the Workstation
+"RTN","MAGJEX1",21,0)
+ ;    RPC Call: MAGJ RADCASEIMAGES
+"RTN","MAGJEX1",22,0)
+ ;
+"RTN","MAGJEX1",23,0)
+ERR N ERR S ERR=$$EC^%ZOSV S @MAGGRY@(0)="0^4~"_ERR
+"RTN","MAGJEX1",24,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGJEX1",25,0)
+ Q:$Q 1  Q
+"RTN","MAGJEX1",26,0)
+ ;
+"RTN","MAGJEX1",27,0)
+OPENCASE(MAGGRY,DATA) ; get case images, etc. info returned in MAGGRY
+"RTN","MAGJEX1",28,0)
+ ; input in DATA:
+"RTN","MAGJEX1",29,0)
+ ; OPEN_FLAG^RADFN^RADTI^RACNI^RARPT^SERDISA^STK/LAY^USETGA
+"RTN","MAGJEX1",30,0)
+ ;  - OPEN_FLAG = 1/0 -- 1: OPEN the case for update; else, view-only
+"RTN","MAGJEX1",31,0)
+ ;  - RADFN^RADTI^RACNI specify case of interest
+"RTN","MAGJEX1",32,0)
+ ; SERDISA = 1/0 -- Disable Multiple Series processing when true
+"RTN","MAGJEX1",33,0)
+ ; STK/LAY = 1/0 -- 1:Open in Stack Vwr; 0:Open in Layout
+"RTN","MAGJEX1",34,0)
+ ; USETGA  = 1/0 -- 1:Open .TGA file ; 0:Open .BIG file
+"RTN","MAGJEX1",35,0)
+ ;
+"RTN","MAGJEX1",36,0)
+ I $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGJEX1"
+"RTN","MAGJEX1",37,0)
+ E  S X="ERR^MAGJEX1",@^%ZOSF("TRAP")
+"RTN","MAGJEX1",38,0)
+ N RARPT,RADFN,RADTI,RACNI,RADIV
+"RTN","MAGJEX1",39,0)
+ N DAYCASE,CURCASE,REPLY,CT,MAGS,STARTNOD,LOCKED,DATAOUT,RADATA,RIST,MDL
+"RTN","MAGJEX1",40,0)
+ N IMAG,MAGXX,MAGFILE,MAGFILE1,MAGFILE2,MAGFILE3,MAGLST,MAGOBJT,MODALITY
+"RTN","MAGJEX1",41,0)
+ N SERDISA,MAGSTRT,MAGEND,SERLBL,SERBRK,SERLIM,NSERIES,ALTPATH,CURPATHS
+"RTN","MAGJEX1",42,0)
+ N MIXEDUP,VIEWOK,STKLAY,USETGA,OPENCNT,USELORES,IMGST,REMOTE
+"RTN","MAGJEX1",43,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJEX1",44,0)
+ S CT=0,MODALITY="",DATAOUT="",DAYCASE="",MAGLST="MAGJOPENCASE",ALTPATH="",MIXEDUP=0,VIEWOK=1,OPENCNT=1
+"RTN","MAGJEX1",45,0)
+ ;
+"RTN","MAGJEX1",46,0)
+ ; <*> Next line is to force behavior to mimic MAGGTRAI--remove to
+"RTN","MAGJEX1",47,0)
+ ;     implement more complex messaging (e.g., multiple cases per call)
+"RTN","MAGJEX1",48,0)
+ K MAGGRY S MAGGRY=$NA(^TMP($J,MAGLST)),STARTNOD=0 K @MAGGRY
+"RTN","MAGJEX1",49,0)
+ ; S STARTNOD=$G(@MAGGRY@(0))+1 ; <*> enable this line when remove above
+"RTN","MAGJEX1",50,0)
+ ; I STARTNOD=1 K @MAGGRY       ;     ditto
+"RTN","MAGJEX1",51,0)
+ ;
+"RTN","MAGJEX1",52,0)
+ S CURCASE=$P(DATA,U),RARPT=+$P(DATA,U,5),SERDISA=+$P(DATA,U,6)
+"RTN","MAGJEX1",53,0)
+ S STKLAY=+$P(DATA,U,7),USETGA=+$P(DATA,U,8)
+"RTN","MAGJEX1",54,0)
+ S RADFN=$P(DATA,U,2),RADTI=$P(DATA,U,3),RACNI=$P(DATA,U,4)
+"RTN","MAGJEX1",55,0)
+ I RADFN,RADTI,RACNI D GETEXAM2^MAGJUTL1(RADFN,RADTI,RACNI,"",.X)
+"RTN","MAGJEX1",56,0)
+ I 'X S REPLY="4~Request Contains Invalid Case Pointer ("_RADFN_U_RADTI_U_RACNI_U_RARPT_")." G OPENCASZ
+"RTN","MAGJEX1",57,0)
+ S RADATA=$G(^TMP($J,"MAGRAEX",1,1))
+"RTN","MAGJEX1",58,0)
+ S RADIV=$P($G(^TMP($J,"MAGRAEX",1,2)),U,5) K ^TMP($J,"MAGRAEX")
+"RTN","MAGJEX1",59,0)
+ S RARPT=+$P(RADATA,U,10),DAYCASE=$P(RADATA,U,12)
+"RTN","MAGJEX1",60,0)
+ I 'RARPT!'$D(^RARPT(RARPT,2005)) S REPLY="4~This exam has no images associated with it." G OPENCASZ
+"RTN","MAGJEX1",61,0)
+ D CKINTEG^MAGJLST1(.X,RADFN,RADTI,RACNI,RARPT,RADATA)
+"RTN","MAGJEX1",62,0)
+ I X]"" S MIXEDUP=1,MIXEDUP("REPLY")=X ; database corruption
+"RTN","MAGJEX1",63,0)
+ S REPLY="4~Attempting to open/display case #"_DAYCASE
+"RTN","MAGJEX1",64,0)
+ S IMGST=$$JBFETCH^MAGJUTL2(RARPT,.MAGS,USETGA)  ; open case only if NOT on Jukebox
+"RTN","MAGJEX1",65,0)
+ I +IMGST D  G OPENCASZ
+"RTN","MAGJEX1",66,0)
+ . I $D(MAGS("OFFLN")) N T,TT S T="",TT="" D
+"RTN","MAGJEX1",67,0)
+ .. F  S T=$O(MAGS("OFFLN",T)) Q:T=""  S TT=TT_$S(TT="":"",1:", ")_T
+"RTN","MAGJEX1",68,0)
+ .. S REPLY="2~Case #"_DAYCASE_"--Images for this exam are stored OFF-LINE.  To view these images, contact your Imaging Coordinator, and request mounting of the following platters: "_TT
+"RTN","MAGJEX1",69,0)
+ . E  S REPLY="2~Case #"_DAYCASE_"--"_+IMGST_" Images have been requested from Jukebox; try again later."
+"RTN","MAGJEX1",70,0)
+ I '$P(IMGST,U,2) S REPLY="2~No Images exist for Case #"_DAYCASE_"." G OPENCASZ
+"RTN","MAGJEX1",71,0)
+ S USELORES=+$P(IMGST,U,3)_U_$P(IMGST,U,2)
+"RTN","MAGJEX1",72,0)
+ ; set up series info
+"RTN","MAGJEX1",73,0)
+ I STKLAY,SERDISA S STKLAY=3 ; disable series in Stack Viewer
+"RTN","MAGJEX1",74,0)
+ N SERHI S SERHI=$G(MAGS("SER",0))
+"RTN","MAGJEX1",75,0)
+ K SERBRK
+"RTN","MAGJEX1",76,0)
+ I SERHI>1,$P($G(^MAG(2006.69,1,0)),U,12) D  ;  Process for mult. Series
+"RTN","MAGJEX1",77,0)
+ . Q:SERDISA  ; user disabled from workstation
+"RTN","MAGJEX1",78,0)
+ . Q:STKLAY  ; <*> Do not do this for Stack View
+"RTN","MAGJEX1",79,0)
+ . N SERCT,SERSTR I '$D(SERLIM) S SERLIM=5 ; min size for a series
+"RTN","MAGJEX1",80,0)
+ . S SERSTR="",SERCT=0,SERBRK(0)=0
+"RTN","MAGJEX1",81,0)
+ . ; step 1: roll up "small" series at the bottom to next higher ones
+"RTN","MAGJEX1",82,0)
+ . F  Q:(MAGS("SER",SERHI)'<SERLIM)!(SERHI=1)  D
+"RTN","MAGJEX1",83,0)
+ .. S X=MAGS("SER",SERHI),Y=MAGS("SER",SERHI-1),Y=Y+X_U_$P(Y,U,2)_", "_$P(X,U,2)
+"RTN","MAGJEX1",84,0)
+ .. S SERHI=SERHI-1,MAGS("SER",SERHI)=Y
+"RTN","MAGJEX1",85,0)
+ . I SERHI<2 K SERBRK Q  ; no "real" series to enumerate
+"RTN","MAGJEX1",86,0)
+ . ; step 2: from top, fold "small" series into next lower ones
+"RTN","MAGJEX1",87,0)
+ . F I=1:1:SERHI S X=MAGS("SER",I),SERCT=SERCT+X D
+"RTN","MAGJEX1",88,0)
+ .. I +X'<SERLIM S SERBRK(SERCT)=SERSTR_$S(SERSTR="":"",1:", ")_$P(X,U,2),SERSTR="",SERBRK(0)=SERBRK(0)+1
+"RTN","MAGJEX1",89,0)
+ .. E  S SERSTR=SERSTR_$S(SERSTR="":"",1:", ")_$P(X,U,2)
+"RTN","MAGJEX1",90,0)
+ . I '$D(SERBRK(SERCT)) S SERBRK(SERCT)=SERSTR,SERBRK(0)=SERBRK(0)+1
+"RTN","MAGJEX1",91,0)
+ . I SERBRK(SERCT)<2 K SERBRK  ; only one "series" resulted
+"RTN","MAGJEX1",92,0)
+ I $D(SERBRK) S SERBRK=0,NSERIES=SERBRK(0) D
+"RTN","MAGJEX1",93,0)
+ . F  S MAGSTRT=SERBRK+1,SERBRK=$O(SERBRK(SERBRK)) Q:'SERBRK  S MAGEND=SERBRK,SERLBL="*S^Series "_SERBRK(SERBRK) D IMGLOOP^MAGJEX1B
+"RTN","MAGJEX1",94,0)
+ E  S MAGSTRT=1,MAGEND=MAGS,NSERIES=1 D IMGLOOP^MAGJEX1B
+"RTN","MAGJEX1",95,0)
+ S REPLY="0~Images for Case #"_DAYCASE
+"RTN","MAGJEX1",96,0)
+ ;
+"RTN","MAGJEX1",97,0)
+OPENCASZ I 'CT,(REPLY["Attempting") S REPLY="4~Unable to retrieve images for Case #"_DAYCASE_"."
+"RTN","MAGJEX1",98,0)
+ ;
+"RTN","MAGJEX1",99,0)
+ ; Contents of successful reply = 4 pipe ("|") pieces:
+"RTN","MAGJEX1",100,0)
+ ;1: # nodes below ^ Reply Message Type ~ Reply Message display text
+"RTN","MAGJEX1",101,0)
+ ;2: Exam ID String (= radfn^radti^racni^rarpt)
+"RTN","MAGJEX1",102,0)
+ ;3: Pt Name ^ CASE # ^ # Images ^ Proc. Name ^ Exam Date ^ Time ^
+"RTN","MAGJEX1",103,0)
+ ; modality ^ SSN ^ Stack/Layout ^ LOCKED? (1/0) [^ if only 1 series]
+"RTN","MAGJEX1",104,0)
+ ;4: Is Radiologist? ^ # Series ^ Alt_Path Flag ^ Opened Exam Count?
+"RTN","MAGJEX1",105,0)
+ ;
+"RTN","MAGJEX1",106,0)
+ S LOCKED=0
+"RTN","MAGJEX1",107,0)
+ I MIXEDUP D
+"RTN","MAGJEX1",108,0)
+ . S VIEWOK=$S($D(MAGJOB("KEYS","MAGJ SEE BAD IMAGES")):1,1:0)
+"RTN","MAGJEX1",109,0)
+ . I MIXEDUP>1 D
+"RTN","MAGJEX1",110,0)
+ .. S XPTS="",XDFN=0 F IMIX=0:1 S XDFN=$O(MIXEDUP(XDFN)) Q:'XDFN  S XPTS=XPTS_$S(IMIX:" and ",1:" ")_$$PNAM(XDFN)
+"RTN","MAGJEX1",111,0)
+ .. S XPTS=$S(IMIX=1:" ",1:"s ")_XPTS
+"RTN","MAGJEX1",112,0)
+ .. S REPLY=(7-VIEWOK)_"~This exam is registered for "_$$PNAM(RADFN)_"; however, it is linked to images for patient"_XPTS_".  This is a serious problem--immediately report it to Radiology management and Imaging support staff!"
+"RTN","MAGJEX1",113,0)
+ . E  S REPLY=(7-VIEWOK)_"~"_MIXEDUP("REPLY")
+"RTN","MAGJEX1",114,0)
+ . I CURCASE S REPLY=REPLY_"  The exam is NOT Locked." S CURCASE=0
+"RTN","MAGJEX1",115,0)
+ I CT D
+"RTN","MAGJEX1",116,0)
+ . I CURCASE,$G(MAGJOB("CONSOLIDATED")),(RADIV'=DUZ(2)) D  S CURCASE=0
+"RTN","MAGJEX1",117,0)
+ .. S REPLY="5~Exam is for Station #"_$$STATN(RADIV)_"; you are logged on to #"_$$STATN(DUZ(2))_".  Exam is NOT Locked."
+"RTN","MAGJEX1",118,0)
+ . S RIST=$S(+MAGJOB("USER",1):1,1:0)
+"RTN","MAGJEX1",119,0)
+ . I CURCASE,RIST,'USELORES D LOCK  ; lock only for Current Case for Radiologist
+"RTN","MAGJEX1",120,0)
+ . S DATAOUT=$P(RADATA,U,4)_U_DAYCASE_U_$P(RADATA,U,9)
+"RTN","MAGJEX1",121,0)
+ . S X=$P(RADATA,U,6),T=$L(X,"  "),X=$P(X,"  ",1,T-1)_U_$P(X,"  ",T)
+"RTN","MAGJEX1",122,0)
+ . S DATAOUT=DATAOUT_U_X
+"RTN","MAGJEX1",123,0)
+ . S DATAOUT=DATAOUT_U_MODALITY_U_$P(RADATA,U,5)_U_STKLAY_U_LOCKED_$S(NSERIES>1:"",1:U)
+"RTN","MAGJEX1",124,0)
+ . S DATAOUT=DATAOUT_"|"_RIST_U_NSERIES_U_ALTPATH_U_OPENCNT
+"RTN","MAGJEX1",125,0)
+ . I USELORES D
+"RTN","MAGJEX1",126,0)
+ .. I +USELORES=+$P(USELORES,U,2) S X="All"
+"RTN","MAGJEX1",127,0)
+ .. E  S X=+USELORES_" of "_+$P(USELORES,U,2)
+"RTN","MAGJEX1",128,0)
+ .. I $E(REPLY,1,8)="0~Images" S REPLY="3~"
+"RTN","MAGJEX1",129,0)
+ .. E  S REPLY=REPLY_"  --  "
+"RTN","MAGJEX1",130,0)
+ .. S REPLY=REPLY_"Note: "_X_" images for Case #"_DAYCASE_" are REDUCED RESOLUTION images, using parameters set by your site Imaging Manager; to view full-resolution images, disable the Reduced Resolution option setting. Exam NOT Locked."
+"RTN","MAGJEX1",131,0)
+ S @MAGGRY@(STARTNOD)=CT_U_REPLY_"|"_RADFN_U_RADTI_U_RACNI_U_RARPT_"|"_DATAOUT
+"RTN","MAGJEX1",132,0)
+ ; if mixedup & not have keys to see images, delete image refs
+"RTN","MAGJEX1",133,0)
+ ;   & send only reply msg
+"RTN","MAGJEX1",134,0)
+ I MIXEDUP,('VIEWOK) S CT=0 K @MAGGRY S @MAGGRY@(0)=CT_U_REPLY
+"RTN","MAGJEX1",135,0)
+ E  S $P(@MAGGRY@(0),U)=CT+STARTNOD
+"RTN","MAGJEX1",136,0)
+ ; Image access log
+"RTN","MAGJEX1",137,0)
+ I CT D
+"RTN","MAGJEX1",138,0)
+ . I MAGJOB("ALTPATH") S REMOTE=$P(MAGJOB("ALTPATH"),U,2)
+"RTN","MAGJEX1",139,0)
+ . E  S REMOTE=0
+"RTN","MAGJEX1",140,0)
+ . D LOG^MAGJUTL3("VR-VW",RADFN,+$P(MAGS(1),U,4),+MAGS,REMOTE)
+"RTN","MAGJEX1",141,0)
+ . ; for locked exam, save data needed to log Interpreted event
+"RTN","MAGJEX1",142,0)
+ . I LOCKED S X=^XTMP("MAGJ","LOCK",RARPT)_U_RADFN_U_+$P(MAGS(1),U,4)_U_+MAGS_U_REMOTE,^(RARPT)=X
+"RTN","MAGJEX1",143,0)
+ Q
+"RTN","MAGJEX1",144,0)
+ ;
+"RTN","MAGJEX1",145,0)
+ ;
+"RTN","MAGJEX1",146,0)
+PNAM(X) ; return patient name for input DFN
+"RTN","MAGJEX1",147,0)
+ I X S X=$G(^DPT(+X,0)) I X]"" S X=$P(X,U)
+"RTN","MAGJEX1",148,0)
+ E  S X="UNKNOWN"
+"RTN","MAGJEX1",149,0)
+ Q X
+"RTN","MAGJEX1",150,0)
+ ;
+"RTN","MAGJEX1",151,0)
+STATN(X) ; get station #, else return input value
+"RTN","MAGJEX1",152,0)
+ N T
+"RTN","MAGJEX1",153,0)
+ I X]"" D GETS^DIQ(4,X,99,"","T") S T=$G(T(4,X_",",99,"E")) I T]"" S X=T
+"RTN","MAGJEX1",154,0)
+ Q X
+"RTN","MAGJEX1",155,0)
+ ;
+"RTN","MAGJEX1",156,0)
+LOCK ; A radiologist may lock multiple cases at a time. Each case
+"RTN","MAGJEX1",157,0)
+ ;   must have Exam Status ~= Examined, AND not be already locked
+"RTN","MAGJEX1",158,0)
+ ; NOTE: locking only ONE exam in a Printset
+"RTN","MAGJEX1",159,0)
+ ;       effectively locks ALL exams in the Printset
+"RTN","MAGJEX1",160,0)
+ I '$P($G(^MAG(2006.69,1,0)),U,4) Q      ;  Status Updates not enabled
+"RTN","MAGJEX1",161,0)
+ S X=$P(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0),U,3)
+"RTN","MAGJEX1",162,0)
+ I '$D(^RA(72,"AVC","E",X)) S REPLY="5~For Case #"_DAYCASE_", current Status is "_$P(^RA(72,X,0),U)_"; Status Update will NOT be allowed." Q
+"RTN","MAGJEX1",163,0)
+ L +^XTMP("MAGJ","LOCK",RARPT):0
+"RTN","MAGJEX1",164,0)
+ I  S LOCKED=1 D
+"RTN","MAGJEX1",165,0)
+ . S X=$G(^XTMP("MAGJ","LOCK",RARPT)) I X]"",($P(X,U)'=DUZ) D
+"RTN","MAGJEX1",166,0)
+ .. S X=$S(+X:$$USERINF^MAGJUTL3(+X,1),1:"Unknown")
+"RTN","MAGJEX1",167,0)
+ .. S REPLY="3~Case #"_DAYCASE_" was previously locked by "_X_".  The lock is now assigned to you."
+"RTN","MAGJEX1",168,0)
+ . E  S REPLY="1~#"_DAYCASE_" ("_$P(RADATA,U,4)_") locked for update by "_$P(MAGJOB("USER",1),U,3)
+"RTN","MAGJEX1",169,0)
+ . S ^XTMP("MAGJ","LOCK",RARPT)=DUZ_U_$J_U_$H
+"RTN","MAGJEX1",170,0)
+ . S X=+$G(^XTMP("MAGJ","LOCK",RARPT,DAYCASE))+1,^(DAYCASE)=X_U_$J_U_$H
+"RTN","MAGJEX1",171,0)
+ ; above line counts # of locks, to account for the 2nd open of same exam
+"RTN","MAGJEX1",172,0)
+ ; this is needed to manage UN-Locks when closing the exams
+"RTN","MAGJEX1",173,0)
+ E  S X=$P($G(^XTMP("MAGJ","LOCK",RARPT)),U) D
+"RTN","MAGJEX1",174,0)
+ . I DUZ'=X S X=$S(+X:$$USERINF^MAGJUTL3(+X,.01),1:"Unknown"),REPLY="5~Case #"_DAYCASE_" is Locked by "_$P(X,",",2)_" "_$P(X,",")_"; Status Update will NOT be allowed."
+"RTN","MAGJEX1",175,0)
+ . E  S REPLY="3~Case #"_DAYCASE_" is already locked by you, perhaps at another workstation."  ; will not cause a problem on either end
+"RTN","MAGJEX1",176,0)
+ Q
+"RTN","MAGJEX1",177,0)
+ ;
+"RTN","MAGJEX1",178,0)
+END ;
+"RTN","MAGJEX1B")
+0^2^B9860007
+"RTN","MAGJEX1B",1,0)
+MAGJEX1B ;WIRMFO/JHC Rad. Workstation RPC calls[ 02/25/2000  4:35 PM ]
+"RTN","MAGJEX1B",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJEX1B",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJEX1B",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJEX1B",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJEX1B",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJEX1B",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJEX1B",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJEX1B",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJEX1B",10,0)
+ ;; |                                                               |
+"RTN","MAGJEX1B",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJEX1B",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJEX1B",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJEX1B",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJEX1B",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJEX1B",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJEX1B",17,0)
+ ;;
+"RTN","MAGJEX1B",18,0)
+ Q
+"RTN","MAGJEX1B",19,0)
+ ; Subroutines for fetch exam images, etc.
+"RTN","MAGJEX1B",20,0)
+ ;
+"RTN","MAGJEX1B",21,0)
+IMGLOOP ; get data for all the images
+"RTN","MAGJEX1B",22,0)
+ N DFN
+"RTN","MAGJEX1B",23,0)
+ I '$D(MAGJOB("ALTPATH")) S MAGJOB("ALTPATH")=0 ; facilitates testing
+"RTN","MAGJEX1B",24,0)
+ F IMAG=MAGSTRT:1:MAGEND S MAGIEN=$P(MAGS(IMAG),U,4) D
+"RTN","MAGJEX1B",25,0)
+ . S DFN=$P(MAGS(IMAG),U,8) I DFN=RADFN S MIXEDUP(RADFN)=""  ;ok
+"RTN","MAGJEX1B",26,0)
+ . E  S:'DFN DFN=0 S MIXEDUP=MIXEDUP+2,MIXEDUP(DFN)="" ; database corruption
+"RTN","MAGJEX1B",27,0)
+ . S MDL=$P(MAGS(IMAG),U,3)
+"RTN","MAGJEX1B",28,0)
+ . I MDL="DR" S MDL="CR"  ; for now, hard code cx of non-standard code
+"RTN","MAGJEX1B",29,0)
+ . I $G(SERBRK),(SERLBL]"") D    ; mark Begin of series
+"RTN","MAGJEX1B",30,0)
+ .. S CT=CT+1,@MAGGRY@(CT+STARTNOD)=SERLBL,SERLBL=""
+"RTN","MAGJEX1B",31,0)
+ . S MAGXX=MAGIEN D
+"RTN","MAGJEX1B",32,0)
+ .. I 'USETGA,($P(MAGS(IMAG),U,2)["BIG") D BIG^MAGFILEB Q
+"RTN","MAGJEX1B",33,0)
+ .. E  D VST^MAGFILEB         ; default is to get .TGA file
+"RTN","MAGJEX1B",34,0)
+ . I MAGJOB("ALTPATH") S X=$P(MAGS(IMAG),U,6) I X D
+"RTN","MAGJEX1B",35,0)
+ .. F I=1:1:$L(X,",") S T=$P(X,",",I) S:T CURPATHS(T)=""
+"RTN","MAGJEX1B",36,0)
+ . S CT=CT+1,@MAGGRY@(CT+STARTNOD)="B2^"_MAGIEN_U_MAGFILE2
+"RTN","MAGJEX1B",37,0)
+ . I MODALITY="" D
+"RTN","MAGJEX1B",38,0)
+ .. N T S T=$P("1dummy1^CT^CR^MR^US^AS^CD^CS^DG^EC^FA^LP^MA^PT^ST^XA^NM^OT^BI^CP^DD^DM^ES^FS^LS^MS^RG^TG^RF^RTIMAGE^RTSTRUCT^HC^RTDOSE^RTPLAN^RTRECORD^DX^MG^IO^PX",U_MDL_U,1)
+"RTN","MAGJEX1B",39,0)
+ .. S MODALITY=$L(T,U)
+"RTN","MAGJEX1B",40,0)
+ .. I MODALITY>38 S MODALITY=MDL  ; 38=TOTAL # modalities defined
+"RTN","MAGJEX1B",41,0)
+ .. I STKLAY S OPENCNT=0 ; no limit on WS for # of exams open in StackVwr
+"RTN","MAGJEX1B",42,0)
+ ;
+"RTN","MAGJEX1B",43,0)
+ I 'MAGJOB("ALTPATH") S ALTPATH=-1
+"RTN","MAGJEX1B",44,0)
+ E  D
+"RTN","MAGJEX1B",45,0)
+ . S T=0 F  S T=$O(CURPATHS(T)) Q:'T  I $D(MAGJOB("LOC",T)) Q
+"RTN","MAGJEX1B",46,0)
+ . S ALTPATH=$S('T:0,1:1)
+"RTN","MAGJEX1B",47,0)
+ . I ALTPATH=$P(MAGJOB("ALTPATH"),U,2) S ALTPATH=-1
+"RTN","MAGJEX1B",48,0)
+ . E  S $P(MAGJOB("ALTPATH"),U,2)=ALTPATH
+"RTN","MAGJEX1B",49,0)
+ Q  ; img loop
+"RTN","MAGJEX1B",50,0)
+ ;
+"RTN","MAGJEX1B",51,0)
+END ;
+"RTN","MAGJLS2B")
+0^8^B60844861
+"RTN","MAGJLS2B",1,0)
+MAGJLS2B ;WIRMFO/JHC VistARad RPC calls[ 03/24/2000  4:33 PM ]
+"RTN","MAGJLS2B",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJLS2B",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJLS2B",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJLS2B",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJLS2B",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJLS2B",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJLS2B",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJLS2B",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJLS2B",10,0)
+ ;; |                                                               |
+"RTN","MAGJLS2B",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJLS2B",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJLS2B",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJLS2B",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJLS2B",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJLS2B",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJLS2B",17,0)
+ ;;
+"RTN","MAGJLS2B",18,0)
+ Q
+"RTN","MAGJLS2B",19,0)
+ ; Subroutines for fetching Exam Info for Radiology Workstation
+"RTN","MAGJLS2B",20,0)
+ ;
+"RTN","MAGJLS2B",21,0)
+PARAMS(X) ; Initialize some variables used for Exam Lists
+"RTN","MAGJLS2B",22,0)
+ N LASTEDIT
+"RTN","MAGJLS2B",23,0)
+ S LSTID=+$O(^MAG(2006.631,"C",X,""))
+"RTN","MAGJLS2B",24,0)
+ I 'LSTID S LSTID="Invalid List ID" Q  ;
+"RTN","MAGJLS2B",25,0)
+ S X=^MAG(2006.631,LSTID,0)
+"RTN","MAGJLS2B",26,0)
+ I '$P(X,U,6) S LSTID="LIST NOT ENABLED" Q  ;
+"RTN","MAGJLS2B",27,0)
+ S LSTTL=$P(X,U),LSTREQ=$P(X,U,3),LSTPARAM=LSTREQ_U_$P(X,U,4),LASTEDIT=$P(X,U,5)
+"RTN","MAGJLS2B",28,0)
+ S LSTTL=$S(LSTREQ="U":"UNREAD",LSTREQ="R":"RECENT",LSTREQ="A":"ACTIVE",LSTREQ="P":"PENDING",LSTREQ="N":"NEWLY INTERP",1:"")_" EXAMS: "_LSTTL
+"RTN","MAGJLS2B",29,0)
+ I $P(LSTPARAM,U,2)="" S $P(LSTPARAM,U,2)="ALL" ; dflt All ImagingTypes
+"RTN","MAGJLS2B",30,0)
+ S X=$G(^MAG(2006.69,1,0)),BKGND=+$P(X,U,8),DELTA=+$P(X,U,$S(LSTREQ="U":9,1:13))*60
+"RTN","MAGJLS2B",31,0)
+ I BKGND,'DELTA S DELTA=360 ;dflt Unread List compile cycle time secs
+"RTN","MAGJLS2B",32,0)
+ S LSTNAM="LS"_LSTID
+"RTN","MAGJLS2B",33,0)
+ I BKGND S LSTNAM=$S(LSTREQ="U":"LS9991",LSTREQ="R":"LS9992",LSTREQ="N":"LS9995",1:LSTNAM) ; hard-code for "Master" list Bkgnd compile
+"RTN","MAGJLS2B",34,0)
+ Q
+"RTN","MAGJLS2B",35,0)
+ ;
+"RTN","MAGJLS2B",36,0)
+SETVARS(LSTID) ; build output control variables
+"RTN","MAGJLS2B",37,0)
+ D LSTVAR(LSTID),SRTVAR(LSTID),SELVAR(LSTID)
+"RTN","MAGJLS2B",38,0)
+ Q
+"RTN","MAGJLS2B",39,0)
+ ;
+"RTN","MAGJLS2B",40,0)
+LSTVAR(LSTID) ; build output columns string
+"RTN","MAGJLS2B",41,0)
+ S MDLVAR=^MAG(2006.631,LSTID,"DEF",1),LSTHDR=^(.5)
+"RTN","MAGJLS2B",42,0)
+ N I,XX,SC,XOUT,XOUT2
+"RTN","MAGJLS2B",43,0)
+ S SC=";",XOUT="",XOUT2=""
+"RTN","MAGJLS2B",44,0)
+ F I=1:1:$L(MDLVAR,U) S XX=$P(MDLVAR,U,I) D
+"RTN","MAGJLS2B",45,0)
+ . I +XX=12 I '$G(SNDREMOT) Q  ; exclude RC ind
+"RTN","MAGJLS2B",46,0)
+ . I +XX=23 I '$G(SHOWPLAC) Q  ; exclude PLACE
+"RTN","MAGJLS2B",47,0)
+ . S XOUT=XOUT_$S(XOUT="":"",1:U)_XX
+"RTN","MAGJLS2B",48,0)
+ . S XOUT2=XOUT2_$S(XOUT2="":"",1:U)_$P(LSTHDR,U,I)
+"RTN","MAGJLS2B",49,0)
+ S MDLVAR=XOUT,LSTHDR=XOUT2
+"RTN","MAGJLS2B",50,0)
+ Q
+"RTN","MAGJLS2B",51,0)
+SRTVAR(LSTID) ; build sort-variables indirect string
+"RTN","MAGJLS2B",52,0)
+ S MDSVAR=^MAG(2006.631,LSTID,"DEF",2)
+"RTN","MAGJLS2B",53,0)
+ N I,XX,XOUT,HAVEONE
+"RTN","MAGJLS2B",54,0)
+ S SORTSS="",XOUT="",HAVEONE=0
+"RTN","MAGJLS2B",55,0)
+ F I=1:1:$L(MDSVAR,U) S XX=$P(MDSVAR,U,I) D
+"RTN","MAGJLS2B",56,0)
+ . I +XX=12 Q:'$G(SNDREMOT)   ; exclude RC ind
+"RTN","MAGJLS2B",57,0)
+ . I +XX=23 I '$G(SHOWPLAC) Q  ; exclude PLACE
+"RTN","MAGJLS2B",58,0)
+ . I 'HAVEONE S HAVEONE=(+XX=1)  ; 1 = Case #
+"RTN","MAGJLS2B",59,0)
+ . S XOUT=XOUT_$S(XOUT="":"",1:U)_XX
+"RTN","MAGJLS2B",60,0)
+ . S XX=$S(XX?1N.N1"-":"-",1:"")_"MD("_+XX_")"
+"RTN","MAGJLS2B",61,0)
+ . S SORTSS=SORTSS_","_XX
+"RTN","MAGJLS2B",62,0)
+ I 'HAVEONE S SORTSS=SORTSS_",MD(1)",XOUT=XOUT_U_1  ; guarantee unique entry each exam
+"RTN","MAGJLS2B",63,0)
+ I $E(SORTSS)="," S SORTSS=$E(SORTSS,2,999)
+"RTN","MAGJLS2B",64,0)
+ S MDSVAR=XOUT
+"RTN","MAGJLS2B",65,0)
+ Q
+"RTN","MAGJLS2B",66,0)
+ ;
+"RTN","MAGJLS2B",67,0)
+SELVAR(LSTID) ; build selection logic executes, ret in DIS array
+"RTN","MAGJLS2B",68,0)
+ N CX,DC,DCX,DL,DLX,EXP,I,IDL,SELVAR,SELVAR2,SS
+"RTN","MAGJLS2B",69,0)
+ S SS=0 F I=1:1 S SS=$O(^MAG(2006.631,LSTID,"DEF",3,SS)) Q:'SS  S DC(I)=^(SS)
+"RTN","MAGJLS2B",70,0)
+ S SS=0 F I=1:1 S SS=$O(^MAG(2006.631,LSTID,"DEF",4,SS)) Q:'SS  S DL(I)=^(SS)
+"RTN","MAGJLS2B",71,0)
+ ;  DL(5)="^2^3'^" <DLX     CX=3'    DC(2)="1^>44" <DCX
+"RTN","MAGJLS2B",72,0)
+ K DIS,MDCVAR S DIS(0)=0
+"RTN","MAGJLS2B",73,0)
+ F IDL=1:1 S DLX=$G(DL(IDL)) Q:DLX=""  S DIS(0)=DIS(0)+1,DIS(DIS(0))="" D
+"RTN","MAGJLS2B",74,0)
+ . F I=2:1:$L(DLX,U)-1 S CX=$P(DLX,U,I) S DCX=DC(+CX) D
+"RTN","MAGJLS2B",75,0)
+ .. S EXP="(MD("_+DCX_")"_$P(DCX,U,2)_")"
+"RTN","MAGJLS2B",76,0)
+ .. S EXP="I "_$S(CX["'":"'",1:"")_EXP
+"RTN","MAGJLS2B",77,0)
+ .. S DIS(DIS(0))=DIS(DIS(0))_" "_EXP
+"RTN","MAGJLS2B",78,0)
+ .. S MDCVAR(+DCX)=""
+"RTN","MAGJLS2B",79,0)
+ Q
+"RTN","MAGJLS2B",80,0)
+ ;
+"RTN","MAGJLS2B",81,0)
+CHKLOCK(RARPT) ; If exam is locked, return initials of locking user
+"RTN","MAGJLS2B",82,0)
+ ; Also return truth flag for locking user = logon user
+"RTN","MAGJLS2B",83,0)
+ N X S X="" I RARPT D
+"RTN","MAGJLS2B",84,0)
+ . L +^XTMP("MAGJ","LOCK",RARPT):0 I  D
+"RTN","MAGJLS2B",85,0)
+ .. S X=$G(^XTMP("MAGJ","LOCK",RARPT)) I X]"" S X=$P(X,U)_U_($P(X,U)=DUZ)
+"RTN","MAGJLS2B",86,0)
+ .. L -^XTMP("MAGJ","LOCK",RARPT)
+"RTN","MAGJLS2B",87,0)
+ . E  S X=$P($G(^XTMP("MAGJ","LOCK",RARPT)),U)_U_0
+"RTN","MAGJLS2B",88,0)
+ I X]"" S $P(X,U)=$S(+X:$$USERINF^MAGJUTL3(+X,1),1:"Unknown")
+"RTN","MAGJLS2B",89,0)
+ Q X
+"RTN","MAGJLS2B",90,0)
+ ;
+"RTN","MAGJLS2B",91,0)
+SHOWPLAC(X) ; return list of places to show: all defined places NOT equal to
+"RTN","MAGJLS2B",92,0)
+ ; the user's logon place
+"RTN","MAGJLS2B",93,0)
+ N IEN,SHOWPLAC S SHOWPLAC=""
+"RTN","MAGJLS2B",94,0)
+ S IEN=0 F  S IEN=$O(^MAG(2006.1,IEN)) Q:'IEN  I IEN'=+MAGJOB("SITEP") S X=$P(^(IEN,0),U,9) I X]"" S SHOWPLAC=SHOWPLAC_","_X
+"RTN","MAGJLS2B",95,0)
+ I SHOWPLAC]"" S SHOWPLAC=1_U_SHOWPLAC_"," ; 1 for logical true
+"RTN","MAGJLS2B",96,0)
+ Q SHOWPLAC
+"RTN","MAGJLS2B",97,0)
+ ;
+"RTN","MAGJLS2B",98,0)
+LSTOUT(MAGGRY,LSTID,MAGLST,LSTAGE) ; Build output list, w/ sort & selection
+"RTN","MAGJLS2B",99,0)
+ ; Input LSTID=List def'n; MAGLST=Indirect ref for input records
+"RTN","MAGJLS2B",100,0)
+ ; Output MAGGRY=Indirect ref to output file
+"RTN","MAGJLS2B",101,0)
+ N DIS,MDCVAR,SNDREMOT,ILST,IMD,MAGRACNT
+"RTN","MAGJLS2B",102,0)
+ N RARPT,RAST,RADFN,RACNI,RADTI,T,WHOLOCK,XX,MYLOCK,DAYCASE,MODALITY
+"RTN","MAGJLS2B",103,0)
+ N OUT,QX,SORT,SORTSS,LSTHDR,MD,MDLVAR,MDSVAR,REMONLY,REMOTCAS,SHOWPLAC
+"RTN","MAGJLS2B",104,0)
+ S LSTAGE=$G(LSTAGE)
+"RTN","MAGJLS2B",105,0)
+ ;<*> DIVSCRN= { "": n/a; DIV: This DIV Only, or List of OK DIVs }
+"RTN","MAGJLS2B",106,0)
+ ;                               ,DIV1,DIV2,
+"RTN","MAGJLS2B",107,0)
+ ;     ??? H2 determine case for divscrn=0 ?
+"RTN","MAGJLS2B",108,0)
+ I '$G(MAGJOB("CONSOLIDATED")) S DIVSCRN=""
+"RTN","MAGJLS2B",109,0)
+ E  S DIVSCRN=","_DUZ(2)_","
+"RTN","MAGJLS2B",110,0)
+ ;      Show any Place (Site Code) that is NOT the Login Place
+"RTN","MAGJLS2B",111,0)
+ S SHOWPLAC=$$SHOWPLAC("")
+"RTN","MAGJLS2B",112,0)
+ S X=^MAG(2006.69,1,0)
+"RTN","MAGJLS2B",113,0)
+ S REMONLY=$G(MAGJOB("REMOTE"))&+$P(X,U,10) ;only show remote cache?
+"RTN","MAGJLS2B",114,0)
+ S SNDREMOT=+$P(X,U,11) ; Site routes images remotely?
+"RTN","MAGJLS2B",115,0)
+ D SETVARS(LSTID)
+"RTN","MAGJLS2B",116,0)
+ S MAGRACNT=0
+"RTN","MAGJLS2B",117,0)
+ K ^TMP($J,"RET") S ^TMP($J,"RET",0)="0^4~Getting Exam List"
+"RTN","MAGJLS2B",118,0)
+ S X=$G(@MAGLST@(0,1)) I +X<1 D  G LSTOUTZ  ; No exams to list!
+"RTN","MAGJLS2B",119,0)
+ . I X="" S ^TMP($J,"RET",0)="0^4~Problem with Exams List Compile"
+"RTN","MAGJLS2B",120,0)
+ . E  S ^TMP($J,"RET",0)=X
+"RTN","MAGJLS2B",121,0)
+ ; <*>On the OUTPUT side, may want to package global nodes w/ a structure
+"RTN","MAGJLS2B",122,0)
+ ;  that Delphi side "likes"--perhaps a tag for each output line, so that
+"RTN","MAGJLS2B",123,0)
+ ;  if need to break lines up, they can be re-assembled: var OUT below
+"RTN","MAGJLS2B",124,0)
+ ;
+"RTN","MAGJLS2B",125,0)
+ F ILST=1:1 Q:'$D(@MAGLST@(ILST))  S XX=^(ILST,1),XX2=^(2) K MD D
+"RTN","MAGJLS2B",126,0)
+ . S XX=XX_U_$P(XX2,"|"),$P(XX2,"|")="" ;<*> string could get long ...
+"RTN","MAGJLS2B",127,0)
+ . ; Execute Selection logic:
+"RTN","MAGJLS2B",128,0)
+ . S X=0 F  S X=$O(MDCVAR(X)) Q:'X  S MD(X)=$P(XX,U,X) ; load needed data
+"RTN","MAGJLS2B",129,0)
+ . I 1 F I=1:1:$G(DIS(0)) X DIS(I) I  Q  ; quit loop if search logic True
+"RTN","MAGJLS2B",130,0)
+ . E  Q  ; failed selection criteria--skip this record
+"RTN","MAGJLS2B",131,0)
+ . S RAST=$P(XX,U,16)
+"RTN","MAGJLS2B",132,0)
+ . S T=$P(XX2,"|",2),RADFN=$P(T,U),RADTI=$P(T,U,2),RACNI=$P(T,U,3),RARPT=$P(T,U,4)
+"RTN","MAGJLS2B",133,0)
+ . I LSTREQ="U",'$D(^RADPT("AS",RAST,RADFN,RADTI,RACNI)) Q  ; No longer Unread Status!
+"RTN","MAGJLS2B",134,0)
+ . I LSTREQ="U",(DIVSCRN]"") S RADIV=","_$P(XX,U,22)_"," I '(DIVSCRN[RADIV) Q  ; Screen Unread exams for DIVision
+"RTN","MAGJLS2B",135,0)
+ . S REMOTCAS=$P(XX,U,12)
+"RTN","MAGJLS2B",136,0)
+ . I REMONLY,'REMOTCAS Q  ; don't show if not the remote reading site
+"RTN","MAGJLS2B",137,0)
+ . I REMONLY,REMOTCAS D  I 'T Q
+"RTN","MAGJLS2B",138,0)
+ . . F I=1:1:$L(REMOTCAS,",")+1 S T=$P(REMOTCAS,",",I) I T,$D(MAGJOB("LOC",T)) Q
+"RTN","MAGJLS2B",139,0)
+ . ; set up sort values
+"RTN","MAGJLS2B",140,0)
+ . F I=1:1:$L(MDSVAR,U) S X=+$P(MDSVAR,U,I) S MD(X)=$P(XX,U,X) I MD(X)="" S MD(X)="~"
+"RTN","MAGJLS2B",141,0)
+ . S @("SORT("_SORTSS_")")=ILST_U_RARPT
+"RTN","MAGJLS2B",142,0)
+ . S MAGRACNT=MAGRACNT+1
+"RTN","MAGJLS2B",143,0)
+ I 'MAGRACNT S ^TMP($J,"RET",0)="0^2~No Exams Found"
+"RTN","MAGJLS2B",144,0)
+ E  D  ; generate output file
+"RTN","MAGJLS2B",145,0)
+ . S SORT(-9999999999)=0,QX="SORT"
+"RTN","MAGJLS2B",146,0)
+ . F ILST=0:1 S QX=$Q(@QX) Q:QX=""  S XX=@MAGLST@(+(@QX),1),XX2=^(2),OUT="" D
+"RTN","MAGJLS2B",147,0)
+ .. I 'ILST D  Q       ; Header string
+"RTN","MAGJLS2B",148,0)
+ ... S T="" I LSTAGE?1N.N S T=LSTAGE\60 S T=" (List age: "_$S(T:T_" min, ",1:"")_(LSTAGE#60)_" sec)"
+"RTN","MAGJLS2B",149,0)
+ ... I +$P(XX,U,2)=1 S $P(XX,"~",2)=LSTTL_T  ; List Title
+"RTN","MAGJLS2B",150,0)
+ ... S ^TMP($J,"RET",0)=XX
+"RTN","MAGJLS2B",151,0)
+ .. S XX=XX_U_$P(XX2,"|"),$P(XX2,"|")=""
+"RTN","MAGJLS2B",152,0)
+ .. S RARPT=$P(@QX,U,2)
+"RTN","MAGJLS2B",153,0)
+ .. S T=$$CHKLOCK(RARPT),WHOLOCK=$P(T,U),MYLOCK=$P(T,U,2)
+"RTN","MAGJLS2B",154,0)
+ .. S $P(XX,U,2)=WHOLOCK
+"RTN","MAGJLS2B",155,0)
+ .. S MODALITY=$P(XX,U,15)
+"RTN","MAGJLS2B",156,0)
+ .. F IMD=1:1:$L(MDLVAR,U) S X=$P(MDLVAR,U,IMD),MD=$P(XX,U,+X) D
+"RTN","MAGJLS2B",157,0)
+ ... I +X=12,(MD]""),SNDREMOT D
+"RTN","MAGJLS2B",158,0)
+ .... ; if site routes images remotely, display Remote Cache indicator
+"RTN","MAGJLS2B",159,0)
+ .... N I,T I $G(MAGJOB("REMOTE")) D  Q  ; user is at a remote site
+"RTN","MAGJLS2B",160,0)
+ ..... F I=1:1:$L(MD,",")+1 S T=$P(MD,",",I) I T,$D(MAGJOB("LOC",T)) Q
+"RTN","MAGJLS2B",161,0)
+ ..... I T S MD=$P($G(^MAG(2005.2,T,3)),U,5)
+"RTN","MAGJLS2B",162,0)
+ ..... E  S MD=""  ; user not at the site that got this exam's images
+"RTN","MAGJLS2B",163,0)
+ .... E  N T S T="" D  Q  ; user is at sending site
+"RTN","MAGJLS2B",164,0)
+ ..... F I=1:1:$L(MD,",") S T=T_$S(T="":"",1:",")_$P($G(^MAG(2005.2,$P(MD,",",I),3)),U,5)
+"RTN","MAGJLS2B",165,0)
+ ..... S MD=T
+"RTN","MAGJLS2B",166,0)
+ ... I +X=23,(MD]""),SHOWPLAC D
+"RTN","MAGJLS2B",167,0)
+ .... I SHOWPLAC'[(","_MD_",") S MD=""  ; Don't show user's local place
+"RTN","MAGJLS2B",168,0)
+ ... I +X=22,(MD]"") D
+"RTN","MAGJLS2B",169,0)
+ .... I DIVSCRN[(","_MD_",")!(DIVSCRN="") S MD=""  ; Don't show user's local Division
+"RTN","MAGJLS2B",170,0)
+ ... I X[";" S T=+$P(X,";",2) I T S MD=$E(MD,1,T)  ; truncate output col
+"RTN","MAGJLS2B",171,0)
+ ... S $P(OUT,U,IMD)=MD
+"RTN","MAGJLS2B",172,0)
+ .. S $P(OUT,U,IMD+1)="",OUT=U_OUT,OUT=OUT_"|"_$P(XX2,"|",2,9)
+"RTN","MAGJLS2B",173,0)
+ .. I WHOLOCK]"" S T=$P(OUT,"|",4),$P(T,U,2)=WHOLOCK,$P(T,U,3)=MYLOCK,$P(OUT,"|",4)=T ; pass lock info to Server
+"RTN","MAGJLS2B",174,0)
+ .. S T=$P(OUT,"|",4),$P(T,U,4)=MODALITY,$P(OUT,"|",4)=T
+"RTN","MAGJLS2B",175,0)
+ .. S ^TMP($J,"RET",ILST+1)=OUT
+"RTN","MAGJLS2B",176,0)
+ . S ^TMP($J,"RET",1)=U_LSTHDR
+"RTN","MAGJLS2B",177,0)
+ . S $P(^TMP($J,"RET",0),U)=MAGRACNT
+"RTN","MAGJLS2B",178,0)
+LSTOUTZ K MAGGRY S MAGGRY=$NA(^TMP($J,"RET"))
+"RTN","MAGJLS2B",179,0)
+ Q
+"RTN","MAGJLS2B",180,0)
+ ;
+"RTN","MAGJLS2B",181,0)
+END Q  ;
+"RTN","MAGJLS2B",182,0)
+ ;
+"RTN","MAGJLS3")
+0^7^B66200627
+"RTN","MAGJLS3",1,0)
+MAGJLS3        ;WIRMFO/JHC Rad. Workstation RPC calls[ 03/28/2000  1:52 PM ]
+"RTN","MAGJLS3",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJLS3",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJLS3",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJLS3",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJLS3",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJLS3",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJLS3",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJLS3",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJLS3",10,0)
+ ;; |                                                               |
+"RTN","MAGJLS3",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJLS3",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJLS3",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJLS3",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJLS3",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJLS3",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJLS3",17,0)
+ ;;
+"RTN","MAGJLS3",18,0)
+ Q
+"RTN","MAGJLS3",19,0)
+ ;
+"RTN","MAGJLS3",20,0)
+ ; Subroutines for fetching Exam Info for Radiology Workstation
+"RTN","MAGJLS3",21,0)
+ ; Exam listings:
+"RTN","MAGJLS3",22,0)
+ ;   BLDACTV -- Compile list of active exams
+"RTN","MAGJLS3",23,0)
+ Q
+"RTN","MAGJLS3",24,0)
+ ;
+"RTN","MAGJLS3",25,0)
+BLDACTV(MAGGRY,DATA,MAGLST) ; get subset of Active Exams from Rad files
+"RTN","MAGJLS3",26,0)
+ ; Called from MAGJLS2
+"RTN","MAGJLS3",27,0)
+ ; MAGGRY - Indirect Global ref of return array
+"RTN","MAGJLS3",28,0)
+ ; DATA   - type of listing ^ Imaging Types to process
+"RTN","MAGJLS3",29,0)
+ ;   Piece 1 = U  -- UNREAD Exams only (Status Category=E)
+"RTN","MAGJLS3",30,0)
+ ;           = R  -- RECENT Exams (Status Categories D & T)
+"RTN","MAGJLS3",31,0)
+ ;           = A  -- ALL Active exams (Categories E, D, & T)
+"RTN","MAGJLS3",32,0)
+ ;           = P  -- PENDING exams (Category "W")
+"RTN","MAGJLS3",33,0)
+ ;           = N  -- Newly Interpreted Exams (No Cat.-Internal use only)
+"RTN","MAGJLS3",34,0)
+ ;   Piece 2,ff = List of Imaging Types to process, or "ALL" for all
+"RTN","MAGJLS3",35,0)
+ ; MAGLST - optional Indirect Gref namespace for returned list
+"RTN","MAGJLS3",36,0)
+ ; 
+"RTN","MAGJLS3",37,0)
+ ;* This subroutine can continue to receive U/R/A/P/N (LSTREQ),
+"RTN","MAGJLS3",38,0)
+ ;                                ^_delim list of ImgTypes (IMTYPS)
+"RTN","MAGJLS3",39,0)
+ ; BKGPROC
+"RTN","MAGJLS3",40,0)
+ N RADFN,RADTI,RACNI
+"RTN","MAGJLS3",41,0)
+ N HDR,HDRLST,MAGIMGTY,MAGRACNT,MAGRET,LSTREQ,LISTYP,LISCAT,IMTYPS
+"RTN","MAGJLS3",42,0)
+ N REPLY,STAT,TYP,SORTMAG,DIQUIET,STATCHK,LASTDT,IMGSONLY,URGORD,REMONLY
+"RTN","MAGJLS3",43,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJLS3",44,0)
+ I $G(MAGLST)="" S MAGLST=$NA(^TMP($J,"MAGJACTIVE"))
+"RTN","MAGJLS3",45,0)
+ K ^TMP($J,"MAGRAEX"),@MAGLST
+"RTN","MAGJLS3",46,0)
+ S LSTREQ=$P(DATA,U),IMTYPS=$P(DATA,U,2,99)
+"RTN","MAGJLS3",47,0)
+ I LSTREQ="U"!(LSTREQ="R")!(LSTREQ="A")!(LSTREQ="P")!(LSTREQ="N")
+"RTN","MAGJLS3",48,0)
+ E  S REPLY="0^4~Invalid Request (List Type="_LSTREQ_")" G BLDACTVZ
+"RTN","MAGJLS3",49,0)
+ S MAGRACNT=0
+"RTN","MAGJLS3",50,0)
+ S X=$G(^MAG(2006.69,1,0)),IMGSONLY=+$P(X,U,7) ; show only exams w/ images?
+"RTN","MAGJLS3",51,0)
+ S REMONLY=$G(MAGJOB("REMOTE"))&+$P(X,U,10) ;show remote cache only?
+"RTN","MAGJLS3",52,0)
+ S X=$G(^MAG(2006.69,1,1)),URGORD=$P(X,U)
+"RTN","MAGJLS3",53,0)
+ S:URGORD="" URGORD="S,U,P,R" S URGORD=$TR(URGORD,",") ; "Priority" sort
+"RTN","MAGJLS3",54,0)
+ S HDR=$S(LSTREQ="U":"UNREAD",LSTREQ="R":"RECENT",LSTREQ="P":"PENDING",LSTREQ="A":"UNREAD and RECENT",LSTREQ="N":"NEWLY INTERP",1:"")_" Exams"_" for IMAGING TYPES: "
+"RTN","MAGJLS3",55,0)
+ S LISTYP=$S(LSTREQ="U":"E",LSTREQ="R":"D^T",LSTREQ="A":"E^D^T",LSTREQ="P":"W",LSTREQ="N":"",1:"E")
+"RTN","MAGJLS3",56,0)
+ S REPLY="0^4~Compiling list of Radiology Exams (ACTIVE)."
+"RTN","MAGJLS3",57,0)
+ I $G(BKGPROC),(LSTREQ="R") K ^TMP($J,"NEWINT") S ^TMP($J,"NEWINT")=+$G(^XTMP("MAGJ2","RECENT",0))
+"RTN","MAGJLS3",58,0)
+ I LSTREQ="N" D BLDACT2
+"RTN","MAGJLS3",59,0)
+ I LSTREQ'="N" D BLDACT1
+"RTN","MAGJLS3",60,0)
+BLDACTVZ ;
+"RTN","MAGJLS3",61,0)
+ I 'MAGRACNT S:(REPLY["Compiling") REPLY="0^2~No Exams Found"
+"RTN","MAGJLS3",62,0)
+ E  D
+"RTN","MAGJLS3",63,0)
+ . I IMTYPS="ALL" S HDR=HDR_" ALL"
+"RTN","MAGJLS3",64,0)
+ . E  S Y="" F I=0:1 S Y=$O(HDRLST(Y)) Q:Y=""  S HDR=HDR_$S('I:"",1:", ")_Y
+"RTN","MAGJLS3",65,0)
+ . S REPLY=MAGRACNT_U_"1~"_HDR
+"RTN","MAGJLS3",66,0)
+ S @MAGLST@(0,1)=REPLY,^(2)=""
+"RTN","MAGJLS3",67,0)
+ K ^TMP($J,"MAGRAEX"),^("RAE1")
+"RTN","MAGJLS3",68,0)
+ S MAGGRY=MAGLST
+"RTN","MAGJLS3",69,0)
+ Q
+"RTN","MAGJLS3",70,0)
+BLDACT1 ; Compile exams by Status codes
+"RTN","MAGJLS3",71,0)
+ D BLDSTAT
+"RTN","MAGJLS3",72,0)
+ F  S LISCAT=$P(LISTYP,U),LISTYP=$P(LISTYP,U,2,9) Q:LISCAT=""  D
+"RTN","MAGJLS3",73,0)
+ . I IMTYPS="ALL" S TYP="" D  Q
+"RTN","MAGJLS3",74,0)
+ .. F  S TYP=$O(STAT(LISCAT,TYP)) Q:TYP=""  D IMGTYP(LISCAT,TYP)
+"RTN","MAGJLS3",75,0)
+ . E  I +IMTYPS D IMGTYLST(LISCAT,IMTYPS) Q
+"RTN","MAGJLS3",76,0)
+ . E  S REPLY="0^4~Invalid Imaging Type"
+"RTN","MAGJLS3",77,0)
+ Q
+"RTN","MAGJLS3",78,0)
+BLDACT2 ; Add recently interpreted exams to the "Recent" compile data
+"RTN","MAGJLS3",79,0)
+ ; First, compile these exams into their own list
+"RTN","MAGJLS3",80,0)
+ N CNT,INDX,RAST,STATCHK,RECLIST
+"RTN","MAGJLS3",81,0)
+ S X=$G(^XTMP("MAGJ2","RECENT",0)),INDX=+$P(X,U,2)
+"RTN","MAGJLS3",82,0)
+ F  S INDX=$O(^XTMP("MAGJ2","RECENT",INDX)) Q:'INDX  S X=^(INDX) D
+"RTN","MAGJLS3",83,0)
+ . S RADFN=$P(X,U),RADTI=$P(X,U,2),RACNI=$P(X,U,3),(RAST,STATCHK)=$P(X,U,4)
+"RTN","MAGJLS3",84,0)
+ . D GETEXAM2^MAGJUTL1(RADFN,RADTI,RACNI,0,.MAGRET)
+"RTN","MAGJLS3",85,0)
+ . I MAGRET D SVMAG2A
+"RTN","MAGJLS3",86,0)
+ . S $P(^XTMP("MAGJ2","RECENT",0),U,2)=INDX
+"RTN","MAGJLS3",87,0)
+ ; now copy the above list records to the "RECENT" curlist
+"RTN","MAGJLS3",88,0)
+ S RECLIST=+$$CURLIST^MAGJLS2("LS9992")
+"RTN","MAGJLS3",89,0)
+ I 'RECLIST S RECLIST=+$G(^XTMP("MAGJ2","BKGND","LS9992",0))
+"RTN","MAGJLS3",90,0)
+ I 'RECLIST Q  ; Recent list not being compiled--skip it!
+"RTN","MAGJLS3",91,0)
+ F CNT=1:1:MAGRACNT S X1=@MAGLST@(CNT,1),X2=^(2) D
+"RTN","MAGJLS3",92,0)
+ . S REC=^XTMP("MAGJ2","LS9992",RECLIST,0,1)+1
+"RTN","MAGJLS3",93,0)
+ . S ^XTMP("MAGJ2","LS9992",RECLIST,REC,1)=X1,^(2)=X2
+"RTN","MAGJLS3",94,0)
+ . S $P(^XTMP("MAGJ2","LS9992",RECLIST,0,1),U)=REC
+"RTN","MAGJLS3",95,0)
+ Q
+"RTN","MAGJLS3",96,0)
+ ;
+"RTN","MAGJLS3",97,0)
+ ;Returns: @MAGGRY@(0) =  count ^ message
+"RTN","MAGJLS3",98,0)
+ ;         @MAGGRY@(1:N)=column_1 data ^ col2 data ^ col3 data, etc
+"RTN","MAGJLS3",99,0)
+ ;
+"RTN","MAGJLS3",100,0)
+SVMAG2A ; 2A used by subroutine at tag BLDACTV
+"RTN","MAGJLS3",101,0)
+ ; load return array @MAGLST@(n
+"RTN","MAGJLS3",102,0)
+ ; Note: ^TMP("MAGRAEX" is set by the subroutine Getexam2^Magjutl1
+"RTN","MAGJLS3",103,0)
+ ;
+"RTN","MAGJLS3",104,0)
+ N MAGDT,SORTDT,IMGCNT,ONL,XX,XX2,Y
+"RTN","MAGJLS3",105,0)
+ N REMOTE,MODALITY,DAYCASE,EXCAT,ORD,URG,URG1,PREOP,LASTSSN
+"RTN","MAGJLS3",106,0)
+ S URG="",PREOP=""   ; <*> Need below until RAO7PC1A returns URG
+"RTN","MAGJLS3",107,0)
+ S X=$G(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0))
+"RTN","MAGJLS3",108,0)
+ S ORD=$P(X,U,11)
+"RTN","MAGJLS3",109,0)
+ I ORD S Y=$G(^RAO(75.1,ORD,0)),URG=$P(Y,U,6),PREOP=$P(Y,U,12)
+"RTN","MAGJLS3",110,0)
+ S XX=$G(^TMP($J,"MAGRAEX",1,1)),XX2=$G(^(2))
+"RTN","MAGJLS3",111,0)
+ I $G(STATCHK),(STATCHK=$P(XX,U,11))
+"RTN","MAGJLS3",112,0)
+ E  Q       ;  index '= stored status
+"RTN","MAGJLS3",113,0)
+ D IMGINFO^MAGJUTL2($P(XX,U,10),.Y)
+"RTN","MAGJLS3",114,0)
+ S IMGCNT=$P(Y,U),ONL=$P(Y,U,2),MAGDT=$P(Y,U,3),REMOTE=$P(Y,U,4),MODALITY=$P(Y,U,5),PLACE=$P(Y,U,6)
+"RTN","MAGJLS3",115,0)
+ I IMGSONLY,'IMGCNT Q  ;only list exams w/ imgs
+"RTN","MAGJLS3",116,0)
+ I REMONLY,'REMOTE,'$G(BKGPROC) Q  ; only list exams cached remotely
+"RTN","MAGJLS3",117,0)
+ S:PLACE PLACE=$P($G(^MAG(2006.1,PLACE,0)),U,9)
+"RTN","MAGJLS3",118,0)
+ I MAGDT="" S MAGDT=$P(XX,U,7)
+"RTN","MAGJLS3",119,0)
+ S SORTDT=MAGDT
+"RTN","MAGJLS3",120,0)
+ S MAGDT=$$FMTE^XLFDT(MAGDT,"5Z")
+"RTN","MAGJLS3",121,0)
+   ; XX 1 RADFN   RADTI    RACNI   RANME    RASSN  <-- from GETEXAM
+"RTN","MAGJLS3",122,0)
+   ;    6 RADATE  RADTE    RACN    RAPRC     RARPT
+"RTN","MAGJLS3",123,0)
+   ;   11 RAST    DAYCASE  RAELOC   RASTP     RASTORD
+"RTN","MAGJLS3",124,0)
+   ;   16 RADTPRT RACPT    IMTYPABB
+"RTN","MAGJLS3",125,0)
+   ;XX2 1 REQLOCABB  REQLOCNM  RdRIST  COMPLIC  RAD_DIV
+"RTN","MAGJLS3",126,0)
+   ;    6 SITE_CODE  RISTISME
+"RTN","MAGJLS3",127,0)
+ S:'URG URG=9  ;  request urgency default to Routine
+"RTN","MAGJLS3",128,0)
+ I URG=9,(PREOP]"") S URG=8  ; dummy value for Pre-Op "urgency"
+"RTN","MAGJLS3",129,0)
+ S URG1=$S(URG=1:"Stat",URG=2:"Urg",URG=8:"PreOp",1:"Rout"),X=$E(URG1),URG1=$F(URGORD,X)-1_"-"_URG1
+"RTN","MAGJLS3",130,0)
+ I PREOP]"",(URG'=8) S URG1=URG1_"/Pre" ; show PreOp & another priority
+"RTN","MAGJLS3",131,0)
+ S SORTMAG=$S(+IMGCNT:"A",1:"B") ; sort index: has/not images
+"RTN","MAGJLS3",132,0)
+ S DAYCASE=$P(XX,U,12)
+"RTN","MAGJLS3",133,0)
+ S Z=$D(^RA(72,"AVC","E",$P(XX,U,11))),EXCAT=$S(Z:"E",1:"") ; "Examined" indic.
+"RTN","MAGJLS3",134,0)
+ S LASTSSN=$P($P(XX,U,5),"-",3)
+"RTN","MAGJLS3",135,0)
+ S Y=DAYCASE_U_U_$E($P(XX,U,4),1,30)_U_$E($P(XX,U,4))_LASTSSN
+"RTN","MAGJLS3",136,0)
+ S Y=Y_U_URG1_U_$E($P(XX,U,9),1,30)_U_MAGDT_U_$E($P(XX,U,14),1,10)_U_IMGCNT
+"RTN","MAGJLS3",137,0)
+ S Y=Y_U_ONL_U_$E($P(XX,U,13),1,15)_U_REMOTE
+"RTN","MAGJLS3",138,0)
+ S Y=Y_U_SORTMAG_U_SORTDT_U_MODALITY_U_RAST_U_$$RAIMTYP(RAST)
+"RTN","MAGJLS3",139,0)
+ S X=$P(XX2,U,7),RISTISME=$S(X:"Y",1:"N")
+"RTN","MAGJLS3",140,0)
+ S Y2=$P(XX2,U,1,3)_U_LASTSSN_U_$P(XX2,U,5)_U_PLACE_U_RISTISME_U_"|"_$P(XX,U,1,3)_U_$P(XX,U,10)_"||"_EXCAT
+"RTN","MAGJLS3",141,0)
+ S MAGRACNT=MAGRACNT+1
+"RTN","MAGJLS3",142,0)
+ S @MAGLST@(MAGRACNT,1)=Y,^(2)=Y2
+"RTN","MAGJLS3",143,0)
+ I $G(BKGPROC),(LSTREQ="R") S ^TMP($J,"NEWINT",$P(XX,U,1,3))=""
+"RTN","MAGJLS3",144,0)
+ Q
+"RTN","MAGJLS3",145,0)
+ ;
+"RTN","MAGJLS3",146,0)
+RAIMTYP(RAST)   ; return Imaging Type Abbrev for Status Code
+"RTN","MAGJLS3",147,0)
+ N X S X="" I RAST]"" D
+"RTN","MAGJLS3",148,0)
+ . S X=$G(RAIMTYP(RAST)) Q:X]""
+"RTN","MAGJLS3",149,0)
+ . S X=$P($G(^RA(72,RAST,0)),U,7)
+"RTN","MAGJLS3",150,0)
+ . I X S X=$P($G(^RA(79.2,X,0)),U,3)_"~"_X  ; abb~ien
+"RTN","MAGJLS3",151,0)
+ . S RAIMTYP(RAST)=X   ; save for future use
+"RTN","MAGJLS3",152,0)
+ Q X
+"RTN","MAGJLS3",153,0)
+ ;
+"RTN","MAGJLS3",154,0)
+IMGTYLST(LISCAT,LST)       ; get exams for list of image types for input LISCAT
+"RTN","MAGJLS3",155,0)
+ N TYP
+"RTN","MAGJLS3",156,0)
+ F  Q:'(LST?1.N.E)  S TYP=+$P(LST,U),LST=$P(LST,U,2,99) D:TYP IMGTYP(LISCAT,TYP)
+"RTN","MAGJLS3",157,0)
+ Q
+"RTN","MAGJLS3",158,0)
+ ;
+"RTN","MAGJLS3",159,0)
+IMGTYP(LISCAT,IMGTY)       ; process statuses for one Image Type for LISCAT
+"RTN","MAGJLS3",160,0)
+ I '$D(^RA(79.2,IMGTY,0)) S REPLY="0^4~Invalid Imaging Type" Q
+"RTN","MAGJLS3",161,0)
+ N LST
+"RTN","MAGJLS3",162,0)
+ I $D(STAT)<10 D BLDSTAT
+"RTN","MAGJLS3",163,0)
+ S (STAT,LST)=""
+"RTN","MAGJLS3",164,0)
+ S LASTDT=$P(STAT(LISCAT),U)
+"RTN","MAGJLS3",165,0)
+ F  S STAT=$O(STAT(LISCAT,IMGTY,STAT)) Q:STAT=""  S LST=LST_$S(LST="":"",1:U)_STAT,HDRLST(STAT(LISCAT,IMGTY))=""
+"RTN","MAGJLS3",166,0)
+ I LST]"" D STATLST(LST)
+"RTN","MAGJLS3",167,0)
+ Q
+"RTN","MAGJLS3",168,0)
+ ;
+"RTN","MAGJLS3",169,0)
+STATLST(LST)       ; get exams for a list of status codes
+"RTN","MAGJLS3",170,0)
+ F  Q:'(LST?1.N.E)  S STAT=+$P(LST,U),LST=$P(LST,U,2,99) D:STAT STAT(STAT)
+"RTN","MAGJLS3",171,0)
+ Q
+"RTN","MAGJLS3",172,0)
+ ;
+"RTN","MAGJLS3",173,0)
+STAT(RAST)           ; get exams for one status code
+"RTN","MAGJLS3",174,0)
+ ; this subroutine uses ^RADPT (#70) "AS" index of exams not yet complete
+"RTN","MAGJLS3",175,0)
+ ;
+"RTN","MAGJLS3",176,0)
+ N RASTP
+"RTN","MAGJLS3",177,0)
+ I $D(^RA(72,RAST)) S RASTP=$P(^(RAST,0),U)
+"RTN","MAGJLS3",178,0)
+ E  S REPLY="0^4~Invalid Exam Status" Q
+"RTN","MAGJLS3",179,0)
+ I '$D(^RADPT("AS",RAST)) S REPLY="0^2~No exams on file with Exam Status "_RASTP Q
+"RTN","MAGJLS3",180,0)
+ S RADFN=0,STATCHK=RAST
+"RTN","MAGJLS3",181,0)
+ F  S RADFN=$O(^RADPT("AS",RAST,RADFN)) Q:RADFN'>0  S RADTI=0 D
+"RTN","MAGJLS3",182,0)
+ . F  S RADTI=$O(^RADPT("AS",RAST,RADFN,RADTI)) Q:RADTI'>0!(RADTI>LASTDT)  S RACNI=0 D
+"RTN","MAGJLS3",183,0)
+ .. F  S RACNI=$O(^RADPT("AS",RAST,RADFN,RADTI,RACNI)) Q:RACNI'>0  D
+"RTN","MAGJLS3",184,0)
+ ... D GETEXAM2^MAGJUTL1(RADFN,RADTI,RACNI,0,.MAGRET)
+"RTN","MAGJLS3",185,0)
+ ... Q:'MAGRET  ; no exam returned
+"RTN","MAGJLS3",186,0)
+ ... D SVMAG2A
+"RTN","MAGJLS3",187,0)
+ Q
+"RTN","MAGJLS3",188,0)
+ ;
+"RTN","MAGJLS3",189,0)
+BLDSTAT ; build list of Exam Status codes: STAT(CATEGORY,IMAG_TYP,STAT)=STATNM
+"RTN","MAGJLS3",190,0)
+ N X,CAT,TYP,STNM K STAT S CAT="",STAT=0
+"RTN","MAGJLS3",191,0)
+ F  S CAT=$O(^RA(72,"AVC",CAT)) Q:CAT=""  D
+"RTN","MAGJLS3",192,0)
+ . S X=$S(CAT="E":3,1:2),X=$P($G(^MAG(2006.69,1,0)),U,X)
+"RTN","MAGJLS3",193,0)
+ . S:'X X=$S(CAT="E":30,1:6) S X=$H-X+1,X=$$HTFM^XLFDT(X),X=9999999.9999-X
+"RTN","MAGJLS3",194,0)
+ . S STAT(CAT)=X
+"RTN","MAGJLS3",195,0)
+ . F  S STAT=$O(^RA(72,"AVC",CAT,STAT)) Q:'STAT  D
+"RTN","MAGJLS3",196,0)
+ .. S TYP=$P($G(^RA(72,STAT,0)),U,7),STNM=$P(^(0),U) S:TYP="" TYP="~"
+"RTN","MAGJLS3",197,0)
+ .. S STAT(CAT,TYP)=$P($G(^RA(79.2,TYP,0)),U,3),STAT(CAT,TYP,STAT)=STNM
+"RTN","MAGJLS3",198,0)
+ Q
+"RTN","MAGJLS3",199,0)
+ ;
+"RTN","MAGJLS3",200,0)
+END Q  ;
+"RTN","MAGJLST1")
+0^6^B85459436
+"RTN","MAGJLST1",1,0)
+MAGJLST1 ;WIRMFO/JHC VistARad RPC calls[ 02/25/2000  4:25 PM ]
+"RTN","MAGJLST1",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJLST1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJLST1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJLST1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJLST1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJLST1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJLST1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJLST1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJLST1",10,0)
+ ;; |                                                               |
+"RTN","MAGJLST1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJLST1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJLST1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJLST1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJLST1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJLST1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJLST1",17,0)
+ ;;
+"RTN","MAGJLST1",18,0)
+ Q
+"RTN","MAGJLST1",19,0)
+ ;
+"RTN","MAGJLST1",20,0)
+ ; Subroutines for fetching Exam Info for Radiology Workstation
+"RTN","MAGJLST1",21,0)
+ ; Exam listings:
+"RTN","MAGJLST1",22,0)
+ ;     PTLIST -- list subset of all exams for a patient
+"RTN","MAGJLST1",23,0)
+ ;          Note, this is a reworked vs of tag 'LIST' from the
+"RTN","MAGJLST1",24,0)
+ ;          routine MAGGTRA
+"RTN","MAGJLST1",25,0)
+ ;        RPC Call: MAGJ PTRADEXAMS
+"RTN","MAGJLST1",26,0)
+ ;   PTLSTALL -- list ALL exams for a patient
+"RTN","MAGJLST1",27,0)
+ ;       RPC Call: MAGJ PT ALL EXAMS
+"RTN","MAGJLST1",28,0)
+ ; Subroutine for display Radiology Report:
+"RTN","MAGJLST1",29,0)
+ ;     RADRPT -- 
+"RTN","MAGJLST1",30,0)
+ ;       RPC Call: MAGJ EXAM REPORT
+"RTN","MAGJLST1",31,0)
+ Q
+"RTN","MAGJLST1",32,0)
+ERR N ERR S ERR=$$EC^%ZOSV S ^TMP($J,"RET",0)="0^4~"_ERR
+"RTN","MAGJLST1",33,0)
+ S MAGGRY=$NA(^TMP($J,"RET"))
+"RTN","MAGJLST1",34,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGJLST1",35,0)
+ Q:$Q 1  Q
+"RTN","MAGJLST1",36,0)
+ ;
+"RTN","MAGJLST1",37,0)
+RADRPT(MAGRPTY,DATA) ; Display rad report; 1st must pass integrity checks
+"RTN","MAGJLST1",38,0)
+ ; Note: adds an additional line of output for the Report Window header
+"RTN","MAGJLST1",39,0)
+ ;  RPC is MAGJ EXAM REPORT
+"RTN","MAGJLST1",40,0)
+ ;
+"RTN","MAGJLST1",41,0)
+ S MAGRPTY=$NA(^TMP($J,"WSDAT")) K @MAGRPTY
+"RTN","MAGJLST1",42,0)
+ I $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGJLST1"
+"RTN","MAGJLST1",43,0)
+ E  S X="ERR^MAGJLST1",@^%ZOSF("TRAP")
+"RTN","MAGJLST1",44,0)
+ N RARPT,RADATA,MAGDFN,MAGDTI,MAGCNI,X,MAGRET,HDR,REPLY,POP,MAGPRC,COMPLIC
+"RTN","MAGJLST1",45,0)
+ S MAGDFN=$P(DATA,U),MAGDTI=$P(DATA,U,2),MAGCNI=$P(DATA,U,3),RARPT=+$P(DATA,U,4)
+"RTN","MAGJLST1",46,0)
+ I '(MAGDFN&MAGDTI&MAGCNI) D  G RPTZ
+"RTN","MAGJLST1",47,0)
+ . S REPLY="0^4~Request Contains Invalid Case Pointer ("_MAGDFN_" "_MAGDTI_" "_MAGCNI_")."
+"RTN","MAGJLST1",48,0)
+ . I $L(DATA,U)=1 S REPLY=REPLY_"  VistaRSV module must be updated to newer version (T17 or later); contact Imaging support."
+"RTN","MAGJLST1",49,0)
+ D GETEXAM2^MAGJUTL1(MAGDFN,MAGDTI,MAGCNI,"",.MAGRET)
+"RTN","MAGJLST1",50,0)
+ S RADATA=$G(^TMP($J,"MAGRAEX",1,1)),XX=$G(^(2)),HDR=""
+"RTN","MAGJLST1",51,0)
+ S COMPLIC=$P(XX,U,4)  ;  Complications text
+"RTN","MAGJLST1",52,0)
+ F I=4,12,9 S HDR=HDR_$P(RADATA,U,I)_"   "
+"RTN","MAGJLST1",53,0)
+ D CKINTEG(.REPLY,MAGDFN,MAGDTI,MAGCNI,RARPT,RADATA)
+"RTN","MAGJLST1",54,0)
+ I REPLY]"" S REPLY="0^7~"_REPLY G RPTZ  ; DB integ problem
+"RTN","MAGJLST1",55,0)
+ D OPENDEV^MAGJORD
+"RTN","MAGJLST1",56,0)
+ I POP S REPLY="0^4~Unable to open device 'IMAGING WORKSTATION'" G RPTZ
+"RTN","MAGJLST1",57,0)
+ D EN3^RAO7PC3(MAGDFN_"^"_MAGDTI_"^"_MAGCNI)
+"RTN","MAGJLST1",58,0)
+ I '$D(^TMP($J,"RAE3")) S REPLY="0^4~No report on file." G RPTZ
+"RTN","MAGJLST1",59,0)
+ D COMMENTS^MAGJORD(MAGDFN,MAGDTI,MAGCNI,MAGRPTY,2,COMPLIC)
+"RTN","MAGJLST1",60,0)
+ S MAGPRC=$O(^TMP($J,"RAE3",MAGDFN,MAGCNI,"")),I=0
+"RTN","MAGJLST1",61,0)
+ F  S I=$O(^TMP($J,"RAE3",MAGDFN,MAGCNI,MAGPRC,I)) Q:'I  W !,$G(^TMP($J,"RAE3",MAGDFN,MAGCNI,MAGPRC,I))
+"RTN","MAGJLST1",62,0)
+ D:IO'=IO(0) ^%ZISC
+"RTN","MAGJLST1",63,0)
+ S REPLY="1^1~Radiology Report"
+"RTN","MAGJLST1",64,0)
+RPTZ S @MAGRPTY@(0)=REPLY
+"RTN","MAGJLST1",65,0)
+ I +$G(@MAGRPTY@(0)) S @MAGRPTY@(1)="RPT: "_HDR
+"RTN","MAGJLST1",66,0)
+ K ^TMP($J,"MAGRAEX"),^("RAE3")
+"RTN","MAGJLST1",67,0)
+ Q
+"RTN","MAGJLST1",68,0)
+ ;
+"RTN","MAGJLST1",69,0)
+CKINTEG(REPLY,RADFN,RADTI,RACNI,RARPT,RADATA) ; check integrity between Exam, Report, and Image Group Headers
+"RTN","MAGJLST1",70,0)
+ ; This subroutine used by other programs (magjord)
+"RTN","MAGJLST1",71,0)
+ ;
+"RTN","MAGJLST1",72,0)
+ N IEN,MAGIEN,MIXEDUP,X,CKDFN,CKACN
+"RTN","MAGJLST1",73,0)
+ S MIXEDUP=0,REPLY=""
+"RTN","MAGJLST1",74,0)
+ I RARPT D  G CK2:MIXEDUP
+"RTN","MAGJLST1",75,0)
+ . S X=$G(^RARPT(RARPT,0)),CKDFN=$P(X,U,2),CKACN=$P(X,U,4)
+"RTN","MAGJLST1",76,0)
+ . I CKDFN'=RADFN S MIXEDUP=1_U_+CKDFN Q
+"RTN","MAGJLST1",77,0)
+ . I $G(RADATA)]"" D
+"RTN","MAGJLST1",78,0)
+ .. I $P(RADATA,U,8)'=CKACN D
+"RTN","MAGJLST1",79,0)
+ ... N MAGPSET,RAPRTSET,ACN,OK S OK=0
+"RTN","MAGJLST1",80,0)
+ ... S RAPRTSET=0 D EN2^RAUTL20(.MAGPSET) I RAPRTSET D
+"RTN","MAGJLST1",81,0)
+ .... N I S I=0 F  S I=$O(MAGPSET(I)) Q:'I  I +MAGPSET(I)=CKACN S OK=1 Q
+"RTN","MAGJLST1",82,0)
+ ... I 'OK S MIXEDUP=5_U_CKACN_U_$P(RADATA,U,8)
+"RTN","MAGJLST1",83,0)
+ I $D(^RARPT(+RARPT,2005)) S IEN=0 D  G CK2:MIXEDUP
+"RTN","MAGJLST1",84,0)
+ . F  S IEN=$O(^RARPT(RARPT,2005,IEN)) Q:'IEN  S MAGIEN=+$G(^(IEN,0)) D  Q:MIXEDUP
+"RTN","MAGJLST1",85,0)
+ .. S X=$P($G(^MAG(2005,MAGIEN,0)),U,7) I X'=RADFN S MIXEDUP=2_U_+X Q
+"RTN","MAGJLST1",86,0)
+ .. S X=$P($G(^MAG(2005,MAGIEN,2)),U,7) I X'=RARPT S MIXEDUP=3_U_+X Q
+"RTN","MAGJLST1",87,0)
+CK2 I 'MIXEDUP Q  ; no problems detected
+"RTN","MAGJLST1",88,0)
+ I +MIXEDUP=1!(+MIXEDUP=2) D  Q
+"RTN","MAGJLST1",89,0)
+ . S X=$$PNAM^MAGJEX1($P(MIXEDUP,U,2))
+"RTN","MAGJLST1",90,0)
+ . I +MIXEDUP=1 S REPLY="The Exam file for this exam has patient "_$$PNAM^MAGJEX1(RADFN)_"; the corresponding Report file has patient "_X_".  This is a serious problem--immediately report it to Radiology management and Imaging support!"
+"RTN","MAGJLST1",91,0)
+ . I +MIXEDUP=2 S REPLY="This exam is registered for "_$$PNAM^MAGJEX1(RADFN)_"; however, it is linked to images for patient "_X_".  This is a serious problem--immediately report it to Radiology management and Imaging support staff!"
+"RTN","MAGJLST1",92,0)
+ I +MIXEDUP=3 D  Q
+"RTN","MAGJLST1",93,0)
+ . N T S T=$P(MIXEDUP,U,2) S:'T T="Missing Link"
+"RTN","MAGJLST1",94,0)
+ . S REPLY="This exam is linked to Report entry #"_RARPT_", but some of its images may be linked to Report entry #"_T_".  This is a potentially serious problem--immediately report it to Radiology management and Imaging support staff!"
+"RTN","MAGJLST1",95,0)
+ I +MIXEDUP=4 D  Q
+"RTN","MAGJLST1",96,0)
+ . N T S T=$P(MIXEDUP,U,2) S:'T T="Missing Reference"
+"RTN","MAGJLST1",97,0)
+ . S X=" ("_RARPT_" and "_T_" )"
+"RTN","MAGJLST1",98,0)
+ . S REPLY="This exam has problems in the Radiology Report file, with two different report entries referenced"_X_".  This is a potentially serious problem--immediately report it to Radiology management and Imaging support staff!"
+"RTN","MAGJLST1",99,0)
+ I +MIXEDUP=5 D  Q
+"RTN","MAGJLST1",100,0)
+ . N T S X=$P(MIXEDUP,U,2) S:X="" X="Missing"
+"RTN","MAGJLST1",101,0)
+ . S T=$P(MIXEDUP,U,3) S:T="" T="Missing"
+"RTN","MAGJLST1",102,0)
+ . S X=" ("_X_" and "_T_") "
+"RTN","MAGJLST1",103,0)
+ . S REPLY="This exam has problems in the Radiology files, with two different Case Numbers referenced"_X_".  This is a potentially serious problem--immediately report it to Radiology management and Imaging support staff!"
+"RTN","MAGJLST1",104,0)
+ Q
+"RTN","MAGJLST1",105,0)
+ ;
+"RTN","MAGJLST1",106,0)
+PTLSTALL(MAGGRY,DATA) ; List ALL exams for a patient
+"RTN","MAGJLST1",107,0)
+ ;  RPC is MAGJ PT ALL EXAMS
+"RTN","MAGJLST1",108,0)
+ D PTLIST(.MAGGRY,$P(DATA,U)_"^99^999")
+"RTN","MAGJLST1",109,0)
+ Q
+"RTN","MAGJLST1",110,0)
+ ;
+"RTN","MAGJLST1",111,0)
+PTLIST(MAGGRY,DATA) ; get list of exams for a patient
+"RTN","MAGJLST1",112,0)
+ ; 
+"RTN","MAGJLST1",113,0)
+ ; MAGGRY - return $NA of array of exams for a patient
+"RTN","MAGJLST1",114,0)
+ ; DATA   - DFN--Radiology Patient's DFN
+"RTN","MAGJLST1",115,0)
+ ;          LIMYRS--Restrict listed exams up to # Years back
+"RTN","MAGJLST1",116,0)
+ ;          LIMEXAMS--Restrict listed exams up to # of exams
+"RTN","MAGJLST1",117,0)
+ ; Returns data in ^TMP($J,"MAGRAEX",0:n)
+"RTN","MAGJLST1",118,0)
+ ; RPC Call: MAGJ PTRADEXAMS
+"RTN","MAGJLST1",119,0)
+ ;
+"RTN","MAGJLST1",120,0)
+ N CNT,DFN,ISS,PATNAME,DIQUIET,MAGRACNT,MAGRET,REPLY,REMOTE,SNDREMOT
+"RTN","MAGJLST1",121,0)
+ N DAYCASE,DIV,EXCAT,MAGDT,XX,XX2,WHOLOCK,MODALITY,MYLOCK,PLACE
+"RTN","MAGJLST1",122,0)
+ N LIMYRS,LIMEXAMS,BEGDT,MORE,SHOWPLAC,RDRIST,PSSN
+"RTN","MAGJLST1",123,0)
+ I $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGJLST1"
+"RTN","MAGJLST1",124,0)
+ E  S X="ERR^MAGJLST1",@^%ZOSF("TRAP")
+"RTN","MAGJLST1",125,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJLST1",126,0)
+ S X=$G(^MAG(2006.69,1,0))
+"RTN","MAGJLST1",127,0)
+ S SNDREMOT=+$P(X,U,11) ; Site routes images remotely?
+"RTN","MAGJLST1",128,0)
+ S SHOWPLAC=$$SHOWPLAC^MAGJLS2B("")
+"RTN","MAGJLST1",129,0)
+ S LIMYRS=+$P(X,U,14),LIMEXAMS=+$P(X,U,15)
+"RTN","MAGJLST1",130,0)
+ S:'LIMYRS LIMYRS=99 S:'LIMEXAMS LIMEXAMS=999 ; default to show ALL Exams
+"RTN","MAGJLST1",131,0)
+ K MAGGRY S DFN=+DATA
+"RTN","MAGJLST1",132,0)
+ I $P(DATA,U,2) S LIMYRS=+$P(DATA,U,2)
+"RTN","MAGJLST1",133,0)
+ I $P(DATA,U,3) S LIMEXAMS=+$P(DATA,U,3)
+"RTN","MAGJLST1",134,0)
+ I LIMYRS>74 S LIMYRS=""
+"RTN","MAGJLST1",135,0)
+ I LIMYRS,LIMYRS<2 S LIMYRS=2
+"RTN","MAGJLST1",136,0)
+ I LIMEXAMS<15 S LIMEXAMS=15
+"RTN","MAGJLST1",137,0)
+ S MAGRACNT=1,CNT=0 K ^TMP($J,"MAGRAEX"),^("MAGRAEX2")
+"RTN","MAGJLST1",138,0)
+ S REPLY="0^4~Compiling list of Radiology Exams."
+"RTN","MAGJLST1",139,0)
+ I DFN,$D(^DPT(DFN,0)) S PATNAME=$P(^(0),U),PSSN=$P(^(0),U,9) D
+"RTN","MAGJLST1",140,0)
+ . S BEGDT=""
+"RTN","MAGJLST1",141,0)
+ . I LIMYRS S BEGDT=($E(DT,1,3)-LIMYRS)_$E(DT,4,7)
+"RTN","MAGJLST1",142,0)
+ . D GETEXAM3^MAGJUTL1(DFN,BEGDT,"",.MAGRACNT,.MAGRET,.MORE,LIMEXAMS)
+"RTN","MAGJLST1",143,0)
+ . S ISS=0
+"RTN","MAGJLST1",144,0)
+ . Q:'MAGRET      ;  No exams found
+"RTN","MAGJLST1",145,0)
+ . F  S ISS=$O(^TMP($J,"MAGRAEX",ISS)) Q:'ISS  S XX=^(ISS,1),XX2=^(2) D
+"RTN","MAGJLST1",146,0)
+ .. S CNT=CNT+1
+"RTN","MAGJLST1",147,0)
+ .. D IMGINFO^MAGJUTL2($P(XX,U,10),.Y)
+"RTN","MAGJLST1",148,0)
+ .. S IMGCNT=$P(Y,U),ONL=$P(Y,U,2),MAGDT=$P(Y,U,3),REMOTE=$P(Y,U,4),MODALITY=$P(Y,U,5),PLACE=$P(Y,U,6)
+"RTN","MAGJLST1",149,0)
+ .. S:PLACE PLACE=$P($G(^MAG(2006.1,PLACE,0)),U,9)
+"RTN","MAGJLST1",150,0)
+ .. I PLACE]"",SHOWPLAC D
+"RTN","MAGJLST1",151,0)
+ ... I SHOWPLAC'[(","_PLACE_",") S PLACE="" ; don't show user's logon pl
+"RTN","MAGJLST1",152,0)
+ .. I SNDREMOT,REMOTE D
+"RTN","MAGJLST1",153,0)
+ ... I $G(MAGJOB("REMOTE")) D  Q
+"RTN","MAGJLST1",154,0)
+ .... F I=1:1:$L(REMOTE,",") I $D(MAGJOB("LOC",$P(REMOTE,",",I))) S REMOTE=$P($G(^MAG(2005.2,$P(REMOTE,",",I),3)),U,5) Q
+"RTN","MAGJLST1",155,0)
+ ... E  S T="" D  Q
+"RTN","MAGJLST1",156,0)
+ .... F I=1:1:$L(REMOTE,",") S T=T_$S(T="":"",1:",")_$P($G(^MAG(2005.2,$P(REMOTE,",",I),3)),U,5)
+"RTN","MAGJLST1",157,0)
+ .... S REMOTE=T
+"RTN","MAGJLST1",158,0)
+ .. S DIV="",X=$P(XX2,U,5) I X'=DUZ(2) S DIV=$$STATN(X)
+"RTN","MAGJLST1",159,0)
+ .. I MAGDT="" S MAGDT=$P(XX,U,7)
+"RTN","MAGJLST1",160,0)
+ .. S MAGDT=$$FMTE^XLFDT(MAGDT,"5Z")
+"RTN","MAGJLST1",161,0)
+ .. S WHOLOCK=$P(XX,U,10),MYLOCK="",DAYCASE=$P(XX,U,12)
+"RTN","MAGJLST1",162,0)
+ .. I WHOLOCK]"" S T=$$CHKLOCK^MAGJLS2B(WHOLOCK),WHOLOCK=$P(T,U),MYLOCK=$P(T,U,2)
+"RTN","MAGJLST1",163,0)
+ .. S RDRIST=$P(XX2,U,3)
+"RTN","MAGJLST1",164,0)
+ .. S Y=U_DAYCASE_U_WHOLOCK_U_$E($P(XX,U,9),1,26)_U_MAGDT_U_$E($P(XX,U,14),1,16)_U_IMGCNT_U_ONL
+"RTN","MAGJLST1",165,0)
+ .. I $G(SNDREMOT) S Y=Y_U_REMOTE
+"RTN","MAGJLST1",166,0)
+ .. S Y=Y_$S(SHOWPLAC:U_PLACE,1:"")_U_MODALITY_U_$E($P(XX,U,13),1,11)_U_RDRIST
+"RTN","MAGJLST1",167,0)
+ .. S EXCAT=$P(XX,U,11)
+"RTN","MAGJLST1",168,0)
+ .. I EXCAT]"" S EXCAT=$S($D(^RA(72,"AVC","E",EXCAT)):"E",1:"")
+"RTN","MAGJLST1",169,0)
+ .. S ^TMP($J,"MAGRAEX2",ISS)=Y_"^|"_$P(XX,U,1,3)_U_$P(XX,U,10)_"||"_EXCAT_U_WHOLOCK_U_MYLOCK_U_MODALITY
+"RTN","MAGJLST1",170,0)
+ E  S REPLY="0^4~Invalid Radiology Patient"
+"RTN","MAGJLST1",171,0)
+ I MAGRACNT<2 S:(REPLY["Compiling") REPLY="0^2~No Exams Found for "_PATNAME
+"RTN","MAGJLST1",172,0)
+ ; E  D   ; Return @MAGGRY@(0)= count ^ message
+"RTN","MAGJLST1",173,0)
+ I CNT!(REPLY["No Exams Found") D
+"RTN","MAGJLST1",174,0)
+ . ;             @MAGGRY@(1)= column1 header ^ col2 hdr ^ col3 hdr ^ etc.
+"RTN","MAGJLST1",175,0)
+ . I 'MORE S MSG="ALL exams are listed."
+"RTN","MAGJLST1",176,0)
+ . E  S MORE=$$FMTE^XLFDT(MORE) S MSG="Patient has more exams on file."
+"RTN","MAGJLST1",177,0)
+ . ; show SSN only if the user is a radiologist
+"RTN","MAGJLST1",178,0)
+ . S X=+MAGJOB("USER",1) I '(X=12!(X=15)) S PSSN=""
+"RTN","MAGJLST1",179,0)
+ . E  S PSSN=" ("_$E(PSSN,1,3)_"-"_$E(PSSN,4,5)_"-"_$E(PSSN,6,9)_")"
+"RTN","MAGJLST1",180,0)
+ . I CNT S REPLY=CNT_"^1~Radiology Exams for: "_PATNAME_PSSN_" -- "_MSG
+"RTN","MAGJLST1",181,0)
+ . E  S REPLY=REPLY_" -- "_MSG
+"RTN","MAGJLST1",182,0)
+ . S ^TMP($J,"MAGRAEX2",1)="^Day/Case~S3^Lock^Procedure^Image Date/Time~S1^Status^# Img~S2^Onl"_$S($G(SNDREMOT):"^RC",1:"")_$S(SHOWPLAC:"^Site",1:"")_"^Mod^Imaging Loc^Interp By"
+"RTN","MAGJLST1",183,0)
+ S ^TMP($J,"MAGRAEX2",0)=REPLY
+"RTN","MAGJLST1",184,0)
+ S MAGGRY=$NA(^TMP($J,"MAGRAEX2"))
+"RTN","MAGJLST1",185,0)
+ K ^TMP($J,"RAE1"),^("MAGRAEX")
+"RTN","MAGJLST1",186,0)
+ Q
+"RTN","MAGJLST1",187,0)
+ ;
+"RTN","MAGJLST1",188,0)
+STATN(X) ; get station #, else return input value
+"RTN","MAGJLST1",189,0)
+ N T
+"RTN","MAGJLST1",190,0)
+ I X]"" D GETS^DIQ(4,X,99,"E","T") S T=$G(T(4,X_",",99,"E")) I T]"" S X=T
+"RTN","MAGJLST1",191,0)
+ Q X
+"RTN","MAGJLST1",192,0)
+ ;
+"RTN","MAGJLST1",193,0)
+END Q  ;
+"RTN","MAGJMN1")
+0^11^B37975621
+"RTN","MAGJMN1",1,0)
+MAGJMN1 ;WIRMFO/JHC VistaRad Maintenance functions [ 05/06/1999  2:42 PM ]
+"RTN","MAGJMN1",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJMN1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJMN1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJMN1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJMN1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJMN1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJMN1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJMN1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJMN1",10,0)
+ ;; |                                                               |
+"RTN","MAGJMN1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJMN1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJMN1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJMN1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJMN1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJMN1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJMN1",17,0)
+ ;;
+"RTN","MAGJMN1",18,0)
+ Q
+"RTN","MAGJMN1",19,0)
+ ; Subroutines for VistaRad file maintenance activities
+"RTN","MAGJMN1",20,0)
+ ;
+"RTN","MAGJMN1",21,0)
+SVRLIST ;
+"RTN","MAGJMN1",22,0)
+ W @IOF,!!?10,"Enter/Edit VistARad Exams List Definition",!!
+"RTN","MAGJMN1",23,0)
+ N MAGIEN
+"RTN","MAGJMN1",24,0)
+ K DIC S DIC=2006.631,DIC(0)="ALMEQ"
+"RTN","MAGJMN1",25,0)
+ D ^DIC I Y=-1 K DIC,DA,DR,DIE Q
+"RTN","MAGJMN1",26,0)
+ S X=$P(@(DIC_+Y_",0)"),U,2)
+"RTN","MAGJMN1",27,0)
+ I X>9000 W !!,*7,"You may not edit System-Supplied files!" H 3 G SVRLIST
+"RTN","MAGJMN1",28,0)
+ S DIE=2006.631,DA=+Y,DR="[MAGJ LIST EDIT]"
+"RTN","MAGJMN1",29,0)
+ S MAGIEN=DA
+"RTN","MAGJMN1",30,0)
+ D ^DIE I '$D(DA) G SVRLIST
+"RTN","MAGJMN1",31,0)
+ D ENSRCH
+"RTN","MAGJMN1",32,0)
+ D BLDDEF(MAGIEN)
+"RTN","MAGJMN1",33,0)
+ D NOW^%DTC S $P(^MAG(2006.631,MAGIEN,0),U,5)=%
+"RTN","MAGJMN1",34,0)
+ W !!,"List Definition complete!" R X:2
+"RTN","MAGJMN1",35,0)
+ G SVRLIST
+"RTN","MAGJMN1",36,0)
+ Q
+"RTN","MAGJMN1",37,0)
+ENSRCH ; Invoke Search for 2006.631 definition
+"RTN","MAGJMN1",38,0)
+ N GREF,GLIN,GO,CT,DIARI,DIC
+"RTN","MAGJMN1",39,0)
+ S GREF=$NA(^MAG(2006.631,MAGIEN,"DEF"))
+"RTN","MAGJMN1",40,0)
+ S GO=1 I $D(@GREF@(5,1)) D
+"RTN","MAGJMN1",41,0)
+ . W ! D DISPSRCH(GREF)
+"RTN","MAGJMN1",42,0)
+ . S X=$$YN("Do you want to delete or re-enter the search logic?","NO")
+"RTN","MAGJMN1",43,0)
+ . I X'="Y" S GO=0 Q
+"RTN","MAGJMN1",44,0)
+ . W !!?7,"Re-entering the search logic requires first deleting the current",!?7,"definition, then entering the new definition from scratch."
+"RTN","MAGJMN1",45,0)
+ . S X=$$YN("Are you sure you want to continue?","NO")
+"RTN","MAGJMN1",46,0)
+ . I X'="Y" S GO=0 Q
+"RTN","MAGJMN1",47,0)
+ I 'GO Q
+"RTN","MAGJMN1",48,0)
+ W !!?7,"Now enter search logic for this List.  To do this, the program"
+"RTN","MAGJMN1",49,0)
+ W !?7,"will prompt you just as if you were going to run a Fileman Search."
+"RTN","MAGJMN1",50,0)
+ W !?7,"When prompted STORE RESULTS OF SEARCH IN TEMPLATE:, answer with 'TEMP'"
+"RTN","MAGJMN1",51,0)
+ W !?7,"If prompted ... OK TO PURGE? NO// answer 'YES'; don't bother specifying"
+"RTN","MAGJMN1",52,0)
+ W !?7,"output print fields, but just RETURN through all the prompts to"
+"RTN","MAGJMN1",53,0)
+ W !?7,"complete the process.  The search definition will be saved as part"
+"RTN","MAGJMN1",54,0)
+ W !?7,"of this List definition; you will test it out by running it from "
+"RTN","MAGJMN1",55,0)
+ W !?7,"the workstation.  If you need to modify the search logic, you will"
+"RTN","MAGJMN1",56,0)
+ W !?7,"have to re-enter it in its entirety."
+"RTN","MAGJMN1",57,0)
+ W !!?7,"NOTES: EXAM LOCK INDICATOR will not work for search logic;"
+"RTN","MAGJMN1",58,0)
+ W !?14,"REMOTE CACHE INDICATOR only works for Null/Not Null logic."
+"RTN","MAGJMN1",59,0)
+ S DIC=2006.634 D EN^DIS  ; .634 is intentional--do not change this!
+"RTN","MAGJMN1",60,0)
+ I '$G(DIARI) W !!," Search logic NOT updated" D  Q
+"RTN","MAGJMN1",61,0)
+ . Q:'$D(@GREF@(5,1))
+"RTN","MAGJMN1",62,0)
+ . S X=$$YN("Do you want to DELETE the search logic?","NO")
+"RTN","MAGJMN1",63,0)
+ . I X="Y" K @GREF@(3) K ^(4),^(5) W " -- Deleted!"
+"RTN","MAGJMN1",64,0)
+ K @GREF@(3) K ^(4),^(5)
+"RTN","MAGJMN1",65,0)
+ S GLIN=$NA(^DIBT(DIARI))  ; Copy search logic to 2006.631 "DEF" nodes
+"RTN","MAGJMN1",66,0)
+ F TNOD=3,4 S FNOD=$P("^^DC^DL",U,TNOD) D
+"RTN","MAGJMN1",67,0)
+ . S T="",CT=0
+"RTN","MAGJMN1",68,0)
+ . F  S T=$O(@GLIN@(FNOD,T)) Q:T=""  S X=^(T) I X]"" S CT=CT+1,@GREF@(TNOD,CT)=X
+"RTN","MAGJMN1",69,0)
+ . S @GREF@(TNOD,0)=CT
+"RTN","MAGJMN1",70,0)
+ S T=0 F  S T=$O(@GLIN@("O",T)) Q:T=""  S @GREF@(5,T)=^(T,0)
+"RTN","MAGJMN1",71,0)
+ Q
+"RTN","MAGJMN1",72,0)
+ ;
+"RTN","MAGJMN1",73,0)
+BLDDEF(LSTID)   ; build DEF nodes for Column/Sort definitions
+"RTN","MAGJMN1",74,0)
+ N QX,SS,STR,LSTHDR,T,T0,T6,HASCASE S SS=0,HASCASE=0
+"RTN","MAGJMN1",75,0)
+ ; columns/hdrs:
+"RTN","MAGJMN1",76,0)
+ F  S SS=$O(^MAG(2006.631,LSTID,1,SS)) D  Q:'SS
+"RTN","MAGJMN1",77,0)
+ . I 'SS Q:HASCASE
+"RTN","MAGJMN1",78,0)
+ . I  S X=1  ; * FORCE list to always contain CASE #
+"RTN","MAGJMN1",79,0)
+ . E  S X=^MAG(2006.631,LSTID,1,SS,0)
+"RTN","MAGJMN1",80,0)
+ . S X=+X_$S($P(X,U,2):";"_+$P(X,U,2),1:"")
+"RTN","MAGJMN1",81,0)
+ . I 'HASCASE S HASCASE=(+X=1)
+"RTN","MAGJMN1",82,0)
+ . S T0=^MAG(2006.63,+X,0),T6=+$P(T0,U,6) S:'T6 T6=99
+"RTN","MAGJMN1",83,0)
+ . S T8=$P(T0,U,8) I T8]"" S T8="~"_T8
+"RTN","MAGJMN1",84,0)
+ . S T(T6,+X)=X_U_$S($P(T0,U,3)]"":$P(T0,U,3),1:$P(T0,U,2))_T8
+"RTN","MAGJMN1",85,0)
+ S QX="T",STR="",LSTHDR=""
+"RTN","MAGJMN1",86,0)
+ F  S QX=$Q(@QX) Q:QX=""  S X=@QX D
+"RTN","MAGJMN1",87,0)
+ . S STR=STR_$S(STR="":"",1:U)_$P(X,U)
+"RTN","MAGJMN1",88,0)
+ . S LSTHDR=LSTHDR_$S(LSTHDR="":"",1:U)_$P(X,U,2)
+"RTN","MAGJMN1",89,0)
+ S ^MAG(2006.631,LSTID,"DEF",.5)=LSTHDR,^(1)=STR
+"RTN","MAGJMN1",90,0)
+ ; Sort values:
+"RTN","MAGJMN1",91,0)
+ S SS=0,STR=""
+"RTN","MAGJMN1",92,0)
+ F  S SS=$O(^MAG(2006.631,LSTID,2,SS)) Q:'SS  S X=^(SS,0) D
+"RTN","MAGJMN1",93,0)
+ . S X=+X_$S($P(X,U,2):"-",1:"")
+"RTN","MAGJMN1",94,0)
+ . S STR=STR_$S(STR="":"",1:U)_X
+"RTN","MAGJMN1",95,0)
+ S ^MAG(2006.631,LSTID,"DEF",2)=STR
+"RTN","MAGJMN1",96,0)
+ D NOW^%DTC S $P(^MAG(2006.631,LSTID,"DEF",0),U)=%
+"RTN","MAGJMN1",97,0)
+ Q
+"RTN","MAGJMN1",98,0)
+ ;
+"RTN","MAGJMN1",99,0)
+ ;
+"RTN","MAGJMN1",100,0)
+YN(MSG,DFLT) ; prompt for Yes/No reply
+"RTN","MAGJMN1",101,0)
+ N X I $G(DFLT)="" S DFLT="N"
+"RTN","MAGJMN1",102,0)
+ W !
+"RTN","MAGJMN1",103,0)
+ S DFLT=$E(DFLT),DFLT=$S(DFLT="N":"NO",1:"YES")
+"RTN","MAGJMN1",104,0)
+YN1 W !,MSG_" "_DFLT_"// "
+"RTN","MAGJMN1",105,0)
+ R X:DTIME S:X="" X=DFLT S X=$E(X),X=$TR(X,"ynYN","YNYN")
+"RTN","MAGJMN1",106,0)
+ I "YN"'[X W "  ??? Enter YES or NO",! G YN1
+"RTN","MAGJMN1",107,0)
+ Q X
+"RTN","MAGJMN1",108,0)
+ ;
+"RTN","MAGJMN1",109,0)
+LSTINQ ; Inquire/Display list def'n
+"RTN","MAGJMN1",110,0)
+ N GREF,MAGIEN
+"RTN","MAGJMN1",111,0)
+ W !!?15,"Display VistARad Exams List Definition",!!
+"RTN","MAGJMN1",112,0)
+ N MAGIEN
+"RTN","MAGJMN1",113,0)
+ S DIC=2006.631,DIC(0)="AMEQ"
+"RTN","MAGJMN1",114,0)
+ D ^DIC I Y=-1 K DIC,DA,DR Q
+"RTN","MAGJMN1",115,0)
+ K DR S DA=+Y,MAGIEN=DA
+"RTN","MAGJMN1",116,0)
+ S GREF=$NA(^MAG(2006.631,MAGIEN,"DEF"))
+"RTN","MAGJMN1",117,0)
+ W ! D EN^DIQ
+"RTN","MAGJMN1",118,0)
+ R !,"Enter RETURN to display the Search Logic: ",X:DTIME W !
+"RTN","MAGJMN1",119,0)
+ D DISPSRCH(GREF)
+"RTN","MAGJMN1",120,0)
+ G LSTINQ
+"RTN","MAGJMN1",121,0)
+ Q
+"RTN","MAGJMN1",122,0)
+ ;
+"RTN","MAGJMN1",123,0)
+DISPSRCH(GREF) ;
+"RTN","MAGJMN1",124,0)
+ I $D(@GREF@(5,1)) W !,"List Exams where:",! D
+"RTN","MAGJMN1",125,0)
+ . F I=1:1 Q:'$D(@GREF@(5,I))  W !?3,^(I)
+"RTN","MAGJMN1",126,0)
+ E  W !?3,"NO Search Logic defined!"
+"RTN","MAGJMN1",127,0)
+ Q
+"RTN","MAGJMN1",128,0)
+ ;
+"RTN","MAGJMN1",129,0)
+VRSIT ;
+"RTN","MAGJMN1",130,0)
+ W @IOF,!!?10,"Enter/Edit VistARad Site Parameters",!!
+"RTN","MAGJMN1",131,0)
+ S DIC=2006.69,DIC(0)="ALMEQ"
+"RTN","MAGJMN1",132,0)
+ I '$D(^MAG(DIC,1)) S DLAYGO=DIC
+"RTN","MAGJMN1",133,0)
+ D ^DIC I Y=-1 K DIC,DA,DR,DIE,DLAYGO Q
+"RTN","MAGJMN1",134,0)
+ ; <*>Includes Remote Reading S DIE=2006.69,DA=+Y,DR=".01:3.99;4.1:20"
+"RTN","MAGJMN1",135,0)
+ S DIE=2006.69,DA=+Y,DR=".01:3.99;4.1:7.99;9.99:20" ; <*> Excludes 
+"RTN","MAGJMN1",136,0)
+ D ^DIE
+"RTN","MAGJMN1",137,0)
+ K DIC,DA,DR,DIE,DLAYGO
+"RTN","MAGJMN1",138,0)
+ Q
+"RTN","MAGJMN1",139,0)
+ ;
+"RTN","MAGJMN1",140,0)
+EEPREF ;
+"RTN","MAGJMN1",141,0)
+ W @IOF,!!?10,"Enter/Edit VistARad Prefetch Logic",!!
+"RTN","MAGJMN1",142,0)
+ N MAGIEN
+"RTN","MAGJMN1",143,0)
+ K DIC S DIC=2006.65,DIC(0)="ALMEQ"
+"RTN","MAGJMN1",144,0)
+ D ^DIC I Y=-1 K DIC,DIE,DR Q
+"RTN","MAGJMN1",145,0)
+ S DIE=2006.65,DA=+Y,DR="[MAGJ PRIOR EDIT]"
+"RTN","MAGJMN1",146,0)
+ S MAGIEN=DA
+"RTN","MAGJMN1",147,0)
+ D ^DIE I '$D(DA) G EEPREF
+"RTN","MAGJMN1",148,0)
+ G EEPREF
+"RTN","MAGJMN1",149,0)
+ Q
+"RTN","MAGJMN1",150,0)
+INPREF ; Inquire VistARad PreFetch
+"RTN","MAGJMN1",151,0)
+ W @IOF,!!?10,"Inquire VistARad Prefetch Logic",!!
+"RTN","MAGJMN1",152,0)
+ N MAGIEN
+"RTN","MAGJMN1",153,0)
+ S DIC=2006.65,DIC(0)="AMEQ"
+"RTN","MAGJMN1",154,0)
+ D ^DIC I Y=-1 K DIC Q
+"RTN","MAGJMN1",155,0)
+ S DA=+Y,(FR,TO)=$P(Y,U,2),MAGIEN=DA,L=0
+"RTN","MAGJMN1",156,0)
+ S BY="[MAGJ PRIOR SORT]",DIS(0)="I D0=MAGIEN"
+"RTN","MAGJMN1",157,0)
+ D EN^DIP
+"RTN","MAGJMN1",158,0)
+ R !,"Enter RETURN to continue: ",X:DTIME W !
+"RTN","MAGJMN1",159,0)
+ G INPREF
+"RTN","MAGJMN1",160,0)
+ Q
+"RTN","MAGJMN1",161,0)
+PRPREF ;Print VistARad Prefetch
+"RTN","MAGJMN1",162,0)
+ W !! S DIC=2006.65,L=0,BY="[MAGJ PRIOR SORT]"
+"RTN","MAGJMN1",163,0)
+ D EN1^DIP
+"RTN","MAGJMN1",164,0)
+ R !,"Enter RETURN to continue: ",X:DTIME W !
+"RTN","MAGJMN1",165,0)
+ Q
+"RTN","MAGJMN1",166,0)
+ ;
+"RTN","MAGJMN1",167,0)
+END ;
+"RTN","MAGJORD")
+0^5^B14808646
+"RTN","MAGJORD",1,0)
+MAGJORD ;WIRMFO/JHC-Display Rad Exam Order info; [ 02/25/2000  4:27 PM ]
+"RTN","MAGJORD",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJORD",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJORD",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJORD",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJORD",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJORD",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJORD",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJORD",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJORD",10,0)
+ ;; |                                                               |
+"RTN","MAGJORD",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJORD",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJORD",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJORD",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJORD",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJORD",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJORD",17,0)
+ ;;
+"RTN","MAGJORD",18,0)
+ Q
+"RTN","MAGJORD",19,0)
+ORD(MAGRPTY,DATA) ; Radiology Order Display
+"RTN","MAGJORD",20,0)
+ ; RPC Call: MAGJ RADORDERDISP
+"RTN","MAGJORD",21,0)
+ ;K ^TMP("MAGJORD",$J)
+"RTN","MAGJORD",22,0)
+ S MAGRPTY=$NA(^TMP($J,"WSDAT")) K @MAGRPTY
+"RTN","MAGJORD",23,0)
+ IF $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGJORD"
+"RTN","MAGJORD",24,0)
+ E  S X="ERRA^MAGJORD",@^%ZOSF("TRAP")
+"RTN","MAGJORD",25,0)
+ N RARPT,RADFN,RADTI,RACNI,RAPGE,RAX,RAOIFN
+"RTN","MAGJORD",26,0)
+ N REPLY,POP,DFN,COMPLIC,XX,HDR,MAGRET,REQONLY
+"RTN","MAGJORD",27,0)
+ S REPLY="0^4~Attempting to display order info"
+"RTN","MAGJORD",28,0)
+ D OPENDEV
+"RTN","MAGJORD",29,0)
+ I POP S REPLY="0^4~Unable to open device 'IMAGING WORKSTATION'" G ORDZ
+"RTN","MAGJORD",30,0)
+ S RADFN=$P(DATA,U),RADTI=$P(DATA,U,2),RACNI=$P(DATA,U,3)
+"RTN","MAGJORD",31,0)
+ S RARPT=+$P(DATA,U,4),REQONLY=+$P(DATA,U,1,5)
+"RTN","MAGJORD",32,0)
+ I RADFN,RADTI,RACNI
+"RTN","MAGJORD",33,0)
+ E  S REPLY="0^4~Request Contains Invalid Case Pointer ("_RADFN_" "_RADTI_" "_RACNI_" "_RARPT_")." G ORDZ
+"RTN","MAGJORD",34,0)
+ S RAOIFN=$P($G(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0)),U,11)
+"RTN","MAGJORD",35,0)
+ I RAOIFN,$D(^RAO(75.1,RAOIFN,0))
+"RTN","MAGJORD",36,0)
+ E  S REPLY="0^2~Order Information is NOT Available for this exam." G ORDZ
+"RTN","MAGJORD",37,0)
+ ; Check for Database integrity problems ONLY if Req was explicitly
+"RTN","MAGJORD",38,0)
+ ; requested (No check for Auto_Display of Req, cuz Exam Open does ck)
+"RTN","MAGJORD",39,0)
+ D GETEXAM2^MAGJUTL1(RADFN,RADTI,RACNI,"",.MAGRET)
+"RTN","MAGJORD",40,0)
+ S RADATA=$G(^TMP($J,"MAGRAEX",1,1)),XX=$G(^(2)),HDR=""
+"RTN","MAGJORD",41,0)
+ S COMPLIC=$P(XX,U,4)      ;  Complications text
+"RTN","MAGJORD",42,0)
+ F I=4,12,9 S HDR=HDR_$P(RADATA,U,I)_"   " ; PtName, Case #, Procedure
+"RTN","MAGJORD",43,0)
+ I REQONLY D CKINTEG^MAGJLST1(.REPLY,RADFN,RADTI,RACNI,RARPT,RADATA) I REPLY]"" S REPLY="0^7~"_REPLY G ORDZ  ; Database integrity problems
+"RTN","MAGJORD",44,0)
+ S RAX="",RAPGE=0 D ^RAORD5
+"RTN","MAGJORD",45,0)
+ D:IO'=IO(0) ^%ZISC
+"RTN","MAGJORD",46,0)
+ S @MAGRPTY@(1)="REQ: "_HDR
+"RTN","MAGJORD",47,0)
+ D COMMENTS(RADFN,RADTI,RACNI,MAGRPTY,2,COMPLIC)
+"RTN","MAGJORD",48,0)
+ S REPLY="1^OK"
+"RTN","MAGJORD",49,0)
+ K ^TMP($J,"MAGRAEX")
+"RTN","MAGJORD",50,0)
+ORDZ S @MAGRPTY@(0)=REPLY
+"RTN","MAGJORD",51,0)
+ Q
+"RTN","MAGJORD",52,0)
+ ;
+"RTN","MAGJORD",53,0)
+COMMENTS(RADFN,RADTI,RACNI,MAGRPTY,DNODE,COMPLIC) ; add Complications & Tech Comments to output report
+"RTN","MAGJORD",54,0)
+ ;  also called by Rad Report display (magjlst1)
+"RTN","MAGJORD",55,0)
+ N QTMP,CT,XX S CT=0
+"RTN","MAGJORD",56,0)
+ S @MAGRPTY@(DNODE)=" ",CT=CT+.01,@MAGRPTY@(DNODE+CT)="Complications: "_$S(COMPLIC:$P($G(^RA(78.1,+COMPLIC,0)),U),1:"")
+"RTN","MAGJORD",57,0)
+ S X=$P(COMPLIC,"~",2)
+"RTN","MAGJORD",58,0)
+ I X S CT=CT+.01,@MAGRPTY@(DNODE+CT)="   "_$P($G(^RADPT(RADFN,"DT",RADTI,"P",RACNI,"COMP")),U)
+"RTN","MAGJORD",59,0)
+ K ^TMP($J,"RAE2") D SVTCOM^RAUTL11(RADFN,RADTI,RACNI)
+"RTN","MAGJORD",60,0)
+ S QTMP="^TMP($J,""RAE2"")"
+"RTN","MAGJORD",61,0)
+ F  S QTMP=$Q(@QTMP) Q:QTMP=""  Q:QTMP'["RAE2"  I QTMP["TCOM" D
+"RTN","MAGJORD",62,0)
+ . S XX=@(QTMP) N HI,TXT,LINE1 S LINE1=0
+"RTN","MAGJORD",63,0)
+ . F  Q:XX=""  S HI=$L(XX) S:HI>63 HI=63 F I=HI:-1:0 S:'I XX="" I HI<63!($E(XX,I)=" ") D  Q
+"RTN","MAGJORD",64,0)
+ .. S TXT=$S('LINE1:"Tech Comments: ",1:"               ")_$E(XX,1,I),XX=$E(XX,I+1,999),LINE1=1
+"RTN","MAGJORD",65,0)
+ .. I XX]"" F I=1:1:999 I $E(XX,I)'=" " S XX=$E(XX,I,999) Q
+"RTN","MAGJORD",66,0)
+ .. S CT=CT+.01,@MAGRPTY@(DNODE+CT)=TXT
+"RTN","MAGJORD",67,0)
+ K ^TMP($J,"RAE2")
+"RTN","MAGJORD",68,0)
+ Q
+"RTN","MAGJORD",69,0)
+ ;
+"RTN","MAGJORD",70,0)
+OPENDEV ;
+"RTN","MAGJORD",71,0)
+ S IOP="IMAGING WORKSTATION",%ZIS=0 D ^%ZIS
+"RTN","MAGJORD",72,0)
+ I POP
+"RTN","MAGJORD",73,0)
+ E  U IO
+"RTN","MAGJORD",74,0)
+ Q
+"RTN","MAGJORD",75,0)
+ERRA ;
+"RTN","MAGJORD",76,0)
+ S @MAGRPTY@(0)="0^ERROR "_$$EC^%ZOSV
+"RTN","MAGJORD",77,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGJORD",78,0)
+ Q:$Q 1  Q
+"RTN","MAGJORD",79,0)
+END ;
+"RTN","MAGJUPD1")
+0^3^B56610847
+"RTN","MAGJUPD1",1,0)
+MAGJUPD1 ;WOIFO/JHC VistARad Update Exam Status [ 03/27/2000  5:26 PM ]
+"RTN","MAGJUPD1",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJUPD1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJUPD1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJUPD1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJUPD1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJUPD1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJUPD1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJUPD1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJUPD1",10,0)
+ ;; |                                                               |
+"RTN","MAGJUPD1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJUPD1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJUPD1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJUPD1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJUPD1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJUPD1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJUPD1",17,0)
+ ;;
+"RTN","MAGJUPD1",18,0)
+ Q
+"RTN","MAGJUPD1",19,0)
+ ; Subroutines for RPC's to update Exam Status to "Interpreted", and
+"RTN","MAGJUPD1",20,0)
+ ;   for "Closing" a case that is open on the DX Workstation
+"RTN","MAGJUPD1",21,0)
+ ;
+"RTN","MAGJUPD1",22,0)
+ERR N ERR S ERR=$$EC^%ZOSV S MAGGRY(0)="0^Server Program Error: "_ERR
+"RTN","MAGJUPD1",23,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGJUPD1",24,0)
+ Q:$Q 1  Q
+"RTN","MAGJUPD1",25,0)
+STATUS(MAGGRY,DATA) ; Update Exam Status for case to "Interpreted" (or
+"RTN","MAGJUPD1",26,0)
+ ;   equivalent value); optionally update the Diagnostic Code, if passed;
+"RTN","MAGJUPD1",27,0)
+ ;   also, Close the case
+"RTN","MAGJUPD1",28,0)
+ ; Note: this subroutine will only update the Exam Status if the current
+"RTN","MAGJUPD1",29,0)
+ ;       Status value is "Examined"
+"RTN","MAGJUPD1",30,0)
+ ; This routine defines variables needed for calling the Radiology
+"RTN","MAGJUPD1",31,0)
+ ; package routine UP1^RAUTL1, for filing Exam Status updates
+"RTN","MAGJUPD1",32,0)
+ ; Adapted from the following program:
+"RTN","MAGJUPD1",33,0)
+ ;MAGKEXC ;WASH ISC/SRR - EXAMINATION COMPLETE ;11/4/93  08:07 [ 11/06/93 7:42 AM]
+"RTN","MAGJUPD1",34,0)
+ ;
+"RTN","MAGJUPD1",35,0)
+ ; DATA = UPDFLAG ^ RADFN ^ RADTI ^ RACNI ^ RARPT ^ DXCODE
+"RTN","MAGJUPD1",36,0)
+ ;   UPDFLAG = 1/0 -- 1 to perform update; else no update made
+"RTN","MAGJUPD1",37,0)
+ ;   RARPT = ptr to Rad Exam Report file
+"RTN","MAGJUPD1",38,0)
+ ;   RADFN,RADTI,RACNI = pointers to Rad Patient File for the exam
+"RTN","MAGJUPD1",39,0)
+ ;   DXCODE = Diagnostic Code 
+"RTN","MAGJUPD1",40,0)
+ ;   MAGGRY = return results in @MAGGRY
+"RTN","MAGJUPD1",41,0)
+ ;
+"RTN","MAGJUPD1",42,0)
+ ;
+"RTN","MAGJUPD1",43,0)
+ I $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGJUPD1"
+"RTN","MAGJUPD1",44,0)
+ E  S X="ERR^MAGJUPD1",@^%ZOSF("TRAP")
+"RTN","MAGJUPD1",45,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJUPD1",46,0)
+ N RARPT,RADFN,RADTI,RACNI,RAEXT,RACNE,RADTE,RAINT,RAMDV
+"RTN","MAGJUPD1",47,0)
+ N RAONLINE,ZTQUEUED,RAOR,RASN,RASTI,RAPRTSET,LOCKDATA
+"RTN","MAGJUPD1",48,0)
+ N DXCODE,MAGRET,REPLY,UPDFLAG,RADATA,RIST,MAGPSET,RACNILST,ACNLST
+"RTN","MAGJUPD1",49,0)
+ S UPDFLAG=$P(DATA,U),RADFN=$P(DATA,U,2),RADTI=$P(DATA,U,3),RACNI=$P(DATA,U,4),RARPT=$P(DATA,U,5),DXCODE=$P(DATA,U,6)
+"RTN","MAGJUPD1",50,0)
+ S REPLY="0^4~Closing case with"_$S(UPDFLAG:"",1:" NO")_" Update"
+"RTN","MAGJUPD1",51,0)
+ S RAPRTSET=0
+"RTN","MAGJUPD1",52,0)
+ I RADFN,RADTI,RACNI
+"RTN","MAGJUPD1",53,0)
+ E  S REPLY="0^4~Request Contains Invalid Case Pointer ("_RARPT_")" G STATUSZ
+"RTN","MAGJUPD1",54,0)
+ D GETEXAM2^MAGJUTL1(RADFN,RADTI,RACNI,0,.MAGRET)
+"RTN","MAGJUPD1",55,0)
+ I 'MAGRET S REPLY="0^4~Current Case Not Accessible for Updating" G STATUSZ
+"RTN","MAGJUPD1",56,0)
+   ; 1  RADFN   RADTI    RACNI   RANME   RASSN    <--Contents of RADATA,
+"RTN","MAGJUPD1",57,0)
+   ; 6  RADATE  RADTE    RACN    RAPRC   RARPT         from GETEXAM
+"RTN","MAGJUPD1",58,0)
+   ;11  RAST    DAYCASE  RAELOC  RASTP   RASTORD
+"RTN","MAGJUPD1",59,0)
+   ;16  RADTPRT
+"RTN","MAGJUPD1",60,0)
+ S RADATA=$G(^TMP($J,"MAGRAEX",1,1))
+"RTN","MAGJUPD1",61,0)
+ S RAEXT=$P(RADATA,U,12),RACNE=$P(RAEXT,"-",2),RADTE=$P(RADATA,U,7)
+"RTN","MAGJUPD1",62,0)
+ S RAINT=RADTI_"-"_RACNI
+"RTN","MAGJUPD1",63,0)
+ D CLOSE(.X,RADFN_U_RADTI_U_RACNI_U_U_1,.LOCKDATA) ; unlock the case
+"RTN","MAGJUPD1",64,0)
+ I 'X S REPLY=X G STATUSZ  ; proceed only if case was locked by this user
+"RTN","MAGJUPD1",65,0)
+ I 'UPDFLAG S REPLY="0^1~Case #"_RAEXT_" Closed; No Status Update performed" G STATUSZ
+"RTN","MAGJUPD1",66,0)
+ S RIST=$P(X,U,2) ; CLOSE reports back the type of radiologist
+"RTN","MAGJUPD1",67,0)
+ ; now we know this user had locked the case, & wants to do Status update
+"RTN","MAGJUPD1",68,0)
+ D EN2^RAUTL20(.MAGPSET)  ; get info re rad PrintSet
+"RTN","MAGJUPD1",69,0)
+ ;
+"RTN","MAGJUPD1",70,0)
+ ; IF exam is not "Examined", and not "Cancelled" and past "Waiting"
+"RTN","MAGJUPD1",71,0)
+ ;    then assume it has already been updated via another pathway,
+"RTN","MAGJUPD1",72,0)
+ ;    either as printset member (via code at tag PRTSET, below),
+"RTN","MAGJUPD1",73,0)
+ ;    or from a voice-dictation or terminal session by the radiologist
+"RTN","MAGJUPD1",74,0)
+ ;    For these cases, no warning msg is sent
+"RTN","MAGJUPD1",75,0)
+ ; Else, update not allowed, so give warning msg
+"RTN","MAGJUPD1",76,0)
+ ; Note that when the Exam was OPENed, it must have had status "Examined"
+"RTN","MAGJUPD1",77,0)
+ I '$D(^RA(72,"AVC","E",$P(RADATA,U,11))) D  G STATUSX:(+$P(REPLY,U,2)=1),STATUSZ  ; Current Status MUST be "Examined" Category
+"RTN","MAGJUPD1",78,0)
+ . I $P(RADATA,U,15)>2 D  ; assume update has otherwise been done
+"RTN","MAGJUPD1",79,0)
+ .. S RACNILST=RACNI,RASTI=$P(RADATA,U,11) ; need for code at tag statusx
+"RTN","MAGJUPD1",80,0)
+ .. I RAPRTSET S REPLY="0^1~Printset Exams with Case #"_RAEXT_" have been updated"
+"RTN","MAGJUPD1",81,0)
+ .. E  S REPLY="0^1~No Update done for Case #"_RAEXT_"--current status is "_$P(RADATA,U,14)
+"RTN","MAGJUPD1",82,0)
+ . E  S REPLY="0^3~No Update Allowed for Case #"_RAEXT_"--current status is "_$P(RADATA,U,14)
+"RTN","MAGJUPD1",83,0)
+ ;
+"RTN","MAGJUPD1",84,0)
+ ; now ready to update exam status
+"RTN","MAGJUPD1",85,0)
+ S RAMDV=$P(^RADPT(RADFN,"DT",RADTI,0),U,3)
+"RTN","MAGJUPD1",86,0)
+ S RAMDV=$TR(^RA(79,RAMDV,.1),"YyNn","1100")
+"RTN","MAGJUPD1",87,0)
+ ;
+"RTN","MAGJUPD1",88,0)
+ ; Update interpreting radiologist field in Rad file
+"RTN","MAGJUPD1",89,0)
+ I RIST D  I RACNILST="" G STATUSZ
+"RTN","MAGJUPD1",90,0)
+ . N SAVRACNI S RACNILST=""
+"RTN","MAGJUPD1",91,0)
+PRTSET . ;  if exam is part of Rad Print-Set, then update all exams of printset
+"RTN","MAGJUPD1",92,0)
+ . I RAPRTSET D
+"RTN","MAGJUPD1",93,0)
+ .. S ACNLST="",SAVRACNI=RACNI,X=0
+"RTN","MAGJUPD1",94,0)
+ .. F I=0:1 S X=$O(MAGPSET(X)) Q:'X  S RACNILST=RACNILST_$S(I:U,1:"")_X S:RACNE'=+MAGPSET(X) ACNLST=ACNLST_", "_"-"_+MAGPSET(X)
+"RTN","MAGJUPD1",95,0)
+ . E  S RACNILST=RACNI
+"RTN","MAGJUPD1",96,0)
+ . F I=1:1:$L(RACNILST,U) S RACNI=$P(RACNILST,U,I) I RACNI D  I RACNILST="" Q
+"RTN","MAGJUPD1",97,0)
+ .. S DA(2)=RADFN,DA(1)=RADTI,DA=RACNI
+"RTN","MAGJUPD1",98,0)
+ .. D STUFPHY^RARIC1(DUZ,RIST,.RTN)
+"RTN","MAGJUPD1",99,0)
+ .. I 'RTN S REPLY="0^4~Unable to update Interpreting Radiologist: "_RTN_"." S RACNILST=""
+"RTN","MAGJUPD1",100,0)
+ . I RAPRTSET S RACNI=SAVRACNI
+"RTN","MAGJUPD1",101,0)
+ S RAONLINE=1,ZTQUEUED=1 D UP1^RAUTL1   ; Suppress msgs, do Status update
+"RTN","MAGJUPD1",102,0)
+ ;<*> K RAONLINE,ZTQUEUED D UP1^RAUTL1 ; <*> Testing Only: ENABLE msgs
+"RTN","MAGJUPD1",103,0)
+ I RAOR<0 S REPLY="0^3~Exam Status for Case #"_RAEXT_" CANNOT be updated; current status remains: "_$S($G(RASN)]"":RASN,1:"Unknown")
+"RTN","MAGJUPD1",104,0)
+ I  G STATUSZ
+"RTN","MAGJUPD1",105,0)
+ ;
+"RTN","MAGJUPD1",106,0)
+ S REPLY="0^1~For Case #"_$S($G(ACNLST)]"":"s ",1:"")_RAEXT_$S(RAPRTSET:ACNLST,1:"")_", Exam Status updated to "_RASN
+"RTN","MAGJUPD1",107,0)
+ ;
+"RTN","MAGJUPD1",108,0)
+STATUSX ; Newly Interpreted exam:
+"RTN","MAGJUPD1",109,0)
+ ; Log the Interpreted event
+"RTN","MAGJUPD1",110,0)
+ D LOG^MAGJUTL3("VR-INT",RADFN,$P(LOCKDATA,U,5),$P(LOCKDATA,U,6),$P(LOCKDATA,U,7))
+"RTN","MAGJUPD1",111,0)
+ ; Update Recent Exams List
+"RTN","MAGJUPD1",112,0)
+ G STATUSZ:'$P(^MAG(2006.69,1,0),U,8)  ; no bkgnd compile enabled
+"RTN","MAGJUPD1",113,0)
+ L +^XTMP("MAGJ2","RECENT"):10
+"RTN","MAGJUPD1",114,0)
+ E  G STATUSZ
+"RTN","MAGJUPD1",115,0)
+ N INDX F I=1:1:$L(RACNILST,U) S RACNI=$P(RACNILST,U,I) I RACNI D
+"RTN","MAGJUPD1",116,0)
+ . S INDX=+$G(^XTMP("MAGJ2","RECENT",0))+1,$P(^(0),U)=INDX,^(INDX)=RADFN_U_RADTI_U_RACNI_U_RASTI
+"RTN","MAGJUPD1",117,0)
+ L -^XTMP("MAGJ2","RECENT")
+"RTN","MAGJUPD1",118,0)
+STATUSZ ;
+"RTN","MAGJUPD1",119,0)
+ S MAGGRY(0)=REPLY
+"RTN","MAGJUPD1",120,0)
+ K ^TMP($J,"MAGRAEX"),^("RAE1")
+"RTN","MAGJUPD1",121,0)
+ Q
+"RTN","MAGJUPD1",122,0)
+ ;
+"RTN","MAGJUPD1",123,0)
+CLOSE(MAGGRY,DATA,LOCKDATA) ; Close/unlock a case
+"RTN","MAGJUPD1",124,0)
+ ; DATA    = DFN ^ DTI ^ CNI ^ RPT ^ UPDFLAG
+"RTN","MAGJUPD1",125,0)
+ ;
+"RTN","MAGJUPD1",126,0)
+ ;       RPT = ptr to Rad Exam Report file
+"RTN","MAGJUPD1",127,0)
+ ;      DFN,DTI,CNI = pointers to Rad Patient File for the exam
+"RTN","MAGJUPD1",128,0)
+ ;   UPDFLAG = 1/0 -- 1 to indicate CLOSE was called from subroutine
+"RTN","MAGJUPD1",129,0)
+ ;                    STATUS, above (which has already called GETEXAM)
+"RTN","MAGJUPD1",130,0)
+ ;    MAGGRY = return results of the Close in @MAGGRY
+"RTN","MAGJUPD1",131,0)
+ ; This subroutine may be called directly (to close a case without
+"RTN","MAGJUPD1",132,0)
+ ; doing a status update), or is called from tag STATUS, above, when
+"RTN","MAGJUPD1",133,0)
+ ; also doing a status update
+"RTN","MAGJUPD1",134,0)
+ ;
+"RTN","MAGJUPD1",135,0)
+ I $$NEWERR^%ZTER N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGJUPD1"
+"RTN","MAGJUPD1",136,0)
+ E  S X="ERR^MAGJUPD1",@^%ZOSF("TRAP")
+"RTN","MAGJUPD1",137,0)
+ N RPT,DFN,DTI,CNI,MAGRET,REPLY,RARPT,UPDFLAG,RIST,DAYCASE,NLOCKS
+"RTN","MAGJUPD1",138,0)
+ S DFN=$P(DATA,U),DTI=$P(DATA,U,2),CNI=$P(DATA,U,3),RPT=$P(DATA,U,4),UPDFLAG=$P(DATA,U,5)
+"RTN","MAGJUPD1",139,0)
+ S LOCKDATA=""
+"RTN","MAGJUPD1",140,0)
+ I $P($G(^MAG(2006.69,1,0)),U,4)
+"RTN","MAGJUPD1",141,0)
+ E  S REPLY=$S(UPDFLAG:"0^3~Updates not allowed at this site--no action taken",1:"") G CLOSEZ   ;   Status Update NOT Enabled
+"RTN","MAGJUPD1",142,0)
+ S RIST=+MAGJOB("USER",1) I RIST
+"RTN","MAGJUPD1",143,0)
+ E  S REPLY=$S(UPDFLAG:"0^3~Update allowed only by a radiologist--no action taken",1:"") G CLOSEZ  ; need only unlock a radiologist
+"RTN","MAGJUPD1",144,0)
+ I DFN,DTI,CNI
+"RTN","MAGJUPD1",145,0)
+ E  S REPLY="0^4~Request Contains Invalid Case Pointer ("_RPT_")--no action taken" G CLOSEZ
+"RTN","MAGJUPD1",146,0)
+ ;
+"RTN","MAGJUPD1",147,0)
+ I 'UPDFLAG N RADATA D  I 'MAGRET G CLOSEZ
+"RTN","MAGJUPD1",148,0)
+ . D GETEXAM2^MAGJUTL1(DFN,DTI,CNI,0,.MAGRET)
+"RTN","MAGJUPD1",149,0)
+ . I 'MAGRET S REPLY="0^4~No Current Case accessible to close--no action taken"
+"RTN","MAGJUPD1",150,0)
+ . E  S RADATA=$G(^TMP($J,"MAGRAEX",1,1))
+"RTN","MAGJUPD1",151,0)
+ S RARPT=$P(RADATA,U,10),DAYCASE=$P(RADATA,U,12)
+"RTN","MAGJUPD1",152,0)
+ I RARPT,DAYCASE
+"RTN","MAGJUPD1",153,0)
+ E  S REPLY="0^4~Current Case not accessible to close--no action taken" G CLOSEZ
+"RTN","MAGJUPD1",154,0)
+ S LOCKDATA=$G(^XTMP("MAGJ","LOCK",RARPT))
+"RTN","MAGJUPD1",155,0)
+ I DUZ'=+LOCKDATA S X=+LOCKDATA D  S LOCKDATA="" G CLOSEZ
+"RTN","MAGJUPD1",156,0)
+ . I UPDFLAG S REPLY="0^3~Case #"_DAYCASE_$S(X:" locked by "_$$USERINF^MAGJUTL3(X,.01),1:" not locked by "_$P(MAGJOB("USER",1),U,2))_"--No Status update performed"
+"RTN","MAGJUPD1",157,0)
+ . E  S REPLY="0^1~ "  ; case wasn't opened by this R'ist; nothing to do
+"RTN","MAGJUPD1",158,0)
+ S NLOCKS=+$G(^XTMP("MAGJ","LOCK",RARPT,DAYCASE))
+"RTN","MAGJUPD1",159,0)
+ I NLOCKS D  ; w/ incremental lock, is possible to have >1 lock applied
+"RTN","MAGJUPD1",160,0)
+ . K ^XTMP("MAGJ","LOCK",RARPT,DAYCASE)
+"RTN","MAGJUPD1",161,0)
+ . I $D(^XTMP("MAGJ","LOCK",RARPT))=1 K ^XTMP("MAGJ","LOCK",RARPT)
+"RTN","MAGJUPD1",162,0)
+ . F I=1:1:NLOCKS L -^XTMP("MAGJ","LOCK",RARPT)
+"RTN","MAGJUPD1",163,0)
+ I UPDFLAG,NLOCKS S REPLY=1_U_RIST
+"RTN","MAGJUPD1",164,0)
+ E  S REPLY="0^1~Case #"_DAYCASE_" Unlocked--No Status Update performed."
+"RTN","MAGJUPD1",165,0)
+CLOSEZ S MAGGRY=REPLY
+"RTN","MAGJUPD1",166,0)
+ Q
+"RTN","MAGJUPD1",167,0)
+END Q  ;
+"RTN","MAGJUTL3")
+0^4^B43933282
+"RTN","MAGJUTL3",1,0)
+MAGJUTL3 ;WIRMFO/JHC VistRad subroutines for RPC calls[ 2/21/97  10:53 AM ]
+"RTN","MAGJUTL3",2,0)
+ ;;3.0;IMAGING;**16**;Mar 01, 2002
+"RTN","MAGJUTL3",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJUTL3",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGJUTL3",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGJUTL3",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGJUTL3",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGJUTL3",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGJUTL3",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGJUTL3",10,0)
+ ;; |                                                               |
+"RTN","MAGJUTL3",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGJUTL3",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGJUTL3",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGJUTL3",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGJUTL3",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGJUTL3",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGJUTL3",17,0)
+ ;;
+"RTN","MAGJUTL3",18,0)
+ Q
+"RTN","MAGJUTL3",19,0)
+ ;
+"RTN","MAGJUTL3",20,0)
+LISTINF(MAGGRY) ; send Exam List data to Server
+"RTN","MAGJUTL3",21,0)
+ ; Return Info in ^TMP($J,"MAGJLSTINF",0:N) (@MAGGRY)
+"RTN","MAGJUTL3",22,0)
+ ;     0)= # Entries below (0:n)
+"RTN","MAGJUTL3",23,0)
+ ;   1:n)= Button Label^List #^Button Hints text^List Type
+"RTN","MAGJUTL3",24,0)
+ N D0,GLB,INF,MAGLST,NAM,T
+"RTN","MAGJUTL3",25,0)
+ S MAGLST="MAGJLSTINF"
+"RTN","MAGJUTL3",26,0)
+ K MAGGRY S MAGGRY=$NA(^TMP($J,MAGLST)) K @MAGGRY S @MAGGRY@(0)=0
+"RTN","MAGJUTL3",27,0)
+ S GLB=$NA(^MAG(2006.631)),NAM=""
+"RTN","MAGJUTL3",28,0)
+ F  S NAM=$O(@GLB@("B",NAM)) Q:NAM=""  S D0="" D
+"RTN","MAGJUTL3",29,0)
+ . S D0=$O(@GLB@("B",NAM,D0)) Q:'D0  D
+"RTN","MAGJUTL3",30,0)
+ .. S X=$G(@GLB@(D0,0)) Q:($P(X,U,2)>9000)!'$P(X,U,6)  ; List Active & User-defined
+"RTN","MAGJUTL3",31,0)
+ .. S INF="" F I=1:1 S T=$P("7^2^1^3",U,I) Q:T=""  S Y=$P(X,U,T) Q:Y=""  S $P(INF,U,I)=Y
+"RTN","MAGJUTL3",32,0)
+ .. Q:T'=""  ; req'd fields not all there
+"RTN","MAGJUTL3",33,0)
+ .. S T=@MAGGRY@(0)+1,^(0)=T,^(T)=INF
+"RTN","MAGJUTL3",34,0)
+ Q
+"RTN","MAGJUTL3",35,0)
+ ;
+"RTN","MAGJUTL3",36,0)
+LOG(ACTION,RADFN,MAGIEN,NIMGS,REMOTE) ; Log exam access
+"RTN","MAGJUTL3",37,0)
+ N PTCT,TXT
+"RTN","MAGJUTL3",38,0)
+ S PTCT=RADFN'=$G(MAGJOB("LASTPT"))
+"RTN","MAGJUTL3",39,0)
+ I PTCT S MAGJOB("LASTPT")=RADFN
+"RTN","MAGJUTL3",40,0)
+ S TXT=ACTION_U_RADFN_U_MAGIEN_U_U_U_NIMGS
+"RTN","MAGJUTL3",41,0)
+ S TXT=TXT_U_PTCT_U_$S(+MAGJOB("USER",1):1,1:0)_U_REMOTE
+"RTN","MAGJUTL3",42,0)
+ ; Session Log
+"RTN","MAGJUTL3",43,0)
+ D ACTION^MAGGTAU(TXT,1)
+"RTN","MAGJUTL3",44,0)
+ ; Mag Log
+"RTN","MAGJUTL3",45,0)
+ I REMOTE S ACTION=ACTION_"/REM"
+"RTN","MAGJUTL3",46,0)
+ D ENTRY^MAGLOG(ACTION,+DUZ,MAGIEN,"VRAD:"_MAGJOB("VRVERSION"),RADFN,NIMGS)
+"RTN","MAGJUTL3",47,0)
+ Q
+"RTN","MAGJUTL3",48,0)
+ ;
+"RTN","MAGJUTL3",49,0)
+LOGOFF(MAGRY,DATA)   ;RPC Call when session is over.
+"RTN","MAGJUTL3",50,0)
+        ; update session file with logoff time & mark the session entry closed
+"RTN","MAGJUTL3",51,0)
+        ;
+"RTN","MAGJUTL3",52,0)
+        D LOGOFF^MAGGTAU(.MAGRY)
+"RTN","MAGJUTL3",53,0)
+ Q
+"RTN","MAGJUTL3",54,0)
+ ;
+"RTN","MAGJUTL3",55,0)
+CACHEQ(MAGGRY,DATA)     ; Query host for Local Cache paths
+"RTN","MAGJUTL3",56,0)
+ ; input in DATA: WSLOC
+"RTN","MAGJUTL3",57,0)
+ ;  - WSLOC   = Workstation Location
+"RTN","MAGJUTL3",58,0)
+ ;  - VRADVER = VistaRad Client Version
+"RTN","MAGJUTL3",59,0)
+ ;  - OSVER   = Client OS Version
+"RTN","MAGJUTL3",60,0)
+ ; Return Info in ^TMP($J,"MAGJCACHE",0:N) (@MAGGRY)
+"RTN","MAGJUTL3",61,0)
+ ;     0)= # Entries below (0:n)
+"RTN","MAGJUTL3",62,0)
+ ;   1:n)= PhysName^Subdirectory^HashFlag^Username^Password
+"RTN","MAGJUTL3",63,0)
+ ; Also Returns local array:
+"RTN","MAGJUTL3",64,0)
+ ;    MAGJOB("LOC",NetworkLocnIEN)=Site Abbreviation
+"RTN","MAGJUTL3",65,0)
+ ;    MAGJOB("REMOTE")=1/0  (T/F for "User is reading at Remote Loc'n")
+"RTN","MAGJUTL3",66,0)
+ ;    MAGJOB("WSLOC")=Workstation_Location String
+"RTN","MAGJUTL3",67,0)
+ ;    MAGJOB("WSLOCTYP")=Workstation_Location Type
+"RTN","MAGJUTL3",68,0)
+ ;    MAGJOB("VRVERSION")=VRAD Version
+"RTN","MAGJUTL3",69,0)
+ ;    MAGJOB("OSVER")=O/S Version
+"RTN","MAGJUTL3",70,0)
+ ;    MAGJOB("ALTPATH")=1/0 ^ 1/0 (T/F Alternate Paths are defined 
+"RTN","MAGJUTL3",71,0)
+ ;               ^ Alt Paths are Enabled/Disabled for most recent exam)
+"RTN","MAGJUTL3",72,0)
+ ;
+"RTN","MAGJUTL3",73,0)
+ S X="ERR^MAGJEX1",@^%ZOSF("TRAP")
+"RTN","MAGJUTL3",74,0)
+ ;
+"RTN","MAGJUTL3",75,0)
+ N I,MAGLST,REPLY,TMP,WSLOC,XX,VRADVER,OSVER
+"RTN","MAGJUTL3",76,0)
+ S DIQUIET=1 D DT^DICRW
+"RTN","MAGJUTL3",77,0)
+ S REPLY=0,MAGLST="MAGJCACHE"
+"RTN","MAGJUTL3",78,0)
+ K MAGGRY S MAGGRY=$NA(^TMP($J,MAGLST)) K @MAGGRY
+"RTN","MAGJUTL3",79,0)
+ S WSLOC=$P(DATA,U),VRADVER=$P(DATA,U,2),OSVER=$P(DATA,U,3)
+"RTN","MAGJUTL3",80,0)
+ S MAGJOB("OSVER")=$S(OSVER]"":OSVER,1:"UNK")
+"RTN","MAGJUTL3",81,0)
+ S MAGJOB("VRVERSION")=$S(VRADVER]"":VRADVER,1:"UNK")
+"RTN","MAGJUTL3",82,0)
+ S X=$P($G(IO("CLNM")),".")
+"RTN","MAGJUTL3",83,0)
+ S MAGJOB("WSNAME")=$S(X]"":X,1:"VistaradWS")
+"RTN","MAGJUTL3",84,0)
+ ;
+"RTN","MAGJUTL3",85,0)
+ ; Since this function is executed at user Login, use the opportunity to
+"RTN","MAGJUTL3",86,0)
+ ; initialize various things
+"RTN","MAGJUTL3",87,0)
+ ;
+"RTN","MAGJUTL3",88,0)
+ D REMLOCK
+"RTN","MAGJUTL3",89,0)
+ D MAGJOB ; Inits magjob array
+"RTN","MAGJUTL3",90,0)
+ S MAGJOB("WSLOCTYP")=$S(+MAGJOB("USER",1):"RAD",1:"Non-Rad")
+"RTN","MAGJUTL3",91,0)
+ I '$D(MAGJOB("WRKSIEN")) D
+"RTN","MAGJUTL3",92,0)
+ . S X=MAGJOB("WSNAME")_"^^^"_MAGJOB("WSLOCTYP")_U_U_U_U_1_U_MAGJOB("OSVER")_U_MAGJOB("VRVERSION")
+"RTN","MAGJUTL3",93,0)
+ . D UPD^MAGGTAU(.Y,X)
+"RTN","MAGJUTL3",94,0)
+ ;
+"RTN","MAGJUTL3",95,0)
+ ; get cache location info (initialize settings for NO Remote Reading):
+"RTN","MAGJUTL3",96,0)
+ S MAGJOB("WSLOC")=WSLOC,MAGJOB("REMOTE")=0,MAGJOB("ALTPATH")="0^0"
+"RTN","MAGJUTL3",97,0)
+ ;<*> For Remote Reading, Remove next line of code
+"RTN","MAGJUTL3",98,0)
+ S $P(^MAG(2006.69,+MAGJOB("SITEP"),0),U,11)=0 ;<*> Force Remote Read OFF
+"RTN","MAGJUTL3",99,0)
+ ;<*> For Remote Reading, insert code from below
+"RTN","MAGJUTL3",100,0)
+ S @MAGGRY@(0)=REPLY
+"RTN","MAGJUTL3",101,0)
+ ;
+"RTN","MAGJUTL3",102,0)
+CACHEQZ Q
+"RTN","MAGJUTL3",103,0)
+ ;
+"RTN","MAGJUTL3",104,0)
+ ; <*> For future Routing/Remote Read, insert the following above
+"RTN","MAGJUTL3",105,0)
+ I WSLOC]"" D
+"RTN","MAGJUTL3",106,0)
+ . S X=$P($G(^MAG(2006.1,+MAGJOB("SITEP"),0)),U,9)
+"RTN","MAGJUTL3",107,0)
+ . I X]"",(X'=WSLOC) S MAGJOB("REMOTE")=1
+"RTN","MAGJUTL3",108,0)
+ . E  Q
+"RTN","MAGJUTL3",109,0)
+ . D LIST(WSLOC,.TMP)
+"RTN","MAGJUTL3",110,0)
+ . I TMP S REPLY=TMP,MAGJOB("ALTPATH")="1^1" F I=1:1:TMP D
+"RTN","MAGJUTL3",111,0)
+ .. S XX=$P(TMP(I),U,1,5),X=$P(XX,U,3),$P(XX,U,3)=$S(X="Y":1,1:0)
+"RTN","MAGJUTL3",112,0)
+ .. S X=$P(XX,U,4),$P(XX,U,4)=$P(XX,U,5),$P(XX,U,5)=X
+"RTN","MAGJUTL3",113,0)
+ .. S @MAGGRY@(I)=XX,MAGJOB("LOC",$P(TMP(I),U,7))=$P(TMP(I),U,6)
+"RTN","MAGJUTL3",114,0)
+ ;<*> End
+"RTN","MAGJUTL3",115,0)
+ ;
+"RTN","MAGJUTL3",116,0)
+REMLOCK ;  Remove dangling locks:
+"RTN","MAGJUTL3",117,0)
+ S RARPT=""
+"RTN","MAGJUTL3",118,0)
+ F  S RARPT=$O(^XTMP("MAGJ","LOCK",RARPT)) Q:'RARPT  D
+"RTN","MAGJUTL3",119,0)
+ . L +^XTMP("MAGJ","LOCK",RARPT):0 I  D  ; found one (maybe)
+"RTN","MAGJUTL3",120,0)
+ .. S X=$G(^XTMP("MAGJ","LOCK",RARPT))
+"RTN","MAGJUTL3",121,0)
+ .. I +X=DUZ,($P(X,U,2)=$J)         ; leave this job's locks alone
+"RTN","MAGJUTL3",122,0)
+ .. E  K ^XTMP("MAGJ","LOCK",RARPT) ; get rid of this one
+"RTN","MAGJUTL3",123,0)
+ .. L -^XTMP("MAGJ","LOCK",RARPT)
+"RTN","MAGJUTL3",124,0)
+ N TS S TS="" F I=2,0 S %H=$H+I D YMD^%DTC S TS=TS_$S(TS="":"",1:U)_X
+"RTN","MAGJUTL3",125,0)
+ S ^XTMP("MAGJ",0)=TS_U_"VistaRad Locks"
+"RTN","MAGJUTL3",126,0)
+ Q
+"RTN","MAGJUTL3",127,0)
+ ;
+"RTN","MAGJUTL3",128,0)
+MAGJOB ; Initialize general magjob array entries
+"RTN","MAGJUTL3",129,0)
+ ;    MAGJOB("SITEP")=IEN to active Site Parameter
+"RTN","MAGJUTL3",130,0)
+ ;    MAGJOB("CONSOLIDATED")=1/0
+"RTN","MAGJUTL3",131,0)
+ ;    MAGJOB( "KEYS", security_keys ) = ""
+"RTN","MAGJUTL3",132,0)
+ ;    MAGJOB( "USER", 1 ) = RIST_Type ^ NAME ^ INITIALS
+"RTN","MAGJUTL3",133,0)
+ N T,RIST
+"RTN","MAGJUTL3",134,0)
+ D USERKEYS
+"RTN","MAGJUTL3",135,0)
+ N MAGSPEC D FIELD^DID(2006.1,.01,"","SPECIFIER","MAGSPEC")
+"RTN","MAGJUTL3",136,0)
+ S MAGJOB("CONSOLIDATED")=MAGSPEC("SPECIFIER")["P"
+"RTN","MAGJUTL3",137,0)
+ S MAGJOB("SITEP")=$$IMGSIT^MAGJUTL1(DUZ(2))   ; Determine Site Param ien
+"RTN","MAGJUTL3",138,0)
+ I 'MAGJOB("SITEP") S X=$O(^MAG(2006.1,0)) S MAGJOB("SITEP")=X_U_$P(^(X,0),U,9)  ; Default to 1st
+"RTN","MAGJUTL3",139,0)
+ ;
+"RTN","MAGJUTL3",140,0)
+ S RIST="" F X="S","R" I $D(^VA(200,"ARC",X,DUZ)) S RIST=X Q
+"RTN","MAGJUTL3",141,0)
+ S RIST=$S(RIST="S":15,RIST="R":12,1:0) ; Staff/Resident/Non rist
+"RTN","MAGJUTL3",142,0)
+ S MAGJOB("USER",1)=RIST_U_$$USERINF(+DUZ,".01;1")
+"RTN","MAGJUTL3",143,0)
+ Q
+"RTN","MAGJUTL3",144,0)
+ ;
+"RTN","MAGJUTL3",145,0)
+USERINF(DUZ,FLDS) ; get data from user file; return ^-delimited result string
+"RTN","MAGJUTL3",146,0)
+ I FLDS=""!'DUZ Q ""
+"RTN","MAGJUTL3",147,0)
+ N I,RSL,T S RSL=""
+"RTN","MAGJUTL3",148,0)
+ D GETS^DIQ(200,+DUZ,FLDS,"E","T")
+"RTN","MAGJUTL3",149,0)
+ S T=+DUZ_","
+"RTN","MAGJUTL3",150,0)
+ F I=1:1:$L(FLDS,";") S RSL=RSL_$S(RSL="":"",1:U)_T(200,T,$P(FLDS,";",I),"E")
+"RTN","MAGJUTL3",151,0)
+ Q RSL
+"RTN","MAGJUTL3",152,0)
+ ;
+"RTN","MAGJUTL3",153,0)
+USERKEYS ; Store VistaRad Security Keys in MagJob array
+"RTN","MAGJUTL3",154,0)
+ ;
+"RTN","MAGJUTL3",155,0)
+ N I,X,Y
+"RTN","MAGJUTL3",156,0)
+ N MAGKS ; list of keys to send to XUS KEY CHECK
+"RTN","MAGJUTL3",157,0)
+ N MAGKG ; list returned from XUS KEY CHECK
+"RTN","MAGJUTL3",158,0)
+ K MAGJOB("KEYS")
+"RTN","MAGJUTL3",159,0)
+ S X="MAGJ",I=0
+"RTN","MAGJUTL3",160,0)
+ F  S X=$O(^XUSEC(X)) Q:$E(X,1,4)'="MAGJ"  D
+"RTN","MAGJUTL3",161,0)
+ . S I=I+1,MAGKS(I)=X
+"RTN","MAGJUTL3",162,0)
+ I '$D(MAGKS) Q
+"RTN","MAGJUTL3",163,0)
+ D OWNSKEY^XUSRB(.MAGKG,.MAGKS)
+"RTN","MAGJUTL3",164,0)
+ S I=0 F  S I=$O(MAGKG(I)) Q:'I  I MAGKG(I) S MAGJOB("KEYS",MAGKS(I))=""
+"RTN","MAGJUTL3",165,0)
+ Q
+"RTN","MAGJUTL3",166,0)
+ ;
+"RTN","MAGJUTL3",167,0)
+MAGLOG ; D ENTRY^MAGLOG("VR_View",DUZ,MAGIEN,"VRAD/"_MAGJOB("VRVERSION")_MAGJOB("OSVER"),DFN,IMGCT)
+"RTN","MAGJUTL3",168,0)
+ ;
+"RTN","MAGJUTL3",169,0)
+ Q
+"RTN","MAGJUTL3",170,0)
+PINF1(MAGRY,MAGDFN)     ;RPC Call MAGJ PT INFO -- Return patient info.
+"RTN","MAGJUTL3",171,0)
+ ; Code borrowed from MAGGTCP
+"RTN","MAGJUTL3",172,0)
+ D INFO^MAGGTPT1(.MAGRY,MAGDFN_"^1") ; 1=Don't log to session file
+"RTN","MAGJUTL3",173,0)
+ Q
+"RTN","MAGJUTL3",174,0)
+ ;
+"RTN","MAGJUTL3",175,0)
+ ;
+"RTN","MAGJUTL3",176,0)
+LIST(TO,LIST) N DEST,N,PRI,X
+"RTN","MAGJUTL3",177,0)
+ S TO=$$UPNOPU(TO),N=0 K LIST
+"RTN","MAGJUTL3",178,0)
+ S PRI="" F  S PRI=$O(^MAGQUEUE(2006.035,"STATUS","SENT",PRI)) Q:PRI=""  D
+"RTN","MAGJUTL3",179,0)
+ . S DEST="" F  S DEST=$O(^MAGQUEUE(2006.035,"STATUS","SENT",PRI,DEST)) Q:DEST=""  D
+"RTN","MAGJUTL3",180,0)
+ . . N PW
+"RTN","MAGJUTL3",181,0)
+ . . S PW=$P($G(^MAG(2005.2,DEST,2)),"^",1,2)
+"RTN","MAGJUTL3",182,0)
+ . . S $P(PW,"^",2)=$$DECRYP^ROUTINE($P(PW,"^",2))
+"RTN","MAGJUTL3",183,0)
+ . . S X=$G(^MAG(2005.2,DEST,0))
+"RTN","MAGJUTL3",184,0)
+ . . Q:$$UPNOPU($P(X,"^",1))'[TO
+"RTN","MAGJUTL3",185,0)
+ . . S N=N+1,LIST(N)=$P(X,"^",2)_"^"_$P($G(^MAG(2005.2,DEST,4)),"^",2)_"^"_$P(X,"^",8)_"^"_PW_"^"_$P($G(^MAG(2005.2,DEST,3)),"^",5)_"^"_DEST
+"RTN","MAGJUTL3",186,0)
+ . . Q
+"RTN","MAGJUTL3",187,0)
+ . Q
+"RTN","MAGJUTL3",188,0)
+ S LIST=N
+"RTN","MAGJUTL3",189,0)
+ Q
+"RTN","MAGJUTL3",190,0)
+ ;
+"RTN","MAGJUTL3",191,0)
+UPNOPU(X) Q $TR(X,"abcdefghijklmnopqrstuvwxyz !""#$%&'()*+,-./:;<=>?@[\]^_`{|}~","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","MAGJUTL3",192,0)
+ ;
+"RTN","MAGJUTL3",193,0)
+END Q  ;
+"VER")
+8.0^22.0
+"^DD",2006.81,2006.81,9.7,0)
+VISTARAD VERSION^F^^0;15^K:$L(X)>15!($L(X)<3) X
+"^DD",2006.81,2006.81,9.7,3)
+Answer must be 3-15 characters in length.
+"^DD",2006.81,2006.81,9.7,21,0)
+^^2^2^3020628^
+"^DD",2006.81,2006.81,9.7,21,1,0)
+This is the version of the VistaRad software currently installed
+"^DD",2006.81,2006.81,9.7,21,2,0)
+on the workstation
+"^DD",2006.81,2006.81,9.7,"DT")
+3020628
+**END**
+**END**

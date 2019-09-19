@@ -1,0 +1,766 @@
+KIDS Distribution saved on Jul 07, 2004@11:03:18
+VistA Imaging V3.0 - Patch 40 - 07/07/2004 11:03AM
+**KIDS**:MAG*3.0*40^
+
+**INSTALL NAME**
+MAG*3.0*40
+"BLD",3463,0)
+MAG*3.0*40^IMAGING^0^3040707^y
+"BLD",3463,1,0)
+^^9^9^3040707^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 40 - DIQUIET Maintenance
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+Routines:
+"BLD",3463,1,5,0)
+MAG7RS      value = 12193599
+"BLD",3463,1,6,0)
+MAGIPS40    value = 4705510
+"BLD",3463,1,7,0)
+ 
+"BLD",3463,1,8,0)
+Please note that routine MAGIPS40 is deleted after the KIDS Build is
+"BLD",3463,1,9,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^MAGIPS40    value = 4705510^0
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+n^n^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INID")
+n^y^n
+"BLD",3463,"INIT")
+POST^MAGIPS40
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAG7RS^^0^B54368283
+"BLD",3463,"KRN",9.8,"NM","B","MAG7RS",1)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"BLD",3463,"REQB",0)
+^9.611^1^1
+"BLD",3463,"REQB",1,0)
+MAG*3.0*11^2
+"BLD",3463,"REQB","B","MAG*3.0*11",1)
+
+"INIT")
+POST^MAGIPS40
+"MBREQ")
+0
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+40^3040707^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^8^8^3040707
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for Patch 40, Test Build 2.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAG7RS      value = 12193599
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGIPS40    value = 4705510
+"PKG",454,22,1,"PAH",1,1,6,0)
+ 
+"PKG",454,22,1,"PAH",1,1,7,0)
+Please note that routine MAGIPS40 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,8,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","MAG7RS")
+0^1^B54368283
+"RTN","MAG7RS",1,0)
+MAG7RS ;WOIFO/PMK,MLH - copy radiology message from HLSDATA to ^MAGDHL7 - add segment data ; 30 Jun 2004  4:32 PM
+"RTN","MAG7RS",2,0)
+ ;;3.0;IMAGING;**11,40**;07-July-2004
+"RTN","MAG7RS",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAG7RS",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAG7RS",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAG7RS",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAG7RS",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAG7RS",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAG7RS",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAG7RS",10,0)
+ ;; |                                                               |
+"RTN","MAG7RS",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAG7RS",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAG7RS",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAG7RS",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAG7RS",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAG7RS",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAG7RS",17,0)
+ ;;
+"RTN","MAG7RS",18,0)
+ ;
+"RTN","MAG7RS",19,0)
+PIDADD ; SUBROUTINE - called by ADDDTA^MAGDHL7
+"RTN","MAG7RS",20,0)
+ ; Add PID info for DICOM Gateway.
+"RTN","MAG7RS",21,0)
+ ; Uses multi-tier array structure MAG7WRK produced by call to MAG7UP.
+"RTN","MAG7RS",22,0)
+ ;
+"RTN","MAG7RS",23,0)
+ N DIQUIET ; -------------- FileMan verbose/silent variable
+"RTN","MAG7RS",24,0)
+ N IXPID ; ---------------- index to PID segment in MAG7WRK array
+"RTN","MAG7RS",25,0)
+ N VADM,VAPA ; ------------ VADPT return arrays
+"RTN","MAG7RS",26,0)
+ ;
+"RTN","MAG7RS",27,0)
+ ; ====================================================
+"RTN","MAG7RS",28,0)
+ ; Get patient DFN and retrieve demo data.
+"RTN","MAG7RS",29,0)
+ S IXPID=$O(MAG7WRK("B","PID","")) I 'IXPID Q
+"RTN","MAG7RS",30,0)
+ S DFN=MAG7WRK(IXPID,3,1,1,1) I 'DFN Q
+"RTN","MAG7RS",31,0)
+ ;
+"RTN","MAG7RS",32,0)
+ ; ================================================
+"RTN","MAG7RS",33,0)
+ ; load demo information into HL7 PID segment
+"RTN","MAG7RS",34,0)
+ S DIQUIET=1
+"RTN","MAG7RS",35,0)
+ D DEM^VADPT ; demo into VADM()
+"RTN","MAG7RS",36,0)
+ I '$G(VAERR),VADM(3)]"" D
+"RTN","MAG7RS",37,0)
+ . S MAG7WRK(IXPID,7,1,1,1)=$P(VADM(3),"^")+17000000 ; DOB
+"RTN","MAG7RS",38,0)
+ . Q
+"RTN","MAG7RS",39,0)
+ ;
+"RTN","MAG7RS",40,0)
+ ; ================================================
+"RTN","MAG7RS",41,0)
+ ; load address information into HL7 PID segment
+"RTN","MAG7RS",42,0)
+ S DIQUIET=1
+"RTN","MAG7RS",43,0)
+ D ADD^VADPT ; address & phone into VAPA()
+"RTN","MAG7RS",44,0)
+ I '$G(VAERR) D
+"RTN","MAG7RS",45,0)
+ . S MAG7WRK(IXPID,10,1,2,1)=$P(VADM(8),"^",2) ; race
+"RTN","MAG7RS",46,0)
+ . S MAG7WRK(IXPID,11,1,1,1)=VAPA(1) ; street address 1st line
+"RTN","MAG7RS",47,0)
+ . S MAG7WRK(IXPID,11,1,2,1)=VAPA(2)_$S(VAPA(3)="":"",1:", "_VAPA(3)) ; lns 2-3
+"RTN","MAG7RS",48,0)
+ . S MAG7WRK(IXPID,11,1,3,1)=VAPA(4) ; city
+"RTN","MAG7RS",49,0)
+ . S MAG7WRK(IXPID,11,1,4,1)=VAPA(5) ; 2-letter state
+"RTN","MAG7RS",50,0)
+ . S MAG7WRK(IXPID,11,1,5,1)=VAPA(6) ; ZIP
+"RTN","MAG7RS",51,0)
+ . ; phone
+"RTN","MAG7RS",52,0)
+ . S MAG7WRK(IXPID,13,1,1,1)=VAPA(8)
+"RTN","MAG7RS",53,0)
+ . S MAG7WRK(IXPID,13,1,2,1)="PRN" ; phone
+"RTN","MAG7RS",54,0)
+ . Q
+"RTN","MAG7RS",55,0)
+ Q
+"RTN","MAG7RS",56,0)
+ ;
+"RTN","MAG7RS",57,0)
+ADDVSDG ; SUBROUTINE - called by ADDDTA^MAGDHL7
+"RTN","MAG7RS",58,0)
+ ; Add visit and diagnosis info for DICOM Gateway.
+"RTN","MAG7RS",59,0)
+ ;
+"RTN","MAG7RS",60,0)
+ N DIQUIET ; ------ FileMan verbose/silent variable
+"RTN","MAG7RS",61,0)
+ N I,IX,IX1 ; ----- scratch index vars
+"RTN","MAG7RS",62,0)
+ N IXPID,IXPV1 ; -- indices to PID, PV1 segs in MAG7WRK array
+"RTN","MAG7RS",63,0)
+ N IXDG1,IXOBR ; -- indices to DG1, OBR segs in MAG7WRK array
+"RTN","MAG7RS",64,0)
+ N IXVAEL ; ------- index of entries in VAEL()
+"RTN","MAG7RS",65,0)
+ N VAIN,VAEL ; ---- VADPT return arrays
+"RTN","MAG7RS",66,0)
+ N MAGPHYNM ; ----- physician name
+"RTN","MAG7RS",67,0)
+ N ELCODE ; ------- eligibility code
+"RTN","MAG7RS",68,0)
+ ;
+"RTN","MAG7RS",69,0)
+ ; ====================================================
+"RTN","MAG7RS",70,0)
+ ; Get patient DFN and retrieve inpatient data.
+"RTN","MAG7RS",71,0)
+ S IXPID=$O(MAG7WRK("B","PID","")) I 'IXPID Q
+"RTN","MAG7RS",72,0)
+ S DFN=MAG7WRK(IXPID,3,1,1,1) I 'DFN Q
+"RTN","MAG7RS",73,0)
+ S DIQUIET=1
+"RTN","MAG7RS",74,0)
+ D INP^VADPT Q:VAERR  ; inpatient data in VAIN()
+"RTN","MAG7RS",75,0)
+ D ELIG^VADPT Q:VAERR  ; eligibility data in VAEL()
+"RTN","MAG7RS",76,0)
+ D PV1ADD($S($G(VAIN(1))]"":"IN",1:"OUT"))
+"RTN","MAG7RS",77,0)
+ ; add pregnancy status and modalities if not already part of order
+"RTN","MAG7RS",78,0)
+ ; message
+"RTN","MAG7RS",79,0)
+ I $G(MAG7WRK(1,9,1,1,1))="ORM" D
+"RTN","MAG7RS",80,0)
+ . S IXOBR=$O(MAG7WRK("B","OBR",""))
+"RTN","MAG7RS",81,0)
+ . I IXOBR D PV1RAD ; pregnancy status & modality info from Radiology
+"RTN","MAG7RS",82,0)
+ . Q
+"RTN","MAG7RS",83,0)
+ Q
+"RTN","MAG7RS",84,0)
+ ;
+"RTN","MAG7RS",85,0)
+PV1ADD(XPTSTA) ; SUBROUTINE - called by ADDVSDG
+"RTN","MAG7RS",86,0)
+ ; Get the index of the PV1 segment - create one for the order message
+"RTN","MAG7RS",87,0)
+ ; if we need to.
+"RTN","MAG7RS",88,0)
+ ; 
+"RTN","MAG7RS",89,0)
+ ; input:  XPTSTA        patient status { IN | OUT }
+"RTN","MAG7RS",90,0)
+ ; 
+"RTN","MAG7RS",91,0)
+ ; Expects:  VAEL()      eligibility array from ELIG^VADPT
+"RTN","MAG7RS",92,0)
+ ;           VAIN()      inpatient data array from INP^VADPT
+"RTN","MAG7RS",93,0)
+ ;
+"RTN","MAG7RS",94,0)
+ N FSTAT ; -- status flag returned by MAG7UDR
+"RTN","MAG7RS",95,0)
+ N IXSEG ; -- segment index in message
+"RTN","MAG7RS",96,0)
+ N IXPRED ; -- index to predecessor segment
+"RTN","MAG7RS",97,0)
+ N IXSUCC ; -- index to successor segment
+"RTN","MAG7RS",98,0)
+ ;
+"RTN","MAG7RS",99,0)
+ S IXPV1=$O(MAG7WRK("B","PV1",""))
+"RTN","MAG7RS",100,0)
+ I 'IXPV1 Q:MAG7WRK(1,9,1,1,1)'="ORM"  D
+"RTN","MAG7RS",101,0)
+ . S (IXSEG,IXPRED)=$O(MAG7WRK("B","PID","")) Q:'IXSEG
+"RTN","MAG7RS",102,0)
+ . F  S IXSEG=$O(MAG7WRK(IXSEG)) Q:"^PD1^NTE^"'[("^"_$G(MAG7WRK(IXSEG,0))_"^")  S IXPRED=IXSEG
+"RTN","MAG7RS",103,0)
+ . S IXSUCC=$O(MAG7WRK(IXPRED)),IXPV1=$S(IXSUCC:IXPRED+IXSUCC/2,1:IXPRED+1)
+"RTN","MAG7RS",104,0)
+ . S MAG7WRK(IXPV1,0)="PV1"
+"RTN","MAG7RS",105,0)
+ . Q
+"RTN","MAG7RS",106,0)
+ ;
+"RTN","MAG7RS",107,0)
+ ; pt status
+"RTN","MAG7RS",108,0)
+ I XPTSTA="OUT" D  ; if op, just status for now
+"RTN","MAG7RS",109,0)
+ . S MAG7WRK(IXPV1,2,1,1,1)="O"
+"RTN","MAG7RS",110,0)
+ . Q
+"RTN","MAG7RS",111,0)
+ E  I XPTSTA'="IN" D  ; not applicable 
+"RTN","MAG7RS",112,0)
+ . S MAG7WRK(IXPV1,2,1,1,1)="N"
+"RTN","MAG7RS",113,0)
+ . Q
+"RTN","MAG7RS",114,0)
+ E  D  ; get visit information too
+"RTN","MAG7RS",115,0)
+ . S MAG7WRK(IXPV1,2,1,1,1)="I" ; -- class - always inpatient
+"RTN","MAG7RS",116,0)
+ . ; location
+"RTN","MAG7RS",117,0)
+ . ;    point of care <--- ward -- needs to be a triplet for Pete's DICOM msg
+"RTN","MAG7RS",118,0)
+ . S MAG7WRK(IXPV1,3,1,1,1)=$P(VAIN(4),U)
+"RTN","MAG7RS",119,0)
+ . S MAG7WRK(IXPV1,3,1,1,2)=$P(VAIN(4),U,2)
+"RTN","MAG7RS",120,0)
+ . S MAG7WRK(IXPV1,3,1,1,3)="VISTA42"
+"RTN","MAG7RS",121,0)
+ . S MAG7WRK(IXPV1,3,1,2,1)=$P(VAIN(5),"-") ; -------- room
+"RTN","MAG7RS",122,0)
+ . S MAG7WRK(IXPV1,3,1,3,1)=$P(VAIN(5),"-",2) ; ------ bed
+"RTN","MAG7RS",123,0)
+ . ; add segment for admitting dx to ADT and ORM messages
+"RTN","MAG7RS",124,0)
+ . I $G(VAIN(9))]"" D DG1DGADM^MAG7RSD
+"RTN","MAG7RS",125,0)
+ . Q
+"RTN","MAG7RS",126,0)
+ ;
+"RTN","MAG7RS",127,0)
+ ; add PV1 fields and ROL segments for the attending and referring DRs
+"RTN","MAG7RS",128,0)
+ S FSTAT=$$PRCTADD^MAG7UDR($NA(MAG7WRK(IXPV1,7)),"ATT") ; attending DR
+"RTN","MAG7RS",129,0)
+ I $G(MAG7WRK(IXPV1,7,1,1,1)),$G(MAG7WRK(1,9,1,1,1))="ADT" D
+"RTN","MAG7RS",130,0)
+ . D ROLADD^MAG7RSR($NA(MAG7WRK(IXPV1,7,1)),"AT")
+"RTN","MAG7RS",131,0)
+ . Q
+"RTN","MAG7RS",132,0)
+ S FSTAT=$$PRCTADD^MAG7UDR($NA(MAG7WRK(IXPV1,8)),"REF") ; referring DR
+"RTN","MAG7RS",133,0)
+ I $G(MAG7WRK(IXPV1,8,1,1,1)),$G(MAG7WRK(1,9,1,1,1))="ADT" D
+"RTN","MAG7RS",134,0)
+ . D ROLADD^MAG7RSR($NA(MAG7WRK(IXPV1,8,1)),"RP")
+"RTN","MAG7RS",135,0)
+ . Q
+"RTN","MAG7RS",136,0)
+ I $D(VAEL) D  ; add VIP flag if applicable and not yet present
+"RTN","MAG7RS",137,0)
+ . S VAEL(1,0)=VAEL(1) ; for easy array navigation
+"RTN","MAG7RS",138,0)
+ . S IXVAEL=""
+"RTN","MAG7RS",139,0)
+ . F  Q:$D(IXPV1(16))  S IXVAEL=$O(VAEL(1,IXVAEL)) Q:IXVAEL=""  D
+"RTN","MAG7RS",140,0)
+ . . S ELCODE=$P($G(VAEL(1,IXVAEL)),"^")
+"RTN","MAG7RS",141,0)
+ . . I "^6^15^"[("^"_ELCODE_"^") S IXPV1(16,1,1,1,1)=ELCODE
+"RTN","MAG7RS",142,0)
+ . . Q
+"RTN","MAG7RS",143,0)
+ . Q
+"RTN","MAG7RS",144,0)
+ Q
+"RTN","MAG7RS",145,0)
+ ;
+"RTN","MAG7RS",146,0)
+PV1RAD ; SUBROUTINE - called by ADDVSDG
+"RTN","MAG7RS",147,0)
+ ; Add "pregnant" to Ambulatory Status if patient is pregnant.
+"RTN","MAG7RS",148,0)
+ ; Add modalities to Diagnostic Service Section ID.
+"RTN","MAG7RS",149,0)
+ ; 
+"RTN","MAG7RS",150,0)
+ ; Expects:  MAG7WRK()     HL7 message array
+"RTN","MAG7RS",151,0)
+ ;           IXOBR         Index of OBR segment on MAG7WRK()
+"RTN","MAG7RS",152,0)
+ ;           IXPV1         Index of PV1 segment on MAG7WRK()
+"RTN","MAG7RS",153,0)
+ ;           
+"RTN","MAG7RS",154,0)
+ N RADPT2 ; ------- FileMan date of rad order
+"RTN","MAG7RS",155,0)
+ N RADPT3 ; ------- index of order under date on Rad/NM pt file
+"RTN","MAG7RS",156,0)
+ N RADPT0 ; ------- data for order on Rad/NM pt file
+"RTN","MAG7RS",157,0)
+ N RAOIEN ; ------- index of order on Rad/NM order file
+"RTN","MAG7RS",158,0)
+ N RAO0 ; --------- data for order on Rad/NM order file
+"RTN","MAG7RS",159,0)
+ N PROCIEN ; ------ ien of procedure on Rad/NM procedure file
+"RTN","MAG7RS",160,0)
+ N PROCMOD ; ------ ien of modality on Rad/NM procedure file
+"RTN","MAG7RS",161,0)
+ N MODIEN ; ------- ien of modality on modality defined terms file
+"RTN","MAG7RS",162,0)
+ N MODTERM ; ------ term for the modality
+"RTN","MAG7RS",163,0)
+ N PREGSTAT ; ----- pregnancy status on order
+"RTN","MAG7RS",164,0)
+ N REPIX ; -------- repetition index
+"RTN","MAG7RS",165,0)
+ N EDTA ; --------- element data
+"RTN","MAG7RS",166,0)
+ N AAMBMSG ; ------ ambulatory status array (from message data)
+"RTN","MAG7RS",167,0)
+ N AMODMSG ; ------ modality array (from message data)
+"RTN","MAG7RS",168,0)
+ ;
+"RTN","MAG7RS",169,0)
+ ; get data from Rad/NM pt and order files
+"RTN","MAG7RS",170,0)
+ S RADPT2=$P(MAG7WRK(IXOBR,3,1,1,1),"-")
+"RTN","MAG7RS",171,0)
+ S RADPT3=$P(MAG7WRK(IXOBR,3,1,1,1),"-",2)
+"RTN","MAG7RS",172,0)
+ S RADPT0=$G(^RADPT(DFN,"DT",RADPT2,"P",RADPT3,0))
+"RTN","MAG7RS",173,0)
+ S RAOIEN=$P(RADPT0,"^",11) ; IEN for ^RAO(75.1)
+"RTN","MAG7RS",174,0)
+ S RAO0="" I RAOIEN S RAO0=$G(^RAO(75.1,RAOIEN,0))
+"RTN","MAG7RS",175,0)
+ ;
+"RTN","MAG7RS",176,0)
+ ; add "pregnant" to ambulatory status if needed
+"RTN","MAG7RS",177,0)
+ ;   get data from message
+"RTN","MAG7RS",178,0)
+ S REPIX=""
+"RTN","MAG7RS",179,0)
+ F  S REPIX=$O(MAG7WRK(IXPV1,15,REPIX)) Q:'REPIX  D
+"RTN","MAG7RS",180,0)
+ . S EDTA=$G(MAG7WRK(IXPV1,15,REPIX,1,1)) I EDTA]"" S AAMBMSG(EDTA)=""
+"RTN","MAG7RS",181,0)
+ . Q
+"RTN","MAG7RS",182,0)
+ ;   get data from Radiology and add to message if needed and not present
+"RTN","MAG7RS",183,0)
+ S PREGSTAT=$P(RAO0,"^",13) I PREGSTAT="" S PREGSTAT="u"
+"RTN","MAG7RS",184,0)
+ I '$D(AAMBMSG("B6")),PREGSTAT="y" D
+"RTN","MAG7RS",185,0)
+ . S MAG7WRK(IXPV1,15,$O(MAG7WRK(IXPV1,15," "),-1)+1,1,1)="B6"
+"RTN","MAG7RS",186,0)
+ . Q
+"RTN","MAG7RS",187,0)
+ ;
+"RTN","MAG7RS",188,0)
+ ; add modalities to Diagnostic Service Section ID
+"RTN","MAG7RS",189,0)
+ ;   get data from message
+"RTN","MAG7RS",190,0)
+ F  S REPIX=$O(MAG7WRK(IXOBR,24,REPIX)) Q:'REPIX  D
+"RTN","MAG7RS",191,0)
+ . S EDTA=$G(MAG7WRK(IXOBR,24,REPIX,1,1)) I EDTA]"" S AMODMSG(EDTA)=""
+"RTN","MAG7RS",192,0)
+ . Q
+"RTN","MAG7RS",193,0)
+ ;   get data from Radiology and add to message if needed and not present
+"RTN","MAG7RS",194,0)
+ S PROCIEN=$P(RADPT0,U,2)
+"RTN","MAG7RS",195,0)
+ I PROCIEN D
+"RTN","MAG7RS",196,0)
+ . S PROCMOD=0
+"RTN","MAG7RS",197,0)
+ . F  S PROCMOD=$O(^RAMIS(71,PROCIEN,"MDL",PROCMOD)) Q:'PROCMOD  D
+"RTN","MAG7RS",198,0)
+ . . S MODIEN=$P($G(^RAMIS(71,PROCIEN,"MDL",PROCMOD,0)),U)
+"RTN","MAG7RS",199,0)
+ . . I MODIEN,$D(^RAMIS(73.1,MODIEN,0)) D
+"RTN","MAG7RS",200,0)
+ . . . S MODTERM=$P($G(^RAMIS(73.1,MODIEN,0)),U)
+"RTN","MAG7RS",201,0)
+ . . . I MODTERM]"",'$D(AMODMSG(MODTERM)) D
+"RTN","MAG7RS",202,0)
+ . . . . S MAG7WRK(IXOBR,24,$O(MAG7WRK(IXOBR,24," "),-1)+1,1,1)=MODTERM
+"RTN","MAG7RS",203,0)
+ . . . . Q
+"RTN","MAG7RS",204,0)
+ . . . Q
+"RTN","MAG7RS",205,0)
+ . . Q
+"RTN","MAG7RS",206,0)
+ . Q
+"RTN","MAG7RS",207,0)
+ Q
+"RTN","MAGIPS40")
+0^^B8264593
+"RTN","MAGIPS40",1,0)
+MAGIPS40 ;Post init routine to queue site activity at install. ; 07/07/2004  09:56
+"RTN","MAGIPS40",2,0)
+ ;;3.0;IMAGING;**40**;07-July-2004
+"RTN","MAGIPS40",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS40",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS40",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS40",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS40",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS40",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS40",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS40",10,0)
+ ;; |                                                               |
+"RTN","MAGIPS40",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS40",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS40",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS40",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS40",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS40",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS40",17,0)
+ ;;
+"RTN","MAGIPS40",18,0)
+ Q
+"RTN","MAGIPS40",19,0)
+ ;
+"RTN","MAGIPS40",20,0)
+POST ;
+"RTN","MAGIPS40",21,0)
+ N CT,CNT,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS40",22,0)
+ ;
+"RTN","MAGIPS40",23,0)
+ D GETENV^%ZOSV
+"RTN","MAGIPS40",24,0)
+ S CNT=0
+"RTN","MAGIPS40",25,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS40",26,0)
+ S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS40",27,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XPDNM
+"RTN","MAGIPS40",28,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XPDNM)
+"RTN","MAGIPS40",29,0)
+ S ST=$$GET1^DIQ(9.7,XPDA,11,"I")
+"RTN","MAGIPS40",30,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS40",31,0)
+ S CT=$$GET1^DIQ(9.7,XPDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT()
+"RTN","MAGIPS40",32,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS40",33,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS40",34,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS40",35,0)
+ S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_$$GET1^DIQ(9.7,XPDA,6,"I")
+"RTN","MAGIPS40",36,0)
+ S CNT=CNT+1,MAGMSG(CNT)="DATE: "_$$NOW^XLFDT()
+"RTN","MAGIPS40",37,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,XPDA,9,"E")
+"RTN","MAGIPS40",38,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,XPDA,.01,"E")
+"RTN","MAGIPS40",39,0)
+ S DDATE=$$GET1^DIQ(9.7,XPDA,51,"I")
+"RTN","MAGIPS40",40,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS40",41,0)
+ S XMSUB=XPDNM_" INSTALLATION"
+"RTN","MAGIPS40",42,0)
+ S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS40",43,0)
+ S XMY(XMID)=""
+"RTN","MAGIPS40",44,0)
+ S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS40",45,0)
+ S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS40",46,0)
+ S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS40",47,0)
+ D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS40",48,0)
+ I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS40",49,0)
+ Q
+"RTN","MAGIPS40",50,0)
+ ;
+"VER")
+8.0^22.0
+**END**
+**END**
+
+
+****
+****

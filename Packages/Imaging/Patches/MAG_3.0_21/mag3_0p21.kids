@@ -1,0 +1,2480 @@
+KIDS Distribution saved on Oct 20, 2003@10:53:57
+Vista Imaging v3.0  patch 21 build 14
+**KIDS**:MAG*3.0*21^
+
+**INSTALL NAME**
+MAG*3.0*21
+"BLD",3007,0)
+MAG*3.0*21^IMAGING^0^3031020^y
+"BLD",3007,1,0)
+^^10^10^3030903^
+"BLD",3007,1,1,0)
+Miscellaneous fixes
+"BLD",3007,1,2,0)
+ 
+"BLD",3007,1,3,0)
+Routines:
+"BLD",3007,1,4,0)
+MAGDLB6   value = 3354488
+"BLD",3007,1,5,0)
+MAGGSIA   value = 5811759
+"BLD",3007,1,6,0)
+MAGGTIA1  value = 6825885
+"BLD",3007,1,7,0)
+MAGIPS21  value = 2652995
+"BLD",3007,1,8,0)
+ 
+"BLD",3007,1,9,0)
+Routine MAGIPS21 is a pre- and post-install routine.  It is deleted at the
+"BLD",3007,1,10,0)
+end of installation.
+"BLD",3007,4,0)
+^9.64PA^2006.598^2
+"BLD",3007,4,2006.575,0)
+2006.575
+"BLD",3007,4,2006.575,222)
+y^y^f^^^^n
+"BLD",3007,4,2006.598,0)
+2006.598
+"BLD",3007,4,2006.598,222)
+y^y^f^^^^n
+"BLD",3007,4,"B",2006.575,2006.575)
+
+"BLD",3007,4,"B",2006.598,2006.598)
+
+"BLD",3007,"ABNS",0)
+^9.66A^^
+"BLD",3007,"ABPKG")
+n^y^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3007,"INI")
+UPDATDD^MAGIPS21
+"BLD",3007,"INID")
+^y
+"BLD",3007,"INIT")
+POST^MAGIPS21
+"BLD",3007,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",3007,"KRN",.4,0)
+.4
+"BLD",3007,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",3007,"KRN",.401,0)
+.401
+"BLD",3007,"KRN",.402,0)
+.402
+"BLD",3007,"KRN",.403,0)
+.403
+"BLD",3007,"KRN",.5,0)
+.5
+"BLD",3007,"KRN",.84,0)
+.84
+"BLD",3007,"KRN",3.6,0)
+3.6
+"BLD",3007,"KRN",3.8,0)
+3.8
+"BLD",3007,"KRN",9.2,0)
+9.2
+"BLD",3007,"KRN",9.8,0)
+9.8
+"BLD",3007,"KRN",9.8,"NM",0)
+^9.68A^3^3
+"BLD",3007,"KRN",9.8,"NM",1,0)
+MAGGSIA^^0^B18270026
+"BLD",3007,"KRN",9.8,"NM",2,0)
+MAGGTIA1^^0^B20491259
+"BLD",3007,"KRN",9.8,"NM",3,0)
+MAGDLB6^^0^B5513569
+"BLD",3007,"KRN",9.8,"NM","B","MAGDLB6",3)
+
+"BLD",3007,"KRN",9.8,"NM","B","MAGGSIA",1)
+
+"BLD",3007,"KRN",9.8,"NM","B","MAGGTIA1",2)
+
+"BLD",3007,"KRN",19,0)
+19
+"BLD",3007,"KRN",19.1,0)
+19.1
+"BLD",3007,"KRN",101,0)
+101
+"BLD",3007,"KRN",409.61,0)
+409.61
+"BLD",3007,"KRN",771,0)
+771
+"BLD",3007,"KRN",870,0)
+870
+"BLD",3007,"KRN",8989.51,0)
+8989.51
+"BLD",3007,"KRN",8989.52,0)
+8989.52
+"BLD",3007,"KRN",8994,0)
+8994
+"BLD",3007,"KRN","B",.4,.4)
+
+"BLD",3007,"KRN","B",.401,.401)
+
+"BLD",3007,"KRN","B",.402,.402)
+
+"BLD",3007,"KRN","B",.403,.403)
+
+"BLD",3007,"KRN","B",.5,.5)
+
+"BLD",3007,"KRN","B",.84,.84)
+
+"BLD",3007,"KRN","B",3.6,3.6)
+
+"BLD",3007,"KRN","B",3.8,3.8)
+
+"BLD",3007,"KRN","B",9.2,9.2)
+
+"BLD",3007,"KRN","B",9.8,9.8)
+
+"BLD",3007,"KRN","B",19,19)
+
+"BLD",3007,"KRN","B",19.1,19.1)
+
+"BLD",3007,"KRN","B",101,101)
+
+"BLD",3007,"KRN","B",409.61,409.61)
+
+"BLD",3007,"KRN","B",771,771)
+
+"BLD",3007,"KRN","B",870,870)
+
+"BLD",3007,"KRN","B",8989.51,8989.51)
+
+"BLD",3007,"KRN","B",8989.52,8989.52)
+
+"BLD",3007,"KRN","B",8994,8994)
+
+"BLD",3007,"QUES",0)
+^9.62^^
+"BLD",3007,"REQB",0)
+^9.611^2^2
+"BLD",3007,"REQB",1,0)
+MAG*3.0*1^2
+"BLD",3007,"REQB",2,0)
+MAG*3.0*7^2
+"BLD",3007,"REQB","B","MAG*3.0*1",1)
+
+"BLD",3007,"REQB","B","MAG*3.0*7",2)
+
+"FIA",2006.575)
+DICOM FAILED IMAGES
+"FIA",2006.575,0)
+^MAGD(2006.575,
+"FIA",2006.575,0,0)
+2006.575
+"FIA",2006.575,0,1)
+y^y^f^^^^n
+"FIA",2006.575,0,10)
+
+"FIA",2006.575,0,11)
+
+"FIA",2006.575,0,"RLRO")
+
+"FIA",2006.575,0,"VR")
+3.0^MAG
+"FIA",2006.575,2006.575)
+0
+"FIA",2006.575,2006.57526)
+0
+"FIA",2006.598)
+DICOM ERROR MESSAGE QUEUE
+"FIA",2006.598,0)
+^MAGDICOM(2006.598,
+"FIA",2006.598,0,0)
+2006.598
+"FIA",2006.598,0,1)
+y^y^f^^^^n
+"FIA",2006.598,0,10)
+
+"FIA",2006.598,0,11)
+
+"FIA",2006.598,0,"RLRO")
+
+"FIA",2006.598,0,"VR")
+3.0^MAG
+"FIA",2006.598,2006.598)
+0
+"FIA",2006.598,2006.5985)
+0
+"FIA",2006.598,2006.5986)
+0
+"INI")
+UPDATDD^MAGIPS21
+"INIT")
+POST^MAGIPS21
+"MBREQ")
+0
+"PKG",481,-1)
+1^1
+"PKG",481,0)
+IMAGING^MAG^VistA Imaging
+"PKG",481,20,0)
+^9.402P^^
+"PKG",481,22,0)
+^9.49I^1^1
+"PKG",481,22,1,0)
+3.0^3020319^3020821^133
+"PKG",481,22,1,"PAH",1,0)
+21^3031020^133
+"PKG",481,22,1,"PAH",1,1,0)
+^^10^10^3031020
+"PKG",481,22,1,"PAH",1,1,1,0)
+Miscellaneous fixes
+"PKG",481,22,1,"PAH",1,1,2,0)
+ 
+"PKG",481,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",481,22,1,"PAH",1,1,4,0)
+MAGDLB6   value = 3354488
+"PKG",481,22,1,"PAH",1,1,5,0)
+MAGGSIA   value = 5811759
+"PKG",481,22,1,"PAH",1,1,6,0)
+MAGGTIA1  value = 6825885
+"PKG",481,22,1,"PAH",1,1,7,0)
+MAGIPS21  value = 2652995
+"PKG",481,22,1,"PAH",1,1,8,0)
+ 
+"PKG",481,22,1,"PAH",1,1,9,0)
+Routine MAGIPS21 is a pre- and post-install routine.  It is deleted at the
+"PKG",481,22,1,"PAH",1,1,10,0)
+end of installation.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+4
+"RTN","MAGDLB6")
+0^3^B5513569
+"RTN","MAGDLB6",1,0)
+MAGDLB6 ;WOIFO/LB - DICOM file utilities ; 03 Sep 2003  2:45 PM
+"RTN","MAGDLB6",2,0)
+ ;;3.0;IMAGING;**21**;Sep 4, 2003
+"RTN","MAGDLB6",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDLB6",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDLB6",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDLB6",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDLB6",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDLB6",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDLB6",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDLB6",10,0)
+ ;; |                                                               |
+"RTN","MAGDLB6",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDLB6",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDLB6",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDLB6",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDLB6",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDLB6",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDLB6",17,0)
+ ;;
+"RTN","MAGDLB6",18,0)
+ Q
+"RTN","MAGDLB6",19,0)
+XREF ;set xref for field 9 - study uid
+"RTN","MAGDLB6",20,0)
+ N ORIG,PREX,PREDA
+"RTN","MAGDLB6",21,0)
+ S PREX=X
+"RTN","MAGDLB6",22,0)
+ I '$D(^MAGD(2006.575,"F",X)) D  Q
+"RTN","MAGDLB6",23,0)
+ . S ^MAGD(2006.575,"F",X,DA)=""
+"RTN","MAGDLB6",24,0)
+ S ORIG=$O(^MAGD(2006.575,"F",X,0))
+"RTN","MAGDLB6",25,0)
+ Q:'$D(^MAGD(2006.575,ORIG,0))   ;NO LONGER AN ENTRY
+"RTN","MAGDLB6",26,0)
+ S PREDA=DA D ADD
+"RTN","MAGDLB6",27,0)
+ S DA=PREDA,X=PREX
+"RTN","MAGDLB6",28,0)
+ Q
+"RTN","MAGDLB6",29,0)
+ADD ;
+"RTN","MAGDLB6",30,0)
+ N DA,DIE,DIC,DD,D0,X,Y
+"RTN","MAGDLB6",31,0)
+ S DIC="^MAGD(2006.575,"_ORIG_",""RLATE"","
+"RTN","MAGDLB6",32,0)
+ S DIC(0)="L"
+"RTN","MAGDLB6",33,0)
+ S DA(1)=ORIG,X=PREDA
+"RTN","MAGDLB6",34,0)
+ K DD D FILE^DICN
+"RTN","MAGDLB6",35,0)
+ I Y=-1 D EN^DDIOL("NOT FILED","","!")
+"RTN","MAGDLB6",36,0)
+ Q
+"RTN","MAGDLB6",37,0)
+FIXRF ;set xref for field 16 - fixed flag  - will incorporate the machine id
+"RTN","MAGDLB6",38,0)
+ ;machine id is for multiple machines being used processing images from
+"RTN","MAGDLB6",39,0)
+ ;xray modalities
+"RTN","MAGDLB6",40,0)
+ Q:'DA
+"RTN","MAGDLB6",41,0)
+ N MACH,STUDY
+"RTN","MAGDLB6",42,0)
+ S MACH=$P($G(^MAGD(2006.575,DA,1)),"^",4)
+"RTN","MAGDLB6",43,0)
+ S MACH=$S(MACH="":"A",1:MACH)    ;Use until peter sets his side up.
+"RTN","MAGDLB6",44,0)
+ S STUDY=$G(^MAGD(2006.575,DA,"ASUID"))
+"RTN","MAGDLB6",45,0)
+ Q:'$L(STUDY)      ;
+"RTN","MAGDLB6",46,0)
+ I '$D(^MAGD(2006.575,"F",STUDY,DA)) Q     ;Only unique study set this xref
+"RTN","MAGDLB6",47,0)
+ S ^MAGD(2006.575,"AFX",MACH,DA)=""
+"RTN","MAGDLB6",48,0)
+ Q
+"RTN","MAGGSIA")
+0^1^B18270026
+"RTN","MAGGSIA",1,0)
+MAGGSIA ;WOIFO/GEK - Imaging RPC Broker calls. Add/Modify Image entry ; 02 Sep 2003  4:02 PM
+"RTN","MAGGSIA",2,0)
+ ;;3.0;IMAGING;**7,21**;Sep 4, 2003
+"RTN","MAGGSIA",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIA",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGSIA",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGSIA",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGSIA",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGSIA",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGSIA",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGSIA",10,0)
+ ;; |                                                               |
+"RTN","MAGGSIA",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGSIA",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGSIA",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGSIA",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGSIA",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGSIA",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIA",17,0)
+ ;;
+"RTN","MAGGSIA",18,0)
+ Q
+"RTN","MAGGSIA",19,0)
+ ;
+"RTN","MAGGSIA",20,0)
+ ;**** CALLING ROUTINE is responsible for RENAMING THE IMAGE FILE
+"RTN","MAGGSIA",21,0)
+ ;**** on DISK TO THE NEW FILE NAME RETURNED BY THIS CALL.
+"RTN","MAGGSIA",22,0)
+ ;
+"RTN","MAGGSIA",23,0)
+ADD(MAGRY,MAGARRAY) ; RPC Call to UPDATE^DIE to Add an Image File entry
+"RTN","MAGGSIA",24,0)
+ ;  Parameters : 
+"RTN","MAGGSIA",25,0)
+ ;    MAGARRAY -  array of field numbers and their entries
+"RTN","MAGGSIA",26,0)
+ ;             i.e. MAGARRAY(1)=".5^38"  field# .5   data is 38
+"RTN","MAGGSIA",27,0)
+ ;    If Long Description is included in array (field 11), we create a new
+"RTN","MAGGSIA",28,0)
+ ;      array to hold the text, and pass that to UPDATE^DIE
+"RTN","MAGGSIA",29,0)
+ ;    If this entry is an Image Group
+"RTN","MAGGSIA",30,0)
+ ;      i.e. MAGARRAY(n)="2005.04^344"
+"RTN","MAGGSIA",31,0)
+ ;      (the field 2005.04 is the OBJECT GROUP MULTIPLE)
+"RTN","MAGGSIA",32,0)
+ ;      ( 344 is the pointer to the Image File Entry that will be added
+"RTN","MAGGSIA",33,0)
+ ;      ( as a member of this new/existing Group)
+"RTN","MAGGSIA",34,0)
+ ;
+"RTN","MAGGSIA",35,0)
+ ;  Return Variable
+"RTN","MAGGSIA",36,0)
+ ;
+"RTN","MAGGSIA",37,0)
+ ;    MAGRY(0) - Array
+"RTN","MAGGSIA",38,0)
+ ;      Successful   MAGRY(0) = IEN^FILE NAME (with full path)
+"RTN","MAGGSIA",39,0)
+ ;      UNsuccessful MAGRY(0) = 0^Error desc
+"RTN","MAGGSIA",40,0)
+ ;                   MAGRY(0)(1..n) = Errors and warnings. 
+"RTN","MAGGSIA",41,0)
+ ;
+"RTN","MAGGSIA",42,0)
+ ;    CALLING ROUTINE is responsible for RENAMING THE IMAGE FILE on DISK
+"RTN","MAGGSIA",43,0)
+ ;      TO THE NEW FILE NAME RETURNED BY THIS CALL.
+"RTN","MAGGSIA",44,0)
+ ;      Changed to include hierarchial directory hash  - PMK 04/23/98
+"RTN","MAGGSIA",45,0)
+ ;----------------------------------------------------------------
+"RTN","MAGGSIA",46,0)
+ N MAGGFDA,MAGGDRV,MAGGRP,MAGCHLD,GRPCT,MAGGDA,MAGGFNM
+"RTN","MAGGSIA",47,0)
+ N MAGGWP,MAGERR
+"RTN","MAGGSIA",48,0)
+ N MAGREF,MAGDHASH,MAGTEMP
+"RTN","MAGGSIA",49,0)
+ N MAGACT
+"RTN","MAGGSIA",50,0)
+ N MAGGIEN,MAGGXE
+"RTN","MAGGSIA",51,0)
+ N GIEN,DIEN,NEWIEN ;3.0
+"RTN","MAGGSIA",52,0)
+ N I,J,X,Y,Z
+"RTN","MAGGSIA",53,0)
+ ;
+"RTN","MAGGSIA",54,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGGSERR"
+"RTN","MAGGSIA",55,0)
+ I ($D(MAGARRAY)<10) S MAGRY(0)="0^No input data, Operation CANCELED" Q
+"RTN","MAGGSIA",56,0)
+ ;
+"RTN","MAGGSIA",57,0)
+ ;
+"RTN","MAGGSIA",58,0)
+ S MAGRY(0)="0^Creating VistA Image Entry..."
+"RTN","MAGGSIA",59,0)
+ S MAGERR="",MAGGRP=0,GRPCT=1,WPCT=0
+"RTN","MAGGSIA",60,0)
+ ;
+"RTN","MAGGSIA",61,0)
+ ;  Validate the Data, and Action codes in the Input Array
+"RTN","MAGGSIA",62,0)
+ D VAL^MAGGSIV(.MAGRY,.MAGARRAY) I 'MAGRY(0) Q
+"RTN","MAGGSIA",63,0)
+ ;
+"RTN","MAGGSIA",64,0)
+ ;  Make the FileMan FDA array and the Imaging Action array.
+"RTN","MAGGSIA",65,0)
+ D MAKEFDA^MAGGSIU2(.MAGGFDA,.MAGARRAY,.MAGACT,.MAGCHLD,.MAGGRP,.MAGGWP)
+"RTN","MAGGSIA",66,0)
+ M ^TMP("MAGGSIA",$J,"FDA")=MAGGFDA
+"RTN","MAGGSIA",67,0)
+ I '$D(MAGGFDA(2005,"+1,")) S MAGRY(0)="0^No data to file.  Operation CANCELED." Q
+"RTN","MAGGSIA",68,0)
+ ;
+"RTN","MAGGSIA",69,0)
+ ;  Check on some possible problems: required fields, create default values etc.
+"RTN","MAGGSIA",70,0)
+ D PRE^MAGGSIA1(.MAGERR,.MAGGFDA,MAGGRP,.MAGGDRV,.MAGREF) I $L(MAGERR) S MAGRY(0)=MAGERR Q
+"RTN","MAGGSIA",71,0)
+ ;
+"RTN","MAGGSIA",72,0)
+ ; Locking New to Patch 8
+"RTN","MAGGSIA",73,0)
+ S GIEN=$O(^MAG(2005," "),-1)+1
+"RTN","MAGGSIA",74,0)
+ S DIEN=$O(^MAG(2005.1," "),-1)+1
+"RTN","MAGGSIA",75,0)
+ S NEWIEN=$S(GIEN>DIEN:GIEN,1:DIEN)
+"RTN","MAGGSIA",76,0)
+LOCK L +^MAG(2005,NEWIEN):0 E  S NEWIEN=NEWIEN+1 G LOCK
+"RTN","MAGGSIA",77,0)
+ I $D(^MAG(2005,NEWIEN)) L -^MAG(2005,NEWIEN) S NEWIEN=NEWIEN+1 G LOCK
+"RTN","MAGGSIA",78,0)
+ S MAGGIEN(1)=NEWIEN
+"RTN","MAGGSIA",79,0)
+ D UPDATE^DIE("S","MAGGFDA","MAGGIEN","MAGGXE")
+"RTN","MAGGSIA",80,0)
+ L -^MAG(2005,NEWIEN)
+"RTN","MAGGSIA",81,0)
+ ;
+"RTN","MAGGSIA",82,0)
+ ;  ERROR: QUIT
+"RTN","MAGGSIA",83,0)
+ I '$G(MAGGIEN(1)) D  S MAGRY(0)=MAGERR Q
+"RTN","MAGGSIA",84,0)
+ . D CLEAN^DILF
+"RTN","MAGGSIA",85,0)
+ . S MAGERR="0^ERROR Creating new Image File Entry "
+"RTN","MAGGSIA",86,0)
+ . I $D(DIERR) D RTRNERR^MAGGSIU1(.MAGERR)
+"RTN","MAGGSIA",87,0)
+ ;
+"RTN","MAGGSIA",88,0)
+ S MAGGDA=MAGGIEN(1)
+"RTN","MAGGSIA",89,0)
+ ;
+"RTN","MAGGSIA",90,0)
+ D ACTION^MAGGTAU("CAP^"_MAGGFDA(2005,"+1,",5)_"^"_MAGGDA)
+"RTN","MAGGSIA",91,0)
+ ;
+"RTN","MAGGSIA",92,0)
+ ; IF a group, UpDate the GROUP PARENT in each Group Object and QUIT
+"RTN","MAGGSIA",93,0)
+ ;  The Return (MAGRY(0)) will be IEN with NO Filename. Groups don't get Filename
+"RTN","MAGGSIA",94,0)
+ I MAGGRP D UPDCHLD^MAGGSIM(.MAGCHLD,MAGGDA) S MAGRY(0)=MAGGDA_U Q
+"RTN","MAGGSIA",95,0)
+ ;
+"RTN","MAGGSIA",96,0)
+ ; ENTRY in Image File has been made, if any errors from here on
+"RTN","MAGGSIA",97,0)
+ ;  then we have to delete the image entry.
+"RTN","MAGGSIA",98,0)
+ ; New Index Field Check.  If this entry doesn't have the Index fields introduced
+"RTN","MAGGSIA",99,0)
+ ;   in 3.0.8 then we use the Patch 17 conversion API call to generate default values.
+"RTN","MAGGSIA",100,0)
+ ;-This is being deferred to a later patch.
+"RTN","MAGGSIA",101,0)
+ ;-I '$D(^MAG(2005,MAGGDA,40)) D
+"RTN","MAGGSIA",102,0)
+ ;-. D ONE^MAGSCNVI(MAGGDA)
+"RTN","MAGGSIA",103,0)
+ ;-. D ACTION^MAGGTAU("DFTINDX^"_MAGGFDA(2005,"+1,",5)_"^"_MAGGDA)
+"RTN","MAGGSIA",104,0)
+ ;
+"RTN","MAGGSIA",105,0)
+ ; Now generate the Image FileName. This is passed back to the calling app, 
+"RTN","MAGGSIA",106,0)
+ ;  and the calling app is responsible for renaming/copying the Image File to
+"RTN","MAGGSIA",107,0)
+ ;  this new name. 
+"RTN","MAGGSIA",108,0)
+ I $D(MAGGFDA(2005,"+1,",1)) S MAGGFNM=MAGGFDA(2005,"+1,",1)
+"RTN","MAGGSIA",109,0)
+ E  D  I $L(MAGERR) S MAGRY(0)=MAGERR Q
+"RTN","MAGGSIA",110,0)
+ . N MAGXFDA
+"RTN","MAGGSIA",111,0)
+ . S X=$$DA2NAME^MAGGTU1(MAGGDA,$G(MAGACT("EXT"))) I 'X D  Q
+"RTN","MAGGSIA",112,0)
+ . . S MAGERR=X
+"RTN","MAGGSIA",113,0)
+ . . D KILLENT^MAGGSIU1(MAGGDA)
+"RTN","MAGGSIA",114,0)
+ . ;
+"RTN","MAGGSIA",115,0)
+ . S MAGGFNM=$P(X,U,2),Y=MAGGDA_","
+"RTN","MAGGSIA",116,0)
+ . S MAGXFDA(2005,Y,1)=MAGGFNM
+"RTN","MAGGSIA",117,0)
+ . D UPDATE^DIE("","MAGXFDA","","MAGGXE")
+"RTN","MAGGSIA",118,0)
+ . ;   in case of an error
+"RTN","MAGGSIA",119,0)
+ . I $D(DIERR) D  Q
+"RTN","MAGGSIA",120,0)
+ . . D RTRNERR^MAGGSIU1(.MAGERR,.MAGGXE)
+"RTN","MAGGSIA",121,0)
+ . . D KILLENT^MAGGSIU1(MAGGDA)
+"RTN","MAGGSIA",122,0)
+ ;
+"RTN","MAGGSIA",123,0)
+ ;
+"RTN","MAGGSIA",124,0)
+ ;
+"RTN","MAGGSIA",125,0)
+ ;  IF This image is a member of a Group, Update the Group Entry with new child.
+"RTN","MAGGSIA",126,0)
+ S X=$G(MAGGFDA(2005,"+1,",14)) I +X D  I $L(MAGERR) S MAGRY(0)=MAGERR Q
+"RTN","MAGGSIA",127,0)
+ . D UPDPAR^MAGGSIM(.MAGERR,X,.MAGACT,MAGGDA)        ;
+"RTN","MAGGSIA",128,0)
+ ;
+"RTN","MAGGSIA",129,0)
+ ;** ABS and JB image queues AREN'T SET WHEN ADDING AN IMAGE. 
+"RTN","MAGGSIA",130,0)
+ ;** RPC =-> 'MAG ABSJB' after abstract is/isn't created on the workstation
+"RTN","MAGGSIA",131,0)
+ ;
+"RTN","MAGGSIA",132,0)
+ ;  The Return is:  IEN ^ DRIVE:DIR ^ FILE.EXT [^ DRIVE:DIR ^ FILE.BIG]
+"RTN","MAGGSIA",133,0)
+ ;   i.e  487^C:\IMAGE\^DC000487.TIF
+"RTN","MAGGSIA",134,0)
+ ;  The calling routine is responsible for renaming/naming the file
+"RTN","MAGGSIA",135,0)
+ ;   to the returned DRIVE:\DIR\FILENAME.EXT
+"RTN","MAGGSIA",136,0)
+ ;
+"RTN","MAGGSIA",137,0)
+ ; Modified 4/23/98 to include hierarchial directory structure -- PMK
+"RTN","MAGGSIA",138,0)
+ S MAGDHASH=$$DIRHASH^MAGFILEB(MAGGFNM,MAGREF)
+"RTN","MAGGSIA",139,0)
+ ; For now, BIG files are in same directory as FullRes (or PACS) file
+"RTN","MAGGSIA",140,0)
+ S MAGRY(0)=MAGGDA_U_MAGGDRV_MAGDHASH_U_MAGGFNM
+"RTN","MAGGSIA",141,0)
+ ; If BIG file also, add it's Drive, Hash, Filename to end of Return string.
+"RTN","MAGGSIA",142,0)
+ I $G(MAGACT("BIG")) D
+"RTN","MAGGSIA",143,0)
+ . S X=$P(MAGGFNM,".",1)_".BIG"
+"RTN","MAGGSIA",144,0)
+ . S MAGRY(0)=MAGRY(0)_U_MAGGDRV_MAGDHASH_U_X
+"RTN","MAGGSIA",145,0)
+ ;
+"RTN","MAGGSIA",146,0)
+ D CLEAN^DILF
+"RTN","MAGGSIA",147,0)
+ Q
+"RTN","MAGGTIA1")
+0^2^B20491259
+"RTN","MAGGTIA1",1,0)
+MAGGTIA1 ;WOIFO/GEK - RPC Call to Add Image File entry ; 02 Sep 2003  4:02 PM
+"RTN","MAGGTIA1",2,0)
+ ;;3.0;IMAGING;**21**;Sep 4, 2003
+"RTN","MAGGTIA1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTIA1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGTIA1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGTIA1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGTIA1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGTIA1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGTIA1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGTIA1",10,0)
+ ;; |                                                               |
+"RTN","MAGGTIA1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGTIA1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGTIA1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGTIA1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGTIA1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGTIA1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTIA1",17,0)
+ ;;
+"RTN","MAGGTIA1",18,0)
+ Q
+"RTN","MAGGTIA1",19,0)
+ADD ;Now call Fileman to file the data
+"RTN","MAGGTIA1",20,0)
+ N GIEN,DIEN,NEWIEN
+"RTN","MAGGTIA1",21,0)
+ ;Because we delete the Image node on image deletion, we have to 
+"RTN","MAGGTIA1",22,0)
+ ; check the last entry in Audit File, to see if it is greater than 
+"RTN","MAGGTIA1",23,0)
+ ; last image in Image File.
+"RTN","MAGGTIA1",24,0)
+ I ($O(^MAG(2005,"A"),-1)<$O(^MAG(2005.1,"A"),-1)) S $P(^MAG(2005,0),U,3)=$O(^MAG(2005.1,"A"),-1)
+"RTN","MAGGTIA1",25,0)
+ ;   we know that MAGGIEN WILL contain the internal number.
+"RTN","MAGGTIA1",26,0)
+ ;    after the call.
+"RTN","MAGGTIA1",27,0)
+ ;
+"RTN","MAGGTIA1",28,0)
+ I $G(MAGMOD) D  Q  ; WE'LL QUIT AFTER MODIFICATION
+"RTN","MAGGTIA1",29,0)
+ . D UPDATE^DIE("S","MAGGFDA","MAGGIEN","MAGGXE")
+"RTN","MAGGTIA1",30,0)
+ . S MAGRY="1^OK"
+"RTN","MAGGTIA1",31,0)
+ . ; Now, after UPDATE^DIE, we aren't getting the MAGGIEN array., We'll use MAGMOD
+"RTN","MAGGTIA1",32,0)
+ . D ACTION^MAGGTAU("MOD^"_$P(^MAG(2005,+MAGMOD,0),U,7)_"^"_+$G(MAGMOD)) ; This is the Image IEN
+"RTN","MAGGTIA1",33,0)
+ ;
+"RTN","MAGGTIA1",34,0)
+ ; There are incidents of using an IEN from a deleted image (still)
+"RTN","MAGGTIA1",35,0)
+ ;  these next lines are TESTING for now.  To stop the problem.
+"RTN","MAGGTIA1",36,0)
+ S GIEN=$O(^MAG(2005," "),-1)+1
+"RTN","MAGGTIA1",37,0)
+ S DIEN=$O(^MAG(2005.1," "),-1)+1
+"RTN","MAGGTIA1",38,0)
+ S NEWIEN=$S(GIEN>DIEN:GIEN,1:DIEN)
+"RTN","MAGGTIA1",39,0)
+LOCK L +^MAG(2005,NEWIEN):0 E  S NEWIEN=NEWIEN+1 G LOCK
+"RTN","MAGGTIA1",40,0)
+ I $D(^MAG(2005,NEWIEN)) L -^MAG(2005,NEWIEN) S NEWIEN=NEWIEN+1 G LOCK
+"RTN","MAGGTIA1",41,0)
+ S MAGGIEN(1)=NEWIEN
+"RTN","MAGGTIA1",42,0)
+ D UPDATE^DIE("S","MAGGFDA","MAGGIEN","MAGGXE")
+"RTN","MAGGTIA1",43,0)
+ L -^MAG(2005,NEWIEN)
+"RTN","MAGGTIA1",44,0)
+ ;
+"RTN","MAGGTIA1",45,0)
+ ;
+"RTN","MAGGTIA1",46,0)
+ I '$G(MAGGIEN(1)) D  D CLEAN^DILF S MAGRY=MAGERR Q
+"RTN","MAGGTIA1",47,0)
+ . S MAGERR="0^ERROR Creating new Image File Entry "
+"RTN","MAGGTIA1",48,0)
+ . I $D(DIERR) D RTRNERR(.MAGERR)
+"RTN","MAGGTIA1",49,0)
+ ;
+"RTN","MAGGTIA1",50,0)
+ S MAGGDA=MAGGIEN(1)
+"RTN","MAGGTIA1",51,0)
+ ;
+"RTN","MAGGTIA1",52,0)
+ D ACTION^MAGGTAU("CAP^"_MAGGFDA(2005,"+1,",5)_"^"_MAGGDA)
+"RTN","MAGGTIA1",53,0)
+ ;
+"RTN","MAGGTIA1",54,0)
+ ; IF a group, Modify GROUP PARENT in each Group Object and QUIT
+"RTN","MAGGTIA1",55,0)
+ ;   we'll do this by hand, Else it'll take forever.
+"RTN","MAGGTIA1",56,0)
+ ;   we Return the IEN with NO Filename. Groups don't get Filename
+"RTN","MAGGTIA1",57,0)
+ ;
+"RTN","MAGGTIA1",58,0)
+ I MAGGR S MAGRY=MAGGDA_U,Z="" D  Q
+"RTN","MAGGTIA1",59,0)
+ . F  S Z=$O(MAGGR(Z)) Q:Z=""  S $P(^MAG(2005,Z,0),U,10)=MAGGDA
+"RTN","MAGGTIA1",60,0)
+ ;
+"RTN","MAGGTIA1",61,0)
+ S X=$G(MAGGFDA(2005,"+1,",14)) I +X D
+"RTN","MAGGTIA1",62,0)
+ . ; We're here beceause this image is a member of a Group
+"RTN","MAGGTIA1",63,0)
+ . ;   so we will modify the Group Parent, adding this to it's group
+"RTN","MAGGTIA1",64,0)
+ . ; HERE we will also send the 'Series Number' and 'Image Number' if
+"RTN","MAGGTIA1",65,0)
+ . ; they exist;
+"RTN","MAGGTIA1",66,0)
+ . K MAGGFDA
+"RTN","MAGGTIA1",67,0)
+ . S Y="+2,"_X_","
+"RTN","MAGGTIA1",68,0)
+ . S MAGGFDA(2005.04,Y,.01)=MAGGDA
+"RTN","MAGGTIA1",69,0)
+ . ; GEK 4/4/00 ADDED $L( we were dying on "0"
+"RTN","MAGGTIA1",70,0)
+ . I $L($G(MAGDCMSN)) S MAGGFDA(2005.04,Y,1)=MAGDCMSN
+"RTN","MAGGTIA1",71,0)
+ . I $L($G(MAGDCMIN)) S MAGGFDA(2005.04,Y,2)=MAGDCMIN
+"RTN","MAGGTIA1",72,0)
+ . D UPDATE^DIE("S","MAGGFDA","MAGGIEN","MAGGXE")
+"RTN","MAGGTIA1",73,0)
+ ;
+"RTN","MAGGTIA1",74,0)
+ ;
+"RTN","MAGGTIA1",75,0)
+ ;
+"RTN","MAGGTIA1",76,0)
+ ; now get the Image file name. DOS FILE name
+"RTN","MAGGTIA1",77,0)
+ ; ENTRY in Image File has been made, if any errors from here on
+"RTN","MAGGTIA1",78,0)
+ ;  then we have to delete the image entry.
+"RTN","MAGGTIA1",79,0)
+ I $D(MAGGFDA(2005,"+1,",1)) S MAGGFNM=MAGGFDA(2005,"+1,",1) G C1
+"RTN","MAGGTIA1",80,0)
+ K MAGGFDA
+"RTN","MAGGTIA1",81,0)
+ S X=$$DA2NAME^MAGGTU1(MAGGDA,$G(MAGGEXT)) I 'X D  S MAGRY=MAGERR Q
+"RTN","MAGGTIA1",82,0)
+ . S MAGERR=X
+"RTN","MAGGTIA1",83,0)
+ . D CLEAN^DILF
+"RTN","MAGGTIA1",84,0)
+ . S DA=MAGGDA,DIK="^MAG(2005," D ^DIK
+"RTN","MAGGTIA1",85,0)
+ . K DA,DIC,DIK
+"RTN","MAGGTIA1",86,0)
+ S MAGGFNM=$P(X,U,2),Y=MAGGDA_","
+"RTN","MAGGTIA1",87,0)
+ S MAGGFDA(2005,Y,1)=MAGGFNM
+"RTN","MAGGTIA1",88,0)
+ D UPDATE^DIE("","MAGGFDA","","MAGGXE")
+"RTN","MAGGTIA1",89,0)
+ ;   shouldn't have an error just editing one entry, but just in case.
+"RTN","MAGGTIA1",90,0)
+ I $D(DIERR) D  S MAGRY=MAGERR Q
+"RTN","MAGGTIA1",91,0)
+ . D RTRNERR(.MAGERR)
+"RTN","MAGGTIA1",92,0)
+ . D CLEAN^DILF
+"RTN","MAGGTIA1",93,0)
+ . S DA=MAGGDA,DIK="^MAG(2005," D ^DIK
+"RTN","MAGGTIA1",94,0)
+ . K DA,DIC,DIK
+"RTN","MAGGTIA1",95,0)
+ ;
+"RTN","MAGGTIA1",96,0)
+C1 ; we jump here if we already had a Filename sent
+"RTN","MAGGTIA1",97,0)
+ ;
+"RTN","MAGGTIA1",98,0)
+ K MAGGFDA
+"RTN","MAGGTIA1",99,0)
+ ; New Index Field Check.  If this entry doesn't have the Index fields introduced
+"RTN","MAGGTIA1",100,0)
+ ;   in 3.0.8 then we use the Patch 17 conversion API call to generate default values.
+"RTN","MAGGTIA1",101,0)
+ ;
+"RTN","MAGGTIA1",102,0)
+ ;-This is being deferred to a later patch.
+"RTN","MAGGTIA1",103,0)
+ ;-I '$D(^MAG(2005,MAGGDA,40)) D
+"RTN","MAGGTIA1",104,0)
+ ;-. D ONE^MAGSCNVI(MAGGDA)
+"RTN","MAGGTIA1",105,0)
+ ;-. D ACTION^MAGGTAU("DFTINDX^^"_MAGGDA)
+"RTN","MAGGTIA1",106,0)
+ ;
+"RTN","MAGGTIA1",107,0)
+ ;** ABS and JB image queues AREN'T SET WHEN ADDING AN IMAGE. 
+"RTN","MAGGTIA1",108,0)
+ ;** IT IS DONE IN A SEPERATE CALL 
+"RTN","MAGGTIA1",109,0)
+ ;** RPC =-> 'MAG ABSJB' after abstract is/isn't created on 
+"RTN","MAGGTIA1",110,0)
+ ;**  the workstation
+"RTN","MAGGTIA1",111,0)
+ ;
+"RTN","MAGGTIA1",112,0)
+ ; Queue it to be copied to Jukebox.
+"RTN","MAGGTIA1",113,0)
+ ;        CREATE ABSTRACT
+"RTN","MAGGTIA1",114,0)
+ ; visn15 ADDED $$DA2PLCA to resolve the Image's current PLACE
+"RTN","MAGGTIA1",115,0)
+ I $G(MAGGABS)="YES" S X=$$ABSTRACT^MAGBAPI(MAGGDA)
+"RTN","MAGGTIA1",116,0)
+ ;        RESTORE AFTER GLOBAL SETUP
+"RTN","MAGGTIA1",117,0)
+ I $G(MAGGJB)="YES" S X=$$JUKEBOX^MAGBAPI(MAGGDA)
+"RTN","MAGGTIA1",118,0)
+ ;     Code for setting a Queue to Copy BIG to JUKEBOX
+"RTN","MAGGTIA1",119,0)
+ ; 
+"RTN","MAGGTIA1",120,0)
+ ;  We return the IEN ^ DRIVE:DIR ^ FILE.EXT
+"RTN","MAGGTIA1",121,0)
+ ;   i.e  487^C:\IMAGE\^DC000487.TIF
+"RTN","MAGGTIA1",122,0)
+ ;  The calling routine is responsible for renaming/naming the file
+"RTN","MAGGTIA1",123,0)
+ ;   to the returned DRIVE:\DIR\FILENAME.EXT
+"RTN","MAGGTIA1",124,0)
+ ;  Modified 4/23/98 to include hierarchial directory structure -- PMK
+"RTN","MAGGTIA1",125,0)
+ ;
+"RTN","MAGGTIA1",126,0)
+ S MAGDHASH=$$DIRHASH^MAGFILEB(MAGGFNM,MAGREF)
+"RTN","MAGGTIA1",127,0)
+ S MAGRY=MAGGDA_U_MAGGDRV_MAGDHASH_U_MAGGFNM
+"RTN","MAGGTIA1",128,0)
+ ; For now, BIG files are in same directory as FullRes (or PACS) file
+"RTN","MAGGTIA1",129,0)
+ I $G(MAGBIG) D
+"RTN","MAGGTIA1",130,0)
+ . S X=$P(MAGGFNM,".",1)_".BIG"
+"RTN","MAGGTIA1",131,0)
+ . S MAGRY=MAGRY_U_MAGGDRV_MAGDHASH_U_X
+"RTN","MAGGTIA1",132,0)
+ D CLEAN^DILF
+"RTN","MAGGTIA1",133,0)
+ Q
+"RTN","MAGGTIA1",134,0)
+RTRNERR(ETXT) ; There was error from UPDATE^DIE quit with error text
+"RTN","MAGGTIA1",135,0)
+ S ETXT="0^ERROR  "_MAGGXE("DIERR",1,"TEXT",1)
+"RTN","MAGGTIA1",136,0)
+ Q
+"RTN","MAGGTIA1",137,0)
+ERR ; Error trap
+"RTN","MAGGTIA1",138,0)
+ S MAGRY="0^ERROR "_$$EC^%ZOSV
+"RTN","MAGGTIA1",139,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGGTIA1",140,0)
+ Q
+"RTN","MAGGTIA1",141,0)
+MAKENAME() ; MAGGFDA exists so get info from that.
+"RTN","MAGGTIA1",142,0)
+ ; We'll make NAME (.01)  with PATIENT NAME   SSN
+"RTN","MAGGTIA1",143,0)
+ ; DOCUMENT Imaging was making name of
+"RTN","MAGGTIA1",144,0)
+ ; $E(PATENT NAME,1,10)' '$E(DESC CATEG,1,9)' 'MM/DD/YY   (DOC DATE)
+"RTN","MAGGTIA1",145,0)
+ N Z,ZT,ZNAME,ZSSN,ZDESC
+"RTN","MAGGTIA1",146,0)
+ ; GEK 10/10/2000
+"RTN","MAGGTIA1",147,0)
+ ; Modifying this procedure to make same name for all Image types
+"RTN","MAGGTIA1",148,0)
+ ;  The name will be (first 18 chars of patient Name) _ SSN
+"RTN","MAGGTIA1",149,0)
+ I $D(MAGGFDA(2005,"+1,",10)) S ZDESC=$E(MAGGFDA(2005,"+1,",10),1,30)
+"RTN","MAGGTIA1",150,0)
+ I $D(MAGGFDA(2005,"+1,",5)) D
+"RTN","MAGGTIA1",151,0)
+ . S X=MAGGFDA(2005,"+1,",5)
+"RTN","MAGGTIA1",152,0)
+ . S ZNAME=$P(^DPT(X,0),U),ZSSN=$P(^DPT(X,0),U,9)
+"RTN","MAGGTIA1",153,0)
+ ;
+"RTN","MAGGTIA1",154,0)
+ ; For all Images the name is first 18 characters of patient name 
+"RTN","MAGGTIA1",155,0)
+ ;  concatenated with SSN.  If No patient name is sent, well make
+"RTN","MAGGTIA1",156,0)
+ ;  the name from the short desc.
+"RTN","MAGGTIA1",157,0)
+ I $D(ZNAME) S Z=$E(ZNAME,1,18)_"   "_ZSSN
+"RTN","MAGGTIA1",158,0)
+ E  S Z=ZDESC
+"RTN","MAGGTIA1",159,0)
+ Q Z
+"RTN","MAGIPS21")
+0^^B3668689
+"RTN","MAGIPS21",1,0)
+MAGIPS21 ;Post init routine to queue site activity at install.
+"RTN","MAGIPS21",2,0)
+ ;;3.0;IMAGING;**21**;Sep 4, 2003
+"RTN","MAGIPS21",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS21",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS21",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS21",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS21",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS21",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS21",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS21",10,0)
+ ;; |                                                               |
+"RTN","MAGIPS21",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS21",12,0)
+ ;; | a medical device.  As such, it may not be changed             |
+"RTN","MAGIPS21",13,0)
+ ;; | in any way.  Modifications to this software may result in an  |
+"RTN","MAGIPS21",14,0)
+ ;; | adulterated medical device under 21CFR820, the use of which   |
+"RTN","MAGIPS21",15,0)
+ ;; | is considered to be a violation of US Federal Statutes.       |
+"RTN","MAGIPS21",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS21",17,0)
+ ;;
+"RTN","MAGIPS21",18,0)
+ Q
+"RTN","MAGIPS21",19,0)
+POST ;
+"RTN","MAGIPS21",20,0)
+ ;I $T(POST^MAGQST)="" Q
+"RTN","MAGIPS21",21,0)
+ ;D POST^MAGQST
+"RTN","MAGIPS21",22,0)
+ Q
+"RTN","MAGIPS21",23,0)
+UPDATDD ;
+"RTN","MAGIPS21",24,0)
+ ;Update file 2006.575 with new field and remove extra cross references
+"RTN","MAGIPS21",25,0)
+ ;
+"RTN","MAGIPS21",26,0)
+ N FILE,SNDX S FILE=2006.575
+"RTN","MAGIPS21",27,0)
+ S SNDX="" F  S SNDX=$O(^DD(FILE,"SB",SNDX)) Q:SNDX'?1N.N.".".N  D
+"RTN","MAGIPS21",28,0)
+ . S DIU=SNDX,DIU(0)="S" D EN^DIU2
+"RTN","MAGIPS21",29,0)
+ . Q
+"RTN","MAGIPS21",30,0)
+ S DIU=FILE,DIU("0")="E"
+"RTN","MAGIPS21",31,0)
+ W !,"FILE #",FILE D EN^DIU2
+"RTN","MAGIPS21",32,0)
+ K DIU
+"RTN","MAGIPS21",33,0)
+ Q
+"SEC","^DIC",2006.575,2006.575,0,"AUDIT")
+@
+"SEC","^DIC",2006.575,2006.575,0,"DD")
+@
+"SEC","^DIC",2006.575,2006.575,0,"DEL")
+@
+"SEC","^DIC",2006.575,2006.575,0,"LAYGO")
+@
+"SEC","^DIC",2006.575,2006.575,0,"RD")
+@
+"SEC","^DIC",2006.575,2006.575,0,"WR")
+@
+"SEC","^DIC",2006.598,2006.598,0,"AUDIT")
+@
+"SEC","^DIC",2006.598,2006.598,0,"DD")
+@
+"SEC","^DIC",2006.598,2006.598,0,"DEL")
+@
+"SEC","^DIC",2006.598,2006.598,0,"LAYGO")
+@
+"SEC","^DIC",2006.598,2006.598,0,"RD")
+@
+"SEC","^DIC",2006.598,2006.598,0,"WR")
+@
+"VER")
+8.0^22.0
+"^DD",2006.575,2006.575,0)
+FIELD^^35^35
+"^DD",2006.575,2006.575,0,"DDA")
+N
+"^DD",2006.575,2006.575,0,"DT")
+3030421
+"^DD",2006.575,2006.575,0,"IX","AC",2006.575,16)
+
+"^DD",2006.575,2006.575,0,"IX","B",2006.575,.01)
+
+"^DD",2006.575,2006.575,0,"IX","C",2006.575,10)
+
+"^DD",2006.575,2006.575,0,"IX","D",2006.575,3)
+
+"^DD",2006.575,2006.575,0,"IX","DPAT",2006.575,4)
+
+"^DD",2006.575,2006.575,0,"IX","E",2006.575,2)
+
+"^DD",2006.575,2006.575,0,"IX","F",2006.575,9)
+
+"^DD",2006.575,2006.575,0,"NM","DICOM FAILED IMAGES")
+
+"^DD",2006.575,2006.575,0,"PT",2006.57526,.01)
+
+"^DD",2006.575,2006.575,0,"VRPK")
+MAG
+"^DD",2006.575,2006.575,.01,0)
+FILEPATH^RF^^0;1^K:$L(X)>30!($L(X)<3)!'(X'?1P.E) X
+"^DD",2006.575,2006.575,.01,.1)
+File Path
+"^DD",2006.575,2006.575,.01,1,0)
+^.1
+"^DD",2006.575,2006.575,.01,1,1,0)
+2006.575^B
+"^DD",2006.575,2006.575,.01,1,1,1)
+S ^MAGD(2006.575,"B",$E(X,1,30),DA)=""
+"^DD",2006.575,2006.575,.01,1,1,2)
+K ^MAGD(2006.575,"B",$E(X,1,30),DA)
+"^DD",2006.575,2006.575,.01,3)
+Enter the name of the image file (including directory path).
+"^DD",2006.575,2006.575,.01,21,0)
+^^3^3^3000306^^
+"^DD",2006.575,2006.575,.01,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,.01,21,2,0)
+the name of the image file that failed the matching
+"^DD",2006.575,2006.575,.01,21,3,0)
+process on the local DICOM Image gateway processing the image.
+"^DD",2006.575,2006.575,.01,"DT")
+2970226
+"^DD",2006.575,2006.575,1,0)
+FAILED REASON^S^NO CASE #:No case number;PID ERROR:Could not match patient;UNKNOWN:Any other reason;BAD CASE #:Format error in case number;CANCELLED:Case cancelled;^0;2^Q
+"^DD",2006.575,2006.575,1,.1)
+Reason for Failure
+"^DD",2006.575,2006.575,1,3)
+Enter 'No Case #', 'Bad Case #', 'PID Error' or 'Unknown' or 'Cancelled'.
+"^DD",2006.575,2006.575,1,21,0)
+^^11^11^3030421^
+"^DD",2006.575,2006.575,1,21,1,0)
+The value of this field is a code that indicates the
+"^DD",2006.575,2006.575,1,21,2,0)
+reason why the image file that is described in the
+"^DD",2006.575,2006.575,1,21,3,0)
+current entry could not be matched with a patient
+"^DD",2006.575,2006.575,1,21,4,0)
+and study.
+"^DD",2006.575,2006.575,1,21,5,0)
+ 
+"^DD",2006.575,2006.575,1,21,6,0)
+The possible values for this field are NOCASE#, PATIENT, UNKNOWN or 
+"^DD",2006.575,2006.575,1,21,7,0)
+CANCELLED.
+"^DD",2006.575,2006.575,1,21,8,0)
+ 
+"^DD",2006.575,2006.575,1,21,9,0)
+When the entry is processed the match for the Radiology entry is by
+"^DD",2006.575,2006.575,1,21,10,0)
+case number and then by patient ID. If these entries are not provided
+"^DD",2006.575,2006.575,1,21,11,0)
+correctly then entries are made into this file.
+"^DD",2006.575,2006.575,1,"DT")
+3030421
+"^DD",2006.575,2006.575,2,0)
+PID^F^^0;3^K:$L(X)>12!($L(X)<3) X
+"^DD",2006.575,2006.575,2,.1)
+Patient ID
+"^DD",2006.575,2006.575,2,1,0)
+^.1
+"^DD",2006.575,2006.575,2,1,1,0)
+2006.575^E
+"^DD",2006.575,2006.575,2,1,1,1)
+S ^MAGD(2006.575,"E",$E(X,1,30),DA)=""
+"^DD",2006.575,2006.575,2,1,1,2)
+K ^MAGD(2006.575,"E",$E(X,1,30),DA)
+"^DD",2006.575,2006.575,2,1,1,"DT")
+2970305
+"^DD",2006.575,2006.575,2,3)
+Enter the patient's SSN.
+"^DD",2006.575,2006.575,2,21,0)
+^^11^11^3001006^^
+"^DD",2006.575,2006.575,2,21,1,0)
+The value of this field is the value that is transmitted
+"^DD",2006.575,2006.575,2,21,2,0)
+by the modality for DICOM element 0010,0020.
+"^DD",2006.575,2006.575,2,21,3,0)
+Typically, the value of this field is equal to
+"^DD",2006.575,2006.575,2,21,4,0)
+the Social Security Number of the patient
+"^DD",2006.575,2006.575,2,21,5,0)
+for whom the study is scheduled.
+"^DD",2006.575,2006.575,2,21,6,0)
+(Without the dashes between the number-groups.)
+"^DD",2006.575,2006.575,2,21,7,0)
+ 
+"^DD",2006.575,2006.575,2,21,8,0)
+This value is copied from the VistA Database, so that
+"^DD",2006.575,2006.575,2,21,9,0)
+worklist queries can also be performed when the network
+"^DD",2006.575,2006.575,2,21,10,0)
+connection (DDP) with the main Hospital Information System
+"^DD",2006.575,2006.575,2,21,11,0)
+is not available.
+"^DD",2006.575,2006.575,2,"DT")
+2970305
+"^DD",2006.575,2006.575,3,0)
+PATIENT^F^^0;4^K:$L(X)>35!($L(X)<3) X
+"^DD",2006.575,2006.575,3,.1)
+Patient Name (VA)
+"^DD",2006.575,2006.575,3,1,0)
+^.1^^-1
+"^DD",2006.575,2006.575,3,1,1,0)
+2006.575^D
+"^DD",2006.575,2006.575,3,1,1,1)
+S ^MAGD(2006.575,"D",$E(X,1,30),DA)=""
+"^DD",2006.575,2006.575,3,1,1,2)
+K ^MAGD(2006.575,"D",$E(X,1,30),DA)
+"^DD",2006.575,2006.575,3,1,1,"DT")
+2970305
+"^DD",2006.575,2006.575,3,3)
+Enter the name of the patient.
+"^DD",2006.575,2006.575,3,21,0)
+^^7^7^3000306^^
+"^DD",2006.575,2006.575,3,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,3,21,2,0)
+the name of the patient.
+"^DD",2006.575,2006.575,3,21,3,0)
+ 
+"^DD",2006.575,2006.575,3,21,4,0)
+This value is reformatted as LAST NAME,FIRST NAME MID. The actual
+"^DD",2006.575,2006.575,3,21,5,0)
+name sent by the Radiology modality is in field PNAMEDCM. This field
+"^DD",2006.575,2006.575,3,21,6,0)
+will be used as one of the possible lookups for correction to this
+"^DD",2006.575,2006.575,3,21,7,0)
+entry.
+"^DD",2006.575,2006.575,3,"DT")
+3030421
+"^DD",2006.575,2006.575,4,0)
+PNAMEDCM^F^^0;5^K:$L(X)>35!($L(X)<3) X
+"^DD",2006.575,2006.575,4,.1)
+Patient Name (DICOM)
+"^DD",2006.575,2006.575,4,1,0)
+^.1
+"^DD",2006.575,2006.575,4,1,1,0)
+2006.575^DPAT
+"^DD",2006.575,2006.575,4,1,1,1)
+S ^MAGD(2006.575,"DPAT",$E(X,1,30),DA)=""
+"^DD",2006.575,2006.575,4,1,1,2)
+K ^MAGD(2006.575,"DPAT",$E(X,1,30),DA)
+"^DD",2006.575,2006.575,4,1,1,"DT")
+2970305
+"^DD",2006.575,2006.575,4,3)
+Enter the name of the patient.
+"^DD",2006.575,2006.575,4,21,0)
+^^6^6^3000306^^
+"^DD",2006.575,2006.575,4,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,4,21,2,0)
+the name of the patient.
+"^DD",2006.575,2006.575,4,21,3,0)
+ 
+"^DD",2006.575,2006.575,4,21,4,0)
+This value is copied from the information that was
+"^DD",2006.575,2006.575,4,21,5,0)
+transmitted by the Radiology
+"^DD",2006.575,2006.575,4,21,6,0)
+modality.
+"^DD",2006.575,2006.575,4,"DT")
+2970305
+"^DD",2006.575,2006.575,5,0)
+CASENUMB^F^^1;1^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,5,.1)
+Case Number (Modality)
+"^DD",2006.575,2006.575,5,3)
+Enter the case number.
+"^DD",2006.575,2006.575,5,21,0)
+^^6^6^3000306^^
+"^DD",2006.575,2006.575,5,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,5,21,2,0)
+the case number for the study.
+"^DD",2006.575,2006.575,5,21,3,0)
+ 
+"^DD",2006.575,2006.575,5,21,4,0)
+This value is copied from the information that was
+"^DD",2006.575,2006.575,5,21,5,0)
+transmitted by the Radiology
+"^DD",2006.575,2006.575,5,21,6,0)
+X-Ray equipment.
+"^DD",2006.575,2006.575,5,"DT")
+2970226
+"^DD",2006.575,2006.575,6,0)
+CASE NO.^F^^1;2^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,6,.1)
+Case Number (Technician)
+"^DD",2006.575,2006.575,6,3)
+Enter the case number.
+"^DD",2006.575,2006.575,6,21,0)
+^^8^8^3000306^^
+"^DD",2006.575,2006.575,6,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,6,21,2,0)
+the case number for the study.
+"^DD",2006.575,2006.575,6,21,3,0)
+ 
+"^DD",2006.575,2006.575,6,21,4,0)
+This value is copied from the information that was
+"^DD",2006.575,2006.575,6,21,5,0)
+entered by the technician during the image capture at
+"^DD",2006.575,2006.575,6,21,6,0)
+the Radiology X-Ray modality. This field will usually be empty since the
+"^DD",2006.575,2006.575,6,21,7,0)
+file will contain only entries that failed during the copying of images
+"^DD",2006.575,2006.575,6,21,8,0)
+to the Imaging file.
+"^DD",2006.575,2006.575,6,"DT")
+2970226
+"^DD",2006.575,2006.575,7,0)
+DATE ENTERED^D^^1;3^S %DT="E" D ^%DT S X=Y K:X<1 X
+"^DD",2006.575,2006.575,7,.1)
+Date Entered
+"^DD",2006.575,2006.575,7,3)
+Enter today's date.
+"^DD",2006.575,2006.575,7,21,0)
+^^4^4^3000306^^
+"^DD",2006.575,2006.575,7,21,1,0)
+The value of this field is a date value.
+"^DD",2006.575,2006.575,7,21,2,0)
+ 
+"^DD",2006.575,2006.575,7,21,3,0)
+This value must be an exact date and represents
+"^DD",2006.575,2006.575,7,21,4,0)
+the date on which the entry was made into this file.
+"^DD",2006.575,2006.575,7,"DT")
+2991020
+"^DD",2006.575,2006.575,8,0)
+IMAGE UID^F^^AIUID;1^K:$L(X)>70!($L(X)<1) X
+"^DD",2006.575,2006.575,8,.1)
+Image UID
+"^DD",2006.575,2006.575,8,3)
+Enter the Image UID code.
+"^DD",2006.575,2006.575,8,21,0)
+^^7^7^3000306^^
+"^DD",2006.575,2006.575,8,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,8,21,2,0)
+the Image UID.
+"^DD",2006.575,2006.575,8,21,3,0)
+ 
+"^DD",2006.575,2006.575,8,21,4,0)
+This value is copied from the information that is
+"^DD",2006.575,2006.575,8,21,5,0)
+transmitted by the modality. The Image UID is
+"^DD",2006.575,2006.575,8,21,6,0)
+a unique ID number assigned to the image by the Radiology X-Ray
+"^DD",2006.575,2006.575,8,21,7,0)
+modality.
+"^DD",2006.575,2006.575,8,"DT")
+2970226
+"^DD",2006.575,2006.575,9,0)
+STUDY UID^F^^ASUID;1^K:$L(X)>70!($L(X)<1) X
+"^DD",2006.575,2006.575,9,.1)
+Study UID
+"^DD",2006.575,2006.575,9,1,0)
+^.1^^-1
+"^DD",2006.575,2006.575,9,1,1,0)
+2006.575^F^MUMPS
+"^DD",2006.575,2006.575,9,1,1,1)
+D XREF^MAGDLB6
+"^DD",2006.575,2006.575,9,1,1,2)
+K ^MAGD(2006.575,"F",X,DA)
+"^DD",2006.575,2006.575,9,1,1,"%D",0)
+^.101^2^2^3030903^^
+"^DD",2006.575,2006.575,9,1,1,"%D",1,0)
+This cross-reference indexes failed images by location and study instance 
+"^DD",2006.575,2006.575,9,1,1,"%D",2,0)
+UID.
+"^DD",2006.575,2006.575,9,1,1,"DT")
+3030903
+"^DD",2006.575,2006.575,9,3)
+Enter the Study UID code.
+"^DD",2006.575,2006.575,9,21,0)
+^.001^9^9^3021018^^^
+"^DD",2006.575,2006.575,9,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,9,21,2,0)
+the Study UID.
+"^DD",2006.575,2006.575,9,21,3,0)
+ 
+"^DD",2006.575,2006.575,9,21,4,0)
+This value is copied from the information that is
+"^DD",2006.575,2006.575,9,21,5,0)
+transmitted by the modality. The Image UID is
+"^DD",2006.575,2006.575,9,21,6,0)
+a unique ID number assigned to the image by the Radiology X-Ray
+"^DD",2006.575,2006.575,9,21,7,0)
+modality.
+"^DD",2006.575,2006.575,9,21,8,0)
+A case study will consist of several images, each of which has its
+"^DD",2006.575,2006.575,9,21,9,0)
+own unique Image UID code.
+"^DD",2006.575,2006.575,9,"DT")
+3030903
+"^DD",2006.575,2006.575,10,0)
+INSTRUMENT NAME^F^^AMFG;1^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,10,.1)
+Instrument Name
+"^DD",2006.575,2006.575,10,1,0)
+^.1
+"^DD",2006.575,2006.575,10,1,1,0)
+2006.575^C
+"^DD",2006.575,2006.575,10,1,1,1)
+S ^MAGD(2006.575,"C",$E(X,1,30),DA)=""
+"^DD",2006.575,2006.575,10,1,1,2)
+K ^MAGD(2006.575,"C",$E(X,1,30),DA)
+"^DD",2006.575,2006.575,10,1,1,"DT")
+2970305
+"^DD",2006.575,2006.575,10,3)
+Enter the name of the instrument.
+"^DD",2006.575,2006.575,10,21,0)
+^^5^5^3000306^^
+"^DD",2006.575,2006.575,10,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,10,21,2,0)
+the name of the instrument that produced the image file.
+"^DD",2006.575,2006.575,10,21,3,0)
+ 
+"^DD",2006.575,2006.575,10,21,4,0)
+Typical values for this field are texts like
+"^DD",2006.575,2006.575,10,21,5,0)
+CT1, CT2, CR3, and so forth.
+"^DD",2006.575,2006.575,10,"DT")
+2991210
+"^DD",2006.575,2006.575,11,0)
+ROWS^F^^AMFG;2^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,11,.1)
+Rows
+"^DD",2006.575,2006.575,11,3)
+Enter the number of pixel rows in the image.
+"^DD",2006.575,2006.575,11,21,0)
+^^5^5^3000306^^
+"^DD",2006.575,2006.575,11,21,1,0)
+The value of this field is an integer number that
+"^DD",2006.575,2006.575,11,21,2,0)
+represents the number of pixel rows in the image.
+"^DD",2006.575,2006.575,11,21,3,0)
+ 
+"^DD",2006.575,2006.575,11,21,4,0)
+This value is copied from the information that is
+"^DD",2006.575,2006.575,11,21,5,0)
+transmitted by the Radiology modality.
+"^DD",2006.575,2006.575,11,"DT")
+2970226
+"^DD",2006.575,2006.575,12,0)
+COLUMNS^F^^AMFG;3^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,12,.1)
+Columns
+"^DD",2006.575,2006.575,12,3)
+Enter the number of pixel columns in the image.
+"^DD",2006.575,2006.575,12,21,0)
+^^5^5^3000306^^
+"^DD",2006.575,2006.575,12,21,1,0)
+The value of this field is an integer number that
+"^DD",2006.575,2006.575,12,21,2,0)
+represents the number of pixel columns in the image.
+"^DD",2006.575,2006.575,12,21,3,0)
+ 
+"^DD",2006.575,2006.575,12,21,4,0)
+This value is copied from the information that is
+"^DD",2006.575,2006.575,12,21,5,0)
+transmitted by the Radiology modality.
+"^DD",2006.575,2006.575,12,"DT")
+2970226
+"^DD",2006.575,2006.575,13,0)
+OFFSET^F^^AMFG;4^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,13,.1)
+Offset
+"^DD",2006.575,2006.575,13,3)
+Enter the byte address where the image data begins.
+"^DD",2006.575,2006.575,13,21,0)
+^^6^6^3000306^^
+"^DD",2006.575,2006.575,13,21,1,0)
+The value of this field is an integer number that
+"^DD",2006.575,2006.575,13,21,2,0)
+represents the byte address in the image file where
+"^DD",2006.575,2006.575,13,21,3,0)
+the image data begins.
+"^DD",2006.575,2006.575,13,21,4,0)
+ 
+"^DD",2006.575,2006.575,13,21,5,0)
+This value is copied from the information that is
+"^DD",2006.575,2006.575,13,21,6,0)
+transmitted by the Radiology modality.
+"^DD",2006.575,2006.575,13,"DT")
+2970226
+"^DD",2006.575,2006.575,14,0)
+MODIEN^F^^AMFG;5^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,14,.1)
+Modien
+"^DD",2006.575,2006.575,14,3)
+Identify the modality.
+"^DD",2006.575,2006.575,14,21,0)
+^^5^5^3000306^^
+"^DD",2006.575,2006.575,14,21,1,0)
+The value of this field is a pointer to the Modality
+"^DD",2006.575,2006.575,14,21,2,0)
+file (# 2006.582, stored in ^MAGDICOM(2006.582,...).
+"^DD",2006.575,2006.575,14,21,3,0)
+ 
+"^DD",2006.575,2006.575,14,21,4,0)
+This value identifies the modality (type of instrument)
+"^DD",2006.575,2006.575,14,21,5,0)
+that transmitted the image file.
+"^DD",2006.575,2006.575,14,"DT")
+2970226
+"^DD",2006.575,2006.575,16,0)
+FIXED^S^1:YES;^FIXD;1^Q
+"^DD",2006.575,2006.575,16,.1)
+Fixed
+"^DD",2006.575,2006.575,16,1,0)
+^.1
+"^DD",2006.575,2006.575,16,1,1,0)
+2006.575^AC^MUMPS
+"^DD",2006.575,2006.575,16,1,1,1)
+D FIXRF^MAGDLB6
+"^DD",2006.575,2006.575,16,1,1,2)
+K ^MAGD(2006.575,"AFX",DA)
+"^DD",2006.575,2006.575,16,1,1,"%D",0)
+^^6^6^2990323^^
+"^DD",2006.575,2006.575,16,1,1,"%D",1,0)
+This cross-reference will be setup for entries that have been corrected.
+"^DD",2006.575,2006.575,16,1,1,"%D",2,0)
+The routine to correct the entries loops thru the "F" cross-reference
+"^DD",2006.575,2006.575,16,1,1,"%D",3,0)
+and only updates those entries.  The "F" cross-reference is by unique
+"^DD",2006.575,2006.575,16,1,1,"%D",4,0)
+study ids.
+"^DD",2006.575,2006.575,16,1,1,"%D",5,0)
+This cross-reference will be used to loop thru and process these
+"^DD",2006.575,2006.575,16,1,1,"%D",6,0)
+entries before processing the entries from the x-ray modalities.
+"^DD",2006.575,2006.575,16,1,1,"DT")
+2970311
+"^DD",2006.575,2006.575,16,3)
+Identify whether or not this entry has been corrected.
+"^DD",2006.575,2006.575,16,21,0)
+^^12^12^3000306^^
+"^DD",2006.575,2006.575,16,21,1,0)
+The value of this field is a code that identifies
+"^DD",2006.575,2006.575,16,21,2,0)
+whether or not the problem that is reported in the
+"^DD",2006.575,2006.575,16,21,3,0)
+current entry has been corrected.
+"^DD",2006.575,2006.575,16,21,4,0)
+ 
+"^DD",2006.575,2006.575,16,21,5,0)
+Entries are corrected in this file using either of
+"^DD",2006.575,2006.575,16,21,6,0)
+the menu options
+"^DD",2006.575,2006.575,16,21,7,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,16,21,8,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,16,21,9,0)
+ 
+"^DD",2006.575,2006.575,16,21,10,0)
+When the entry is
+"^DD",2006.575,2006.575,16,21,11,0)
+manually matched with a patient and procedure the correction routine will
+"^DD",2006.575,2006.575,16,21,12,0)
+update this field.
+"^DD",2006.575,2006.575,16,23,0)
+^^2^2^3000216^
+"^DD",2006.575,2006.575,16,23,1,0)
+This field creates a cross reference used by the DICOM Image server to know
+"^DD",2006.575,2006.575,16,23,2,0)
+which entries are ready for re-processing. 
+"^DD",2006.575,2006.575,16,"DT")
+2970311
+"^DD",2006.575,2006.575,17,0)
+NEWDFN^F^^FIXD;2^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,17,.1)
+New DFN
+"^DD",2006.575,2006.575,17,3)
+Identify the patient.
+"^DD",2006.575,2006.575,17,21,0)
+^^8^8^3000306^^
+"^DD",2006.575,2006.575,17,21,1,0)
+The value of this field is a pointer to the Patient
+"^DD",2006.575,2006.575,17,21,2,0)
+file (# 2, stored in ^DPT(...).
+"^DD",2006.575,2006.575,17,21,3,0)
+ 
+"^DD",2006.575,2006.575,17,21,4,0)
+This value identifies the (new) patient, and is
+"^DD",2006.575,2006.575,17,21,5,0)
+defined using either of
+"^DD",2006.575,2006.575,17,21,6,0)
+the menu options
+"^DD",2006.575,2006.575,17,21,7,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,17,21,8,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,17,"DT")
+2970226
+"^DD",2006.575,2006.575,18,0)
+NEWNME^F^^FIXD;3^K:$L(X)>35!($L(X)<1) X
+"^DD",2006.575,2006.575,18,.1)
+New Name
+"^DD",2006.575,2006.575,18,3)
+Enter the name of the patient.
+"^DD",2006.575,2006.575,18,21,0)
+^^8^8^3000306^^
+"^DD",2006.575,2006.575,18,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,18,21,2,0)
+the name of a patient.
+"^DD",2006.575,2006.575,18,21,3,0)
+ 
+"^DD",2006.575,2006.575,18,21,4,0)
+This value identifies the (new) patient, and is
+"^DD",2006.575,2006.575,18,21,5,0)
+defined using either of
+"^DD",2006.575,2006.575,18,21,6,0)
+the menu options
+"^DD",2006.575,2006.575,18,21,7,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,18,21,8,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,18,"DT")
+2970226
+"^DD",2006.575,2006.575,19,0)
+NEWSSN^F^^FIXD;4^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,19,.1)
+Newssn
+"^DD",2006.575,2006.575,19,3)
+Enter the patient's SSN.
+"^DD",2006.575,2006.575,19,21,0)
+^^8^8^3000306^^
+"^DD",2006.575,2006.575,19,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,19,21,2,0)
+the Social Security Number of a patient.
+"^DD",2006.575,2006.575,19,21,3,0)
+ 
+"^DD",2006.575,2006.575,19,21,4,0)
+This value identifies the (new) patient, and is
+"^DD",2006.575,2006.575,19,21,5,0)
+defined using either of
+"^DD",2006.575,2006.575,19,21,6,0)
+the menu options
+"^DD",2006.575,2006.575,19,21,7,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,19,21,8,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,19,"DT")
+2970226
+"^DD",2006.575,2006.575,20,0)
+NEWCASE NO^F^^FIXD;5^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,20,.1)
+New Case Number
+"^DD",2006.575,2006.575,20,3)
+Enter the case number.
+"^DD",2006.575,2006.575,20,21,0)
+^^8^8^3000306^^
+"^DD",2006.575,2006.575,20,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,20,21,2,0)
+the accession number for a study.
+"^DD",2006.575,2006.575,20,21,3,0)
+ 
+"^DD",2006.575,2006.575,20,21,4,0)
+This value identifies the (new) study, and is
+"^DD",2006.575,2006.575,20,21,5,0)
+defined using either of
+"^DD",2006.575,2006.575,20,21,6,0)
+the menu options
+"^DD",2006.575,2006.575,20,21,7,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,20,21,8,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,20,"DT")
+2970226
+"^DD",2006.575,2006.575,21,0)
+NEW RADTI^F^^FIXD;6^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,21,.1)
+New Reverse Date
+"^DD",2006.575,2006.575,21,3)
+Identify the date/time of the study.
+"^DD",2006.575,2006.575,21,21,0)
+^^12^12^3000306^^
+"^DD",2006.575,2006.575,21,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,21,21,2,0)
+the date and time when the study was executed.
+"^DD",2006.575,2006.575,21,21,3,0)
+ 
+"^DD",2006.575,2006.575,21,21,4,0)
+This value is a 'reverse' date time, as defined by
+"^DD",2006.575,2006.575,21,21,5,0)
+the Radiology software. It is used as the second subscript (RADTI)
+"^DD",2006.575,2006.575,21,21,6,0)
+in references like ^RARPT(RADPT,"DT",RADTI,"P",RACNI
+"^DD",2006.575,2006.575,21,21,7,0)
+ 
+"^DD",2006.575,2006.575,21,21,8,0)
+This value timestamps the (new) study, and is
+"^DD",2006.575,2006.575,21,21,9,0)
+defined using either of
+"^DD",2006.575,2006.575,21,21,10,0)
+the menu options
+"^DD",2006.575,2006.575,21,21,11,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,21,21,12,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,21,"DT")
+2970226
+"^DD",2006.575,2006.575,22,0)
+NEW RACNI^F^^FIXD;7^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,22,.1)
+New Case Number
+"^DD",2006.575,2006.575,22,3)
+Enter the case number.
+"^DD",2006.575,2006.575,22,21,0)
+^^11^11^3000306^^
+"^DD",2006.575,2006.575,22,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,22,21,2,0)
+the case number for the study.
+"^DD",2006.575,2006.575,22,21,3,0)
+ 
+"^DD",2006.575,2006.575,22,21,4,0)
+This value is used as the third subscript (RADCNI)
+"^DD",2006.575,2006.575,22,21,5,0)
+in references like ^RARPT(RADPT,"DT",RADTI,"P",RACNI
+"^DD",2006.575,2006.575,22,21,6,0)
+ 
+"^DD",2006.575,2006.575,22,21,7,0)
+This value identifies the (new) study, and is
+"^DD",2006.575,2006.575,22,21,8,0)
+defined using either of
+"^DD",2006.575,2006.575,22,21,9,0)
+the menu options
+"^DD",2006.575,2006.575,22,21,10,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,22,21,11,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,22,"DT")
+2970226
+"^DD",2006.575,2006.575,23,0)
+DATE/TIME^F^^FIXD;8^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,23,.1)
+Date/Time
+"^DD",2006.575,2006.575,23,3)
+Enter this moment's date and time.
+"^DD",2006.575,2006.575,23,21,0)
+^^7^7^3000306^^
+"^DD",2006.575,2006.575,23,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,23,21,2,0)
+a date/time value.
+"^DD",2006.575,2006.575,23,21,3,0)
+ 
+"^DD",2006.575,2006.575,23,21,4,0)
+This value is copied from the information that was
+"^DD",2006.575,2006.575,23,21,5,0)
+transmitted by the Radiology modality. It is
+"^DD",2006.575,2006.575,23,21,6,0)
+a timestamp for the moment when the image
+"^DD",2006.575,2006.575,23,21,7,0)
+file was processed.
+"^DD",2006.575,2006.575,23,"DT")
+2970226
+"^DD",2006.575,2006.575,24,0)
+NEW PROC IEN^F^^FIXPR;1^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,24,.1)
+New Procedure IEN
+"^DD",2006.575,2006.575,24,3)
+Identify the procedure.
+"^DD",2006.575,2006.575,24,21,0)
+^^8^8^3000306^^
+"^DD",2006.575,2006.575,24,21,1,0)
+The value of this field is a pointer to the
+"^DD",2006.575,2006.575,24,21,2,0)
+Rad/Nuc procedure file (#71, stored in ^RAMIS(71,...).
+"^DD",2006.575,2006.575,24,21,3,0)
+ 
+"^DD",2006.575,2006.575,24,21,4,0)
+This value is an internal entry number, and is
+"^DD",2006.575,2006.575,24,21,5,0)
+defined using either of
+"^DD",2006.575,2006.575,24,21,6,0)
+the menu options
+"^DD",2006.575,2006.575,24,21,7,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,24,21,8,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,24,"DT")
+2970226
+"^DD",2006.575,2006.575,25,0)
+NEW PROCEDURE^F^^FIXPR;2^K:$L(X)>70!($L(X)<1) X
+"^DD",2006.575,2006.575,25,.1)
+New Procedure
+"^DD",2006.575,2006.575,25,3)
+Enter the name of the procedure.
+"^DD",2006.575,2006.575,25,21,0)
+^^9^9^3000306^^
+"^DD",2006.575,2006.575,25,21,1,0)
+This is the new procedure name defined using the MAGD FIX DICOM or MAGD FIX MEDICINE menu option.
+"^DD",2006.575,2006.575,25,21,2,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,25,21,3,0)
+the name of a procedure found in the Rad/Nuc procedure file (#71, stored in ^RAMIS(71,...).
+"^DD",2006.575,2006.575,25,21,4,0)
+ 
+"^DD",2006.575,2006.575,25,21,5,0)
+This value is the name of a procedure, and is
+"^DD",2006.575,2006.575,25,21,6,0)
+defined using either of
+"^DD",2006.575,2006.575,25,21,7,0)
+the menu options
+"^DD",2006.575,2006.575,25,21,8,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,25,21,9,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,25,"DT")
+2970226
+"^DD",2006.575,2006.575,26,0)
+RELATED IMAGES^2006.57526PA^^RLATE;0
+"^DD",2006.575,2006.575,26,21,0)
+^^2^2^3000216^
+"^DD",2006.575,2006.575,26,21,1,0)
+This is the multiple sub-file that repoints to this file.  This sub-file
+"^DD",2006.575,2006.575,26,21,2,0)
+will point to all the related images having the same study instance UID.
+"^DD",2006.575,2006.575,26,23,0)
+^^5^5^3000216^
+"^DD",2006.575,2006.575,26,23,1,0)
+This field creates a cross reference that is used by the DICOM Image
+"^DD",2006.575,2006.575,26,23,2,0)
+gateway to process all images pertaining to one unique study instance UID.
+"^DD",2006.575,2006.575,26,23,3,0)
+ This field also allow the manual correction routines to only
+"^DD",2006.575,2006.575,26,23,4,0)
+prompt/display a single entry needing corrections and will apply the
+"^DD",2006.575,2006.575,26,23,5,0)
+corrections made to all entries in this sub-file.
+"^DD",2006.575,2006.575,27,0)
+MODALITY^F^^AMFG;6^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.575,2006.575,27,.1)
+Modality
+"^DD",2006.575,2006.575,27,3)
+Enter the name of the modality (instrument type).
+"^DD",2006.575,2006.575,27,21,0)
+^^5^5^3000306^^
+"^DD",2006.575,2006.575,27,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,27,21,2,0)
+the name of a modality.
+"^DD",2006.575,2006.575,27,21,3,0)
+ 
+"^DD",2006.575,2006.575,27,21,4,0)
+This value represents the name of the modality
+"^DD",2006.575,2006.575,27,21,5,0)
+(i.e., the type of of instrument) for the images requiring manual correction.
+"^DD",2006.575,2006.575,27,"DT")
+2970305
+"^DD",2006.575,2006.575,28,0)
+MACHINE ID^F^^1;4^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,28,.1)
+Machine ID
+"^DD",2006.575,2006.575,28,3)
+Identify the Image Gateway that received the image file.
+"^DD",2006.575,2006.575,28,21,0)
+^^5^5^3000306^^
+"^DD",2006.575,2006.575,28,21,1,0)
+The value of this field is a code that identifies
+"^DD",2006.575,2006.575,28,21,2,0)
+the VistA DICOM Image Gateway computer that received
+"^DD",2006.575,2006.575,28,21,3,0)
+the image file.
+"^DD",2006.575,2006.575,28,21,4,0)
+ 
+"^DD",2006.575,2006.575,28,21,5,0)
+Such a code is a single alphabetic letter.
+"^DD",2006.575,2006.575,28,"DT")
+2970311
+"^DD",2006.575,2006.575,29,0)
+COMMENT^F^^ACSTXT;1^K:$L(X)>250!($L(X)<2) X
+"^DD",2006.575,2006.575,29,.1)
+Comment
+"^DD",2006.575,2006.575,29,3)
+Enter a comment.
+"^DD",2006.575,2006.575,29,21,0)
+^^7^7^3000306^^
+"^DD",2006.575,2006.575,29,21,1,0)
+The value of this field is a string that represents
+"^DD",2006.575,2006.575,29,21,2,0)
+a comment.
+"^DD",2006.575,2006.575,29,21,3,0)
+ 
+"^DD",2006.575,2006.575,29,21,4,0)
+This value is copied from the information that was
+"^DD",2006.575,2006.575,29,21,5,0)
+transmitted by the Radiology equipment.
+"^DD",2006.575,2006.575,29,21,6,0)
+ 
+"^DD",2006.575,2006.575,29,21,7,0)
+Typically, this value contains the accession number.
+"^DD",2006.575,2006.575,29,"DT")
+2970521
+"^DD",2006.575,2006.575,30,0)
+IMAGE POINTER^NJ11,0^^FIXPR;3^K:+X'=X!(X>99999999999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.575,2006.575,30,.1)
+Image Pointer
+"^DD",2006.575,2006.575,30,3)
+Identify the image.
+"^DD",2006.575,2006.575,30,21,0)
+^^6^6^3000306^^
+"^DD",2006.575,2006.575,30,21,1,0)
+The value of this field is a pointer to the Image
+"^DD",2006.575,2006.575,30,21,2,0)
+file (#2005, stored in ^MAG(2005,...).
+"^DD",2006.575,2006.575,30,21,3,0)
+ 
+"^DD",2006.575,2006.575,30,21,4,0)
+This value identifies the image that is the 'parent'
+"^DD",2006.575,2006.575,30,21,5,0)
+of the group to which the image that is described in
+"^DD",2006.575,2006.575,30,21,6,0)
+this entry belongs.
+"^DD",2006.575,2006.575,30,"DT")
+2980501
+"^DD",2006.575,2006.575,31,0)
+PARENT FILE^NJ10,0^^FIXPR;4^K:+X'=X!(X>9999999999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.575,2006.575,31,.1)
+Parent File
+"^DD",2006.575,2006.575,31,3)
+Identity the parent file.
+"^DD",2006.575,2006.575,31,21,0)
+^^23^23^3000306^^
+"^DD",2006.575,2006.575,31,21,1,0)
+The value of this field is a pointer to the File of
+"^DD",2006.575,2006.575,31,21,2,0)
+Files (#1, stored in ^DIC(...).
+"^DD",2006.575,2006.575,31,21,3,0)
+ 
+"^DD",2006.575,2006.575,31,21,4,0)
+This value identifies the Imaging Parent file that
+"^DD",2006.575,2006.575,31,21,5,0)
+contains the clinical information of which the image
+"^DD",2006.575,2006.575,31,21,6,0)
+file that is described in this entry is a part.
+"^DD",2006.575,2006.575,31,21,7,0)
+ 
+"^DD",2006.575,2006.575,31,21,8,0)
+Possible parent files are:
+"^DD",2006.575,2006.575,31,21,9,0)
+    3.9    MAIL MESSAGE
+"^DD",2006.575,2006.575,31,21,10,0)
+   63      AUTOPSY (MICROSCOPIC)
+"^DD",2006.575,2006.575,31,21,11,0)
+   63.02   ELECTRON MICROSCOPY
+"^DD",2006.575,2006.575,31,21,12,0)
+   63.08   SURGICAL PATHOLOGY
+"^DD",2006.575,2006.575,31,21,13,0)
+   63.09   CYTOLOGY
+"^DD",2006.575,2006.575,31,21,14,0)
+   63.2    AUTOPSY (GROSS)
+"^DD",2006.575,2006.575,31,21,15,0)
+   74      RADIOLOGY
+"^DD",2006.575,2006.575,31,21,16,0)
+  130      SURGERY
+"^DD",2006.575,2006.575,31,21,17,0)
+  691      ECHOCARDIOGRAM
+"^DD",2006.575,2006.575,31,21,18,0)
+  691.1    CARDIAC CATHETERIZATION
+"^DD",2006.575,2006.575,31,21,19,0)
+  691.5    ELECTROCARDIOGRAPHY
+"^DD",2006.575,2006.575,31,21,20,0)
+  694      HEMATOLOGY
+"^DD",2006.575,2006.575,31,21,21,0)
+  699      ENDOSCOPY
+"^DD",2006.575,2006.575,31,21,22,0)
+  699.5    GENERIC MEDICINE
+"^DD",2006.575,2006.575,31,21,23,0)
+ 8925      TIU
+"^DD",2006.575,2006.575,31,"DT")
+2980501
+"^DD",2006.575,2006.575,32,0)
+SERVICE TYPE^F^^TYPE;1^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,32,.1)
+Service Type
+"^DD",2006.575,2006.575,32,3)
+Enter the name of the imaging service.
+"^DD",2006.575,2006.575,32,21,0)
+^^9^9^3000306^^
+"^DD",2006.575,2006.575,32,21,1,0)
+The value of this field is a string that identifies
+"^DD",2006.575,2006.575,32,21,2,0)
+the 'imaging service' that is performed by the
+"^DD",2006.575,2006.575,32,21,3,0)
+instrument that is described in this entry.
+"^DD",2006.575,2006.575,32,21,4,0)
+ 
+"^DD",2006.575,2006.575,32,21,5,0)
+The imaging services are itemized in file 2006.589
+"^DD",2006.575,2006.575,32,21,6,0)
+(stored in ^MAGDICOM(2006.589,...)
+"^DD",2006.575,2006.575,32,21,7,0)
+ 
+"^DD",2006.575,2006.575,32,21,8,0)
+Currently, the only entries in this file are RAD
+"^DD",2006.575,2006.575,32,21,9,0)
+and MED-ENDO.
+"^DD",2006.575,2006.575,32,"DT")
+2980501
+"^DD",2006.575,2006.575,33,0)
+DELETE FLAG^S^1:FILE IS DELETED;^0;6^Q
+"^DD",2006.575,2006.575,33,.1)
+Delete Flag
+"^DD",2006.575,2006.575,33,3)
+Indicate whether or not this file is to be deleted.
+"^DD",2006.575,2006.575,33,21,0)
+^^12^12^3000306^^
+"^DD",2006.575,2006.575,33,21,1,0)
+The value of this field is a code that indicates
+"^DD",2006.575,2006.575,33,21,2,0)
+whether of not the image file that is described
+"^DD",2006.575,2006.575,33,21,3,0)
+in this entry is to be deleted.
+"^DD",2006.575,2006.575,33,21,4,0)
+ 
+"^DD",2006.575,2006.575,33,21,5,0)
+Corrections are made using either of
+"^DD",2006.575,2006.575,33,21,6,0)
+the menu options
+"^DD",2006.575,2006.575,33,21,7,0)
+ MAGD FIX DICOM or
+"^DD",2006.575,2006.575,33,21,8,0)
+ MAGD FIX MEDICINE
+"^DD",2006.575,2006.575,33,21,9,0)
+ 
+"^DD",2006.575,2006.575,33,21,10,0)
+If the images files are for a test patient, then
+"^DD",2006.575,2006.575,33,21,11,0)
+setting this field will not process the images but delete the files from
+"^DD",2006.575,2006.575,33,21,12,0)
+the DICOM Image gateway. 
+"^DD",2006.575,2006.575,33,23,0)
+^^2^2^3000216^^
+"^DD",2006.575,2006.575,33,23,1,0)
+If this field is present, the software on the DICOM Image gateway will
+"^DD",2006.575,2006.575,33,23,2,0)
+not process this image file but will delete it from the IMAGE_IN directory.
+"^DD",2006.575,2006.575,33,"DT")
+3000216
+"^DD",2006.575,2006.575,34,0)
+MANUFACTURER^F^^AMFG;7^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.575,2006.575,34,.1)
+Manufacturer
+"^DD",2006.575,2006.575,34,3)
+Enter the name of the manufacturer of the modality
+"^DD",2006.575,2006.575,34,21,0)
+^^3^3^3000306^^
+"^DD",2006.575,2006.575,34,21,1,0)
+The value of this field is a string that identifies
+"^DD",2006.575,2006.575,34,21,2,0)
+the manufacturer of the instrument that transmitted
+"^DD",2006.575,2006.575,34,21,3,0)
+the images that require manual correction.
+"^DD",2006.575,2006.575,34,"DT")
+2991210
+"^DD",2006.575,2006.575,35,0)
+MODEL^F^^AMFG;8^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.575,2006.575,35,.1)
+Model
+"^DD",2006.575,2006.575,35,3)
+Enter the name of the model of the modality.
+"^DD",2006.575,2006.575,35,21,0)
+^^3^3^3000306^^
+"^DD",2006.575,2006.575,35,21,1,0)
+The value of this field is a string that identifies
+"^DD",2006.575,2006.575,35,21,2,0)
+the model of the instrument that transmitted
+"^DD",2006.575,2006.575,35,21,3,0)
+the images that require manual correction.
+"^DD",2006.575,2006.575,35,"DT")
+2991210
+"^DD",2006.575,2006.57526,0)
+RELATED IMAGES SUB-FIELD^^.01^1
+"^DD",2006.575,2006.57526,0,"DT")
+2970226
+"^DD",2006.575,2006.57526,0,"IX","B",2006.57526,.01)
+
+"^DD",2006.575,2006.57526,0,"NM","RELATED IMAGES")
+
+"^DD",2006.575,2006.57526,0,"UP")
+2006.575
+"^DD",2006.575,2006.57526,.01,0)
+RELATED IMAGES^P2006.575'^MAGD(2006.575,^0;1^Q
+"^DD",2006.575,2006.57526,.01,.1)
+Related Image
+"^DD",2006.575,2006.57526,.01,1,0)
+^.1
+"^DD",2006.575,2006.57526,.01,1,1,0)
+2006.57526^B
+"^DD",2006.575,2006.57526,.01,1,1,1)
+S ^MAGD(2006.575,DA(1),"RLATE","B",$E(X,1,30),DA)=""
+"^DD",2006.575,2006.57526,.01,1,1,2)
+K ^MAGD(2006.575,DA(1),"RLATE","B",$E(X,1,30),DA)
+"^DD",2006.575,2006.57526,.01,3)
+
+"^DD",2006.575,2006.57526,.01,21,0)
+^^7^7^3000306^^
+"^DD",2006.575,2006.57526,.01,21,1,0)
+The value of this field is a pointer to the Image
+"^DD",2006.575,2006.57526,.01,21,2,0)
+file (#2005, stored in ^MAG(2005,...).
+"^DD",2006.575,2006.57526,.01,21,3,0)
+ 
+"^DD",2006.575,2006.57526,.01,21,4,0)
+The entries in this subfile constitute the list of
+"^DD",2006.575,2006.57526,.01,21,5,0)
+all images which have the same unique study UID.
+"^DD",2006.575,2006.57526,.01,21,6,0)
+The first entry made into this subfile will be the parent entry. The next images with
+"^DD",2006.575,2006.57526,.01,21,7,0)
+the same Study UID will be entered as additional entries in this subfile.
+"^DD",2006.575,2006.57526,.01,"DT")
+2970226
+"^DD",2006.598,2006.598,0)
+FIELD^^6^6
+"^DD",2006.598,2006.598,0,"DT")
+3030716
+"^DD",2006.598,2006.598,0,"IX","B",2006.598,.01)
+
+"^DD",2006.598,2006.598,0,"NM","DICOM ERROR MESSAGE QUEUE")
+
+"^DD",2006.598,2006.598,0,"VRPK")
+MAG
+"^DD",2006.598,2006.598,.01,0)
+HEADER^RF^^0;1^K:$L(X)>80!($L(X)<3)!'(X'?1P.E) X
+"^DD",2006.598,2006.598,.01,1,0)
+^.1
+"^DD",2006.598,2006.598,.01,1,1,0)
+2006.598^B
+"^DD",2006.598,2006.598,.01,1,1,1)
+S ^MAGDICOM(2006.598,"B",$E(X,1,30),DA)=""
+"^DD",2006.598,2006.598,.01,1,1,2)
+K ^MAGDICOM(2006.598,"B",$E(X,1,30),DA)
+"^DD",2006.598,2006.598,.01,3)
+Enter a header for the error message.
+"^DD",2006.598,2006.598,.01,21,0)
+^^2^2^3030716^
+"^DD",2006.598,2006.598,.01,21,1,0)
+The value of this field is a string that is used as the header
+"^DD",2006.598,2006.598,.01,21,2,0)
+for the error message.
+"^DD",2006.598,2006.598,.01,"DT")
+3030716
+"^DD",2006.598,2006.598,2,0)
+ROUTINE^F^^1;1^K:$L(X)>8!($L(X)<1) X
+"^DD",2006.598,2006.598,2,3)
+Enter the name of the routine that invoked the error trap.
+"^DD",2006.598,2006.598,2,21,0)
+^^1^1^3030716^
+"^DD",2006.598,2006.598,2,21,1,0)
+The value of this field is a string that identifies a MUMPS routine.
+"^DD",2006.598,2006.598,2,"DT")
+3030716
+"^DD",2006.598,2006.598,3,0)
+IGNORE^S^0:Create error log;1:Ignore error log;^1;2^Q
+"^DD",2006.598,2006.598,3,3)
+Indicate whether or not to create an error log.
+"^DD",2006.598,2006.598,3,21,0)
+^^4^4^3030716^
+"^DD",2006.598,2006.598,3,21,1,0)
+The value of this field is a flag that indicates whether or
+"^DD",2006.598,2006.598,3,21,2,0)
+not an error log is to be produced. When the value of this
+"^DD",2006.598,2006.598,3,21,3,0)
+field is false, an error log is created, otherwise the creation
+"^DD",2006.598,2006.598,3,21,4,0)
+of the error log is ignored.
+"^DD",2006.598,2006.598,3,"DT")
+3030716
+"^DD",2006.598,2006.598,4,0)
+CRITICAL^S^0:Not critical;1:Critical;^1;3^Q
+"^DD",2006.598,2006.598,4,3)
+Indicate whether or not this is a critical error.
+"^DD",2006.598,2006.598,4,21,0)
+^^4^4^3030716^
+"^DD",2006.598,2006.598,4,21,1,0)
+The value of this field is a flag that indicates whether or not
+"^DD",2006.598,2006.598,4,21,2,0)
+the current error is a "critical" one. When an error is
+"^DD",2006.598,2006.598,4,21,3,0)
+"critical", a e-mail message will be transmitted to the
+"^DD",2006.598,2006.598,4,21,4,0)
+Imaging Team in Silver Spring.
+"^DD",2006.598,2006.598,4,"DT")
+3030716
+"^DD",2006.598,2006.598,5,0)
+MESSAGE TEXT^2006.5985^^2;0
+"^DD",2006.598,2006.598,6,0)
+ERROR REPORT^2006.5986A^^3;0
+"^DD",2006.598,2006.5985,0)
+MESSAGE TEXT SUB-FIELD^^.01^1
+"^DD",2006.598,2006.5985,0,"DT")
+3030716
+"^DD",2006.598,2006.5985,0,"IX","B",2006.5985,.01)
+
+"^DD",2006.598,2006.5985,0,"NM","MESSAGE TEXT")
+
+"^DD",2006.598,2006.5985,0,"UP")
+2006.598
+"^DD",2006.598,2006.5985,.01,0)
+MESSAGE TEXT^MF^^0;1^K:$L(X)>240!($L(X)<1) X
+"^DD",2006.598,2006.5985,.01,1,0)
+^.1
+"^DD",2006.598,2006.5985,.01,1,1,0)
+2006.5985^B
+"^DD",2006.598,2006.5985,.01,1,1,1)
+S ^MAGDICOM(2006.598,DA(1),2,"B",$E(X,1,30),DA)=""
+"^DD",2006.598,2006.5985,.01,1,1,2)
+K ^MAGDICOM(2006.598,DA(1),2,"B",$E(X,1,30),DA)
+"^DD",2006.598,2006.5985,.01,3)
+Enter the error message text.
+"^DD",2006.598,2006.5985,.01,21,0)
+^^2^2^3030716^
+"^DD",2006.598,2006.5985,.01,21,1,0)
+The values in this multiple make up the error message that is
+"^DD",2006.598,2006.5985,.01,21,2,0)
+to be transmitted in an e-mail.
+"^DD",2006.598,2006.5985,.01,"DT")
+3030716
+"^DD",2006.598,2006.5986,0)
+ERROR REPORT SUB-FIELD^^.01^1
+"^DD",2006.598,2006.5986,0,"DT")
+3030716
+"^DD",2006.598,2006.5986,0,"IX","B",2006.5986,.01)
+
+"^DD",2006.598,2006.5986,0,"NM","ERROR REPORT")
+
+"^DD",2006.598,2006.5986,0,"UP")
+2006.598
+"^DD",2006.598,2006.5986,.01,0)
+ERROR REPORT^F^^0;1^K:$L(X)>240!($L(X)<1) X
+"^DD",2006.598,2006.5986,.01,1,0)
+^.1
+"^DD",2006.598,2006.5986,.01,1,1,0)
+2006.5986^B
+"^DD",2006.598,2006.5986,.01,1,1,1)
+S ^MAGDICOM(2006.598,DA(1),3,"B",$E(X,1,30),DA)=""
+"^DD",2006.598,2006.5986,.01,1,1,2)
+K ^MAGDICOM(2006.598,DA(1),3,"B",$E(X,1,30),DA)
+"^DD",2006.598,2006.5986,.01,3)
+Enter the reason why the e-mail could not be sent.
+"^DD",2006.598,2006.5986,.01,21,0)
+^^6^6^3030716^
+"^DD",2006.598,2006.5986,.01,21,1,0)
+The value in this field is a text that indicates a reason why
+"^DD",2006.598,2006.5986,.01,21,2,0)
+an e-mail message could not be transmitted.
+"^DD",2006.598,2006.5986,.01,21,3,0)
+ 
+"^DD",2006.598,2006.5986,.01,21,4,0)
+Typical reasons are
+"^DD",2006.598,2006.5986,.01,21,5,0)
+ - could not connect to "post-office"
+"^DD",2006.598,2006.5986,.01,21,6,0)
+ - unexpected MUMPS error in mail-preparation software
+"^DD",2006.598,2006.5986,.01,"DT")
+3030716
+"^DIC",2006.575,2006.575,0)
+DICOM FAILED IMAGES^2006.575
+"^DIC",2006.575,2006.575,0,"GL")
+^MAGD(2006.575,
+"^DIC",2006.575,2006.575,"%",0)
+^1.005^^0
+"^DIC",2006.575,2006.575,"%D",0)
+^^32^32^3010619^
+"^DIC",2006.575,2006.575,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.575,2006.575,"%D",2,0)
+ |                                                               |
+"^DIC",2006.575,2006.575,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.575,2006.575,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.575,2006.575,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.575,2006.575,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.575,2006.575,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.575,2006.575,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.575,2006.575,"%D",9,0)
+ |                                                               |
+"^DIC",2006.575,2006.575,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.575,2006.575,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.575,2006.575,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.575,2006.575,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.575,2006.575,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.575,2006.575,"%D",15,0)
+ |                                                               |
+"^DIC",2006.575,2006.575,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.575,2006.575,"%D",17,0)
+ 
+"^DIC",2006.575,2006.575,"%D",18,0)
+The entries in this table describe image files that were received by the
+"^DIC",2006.575,2006.575,"%D",19,0)
+DICOM Image Gateway, and could not be matched with a patient and an
+"^DIC",2006.575,2006.575,"%D",20,0)
+ordered study.
+"^DIC",2006.575,2006.575,"%D",21,0)
+ 
+"^DIC",2006.575,2006.575,"%D",22,0)
+The MAGD FIX DICOM FILE and MAGD FIX MEDICINE DICOM FILE menu options are
+"^DIC",2006.575,2006.575,"%D",23,0)
+used to update the entries in this file.  The DICOM Image Gateway will
+"^DIC",2006.575,2006.575,"%D",24,0)
+poll this file for corrected entries. The cross reference used to poll
+"^DIC",2006.575,2006.575,"%D",25,0)
+this information is ^MAGD(2006.575,"AFX".
+"^DIC",2006.575,2006.575,"%D",26,0)
+ 
+"^DIC",2006.575,2006.575,"%D",27,0)
+The routine L^MAGDLB1 is used by the above menu options and will loop thru
+"^DIC",2006.575,2006.575,"%D",28,0)
+the following cross reference ^MAGD(2006.575,"F".  This cross reference is
+"^DIC",2006.575,2006.575,"%D",29,0)
+set by the DICOM Study Instance UID; this is a unique number assigned by
+"^DIC",2006.575,2006.575,"%D",30,0)
+modalities (imaging equipment) and is unique by case study.  So it is
+"^DIC",2006.575,2006.575,"%D",31,0)
+possible to have over 20 entries in the file and only one unique "F" cross
+"^DIC",2006.575,2006.575,"%D",32,0)
+reference. 
+"^DIC",2006.575,"B","DICOM FAILED IMAGES",2006.575)
+
+"^DIC",2006.598,2006.598,0)
+DICOM ERROR MESSAGE QUEUE^2006.598
+"^DIC",2006.598,2006.598,0,"GL")
+^MAGDICOM(2006.598,
+"^DIC",2006.598,2006.598,"%D",0)
+^^39^39^3030904^^
+"^DIC",2006.598,2006.598,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.598,2006.598,"%D",2,0)
+ |                                                               |
+"^DIC",2006.598,2006.598,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.598,2006.598,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.598,2006.598,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.598,2006.598,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.598,2006.598,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.598,2006.598,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.598,2006.598,"%D",9,0)
+ |                                                               |
+"^DIC",2006.598,2006.598,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.598,2006.598,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.598,2006.598,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.598,2006.598,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.598,2006.598,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.598,2006.598,"%D",15,0)
+ |                                                               |
+"^DIC",2006.598,2006.598,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.598,2006.598,"%D",17,0)
+ 
+"^DIC",2006.598,2006.598,"%D",18,0)
+As a DICOM Gateway performs its various tasks, there are occasions
+"^DIC",2006.598,2006.598,"%D",19,0)
+where error messages need to be transmitted to remote recipients
+"^DIC",2006.598,2006.598,"%D",20,0)
+(FileMan users and/or mailgroups as well as SMTP mail recipients).
+"^DIC",2006.598,2006.598,"%D",21,0)
+ 
+"^DIC",2006.598,2006.598,"%D",22,0)
+When such a message needs to be transmitted, a new entry is made
+"^DIC",2006.598,2006.598,"%D",23,0)
+into this table, which will contain the message text and some
+"^DIC",2006.598,2006.598,"%D",24,0)
+information about the message. Then an attempt is made to transmit
+"^DIC",2006.598,2006.598,"%D",25,0)
+the message.
+"^DIC",2006.598,2006.598,"%D",26,0)
+When the transmission is successful, the entry is removed from
+"^DIC",2006.598,2006.598,"%D",27,0)
+this table.
+"^DIC",2006.598,2006.598,"%D",28,0)
+ 
+"^DIC",2006.598,2006.598,"%D",29,0)
+When the transmission is not successful (which is likely since
+"^DIC",2006.598,2006.598,"%D",30,0)
+many errors that need to be transmitted have to report some
+"^DIC",2006.598,2006.598,"%D",31,0)
+type of "network failure") the text remains in this table while
+"^DIC",2006.598,2006.598,"%D",32,0)
+the software on the DICOM Gateway can enter its further error
+"^DIC",2006.598,2006.598,"%D",33,0)
+processing.
+"^DIC",2006.598,2006.598,"%D",34,0)
+ 
+"^DIC",2006.598,2006.598,"%D",35,0)
+A supervisory task on the DICOM Gateway scans the content of
+"^DIC",2006.598,2006.598,"%D",36,0)
+this table on a regular basis and will transmit any "left over"
+"^DIC",2006.598,2006.598,"%D",37,0)
+messages.
+"^DIC",2006.598,2006.598,"%D",38,0)
+As soon as a message has been transmitted successfully, its
+"^DIC",2006.598,2006.598,"%D",39,0)
+entry in this table will be removed.
+"^DIC",2006.598,"B","DICOM ERROR MESSAGE QUEUE",2006.598)
+
+**END**
+**END**

@@ -1,0 +1,3346 @@
+KIDS Distribution saved on Sep 22, 2010@14:04:44
+VistA Imaging V3.0 - Patch 98 - 09/22/2010 14:04PM
+**KIDS**:MAG*3.0*98^
+
+**INSTALL NAME**
+MAG*3.0*98
+"BLD",3463,0)
+MAG*3.0*98^IMAGING^0^3100922^y
+"BLD",3463,1,0)
+^^15^15^3100922^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 098 - Storage Site Utilities
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+Routines:
+"BLD",3463,1,5,0)
+MAGDOD01    new value = 50553020
+"BLD",3463,1,6,0)
+MAGGDEV     new value = 10186131
+"BLD",3463,1,7,0)
+MAGIPS98    new value = 3955404
+"BLD",3463,1,8,0)
+MAGSDEL5    new value = 35873021
+"BLD",3463,1,9,0)
+MAGSDOFL    new value = 58680175
+"BLD",3463,1,10,0)
+MAGSFTCH    new value = 159297363
+"BLD",3463,1,11,0)
+MAGSHEC     new value = 11280563
+"BLD",3463,1,12,0)
+MAGUF       new value = 12071947
+"BLD",3463,1,13,0)
+ 
+"BLD",3463,1,14,0)
+Please note that routine MAGIPS98 is deleted after the KIDS Build is
+"BLD",3463,1,15,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^2006.563^1
+"BLD",3463,6.3)
+V3.0p98Build1849_T24
+"BLD",3463,4,2006.563,0)
+2006.563
+"BLD",3463,4,2006.563,2,0)
+^9.641^2006.563^1
+"BLD",3463,4,2006.563,2,2006.563,0)
+DICOM GATEWAY PARAMETER  (File-top level)
+"BLD",3463,4,2006.563,2,2006.563,1,0)
+^9.6411^201^2
+"BLD",3463,4,2006.563,2,2006.563,1,200,0)
+LAST IMAGE SCANNED BY MAGKAT
+"BLD",3463,4,2006.563,2,2006.563,1,201,0)
+MAGKAT SCAN DIRECTION
+"BLD",3463,4,2006.563,222)
+y^y^p^^^^n^^n
+"BLD",3463,4,2006.563,224)
+
+"BLD",3463,4,"APDD",2006.563,2006.563)
+
+"BLD",3463,4,"APDD",2006.563,2006.563)
+
+"BLD",3463,4,"APDD",2006.563,2006.563,200)
+
+"BLD",3463,4,"APDD",2006.563,2006.563,201)
+
+"BLD",3463,4,"B",2006.563,2006.563)
+
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+n^n^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INID")
+n^y^n
+"BLD",3463,"INIT")
+POST^MAGIPS98
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.401,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.402,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",.84,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^7^7
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAGDOD01^^0^B50553020
+"BLD",3463,"KRN",9.8,"NM",2,0)
+MAGGDEV^^0^B10186131
+"BLD",3463,"KRN",9.8,"NM",3,0)
+MAGSDEL5^^0^B35873021
+"BLD",3463,"KRN",9.8,"NM",4,0)
+MAGSDOFL^^0^B58680175
+"BLD",3463,"KRN",9.8,"NM",5,0)
+MAGSFTCH^^0^B159297363
+"BLD",3463,"KRN",9.8,"NM",6,0)
+MAGSHEC^^0^B11280563
+"BLD",3463,"KRN",9.8,"NM",7,0)
+MAGUF^^0^B12071947
+"BLD",3463,"KRN",9.8,"NM","B","MAGDOD01",1)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGGDEV",2)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGSDEL5",3)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGSDOFL",4)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGSFTCH",5)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGSHEC",6)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGUF",7)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^3^3
+"BLD",3463,"KRN",19,"NM",1,0)
+MAG JB OFFLINE^^0
+"BLD",3463,"KRN",19,"NM",2,0)
+MAG UTILITY^^0
+"BLD",3463,"KRN",19,"NM",3,0)
+MAGKAT^^0
+"BLD",3463,"KRN",19,"NM","B","MAG JB OFFLINE",1)
+
+"BLD",3463,"KRN",19,"NM","B","MAG UTILITY",2)
+
+"BLD",3463,"KRN",19,"NM","B","MAGKAT",3)
+
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^1^1
+"BLD",3463,"KRN",19.1,"NM",1,0)
+MAG DOD FIX^^0
+"BLD",3463,"KRN",19.1,"NM","B","MAG DOD FIX",1)
+
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",771,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",870,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.51,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^11^11
+"BLD",3463,"KRN",8994,"NM",1,0)
+MAG FIND IMAGE TEXT FILE^^0
+"BLD",3463,"KRN",8994,"NM",2,0)
+MAG SCAN IMAGE TEXT FILES^^0
+"BLD",3463,"KRN",8994,"NM",3,0)
+MAG STORAGE FETCH^^0
+"BLD",3463,"KRN",8994,"NM",4,0)
+MAG STORAGE FETCH SET^^0
+"BLD",3463,"KRN",8994,"NM",5,0)
+MAG STORE TEXT FILE DETAILS^^0
+"BLD",3463,"KRN",8994,"NM",6,0)
+MAG UTIL BKONLJB^^0
+"BLD",3463,"KRN",8994,"NM",7,0)
+MAG UTIL CLNLOC^^0
+"BLD",3463,"KRN",8994,"NM",8,0)
+MAG UTIL DT2IEN^^0
+"BLD",3463,"KRN",8994,"NM",9,0)
+MAG UTIL GETNETLOC^^0
+"BLD",3463,"KRN",8994,"NM",10,0)
+MAG UTIL JBOFFLN^^0
+"BLD",3463,"KRN",8994,"NM",11,0)
+MAG UTIL LSTOFLJB^^0
+"BLD",3463,"KRN",8994,"NM","B","MAG FIND IMAGE TEXT FILE",1)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG SCAN IMAGE TEXT FILES",2)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG STORAGE FETCH",3)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG STORAGE FETCH SET",4)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG STORE TEXT FILE DETAILS",5)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG UTIL BKONLJB",6)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG UTIL CLNLOC",7)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG UTIL DT2IEN",8)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG UTIL GETNETLOC",9)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG UTIL JBOFFLN",10)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG UTIL LSTOFLJB",11)
+
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"BLD",3463,"REQB",0)
+^9.611^1^1
+"BLD",3463,"REQB",1,0)
+MAG*3.0*81^2
+"BLD",3463,"REQB","B","MAG*3.0*81",1)
+
+"FIA",2006.563)
+DICOM GATEWAY PARAMETER
+"FIA",2006.563,0)
+^MAGDICOM(2006.563,
+"FIA",2006.563,0,0)
+2006.563
+"FIA",2006.563,0,1)
+y^y^p^^^^n^^n
+"FIA",2006.563,0,10)
+
+"FIA",2006.563,0,11)
+
+"FIA",2006.563,0,"RLRO")
+
+"FIA",2006.563,2006.563)
+1
+"FIA",2006.563,2006.563,200)
+
+"FIA",2006.563,2006.563,201)
+
+"INIT")
+POST^MAGIPS98
+"KRN",19,123457,-1)
+0^1
+"KRN",19,123457,0)
+MAG JB OFFLINE^Track Offline Jukebox Images^^R^^^^^^^^IMAGING
+"KRN",19,123457,1,0)
+^19.06^3^3^3050509^^
+"KRN",19,123457,1,1,0)
+Menu option to keep track of images for jukebox platters that have been
+"KRN",19,123457,1,2,0)
+removed.   Use this option when removing full jukebox platters and when
+"KRN",19,123457,1,3,0)
+those platter are placed back on-line.
+"KRN",19,123457,25)
+ENTRY^MAGSDOFL
+"KRN",19,123457,"U")
+TRACK OFFLINE JUKEBOX IMAGES
+"KRN",19,123458,-1)
+0^2
+"KRN",19,123458,0)
+MAG UTILITY^Set Context for MagUtility RPCs^^B^^^^^^^^
+"KRN",19,123458,1,0)
+^^2^2^3090202^
+"KRN",19,123458,1,1,0)
+This option provides a context through that the MagUtility client can access
+"KRN",19,123458,1,2,0)
+the RPCs needed to perform the MagUtility functions.
+"KRN",19,123458,99.1)
+61398,53603
+"KRN",19,123458,"RPC",0)
+^19.05P^16^16
+"KRN",19,123458,"RPC",1,0)
+MAG UTIL BKONLJB
+"KRN",19,123458,"RPC",2,0)
+MAG UTIL CLNLOC
+"KRN",19,123458,"RPC",3,0)
+MAG UTIL DT2IEN
+"KRN",19,123458,"RPC",5,0)
+MAG UTIL JBOFFLN
+"KRN",19,123458,"RPC",6,0)
+MAG UTIL LSTOFLJB
+"KRN",19,123458,"RPC",7,0)
+MAG STORAGE FETCH
+"KRN",19,123458,"RPC",8,0)
+MAG STORAGE FETCH SET
+"KRN",19,123458,"RPC",9,0)
+MAG UTIL GETNETLOC
+"KRN",19,123458,"RPC",10,0)
+XWB GET VARIABLE VALUE
+"KRN",19,123458,"RPC",11,0)
+MAGGUSER2
+"KRN",19,123458,"RPC",12,0)
+MAGGUSERKEYS
+"KRN",19,123458,"RPC",13,0)
+MAGG IMAGE INFO
+"KRN",19,123458,"RPC",14,0)
+MAGQBP UPDATE
+"KRN",19,123458,"RPC",15,0)
+MAGG INSTALL
+"KRN",19,123458,"RPC",16,0)
+MAG4 VERSION STATUS
+"KRN",19,123458,"U")
+SET CONTEXT FOR MAGUTILITY RPC
+"KRN",19,123459,-1)
+0^3
+"KRN",19,123459,0)
+MAGKAT^Set Context for MagKat RPCs^^B^^^^^^^^
+"KRN",19,123459,1,0)
+^19.06^2^2^3090113^^^
+"KRN",19,123459,1,1,0)
+This option provides a context through which the MagKat client can access 
+"KRN",19,123459,1,2,0)
+the RPCs needed to perform the MagKat functions.
+"KRN",19,123459,"RPC",0)
+^19.05P^8^8
+"KRN",19,123459,"RPC",1,0)
+MAG SCAN IMAGE TEXT FILES
+"KRN",19,123459,"RPC",2,0)
+MAGG INSTALL
+"KRN",19,123459,"RPC",3,0)
+MAGGUSER2
+"KRN",19,123459,"RPC",4,0)
+MAG GET NETLOC
+"KRN",19,123459,"RPC",5,0)
+MAG STORE TEXT FILE DETAILS
+"KRN",19,123459,"RPC",6,0)
+MAG4 VERSION STATUS
+"KRN",19,123459,"RPC",7,0)
+MAGGUSERKEYS
+"KRN",19,123459,"RPC",8,0)
+MAG FIND IMAGE TEXT FILE
+"KRN",19,123459,"U")
+SET CONTEXT FOR MAGKAT RPCS
+"KRN",19.1,123460,-1)
+0^1
+"KRN",19.1,123460,0)
+MAG DOD FIX^RetroActive Population Utility^l^n^1
+"KRN",19.1,123460,1,0)
+^19.11^6^6^3100614^^^^
+"KRN",19.1,123460,1,1,0)
+This key gives the holder permission to run the
+"KRN",19.1,123460,1,2,0)
+retro-active database population tool.
+"KRN",19.1,123460,1,3,0)
+This tool reads archived information and populates
+"KRN",19.1,123460,1,4,0)
+fields in the Image Table (#2005) that did not yet exist
+"KRN",19.1,123460,1,5,0)
+in the data dictionary at the time the images in question
+"KRN",19.1,123460,1,6,0)
+were acquired.
+"KRN",8994,123461,-1)
+0^1
+"KRN",8994,123461,0)
+MAG FIND IMAGE TEXT FILE^FINDFIL^MAGDOD01^1^R^0^^0^.1
+"KRN",8994,123461,1,0)
+^8994.01^18^18^3080429^^
+"KRN",8994,123461,1,1,0)
+  +---------------------------------------------------------------+
+"KRN",8994,123461,1,2,0)
+  | Property of the US Government.                                |
+"KRN",8994,123461,1,3,0)
+  | No permission to copy or redistribute this software is given. |
+"KRN",8994,123461,1,4,0)
+  | Use of unreleased versions of this software requires the user |
+"KRN",8994,123461,1,5,0)
+  | to execute a written test agreement with the VistA Imaging    |
+"KRN",8994,123461,1,6,0)
+  | Development Office of the Department of Veterans Affairs,     |
+"KRN",8994,123461,1,7,0)
+  | telephone (301) 734-0100.                                     |
+"KRN",8994,123461,1,8,0)
+  |                                                               |
+"KRN",8994,123461,1,9,0)
+  | The Food and Drug Administration classifies this software as  |
+"KRN",8994,123461,1,10,0)
+  | a medical device.  As such, it may not be changed in any way. |
+"KRN",8994,123461,1,11,0)
+  | Modifications to this software may result in an adulterated   |
+"KRN",8994,123461,1,12,0)
+  | medical device under 21CFR820, the use of which is considered |
+"KRN",8994,123461,1,13,0)
+  | to be a violation of US Federal Statutes.                     |
+"KRN",8994,123461,1,14,0)
+  +---------------------------------------------------------------+
+"KRN",8994,123461,1,15,0)
+ 
+"KRN",8994,123461,1,16,0)
+This Remote Procedure allows the invoking client to use a filename 
+"KRN",8994,123461,1,17,0)
+(without extension) to find the path and nearest location of an image 
+"KRN",8994,123461,1,18,0)
+file.
+"KRN",8994,123461,2,0)
+^8994.02A^1^1
+"KRN",8994,123461,2,1,0)
+FILENAME^1^199^1^1
+"KRN",8994,123461,2,1,1,0)
+^8994.021^2^2^3080429^^
+"KRN",8994,123461,2,1,1,1,0)
+The value of this parameter is the name of an image file, without path or 
+"KRN",8994,123461,2,1,1,2,0)
+extension.
+"KRN",8994,123461,2,"B","FILENAME",1)
+
+"KRN",8994,123461,2,"PARAMSEQ",1,1)
+
+"KRN",8994,123461,3,0)
+^^32^32^3080429^
+"KRN",8994,123461,3,1,0)
+The return value of this remote procedure is a string.
+"KRN",8994,123461,3,2,0)
+ 
+"KRN",8994,123461,3,3,0)
+If the client is not authorized to call this remote procedure,
+"KRN",8994,123461,3,4,0)
+input parameter value is not valid, or the image file is not found,
+"KRN",8994,123461,3,5,0)
+the appropriate string will be returned from the following list in the 
+"KRN",8994,123461,3,6,0)
+second pipe-separated piece of the return value.
+"KRN",8994,123461,3,7,0)
+ 
+"KRN",8994,123461,3,8,0)
+   -12,No permission to call this Remote Procedure
+"KRN",8994,123461,3,9,0)
+   -13,Image has been deleted
+"KRN",8994,123461,3,10,0)
+   -21,Image file name must be specified
+"KRN",8994,123461,3,11,0)
+   -22,Invalid filename format (no control characters allowed)
+"KRN",8994,123461,3,12,0)
+   -23,Image filename not found on VistA
+"KRN",8994,123461,3,13,0)
+ 
+"KRN",8994,123461,3,14,0)
+Otherwise, the first pipe-separated piece of the return value will be the
+"KRN",8994,123461,3,15,0)
+internal entry number of the image found.
+"KRN",8994,123461,3,16,0)
+The second pipe-separated piece will either be the name of the text file
+"KRN",8994,123461,3,17,0)
+for that image, including full path specification, or a negative number.
+"KRN",8994,123461,3,18,0)
+The third pipe-separated piece will be one of the following values,
+"KRN",8994,123461,3,19,0)
+indicating the proximity of the nearest version of the file:
+"KRN",8994,123461,3,20,0)
+   M:  magnetic
+"KRN",8994,123461,3,21,0)
+   W:  WORM (jukebox)
+"KRN",8994,123461,3,22,0)
+   A:  archive
+"KRN",8994,123461,3,23,0)
+   O:  offline
+"KRN",8994,123461,3,24,0)
+   I:  invalid/undeterminable
+"KRN",8994,123461,3,25,0)
+The fourth pipe-separated piece will contain the value D if and only if 
+"KRN",8994,123461,3,26,0)
+there is a possible duplicate file with the same name.
+"KRN",8994,123461,3,27,0)
+The fifth pipe-separated piece will contain the value IQ if and only if 
+"KRN",8994,123461,3,28,0)
+there is a possible integrity problem with the file.
+"KRN",8994,123461,3,29,0)
+The sixth pipe-separated piece will contain 1 if there are any updatable 
+"KRN",8994,123461,3,30,0)
+fields on this image record, 0 otherwise.  Updatable fields include 
+"KRN",8994,123461,3,31,0)
+Series Instance UID, Image Instance UID, Document Date, DICOM Series, 
+"KRN",8994,123461,3,32,0)
+DICOM image number.
+"KRN",8994,123462,-1)
+0^2
+"KRN",8994,123462,0)
+MAG SCAN IMAGE TEXT FILES^SCANIMG^MAGDOD01^1^R^0^^0^3
+"KRN",8994,123462,1,0)
+^8994.01^23^23^3100622^^^^
+"KRN",8994,123462,1,1,0)
+ +---------------------------------------------------------------+
+"KRN",8994,123462,1,2,0)
+ | Property of the US Government.                                |
+"KRN",8994,123462,1,3,0)
+ | No permission to copy or redistribute this software is given. |
+"KRN",8994,123462,1,4,0)
+ | Use of unreleased versions of this software requires the user |
+"KRN",8994,123462,1,5,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"KRN",8994,123462,1,6,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"KRN",8994,123462,1,7,0)
+ | telephone (301) 734-0100.                                     |
+"KRN",8994,123462,1,8,0)
+ |                                                               |
+"KRN",8994,123462,1,9,0)
+ | The Food and Drug Administration classifies this software as  |
+"KRN",8994,123462,1,10,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"KRN",8994,123462,1,11,0)
+ | Modifications to this software may result in an adulterated   |
+"KRN",8994,123462,1,12,0)
+ | medical device under 21CFR820, the use of which is considered |
+"KRN",8994,123462,1,13,0)
+ | to be a violation of US Federal Statutes.                     |
+"KRN",8994,123462,1,14,0)
+ +---------------------------------------------------------------+
+"KRN",8994,123462,1,15,0)
+ 
+"KRN",8994,123462,1,16,0)
+This Remote Procedure assists the client software in traversing
+"KRN",8994,123462,1,17,0)
+the IMAGE file (#2005)
+"KRN",8994,123462,1,18,0)
+The following sub-actions are supported:
+"KRN",8994,123462,1,19,0)
+  Init    - return information to the client about the
+"KRN",8994,123462,1,20,0)
+            current scan-status
+"KRN",8994,123462,1,21,0)
+  Restart - reset internal counters so that the next scan
+"KRN",8994,123462,1,22,0)
+            will re-scan the whole database
+"KRN",8994,123462,1,23,0)
+  Scan    - return the file-name for the next (or previous) image
+"KRN",8994,123462,2,0)
+^8994.02A^3^3
+"KRN",8994,123462,2,1,0)
+ACTION^1^15^1^1
+"KRN",8994,123462,2,1,1,0)
+^^4^4^3061127^
+"KRN",8994,123462,2,1,1,1,0)
+The value of this parameter is a string. This string specifies
+"KRN",8994,123462,2,1,1,2,0)
+the action to be taken by the Remote Procedure.
+"KRN",8994,123462,2,1,1,3,0)
+ 
+"KRN",8994,123462,2,1,1,4,0)
+Possible values are: Init, Restart and Scan.
+"KRN",8994,123462,2,2,0)
+IMAGE^1^20^1^2
+"KRN",8994,123462,2,2,1,0)
+^8994.021^10^10^3100622^^
+"KRN",8994,123462,2,2,1,1,0)
+The value of this parameter is a pointer to the IMAGE file (#2005).
+"KRN",8994,123462,2,2,1,2,0)
+(In order to start a scan, the special values 9 (zero) and " " (space)
+"KRN",8994,123462,2,2,1,3,0)
+are also permitted.)
+"KRN",8994,123462,2,2,1,4,0)
+ 
+"KRN",8994,123462,2,2,1,5,0)
+The value of this parameter indicates the image-number from which
+"KRN",8994,123462,2,2,1,6,0)
+the Remote Procedure is to start its search for the next (or previous)
+"KRN",8994,123462,2,2,1,7,0)
+image.
+"KRN",8994,123462,2,2,1,8,0)
+ 
+"KRN",8994,123462,2,2,1,9,0)
+If image=0 and DIR=1, the first image in the database will be found.
+"KRN",8994,123462,2,2,1,10,0)
+If image=" " and DIR=-1, the last image in the database will be found.
+"KRN",8994,123462,2,3,0)
+DIR^1^5^0^3
+"KRN",8994,123462,2,3,1,0)
+^8994.021^6^6^3100621^^^
+"KRN",8994,123462,2,3,1,1,0)
+The value of this parameter is a number. If the value of this number
+"KRN",8994,123462,2,3,1,2,0)
+is less than zero, the value -1 will be used. Otherwise, the value
+"KRN",8994,123462,2,3,1,3,0)
+1 will be used.
+"KRN",8994,123462,2,3,1,4,0)
+ 
+"KRN",8994,123462,2,3,1,5,0)
+The value of this parameter is used in references to $ORDER to traverse
+"KRN",8994,123462,2,3,1,6,0)
+the IMAGE file (#2005)
+"KRN",8994,123462,2,"B","ACTION",1)
+
+"KRN",8994,123462,2,"B","DIR",3)
+
+"KRN",8994,123462,2,"B","IMAGE",2)
+
+"KRN",8994,123462,2,"PARAMSEQ",1,1)
+
+"KRN",8994,123462,2,"PARAMSEQ",2,2)
+
+"KRN",8994,123462,2,"PARAMSEQ",3,3)
+
+"KRN",8994,123462,3,0)
+^8994.03^16^16^3100622^^^
+"KRN",8994,123462,3,1,0)
+The return value of this remote procedure is a string.
+"KRN",8994,123462,3,2,0)
+ 
+"KRN",8994,123462,3,3,0)
+If the numeric interpretation of this string is a negative number,
+"KRN",8994,123462,3,4,0)
+the value will contain an error message.
+"KRN",8994,123462,3,5,0)
+ 
+"KRN",8994,123462,3,6,0)
+Otherwise, the first comma-separated piece of the return value
+"KRN",8994,123462,3,7,0)
+will be the internal entry number of the image found.
+"KRN",8994,123462,3,8,0)
+The second comma-separated piece will either be the name of
+"KRN",8994,123462,3,9,0)
+the "text" file for that image, or a negative number.
+"KRN",8994,123462,3,10,0)
+The third comma-separated piece will be one of the following values, 
+"KRN",8994,123462,3,11,0)
+indicating the proximity of the nearest version of the file:
+"KRN",8994,123462,3,12,0)
+   M:  magnetic
+"KRN",8994,123462,3,13,0)
+   W:  WORM (jukebox)
+"KRN",8994,123462,3,14,0)
+   A:  archive
+"KRN",8994,123462,3,15,0)
+   O:  offline
+"KRN",8994,123462,3,16,0)
+   I:  invalid/undeterminable
+"KRN",8994,123463,-1)
+0^3
+"KRN",8994,123463,0)
+MAG STORAGE FETCH^FETCH^MAGSFTCH^2
+"KRN",8994,123463,1,0)
+^8994.01^1^1^3100622^^^^
+"KRN",8994,123463,1,1,0)
+This Remote Procedure allows the invoking client to copy or move image files
+"KRN",8994,123463,2,0)
+^8994.02A^3^3
+"KRN",8994,123463,2,1,0)
+MAGIEN^1^30^1
+"KRN",8994,123463,2,1,1,0)
+^8994.021^1^1^3100622^^^
+"KRN",8994,123463,2,1,1,1,0)
+<start IMAGE ien> | <stop IMAGE ien>
+"KRN",8994,123463,2,2,0)
+DATE^1^10^1
+"KRN",8994,123463,2,2,1,0)
+^8994.021^1^1^3100622^^^^
+"KRN",8994,123463,2,2,1,1,0)
+<Start image saved date> | <Stop image saved date>
+"KRN",8994,123463,2,3,0)
+NETLOC^1^30^0
+"KRN",8994,123463,2,3,1,0)
+^^6^6^3100622^
+"KRN",8994,123463,2,3,1,1,0)
+FROM - network location | TO - network location | REMOVE source file 
+"KRN",8994,123463,2,3,1,2,0)
+the first pipe-separated piece of the input value will be the
+"KRN",8994,123463,2,3,1,3,0)
+internal entry number of source NETWORK LOCATION file (#2005.2)
+"KRN",8994,123463,2,3,1,4,0)
+The second pipe-separated piece will be the internal entry number of destination
+"KRN",8994,123463,2,3,1,5,0)
+ NETWORK LOCATION file (#2005.2)
+"KRN",8994,123463,2,3,1,6,0)
+The third pipe-separated piece of input value will be the option for removing source image files (=1)
+"KRN",8994,123463,2,"B","DATE",2)
+
+"KRN",8994,123463,2,"B","MAGIEN",1)
+
+"KRN",8994,123463,2,"B","NETLOC",3)
+
+"KRN",8994,123463,3,0)
+^8994.03^8^8^3100622^^^^
+"KRN",8994,123463,3,1,0)
+OUT is an array 
+"KRN",8994,123463,3,2,0)
+ 
+"KRN",8994,123463,3,3,0)
+OUT(1)= "Ien1: Ien2, copy command line" or "0,Done" or "-1,Error"
+"KRN",8994,123463,3,4,0)
+OUT(2) = DOS command to fetch the image file
+"KRN",8994,123463,3,5,0)
+OUT(n) = DOS command to fetch the image file
+"KRN",8994,123463,3,6,0)
+ 
+"KRN",8994,123463,3,7,0)
+The return value can be in <CODE>,<message>  or <IEN1:IEN2>,<DOS command> format.
+"KRN",8994,123463,3,8,0)
+The invoking client will check the <CODE> then execute <DOS command> 
+"KRN",8994,123464,-1)
+0^4
+"KRN",8994,123464,0)
+MAG STORAGE FETCH SET^SETLOC^MAGSFTCH^2
+"KRN",8994,123464,1,0)
+^8994.01^3^3^3100622^^^^
+"KRN",8994,123464,1,1,0)
+Sets the network location pieces 3 and 4 of the IMAGE file (#2005) 0 node
+"KRN",8994,123464,1,2,0)
+or update the WORM network location reference piece 5 in 0 node,
+"KRN",8994,123464,1,3,0)
+or update the BIG file reference in "FBIG" node.
+"KRN",8994,123464,2,0)
+^8994.02A^2^2
+"KRN",8994,123464,2,1,0)
+MAGIEN^1^10^1
+"KRN",8994,123464,2,1,1,0)
+^^1^1^3041004^
+"KRN",8994,123464,2,1,1,1,0)
+Image IEN
+"KRN",8994,123464,2,2,0)
+NTLOC^1^5^1
+"KRN",8994,123464,2,2,1,0)
+^8994.021^1^1^3100622^^^^
+"KRN",8994,123464,2,2,1,1,0)
+IEN of NETWORK LOCATION file (#2005.2) to be set in IMAGE file (#2005).
+"KRN",8994,123464,2,"B","MAGIEN",1)
+
+"KRN",8994,123464,2,"B","NTLOC",2)
+
+"KRN",8994,123464,3,0)
+^8994.03^4^4^3100622^^^^
+"KRN",8994,123464,3,1,0)
+Array - 
+"KRN",8994,123464,3,2,0)
+   OUT(1) = 1 success
+"KRN",8994,123464,3,3,0)
+            0 no action
+"KRN",8994,123464,3,4,0)
+           -1 error
+"KRN",8994,123465,-1)
+0^5
+"KRN",8994,123465,0)
+MAG STORE TEXT FILE DETAILS^STOREUID^MAGDOD01^1^R^0^^0^3
+"KRN",8994,123465,1,0)
+^8994.01^18^18^3100621^^^^
+"KRN",8994,123465,1,1,0)
+ +---------------------------------------------------------------+
+"KRN",8994,123465,1,2,0)
+ | Property of the US Government.                                |
+"KRN",8994,123465,1,3,0)
+ | No permission to copy or redistribute this software is given. |
+"KRN",8994,123465,1,4,0)
+ | Use of unreleased versions of this software requires the user |
+"KRN",8994,123465,1,5,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"KRN",8994,123465,1,6,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"KRN",8994,123465,1,7,0)
+ | telephone (301) 734-0100.                                     |
+"KRN",8994,123465,1,8,0)
+ |                                                               |
+"KRN",8994,123465,1,9,0)
+ | The Food and Drug Administration classifies this software as  |
+"KRN",8994,123465,1,10,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"KRN",8994,123465,1,11,0)
+ | Modifications to this software may result in an adulterated   |
+"KRN",8994,123465,1,12,0)
+ | medical device under 21CFR820, the use of which is considered |
+"KRN",8994,123465,1,13,0)
+ | to be a violation of US Federal Statutes.                     |
+"KRN",8994,123465,1,14,0)
+ +---------------------------------------------------------------+
+"KRN",8994,123465,1,15,0)
+ 
+"KRN",8994,123465,1,16,0)
+This Remote Procedure updates the information about an image.
+"KRN",8994,123465,1,17,0)
+Specifically, the fields for SERIES UID, SERIES NUMBER and
+"KRN",8994,123465,1,18,0)
+IMAGE NUMBER (sequence within series) may be updated.
+"KRN",8994,123465,2,0)
+^8994.02A^6^6
+"KRN",8994,123465,2,1,0)
+IMAGE^1^20^1^1
+"KRN",8994,123465,2,1,1,0)
+^8994.021^3^3^3100621^^
+"KRN",8994,123465,2,1,1,1,0)
+The value of this parameter is a pointer to the IMAGE file (#2005).
+"KRN",8994,123465,2,1,1,2,0)
+This pointer identifies the image for which information is to be
+"KRN",8994,123465,2,1,1,3,0)
+updated.
+"KRN",8994,123465,2,2,0)
+SERIES^1^64^0^2
+"KRN",8994,123465,2,2,1,0)
+^^5^5^3061127^
+"KRN",8994,123465,2,2,1,1,0)
+The value of this parameter is a string. This string, if non-empty,
+"KRN",8994,123465,2,2,1,2,0)
+is the SERIES UID for the image specified.
+"KRN",8994,123465,2,2,1,3,0)
+ 
+"KRN",8994,123465,2,2,1,4,0)
+The format and meaning of a SERIES UID is specified in the DICOM
+"KRN",8994,123465,2,2,1,5,0)
+standard.
+"KRN",8994,123465,2,3,0)
+SNUM^1^10^0^3
+"KRN",8994,123465,2,3,1,0)
+^^2^2^3061127^
+"KRN",8994,123465,2,3,1,1,0)
+The value of this parameter is either 0 (zero) or a positive integer number.
+"KRN",8994,123465,2,3,1,2,0)
+This number identifies the sequence of a series within a study.
+"KRN",8994,123465,2,4,0)
+INUM^1^10^0^4
+"KRN",8994,123465,2,4,1,0)
+^8994.021^2^2^3070410^^
+"KRN",8994,123465,2,4,1,1,0)
+The value of this parameter is either 0 (zero) or a positive integer number.
+"KRN",8994,123465,2,4,1,2,0)
+This number identifies the sequence of the image within its series.
+"KRN",8994,123465,2,5,0)
+IMGUID^1^64^0^5
+"KRN",8994,123465,2,5,1,0)
+^^4^4^3070410^
+"KRN",8994,123465,2,5,1,1,0)
+The value of this parameter is a string. This string meets the
+"KRN",8994,123465,2,5,1,2,0)
+constraints of a DICOM Unique Identifier.
+"KRN",8994,123465,2,5,1,3,0)
+ 
+"KRN",8994,123465,2,5,1,4,0)
+This identifier uniquely identifies an image.
+"KRN",8994,123465,2,6,0)
+STUID^1^64^0^6
+"KRN",8994,123465,2,6,1,0)
+^8994.021^4^4^3100621^^
+"KRN",8994,123465,2,6,1,1,0)
+The value of this parameter is a string. This string meets the
+"KRN",8994,123465,2,6,1,2,0)
+constraints of a DICOM Unique Identifier.
+"KRN",8994,123465,2,6,1,3,0)
+ 
+"KRN",8994,123465,2,6,1,4,0)
+This identifier uniquely identifies a study.
+"KRN",8994,123465,2,"B","IMAGE",1)
+
+"KRN",8994,123465,2,"B","IMGUID",5)
+
+"KRN",8994,123465,2,"B","INUM",4)
+
+"KRN",8994,123465,2,"B","SERIES",2)
+
+"KRN",8994,123465,2,"B","SNUM",3)
+
+"KRN",8994,123465,2,"B","STUID",6)
+
+"KRN",8994,123465,2,"PARAMSEQ",1,1)
+
+"KRN",8994,123465,2,"PARAMSEQ",2,2)
+
+"KRN",8994,123465,2,"PARAMSEQ",3,3)
+
+"KRN",8994,123465,2,"PARAMSEQ",4,4)
+
+"KRN",8994,123465,2,"PARAMSEQ",5,5)
+
+"KRN",8994,123465,2,"PARAMSEQ",6,6)
+
+"KRN",8994,123465,3,0)
+^8994.03^8^8^3100621^^^^
+"KRN",8994,123465,3,1,0)
+The value of the return parameter is a string.
+"KRN",8994,123465,3,2,0)
+ 
+"KRN",8994,123465,3,3,0)
+When the specified values can be applied to the database, the value
+"KRN",8994,123465,3,4,0)
+will be "0,OK".
+"KRN",8994,123465,3,5,0)
+ 
+"KRN",8994,123465,3,6,0)
+When the specified values cannot be applied to the database, the
+"KRN",8994,123465,3,7,0)
+value will be a negative number, followed by a comma, followed by
+"KRN",8994,123465,3,8,0)
+an error message.
+"KRN",8994,123466,-1)
+0^6
+"KRN",8994,123466,0)
+MAG UTIL BKONLJB^BKONL^MAGSDOFL^2^R
+"KRN",8994,123466,1,0)
+^8994.01^1^1^3100622^^^
+"KRN",8994,123466,1,1,0)
+MAG UTIL BKONLJB - This Remote Procedure is used to track Offline Images. When insert Jukebox Platter, put images back Online stage.
+"KRN",8994,123466,2,0)
+^8994.02A^1^1
+"KRN",8994,123466,2,1,0)
+MAGPLAT^1^15^1
+"KRN",8994,123466,2,1,1,0)
+^8994.021^1^1^3100622^^^
+"KRN",8994,123466,2,1,1,1,0)
+JB PLATTER LABEL(NAME) - UNDER OFFLINE IMAGES FILE (#2006.033)
+"KRN",8994,123466,2,"B","MAGPLAT",1)
+
+"KRN",8994,123466,3,0)
+^8994.03^1^1^3100622^^^
+"KRN",8994,123466,3,1,0)
+0, Done (Total number of file entries set back online)
+"KRN",8994,123467,-1)
+0^7
+"KRN",8994,123467,0)
+MAG UTIL CLNLOC^NETLOC^MAGSDEL5^2^R
+"KRN",8994,123467,1,0)
+^8994.01^13^13^3100622^^^^
+"KRN",8994,123467,1,1,0)
+MAG UTILITY - Delete a Network Location that has no references to images.
+"KRN",8994,123467,1,2,0)
+ Input Parameters
+"KRN",8994,123467,1,3,0)
+   IN : Network Location IEN
+"KRN",8994,123467,1,4,0)
+   PLACE : User SITE PARAMETER IEN   
+"KRN",8994,123467,1,5,0)
+   STEP : IEN range to run - format = <startIEN>#<endIEN>
+"KRN",8994,123467,1,6,0)
+ 
+"KRN",8994,123467,1,7,0)
+ Output Parameter:
+"KRN",8994,123467,1,8,0)
+   OUT : Array of results
+"KRN",8994,123467,1,9,0)
+ 
+"KRN",8994,123467,1,10,0)
+RPC to delete a network location. 
+"KRN",8994,123467,1,11,0)
+If no image files are linked to the 
+"KRN",8994,123467,1,12,0)
+network location, the selected entry will be removed.
+"KRN",8994,123467,1,13,0)
+ 
+"KRN",8994,123467,2,0)
+^8994.02A^3^3
+"KRN",8994,123467,2,1,0)
+IEN^1^6^1
+"KRN",8994,123467,2,1,1,0)
+^8994.021^1^1^3081024^^
+"KRN",8994,123467,2,1,1,1,0)
+NETWORK LOCATION IEN
+"KRN",8994,123467,2,2,0)
+PLACE^1^2^1
+"KRN",8994,123467,2,2,1,0)
+^^1^1^3081024^
+"KRN",8994,123467,2,2,1,1,0)
+PLACE OF IMAGE SITE PARAMETERS
+"KRN",8994,123467,2,3,0)
+STEP^1^^1
+"KRN",8994,123467,2,3,1,0)
+^8994.021^2^2^3100622^^^^
+"KRN",8994,123467,2,3,1,1,0)
+Used to create chunks of data(iens) for processing.  
+"KRN",8994,123467,2,3,1,2,0)
+This is used to eliminate Broker timeouts during processing.
+"KRN",8994,123467,2,"B","IEN",1)
+
+"KRN",8994,123467,2,"B","PLACE",2)
+
+"KRN",8994,123467,2,"B","STEP",3)
+
+"KRN",8994,123467,3,0)
+^8994.03^5^5^3100622^^^^
+"KRN",8994,123467,3,1,0)
+<return code>,<informational message>
+"KRN",8994,123467,3,2,0)
+    OUT(1) := '0,Done'
+"KRN",8994,123467,3,3,0)
+              '-1,Network location cleanup with #2005 IMAGE file reference issue'
+"KRN",8994,123467,3,4,0)
+              ' 1,Next# ien'  (to be continued)
+"KRN",8994,123467,3,5,0)
+    OUT(n) := '-1,Found IMAGE 2005 IEN # which has a reference to NETWORK LOCATION #'
+"KRN",8994,123468,-1)
+0^8
+"KRN",8994,123468,0)
+MAG UTIL DT2IEN^DTRANGE^MAGSHEC^2^
+"KRN",8994,123468,1,0)
+^8994.01^1^1^3100622^^^^
+"KRN",8994,123468,1,1,0)
+This Remote Procedure uses a date range to find an IEN in the IMAGE File (#2005)
+"KRN",8994,123468,2,0)
+^8994.02A^2^2
+"KRN",8994,123468,2,1,0)
+DATE^1^36^1
+"KRN",8994,123468,2,1,1,0)
+^8994.021^1^1^3100622^^^^
+"KRN",8994,123468,2,1,1,1,0)
+DATE for IMAGE file (#2005) IEN search by Image Saved Date
+"KRN",8994,123468,2,2,0)
+LIMIT^1
+"KRN",8994,123468,2,2,1,0)
+^8994.021^2^2^3100622^^^^
+"KRN",8994,123468,2,2,1,1,0)
+LIMIT - 0: LIMIT ONE YEAR RANGE
+"KRN",8994,123468,2,2,1,2,0)
+        1: NONE
+"KRN",8994,123468,2,"B","DATE",1)
+
+"KRN",8994,123468,2,"B","LIMIT",2)
+
+"KRN",8994,123468,3,0)
+^8994.03^4^4^3100622^^^^
+"KRN",8994,123468,3,1,0)
+Array -
+"KRN",8994,123468,3,2,0)
+    OUT(1) = IEN of IMAGE file (#2005)   or
+"KRN",8994,123468,3,3,0)
+             0 not found
+"KRN",8994,123468,3,4,0)
+             -1 error w/ message
+"KRN",8994,123469,-1)
+0^9
+"KRN",8994,123469,0)
+MAG UTIL GETNETLOC^SHARE^MAGSDEL5^2^R
+"KRN",8994,123469,1,0)
+^8994.01^4^4^3100622^^^^
+"KRN",8994,123469,1,1,0)
+Returns a list of entries in the NETWORK LOCATION file(#2005.2).
+"KRN",8994,123469,1,2,0)
+The RPC will return each NETWORK LOCATION data along with its 
+"KRN",8994,123469,1,3,0)
+OPERATIONAL STATUS (offline/online), PHYSICAL REFERENCE, HASH SUBDIRECTORY,
+"KRN",8994,123469,1,4,0)
+SITE, PLACE info ...etc.
+"KRN",8994,123469,2,0)
+^8994.02A^1^1
+"KRN",8994,123469,2,1,0)
+TYPE^1^32
+"KRN",8994,123469,2,1,1,0)
+^8994.021^1^1^3100622^^^^
+"KRN",8994,123469,2,1,1,1,0)
+ALL or select storage type "MAG" or "WORM"
+"KRN",8994,123469,2,"B","TYPE",1)
+
+"KRN",8994,123469,3,0)
+^8994.03^7^7^3100622^^^^
+"KRN",8994,123469,3,1,0)
+List of network locations with properties
+"KRN",8994,123469,3,2,0)
+ 
+"KRN",8994,123469,3,3,0)
+ien^\\server\share\^storage type^operational status^uname^password^muse site
+"KRN",8994,123469,3,4,0)
+#^Site^PLACE^Name
+"KRN",8994,123469,3,5,0)
+ 
+"KRN",8994,123469,3,6,0)
+This Remote ProcedureCall will list each Online/Offline, even with
+"KRN",8994,123469,3,7,0)
+ same physical reference, and PLACE of NETWORK LOCATION files (#2005.2) .
+"KRN",8994,123470,-1)
+0^10
+"KRN",8994,123470,0)
+MAG UTIL JBOFFLN^LINE^MAGSDOFL^2^R
+"KRN",8994,123470,1,0)
+^8994.01^4^4^3100622^^^
+"KRN",8994,123470,1,1,0)
+Track Offline JukeBox images | Take Image files Offline
+"KRN",8994,123470,1,2,0)
+ 
+"KRN",8994,123470,1,3,0)
+This Remote Prcedure will add the new entry in MAGQUEUE(2006.033).
+"KRN",8994,123470,1,4,0)
+The platter volume name will be used to index with IMAGE file IEN.
+"KRN",8994,123470,2,0)
+^8994.02A^2^2
+"KRN",8994,123470,2,1,0)
+TXTLine^1^256^1
+"KRN",8994,123470,2,1,1,0)
+^^1^1^3081105^
+"KRN",8994,123470,2,1,1,1,0)
+Text line in Offline Platter report.TXT
+"KRN",8994,123470,2,2,0)
+PLATTER^1^256^1
+"KRN",8994,123470,2,2,1,0)
+^8994.021^1^1^3100622^^^
+"KRN",8994,123470,2,2,1,1,0)
+JUKEOX PLATTER NAME(LABEL)
+"KRN",8994,123470,2,"B","PLATTER",2)
+
+"KRN",8994,123470,2,"B","TXTLine",1)
+
+"KRN",8994,123470,3,0)
+^8994.03^3^3^3100622^^^
+"KRN",8994,123470,3,1,0)
+String -
+"KRN",8994,123470,3,2,0)
+   0, DONE
+"KRN",8994,123470,3,3,0)
+   -1, Error message
+"KRN",8994,123471,-1)
+0^11
+"KRN",8994,123471,0)
+MAG UTIL LSTOFLJB^LISTOFL^MAGSDOFL^2^R
+"KRN",8994,123471,1,0)
+^8994.01^3^3^3100622^^^
+"KRN",8994,123471,1,1,0)
+LIST OFFLINE JB PLATTER(S)
+"KRN",8994,123471,1,2,0)
+This Remote Procedure will provide the invoking client a list of all
+"KRN",8994,123471,1,3,0)
+platter names with Offline Images from OFFLINE IMAGES file (#2006.033).
+"KRN",8994,123471,3,0)
+^8994.03^4^4^3100622^^^
+"KRN",8994,123471,3,1,0)
+ARRAY -  OFFLINE JB PLATTER NAME
+"KRN",8994,123471,3,2,0)
+  OUT(1) = <platter 1>
+"KRN",8994,123471,3,3,0)
+  OUT(2) = <platter 2>
+"KRN",8994,123471,3,4,0)
+  OUT(n) = <platter xxx>
+"MBREQ")
+0
+"ORD",3,19.1)
+19.1;3;1;;KEY^XPDTA1;;;KEYF2^XPDIA1;;KEYDEL^XPDIA1
+"ORD",3,19.1,0)
+SECURITY KEY
+"ORD",16,8994)
+8994;16;1;;;;;;;RPCDEL^XPDIA1
+"ORD",16,8994,0)
+REMOTE PROCEDURE
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+98^3100922^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^14^14^3100922
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for Patch 98, Test Build 24.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGDOD01    value = 13883245
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGGDEV     value = 5858674
+"PKG",454,22,1,"PAH",1,1,6,0)
+MAGIPS98    value = 2969837
+"PKG",454,22,1,"PAH",1,1,7,0)
+MAGSDEL5    value = 15686852
+"PKG",454,22,1,"PAH",1,1,8,0)
+MAGSDOFL    value = 12685934
+"PKG",454,22,1,"PAH",1,1,9,0)
+MAGSFTCH    value = 38894121
+"PKG",454,22,1,"PAH",1,1,10,0)
+MAGSHEC     value = 6865882
+"PKG",454,22,1,"PAH",1,1,11,0)
+MAGUF       value = 5557376
+"PKG",454,22,1,"PAH",1,1,12,0)
+ 
+"PKG",454,22,1,"PAH",1,1,13,0)
+Please note that routine MAGIPS98 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,14,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+8
+"RTN","MAGDOD01")
+0^1^B50553020
+"RTN","MAGDOD01",1,0)
+MAGDOD01 ;WOIFO/EdM - VistA DOD Exchange Utilities ; 29 Apr 2008 10:56 AM
+"RTN","MAGDOD01",2,0)
+ ;;3.0;IMAGING;**98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGDOD01",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDOD01",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDOD01",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDOD01",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDOD01",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDOD01",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDOD01",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDOD01",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDOD01",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDOD01",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDOD01",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDOD01",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDOD01",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDOD01",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDOD01",17,0)
+ ;;
+"RTN","MAGDOD01",18,0)
+ Q
+"RTN","MAGDOD01",19,0)
+ ;
+"RTN","MAGDOD01",20,0)
+STOREUID(OUT,IMAGE,SERIES,SNUM,INUM,IMGUID,STUID,DOCDAT) ; RPC = MAG STORE TEXT FILE DETAILS
+"RTN","MAGDOD01",21,0)
+ N D0,D1,FM,I,IMG,LI,LS,X,XI,XS
+"RTN","MAGDOD01",22,0)
+ I '$$KEY() S OUT="-13,No permission to call this Remote Procedure" Q
+"RTN","MAGDOD01",23,0)
+ S FM=""
+"RTN","MAGDOD01",24,0)
+ I '$G(IMAGE) S OUT="-5,No valid image number specified." Q
+"RTN","MAGDOD01",25,0)
+ D CHK^MAGGSQI(.X,IMAGE) I +$G(X(0))'=1 D  Q
+"RTN","MAGDOD01",26,0)
+ . S OUT=IMAGE_"-14,Questionable Integrity"
+"RTN","MAGDOD01",27,0)
+ . Q
+"RTN","MAGDOD01",28,0)
+ K X
+"RTN","MAGDOD01",29,0)
+ S:$G(^MAG(2005,IMAGE,0))'="" FM=2005
+"RTN","MAGDOD01",30,0)
+ S:$G(^MAG(2005.1,IMAGE,0))'="" FM=2005.1
+"RTN","MAGDOD01",31,0)
+ I FM="" S OUT="-1,No such image """_IMAGE_"""." Q
+"RTN","MAGDOD01",32,0)
+ S OUT=-13,(D0,D1)=0,(IMG,LS,LI,XS,XI)=""
+"RTN","MAGDOD01",33,0)
+ D:$TR($G(SNUM)_$G(INUM),0)'=""
+"RTN","MAGDOD01",34,0)
+ . S D0=+$P(^MAG(FM,IMAGE,0),"^",10) Q:'D0
+"RTN","MAGDOD01",35,0)
+ . S I=0 F  S I=$O(^MAG(FM,D0,1,I)) Q:'I  D  Q:D1
+"RTN","MAGDOD01",36,0)
+ . . S X=$G(^MAG(FM,D0,1,I,0)) Q:+X'=IMAGE
+"RTN","MAGDOD01",37,0)
+ . . S D1=I,IMG=$P(X,"^",1),(LS,XS)=$P(X,"^",2),(LI,XI)=$P(X,"^",3)
+"RTN","MAGDOD01",38,0)
+ . . Q
+"RTN","MAGDOD01",39,0)
+ . S:'D0 OUT=OUT_", image is not part of series ("_SNUM_"/"_INUM_")"
+"RTN","MAGDOD01",40,0)
+ . S:'D1 OUT=OUT_", image is not in series "_D0_" ("_SNUM_"/"_INUM_")"
+"RTN","MAGDOD01",41,0)
+ . Q
+"RTN","MAGDOD01",42,0)
+ D:$G(SERIES)'=""
+"RTN","MAGDOD01",43,0)
+ . S X=$G(^MAG(FM,IMAGE,"SERIESUID")) Q:X=SERIES
+"RTN","MAGDOD01",44,0)
+ . I X'="" S OUT=OUT_", cannot enter Series Instance UID"_$C(13,10)_"Current: "_X_$C(13,10)_"New:     "_SERIES Q
+"RTN","MAGDOD01",45,0)
+ . S ^MAG(FM,IMAGE,"SERIESUID")=SERIES
+"RTN","MAGDOD01",46,0)
+ . S ^MAG(FM,"SERIESUID",SERIES,IMAGE)=""
+"RTN","MAGDOD01",47,0)
+ . Q
+"RTN","MAGDOD01",48,0)
+ D:$G(SNUM)'=""
+"RTN","MAGDOD01",49,0)
+ . Q:LS=SNUM
+"RTN","MAGDOD01",50,0)
+ . I LS'="" S OUT=OUT_", cannot enter Series Number """_LS_"""'="""_SNUM_"""." Q
+"RTN","MAGDOD01",51,0)
+ . S $P(^MAG(FM,D0,1,D1,0),"^",2)=SNUM
+"RTN","MAGDOD01",52,0)
+ . I IMG'="",LS'="",LI'="" K ^MAG(FM,D0,1,"ADCM",LS,LI,IMG,D1)
+"RTN","MAGDOD01",53,0)
+ . S XS=SNUM
+"RTN","MAGDOD01",54,0)
+ . Q
+"RTN","MAGDOD01",55,0)
+ D:$G(INUM)'=""
+"RTN","MAGDOD01",56,0)
+ . Q:LI=INUM
+"RTN","MAGDOD01",57,0)
+ . I LI'="" S OUT=OUT_", cannot enter Instance Number"""_LI_"""'="""_INUM_"""." Q
+"RTN","MAGDOD01",58,0)
+ . S $P(^MAG(FM,D0,1,D1,0),"^",3)=INUM
+"RTN","MAGDOD01",59,0)
+ . I IMG'="",LS'="",LI'="" K ^MAG(FM,D0,1,"ADCM",LS,LI,IMG,D1)
+"RTN","MAGDOD01",60,0)
+ . S XI=INUM
+"RTN","MAGDOD01",61,0)
+ . Q
+"RTN","MAGDOD01",62,0)
+ I IMG'="",XS'="",XI'="" S ^MAG(FM,D0,1,"ADCM",XS,XI,IMG,D1)=""
+"RTN","MAGDOD01",63,0)
+ D:$G(IMGUID)'=""
+"RTN","MAGDOD01",64,0)
+ . S X=$P($G(^MAG(FM,IMAGE,"PACS")),"^",1)
+"RTN","MAGDOD01",65,0)
+ . Q:X=IMGUID
+"RTN","MAGDOD01",66,0)
+ . I X'="",X'=IMGUID S OUT=OUT_", cannot enter Instance UID"_$C(13,10)_"Current: "_X_$C(13,10)_"New:     "_IMGUID Q
+"RTN","MAGDOD01",67,0)
+ . S $P(^MAG(FM,IMAGE,"PACS"),"^",1)=IMGUID
+"RTN","MAGDOD01",68,0)
+ . S ^MAG(FM,"P",IMGUID,IMAGE)=""
+"RTN","MAGDOD01",69,0)
+ . Q
+"RTN","MAGDOD01",70,0)
+ D:$G(STUID)'=""
+"RTN","MAGDOD01",71,0)
+ . N PARENT
+"RTN","MAGDOD01",72,0)
+ . S PARENT=$P($G(^MAG(FM,IMAGE,0)),"^",10)
+"RTN","MAGDOD01",73,0)
+ . I 'PARENT S OUT=OUT_", cannot find parent for image "_IMAGE Q
+"RTN","MAGDOD01",74,0)
+ . S X=$P($G(^MAG(FM,PARENT,"PACS")),"^",1)
+"RTN","MAGDOD01",75,0)
+ . Q:X=STUID
+"RTN","MAGDOD01",76,0)
+ . I X'="",X'=STUID S OUT=OUT_", cannot enter Study UID"_$C(13,10)_"Current: "_X_$C(13,10)_"New:     "_STUID Q
+"RTN","MAGDOD01",77,0)
+ . S $P(^MAG(FM,PARENT,"PACS"),"^",1)=STUID
+"RTN","MAGDOD01",78,0)
+ . S ^MAG(FM,"P",STUID,PARENT)=""
+"RTN","MAGDOD01",79,0)
+ . Q
+"RTN","MAGDOD01",80,0)
+ D:$G(DOCDAT)'=""  ;//110 CREATION DATE
+"RTN","MAGDOD01",81,0)
+ . N PARENT,CHILD
+"RTN","MAGDOD01",82,0)
+ . S PARENT=+$P($G(^MAG(FM,IMAGE,0)),"^",10) D:PARENT
+"RTN","MAGDOD01",83,0)
+ . . I $P($G(^MAG(FM,PARENT,100)),"^",6)="" D
+"RTN","MAGDOD01",84,0)
+ . . . S CHILD=$O(^MAG(FM,PARENT,1,0)) Q:'CHILD
+"RTN","MAGDOD01",85,0)
+ . . . S X=$G(^MAG(FM,PARENT,1,CHILD,0)) Q:+X'=IMAGE
+"RTN","MAGDOD01",86,0)
+ . . . S $P(^MAG(FM,PARENT,100),"^",6)=DOCDAT  ;set parent
+"RTN","MAGDOD01",87,0)
+ . . . Q
+"RTN","MAGDOD01",88,0)
+ . . Q
+"RTN","MAGDOD01",89,0)
+ . S X=$P($G(^MAG(FM,IMAGE,100)),"^",6)
+"RTN","MAGDOD01",90,0)
+ . Q:X=DOCDAT
+"RTN","MAGDOD01",91,0)
+ . I X'="",X'=DOCDAT S OUT=OUT_", cannot enter Document Date"_$C(13,10)_"Current: "_X_$C(13,10)_"New:     "_DOCDAT Q
+"RTN","MAGDOD01",92,0)
+ . S $P(^MAG(FM,IMAGE,100),"^",6)=DOCDAT  ;set child
+"RTN","MAGDOD01",93,0)
+ . Q
+"RTN","MAGDOD01",94,0)
+ S:OUT=-13 OUT="0,OK"
+"RTN","MAGDOD01",95,0)
+ Q
+"RTN","MAGDOD01",96,0)
+ ;
+"RTN","MAGDOD01",97,0)
+SCANIMG(OUT,ACTION,IMAGE,DIR) ; RPC = MAG SCAN IMAGE TEXT FILES
+"RTN","MAGDOD01",98,0)
+ N F1,F2,F3,X
+"RTN","MAGDOD01",99,0)
+ I '$$KEY() S OUT="-13,No permission to call this Remote Procedure" Q
+"RTN","MAGDOD01",100,0)
+ S ACTION=$G(ACTION)
+"RTN","MAGDOD01",101,0)
+ I ACTION="Init" D  Q
+"RTN","MAGDOD01",102,0)
+ . S X=$G(^MAGDICOM(2006.563,1,"SCAN")) S:X="" X=" ^-1"
+"RTN","MAGDOD01",103,0)
+ . S OUT=X
+"RTN","MAGDOD01",104,0)
+ . Q
+"RTN","MAGDOD01",105,0)
+ I ACTION="Restart" D  Q
+"RTN","MAGDOD01",106,0)
+ . S (^MAGDICOM(2006.563,1,"SCAN"),OUT)=" ^-1"
+"RTN","MAGDOD01",107,0)
+ . Q
+"RTN","MAGDOD01",108,0)
+ I ACTION="Scan" D  Q
+"RTN","MAGDOD01",109,0)
+ . S DIR=$S($G(DIR)<0:-1,1:1)
+"RTN","MAGDOD01",110,0)
+ . S IMAGE=+$G(IMAGE) I 'IMAGE,DIR<0 S IMAGE=" "
+"RTN","MAGDOD01",111,0)
+ . S ^MAGDICOM(2006.563,1,"SCAN")=IMAGE_"^"_DIR
+"RTN","MAGDOD01",112,0)
+ . S IMAGE=$O(^MAG(2005,IMAGE),DIR)
+"RTN","MAGDOD01",113,0)
+ . I 'IMAGE S OUT="-1,Done" Q
+"RTN","MAGDOD01",114,0)
+ . D FILEFIND^MAGDFB(IMAGE,"TEXT",0,0,.F1,.F2,.F3)
+"RTN","MAGDOD01",115,0)
+ . S OUT=IMAGE_","_F2_","_$$NEARFMT^MAGUF(IMAGE)
+"RTN","MAGDOD01",116,0)
+ . Q
+"RTN","MAGDOD01",117,0)
+ S OUT="-13,Cannot perform requested action: """_ACTION_"""."
+"RTN","MAGDOD01",118,0)
+ Q
+"RTN","MAGDOD01",119,0)
+ ;
+"RTN","MAGDOD01",120,0)
+FINDFIL(OUT,IMAGE) ; RPC = MAG FIND IMAGE TEXT FILE
+"RTN","MAGDOD01",121,0)
+ N F1,F2,F3,IEN
+"RTN","MAGDOD01",122,0)
+ N FM ; ------- file on which the image record exists (2005 or 2005.1)
+"RTN","MAGDOD01",123,0)
+ N IM0 ; ------ zero node of this image record (not parent)
+"RTN","MAGDOD01",124,0)
+ N CANUPD ; --- flag indicating that there are fields to be updated on the record
+"RTN","MAGDOD01",125,0)
+ N PDLIM ; ---- primary delimiter
+"RTN","MAGDOD01",126,0)
+ S PDLIM="|"
+"RTN","MAGDOD01",127,0)
+ I '$$KEY() S $P(OUT,PDLIM,2)="-12,No permission to call this Remote Procedure" Q
+"RTN","MAGDOD01",128,0)
+ I IMAGE="" S $P(OUT,PDLIM,2)="-21,Image file name must be specified" Q
+"RTN","MAGDOD01",129,0)
+ I IMAGE?.E1C.E S $P(OUT,PDLIM,2)="-22,Invalid filename format (no control characters allowed)" Q
+"RTN","MAGDOD01",130,0)
+ S FM=2005,IEN=$O(^MAG(FM,"F",IMAGE,"")) ; scan active image records
+"RTN","MAGDOD01",131,0)
+ I 'IEN S FM=2005.1,IEN=$O(^MAG(FM,"F",IMAGE,""))
+"RTN","MAGDOD01",132,0)
+ I 'IEN S $P(OUT,PDLIM,2)="-23,Image filename not found on VistA" Q
+"RTN","MAGDOD01",133,0)
+ D FILEFIND^MAGDFB(IEN,"TEXT",0,0,.F1,.F2,.F3)
+"RTN","MAGDOD01",134,0)
+ S OUT=IEN_PDLIM_F2_PDLIM_$$NEARFMT^MAGUF(IEN)
+"RTN","MAGDOD01",135,0)
+ S IM0=$G(^MAG(FM,IEN,0))
+"RTN","MAGDOD01",136,0)
+ ; check for dupes and integrity problems
+"RTN","MAGDOD01",137,0)
+ S:$P(IM0,"^",12) $P(OUT,PDLIM,4)="D" ; dupe
+"RTN","MAGDOD01",138,0)
+ S:$P(IM0,"^",11) $P(OUT,PDLIM,5)="IQ" ; integrity
+"RTN","MAGDOD01",139,0)
+ ; can this record be updated?
+"RTN","MAGDOD01",140,0)
+ S CANUPD=0 ; assume all updatable fields are populated, so not
+"RTN","MAGDOD01",141,0)
+ D  ; check to see if there are any updatable fields
+"RTN","MAGDOD01",142,0)
+ . N PARENT ; --- parent record of the study of which this image is a member
+"RTN","MAGDOD01",143,0)
+ . D  Q:CANUPD  ; check Series Instance UID
+"RTN","MAGDOD01",144,0)
+ . . I $P($G(^MAG(FM,IEN,"SERIESUID")),"^",1)="" S CANUPD=1
+"RTN","MAGDOD01",145,0)
+ . . Q
+"RTN","MAGDOD01",146,0)
+ . D  Q:CANUPD  ; check Image Instance UID
+"RTN","MAGDOD01",147,0)
+ . . I $P($G(^MAG(FM,IEN,"PACS")),"^",1)="" S CANUPD=1
+"RTN","MAGDOD01",148,0)
+ . . Q
+"RTN","MAGDOD01",149,0)
+ . S PARENT=$P($G(^MAG(FM,IEN,0)),"^",10)
+"RTN","MAGDOD01",150,0)
+ . D:PARENT  ; check attributes of parent study
+"RTN","MAGDOD01",151,0)
+ . . D  Q:CANUPD  ; check Study Instance UID
+"RTN","MAGDOD01",152,0)
+ . . . I $P($G(^MAG(FM,PARENT,"PACS")),"^",1)="" S CANUPD=1
+"RTN","MAGDOD01",153,0)
+ . . . Q
+"RTN","MAGDOD01",154,0)
+ . . D  Q:CANUPD  ; check Document Date
+"RTN","MAGDOD01",155,0)
+ . . . I $P($G(^MAG(FM,PARENT,100)),"^",6)="" S CANUPD=1
+"RTN","MAGDOD01",156,0)
+ . . . Q
+"RTN","MAGDOD01",157,0)
+ . . D  Q:CANUPD  ; check DICOM series and image number
+"RTN","MAGDOD01",158,0)
+ . . . N CHILD ; ---- what child this image is of the parent
+"RTN","MAGDOD01",159,0)
+ . . . N I ; -------- scratch loop index
+"RTN","MAGDOD01",160,0)
+ . . . S CHILD=0
+"RTN","MAGDOD01",161,0)
+ . . . F  S CHILD=$O(^MAG(FM,PARENT,1,CHILD)) Q:'CHILD  I $P($G(^(CHILD,0)),"^",1)=IEN Q
+"RTN","MAGDOD01",162,0)
+ . . . Q:'CHILD  ; image not found in study
+"RTN","MAGDOD01",163,0)
+ . . . F I=2,3 I $P($G(^MAG(FM,PARENT,1,CHILD,0)),"^",I)="" S CANUPD=1 Q
+"RTN","MAGDOD01",164,0)
+ . . . Q
+"RTN","MAGDOD01",165,0)
+ . . Q
+"RTN","MAGDOD01",166,0)
+ . Q
+"RTN","MAGDOD01",167,0)
+ S $P(OUT,PDLIM,6)=CANUPD
+"RTN","MAGDOD01",168,0)
+ Q
+"RTN","MAGDOD01",169,0)
+KEY() N KEY,PRIV
+"RTN","MAGDOD01",170,0)
+ S KEY(1)="MAG DOD FIX"
+"RTN","MAGDOD01",171,0)
+ D OWNSKEY^XUSRB(.PRIV,.KEY)
+"RTN","MAGDOD01",172,0)
+ Q PRIV(1)
+"RTN","MAGDOD01",173,0)
+ ;
+"RTN","MAGGDEV")
+0^2^B10186131
+"RTN","MAGGDEV",1,0)
+MAGGDEV ;WOIFO/LB - Routine to enter Imaging device entries ; 06 Dec 2008 3:40 PM
+"RTN","MAGGDEV",2,0)
+ ;;3.0;IMAGING;**98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGGDEV",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGGDEV",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGDEV",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGDEV",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGDEV",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGDEV",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGDEV",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGDEV",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGDEV",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGDEV",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGDEV",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGDEV",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGDEV",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGDEV",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGDEV",17,0)
+ ;;
+"RTN","MAGGDEV",18,0)
+ Q
+"RTN","MAGGDEV",19,0)
+EN ;Create/Update an entry in the Device file for an Imaging workstation.
+"RTN","MAGGDEV",20,0)
+ ;
+"RTN","MAGGDEV",21,0)
+TERM N A,DA,DD,DO,DIC,DIE,DR,ENTRY,X,Y
+"RTN","MAGGDEV",22,0)
+ W !,"I will check the 'P-IMAGING' entry in the Terminal Type file."
+"RTN","MAGGDEV",23,0)
+ S DA=$$FIND1^DIC(3.2,,,"P-IMAGING","B")
+"RTN","MAGGDEV",24,0)
+ I DA D  G DEV  ;update
+"RTN","MAGGDEV",25,0)
+ . S DIE="^%ZIS(2,",DR="7///D CLOSE^MAGGTU5 X "_$C(34)_"C IO:"_$C(34,34)_"D"_$C(34,34,34)_" K IO" D ^DIE
+"RTN","MAGGDEV",26,0)
+ . Q
+"RTN","MAGGDEV",27,0)
+ ;Set the entry
+"RTN","MAGGDEV",28,0)
+ S DIC="^%ZIS(2,"
+"RTN","MAGGDEV",29,0)
+ S X="P-IMAGING",DIC(0)="O" K DD,D0 D FILE^DICN
+"RTN","MAGGDEV",30,0)
+ S ENTRY=+Y G:'ENTRY ERRDEV
+"RTN","MAGGDEV",31,0)
+ S DR=".02///0;1///80;2///"_"#"_";4///"_"$C(8)"_";7///D CLOSE^MAGGTU5 X "_$C(34)_"C IO:"_$C(34,34)_"D"_$C(34,34,34)_" K IO;3///64"
+"RTN","MAGGDEV",32,0)
+ S DA=ENTRY,DIE="^%ZIS(2," D ^DIE
+"RTN","MAGGDEV",33,0)
+ ;.02/SELECTABLE AT SIGNON;1/RIGHT MARGIN;2/FORM FEED;4/BACK SPACE
+"RTN","MAGGDEV",34,0)
+ ;7/CLOSE EXECUTE*P98 - added X "...";3/PAGE LENGTH
+"RTN","MAGGDEV",35,0)
+DEV N A,DA,DD,DO,DIC,DIE,ENTRY,X,Y,MAGOS
+"RTN","MAGGDEV",36,0)
+ W !,"I will check an 'Imaging Workstation' entry in the Device file."
+"RTN","MAGGDEV",37,0)
+ S DA=$$FIND1^DIC(3.5,,,"IMAGING WORKSTATION","B")
+"RTN","MAGGDEV",38,0)
+ I DA D  Q  ;update
+"RTN","MAGGDEV",39,0)
+ . S DIE="^%ZIS(1,",DR="19.7///S IO=$P(IO,""."")_$J_"".""_$P(IO,""."",2)" D ^DIE
+"RTN","MAGGDEV",40,0)
+ . Q
+"RTN","MAGGDEV",41,0)
+ S DIC="^%ZIS(1,"
+"RTN","MAGGDEV",42,0)
+ S X="IMAGING WORKSTATION",DIC(0)="O" K DD,D0 D FILE^DICN
+"RTN","MAGGDEV",43,0)
+ S ENTRY=+Y G:'ENTRY ERRDEV
+"RTN","MAGGDEV",44,0)
+ I ^%ZOSF("OS")["OpenM" D
+"RTN","MAGGDEV",45,0)
+ . S MAGOS="OPENM"
+"RTN","MAGGDEV",46,0)
+ . S DA=ENTRY,DR=".02///"_"BROKER"_";3///"_"P-IMAGING"_";1///"_"WS.DAT"
+"RTN","MAGGDEV",47,0)
+ . S DR=DR_";4///0;5///0;19///"_"""NWS"""_";2///"_"HFS;19.7///S IO=$P(IO,""."")_$J_"".""_$P(IO,""."",2)"
+"RTN","MAGGDEV",48,0)
+ . S DIE="^%ZIS(1,"
+"RTN","MAGGDEV",49,0)
+ I $D(MAGOS) D ^DIE
+"RTN","MAGGDEV",50,0)
+ ; The following lines describe the field number/name for the DR string.
+"RTN","MAGGDEV",51,0)
+ ;.02/LOCATION OF TERMINAL;3/SUBTYPE;1/$I;4=ASK DEVICE;5/ASK PARAMETERS
+"RTN","MAGGDEV",52,0)
+ ;19/OPEN PARAMETERS;2/TYPE
+"RTN","MAGGDEV",53,0)
+ Q
+"RTN","MAGGDEV",54,0)
+ERRDEV ;
+"RTN","MAGGDEV",55,0)
+ W:$G(DIC)="^%ZIS(2," !,"Could not setup the IMAGING WORKSTATION entry in the Device file."
+"RTN","MAGGDEV",56,0)
+ W:$G(DIC)="^%ZIS(1," !,"Could not setup the P-IMAGING entry in the Terminal Type file."
+"RTN","MAGGDEV",57,0)
+MSG W !,"Please review the Installation Manual to create this entry."
+"RTN","MAGGDEV",58,0)
+ Q
+"RTN","MAGIPS98")
+0^^B3955404
+"RTN","MAGIPS98",1,0)
+MAGIPS98 ;WOIFO/JSL - Post init routine to queue site activity at install ; 02 May 2010  2:41 PM
+"RTN","MAGIPS98",2,0)
+ ;;3.0;IMAGING;**98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGIPS98",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGIPS98",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS98",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS98",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS98",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS98",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS98",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS98",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS98",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS98",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS98",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS98",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS98",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS98",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS98",17,0)
+ ;;
+"RTN","MAGIPS98",18,0)
+ Q
+"RTN","MAGIPS98",19,0)
+POST ;
+"RTN","MAGIPS98",20,0)
+ ; create and send the site installation message
+"RTN","MAGIPS98",21,0)
+ D EN^MAGGDEV ; Create/Update an entry in the Device file for an Imaging workstation
+"RTN","MAGIPS98",22,0)
+ D REMTASK^MAGQE4
+"RTN","MAGIPS98",23,0)
+ D STTASK^MAGQE4
+"RTN","MAGIPS98",24,0)
+ D INS^MAGQBUT4(XPDNM,DUZ,$$NOW^XLFDT,XPDA)
+"RTN","MAGIPS98",25,0)
+ Q
+"RTN","MAGSDEL5")
+0^3^B35873021
+"RTN","MAGSDEL5",1,0)
+MAGSDEL5 ;WOIF/JSL - Delete the Not-Used Network Location w/ none ref of IMAGE ; 6/11/2010 10:12am
+"RTN","MAGSDEL5",2,0)
+ ;;3.0;IMAGING;**98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGSDEL5",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGSDEL5",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSDEL5",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGSDEL5",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGSDEL5",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGSDEL5",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGSDEL5",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGSDEL5",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGSDEL5",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGSDEL5",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGSDEL5",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGSDEL5",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGSDEL5",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGSDEL5",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSDEL5",17,0)
+ ;;
+"RTN","MAGSDEL5",18,0)
+ Q
+"RTN","MAGSDEL5",19,0)
+NETLOC(OUT,IN,PLACE,STEP) ;RPC - MAG UTIL CLNLOC
+"RTN","MAGSDEL5",20,0)
+ ;NETWORK LOCATION 2005.2 to verify 0 reference of IMAGE file 2005
+"RTN","MAGSDEL5",21,0)
+ ; OUT : result - code,message
+"RTN","MAGSDEL5",22,0)
+ ; IN : delete network Location IEN
+"RTN","MAGSDEL5",23,0)
+ ; PLACE : Site Parameter IN
+"RTN","MAGSDEL5",24,0)
+ ; STEP : Heart beat (M2M)
+"RTN","MAGSDEL5",25,0)
+ N ERR,I,IEN0,IEN,IEN9,NO,CNT,X0,XBIG,NO,N
+"RTN","MAGSDEL5",26,0)
+ N NETLOC,PHY,NAME,TYP,TL,P
+"RTN","MAGSDEL5",27,0)
+ K OUT S OUT(1)="-1",(ERR,TL)=0
+"RTN","MAGSDEL5",28,0)
+ I ($G(IN)="")!'$G(PLACE) S OUT(1)="-1, No IEN or PLACE value." Q
+"RTN","MAGSDEL5",29,0)
+ S IEN0=+$P(STEP,"#",1),IEN9=+$P(STEP,"#",2),CNT=IEN9-IEN0 S:CNT<1 CNT=1 ;;BEG#END
+"RTN","MAGSDEL5",30,0)
+ F N=2:1 S NO=$P(IN,"^",N) Q:'NO  D      ;;Pre-check selected raid/jb entry
+"RTN","MAGSDEL5",31,0)
+ . S X0=$G(^MAG(2005.2,NO,0))            ;;NO - ien of network location
+"RTN","MAGSDEL5",32,0)
+ . I X0="" S OUT(1)="-1,Loc #"_IN_" not found",ERR=1 Q
+"RTN","MAGSDEL5",33,0)
+ . S TYP=$P(X0,"^",7) ;storage type
+"RTN","MAGSDEL5",34,0)
+ . I "MAG^WORM"'[$P(TYP,"-") S OUT(1)="-1,Not the 'MAG' or 'WORM' type location, but(#"_NO_"/"_TYP_")",ERR=1 Q
+"RTN","MAGSDEL5",35,0)
+ . Q
+"RTN","MAGSDEL5",36,0)
+ I ERR S OUT(1)=OUT(1)_",Network location file #2005.2 issue" Q
+"RTN","MAGSDEL5",37,0)
+ S IEN=IEN0 F N=1:1 S IEN=$O(^MAG(2005,IEN)) Q:'IEN!(IEN>IEN9)  I N<CNT D
+"RTN","MAGSDEL5",38,0)
+ . S X0=$G(^MAG(2005,IEN,0)),XBIG=$G(^MAG(2005,IEN,"FBIG"))
+"RTN","MAGSDEL5",39,0)
+ . F N=2:1 S NO=$P(IN,"^",N) Q:'NO  D
+"RTN","MAGSDEL5",40,0)
+ . . F P=3,4,5 I $P(X0,"^",P)=NO S ERR=1+ERR,TL=TL+1 S:TL<999 OUT(TL+1)="-1,Found IMAGE 2005 IEN "_IEN_" which has a reference to NETWORK LOCATION IEN "_NO_"("_$P($G(^MAG(2005.2,NO,0)),U)_")" Q
+"RTN","MAGSDEL5",41,0)
+ . . F P=1,2 I $P(XBIG,"^",P)=NO S ERR=1+ERR,TL=TL+1 S:TL<999 OUT(TL+1)="-1,Found IMAGE 2005 IEN "_IEN_" 'FBIG' which has a reference to NETWORK LOCATION IEN "_NO_"("_$P($G(^MAG(2005.2,NO,0)),U)_")" Q
+"RTN","MAGSDEL5",42,0)
+ . Q
+"RTN","MAGSDEL5",43,0)
+ I ERR S OUT(1)="-1,Network location cleanup with #2005 IMAGE file reference issue" Q
+"RTN","MAGSDEL5",44,0)
+ S IEN=IEN0 F N=1:1 S IEN=$O(^MAG(2005.1,IEN)) Q:'IEN!(IEN>IEN9)  I N<CNT D
+"RTN","MAGSDEL5",45,0)
+ . S X0=$G(^MAG(2005.1,IEN,0)),XBIG=$G(^MAG(2005.1,IEN,"FBIG"))
+"RTN","MAGSDEL5",46,0)
+ . F N=2:1 S NO=$P(IN,"^",N) Q:'NO  D
+"RTN","MAGSDEL5",47,0)
+ . . F P=3,4,5 I $P(X0,"^",P)=NO S ERR=1+ERR,TL=TL+1 S:TL<999 OUT(TL+1)="-1,Found IMAGE Audit 2005.1 IEN "_IEN_" which has a reference to NETWORK LOCATION IEN "_NO_"("_$P($G(^MAG(2005.2,NO,0)),U)_")" Q
+"RTN","MAGSDEL5",48,0)
+ . . F P=1,2 I $P(XBIG,"^",P)=NO S ERR=1+ERR,TL=TL+1 S:TL<999 OUT(TL+1)="-1,Found IMAGE Audit 2005.1 IEN "_IEN_" 'FBIG' which has a reference to NETWORK LOCATION IEN "_NO_"("_$P($G(^MAG(2005.2,NO,0)),U)_")" Q
+"RTN","MAGSDEL5",49,0)
+ . Q
+"RTN","MAGSDEL5",50,0)
+ I ERR S OUT(1)="-1,Network location cleanup with #2005.1 IMAGE Audit file reference issue" Q
+"RTN","MAGSDEL5",51,0)
+ I (ERR=0)&(IEN0=IEN9) D  Q  ;;0 ref OF #2005 then cleanup
+"RTN","MAGSDEL5",52,0)
+ . S OUT(1)=0_",Done "
+"RTN","MAGSDEL5",53,0)
+ . F N=2:1 S NO=$P(IN,"^",N) Q:'NO  D DELOC(NO,PLACE) S:ERR=0 OUT(1)=OUT(1)_" #"_$P(IN,"^",N)
+"RTN","MAGSDEL5",54,0)
+ . Q
+"RTN","MAGSDEL5",55,0)
+ I ERR S OUT(1)=OUT(1)_", "_ERR
+"RTN","MAGSDEL5",56,0)
+ S OUT(1)="1,NEXT#"_IEN Q  ;just to continue - RPC call, next IEN range step 
+"RTN","MAGSDEL5",57,0)
+ Q
+"RTN","MAGSDEL5",58,0)
+ ;
+"RTN","MAGSDEL5",59,0)
+DELOC(NN,PLACE) ;
+"RTN","MAGSDEL5",60,0)
+ ; NN: IEN of 2005.2
+"RTN","MAGSDEL5",61,0)
+ ; PLACE : IEN of 2006.1
+"RTN","MAGSDEL5",62,0)
+ N X,DA
+"RTN","MAGSDEL5",63,0)
+ Q:$G(ERR)'=0  Q:+$G(NN)<1  Q:+$G(PLACE)<1
+"RTN","MAGSDEL5",64,0)
+ D RLOC(NN)            ;FM delete
+"RTN","MAGSDEL5",65,0)
+ S OUT(1)="0,Done "_$G(NN)
+"RTN","MAGSDEL5",66,0)
+ Q
+"RTN","MAGSDEL5",67,0)
+ ;
+"RTN","MAGSDEL5",68,0)
+RLOC(NN) ; Delete Network Location file entry
+"RTN","MAGSDEL5",69,0)
+ N DA,DIK,NAME,PHY,TYP
+"RTN","MAGSDEL5",70,0)
+ S DA=NN I $D(^MAG(2005.2,DA,0)) D
+"RTN","MAGSDEL5",71,0)
+ . S NAME=$P(^MAG(2005.2,DA,0),"^"),PHY=$P(^MAG(2005.2,DA,0),"^",2),TYP=$P(^MAG(2005.2,DA,0),"^",7)
+"RTN","MAGSDEL5",72,0)
+ . S DIK="^MAG(2005.2,"
+"RTN","MAGSDEL5",73,0)
+ . D ^DIK
+"RTN","MAGSDEL5",74,0)
+ . I '$D(^MAG(2005.2,DA,0)),$D(^MAG(2005.2,"B",NAME,DA)) K ^MAG(2005.2,"B",NAME,DA)
+"RTN","MAGSDEL5",75,0)
+ . I '$D(^MAG(2005.2,DA,0)),(TYP'="") I $D(^MAG(2005.2,"E",TYP,DA)) K ^MAG(2005.2,"E",TYP,DA)
+"RTN","MAGSDEL5",76,0)
+ . I '$D(^MAG(2005.2,DA,0)),(PHY'="") I $D(^MAG(2005.2,"AC",PHY,DA)) K ^MAG(2005.2,"AC",PHY,DA)
+"RTN","MAGSDEL5",77,0)
+ . D RAIDGR(DA)
+"RTN","MAGSDEL5",78,0)
+ . K DIK,DA,NAME
+"RTN","MAGSDEL5",79,0)
+ . Q
+"RTN","MAGSDEL5",80,0)
+ Q
+"RTN","MAGSDEL5",81,0)
+ ;
+"RTN","MAGSDEL5",82,0)
+RAIDGR(IEN) ;
+"RTN","MAGSDEL5",83,0)
+ ;IEN is the entry in file 2005.2 being deleted.
+"RTN","MAGSDEL5",84,0)
+ ;This module checks if the duplicate entry is part of a RAID group and
+"RTN","MAGSDEL5",85,0)
+ ;deletes the entry to prevent hanging pointers.
+"RTN","MAGSDEL5",86,0)
+ N DIV,MAGIEN,DIK,DA
+"RTN","MAGSDEL5",87,0)
+ Q:'+IEN
+"RTN","MAGSDEL5",88,0)
+ S DIV=0 F  S DIV=$O(^MAG(2005.2,"F",DIV)) Q:'DIV  D:$D(^MAG(2005.2,"F",DIV,"GRP"))
+"RTN","MAGSDEL5",89,0)
+ . S MAGIEN=0 F  S MAGIEN=$O(^MAG(2005.2,"F",DIV,"GRP",MAGIEN)) Q:'MAGIEN  D:$D(^MAG(2005.2,MAGIEN,7,"B",IEN,0))
+"RTN","MAGSDEL5",90,0)
+ . . S DA=$O(^MAG(2005.2,MAGIEN,7,"B",IEN,0)) Q:'DA
+"RTN","MAGSDEL5",91,0)
+ . . S DA(1)=MAGIEN,DIK="^MAG(2005.2,"_DA(1)_",7,"
+"RTN","MAGSDEL5",92,0)
+ . . D ^DIK
+"RTN","MAGSDEL5",93,0)
+ . . Q
+"RTN","MAGSDEL5",94,0)
+ . Q
+"RTN","MAGSDEL5",95,0)
+ Q
+"RTN","MAGSDEL5",96,0)
+ ;
+"RTN","MAGSDEL5",97,0)
+SHARE(MAGRY,TYPE) ;RPC [MAG UTIL GETNETLOC]
+"RTN","MAGSDEL5",98,0)
+ ; Get list of current online/offline image shares
+"RTN","MAGSDEL5",99,0)
+ ;TYPE = One of the STORAGE TYPE codes : MAG, EKG, WORM, URL or ALL
+"RTN","MAGSDEL5",100,0)
+ N TMP,I,DATA0,DATA2,DATA3,DATA6,INFO,VALUE,STYP,PHYREF
+"RTN","MAGSDEL5",101,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGGTERR"
+"RTN","MAGSDEL5",102,0)
+ I TYPE="" S TYPE="ALL"
+"RTN","MAGSDEL5",103,0)
+ S MAGRY(0)="1^SUCCESS"
+"RTN","MAGSDEL5",104,0)
+ S I=0 F  S I=$O(^MAG(2005.2,I)) Q:'I  D
+"RTN","MAGSDEL5",105,0)
+ . S DATA0=$G(^MAG(2005.2,I,0)) Q:'$L(DATA0)
+"RTN","MAGSDEL5",106,0)
+ . S DATA2=$G(^MAG(2005.2,I,2))
+"RTN","MAGSDEL5",107,0)
+ . S DATA3=$G(^MAG(2005.2,I,3))
+"RTN","MAGSDEL5",108,0)
+ . S DATA6=$G(^MAG(2005.2,I,6))
+"RTN","MAGSDEL5",109,0)
+ . S PHYREF=$P(DATA0,"^",2) ; PHYSICAL REFERENCE
+"RTN","MAGSDEL5",110,0)
+ . S STYP=$P(DATA0,"^",7) ; STORAGE TYPE
+"RTN","MAGSDEL5",111,0)
+ . I TYPE'="ALL" Q:STYP'[TYPE  ;filter by TYPE
+"RTN","MAGSDEL5",112,0)
+ . S INFO=$S($E(PHYREF,$L(PHYREF))="\":$E(PHYREF,1,$L(PHYREF)-1),1:PHYREF)
+"RTN","MAGSDEL5",113,0)
+ . S $P(INFO,"^",2)=$P($G(DATA0),"^",7) ;Physical reference (path)
+"RTN","MAGSDEL5",114,0)
+ . S $P(INFO,"^",3)=$P($G(DATA0),"^",6) ;Operational Status 0=OFFLINE 1=ONLINE
+"RTN","MAGSDEL5",115,0)
+ . S $P(INFO,"^",4)=$P($G(DATA2),"^",1) ;Username
+"RTN","MAGSDEL5",116,0)
+ . S $P(INFO,"^",5)=$P($G(DATA2),"^",2) ;Password
+"RTN","MAGSDEL5",117,0)
+ . S $P(INFO,"^",6)=$P($G(DATA6),"^",1)  ;MUSE Site #
+"RTN","MAGSDEL5",118,0)
+ . I $P($G(DATA6),"^",2)'="" S $P(INFO,"^",7)=^MAG(2006.17,$P(DATA6,"^",2),0)  ;MUSE version #
+"RTN","MAGSDEL5",119,0)
+ . S $P(INFO,"^",8)=$P($G(DATA3),"^",5)  ;Network location SITE
+"RTN","MAGSDEL5",120,0)
+ . S $P(INFO,"^",9)=$P($G(DATA0),"^",10) ;PLACE #2006.1
+"RTN","MAGSDEL5",121,0)
+ . S $P(INFO,"^",10)=$P($G(DATA0),"^",1) ;Name #2005.2
+"RTN","MAGSDEL5",122,0)
+ . Q:$D(TMP(INFO))
+"RTN","MAGSDEL5",123,0)
+ . S TMP(INFO)=I  ;ien #2005.2
+"RTN","MAGSDEL5",124,0)
+ S INFO=""
+"RTN","MAGSDEL5",125,0)
+ F  S INFO=$O(TMP(INFO)) Q:INFO=""  D  ;Sort by Physical Ref
+"RTN","MAGSDEL5",126,0)
+ . S MAGRY($O(MAGRY(""),-1)+1)=TMP(INFO)_"^"_INFO
+"RTN","MAGSDEL5",127,0)
+ K TMP
+"RTN","MAGSDEL5",128,0)
+ Q
+"RTN","MAGSDOFL")
+0^4^B58680175
+"RTN","MAGSDOFL",1,0)
+MAGSDOFL ;WOIFO/SF - Track Offline Images ; June 11, 2010 17:49
+"RTN","MAGSDOFL",2,0)
+ ;;3.0;IMAGING;**18,98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGSDOFL",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGSDOFL",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSDOFL",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGSDOFL",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGSDOFL",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGSDOFL",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGSDOFL",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGSDOFL",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGSDOFL",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGSDOFL",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGSDOFL",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGSDOFL",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGSDOFL",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGSDOFL",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSDOFL",17,0)
+ ;;
+"RTN","MAGSDOFL",18,0)
+ Q
+"RTN","MAGSDOFL",19,0)
+ENTRY ;Interactive entry here
+"RTN","MAGSDOFL",20,0)
+ I '$D(DUZ) W !,"Use the MAG JB OFFLINE menu option to run this application" Q
+"RTN","MAGSDOFL",21,0)
+ N BOLD,NORMAL,N,R
+"RTN","MAGSDOFL",22,0)
+ D SETUP W @IOF
+"RTN","MAGSDOFL",23,0)
+LOOP ; main menu loop
+"RTN","MAGSDOFL",24,0)
+ D SETUP
+"RTN","MAGSDOFL",25,0)
+ W !!,$P($T(OPTIONS),";",3),!
+"RTN","MAGSDOFL",26,0)
+ S N=0 F I=1:1 S X=$P($T(OPTIONS+I),";",3,999) Q:X=""  D  ; list options
+"RTN","MAGSDOFL",27,0)
+ . I $P(X,";")="" Q
+"RTN","MAGSDOFL",28,0)
+ . S N=N+1 W !,?2,$J(N,2),?6,$P(X,";")
+"RTN","MAGSDOFL",29,0)
+ . Q
+"RTN","MAGSDOFL",30,0)
+ ;
+"RTN","MAGSDOFL",31,0)
+AGAIN ;
+"RTN","MAGSDOFL",32,0)
+ W !!,?2,"OPTION: " R " ",R:DTIME Q:R=""!(R="^")
+"RTN","MAGSDOFL",33,0)
+ I R["?" D HELP2 G AGAIN
+"RTN","MAGSDOFL",34,0)
+ I R?1N.N,R>0,R'>N D  G LOOP
+"RTN","MAGSDOFL",35,0)
+ . S N=0 F I=1:1 D  Q:X=""  I R=N D @($P(X,";",2)),RETURN Q
+"RTN","MAGSDOFL",36,0)
+ . . S X=$P($T(OPTIONS+I),";",3,999) Q:X=""
+"RTN","MAGSDOFL",37,0)
+ . . S N=N+1
+"RTN","MAGSDOFL",38,0)
+ . Q
+"RTN","MAGSDOFL",39,0)
+ W " ??? -- Invalid option.  Try agin." G AGAIN
+"RTN","MAGSDOFL",40,0)
+ ;
+"RTN","MAGSDOFL",41,0)
+SETUP ;
+"RTN","MAGSDOFL",42,0)
+ I ^%ZOSF("OS")?1"MSM".E S IOF="#"
+"RTN","MAGSDOFL",43,0)
+ E  D HOME^%ZIS
+"RTN","MAGSDOFL",44,0)
+ S U="^"
+"RTN","MAGSDOFL",45,0)
+ S NORMAL=$C(27)_"[0;"_"44m" ; normal blue
+"RTN","MAGSDOFL",46,0)
+ S BOLD=$C(27)_"[1;"_"44m" ; bold blue
+"RTN","MAGSDOFL",47,0)
+ Q
+"RTN","MAGSDOFL",48,0)
+ ;
+"RTN","MAGSDOFL",49,0)
+RETURN ;
+"RTN","MAGSDOFL",50,0)
+ D SETUP
+"RTN","MAGSDOFL",51,0)
+ R !!,"Push <Enter> to continue...",X:DTIME
+"RTN","MAGSDOFL",52,0)
+ Q
+"RTN","MAGSDOFL",53,0)
+OFFLINE(MAGIN) ;Set images offline
+"RTN","MAGSDOFL",54,0)
+ N COUNT
+"RTN","MAGSDOFL",55,0)
+ASK1 I MAGIN="" R !!,"Enter file to read offline images from: ",X:DTIME
+"RTN","MAGSDOFL",56,0)
+ I X="" Q
+"RTN","MAGSDOFL",57,0)
+ I X="^" Q
+"RTN","MAGSDOFL",58,0)
+ I X["?" D HELP1 G ASK1
+"RTN","MAGSDOFL",59,0)
+ N IOP,MAGFDA,MAGFL
+"RTN","MAGSDOFL",60,0)
+ I MAGIN="" S MAGIN=X
+"RTN","MAGSDOFL",61,0)
+ S %ZIS="",%ZIS("HFSNAME")=MAGIN,%ZIS("HFSMODE")="R",IOP="HFS"
+"RTN","MAGSDOFL",62,0)
+ S X="ERROR^MAGSDOFL",@^%ZOSF("TRAP")
+"RTN","MAGSDOFL",63,0)
+ S MAGFL=2006.033
+"RTN","MAGSDOFL",64,0)
+ S COUNT=0
+"RTN","MAGSDOFL",65,0)
+ U IO(0) W !!,"Here goes nothing...",!
+"RTN","MAGSDOFL",66,0)
+ D ^%ZIS
+"RTN","MAGSDOFL",67,0)
+ F  U IO R LN:5 D
+"RTN","MAGSDOFL",68,0)
+ . S COUNT=COUNT+1
+"RTN","MAGSDOFL",69,0)
+ . S LN=$$TRIM(LN)
+"RTN","MAGSDOFL",70,0)
+ . I LN["Media """ S MAGPLAT=$P(LN,"""",2) U IO(0) W !,MAGPLAT
+"RTN","MAGSDOFL",71,0)
+ . I COUNT#50=0 U IO(0) W "."
+"RTN","MAGSDOFL",72,0)
+ . S LN=$$FNAME(LN) Q:LN=""
+"RTN","MAGSDOFL",73,0)
+ . K MAGIEN S MAGIEN="?+1,"
+"RTN","MAGSDOFL",74,0)
+ . S MAGFDA(MAGFL,MAGIEN,.01)=LN
+"RTN","MAGSDOFL",75,0)
+ . S MAGFDA(MAGFL,MAGIEN,1)=MAGPLAT
+"RTN","MAGSDOFL",76,0)
+ . D UPDATE^DIE("","MAGFDA","MAGIEN","MAGERR")
+"RTN","MAGSDOFL",77,0)
+ . Q
+"RTN","MAGSDOFL",78,0)
+ W !,"Done."
+"RTN","MAGSDOFL",79,0)
+ Q
+"RTN","MAGSDOFL",80,0)
+LINE(OUT,LN,MAGPLAT) ;RPC - MAG UTIL JBOFFLN
+"RTN","MAGSDOFL",81,0)
+ ; LN := Process the line from JB platter/media report
+"RTN","MAGSDOFL",82,0)
+ ; MAGPLAT := platter name
+"RTN","MAGSDOFL",83,0)
+ ; OUT := return the result
+"RTN","MAGSDOFL",84,0)
+ ;        e.g.: '0, Done'
+"RTN","MAGSDOFL",85,0)
+ ;              '-1, Error message'
+"RTN","MAGSDOFL",86,0)
+ ;
+"RTN","MAGSDOFL",87,0)
+ N MAGFL,MAGIEN
+"RTN","MAGSDOFL",88,0)
+ S OUT(0)=0,MAGFL=2006.033 ;;JB offline file
+"RTN","MAGSDOFL",89,0)
+ I ($G(LN)="")!($G(MAGPLAT)="") S OUT(0)="-1,No text line value or specified platter" Q
+"RTN","MAGSDOFL",90,0)
+ S LN=$$TRIM(LN)
+"RTN","MAGSDOFL",91,0)
+ S LN=$$FNAME(LN) Q:LN=""
+"RTN","MAGSDOFL",92,0)
+ K MAGIEN S MAGIEN="?+1,"
+"RTN","MAGSDOFL",93,0)
+ S MAGFDA(MAGFL,MAGIEN,.01)=LN
+"RTN","MAGSDOFL",94,0)
+ S MAGFDA(MAGFL,MAGIEN,1)=MAGPLAT
+"RTN","MAGSDOFL",95,0)
+ D UPDATE^DIE("","MAGFDA","MAGIEN","MAGERR")
+"RTN","MAGSDOFL",96,0)
+ S OUT(0)="0,Done"
+"RTN","MAGSDOFL",97,0)
+ Q
+"RTN","MAGSDOFL",98,0)
+FNAME(LN) ;Find img file name
+"RTN","MAGSDOFL",99,0)
+ N XX  ;OTG 4x or 5x
+"RTN","MAGSDOFL",100,0)
+ I LN["\" D  Q XX
+"RTN","MAGSDOFL",101,0)
+ . F N=1:1 S XX=$P(LN,"\",N) Q:XX=""  I XX?.E1"."2.5AN S LN=XX Q
+"RTN","MAGSDOFL",102,0)
+ ;OTG 3x
+"RTN","MAGSDOFL",103,0)
+ I $P(LN," ",1)'?.E1"."2.5AN Q ""
+"RTN","MAGSDOFL",104,0)
+ S LN=$P(LN," ")
+"RTN","MAGSDOFL",105,0)
+ Q LN
+"RTN","MAGSDOFL",106,0)
+ONLINE(MAGPLAT) ;Set images back online
+"RTN","MAGSDOFL",107,0)
+ ;
+"RTN","MAGSDOFL",108,0)
+ASK I MAGPLAT="" U IO(0) R !!,"Enter the name of the platter being inserted: ",X:DTIME
+"RTN","MAGSDOFL",109,0)
+ I X="" Q
+"RTN","MAGSDOFL",110,0)
+ I X="^" Q
+"RTN","MAGSDOFL",111,0)
+ I X["?" D HELP G ASK
+"RTN","MAGSDOFL",112,0)
+ N MAGENT
+"RTN","MAGSDOFL",113,0)
+ S MAGPLAT=X
+"RTN","MAGSDOFL",114,0)
+ I '$D(^MAGQUEUE(2006.033,"C",MAGPLAT)) W "  Platter not on file..." Q
+"RTN","MAGSDOFL",115,0)
+ S DIK="^MAGQUEUE(2006.033,"
+"RTN","MAGSDOFL",116,0)
+ S MAGENT=""
+"RTN","MAGSDOFL",117,0)
+ F  S MAGENT=$O(^MAGQUEUE(2006.033,"C",MAGPLAT,MAGENT)) Q:'MAGENT  D
+"RTN","MAGSDOFL",118,0)
+ . S DA=MAGENT
+"RTN","MAGSDOFL",119,0)
+ . D ^DIK
+"RTN","MAGSDOFL",120,0)
+ . I $D(Y) U IO(0) W "."
+"RTN","MAGSDOFL",121,0)
+ . E  U IO(0) W !,"Problem deleting entry# "_MAGENT
+"RTN","MAGSDOFL",122,0)
+ U IO(0) W !,"Done."
+"RTN","MAGSDOFL",123,0)
+ Q
+"RTN","MAGSDOFL",124,0)
+HELP ;List offline platters
+"RTN","MAGSDOFL",125,0)
+ U IO(0) W !,"Do you want to see a list of all offline platters? " R X:60
+"RTN","MAGSDOFL",126,0)
+ I "?"[$E(X) W !!,"Answer ""yes"" to see a list of platters currently marked offline"
+"RTN","MAGSDOFL",127,0)
+ I "?"[$E(X) W !,"Answer ""no"" to return",! G HELP
+"RTN","MAGSDOFL",128,0)
+ I "Yy"'[$E(X) Q
+"RTN","MAGSDOFL",129,0)
+LISTP S MAGPLAT=""
+"RTN","MAGSDOFL",130,0)
+ F  S MAGPLAT=$O(^MAGQUEUE(2006.033,"C",MAGPLAT)) D  Q:MAGPLAT=""
+"RTN","MAGSDOFL",131,0)
+ . U IO(0) W !,MAGPLAT
+"RTN","MAGSDOFL",132,0)
+ Q
+"RTN","MAGSDOFL",133,0)
+LISTOFL(OUT) ;RPC - MAG UTIL LSTOFLJB ;LIST OFFLINE JB PLATTER(S) ;;*98
+"RTN","MAGSDOFL",134,0)
+ N MAGPLAT,CNT  S MAGPLAT="",OUT(1)="0"
+"RTN","MAGSDOFL",135,0)
+ F CNT=1:1 S MAGPLAT=$O(^MAGQUEUE(2006.033,"C",MAGPLAT)) Q:MAGPLAT=""  S OUT(CNT)=MAGPLAT
+"RTN","MAGSDOFL",136,0)
+ Q
+"RTN","MAGSDOFL",137,0)
+BKONL(OUT,MAGPLAT) ;RPC - MAG UTIL BKONLJB ;Put images back online (Insert Jukebox Platter)
+"RTN","MAGSDOFL",138,0)
+ N DIK,CNT,DA,Y
+"RTN","MAGSDOFL",139,0)
+ S OUT(1)="0"
+"RTN","MAGSDOFL",140,0)
+ I $G(MAGPLAT)="" S OUT(1)="-1,No JB Platter specified" Q
+"RTN","MAGSDOFL",141,0)
+ I $O(^MAGQUEUE(2006.033,"C",MAGPLAT,0))="" S OUT(1)="-1,Platter not on file 2006.033 -"_MAGPLAT Q
+"RTN","MAGSDOFL",142,0)
+ S DIK="^MAGQUEUE(2006.033,",MAGENT=""
+"RTN","MAGSDOFL",143,0)
+ F CNT=0:1 S MAGENT=$O(^MAGQUEUE(2006.033,"C",MAGPLAT,MAGENT)) Q:'MAGENT  D
+"RTN","MAGSDOFL",144,0)
+ . S DA=MAGENT D ^DIK
+"RTN","MAGSDOFL",145,0)
+ I $D(Y) S OUT(1)="0,Done "_CNT
+"RTN","MAGSDOFL",146,0)
+ Q
+"RTN","MAGSDOFL",147,0)
+GROUP ;Remove platters in group
+"RTN","MAGSDOFL",148,0)
+ N COUNT,MAGPLAT,PLAT,X,TOTAL,MAGIEN,CNT,IOP,MAGFDA,MAGFL,POP
+"RTN","MAGSDOFL",149,0)
+ASK3 R !!,"Enter 'DIR' file to read offline platter TXT from: ",X:$G(DTIME)
+"RTN","MAGSDOFL",150,0)
+ I X=""!(X="^") Q
+"RTN","MAGSDOFL",151,0)
+ I X["?" D HELP3 G ASK3
+"RTN","MAGSDOFL",152,0)
+ S MAGIN=X ;DIR filename
+"RTN","MAGSDOFL",153,0)
+ S %ZIS="",%ZIS("HFSNAME")=MAGIN,%ZIS("HFSMODE")="R",IOP="HFS"
+"RTN","MAGSDOFL",154,0)
+ S X="ERROR^MAGSDOFL",@^%ZOSF("TRAP")
+"RTN","MAGSDOFL",155,0)
+ D ^%ZIS
+"RTN","MAGSDOFL",156,0)
+ F  U IO R MAGPLAT:30 Q:($G(MAGPLAT)="")!($G(MAGPLAT)["~end")  I $L(MAGPLAT) S MAGPLAT(MAGPLAT)=0 U IO(0) W "|"
+"RTN","MAGSDOFL",157,0)
+ D ^%ZISC
+"RTN","MAGSDOFL",158,0)
+ S MAGFL=2006.033
+"RTN","MAGSDOFL",159,0)
+ U IO(0) W !!,"Here goes nothing...",!,"50 per '.'",!
+"RTN","MAGSDOFL",160,0)
+ S PLAT="" F CNT=0:1 S PLAT=$O(MAGPLAT(PLAT)) Q:PLAT=""  U IO(0) W !,PLAT D
+"RTN","MAGSDOFL",161,0)
+ . S COUNT=0,%ZIS="",%ZIS("HFSNAME")=PLAT,%ZIS("HFSMODE")="R",IOP="HFS"
+"RTN","MAGSDOFL",162,0)
+ . S X="ERROR^MAGSDOFL",@^%ZOSF("TRAP")
+"RTN","MAGSDOFL",163,0)
+ . D ^%ZIS I POP W !,"Sorry, ",PLAT," not found, try later.",! Q
+"RTN","MAGSDOFL",164,0)
+ . F  U IO R LN:5 D
+"RTN","MAGSDOFL",165,0)
+ . . S COUNT=COUNT+1,TOTAL=$G(TOTAL)+1
+"RTN","MAGSDOFL",166,0)
+ . . S LN=$$TRIM(LN)
+"RTN","MAGSDOFL",167,0)
+ . . I LN["Media """ S MAGPLAT=$P(LN,"""",2) U IO(0) W !,MAGPLAT
+"RTN","MAGSDOFL",168,0)
+ . . I COUNT#50=0 U IO(0) W "."
+"RTN","MAGSDOFL",169,0)
+ . . S LN=$$FNAME(LN) Q:LN=""
+"RTN","MAGSDOFL",170,0)
+ . . K MAGIEN S MAGIEN="?+1,"
+"RTN","MAGSDOFL",171,0)
+ . . S MAGFDA(MAGFL,MAGIEN,.01)=LN
+"RTN","MAGSDOFL",172,0)
+ . . S MAGFDA(MAGFL,MAGIEN,1)=MAGPLAT
+"RTN","MAGSDOFL",173,0)
+ . . D UPDATE^DIE("","MAGFDA","MAGIEN","MAGERR")
+"RTN","MAGSDOFL",174,0)
+ . . Q
+"RTN","MAGSDOFL",175,0)
+ . D ^%ZISC ;cls media report
+"RTN","MAGSDOFL",176,0)
+ . Q
+"RTN","MAGSDOFL",177,0)
+ U IO(0) W !,"Done (",CNT," platter(s), total files ",TOTAL," were marked offline.)",!
+"RTN","MAGSDOFL",178,0)
+ Q
+"RTN","MAGSDOFL",179,0)
+HELP1 ;Help for offline
+"RTN","MAGSDOFL",180,0)
+ W !,"Enter the name of the file created by the jukebox media file report"
+"RTN","MAGSDOFL",181,0)
+ Q
+"RTN","MAGSDOFL",182,0)
+HELP2 ;Help for OPTION prompt
+"RTN","MAGSDOFL",183,0)
+ W !,"Select option 1 if you are marking images offline"
+"RTN","MAGSDOFL",184,0)
+ W !,"Select option 2 if you are marking images online"
+"RTN","MAGSDOFL",185,0)
+ W !,"Select option 3 if you want the listing of off-line platter(s)"
+"RTN","MAGSDOFL",186,0)
+ W !,"Select option 4 if you are taking the group of platters off-line"
+"RTN","MAGSDOFL",187,0)
+ W !,"Type ""^"" to quit"
+"RTN","MAGSDOFL",188,0)
+ Q
+"RTN","MAGSDOFL",189,0)
+HELP3 ;Help for GROUP platters TXT
+"RTN","MAGSDOFL",190,0)
+ W !,"Enter the full file name that is grouped by the jukebox media TXT file report",!
+"RTN","MAGSDOFL",191,0)
+ W !,"For example: you do 'DIR JB*.TXT /B /S > [USER]DIR.TXT' ,append '~end' at end of file",!
+"RTN","MAGSDOFL",192,0)
+ W !,"Then use [USER]DIR.TXT as source file",!
+"RTN","MAGSDOFL",193,0)
+ Q
+"RTN","MAGSDOFL",194,0)
+ ;
+"RTN","MAGSDOFL",195,0)
+TRIM(X) ;
+"RTN","MAGSDOFL",196,0)
+ N I,J
+"RTN","MAGSDOFL",197,0)
+ F I=1:1:$L(X) Q:$E(X,I)'=" "
+"RTN","MAGSDOFL",198,0)
+ F J=$L(X):-1:I Q:$E(X,J)'=" "
+"RTN","MAGSDOFL",199,0)
+ Q $E(X,I,J)
+"RTN","MAGSDOFL",200,0)
+ERROR ;Trap Errors Here
+"RTN","MAGSDOFL",201,0)
+ D ^%ZISC
+"RTN","MAGSDOFL",202,0)
+ Q
+"RTN","MAGSDOFL",203,0)
+OPTIONS ; Offline Image Menu
+"RTN","MAGSDOFL",204,0)
+ ;;Take images offline (Remove Jukebox Platter);OFFLINE("")
+"RTN","MAGSDOFL",205,0)
+ ;;Put images back online (Insert Jukebox Platter);ONLINE("")
+"RTN","MAGSDOFL",206,0)
+ ;;Take images offline (Group platters);GROUP
+"RTN","MAGSDOFL",207,0)
+ ;;List current offline Jukebox Platter;LISTP
+"RTN","MAGSFTCH")
+0^5^B159297363
+"RTN","MAGSFTCH",1,0)
+MAGSFTCH ;WOIFO/JSL - IMAGE STORAGE COPY UTILITY PROGRAM  ; July 01, 2010  1:06 PM
+"RTN","MAGSFTCH",2,0)
+ ;;3.0;IMAGING;**98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGSFTCH",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGSFTCH",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSFTCH",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGSFTCH",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGSFTCH",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGSFTCH",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGSFTCH",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGSFTCH",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGSFTCH",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGSFTCH",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGSFTCH",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGSFTCH",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGSFTCH",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGSFTCH",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSFTCH",17,0)
+ ;;
+"RTN","MAGSFTCH",18,0)
+FETCH(OUT,MAGIEN,DATE,NETLOC) ;RPC = MAG STORAGE FETCH
+"RTN","MAGSFTCH",19,0)
+ ;; OUT() : result - code,message
+"RTN","MAGSFTCH",20,0)
+ ;;   for example: OUT(1) = "0, Done",  OUT(1)= "Ien1: Ien2, copy command line"
+"RTN","MAGSFTCH",21,0)
+ ;; MAGIEN : fetching IEN (start ien) | (stop ien)
+"RTN","MAGSFTCH",22,0)
+ ;; DATE : image saved date (start date) | (stop date)
+"RTN","MAGSFTCH",23,0)
+ ;; NETLOC : FROM | TO - network location | remove source file | WinZip option
+"RTN","MAGSFTCH",24,0)
+ N CNT,CMD,DT1,DT2,DTOUT,ENDIM,EXT,FILE,FNAME,FROM,FRMLOC,IEN1,IEN2,IM,IN,IN1,IN2,JBLOC,LOC,LOCN,LNO
+"RTN","MAGSFTCH",25,0)
+ N M,MOVOLD,WZIP,NTLOC,OK,PS,PLACE,RDLOC,SITE,START,STOP,STYP,TLOC,TO,TP,X,X0,X1,X2,XBIG,Y,WRTLOC,LOGTIME,BTMOUT
+"RTN","MAGSFTCH",26,0)
+ K OUT S OUT(1)=0,OK=0,U="^",LNO=0
+"RTN","MAGSFTCH",27,0)
+ S LOGTIME=$$NOW^XLFDT(),BTMOUT=+$P(^MAG(2006.1,$$PLACE^MAGBAPI(+$G(DUZ(2))),"KEYS"),U,2) I $G(XWBTIME) S:BTMOUT>XWBTIME BTMOUT=XWBTIME ;broker time out
+"RTN","MAGSFTCH",28,0)
+ I $G(MAGIEN) S:'$G(DATE) DATE=$P($$NOW^XLFDT,"."),DT2="2800101" S IM=+$G(MAGIEN),ENDIM=$P($G(MAGIEN),":",2) ;ien range - IM ~ ENDIM
+"RTN","MAGSFTCH",29,0)
+ E  S DATE=$G(DATE),DT2=$P(DATE,"|",2),DATE=+DATE ;DT2 fetch end date
+"RTN","MAGSFTCH",30,0)
+ ;DATE range iens, find one
+"RTN","MAGSFTCH",31,0)
+ I '$G(IM) S IM=$S($G(DATE):$$FINDIEN(DATE),1:$O(^MAG(2005," "),-1))
+"RTN","MAGSFTCH",32,0)
+ I '$G(ENDIM) S ENDIM=$S($G(DT2):$$FINDIEN(DT2),$G(DATE):$$FINDIEN(DATE-1),1:0)
+"RTN","MAGSFTCH",33,0)
+NEXT ;IEN range in reverse order, find matched IEN to fetch/copy
+"RTN","MAGSFTCH",34,0)
+ S X0=$G(^MAG(2005,IM,0))
+"RTN","MAGSFTCH",35,0)
+ I $P(X0,U,2)'["." I IM>1 F CNT=1:1:100000 S IM=$O(^MAG(2005,IM),-1) Q:'IM!(IM<ENDIM)  S X0=$G(^MAG(2005,IM,0)) I $P(X0,U,2)["." Q  ;find next
+"RTN","MAGSFTCH",36,0)
+ I IM I ($$NOW^XLFDT-$G(^MAG(2005,IM,2)))<1 S IM=$O(^MAG(2005,IM),-1) G NEXT  ;exclude today image(s) IM
+"RTN","MAGSFTCH",37,0)
+ I (IM'<ENDIM),($P(X0,U,2)[".") D FETCH1
+"RTN","MAGSFTCH",38,0)
+ I OK S OUT(1)=IM_":"_ENDIM_",CMD summit "_LNO_U_WRTLOC_U_$G(FRMLOC)_U_DT1_U_$G(MOVOLD)_"@"_DATE_"|"_DT2_"|"_$G(STYP)_"|"_FNAME_"|"_+$G(XBIG,0)
+"RTN","MAGSFTCH",39,0)
+ I $P(OUT(1),",",1)=-1 Q  ;error occured
+"RTN","MAGSFTCH",40,0)
+ I 'OK I ($$FMDIFF^XLFDT($$NOW^XLFDT(),LOGTIME,2)+1)>$G(BTMOUT) D  Q  ;before BK time out, still not finding any image
+"RTN","MAGSFTCH",41,0)
+ . S OUT(1)="-2,Cannot find image file on selected Source location to copy within IEN range("_IM_"~"_+$G(MAGIEN)_") after broker timeout"_$S($G(BTMOUT):" of "_BTMOUT_" sec.",1:".")
+"RTN","MAGSFTCH",42,0)
+ . Q
+"RTN","MAGSFTCH",43,0)
+ I 'OK,$G(OUT(2))="" S IM=$O(^MAG(2005,IM),-1) K OUT(2) G:IM>0 NEXT
+"RTN","MAGSFTCH",44,0)
+ S:IM<1 OUT(1)=0_",Done"
+"RTN","MAGSFTCH",45,0)
+ Q
+"RTN","MAGSFTCH",46,0)
+ ;
+"RTN","MAGSFTCH",47,0)
+FETCH1 ;Find the image file from share
+"RTN","MAGSFTCH",48,0)
+ S XBIG=$G(^MAG(2005,IM,"FBIG"))
+"RTN","MAGSFTCH",49,0)
+ S X2=$G(^MAG(2005,IM,2)),DT1=$P(X2,U) ;D/T image saved
+"RTN","MAGSFTCH",50,0)
+ I DT1 I DT1<DT2 S:(DT1-DATE)<-1 IM=-1 Q  ;early than fetch end date, or stop the loop $O()
+"RTN","MAGSFTCH",51,0)
+ S OUT(1)=IM_":"_ENDIM  ;last fetching IEN
+"RTN","MAGSFTCH",52,0)
+ S LNO=1     ;LN number of OUT()
+"RTN","MAGSFTCH",53,0)
+ S SITE=$P($G(^MAG(2005,IM,100)),U,3)       ;SITE ID
+"RTN","MAGSFTCH",54,0)
+ S PLACE=+$S(SITE:$O(^MAG(2006.1,"B",SITE,0)),1:$O(^MAG(2006.1,0))) S:'PLACE PLACE=1
+"RTN","MAGSFTCH",55,0)
+ S FRMLOC=+$P($G(NETLOC),"|"),WRTLOC=+$P($G(NETLOC),"|",2),MOVOLD=$P($G(NETLOC),"|",3),WZIP=$P($G(NETLOC),"|",4)
+"RTN","MAGSFTCH",56,0)
+ I WRTLOC="" S OUT(1)="-1,Can't Find 'TO' write network location" Q
+"RTN","MAGSFTCH",57,0)
+ S FNAME=$P(X0,U,2),FILE=$P(FNAME,"."),EXT=$P(FNAME,".",2) Q:FILE=""
+"RTN","MAGSFTCH",58,0)
+ I $L(FILE)>8 I $L(FILE)'=14 I FRMLOC=$P(X0,U,3) D MAGFIX93(.OUT,IM) S X0=^MAG(2005,IM,0),FNAME=$P(X0,U,2),FILE=$P(FNAME,".") ;valid 8.3, 14.3
+"RTN","MAGSFTCH",59,0)
+ I FRMLOC=$P(X0,U,5) D FULL Q
+"RTN","MAGSFTCH",60,0)
+ I FRMLOC=$P(X0,U,3) D FULL Q
+"RTN","MAGSFTCH",61,0)
+ I FRMLOC=$P(X0,U,4) D FULL Q
+"RTN","MAGSFTCH",62,0)
+ I $L(XBIG) I (FRMLOC=$P(XBIG,U))!(FRMLOC=$P(XBIG,U,2)) D FULL Q
+"RTN","MAGSFTCH",63,0)
+ I $P($G(NETLOC),"|")="*" D ALLCPY Q
+"RTN","MAGSFTCH",64,0)
+ E  I (FRMLOC'=$P(X0,U,3))&(FRMLOC'=$P(X0,U,5)) S OK=0,OUT(1)=0,OUT(2)="" Q  ;Not on selected share 
+"RTN","MAGSFTCH",65,0)
+ S:'WRTLOC WRTLOC=$P($G(^MAG(2006.1,PLACE,0)),U,3)  ;current write location vs Site ID
+"RTN","MAGSFTCH",66,0)
+ I 'WRTLOC S OUT(1)="-1,Can't Find Current Write Location for ("_MAGIEN_")" Q
+"RTN","MAGSFTCH",67,0)
+ Q
+"RTN","MAGSFTCH",68,0)
+ ;
+"RTN","MAGSFTCH",69,0)
+ALLCPY ;copy ALL set image files to JB
+"RTN","MAGSFTCH",70,0)
+ N MKDIR,X1,NO S LNO=$S($D(OUT(2)):$O(OUT(" "),-1),1:2)
+"RTN","MAGSFTCH",71,0)
+ S LOCN=$P(XBIG,U) S:LOCN LOCN(LOCN)=1 F PS=3,4 S LOCN=$P(X0,U,PS) S:LOCN LOCN(LOCN)=PS ;all possible RAID loc
+"RTN","MAGSFTCH",72,0)
+ I '$O(LOCN(0)) S OUT(1)="-1,Can't Find Current Image Location for ("_MAGIEN_")" Q
+"RTN","MAGSFTCH",73,0)
+ S LOCN=0 F  S LOCN=$O(LOCN(LOCN)) Q:'LOCN  D
+"RTN","MAGSFTCH",74,0)
+ . S LOC=$G(^MAG(2005.2,LOCN,0)) Q:'$L(LOC)
+"RTN","MAGSFTCH",75,0)
+ . I LOCN I LOCN'=$P(X0,U,5) I LOCN'=$P(X0,U,3) Q  ;not on RAID share nor JB
+"RTN","MAGSFTCH",76,0)
+ . S STYP=$S($P(LOC,U,7)="MAG":"R",1:"J")  ;storage type
+"RTN","MAGSFTCH",77,0)
+ . I $P(^MAG(2005.2,LOCN,0),U,10) Q:PLACE'=$P(^MAG(2005.2,LOCN,0),U,10)  ;chk PLACE
+"RTN","MAGSFTCH",78,0)
+ . S TLOC=$G(^MAG(2005.2,WRTLOC,0)) Q:'$L(TLOC)
+"RTN","MAGSFTCH",79,0)
+ . I $P(TLOC,U,8)'="Y" S OUT(1)="-1,WRITE Location is not hashed" Q 
+"RTN","MAGSFTCH",80,0)
+ . S STYP="RJ"
+"RTN","MAGSFTCH",81,0)
+ . S JBLOC=$P(LOC,U,2),RDLOC=$P(^MAG(2005.2,WRTLOC,0),U,2)  ;phyical location
+"RTN","MAGSFTCH",82,0)
+ . S FROM=$$DIRHASH^MAGFILEB(FNAME,LOCN),FROM=$$CHKDIR(FROM) ;JB hash dir
+"RTN","MAGSFTCH",83,0)
+ . S TO=$$DIRHASH^MAGFILEB(FNAME,WRTLOC),TO=$$CHKDIR(TO) ;RD hash dir
+"RTN","MAGSFTCH",84,0)
+ . I '$G(MKDIR) D
+"RTN","MAGSFTCH",85,0)
+ . . S:'$D(OUT(2)) OUT(2)="DIR "_JBLOC_FROM_FILE_".*"  ;chk file exist
+"RTN","MAGSFTCH",86,0)
+ . . I $F(TO,"\") F NO=1:1 S X1=$P(TO,"\",NO) Q:X1=""  S LNO=LNO+1,OUT(LNO)="MKDIR "_RDLOC_$P(TO,"\",1,NO)
+"RTN","MAGSFTCH",87,0)
+ . . E  S LNO=LNO+1,OUT(LNO)="MKDIR "_RDLOC_TO
+"RTN","MAGSFTCH",88,0)
+ . . S MKDIR=1  ;create hash folder
+"RTN","MAGSFTCH",89,0)
+ . . Q
+"RTN","MAGSFTCH",90,0)
+ . D @STYP
+"RTN","MAGSFTCH",91,0)
+ Q
+"RTN","MAGSFTCH",92,0)
+ ;
+"RTN","MAGSFTCH",93,0)
+FULL ;copy all images full set
+"RTN","MAGSFTCH",94,0)
+ N X1,NO S LNO=$S($D(OUT(2)):$O(OUT(" "),-1),1:2)
+"RTN","MAGSFTCH",95,0)
+ S LOCN=FRMLOC S:'LOCN LOCN=$P(X0,U,5) S:'LOCN LOCN=$P(X0,U,3) S:'LOCN LOCN=$P(X0,U,4) Q:'LOCN
+"RTN","MAGSFTCH",96,0)
+ S LOC=$G(^MAG(2005.2,LOCN,0)) Q:'$L(LOC)
+"RTN","MAGSFTCH",97,0)
+ I LOCN I LOCN'=$P(X0,U,5) I LOCN'=$P(X0,U,3) I LOCN'=$P(X0,U,4) I '(FRMLOC=$P(XBIG,U)) I '(FRMLOC=$P(XBIG,U,2)) Q  ;not on RAID share nor JB
+"RTN","MAGSFTCH",98,0)
+ S STYP=$S($P(LOC,U,7)="MAG":"R",1:"J")  ;storage type
+"RTN","MAGSFTCH",99,0)
+ I $P(^MAG(2005.2,LOCN,0),U,10) Q:PLACE'=$P(^MAG(2005.2,LOCN,0),U,10)  ;chk PLACE
+"RTN","MAGSFTCH",100,0)
+ S TLOC=$G(^MAG(2005.2,WRTLOC,0)) Q:'$L(TLOC)
+"RTN","MAGSFTCH",101,0)
+ I $P(TLOC,U,8)'="Y" S OUT(1)="-1,WRITE Location is not hashed" Q 
+"RTN","MAGSFTCH",102,0)
+ S STYP=STYP_$S($P(TLOC,U,7)="MAG":"R",1:"J")
+"RTN","MAGSFTCH",103,0)
+ S JBLOC=$P(LOC,U,2),RDLOC=$P(^MAG(2005.2,WRTLOC,0),U,2)  ;phyical location
+"RTN","MAGSFTCH",104,0)
+ S FROM=$$DIRHASH^MAGFILEB(FNAME,LOCN),FROM=$$CHKDIR(FROM) ;JB hash dir
+"RTN","MAGSFTCH",105,0)
+ S TO=$$DIRHASH^MAGFILEB(FNAME,WRTLOC),TO=$$CHKDIR(TO) ;RD hash dir
+"RTN","MAGSFTCH",106,0)
+ S:'$D(OUT(2)) OUT(2)="DIR "_JBLOC_FROM_FILE_".*"  ;chk file exist
+"RTN","MAGSFTCH",107,0)
+ I $F(TO,"\") F NO=1:1 S X1=$P(TO,"\",NO) Q:X1=""  S LNO=LNO+1,OUT(LNO)="MKDIR "_RDLOC_$P(TO,"\",1,NO)
+"RTN","MAGSFTCH",108,0)
+ E  S LNO=LNO+1,OUT(LNO)="MKDIR "_RDLOC_TO ;create hashed dir
+"RTN","MAGSFTCH",109,0)
+ I '(FRMLOC=$P(XBIG,U)) I '(FRMLOC=$P(XBIG,U,2)) S XBIG="" ;no BIG copy
+"RTN","MAGSFTCH",110,0)
+ D @STYP
+"RTN","MAGSFTCH",111,0)
+ Q
+"RTN","MAGSFTCH",112,0)
+ ;
+"RTN","MAGSFTCH",113,0)
+STYP ;; COPY image - JB->RAID  (e.g.:Fetching JB)
+"RTN","MAGSFTCH",114,0)
+ ;;                  JB->JB    (e.g.:Hashing/Media Copy) 
+"RTN","MAGSFTCH",115,0)
+ ;;                RAID->JB  (e.g.:Archive JB)
+"RTN","MAGSFTCH",116,0)
+ ;;                RAID->RAID (e.g.: Media Copy)
+"RTN","MAGSFTCH",117,0)
+JR ;JB to RAID
+"RTN","MAGSFTCH",118,0)
+ D COPYCMD
+"RTN","MAGSFTCH",119,0)
+ S OK=1
+"RTN","MAGSFTCH",120,0)
+ Q
+"RTN","MAGSFTCH",121,0)
+ ;
+"RTN","MAGSFTCH",122,0)
+JJ ;JB to JB
+"RTN","MAGSFTCH",123,0)
+ D COPYCMD
+"RTN","MAGSFTCH",124,0)
+ S OK=1
+"RTN","MAGSFTCH",125,0)
+ Q
+"RTN","MAGSFTCH",126,0)
+ ;
+"RTN","MAGSFTCH",127,0)
+RJ ;RAID to JB
+"RTN","MAGSFTCH",128,0)
+ I $G(MOVOLD)=1 D MOVECMD S OK=1 Q
+"RTN","MAGSFTCH",129,0)
+ D COPYCMD
+"RTN","MAGSFTCH",130,0)
+ S OK=1
+"RTN","MAGSFTCH",131,0)
+ Q
+"RTN","MAGSFTCH",132,0)
+ ;
+"RTN","MAGSFTCH",133,0)
+RR ;RAID to RAID
+"RTN","MAGSFTCH",134,0)
+ I $G(MOVOLD)=1 D MOVECMD S OK=1 Q
+"RTN","MAGSFTCH",135,0)
+ D COPYCMD
+"RTN","MAGSFTCH",136,0)
+ S OK=1
+"RTN","MAGSFTCH",137,0)
+ Q
+"RTN","MAGSFTCH",138,0)
+COPYCMD ;create each copy cmd line for GUI (called by FETCH1/JR/JJ/RJ/RR)
+"RTN","MAGSFTCH",139,0)
+ N SRC S CMD="",SRC=$$CHKSRC(STYP,X0,$G(XBIG))
+"RTN","MAGSFTCH",140,0)
+ I $P(SRC,U,1) S CMD="COPY/Y /V "_JBLOC_FROM_FILE_".TXT "_RDLOC_TO_FILE_".TXT ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",141,0)
+ I $P(SRC,U,2) S CMD="COPY/Y /V "_JBLOC_FROM_FILE_".ABS "_RDLOC_TO_FILE_".ABS ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",142,0)
+ I $P(SRC,U,3) S CMD="COPY/Y /V "_JBLOC_FROM_FILE_"."_EXT_" "_RDLOC_TO_FILE_"."_EXT_" ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",143,0)
+ I $P(SRC,U,4) S CMD="COPY/Y /V "_JBLOC_FROM_FILE_".BIG "_RDLOC_TO_FILE_".BIG ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",144,0)
+ I CMD="" S OUT(1)="-1,Can't find image set for IEN("_MAGIEN_")" Q
+"RTN","MAGSFTCH",145,0)
+ Q
+"RTN","MAGSFTCH",146,0)
+MOVECMD ;create each Move cmd line for GUI
+"RTN","MAGSFTCH",147,0)
+ N SRC S CMD="",SRC=$$CHKSRC(STYP,X0,$G(XBIG))
+"RTN","MAGSFTCH",148,0)
+ I $P(SRC,U,1) S CMD="MOVE/Y "_JBLOC_FROM_FILE_".TXT "_RDLOC_TO_FILE_".TXT ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",149,0)
+ I $P(SRC,U,2) S CMD="MOVE/Y "_JBLOC_FROM_FILE_".ABS "_RDLOC_TO_FILE_".ABS ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",150,0)
+ I $P(SRC,U,3) S CMD="MOVE/Y "_JBLOC_FROM_FILE_"."_EXT_" "_RDLOC_TO_FILE_"."_EXT_" ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",151,0)
+ I $P(SRC,U,4) S CMD="MOVE/Y "_JBLOC_FROM_FILE_".BIG "_RDLOC_TO_FILE_".BIG ",LNO=LNO+1,OUT(LNO)=CMD
+"RTN","MAGSFTCH",152,0)
+ I CMD="" S OUT(1)="-1,Can't find image set for IEN("_MAGIEN_")" Q
+"RTN","MAGSFTCH",153,0)
+ Q
+"RTN","MAGSFTCH",154,0)
+CHKSRC(STYP,X0,XBIG) ;check if source files exist for copy
+"RTN","MAGSFTCH",155,0)
+ ;; STYP = storage types,  X0 = 2005 entry, XBIG = 2005 FBIG entry 
+"RTN","MAGSFTCH",156,0)
+ N ABS,BIG,TGA,TXT S (ABS,BIG,TGA,TXT)=0
+"RTN","MAGSFTCH",157,0)
+ I (STYP="RR") S:(LOCN=$P(X0,U,3)) (TXT,TGA)=1 S:(LOCN=$P(X0,U,4)) (TXT,ABS)=1 S:(LOCN=$P(XBIG,U)) (TXT,BIG)=1
+"RTN","MAGSFTCH",158,0)
+ I (STYP="RJ") S:(LOCN=$P(X0,U,3))!(LOCN=$P(X0,U,4)) (TGA,ABS,TXT)=1 S:(LOCN=$P(XBIG,U)) (TXT,BIG)=1
+"RTN","MAGSFTCH",159,0)
+ I (STYP="JJ") S:(LOCN=$P(X0,U,5)) (TGA,ABS,TXT)=1 S:(LOCN=$P(XBIG,U,2)) (TXT,BIG)=1
+"RTN","MAGSFTCH",160,0)
+ I (STYP="JR") S:(LOCN=$P(X0,U,5)) (TGA,ABS,TXT)=1 S:(LOCN=$P(XBIG,U,2)) (TXT,BIG)=1
+"RTN","MAGSFTCH",161,0)
+ Q TXT_U_ABS_U_TGA_U_BIG
+"RTN","MAGSFTCH",162,0)
+ ;---------------------------------------------------------------------
+"RTN","MAGSFTCH",163,0)
+SETLOC(OUT,IM,NTLOC) ;RPC = MAG STORAGE FETCH SET
+"RTN","MAGSFTCH",164,0)
+ ;; Set the RAID location piece(NTLOC) in MAG(2005,IM includes 3,4 & FBIG
+"RTN","MAGSFTCH",165,0)
+ ;; OUT(1)= 1  success     |   IM = ien IMAGE file #2005
+"RTN","MAGSFTCH",166,0)
+ ;;         0  no action   |   NTLOC = network loction ien+(opt:overwrt "*" full or "@" .ABS or "b" .BIG) + (| source location)
+"RTN","MAGSFTCH",167,0)
+ ;;         -1 error       |
+"RTN","MAGSFTCH",168,0)
+ N OK,X,XBIG,Y,SRC
+"RTN","MAGSFTCH",169,0)
+ K OUT S OUT(1)=0,OK=0,U="^"
+"RTN","MAGSFTCH",170,0)
+ S SRC=+$P($G(NTLOC),"|",2) ;source location ien
+"RTN","MAGSFTCH",171,0)
+ I '$G(IM) S OUT(1)="-1,No IMAGE IEN Specified ("_$G(IM)_")" Q
+"RTN","MAGSFTCH",172,0)
+ I $G(NTLOC)="" S OUT(1)="-1,No Network Location Specified" Q
+"RTN","MAGSFTCH",173,0)
+ S X=$G(^MAG(2005.2,+NTLOC,0)) Q:$P(X,U,9)  ;no Set for router
+"RTN","MAGSFTCH",174,0)
+ I $P(X,U,2)="" S OUT(1)="-1,Invalid Network Location "_NTLOC Q
+"RTN","MAGSFTCH",175,0)
+ I $P(X,U,7)["WORM" D SETJBL Q
+"RTN","MAGSFTCH",176,0)
+ I $P(X,U,7)'="MAG" S OUT(1)="0,Not a RAID/MAG nor a JB/WORM NETWORK LOCATION type - IEN "_NTLOC Q
+"RTN","MAGSFTCH",177,0)
+ S (X,Y)=$G(^MAG(2005,IM,0)) I X="" S OUT(1)="-1,No IMAGE File entry - IEN "_IM Q
+"RTN","MAGSFTCH",178,0)
+ S XBIG=$G(^MAG(2005,IM,"FBIG"))
+"RTN","MAGSFTCH",179,0)
+ I SRC>0 D  Q  ;with the file(s) source info, use it to set RAID pt
+"RTN","MAGSFTCH",180,0)
+ . I ($P(X,U,4)=SRC)!($P(X,U,5)=SRC) S $P(Y,U,4)=+NTLOC,OK=1 ;ABS
+"RTN","MAGSFTCH",181,0)
+ . I ($P(X,U,3)=SRC)!($P(X,U,5)=SRC) S $P(Y,U,3)=+NTLOC,OK=1 ;full
+"RTN","MAGSFTCH",182,0)
+ . I OK S ^MAG(2005,IM,0)=Y,OUT(1)="1,Set RAID pointer for 2005 IMAGE IEN "_IM
+"RTN","MAGSFTCH",183,0)
+ . I ($P(XBIG,U)=SRC)!($P(XBIG,U,2)=SRC) S $P(^MAG(2005,IM,"FBIG"),"^")=+NTLOC,OUT(1)=$S(OK:OUT(1)_" w/FBIG",1:"1,Set RAID(FBIG) pointer for 2005 IMAGE IEN "_IM)
+"RTN","MAGSFTCH",184,0)
+ . Q
+"RTN","MAGSFTCH",185,0)
+ I (NTLOC["b") G SETLOC4B  ;BIG file only
+"RTN","MAGSFTCH",186,0)
+ I (NTLOC["@") S $P(Y,U,4)=+NTLOC,OK=1  ;set ABS only
+"RTN","MAGSFTCH",187,0)
+ E  D
+"RTN","MAGSFTCH",188,0)
+ . I '$P(X,U,4)!(NTLOC["*") S:'(NTLOC["r") $P(Y,U,4)=+NTLOC,OK=1 ;r : p3 only
+"RTN","MAGSFTCH",189,0)
+ . I '$P(X,U,3)!(NTLOC["*")!(NTLOC["r") S $P(Y,U,3)=+NTLOC,OK=1  ;set FULL
+"RTN","MAGSFTCH",190,0)
+ . Q
+"RTN","MAGSFTCH",191,0)
+ I OK S ^MAG(2005,IM,0)=Y,OUT(1)="1,Set RAID pointer for 2005 IMAGE IEN ,"_IM
+"RTN","MAGSFTCH",192,0)
+ I OK=0,$P(X,U,3) I (+NTLOC)'=$P(X,U,3) S OUT(1)="-1,Not setting #"_NTLOC_" already exist other network location #"_$P(X,U,3) Q
+"RTN","MAGSFTCH",193,0)
+ Q:XBIG=""!(XBIG="^")!(NTLOC["@")  ;no BIG file to set
+"RTN","MAGSFTCH",194,0)
+SETLOC4B ;BIG file RAID
+"RTN","MAGSFTCH",195,0)
+ S $P(^MAG(2005,IM,"FBIG"),"^")=+NTLOC,OUT(1)=$S(OK:OUT(1)_" w/FBIG",1:"1,Set RAID(FBIG) pointer for 2005 IMAGE IEN "_IM)
+"RTN","MAGSFTCH",196,0)
+ Q
+"RTN","MAGSFTCH",197,0)
+ ;
+"RTN","MAGSFTCH",198,0)
+SETJBL ;SET JB location
+"RTN","MAGSFTCH",199,0)
+ I '$G(NTLOC)="" S OUT(1)="-1,No Network Location Specified" Q
+"RTN","MAGSFTCH",200,0)
+ S (X,Y)=$G(^MAG(2005,IM,0)) I X="" S OUT(1)="-1,No Image File"_IM Q
+"RTN","MAGSFTCH",201,0)
+ S XBIG=$G(^MAG(2005,IM,"FBIG"))
+"RTN","MAGSFTCH",202,0)
+ I SRC>0 D  Q  ;with the source info, use it to set new jukebox pt
+"RTN","MAGSFTCH",203,0)
+ . I ($P(X,U,3)=SRC)!($P(X,U,4)=SRC)!($P(X,U,5)=SRC) S $P(Y,U,5)=+NTLOC,OK=1 ;JB
+"RTN","MAGSFTCH",204,0)
+ . I OK S ^MAG(2005,IM,0)=Y,OUT(1)="1,Set JB pointer for 2005 IMAGE IEN "_IM
+"RTN","MAGSFTCH",205,0)
+ . I ($P(XBIG,U)=SRC)!($P(XBIG,U,2)=SRC) S $P(^MAG(2005,IM,"FBIG"),"^",2)=+NTLOC,OUT(1)=$S(OK:OUT(1)_" w/FBIG",1:"1,Set JB(FIBG) pointer for 2005 IMAGE IEN "_IM)
+"RTN","MAGSFTCH",206,0)
+ . Q
+"RTN","MAGSFTCH",207,0)
+ I $P(X,U,5)'=NTLOC S $P(Y,U,5)=+NTLOC,OK=1 ;set FULL
+"RTN","MAGSFTCH",208,0)
+ I OK S ^MAG(2005,IM,0)=Y,OUT(1)="1,Set JB pointer for 2005 IMAGE IEN "_IM
+"RTN","MAGSFTCH",209,0)
+ Q:XBIG=""!(XBIG="^")  ;no BIG
+"RTN","MAGSFTCH",210,0)
+ I SRC>0 I $P(XBIG,U)'=SRC I $P(XBIG,U,2)'=SRC Q  ;not same source loc
+"RTN","MAGSFTCH",211,0)
+ S $P(^MAG(2005,IM,"FBIG"),"^",2)=+NTLOC,OUT(1)=$S(OK:OUT(1)_" w/FBIG",1:"1,Set JB(FIBG) pointer for 2005 IMAGE IEN "_IM)
+"RTN","MAGSFTCH",212,0)
+ Q
+"RTN","MAGSFTCH",213,0)
+ ;
+"RTN","MAGSFTCH",214,0)
+FINDIEN(DT1) ; Find last IEN mark(IN) to process on DT1         
+"RTN","MAGSFTCH",215,0)
+ S IN1=0,IN2=$O(^MAG(2005,"A"),-1),IN=(IN1+IN2)\2
+"RTN","MAGSFTCH",216,0)
+LOOP ;check image saved date
+"RTN","MAGSFTCH",217,0)
+ S Y=$G(^MAG(2005,IN,2)) I Y="" S IN=IN+1 I IN<IN2 G LOOP
+"RTN","MAGSFTCH",218,0)
+ I +Y>DT1 S IN2=IN,IN=(IN1+IN2)\2
+"RTN","MAGSFTCH",219,0)
+ E  S IN1=IN,IN=(IN1+IN2)\2
+"RTN","MAGSFTCH",220,0)
+ I IN1'=IN,IN2'=IN G LOOP
+"RTN","MAGSFTCH",221,0)
+ Q IN
+"RTN","MAGSFTCH",222,0)
+ ;
+"RTN","MAGSFTCH",223,0)
+MAGFIX93(OUT,IEN) ;API - MAG UTIL FIX9.3, fix 9.3 10.3 file format (call by FETCH1)
+"RTN","MAGSFTCH",224,0)
+ ;; OUT() : result - DOS commands to rename(move) the 9.3 or 10.3 file name to 14.3
+"RTN","MAGSFTCH",225,0)
+ ;;   for example: OUT(1) = "move abc123456.abs abc0\00\00\12\34\abc00000123456.abs"
+"RTN","MAGSFTCH",226,0)
+ ;; IEN : image file IEN
+"RTN","MAGSFTCH",227,0)
+ ;;
+"RTN","MAGSFTCH",228,0)
+ N NWNAME,NO,OFNAME,X,Y,LOCN,LOC,ODIR,EXT,NFNAME,NDIR,CMD,DIE,DA,DR,EXT1,CMD,X1,SITE
+"RTN","MAGSFTCH",229,0)
+ S:'$D(U) U="^"
+"RTN","MAGSFTCH",230,0)
+ S SITE=+$P($G(^MAG(2005,IEN,100)),U,3)       ;SITE ID 
+"RTN","MAGSFTCH",231,0)
+ S:'$D(PLACE) PLACE=+$S(SITE:$O(^MAG(2006.1,"B",SITE,0)),1:$O(^MAG(2006.1,0))) S:'PLACE PLACE=1
+"RTN","MAGSFTCH",232,0)
+ S LNO=2,NWNAME=$P(^MAG(2006.1,PLACE,0),U,2) ;current site namespace
+"RTN","MAGSFTCH",233,0)
+ S X=$G(^MAG(2005,IEN,0)) I $L(X) D
+"RTN","MAGSFTCH",234,0)
+ . S Y=$P(X,U,2) Q:Y=""  ;GROUP no file reference
+"RTN","MAGSFTCH",235,0)
+ . S OFNAME=$P(Y,".") I ($L(OFNAME)=8)!(OFNAME="")!($L(OFNAME)=14) Q  ;8.3 14.3 format
+"RTN","MAGSFTCH",236,0)
+ . S LOCN=$P(X,U,3) Q:'LOCN   ;RAID location
+"RTN","MAGSFTCH",237,0)
+ . ;;I $P(X,U,5) Q  ;don't change file name w/ JB(WORM) copy
+"RTN","MAGSFTCH",238,0)
+ . S LOC=$P($G(^MAG(2005.2,LOCN,0)),U,2) Q:'$L(LOC)
+"RTN","MAGSFTCH",239,0)
+ . S ODIR=$$DIRHASH(OFNAME,LOCN),ODIR=$$CHKDIR(ODIR)
+"RTN","MAGSFTCH",240,0)
+ . S EXT=$P(Y,".",2) Q:EXT=""  ;no extn?
+"RTN","MAGSFTCH",241,0)
+ . S NFNAME=NWNAME_$$PRE0(IEN)_IEN    ;correct img file name
+"RTN","MAGSFTCH",242,0)
+ . S NDIR=$$DIRHASH(NFNAME,LOCN),NDIR=$$CHKDIR(NDIR)
+"RTN","MAGSFTCH",243,0)
+ . S OUT(2)="DIR "_LOC_ODIR_OFNAME_".*"  ;chk file exist
+"RTN","MAGSFTCH",244,0)
+ . I $F(NDIR,"\") F NO=1:1 S X1=$P(NDIR,"\",NO) Q:X1=""  S LNO=LNO+1,OUT(LNO)="MKDIR "_LOC_$P(NDIR,"\",1,NO)  ; make sub dir
+"RTN","MAGSFTCH",245,0)
+ . E  S LNO=LNO+1,OUT(LNO)="MKDIR "_LOC_NDIR
+"RTN","MAGSFTCH",246,0)
+ . S EXT1="" F EXT1="ABS","TXT","BIG",EXT  D  ;copy all possible extn types
+"RTN","MAGSFTCH",247,0)
+ . . I EXT1="BIG" I ($G(XBIG)="")!($G(XBIG)="^") Q
+"RTN","MAGSFTCH",248,0)
+ . . S LNO=LNO+1,OUT(LNO)="MOVE/Y "_LOC_ODIR_OFNAME_"."_EXT1_" "_LOC_NDIR_NFNAME_"."_EXT1
+"RTN","MAGSFTCH",249,0)
+ . . Q
+"RTN","MAGSFTCH",250,0)
+ . S DA=+IEN,DR="1///"_NFNAME_"."_EXT,DIE="^MAG(2005," D ^DIE  ;chg "F" X-REF
+"RTN","MAGSFTCH",251,0)
+ . D ENTRY^MAGLOG("MAG UTIL",$G(DUZ),IEN,"MAG UTIL FIX9.3","","1",OFNAME_"=>"_NFNAME)
+"RTN","MAGSFTCH",252,0)
+ . Q
+"RTN","MAGSFTCH",253,0)
+ Q
+"RTN","MAGSFTCH",254,0)
+ ;
+"RTN","MAGSFTCH",255,0)
+PRE0(IEN) ;pre '0' for 14 characters => Namespace_nnnnnnnn_ien'
+"RTN","MAGSFTCH",256,0)
+ N NO,J
+"RTN","MAGSFTCH",257,0)
+ S:$G(NWNAME)="" NWNAME=$P(^MAG(2006.1,PLACE,0),"^",2)
+"RTN","MAGSFTCH",258,0)
+ S NO="" F J=1:1:(14-$L(IEN)-$L(NWNAME)) S NO=NO_"0"
+"RTN","MAGSFTCH",259,0)
+ Q NO
+"RTN","MAGSFTCH",260,0)
+ ;
+"RTN","MAGSFTCH",261,0)
+CHKDIR(DIR) ; chk "\\"
+"RTN","MAGSFTCH",262,0)
+ N L S L=$L(DIR) I $E(DIR,L-1,L)="\\" S DIR=$E(DIR,1,L-1) ;trim \\ at end
+"RTN","MAGSFTCH",263,0)
+ Q DIR
+"RTN","MAGSFTCH",264,0)
+ ;
+"RTN","MAGSFTCH",265,0)
+DIRHASH(FILENAME,NETLOCN) ; determine the hierarchical file directory hash 
+"RTN","MAGSFTCH",266,0)
+ ; Input Variables:
+"RTN","MAGSFTCH",267,0)
+ ; FILENAME -- the name of the file, with or without the extension
+"RTN","MAGSFTCH",268,0)
+ ; NETLOCN --- the network location file internal entry number
+"RTN","MAGSFTCH",269,0)
+ ; Return Value: the hierarchical file directory hash
+"RTN","MAGSFTCH",270,0)
+ N FN,HASHFLAG,HASH,I
+"RTN","MAGSFTCH",271,0)
+ S HASHFLAG=$P(^MAG(2005.2,NETLOCN,0),"^",8)
+"RTN","MAGSFTCH",272,0)
+ I HASHFLAG="Y" D  ; calculate the hierarchical directory hash
+"RTN","MAGSFTCH",273,0)
+ . ; for an 8.3 filename AB123456.XYZ, the directory hash is AB\12\34
+"RTN","MAGSFTCH",274,0)
+ . ; for a 14.3 filename BALT1234567890.XYZ, its BALT\12\34\56\78
+"RTN","MAGSFTCH",275,0)
+ . S FN=$P(FILENAME,".") ; strip off the extension
+"RTN","MAGSFTCH",276,0)
+ . I $L(FN)=8 S HASH=$E(FN,1,2)_"\"_$E(FN,3,4)_"\"_$E(FN,5,6)
+"RTN","MAGSFTCH",277,0)
+ . E  S HASH=$E(FN,1,4) F I=5,7,9,11 S HASH=HASH_"\"_$E(FN,I,I+1)
+"RTN","MAGSFTCH",278,0)
+ . S HASH=HASH_"\" ; add the trailing directory separator
+"RTN","MAGSFTCH",279,0)
+ . Q
+"RTN","MAGSFTCH",280,0)
+ E  S HASH="" ; flat directory structure, no hierarchical hashing 
+"RTN","MAGSFTCH",281,0)
+ Q HASH
+"RTN","MAGSHEC")
+0^6^B11280563
+"RTN","MAGSHEC",1,0)
+MAGSHEC ;WOIFO/JSL - IMAGING UTILITY PROGRAM ; 11 June 2010 1:33 PM
+"RTN","MAGSHEC",2,0)
+ ;;3.0;IMAGING;**98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGSHEC",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGSHEC",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSHEC",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGSHEC",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGSHEC",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGSHEC",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGSHEC",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGSHEC",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGSHEC",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGSHEC",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGSHEC",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGSHEC",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGSHEC",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGSHEC",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGSHEC",17,0)
+ ;;
+"RTN","MAGSHEC",18,0)
+ Q
+"RTN","MAGSHEC",19,0)
+ ;
+"RTN","MAGSHEC",20,0)
+DTRANGE(OUT,IN,LMT) ;RPC - MAG UTIL DT2IEN
+"RTN","MAGSHEC",21,0)
+ ;; Using DATE to find first close MAG(2005 IEN
+"RTN","MAGSHEC",22,0)
+ ;; OUT : result - code,message
+"RTN","MAGSHEC",23,0)
+ ;; IN : Input DATE range to begin with
+"RTN","MAGSHEC",24,0)
+ ;; LMT : 0:=limit one year, 1:NONE, 2:EndDate
+"RTN","MAGSHEC",25,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERR^"_$T(+0)
+"RTN","MAGSHEC",26,0)
+ N DAY,DT0,IEN,YR,X,Y,FW
+"RTN","MAGSHEC",27,0)
+ S OUT(1)="0"
+"RTN","MAGSHEC",28,0)
+ I $G(IN)="" S OUT(1)="-1,? Enter any Date, e.g.: Jan 1 2008 or 1/1/08" Q
+"RTN","MAGSHEC",29,0)
+ S X=IN D ^%DT S DT0=Y I DT0<0 S OUT(1)="-1,Invalid date or date format entered" Q
+"RTN","MAGSHEC",30,0)
+ I DT0>$$NOW^XLFDT S OUT(1)="-1,No future date" Q
+"RTN","MAGSHEC",31,0)
+ I $G(LMT)=2 I ($$NOW^XLFDT-DT0)<1 S OUT(1)="-1,images from today`s date will not be copied" Q  ;no today image
+"RTN","MAGSHEC",32,0)
+ I '$G(LMT) D  Q:OUT(1)["-1"
+"RTN","MAGSHEC",33,0)
+ . S YR=($$NOW^XLFDT()-10000\10000),X=YR_"0101"  ;HEC only accepts up to last FY Jan 01
+"RTN","MAGSHEC",34,0)
+ . ;S X=$$NOW^XLFDT()-10000\1 ;one year old
+"RTN","MAGSHEC",35,0)
+ . I DT0<X S OUT(1)="-1,Cannot request HEC 10-10 forms prior to Jan 1 of previous calendar year." Q
+"RTN","MAGSHEC",36,0)
+ . Q
+"RTN","MAGSHEC",37,0)
+ S IEN=$O(^MAG(2005,"AD",Y,0)) S:$G(LMT)=2 IEN=$O(^MAG(2005,"AD",Y," "),-1) ;EndDate get last IEN
+"RTN","MAGSHEC",38,0)
+ I 'IEN S DT0=Y,FW=$S('$O(^MAG(2005,"AD",DT0)):-1,$G(LMT)=2:-1,1:1) D  ;no image for the date DT0
+"RTN","MAGSHEC",39,0)
+ . F DAY=1:1:7 S DT0=$O(^MAG(2005,"AD",DT0),FW) Q:'DT0  D  Q:IEN        ;find near DATE
+"RTN","MAGSHEC",40,0)
+ . . S IEN=$S($G(LMT)=2:$O(^MAG(2005,"AD",DT0," "),-1),1:$O(^MAG(2005,"AD",DT0,0)))  ;last/1st IEN of DATE
+"RTN","MAGSHEC",41,0)
+ . Q
+"RTN","MAGSHEC",42,0)
+ I ((DT0-Y)>39999)!((Y-DT0)>39999) D  ;3 YR possible range
+"RTN","MAGSHEC",43,0)
+ . S DAY=$O(^MAG(2005,"AD","")) I (Y<DAY) S IEN=$O(^MAG(2005,"AD",DAY,0)) I IEN S Y=DAY Q  ;1st IEN
+"RTN","MAGSHEC",44,0)
+ . S IEN=0,OUT(1)="-1,No image for the date entered."
+"RTN","MAGSHEC",45,0)
+ S:IEN OUT(1)=IEN,OUT(2)=$P($$FMTE^XLFDT(Y,5),"@"),OUT(3)=$P($$FMTE^XLFDT(DT0,5),"@") ;MM/DD/YYYY
+"RTN","MAGSHEC",46,0)
+ Q
+"RTN","MAGSHEC",47,0)
+ ;
+"RTN","MAGSHEC",48,0)
+ERR ; ERROR TRAP FOR RPC
+"RTN","MAGSHEC",49,0)
+ N ERR S ERR=$$EC^%ZOSV
+"RTN","MAGSHEC",50,0)
+ S OUT(0)="0,ETRAP: "_ERR
+"RTN","MAGSHEC",51,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGSHEC",52,0)
+ Q
+"RTN","MAGUF")
+0^7^B12071947
+"RTN","MAGUF",1,0)
+MAGUF ;WOIFO/MLH - file utility routine ; 31 Dec 2009 5:53 PM
+"RTN","MAGUF",2,0)
+ ;;3.0;IMAGING;**98**;Mar 19, 2002;Build 1849;Sep 22, 2010
+"RTN","MAGUF",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGUF",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGUF",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGUF",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGUF",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGUF",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGUF",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGUF",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGUF",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGUF",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGUF",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGUF",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGUF",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGUF",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGUF",17,0)
+ ;;
+"RTN","MAGUF",18,0)
+ Q
+"RTN","MAGUF",19,0)
+ ;
+"RTN","MAGUF",20,0)
+NEARFMT(IMAGE,EXT) ; FUNCTION - return code for the format that's nearest
+"RTN","MAGUF",21,0)
+ ; This function lets the user know whether the nearest accessible version
+"RTN","MAGUF",22,0)
+ ; of the file associated with this image IEN is the magnetic or WORM
+"RTN","MAGUF",23,0)
+ ; version, or whether the image is stored offline.
+"RTN","MAGUF",24,0)
+ ;
+"RTN","MAGUF",25,0)
+ ; input:  IMAGE     file name or internal entry number on IMAGE File (#2005)
+"RTN","MAGUF",26,0)
+ ;         EXT       what file type is desired (ABS, BIG, FULL, or TXT)
+"RTN","MAGUF",27,0)
+ ;
+"RTN","MAGUF",28,0)
+ ; function return:  code for nearest accessible version
+"RTN","MAGUF",29,0)
+ ;                     M = magnetic
+"RTN","MAGUF",30,0)
+ ;                     W = WORM
+"RTN","MAGUF",31,0)
+ ;                     O = offline
+"RTN","MAGUF",32,0)
+ ;                     I = invalid image number / no record found
+"RTN","MAGUF",33,0)
+ ;                     A = Image has been deleted / in archive file (#2005.1)
+"RTN","MAGUF",34,0)
+ ;
+"RTN","MAGUF",35,0)
+ N NEARCOD ; -- function return code for the nearest accessible version
+"RTN","MAGUF",36,0)
+ N IEN,TYPE,FILNAM,EXT,REC0,RECBIG
+"RTN","MAGUF",37,0)
+ ;
+"RTN","MAGUF",38,0)
+ S IEN="",NEARCOD="I" ; assume not valid
+"RTN","MAGUF",39,0)
+ I IMAGE'?1N.N D  Q:('IEN)!(NEARCOD="A") NEARCOD
+"RTN","MAGUF",40,0)
+ . S FILNAM=$P(IMAGE,".") Q:FILNAM=""
+"RTN","MAGUF",41,0)
+ . I $D(^MAG(2005.1,"F",FILNAM)) S NEARCOD="A" Q 
+"RTN","MAGUF",42,0)
+ . Q:'$D(^MAG(2005,"F",FILNAM))
+"RTN","MAGUF",43,0)
+ . S IEN=$O(^MAG(2005,"F",FILNAM,""))
+"RTN","MAGUF",44,0)
+ . Q
+"RTN","MAGUF",45,0)
+ E  S IEN=IMAGE
+"RTN","MAGUF",46,0)
+ I $D(^MAG(2005.1,IEN)) S NEARCOD="A" Q NEARCOD
+"RTN","MAGUF",47,0)
+ S EXT=$S($D(EXT):EXT,$P($G(IMAGE),".",2):$P($G(IMAGE),".",2),1:"FULL")
+"RTN","MAGUF",48,0)
+ I $$PATCH^XPDUTL("MAG*3.0*39") S TYPE=$$FTYPE^MAGQBPRG(EXT,IEN) ;post P39
+"RTN","MAGUF",49,0)
+ E  S TYPE=$$FTYPE^MAGQBPRG(EXT) ;pre P39
+"RTN","MAGUF",50,0)
+ D  ;find applicable case, if any, and break
+"RTN","MAGUF",51,0)
+ . ; is the file on the OFFLINE IMAGES File?
+"RTN","MAGUF",52,0)
+ . N FNFULL ; -- full file name
+"RTN","MAGUF",53,0)
+ . S FNFULL=$P($G(^MAG(2005,IEN,0)),"^",2)
+"RTN","MAGUF",54,0)
+ . I FNFULL'="",$D(^MAGQUEUE(2006.033,"B",FNFULL)) S NEARCOD="O" Q
+"RTN","MAGUF",55,0)
+ . ; no, search for network location by file extension
+"RTN","MAGUF",56,0)
+ . I TYPE="ABS" D  Q  ;ABS has no independent worm reference
+"RTN","MAGUF",57,0)
+ . . S REC0=$G(^MAG(2005,IEN,0))
+"RTN","MAGUF",58,0)
+ . . I REC0="" S NEARCOD="I" Q
+"RTN","MAGUF",59,0)
+ . . I $P($G(^MAG(2005.2,+$P(REC0,"^",4),0)),"^",6) S NEARCOD="M" Q
+"RTN","MAGUF",60,0)
+ . . I $P($G(^MAG(2005.2,+$P(REC0,"^",5),0)),"^",6) S NEARCOD="W" Q
+"RTN","MAGUF",61,0)
+ . . S NEARCOD="O" Q
+"RTN","MAGUF",62,0)
+ . I (TYPE="FULL")!(TYPE="TXT") D  Q  ;txt has no independent reference
+"RTN","MAGUF",63,0)
+ . . S REC0=$G(^MAG(2005,IEN,0))
+"RTN","MAGUF",64,0)
+ . . I REC0="" S NEARCOD="I" Q
+"RTN","MAGUF",65,0)
+ . . I $P($G(^MAG(2005.2,+$P(REC0,"^",3),0)),"^",6) S NEARCOD="M" Q
+"RTN","MAGUF",66,0)
+ . . I $P($G(^MAG(2005.2,+$P(REC0,"^",5),0)),"^",6) S NEARCOD="W" Q
+"RTN","MAGUF",67,0)
+ . . S NEARCOD="O" Q
+"RTN","MAGUF",68,0)
+ . I TYPE="BIG" D  Q
+"RTN","MAGUF",69,0)
+ . . S RECBIG=$G(^MAG(2005,IEN,"FBIG"))
+"RTN","MAGUF",70,0)
+ . . I RECBIG="" S NEARCOD="I" Q
+"RTN","MAGUF",71,0)
+ . . I $P($G(^MAG(2005.2,+$P(RECBIG,"^",1),0)),"^",6) S NEARCOD="M" Q
+"RTN","MAGUF",72,0)
+ . . I $P($G(^MAG(2005.2,+$P(RECBIG,"^",2),0)),"^",6) S NEARCOD="W" Q
+"RTN","MAGUF",73,0)
+ . . S NEARCOD="O" Q
+"RTN","MAGUF",74,0)
+ . Q
+"RTN","MAGUF",75,0)
+ Q NEARCOD
+"VER")
+8.0^22.0
+"^DD",2006.563,2006.563,200,0)
+LAST IMAGE SCANNED BY MAGKAT^P2005'I^MAG(2005,^SCAN;1^Q
+"^DD",2006.563,2006.563,200,3)
+
+"^DD",2006.563,2006.563,200,21,0)
+^.001^2^2^3100222^^
+"^DD",2006.563,2006.563,200,21,1,0)
+This is the last image scanned by the MAGKAT utility.  The MAGKAT utility 
+"^DD",2006.563,2006.563,200,21,2,0)
+will update this field as it processes images.
+"^DD",2006.563,2006.563,200,"DT")
+3100222
+"^DD",2006.563,2006.563,201,0)
+MAGKAT SCAN DIRECTION^SI^1:NEXT;-1:REVERSE;^SCAN;2^Q
+"^DD",2006.563,2006.563,201,3)
+
+"^DD",2006.563,2006.563,201,21,0)
+^.001^6^6^3100222^^
+"^DD",2006.563,2006.563,201,21,1,0)
+This field controls the scanning direction used by MAGKAT utility.  A
+"^DD",2006.563,2006.563,201,21,2,0)
+negative number (-1) will scan in reverse order and a '1' will scan for
+"^DD",2006.563,2006.563,201,21,3,0)
+the next image using the LAST IMAGE SCANNED BY MAGKAT (#200) field value.
+"^DD",2006.563,2006.563,201,21,4,0)
+ 
+"^DD",2006.563,2006.563,201,21,5,0)
+The MAGKAT utility will update this field as well as field #200 LAST 
+"^DD",2006.563,2006.563,201,21,6,0)
+IMAGE SCANNED BY MAGKAT.
+"^DD",2006.563,2006.563,201,"DT")
+3100222
+**END**
+**END**
+
+
+****
+****

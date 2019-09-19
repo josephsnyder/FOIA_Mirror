@@ -1,0 +1,852 @@
+KIDS Distribution saved on Feb 20, 2007@14:50:21
+VistA Imaging V3.0 - Patch 86 - 02/20/2007 14:50PM
+**KIDS**:MAG*3.0*86^
+
+**INSTALL NAME**
+MAG*3.0*86
+"BLD",3463,0)
+MAG*3.0*86^IMAGING^0^3070220^y
+"BLD",3463,1,0)
+^^10^10^3070220^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 86 - Chronologic Messages
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+Routines:
+"BLD",3463,1,5,0)
+MAGDHL7     old value = 7016595, new value = 23890484
+"BLD",3463,1,6,0)
+MAGDHW0     old value = 4187105, new value = 9603861
+"BLD",3463,1,7,0)
+MAGIPS86    old value = 5183006, new value = 9658026
+"BLD",3463,1,8,0)
+ 
+"BLD",3463,1,9,0)
+Please note that routine MAGIPS86 is deleted after the KIDS Build is
+"BLD",3463,1,10,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^^0
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+n^n^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INID")
+n^y^n
+"BLD",3463,"INIT")
+POST^MAGIPS86
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.401,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.402,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^2^2
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAGDHL7^^0^B23890484
+"BLD",3463,"KRN",9.8,"NM",2,0)
+MAGDHW0^^0^B9603861
+"BLD",3463,"KRN",9.8,"NM","B","MAGDHL7",1)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGDHW0",2)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",771,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",870,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"INIT")
+POST^MAGIPS86
+"MBREQ")
+0
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+86^3070220^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^9^9^3070220
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for Patch 86, Test Build 4.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGDHL7     value = 7016595
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGDHW0     value = 4187105
+"PKG",454,22,1,"PAH",1,1,6,0)
+MAGIPS86    value = 5183006
+"PKG",454,22,1,"PAH",1,1,7,0)
+ 
+"PKG",454,22,1,"PAH",1,1,8,0)
+Please note that routine MAGIPS86 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,9,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+3
+"RTN","MAGDHL7")
+0^1^B23890484
+"RTN","MAGDHL7",1,0)
+MAGDHL7 ;WOIFO/PMK,MLH - Routine to copy HL7 data from HLSDATA to ^MAGDHL7 ; 02/07/2007 14:07
+"RTN","MAGDHL7",2,0)
+ ;;3.0;IMAGING;**11,30,86**;20-February-2007;;Build 1024
+"RTN","MAGDHL7",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDHL7",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHL7",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDHL7",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDHL7",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDHL7",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDHL7",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDHL7",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDHL7",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDHL7",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDHL7",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDHL7",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDHL7",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDHL7",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHL7",17,0)
+ ;;
+"RTN","MAGDHL7",18,0)
+ Q
+"RTN","MAGDHL7",19,0)
+ ;Steps for setting up the HL7 package. Version 1.5
+"RTN","MAGDHL7",20,0)
+ ;1) Create an entry in the HL7 APPLICATION PARAMETER file (771) called
+"RTN","MAGDHL7",21,0)
+ ;   'PACS GATEWAY' and set ACTIVE/INACTIVE field to ACTIVE.
+"RTN","MAGDHL7",22,0)
+ ;2) Create an entry in the HL7 NON-DHCP APPLICATION PARAMETER file (770)
+"RTN","MAGDHL7",23,0)
+ ;   called 'PACS GATEWAY' and set DHCP APPLICATION field to 'PACS GATEWAY'
+"RTN","MAGDHL7",24,0)
+ ;   (repoint to file 771).
+"RTN","MAGDHL7",25,0)
+ ;3) Set the Entry Action field of the RA SEND entry in the Protocol file
+"RTN","MAGDHL7",26,0)
+ ;   (101) to call 'PACS GATEWAY
+"RTN","MAGDHL7",27,0)
+ ;   EXAMPLE:  Replace xxxx With PACS GATEWAY
+"RTN","MAGDHL7",28,0)
+ ;
+"RTN","MAGDHL7",29,0)
+ENTRY ; Entry point for HL7 1.5 version
+"RTN","MAGDHL7",30,0)
+ N DA,EDT,DIK,DIR,HLSDT,KDT,MAGN,MAGOUT,POP
+"RTN","MAGDHL7",31,0)
+ ; Entry point from ^HLTRANS to copy the data from HLSDATA to ^MAGDHL7(
+"RTN","MAGDHL7",32,0)
+ ; This code was reset due to a max. string code error.  Peter indicated
+"RTN","MAGDHL7",33,0)
+ ; he did not need the 5th piece of the OBR segment.
+"RTN","MAGDHL7",34,0)
+ I $D(HLSDATA(3)),$P(HLSDATA(3),"^")="OBR" S $P(HLSDATA(3),"^",5)=""
+"RTN","MAGDHL7",35,0)
+ D ADDDTA($NA(HLSDATA))
+"RTN","MAGDHL7",36,0)
+ ; Adjust the returned HLSDATA array to start at 0 instead of 1
+"RTN","MAGDHL7",37,0)
+ S IX=1
+"RTN","MAGDHL7",38,0)
+ F  Q:'IX  Q:'$D(HLSDATA(IX))  D
+"RTN","MAGDHL7",39,0)
+ . S HLSDATA(IX-1)=HLSDATA(IX) K HLSDATA(IX)
+"RTN","MAGDHL7",40,0)
+ . S IX=$O(HLSDATA(IX))
+"RTN","MAGDHL7",41,0)
+ . Q
+"RTN","MAGDHL7",42,0)
+ Q:$D(HLSDT)
+"RTN","MAGDHL7",43,0)
+ D NOW^%DTC S Y=$$NEWMSG($P(%,".",1))
+"RTN","MAGDHL7",44,0)
+ S $P(^MAGDHL7(2006.5,+Y,0),"^",2)=$P(HLSDATA(0),"^",9) ; Message type
+"RTN","MAGDHL7",45,0)
+ S L=1,J=0 S ^MAGDHL7(2006.5,+Y,1,L,0)=HLSDATA(0)
+"RTN","MAGDHL7",46,0)
+ F  S J=$O(HLSDATA(J)) Q:J'>0  D
+"RTN","MAGDHL7",47,0)
+ . S L=L+1,^MAGDHL7(2006.5,+Y,1,L,0)=HLSDATA(J)
+"RTN","MAGDHL7",48,0)
+ . Q
+"RTN","MAGDHL7",49,0)
+ S ^MAGDHL7(2006.5,+Y,1,0)="^^"_L_U_L_U_DT
+"RTN","MAGDHL7",50,0)
+ ; Capture time
+"RTN","MAGDHL7",51,0)
+ S X=$P($G(^MAGDHL7(2006.5,+Y,0)),"^",3)
+"RTN","MAGDHL7",52,0)
+ K:X ^MAGDHL7(2006.5,"C",X,+Y)
+"RTN","MAGDHL7",53,0)
+ S X=$$NOW^XLFDT()
+"RTN","MAGDHL7",54,0)
+ S $P(^MAGDHL7(2006.5,+Y,0),"^",3)=X
+"RTN","MAGDHL7",55,0)
+ S ^MAGDHL7(2006.5,"C",X,+Y)=""
+"RTN","MAGDHL7",56,0)
+ Q
+"RTN","MAGDHL7",57,0)
+ ;
+"RTN","MAGDHL7",58,0)
+EN ; Entry point for HL7 1.6. Called from the MAG SEND ORU/ORM protocols.
+"RTN","MAGDHL7",59,0)
+ ; Executed after the RA protocols setup the HL7 message segments.
+"RTN","MAGDHL7",60,0)
+ D EN2
+"RTN","MAGDHL7",61,0)
+ Q
+"RTN","MAGDHL7",62,0)
+ ;
+"RTN","MAGDHL7",63,0)
+EN2 ;
+"RTN","MAGDHL7",64,0)
+ N DA,DIE,DIC,DR,I,J,K,L,MAGRAD,MAGRAN,MAGSAN,MAGTYPE,Y,X
+"RTN","MAGDHL7",65,0)
+ I $D(HLQUIT),HLQUIT Q  ; HL7 routines may have failed.
+"RTN","MAGDHL7",66,0)
+ S MAGRAD=""
+"RTN","MAGDHL7",67,0)
+ F I=1:1 X HLNEXT Q:HLQUIT'>0  D
+"RTN","MAGDHL7",68,0)
+ . S MAGRAD(I)=HLNODE,J=0
+"RTN","MAGDHL7",69,0)
+ . F  S J=$O(HLNODE(J)) Q:'J  S MAGRAD(I)=MAGRAD(I)_HLNODE(J)
+"RTN","MAGDHL7",70,0)
+ . Q
+"RTN","MAGDHL7",71,0)
+ ; Above code needed for segments greater than 245 characters.
+"RTN","MAGDHL7",72,0)
+ S MAGTYPE=$G(HL("MTN")),MAGRAN=$G(HL("RAN")),MAGSAN=$G(HL("SAN"))
+"RTN","MAGDHL7",73,0)
+ ; Add demo and modality info expected by MAGDHR* routines on gateway
+"RTN","MAGDHL7",74,0)
+ D ADDDTA($NA(MAGRAD))
+"RTN","MAGDHL7",75,0)
+ ; Fall-Through intentional
+"RTN","MAGDHL7",76,0)
+ ; EdM: I can find no evidence that the label below is invoked from anywhere
+"RTN","MAGDHL7",77,0)
+ ;      in the released code...
+"RTN","MAGDHL7",78,0)
+UPDATE ; Add the entry in the MAGDHL7(2006.5 global.
+"RTN","MAGDHL7",79,0)
+ D NOW^%DTC S Y=$$NEWMSG($P(%,".",1))
+"RTN","MAGDHL7",80,0)
+ I +Y<1 Q  ; Entry not made in file.
+"RTN","MAGDHL7",81,0)
+ S $P(^MAGDHL7(2006.5,+Y,0),"^",2)=MAGTYPE
+"RTN","MAGDHL7",82,0)
+ ; Add HL7 message into word processing field.
+"RTN","MAGDHL7",83,0)
+ S (L,K)=0 F  S K=$O(MAGRAD(K)) Q:'K  S L=L+1,^MAGDHL7(2006.5,+Y,1,L,0)=MAGRAD(K) D
+"RTN","MAGDHL7",84,0)
+ . ; If segment has more than one line of data, add as a single line
+"RTN","MAGDHL7",85,0)
+ . ; Peter's code will take care of this.
+"RTN","MAGDHL7",86,0)
+ . S J=0 F  S J=$O(MAGRAD(K,J)) Q:'J  S L=L+1,^MAGDHL7(2006.5,+Y,1,L,0)=MAGRAD(K,J)
+"RTN","MAGDHL7",87,0)
+ S ^MAGDHL7(2006.5,+Y,1,0)="^2006.502^"_L_"^"_L_"^"_DT
+"RTN","MAGDHL7",88,0)
+ S X=$P($G(^MAGDHL7(2006.5,+Y,0)),"^",3)
+"RTN","MAGDHL7",89,0)
+ K:X ^MAGDHL7(2006.5,"C",X,+Y)
+"RTN","MAGDHL7",90,0)
+ S X=$$NOW^XLFDT
+"RTN","MAGDHL7",91,0)
+ S $P(^MAGDHL7(2006.5,+Y,0),"^",3)=X
+"RTN","MAGDHL7",92,0)
+ S ^MAGDHL7(2006.5,"C",X,+Y)=""
+"RTN","MAGDHL7",93,0)
+ Q
+"RTN","MAGDHL7",94,0)
+ ;
+"RTN","MAGDHL7",95,0)
+ADDDTA(XARY) ; SUBROUTINE - called by ENTRY, EN2
+"RTN","MAGDHL7",96,0)
+ ; Add demographic, visit, and modality information to HL7 messages.
+"RTN","MAGDHL7",97,0)
+ ; 
+"RTN","MAGDHL7",98,0)
+ ; input:  XARY   name of array into which additional HL7 message data is to 
+"RTN","MAGDHL7",99,0)
+ ;                be populated (@XARY should already contain HL7 msg segments)
+"RTN","MAGDHL7",100,0)
+ ;                valued  "MAGRAD"   for radiology orders
+"RTN","MAGDHL7",101,0)
+ ;                        "HLSDATA"  for ADT messages
+"RTN","MAGDHL7",102,0)
+ ;                        
+"RTN","MAGDHL7",103,0)
+ ; output: @XARY  with demo, visit, modality segments added
+"RTN","MAGDHL7",104,0)
+ ;                or NTE segment added after MSH if there was a problem
+"RTN","MAGDHL7",105,0)
+ ; 
+"RTN","MAGDHL7",106,0)
+ ; The DICOM gateway's MAGDHR* routines formerly expected to be able to use
+"RTN","MAGDHL7",107,0)
+ ; a DDP link to gather supplementary information about patient demographics
+"RTN","MAGDHL7",108,0)
+ ; and modality.  This subroutine populates the HL7 segments with the
+"RTN","MAGDHL7",109,0)
+ ; supplementary data, eliminating the need for the DDP link.
+"RTN","MAGDHL7",110,0)
+ ;
+"RTN","MAGDHL7",111,0)
+ N MAG7WRK ; -- work array for HL7 message
+"RTN","MAGDHL7",112,0)
+ N STSRBLD ; -- rebuild status
+"RTN","MAGDHL7",113,0)
+ N S1,S2 ; ---- scratch segment index vars
+"RTN","MAGDHL7",114,0)
+ ;
+"RTN","MAGDHL7",115,0)
+ ; Break out message -- If parse fails, insert a NTE segment and bail
+"RTN","MAGDHL7",116,0)
+ ; 
+"RTN","MAGDHL7",117,0)
+ I $$PARSE^MAG7UP(XARY,$NA(MAG7WRK)) D  Q
+"RTN","MAGDHL7",118,0)
+ . ; Set 1st, 2nd seg indices - don't overwrite bare MSH
+"RTN","MAGDHL7",119,0)
+ . S S1=$O(@XARY@(0)) S:'S1 S1=1
+"RTN","MAGDHL7",120,0)
+ . S S2=$O(@XARY@(S1)) S:'S2 S2=S1+1
+"RTN","MAGDHL7",121,0)
+ . S @XARY@((S1+S2)/2)="NTE|1||bad HL7 message structure"
+"RTN","MAGDHL7",122,0)
+ . Q
+"RTN","MAGDHL7",123,0)
+ D PIDADD^MAG7RS ; Add patient demographic data
+"RTN","MAGDHL7",124,0)
+ D ADDVSDG^MAG7RS ; Add patient visit and diagnosis data
+"RTN","MAGDHL7",125,0)
+ I MAG7WRK(1,9,1,1,1)="ORU" D OBXUPD^MAG7RSO ; Add numeric diag codes
+"RTN","MAGDHL7",126,0)
+ S STSRBLD=$$MAKE^MAG7UM($NA(MAG7WRK),XARY)
+"RTN","MAGDHL7",127,0)
+ I STSRBLD D  Q
+"RTN","MAGDHL7",128,0)
+ . ; Set 1st, 2nd seg indices - don't overwrite bare MSH
+"RTN","MAGDHL7",129,0)
+ . S S1=$O(@XARY@(0)) S:'S1 S1=1
+"RTN","MAGDHL7",130,0)
+ . S S2=$O(@XARY@(S1)) S:'S2 S2=S1+1
+"RTN","MAGDHL7",131,0)
+ . S @XARY@((S1+S2)/2)="NTE|1||bad HL7 message structure"
+"RTN","MAGDHL7",132,0)
+ . Q
+"RTN","MAGDHL7",133,0)
+ Q
+"RTN","MAGDHL7",134,0)
+ ;
+"RTN","MAGDHL7",135,0)
+NEWMSG(DATE) ; Add a stub for a new message
+"RTN","MAGDHL7",136,0)
+ N D0,HDR
+"RTN","MAGDHL7",137,0)
+ S DATE=DATE\1
+"RTN","MAGDHL7",138,0)
+ L +^MAGDHL7(2006.5,0):1E9 ; Background process MUST wait
+"RTN","MAGDHL7",139,0)
+ S D0=$O(^MAGDHL7(2006.5," "),-1)+1
+"RTN","MAGDHL7",140,0)
+ S ^MAGDHL7(2006.5,D0,0)=DATE
+"RTN","MAGDHL7",141,0)
+ S:DATE'="" ^MAGDHL7(2006.5,"B",DATE,D0)=""
+"RTN","MAGDHL7",142,0)
+ S HDR=$G(^MAGDHL7(2006.5,0))
+"RTN","MAGDHL7",143,0)
+ S ^MAGDHL7(2006.5,0)="PACS MESSAGE^2006.5D^"_D0_"^"_($P(HDR,"^",4)+1)
+"RTN","MAGDHL7",144,0)
+ L -^MAGDHL7(2006.5,0)
+"RTN","MAGDHL7",145,0)
+ Q D0
+"RTN","MAGDHL7",146,0)
+ ;
+"RTN","MAGDHW0")
+0^2^B9603861
+"RTN","MAGDHW0",1,0)
+MAGDHW0 ;WOIFO/PMK - Capture Consult/Request data ; 02/07/2007 06:37
+"RTN","MAGDHW0",2,0)
+ ;;3.0;IMAGING;**10,86**;20-February-2007;;Build 1024
+"RTN","MAGDHW0",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDHW0",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHW0",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDHW0",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDHW0",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDHW0",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDHW0",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDHW0",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDHW0",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDHW0",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDHW0",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDHW0",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDHW0",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDHW0",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHW0",17,0)
+ ;;
+"RTN","MAGDHW0",18,0)
+ Q
+"RTN","MAGDHW0",19,0)
+ ;
+"RTN","MAGDHW0",20,0)
+INIT ;
+"RTN","MAGDHW0",21,0)
+ ; simulate call to INT^HLFNC2
+"RTN","MAGDHW0",22,0)
+ N I
+"RTN","MAGDHW0",23,0)
+ S HL("CC")="US"
+"RTN","MAGDHW0",24,0)
+ S HL("ECH")="^~\&"
+"RTN","MAGDHW0",25,0)
+ S HL("ETN")=""
+"RTN","MAGDHW0",26,0)
+ S HL("FS")="|"
+"RTN","MAGDHW0",27,0)
+ S HL("MTN")="ORM"
+"RTN","MAGDHW0",28,0)
+ S HL("PID")="D"
+"RTN","MAGDHW0",29,0)
+ S HL("Q")=""
+"RTN","MAGDHW0",30,0)
+ S HL("SAF")=^DD("SITE",1)
+"RTN","MAGDHW0",31,0)
+ S HL("SAN")="MAGD-SCH"
+"RTN","MAGDHW0",32,0)
+ S HL("VER")="2.3.1"
+"RTN","MAGDHW0",33,0)
+ S DEL=HL("FS")
+"RTN","MAGDHW0",34,0)
+ F I=1:1:$L(HL("ECH")) S @("DEL"_(I+1))=$E(HL("ECH"),I)
+"RTN","MAGDHW0",35,0)
+ S U="^"
+"RTN","MAGDHW0",36,0)
+ Q
+"RTN","MAGDHW0",37,0)
+ ;
+"RTN","MAGDHW0",38,0)
+FINDSEG(ARRAY,SEGMENT,I,X) ; find a specific HL7 segment in an array
+"RTN","MAGDHW0",39,0)
+ ; input -- ARRAY ---- an HL7 array
+"RTN","MAGDHW0",40,0)
+ ; input -- SEGMENT -- three-letter HL7 segment identifier 
+"RTN","MAGDHW0",41,0)
+ ; input -- I -------- index of the found segment (or null)
+"RTN","MAGDHW0",42,0)
+ ; output - I -------- index of the found segment (or null)
+"RTN","MAGDHW0",43,0)
+ ; output - X -------- string of fields sans segment identifier
+"RTN","MAGDHW0",44,0)
+ ; return - HIT ------ flag indicating segment found 
+"RTN","MAGDHW0",45,0)
+ ;
+"RTN","MAGDHW0",46,0)
+ N HIT
+"RTN","MAGDHW0",47,0)
+ S HIT=0
+"RTN","MAGDHW0",48,0)
+ F  S I=$O(ARRAY(I)) Q:I=""  I $P(ARRAY(I),DEL)=SEGMENT D  Q
+"RTN","MAGDHW0",49,0)
+ . S X=$P(ARRAY(I),DEL,2,99999) ; strip off the segment name
+"RTN","MAGDHW0",50,0)
+ . S HIT=1
+"RTN","MAGDHW0",51,0)
+ . Q
+"RTN","MAGDHW0",52,0)
+ Q HIT
+"RTN","MAGDHW0",53,0)
+ ;
+"RTN","MAGDHW0",54,0)
+SAVESEG(I,X) ; save updated segment
+"RTN","MAGDHW0",55,0)
+ S $P(HL7(I),DEL,2,999)=X
+"RTN","MAGDHW0",56,0)
+ Q
+"RTN","MAGDHW0",57,0)
+ ;
+"RTN","MAGDHW0",58,0)
+ADDSEG(X) ; add a new segment to the end of the message
+"RTN","MAGDHW0",59,0)
+ S HL7($O(HL7(""),-1)+1)=X
+"RTN","MAGDHW0",60,0)
+ Q
+"RTN","MAGDHW0",61,0)
+ ;
+"RTN","MAGDHW0",62,0)
+OUTPUT ; output the message to ^MAGDHL7
+"RTN","MAGDHW0",63,0)
+ N DIC,DIE,D0,DA,DR,I,J,K,X,Y,Z
+"RTN","MAGDHW0",64,0)
+ S D0=$$NEWMSG^MAGDHL7(FMDATE)
+"RTN","MAGDHW0",65,0)
+ ; Capture time
+"RTN","MAGDHW0",66,0)
+ S X=$P($G(^MAGDHL7(2006.5,D0,0)),"^",3)
+"RTN","MAGDHW0",67,0)
+ K:X ^MAGDHL7(2006.5,"C",X,D0)
+"RTN","MAGDHW0",68,0)
+ S:'$G(FMDATETM) FMDATETM=$$NOW^XLFDT()
+"RTN","MAGDHW0",69,0)
+ S $P(^MAGDHL7(2006.5,D0,0),"^",3)=FMDATETM
+"RTN","MAGDHW0",70,0)
+ S ^MAGDHL7(2006.5,"C",FMDATETM,D0)=""
+"RTN","MAGDHW0",71,0)
+ ;
+"RTN","MAGDHW0",72,0)
+ S $P(^MAGDHL7(2006.5,D0,0),"^",2)="ORM" ; all are ORM
+"RTN","MAGDHW0",73,0)
+ S I="HL7",J=0 F  S I=$Q(@I) Q:I=""  D
+"RTN","MAGDHW0",74,0)
+ . S X=@I,Y=$P(X,DEL)
+"RTN","MAGDHW0",75,0)
+ . F K=2:1:$L(X,DEL) D  ; copy the lines to the ^MAGDHL7 global
+"RTN","MAGDHW0",76,0)
+ . . S Z=$P(X,DEL,K)
+"RTN","MAGDHW0",77,0)
+ . . I ($L(Y)+$L(Z))>200 D  ; keep lines short for the global
+"RTN","MAGDHW0",78,0)
+ . . . ; output one line of a spanned record
+"RTN","MAGDHW0",79,0)
+ . . . S J=J+1,^MAGDHL7(2006.5,D0,1,J,0)=Y,Y=""
+"RTN","MAGDHW0",80,0)
+ . . . Q
+"RTN","MAGDHW0",81,0)
+ . . S Y=Y_DEL_$P(X,DEL,K)
+"RTN","MAGDHW0",82,0)
+ . . Q
+"RTN","MAGDHW0",83,0)
+ . S J=J+1,^MAGDHL7(2006.5,D0,1,J,0)=Y
+"RTN","MAGDHW0",84,0)
+ . Q
+"RTN","MAGDHW0",85,0)
+ ; The next line must be last, since WAIT^MAGDHRS1
+"RTN","MAGDHW0",86,0)
+ ; uses this node to determine that the entry is complete.
+"RTN","MAGDHW0",87,0)
+ S ^MAGDHL7(2006.5,D0,1,0)="^2006.502^"_J_"^"_J_"^"_FMDATETM
+"RTN","MAGDHW0",88,0)
+ Q
+"RTN","MAGDHW0",89,0)
+ ;
+"RTN","MAGIPS86")
+0^^B9658026
+"RTN","MAGIPS86",1,0)
+MAGIPS86 ;Post init routine to queue site activity at install. ; 11/27/2006 07:23
+"RTN","MAGIPS86",2,0)
+ ;;3.0;IMAGING;**86**;20-February-2007;;Build 1024
+"RTN","MAGIPS86",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGIPS86",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS86",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS86",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS86",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS86",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS86",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS86",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS86",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS86",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS86",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS86",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS86",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS86",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS86",17,0)
+ ;;
+"RTN","MAGIPS86",18,0)
+ Q
+"RTN","MAGIPS86",19,0)
+ ;
+"RTN","MAGIPS86",20,0)
+PRE ;
+"RTN","MAGIPS86",21,0)
+ ; No Pre-init activity
+"RTN","MAGIPS86",22,0)
+ Q
+"RTN","MAGIPS86",23,0)
+ ;
+"RTN","MAGIPS86",24,0)
+POST ;
+"RTN","MAGIPS86",25,0)
+ ;
+"RTN","MAGIPS86",26,0)
+ D  ; Confirmation message
+"RTN","MAGIPS86",27,0)
+ . N CT,CNT,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS86",28,0)
+ . ;
+"RTN","MAGIPS86",29,0)
+ . D GETENV^%ZOSV
+"RTN","MAGIPS86",30,0)
+ . S CNT=0
+"RTN","MAGIPS86",31,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS86",32,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS86",33,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XPDNM
+"RTN","MAGIPS86",34,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XPDNM)
+"RTN","MAGIPS86",35,0)
+ . S ST=$$GET1^DIQ(9.7,XPDA,11,"I")
+"RTN","MAGIPS86",36,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS86",37,0)
+ . S CT=$$GET1^DIQ(9.7,XPDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT()
+"RTN","MAGIPS86",38,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS86",39,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS86",40,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS86",41,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_$$GET1^DIQ(9.7,XPDA,6,"I")
+"RTN","MAGIPS86",42,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="DATE: "_$$NOW^XLFDT()
+"RTN","MAGIPS86",43,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,XPDA,9,"E")
+"RTN","MAGIPS86",44,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,XPDA,.01,"E")
+"RTN","MAGIPS86",45,0)
+ . S DDATE=$$GET1^DIQ(9.7,XPDA,51,"I")
+"RTN","MAGIPS86",46,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS86",47,0)
+ . S:$G(CVT)'="" CNT=CNT+1,MAGMSG(CNT)="Conversion time: "_CVT
+"RTN","MAGIPS86",48,0)
+ . S XMSUB=XPDNM_" INSTALLATION"
+"RTN","MAGIPS86",49,0)
+ . S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS86",50,0)
+ . S XMY(XMID)=""
+"RTN","MAGIPS86",51,0)
+ . S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS86",52,0)
+ . S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS86",53,0)
+ . S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS86",54,0)
+ . D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS86",55,0)
+ . I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS86",56,0)
+ . Q
+"RTN","MAGIPS86",57,0)
+ Q
+"RTN","MAGIPS86",58,0)
+ ;
+"VER")
+8.0^22.0
+**END**
+**END**
+
+
+****
+****

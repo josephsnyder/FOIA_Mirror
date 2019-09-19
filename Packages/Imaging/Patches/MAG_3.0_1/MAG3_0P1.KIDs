@@ -1,0 +1,1354 @@
+KIDS Distribution saved on Mar 22, 2002@15:55:49
+VistA Imaging v3.0 - patch 1
+**KIDS**:MAG*3.0*1^
+
+**INSTALL NAME**
+MAG*3.0*1
+"BLD",2616,0)
+MAG*3.0*1^IMAGING^0^3020322^y
+"BLD",2616,4,0)
+^9.64PA^2005.2^1
+"BLD",2616,4,2005.2,0)
+2005.2
+"BLD",2616,4,2005.2,2,0)
+^9.641^2005.2^1
+"BLD",2616,4,2005.2,2,2005.2,0)
+NETWORK LOCATION  (File-top level)
+"BLD",2616,4,2005.2,2,2005.2,1,0)
+^9.6411^1^2
+"BLD",2616,4,2005.2,2,2005.2,1,1,0)
+PHYSICAL REFERENCE
+"BLD",2616,4,2005.2,2,2005.2,1,5,0)
+OPERATIONAL STATUS
+"BLD",2616,4,2005.2,222)
+y^y^p^^^^n
+"BLD",2616,4,"APDD",2005.2,2005.2)
+
+"BLD",2616,4,"APDD",2005.2,2005.2,1)
+
+"BLD",2616,4,"APDD",2005.2,2005.2,5)
+
+"BLD",2616,4,"B",2005.2,2005.2)
+
+"BLD",2616,"INID")
+^y
+"BLD",2616,"INIT")
+POST^MAGIPOS1
+"BLD",2616,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",2616,"KRN",.4,0)
+.4
+"BLD",2616,"KRN",.401,0)
+.401
+"BLD",2616,"KRN",.402,0)
+.402
+"BLD",2616,"KRN",.403,0)
+.403
+"BLD",2616,"KRN",.5,0)
+.5
+"BLD",2616,"KRN",.84,0)
+.84
+"BLD",2616,"KRN",3.6,0)
+3.6
+"BLD",2616,"KRN",3.8,0)
+3.8
+"BLD",2616,"KRN",9.2,0)
+9.2
+"BLD",2616,"KRN",9.8,0)
+9.8
+"BLD",2616,"KRN",9.8,"NM",0)
+^9.68A^3^3
+"BLD",2616,"KRN",9.8,"NM",1,0)
+MAGBAPI^^0^B19379320
+"BLD",2616,"KRN",9.8,"NM",2,0)
+MAGQBAB^^0^B6609808
+"BLD",2616,"KRN",9.8,"NM",3,0)
+MAGQBTM^^0^B87006345
+"BLD",2616,"KRN",9.8,"NM","B","MAGBAPI",1)
+
+"BLD",2616,"KRN",9.8,"NM","B","MAGQBAB",2)
+
+"BLD",2616,"KRN",9.8,"NM","B","MAGQBTM",3)
+
+"BLD",2616,"KRN",19,0)
+19
+"BLD",2616,"KRN",19.1,0)
+19.1
+"BLD",2616,"KRN",101,0)
+101
+"BLD",2616,"KRN",409.61,0)
+409.61
+"BLD",2616,"KRN",771,0)
+771
+"BLD",2616,"KRN",870,0)
+870
+"BLD",2616,"KRN",8989.51,0)
+8989.51
+"BLD",2616,"KRN",8989.52,0)
+8989.52
+"BLD",2616,"KRN",8994,0)
+8994
+"BLD",2616,"KRN","B",.4,.4)
+
+"BLD",2616,"KRN","B",.401,.401)
+
+"BLD",2616,"KRN","B",.402,.402)
+
+"BLD",2616,"KRN","B",.403,.403)
+
+"BLD",2616,"KRN","B",.5,.5)
+
+"BLD",2616,"KRN","B",.84,.84)
+
+"BLD",2616,"KRN","B",3.6,3.6)
+
+"BLD",2616,"KRN","B",3.8,3.8)
+
+"BLD",2616,"KRN","B",9.2,9.2)
+
+"BLD",2616,"KRN","B",9.8,9.8)
+
+"BLD",2616,"KRN","B",19,19)
+
+"BLD",2616,"KRN","B",19.1,19.1)
+
+"BLD",2616,"KRN","B",101,101)
+
+"BLD",2616,"KRN","B",409.61,409.61)
+
+"BLD",2616,"KRN","B",771,771)
+
+"BLD",2616,"KRN","B",870,870)
+
+"BLD",2616,"KRN","B",8989.51,8989.51)
+
+"BLD",2616,"KRN","B",8989.52,8989.52)
+
+"BLD",2616,"KRN","B",8994,8994)
+
+"FIA",2005.2)
+NETWORK LOCATION
+"FIA",2005.2,0)
+^MAG(2005.2,
+"FIA",2005.2,0,0)
+2005.2I
+"FIA",2005.2,0,1)
+y^y^p^^^^n
+"FIA",2005.2,0,10)
+
+"FIA",2005.2,0,11)
+
+"FIA",2005.2,0,"RLRO")
+
+"FIA",2005.2,0,"VR")
+3.0^MAG
+"FIA",2005.2,2005.2)
+1
+"FIA",2005.2,2005.2,1)
+
+"FIA",2005.2,2005.2,5)
+
+"INIT")
+POST^MAGIPOS1
+"IX",2005.2,2005.2,"C",0)
+2005.2^C^PHYSICAL REFERENCE and OPERATIONAL STATUS^R^^R^IR^I^2005.2^^^^^LS
+"IX",2005.2,2005.2,"C",.1,0)
+^^1^1^3000913^
+"IX",2005.2,2005.2,"C",.1,1,0)
+This cross reference keeps track of which devices are on (or off) line.
+"IX",2005.2,2005.2,"C",1)
+S ^MAG(2005.2,"C",$E(X(1),1,30),X(2),DA)=""
+"IX",2005.2,2005.2,"C",2)
+K ^MAG(2005.2,"C",$E(X(1),1,30),X(2),DA)
+"IX",2005.2,2005.2,"C",2.5)
+K ^MAG(2005.2,"C")
+"IX",2005.2,2005.2,"C",11.1,0)
+^.114IA^2^2
+"IX",2005.2,2005.2,"C",11.1,1,0)
+1^F^2005.2^1^30^1^F
+"IX",2005.2,2005.2,"C",11.1,2,0)
+2^F^2005.2^5^^2^F
+"MBREQ")
+0
+"PKG",478,-1)
+1^1
+"PKG",478,0)
+IMAGING^MAG^VistA Imaging
+"PKG",478,22,0)
+^9.49I^1^1
+"PKG",478,22,1,0)
+3.0^3020319
+"PKG",478,22,1,"PAH",1,0)
+1^3020322
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+4
+"RTN","MAGBAPI")
+0^1^B19379320
+"RTN","MAGBAPI",1,0)
+MAGBAPI ;WOIFO/PMK - Background Processor API to build queues [ 03/25/2001 11:20 ]
+"RTN","MAGBAPI",2,0)
+ ;;3.0;IMAGING;**1**;Mar 18, 2002
+"RTN","MAGBAPI",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBAPI",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGBAPI",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGBAPI",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGBAPI",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGBAPI",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGBAPI",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGBAPI",10,0)
+ ;; |                                                               |
+"RTN","MAGBAPI",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGBAPI",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGBAPI",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGBAPI",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGBAPI",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGBAPI",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBAPI",17,0)
+ ;;
+"RTN","MAGBAPI",18,0)
+ ; The API returns the entry's queue pointer
+"RTN","MAGBAPI",19,0)
+ ;
+"RTN","MAGBAPI",20,0)
+ABSTRACT(INPUT) ; Entry point to create an image abstract
+"RTN","MAGBAPI",21,0)
+ ; input = image pointer
+"RTN","MAGBAPI",22,0)
+ Q $$QUEUE("ABSTRACT",INPUT)
+"RTN","MAGBAPI",23,0)
+ ;
+"RTN","MAGBAPI",24,0)
+GCC(INPUT) ; Entry point to create an Document Imaging Export Copy
+"RTN","MAGBAPI",25,0)
+ ; input = image pointer(^Second Piece Optional Location specified^3rd optional extension(s) specifier)
+"RTN","MAGBAPI",26,0)
+ Q $$QUEUE("GCC",$P(INPUT,U)_"^^"_$P(INPUT,U,4)_U_$P(INPUT,U,2,3))
+"RTN","MAGBAPI",27,0)
+ ;       
+"RTN","MAGBAPI",28,0)
+JUKEBOX(INPUT) ; Entry point to copy an image file and abstract to the Jukebox
+"RTN","MAGBAPI",29,0)
+ ; input = image pointer
+"RTN","MAGBAPI",30,0)
+ N NEXT
+"RTN","MAGBAPI",31,0)
+ S NEXT=$O(^MAGQUEUE(2006.03,"JX",$P(INPUT,"^"),$$NEXTQ("JUKEBOX")))
+"RTN","MAGBAPI",32,0)
+ Q:NEXT?1N.N NEXT
+"RTN","MAGBAPI",33,0)
+ S NEXT=$$QUEUE("JUKEBOX",INPUT)
+"RTN","MAGBAPI",34,0)
+ S ^MAGQUEUE(2006.03,"JX",$P(INPUT,"^"),NEXT)=""
+"RTN","MAGBAPI",35,0)
+ Q NEXT
+"RTN","MAGBAPI",36,0)
+ ;
+"RTN","MAGBAPI",37,0)
+DELETE(INPUT) ; Entry point to delete a file (literally from anywhere)
+"RTN","MAGBAPI",38,0)
+ ; input = full path of file to delete
+"RTN","MAGBAPI",39,0)
+ Q $$QUEUE("DELETE","^^"_+$P(INPUT,U,3)_U_$P(INPUT,U)) ;SETS 10TH PIECE
+"RTN","MAGBAPI",40,0)
+ ;
+"RTN","MAGBAPI",41,0)
+IMPORT(INPUT,CALLBACK,TRACKID) ; Entry point to import a file
+"RTN","MAGBAPI",42,0)
+ ; input = Image Parameter Array
+"RTN","MAGBAPI",43,0)
+ ; Callback = the process called with the results of the import activity
+"RTN","MAGBAPI",44,0)
+ ;
+"RTN","MAGBAPI",45,0)
+ Q "0^Image IMPORT not supported in this version"
+"RTN","MAGBAPI",46,0)
+ ;
+"RTN","MAGBAPI",47,0)
+JBTOHD(INPUT) ; Entry point to copy an image from the Jukebox to the Hard Disk
+"RTN","MAGBAPI",48,0)
+ ; input = image pointer ^ FULL or ABSTRACT or BIG
+"RTN","MAGBAPI",49,0)
+ N NEXT,IEN,JDTYPE
+"RTN","MAGBAPI",50,0)
+ S IEN=$P(INPUT,"^"),JDTYPE=$P(INPUT,"^",2)
+"RTN","MAGBAPI",51,0)
+ S NEXT=$O(^MAGQUEUE(2006.03,"JD",IEN,JDTYPE,$$NEXTQ("JBTOHD")))
+"RTN","MAGBAPI",52,0)
+ Q:NEXT?1N.N NEXT
+"RTN","MAGBAPI",53,0)
+ S NEXT=$$QUEUE("JBTOHD",INPUT)
+"RTN","MAGBAPI",54,0)
+ S ^MAGQUEUE(2006.03,"JD",$P(INPUT,"^"),$P(INPUT,"^",2),NEXT)=""
+"RTN","MAGBAPI",55,0)
+ Q NEXT
+"RTN","MAGBAPI",56,0)
+ ;
+"RTN","MAGBAPI",57,0)
+JBHDA(INPUT) ; Entry point to copy an image from the Jukebox to the Hard DisK
+"RTN","MAGBAPI",58,0)
+ ; input = image pointer ^ FULL or ABSTRACT or BIG
+"RTN","MAGBAPI",59,0)
+ N NEXT,IEN,JDTYPE,CNT,OK
+"RTN","MAGBAPI",60,0)
+ S CNT="",OK=0
+"RTN","MAGBAPI",61,0)
+ F  S CNT=$O(INPUT(CNT)) Q:CNT'?1N.N  D
+"RTN","MAGBAPI",62,0)
+ . S IEN=$P(INPUT(CNT),"^"),JDTYPE=$P(INPUT(CNT),"^",2)
+"RTN","MAGBAPI",63,0)
+ . S NEXT=$O(^MAGQUEUE(2006.03,"JD",IEN,JDTYPE,$$NEXTQ("JBTOHD")))
+"RTN","MAGBAPI",64,0)
+ . S $P(INPUT(CNT),"^",3)=$S(NEXT?1N.N:NEXT,1:$$QUEUE("JBTOHD",INPUT))
+"RTN","MAGBAPI",65,0)
+ . S OK=$S(OK'=0:OK,1:$P(INPUT(CNT),"^",3))
+"RTN","MAGBAPI",66,0)
+ Q OK
+"RTN","MAGBAPI",67,0)
+ ;
+"RTN","MAGBAPI",68,0)
+PREFET(INPUT) ;
+"RTN","MAGBAPI",69,0)
+ ; input = image pointer ^ FULL or ABSTRACT or BIG
+"RTN","MAGBAPI",70,0)
+ N NEXT,IEN,JDTYPE
+"RTN","MAGBAPI",71,0)
+ S IEN=$P(INPUT,"^"),JDTYPE=$P(INPUT,"^",2)
+"RTN","MAGBAPI",72,0)
+ S NEXT=$O(^MAGQUEUE(2006.03,"JD",IEN,JDTYPE,$$NEXTQ("PREFET")))
+"RTN","MAGBAPI",73,0)
+ Q:NEXT?1N.N NEXT
+"RTN","MAGBAPI",74,0)
+ S NEXT=$$QUEUE("PREFET",INPUT)
+"RTN","MAGBAPI",75,0)
+ S ^MAGQUEUE(2006.03,"JD",$P(INPUT,"^"),$P(INPUT,"^",2),NEXT)=""
+"RTN","MAGBAPI",76,0)
+ Q NEXT
+"RTN","MAGBAPI",77,0)
+ ;
+"RTN","MAGBAPI",78,0)
+EVAL(IMAGE) ; Entry point for before rules are evaluated
+"RTN","MAGBAPI",79,0)
+ Q $$QUEUE("EVAL",IMAGE)
+"RTN","MAGBAPI",80,0)
+ ;
+"RTN","MAGBAPI",81,0)
+FILECOPY(FILES,NETLOCN) ; Entry point to copy file(s) to a network location
+"RTN","MAGBAPI",82,0)
+ ; FILES = path to file(s) -- Note: wild card(s) may be used
+"RTN","MAGBAPI",83,0)
+ ; NETLOCN = name of network location (.01 file in ^MAG(2005.2))
+"RTN","MAGBAPI",84,0)
+ Q $$QUEUE("FILECOPY",FILES_"^"_NETLOCN)
+"RTN","MAGBAPI",85,0)
+ ;
+"RTN","MAGBAPI",86,0)
+NEXTQ(TYPE) ;
+"RTN","MAGBAPI",87,0)
+ N X
+"RTN","MAGBAPI",88,0)
+ S X=$O(^MAGQUEUE(2006.031,"B",TYPE,""))
+"RTN","MAGBAPI",89,0)
+ Q $S('X:X,1:$P(^MAGQUEUE(2006.031,X,0),"^",2))
+"RTN","MAGBAPI",90,0)
+ ;
+"RTN","MAGBAPI",91,0)
+QUEUE(Q,INPUT) ; Stuff the entry (header + INPUT) into the appropriate queue (Q)
+"RTN","MAGBAPI",92,0)
+ N %,%H,%I,QPTR,QTR,X,Y
+"RTN","MAGBAPI",93,0)
+ ; increment the QPTR
+"RTN","MAGBAPI",94,0)
+ ;
+"RTN","MAGBAPI",95,0)
+ L +^MAGQUEUE(2006.03,0)
+"RTN","MAGBAPI",96,0)
+ S X=^MAGQUEUE(2006.03,0)
+"RTN","MAGBAPI",97,0)
+ S QPTR=$O(^MAGQUEUE(2006.03," "),-1)+1
+"RTN","MAGBAPI",98,0)
+ S $P(X,"^",3)=QPTR,$P(X,"^",4)=$P(X,"^",4)+1 ; #entries
+"RTN","MAGBAPI",99,0)
+ S ^MAGQUEUE(2006.03,0)=X
+"RTN","MAGBAPI",100,0)
+ ;
+"RTN","MAGBAPI",101,0)
+ ; add user, system id, date & time, and completion pieces to each entry
+"RTN","MAGBAPI",102,0)
+ D NOW^%DTC
+"RTN","MAGBAPI",103,0)
+ ; stuff the entry and "B" cross reference
+"RTN","MAGBAPI",104,0)
+ S ^MAGQUEUE(2006.03,QPTR,0)=Q_"^"_$G(DUZ)_"^"_^%ZOSF("VOL")_"^"_%_"^^^"_INPUT
+"RTN","MAGBAPI",105,0)
+ S ^MAGQUEUE(2006.03,"B",Q,QPTR)=""
+"RTN","MAGBAPI",106,0)
+ L -^MAGQUEUE(2006.03,0)
+"RTN","MAGBAPI",107,0)
+ D ADD(1,Q)
+"RTN","MAGBAPI",108,0)
+ Q QPTR ; return pointer to the entry in the queue
+"RTN","MAGBAPI",109,0)
+ ;
+"RTN","MAGBAPI",110,0)
+ADD(N,QUEUE) ; Ensure that the counter has a valid numeric value
+"RTN","MAGBAPI",111,0)
+ ; and increment it by N (N will be 0 if just validating...)
+"RTN","MAGBAPI",112,0)
+ ; QUEUE = Name of queue in 2006.03
+"RTN","MAGBAPI",113,0)
+ ;
+"RTN","MAGBAPI",114,0)
+ ; The counters in 2006.031 look like
+"RTN","MAGBAPI",115,0)
+ ;   ^MAGQUEUE(2006.031,D0,0) = Name ^ Next ^ Count
+"RTN","MAGBAPI",116,0)
+ ;     where Next is the IEN in 2006.03 of the next entry to be
+"RTN","MAGBAPI",117,0)
+ ;                processed by a 'background processor'
+"RTN","MAGBAPI",118,0)
+ ;       and Count is the number of entries for this queue
+"RTN","MAGBAPI",119,0)
+ ;
+"RTN","MAGBAPI",120,0)
+ N CNT,D0,I,X
+"RTN","MAGBAPI",121,0)
+ ;
+"RTN","MAGBAPI",122,0)
+ S D0=$O(^MAGQUEUE(2006.031,"B",QUEUE,""))
+"RTN","MAGBAPI",123,0)
+ D:'D0
+"RTN","MAGBAPI",124,0)
+ . L +^MAGQUEUE(2006.031)
+"RTN","MAGBAPI",125,0)
+ . S D0=$O(^MAGQUEUE(2006.031," "),-1)+1
+"RTN","MAGBAPI",126,0)
+ . S ^MAGQUEUE(2006.031,D0,0)=QUEUE_"^0"
+"RTN","MAGBAPI",127,0)
+ . S ^MAGQUEUE(2006.031,"B",QUEUE,D0)=""
+"RTN","MAGBAPI",128,0)
+ . S X="IMAGE BACKGROUND QUEUE POINTER^2006.031^"_D0_"^"_D0
+"RTN","MAGBAPI",129,0)
+ . S ^MAGQUEUE(2006.031,0)=X
+"RTN","MAGBAPI",130,0)
+ . L -^MAGQUEUE(2006.031)
+"RTN","MAGBAPI",131,0)
+ . Q
+"RTN","MAGBAPI",132,0)
+ L +^MAGQUEUE(2006.031,D0)
+"RTN","MAGBAPI",133,0)
+ S X=^MAGQUEUE(2006.031,D0,0),CNT=$P(X,"^",3)
+"RTN","MAGBAPI",134,0)
+ I CNT?1.N S CNT=CNT+N
+"RTN","MAGBAPI",135,0)
+ E  D
+"RTN","MAGBAPI",136,0)
+ . S I=$P(X,"^",2),CNT=0
+"RTN","MAGBAPI",137,0)
+ . F  S I=$O(^MAGQUEUE(2006.03,"B",QUEUE,I)) Q:I'?1N.N  S CNT=CNT+1
+"RTN","MAGBAPI",138,0)
+ . Q
+"RTN","MAGBAPI",139,0)
+ S $P(X,"^",3)=CNT,^MAGQUEUE(2006.031,D0,0)=X
+"RTN","MAGBAPI",140,0)
+ L -^MAGQUEUE(2006.031,D0)
+"RTN","MAGBAPI",141,0)
+ Q
+"RTN","MAGIPOS1")
+0^^B4247181
+"RTN","MAGIPOS1",1,0)
+MAGIPOS1 ;Post init routine to queue site activity at install.
+"RTN","MAGIPOS1",2,0)
+ ;;3.0;IMAGING;**1**;Mar 18, 2002
+"RTN","MAGIPOS1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPOS1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPOS1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPOS1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPOS1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPOS1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPOS1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPOS1",10,0)
+ ;; |                                                               |
+"RTN","MAGIPOS1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPOS1",12,0)
+ ;; | a medical device.  As such, it may not be changed             |
+"RTN","MAGIPOS1",13,0)
+ ;; | in any way.  Modifications to this software may result in an  |
+"RTN","MAGIPOS1",14,0)
+ ;; | adulterated medical device under 21CFR820, the use of which   |
+"RTN","MAGIPOS1",15,0)
+ ;; | is considered to be a violation of US Federal Statutes.       |
+"RTN","MAGIPOS1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPOS1",17,0)
+ ;;
+"RTN","MAGIPOS1",18,0)
+ Q
+"RTN","MAGIPOS1",19,0)
+POST ;
+"RTN","MAGIPOS1",20,0)
+ I $T(POST^MAGQST)="" Q
+"RTN","MAGIPOS1",21,0)
+ D POST^MAGQST
+"RTN","MAGIPOS1",22,0)
+ D UPDATE
+"RTN","MAGIPOS1",23,0)
+ Q
+"RTN","MAGIPOS1",24,0)
+UPDATE ;Is GCC Export set in the Imaging Site Param file?
+"RTN","MAGIPOS1",25,0)
+ N ENTRY
+"RTN","MAGIPOS1",26,0)
+ S ENTRY=0
+"RTN","MAGIPOS1",27,0)
+ F  S ENTRY=$O(^MAG(2006.1,ENTRY)) Q:'ENTRY  D
+"RTN","MAGIPOS1",28,0)
+ . I $D(^MAG(2006.1,ENTRY,0)),+$P(^MAG(2006.1,ENTRY,0),"^",7) D
+"RTN","MAGIPOS1",29,0)
+ . . D MAGDESC
+"RTN","MAGIPOS1",30,0)
+ . . Q
+"RTN","MAGIPOS1",31,0)
+ . Q
+"RTN","MAGIPOS1",32,0)
+ Q
+"RTN","MAGIPOS1",33,0)
+MAGDESC ;Reset the MEANS TEST entries in file 2005.81
+"RTN","MAGIPOS1",34,0)
+ ; Only set the ACTION IS ACTIVE field
+"RTN","MAGIPOS1",35,0)
+ N XX,IEN
+"RTN","MAGIPOS1",36,0)
+ F XX="MEANS TEST (10-10EZ)","MEANS TEST (10-10F)" D
+"RTN","MAGIPOS1",37,0)
+ . S IEN=$O(^MAG(2005.81,"B",XX,0)) Q:'IEN
+"RTN","MAGIPOS1",38,0)
+ . I $D(^MAG(2005.81,IEN,0)) S $P(^MAG(2005.81,IEN,1),"^")=1
+"RTN","MAGIPOS1",39,0)
+ . Q
+"RTN","MAGIPOS1",40,0)
+ Q
+"RTN","MAGQBAB")
+0^2^B6609808
+"RTN","MAGQBAB",1,0)
+MAGQBAB ;WOIFO/PMK/RMP - Create an ABSTRACT from an image file [ 06/20/2001 08:57 ]
+"RTN","MAGQBAB",2,0)
+ ;;3.0;IMAGING;**1**;Mar 18, 2002
+"RTN","MAGQBAB",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQBAB",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQBAB",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQBAB",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQBAB",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQBAB",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQBAB",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQBAB",10,0)
+ ;; |                                                               |
+"RTN","MAGQBAB",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQBAB",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGQBAB",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGQBAB",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGQBAB",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGQBAB",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQBAB",17,0)
+ ;;
+"RTN","MAGQBAB",18,0)
+ENTRY(RESULT,QPTR) ;
+"RTN","MAGQBAB",19,0)
+ ; RESULT=STATUS^IMAGE PTR^FROM FILEPATH^ABSTRACT FILEPATH^QPTR^VWP^QSN
+"RTN","MAGQBAB",20,0)
+ ; VWP=VISTA WRITE LOCATION,QSN=QUEUE SEQUENCE NUMBER
+"RTN","MAGQBAB",21,0)
+ N IMGPTR,L,X,MAGXX,FILENAME,FILE,ABSNAME
+"RTN","MAGQBAB",22,0)
+ N MAGNODE,MAGFILE,MAGFILE2,QSN,QNODE,MAGDRIVE,CWL
+"RTN","MAGQBAB",23,0)
+ S U="^",QNODE=$G(^MAGQUEUE(2006.03,QPTR,0))
+"RTN","MAGQBAB",24,0)
+ S IMGPTR=$P(QNODE,U,7),QSN=+$P(QNODE,U,9)
+"RTN","MAGQBAB",25,0)
+ S MAGNODE=$G(^MAG(2005,IMGPTR,0))
+"RTN","MAGQBAB",26,0)
+ I $P(MAGNODE,U,2)="" D  Q
+"RTN","MAGQBAB",27,0)
+ . S RESULT="-1^^File "_IMGPTR_" not present^^"_QPTR_"^^"_QSN
+"RTN","MAGQBAB",28,0)
+ I $P(MAGNODE,U,3)="" D  Q
+"RTN","MAGQBAB",29,0)
+ . S RESULT="-2^^File "_IMGPTR_" not on hard drive^^"_QPTR_"^^"_QSN
+"RTN","MAGQBAB",30,0)
+ ; get the path and file name for this image
+"RTN","MAGQBAB",31,0)
+ S MAGXX=IMGPTR D VSTNOCP^MAGFILEB I $P(MAGFILE1,U)="-1" D  Q
+"RTN","MAGQBAB",32,0)
+ . S RESULT="-3^^File "_IMGPTR_" not on-line^^"_QPTR_"^^"_QSN
+"RTN","MAGQBAB",33,0)
+ S FILENAME=MAGFILE
+"RTN","MAGQBAB",34,0)
+ S L=$L(FILENAME) I '$A(FILENAME,L) S FILENAME=$E(FILENAME,1,L-1)
+"RTN","MAGQBAB",35,0)
+ S L=$L(FILENAME,"\") ; parse the file
+"RTN","MAGQBAB",36,0)
+ S FILE=$P(FILENAME,"\",L)
+"RTN","MAGQBAB",37,0)
+ K MAGFILE1
+"RTN","MAGQBAB",38,0)
+ ;
+"RTN","MAGQBAB",39,0)
+ S CWL=$$CWL(),MAGDRIVE=$P(^MAG(2005.2,CWL,0),U,2)
+"RTN","MAGQBAB",40,0)
+ S ABSNAME=MAGDRIVE_$$DIRHASH^MAGFILEB(FILE,CWL)
+"RTN","MAGQBAB",41,0)
+ S ABSNAME=ABSNAME_$P(FILE,".")_".ABS"
+"RTN","MAGQBAB",42,0)
+ S RESULT="1"_U_IMGPTR_U_FILENAME_U_ABSNAME_U_QPTR_U_CWL_U_QSN
+"RTN","MAGQBAB",43,0)
+ Q
+"RTN","MAGQBAB",44,0)
+CWL() ;Current Write Location
+"RTN","MAGQBAB",45,0)
+ Q $G(^MAG(2006.1,"ARITE"))
+"RTN","MAGQBTM")
+0^3^B87006345
+"RTN","MAGQBTM",1,0)
+MAGQBTM ;WOIFO/RMP - REMOTE Task SERVER Program [ 03/25/2001 11:20 ]
+"RTN","MAGQBTM",2,0)
+ ;;3.0;IMAGING;*1**;Mar 18, 2002
+"RTN","MAGQBTM",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQBTM",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQBTM",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQBTM",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQBTM",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQBTM",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQBTM",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQBTM",10,0)
+ ;; |                                                               |
+"RTN","MAGQBTM",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQBTM",12,0)
+ ;; | a medical device.  As such, it may not be changed             |
+"RTN","MAGQBTM",13,0)
+ ;; | in any way.  Modifications to this software may result in an  |
+"RTN","MAGQBTM",14,0)
+ ;; | adulterated medical device under 21CFR820, the use of which   |
+"RTN","MAGQBTM",15,0)
+ ;; | is considered to be a violation of US Federal Statutes.       |
+"RTN","MAGQBTM",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQBTM",17,0)
+ ;;
+"RTN","MAGQBTM",18,0)
+ ;
+"RTN","MAGQBTM",19,0)
+ENTRY(RESULT,WSTAT,PROCESS) ;
+"RTN","MAGQBTM",20,0)
+ ; RPC[MAGQ ABP]
+"RTN","MAGQBTM",21,0)
+ N X,SYSIEN,SYSNAME,NODE,INDX,CNT,PROC,%,QPTR,QCNT,VERS,EXEDATE,WSOS
+"RTN","MAGQBTM",22,0)
+ D NOW^%DTC
+"RTN","MAGQBTM",23,0)
+ ; Initialize error trap
+"RTN","MAGQBTM",24,0)
+ S X="ERR^MAGQBTM",@^%ZOSF("TRAP")
+"RTN","MAGQBTM",25,0)
+ ; Set some initialization variables
+"RTN","MAGQBTM",26,0)
+ S (SYSIEN,CNT)=0,SYSNAME=""
+"RTN","MAGQBTM",27,0)
+ S $P(RESULT(0),U,6)=$D(^XUSEC("MAG SYSTEM",DUZ))
+"RTN","MAGQBTM",28,0)
+ Q:'$P(RESULT(0),U,6)
+"RTN","MAGQBTM",29,0)
+ S VERS=$P(WSTAT,U,2),EXEDATE=$P(WSTAT,U,3),WSOS=$P(WSTAT,U,4)
+"RTN","MAGQBTM",30,0)
+ S WSTAT=$P(WSTAT,U)
+"RTN","MAGQBTM",31,0)
+ ; Select sysname
+"RTN","MAGQBTM",32,0)
+ S SYSIEN=$O(^MAG(2006.8,"C",WSTAT,"")) ; True workstation name
+"RTN","MAGQBTM",33,0)
+ I 'SYSIEN S SYSIEN=$O(^MAG(2006.8,"C",$$UPPER(WSTAT),""))
+"RTN","MAGQBTM",34,0)
+ I 'SYSIEN D  ; Attempt to find a match from local name
+"RTN","MAGQBTM",35,0)
+ . N TRY
+"RTN","MAGQBTM",36,0)
+ . F TRY=1:1:$L(WSTAT,".") D  Q:SYSIEN?1.N
+"RTN","MAGQBTM",37,0)
+ . . S SYSIEN=$O(^MAG(2006.8,"C",$P(WSTAT,".",TRY),""))
+"RTN","MAGQBTM",38,0)
+ . . I 'SYSIEN S SYSIEN=$O(^MAG(2006.8,"C",$$UPPER($P(WSTAT,".",TRY)),""))
+"RTN","MAGQBTM",39,0)
+ . . Q
+"RTN","MAGQBTM",40,0)
+ . Q
+"RTN","MAGQBTM",41,0)
+ ;
+"RTN","MAGQBTM",42,0)
+ Q:SYSIEN=""
+"RTN","MAGQBTM",43,0)
+ S $P(^MAG(2006.8,SYSIEN,1),U,2)=VERS
+"RTN","MAGQBTM",44,0)
+ S $P(^MAG(2006.8,SYSIEN,1),U,3)=EXEDATE
+"RTN","MAGQBTM",45,0)
+ S $P(^MAG(2006.8,SYSIEN,1),U,4)=WSOS
+"RTN","MAGQBTM",46,0)
+ S ^TMP("MAGQN",$J,0)=SYSIEN_"^"_WSTAT
+"RTN","MAGQBTM",47,0)
+ S NODE=^MAG(2006.8,SYSIEN,0)
+"RTN","MAGQBTM",48,0)
+ S SYSNAME=$P(NODE,U)
+"RTN","MAGQBTM",49,0)
+ I SYSNAME="" D  Q
+"RTN","MAGQBTM",50,0)
+ . S $P(RESULT(0),U,1,2)="-1^No Background Processor parameters on system"
+"RTN","MAGQBTM",51,0)
+ I $P(NODE,U,12)'=1 D  Q
+"RTN","MAGQBTM",52,0)
+ . S $P(RESULT(0),U,1,2)="-1^Not assigned as a Background Processor"
+"RTN","MAGQBTM",53,0)
+ F PROC="ABSTRACT","JUKEBOX","JBTOHD","DELETE","PREFET","GCC" D
+"RTN","MAGQBTM",54,0)
+ . N FNUM,PIECE
+"RTN","MAGQBTM",55,0)
+ . S FNUM=$$FNUM(PROC)
+"RTN","MAGQBTM",56,0)
+ . S PIECE=$$GET1^DID(2006.8,FNUM,"","GLOBAL SUBSCRIPT LOCATION")
+"RTN","MAGQBTM",57,0)
+ . S PIECE=$P(PIECE,";",2)
+"RTN","MAGQBTM",58,0)
+ . I $P(NODE,U,PIECE)="1" D
+"RTN","MAGQBTM",59,0)
+ . . N QCNT,QPTR
+"RTN","MAGQBTM",60,0)
+ . . D ADD^MAGBAPI(0,PROC)
+"RTN","MAGQBTM",61,0)
+ . . S QPTR=$O(^MAGQUEUE(2006.031,"B",PROC,""))
+"RTN","MAGQBTM",62,0)
+ . . S QCNT=$P($G(^MAGQUEUE(2006.031,+QPTR,0)),U,3)
+"RTN","MAGQBTM",63,0)
+ . . S CNT=CNT+1
+"RTN","MAGQBTM",64,0)
+ . . S RESULT(CNT)=PROC_U_QCNT
+"RTN","MAGQBTM",65,0)
+ . . Q
+"RTN","MAGQBTM",66,0)
+ . Q
+"RTN","MAGQBTM",67,0)
+ S $P(RESULT(0),U,1,5)="0^BP List^PID: "_$$BASE^XLFUTL($J,10,16)_"^"_SYSNAME_U_WSTAT
+"RTN","MAGQBTM",68,0)
+ Q
+"RTN","MAGQBTM",69,0)
+ ;
+"RTN","MAGQBTM",70,0)
+FNUM(PROCESS) ;
+"RTN","MAGQBTM",71,0)
+ Q:PROC="ABSTRACT" 12
+"RTN","MAGQBTM",72,0)
+ Q:PROC="JUKEBOX" 13
+"RTN","MAGQBTM",73,0)
+ Q:PROC="JBTOHD" 14
+"RTN","MAGQBTM",74,0)
+ Q:PROC="PREFET" 15
+"RTN","MAGQBTM",75,0)
+ Q:PROC="GCC" 17
+"RTN","MAGQBTM",76,0)
+ Q:PROC="DELETE" 20
+"RTN","MAGQBTM",77,0)
+ Q 0
+"RTN","MAGQBTM",78,0)
+UPPER(X) ;
+"RTN","MAGQBTM",79,0)
+ Q $TR(X,"abcdefghijklmnopqrstuvwxyz","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","MAGQBTM",80,0)
+ ;
+"RTN","MAGQBTM",81,0)
+GETQUE(RESULT,ACTION) ;
+"RTN","MAGQBTM",82,0)
+ ; RPC[MAGQ GET]
+"RTN","MAGQBTM",83,0)
+ S X="ERR^MAGQBTM",@^%ZOSF("TRAP")
+"RTN","MAGQBTM",84,0)
+ D @(ACTION_"(.RESULT)")
+"RTN","MAGQBTM",85,0)
+ I +RESULT<0 D
+"RTN","MAGQBTM",86,0)
+ . D NOW^%DTC
+"RTN","MAGQBTM",87,0)
+ . D QSTAT($P(RESULT,U,2),$P(RESULT,U,3),ACTION)
+"RTN","MAGQBTM",88,0)
+ . D QPTER(ACTION,$P(RESULT,U,2))
+"RTN","MAGQBTM",89,0)
+ . Q
+"RTN","MAGQBTM",90,0)
+ Q
+"RTN","MAGQBTM",91,0)
+ ;
+"RTN","MAGQBTM",92,0)
+ABSTRACT(RESULT) ; Images that need to have abstracts
+"RTN","MAGQBTM",93,0)
+ D DEQUEUE("ABSTRACT",.RESULT)
+"RTN","MAGQBTM",94,0)
+ Q
+"RTN","MAGQBTM",95,0)
+ ;
+"RTN","MAGQBTM",96,0)
+JUKEBOX(RESULT) ; Images to be copied to the jukebox
+"RTN","MAGQBTM",97,0)
+ D DEQUEUE("JUKEBOX",.RESULT)
+"RTN","MAGQBTM",98,0)
+ Q
+"RTN","MAGQBTM",99,0)
+ ;
+"RTN","MAGQBTM",100,0)
+JBTOHD(RESULT) ;
+"RTN","MAGQBTM",101,0)
+ D DEQUEUE("JBTOHD",.RESULT)
+"RTN","MAGQBTM",102,0)
+ Q
+"RTN","MAGQBTM",103,0)
+ ;
+"RTN","MAGQBTM",104,0)
+GCC(RESULT) ;
+"RTN","MAGQBTM",105,0)
+ D DEQUEUE("GCC",.RESULT)
+"RTN","MAGQBTM",106,0)
+ Q
+"RTN","MAGQBTM",107,0)
+ ;
+"RTN","MAGQBTM",108,0)
+DELETE(RESULT) ;
+"RTN","MAGQBTM",109,0)
+ D DEQUEUE("DELETE",.RESULT)
+"RTN","MAGQBTM",110,0)
+ Q
+"RTN","MAGQBTM",111,0)
+ ;
+"RTN","MAGQBTM",112,0)
+PREFET(RESULT) ;
+"RTN","MAGQBTM",113,0)
+ D DEQUEUE("PREFET",.RESULT)
+"RTN","MAGQBTM",114,0)
+ Q
+"RTN","MAGQBTM",115,0)
+ ;
+"RTN","MAGQBTM",116,0)
+DEQUEUE(QUE,RESULT) ;
+"RTN","MAGQBTM",117,0)
+ S X="ERR^MAGQBTM",@^%ZOSF("TRAP")
+"RTN","MAGQBTM",118,0)
+ N QPTR,QPTR2,ROU,MAGIEN,ZNODE,MSG,IMQUE
+"RTN","MAGQBTM",119,0)
+ S QPTR2=$O(^MAGQUEUE(2006.031,"B",QUE,""))
+"RTN","MAGQBTM",120,0)
+ S QPTR=$S(QPTR2:$P(^MAGQUEUE(2006.031,QPTR2,0),U,2),1:"")
+"RTN","MAGQBTM",121,0)
+ S QPTR=$O(^MAGQUEUE(2006.03,"B",QUE,QPTR))
+"RTN","MAGQBTM",122,0)
+ I QPTR="" D  Q
+"RTN","MAGQBTM",123,0)
+ . S RESULT="0"_U_QPTR2_U_"No "_QUE_" "_QPTR2_" to process."
+"RTN","MAGQBTM",124,0)
+ . Q
+"RTN","MAGQBTM",125,0)
+ D QSTAT(QPTR,QUE_" in progress.",QUE)
+"RTN","MAGQBTM",126,0)
+ S ZNODE=$G(^MAGQUEUE(2006.03,QPTR,0))
+"RTN","MAGQBTM",127,0)
+ I ZNODE="" S RESULT=-101_U_QPTR_U_"Queue Record does not exist" Q
+"RTN","MAGQBTM",128,0)
+ S MAGIEN=$P(ZNODE,"^",7)
+"RTN","MAGQBTM",129,0)
+ I QUE'="DELETE",(('(+MAGIEN))!('$D(^MAG(2005,+MAGIEN,0)))!($P(ZNODE,U)'=QUE)) D  Q
+"RTN","MAGQBTM",130,0)
+ . I $D(^MAG(2005.1,+MAGIEN,0)) D
+"RTN","MAGQBTM",131,0)
+ . . S MSG="Image Record Deleted and in archive file."
+"RTN","MAGQBTM",132,0)
+ . . Q
+"RTN","MAGQBTM",133,0)
+ . E  S MSG="No valid image file number to process."
+"RTN","MAGQBTM",134,0)
+ . S RESULT=-101_U_QPTR_U_MSG
+"RTN","MAGQBTM",135,0)
+ . Q
+"RTN","MAGQBTM",136,0)
+ S ROU=$$RESET(QUE)
+"RTN","MAGQBTM",137,0)
+ I ROU="" S RESULT="-1"_U_QPTR_U_QUE_" Is an inactive process" Q
+"RTN","MAGQBTM",138,0)
+ D @("ENTRY^"_ROU_"(.RESULT,QPTR)")
+"RTN","MAGQBTM",139,0)
+ Q
+"RTN","MAGQBTM",140,0)
+ ;
+"RTN","MAGQBTM",141,0)
+QSTAT(QPTR,MESSAGE,ACTION) ; Set the completion status and date & time
+"RTN","MAGQBTM",142,0)
+ Q:QPTR=""
+"RTN","MAGQBTM",143,0)
+ Q:'$D(^MAGQUEUE(2006.03,QPTR,0))
+"RTN","MAGQBTM",144,0)
+ D NOW^%DTC
+"RTN","MAGQBTM",145,0)
+ I $P($G(^MAGQUEUE(2006.03,QPTR,0)),U,5)]"" D
+"RTN","MAGQBTM",146,0)
+ . K ^MAGQUEUE(2006.03,"C",$E($P(^MAGQUEUE(2006.03,QPTR,0),U),1,30),$E($P(^MAGQUEUE(2006.03,QPTR,0),U,5),1,30),QPTR)
+"RTN","MAGQBTM",147,0)
+ . Q
+"RTN","MAGQBTM",148,0)
+ S ^MAGQUEUE(2006.03,"C",$E($P(^MAGQUEUE(2006.03,QPTR,0),U),1,30),$E(MESSAGE,1,30),QPTR)=""
+"RTN","MAGQBTM",149,0)
+ S $P(^MAGQUEUE(2006.03,QPTR,0),U,5,6)=$P(MESSAGE,U)_U_%
+"RTN","MAGQBTM",150,0)
+ Q
+"RTN","MAGQBTM",151,0)
+ ;
+"RTN","MAGQBTM",152,0)
+QPTER(QUEUE,QPTR) ;
+"RTN","MAGQBTM",153,0)
+ N QREC,PREV,PNODE
+"RTN","MAGQBTM",154,0)
+ S QREC=$O(^MAGQUEUE(2006.031,"B",QUEUE,""))
+"RTN","MAGQBTM",155,0)
+ S PREV=$S(QREC:$P(^MAGQUEUE(2006.031,QREC,0),U,2),1:"")
+"RTN","MAGQBTM",156,0)
+ I PREV'="" D  Q
+"RTN","MAGQBTM",157,0)
+ . I QPTR=$O(^MAGQUEUE(2006.03,"B",QUEUE,PREV)) D
+"RTN","MAGQBTM",158,0)
+ . . L +^MAGQUEUE(2006.031)
+"RTN","MAGQBTM",159,0)
+ . . D ADD^MAGBAPI(-1,QUEUE)
+"RTN","MAGQBTM",160,0)
+ . . S $P(^MAGQUEUE(2006.031,QREC,0),U,2)=QPTR
+"RTN","MAGQBTM",161,0)
+ . . L -^MAGQUEUE(2006.031)
+"RTN","MAGQBTM",162,0)
+ . . S PNODE=$G(^MAGQUEUE(2006.03,PREV,0))
+"RTN","MAGQBTM",163,0)
+ . . I +$P(PNODE,"^",5)>0 D DQUE^MAGQBUT(PREV)
+"RTN","MAGQBTM",164,0)
+ . . Q
+"RTN","MAGQBTM",165,0)
+ . Q
+"RTN","MAGQBTM",166,0)
+ D ADD^MAGBAPI(0,QUEUE)
+"RTN","MAGQBTM",167,0)
+ Q
+"RTN","MAGQBTM",168,0)
+ ;
+"RTN","MAGQBTM",169,0)
+RESET(QUEUE) ; Set Routine parameter
+"RTN","MAGQBTM",170,0)
+ Q:QUEUE="ABSTRACT" "MAGQBAB"
+"RTN","MAGQBTM",171,0)
+ Q:QUEUE="JUKEBOX" "MAGQBJB"
+"RTN","MAGQBTM",172,0)
+ Q:QUEUE="JBTOHD" "MAGQBJH"
+"RTN","MAGQBTM",173,0)
+ Q:QUEUE="DELETE" "MAGQBD"
+"RTN","MAGQBTM",174,0)
+ Q:QUEUE="PREFET" "MAGQBJH"
+"RTN","MAGQBTM",175,0)
+ Q:QUEUE="GCC" "MAGQBGCC"
+"RTN","MAGQBTM",176,0)
+ Q ""
+"RTN","MAGQBTM",177,0)
+ ;
+"RTN","MAGQBTM",178,0)
+RQCNT ;
+"RTN","MAGQBTM",179,0)
+ N QIEN,QPTR,QNAM
+"RTN","MAGQBTM",180,0)
+ L +^MAGQUEUE(2006.031)
+"RTN","MAGQBTM",181,0)
+ S QNAM=""
+"RTN","MAGQBTM",182,0)
+ F  S QNAM=$O(^MAGQUEUE(2006.031,"B",QNAM)) Q:QNAM=""  D
+"RTN","MAGQBTM",183,0)
+ . S QIEN=$O(^MAGQUEUE(2006.031,"B",QNAM,"")) Q:QIEN'?1.N
+"RTN","MAGQBTM",184,0)
+ . S QPTR=+$P(^MAGQUEUE(2006.031,QIEN,0),U,2)
+"RTN","MAGQBTM",185,0)
+ . S $P(^MAGQUEUE(2006.031,QIEN,0),U,3)=""
+"RTN","MAGQBTM",186,0)
+ . D ADD^MAGBAPI(0,QNAM)
+"RTN","MAGQBTM",187,0)
+ . S $P(^MAGQUEUE(2006.031,QIEN,0),U,2)=QPTR
+"RTN","MAGQBTM",188,0)
+ . Q
+"RTN","MAGQBTM",189,0)
+ L -^MAGQUEUE(2006.031)
+"RTN","MAGQBTM",190,0)
+ Q
+"RTN","MAGQBTM",191,0)
+ ;
+"RTN","MAGQBTM",192,0)
+QUPDTE(RESULT,QPTR,UPDATE) ;
+"RTN","MAGQBTM",193,0)
+ ; RPC[MAGQ QUD]
+"RTN","MAGQBTM",194,0)
+ S X="ERR^MAGQBTM",@^%ZOSF("TRAP")
+"RTN","MAGQBTM",195,0)
+ N NODE,STAT,TYPE,VPTR,MPTR,IEN,IDFN
+"RTN","MAGQBTM",196,0)
+ S NODE=$G(^MAGQUEUE(2006.03,QPTR,0))
+"RTN","MAGQBTM",197,0)
+ S RESULT="1^QUEUE UPDATE COMPLETE"
+"RTN","MAGQBTM",198,0)
+ S STAT=$P(UPDATE,U)
+"RTN","MAGQBTM",199,0)
+ S TYPE=$P(NODE,U)
+"RTN","MAGQBTM",200,0)
+ I TYPE="" D QRUPT(QPTR,.RESULT,NODE) Q
+"RTN","MAGQBTM",201,0)
+ D QSTAT(QPTR,$S(STAT<0:$P(UPDATE,U,2),1:STAT),TYPE)
+"RTN","MAGQBTM",202,0)
+ D QPTER(TYPE,QPTR)
+"RTN","MAGQBTM",203,0)
+ I STAT<0 Q
+"RTN","MAGQBTM",204,0)
+ I "^DELETE^"[("^"_TYPE_"^") D DQUE^MAGQBUT(QPTR) Q
+"RTN","MAGQBTM",205,0)
+ S VPTR=$P(UPDATE,U,3)
+"RTN","MAGQBTM",206,0)
+ I VPTR?1.N D
+"RTN","MAGQBTM",207,0)
+ . S MPTR=$P(NODE,U,7)
+"RTN","MAGQBTM",208,0)
+ . I "^ABSTRACT^"[("^"_TYPE_"^") D  Q
+"RTN","MAGQBTM",209,0)
+ . . I $P(UPDATE,"^")["TIF" S $P(^MAG(2005,MPTR,0),U,3)=VPTR
+"RTN","MAGQBTM",210,0)
+ . . E  S $P(^MAG(2005,MPTR,0),U,4)=VPTR
+"RTN","MAGQBTM",211,0)
+ . . S X=$$JUKEBOX^MAGBAPI(MPTR)
+"RTN","MAGQBTM",212,0)
+ . . D DQUE^MAGQBUT(QPTR)
+"RTN","MAGQBTM",213,0)
+ . . Q
+"RTN","MAGQBTM",214,0)
+ . I ("^JBTOHD^"[("^"_TYPE_"^"))!("^PREFET^"[("^"_TYPE_"^")) D  Q
+"RTN","MAGQBTM",215,0)
+ . . I "^FULL^"[$P(NODE,U,8) S $P(^MAG(2005,MPTR,0),U,3)=VPTR
+"RTN","MAGQBTM",216,0)
+ . . I "^ABSTRACT^"[$P(NODE,U,8) S $P(^MAG(2005,MPTR,0),U,4)=VPTR
+"RTN","MAGQBTM",217,0)
+ . . I "^BIG^"[$P(NODE,U,8) S $P(^MAG(2005,MPTR,"FBIG"),U)=VPTR
+"RTN","MAGQBTM",218,0)
+ . . D DQUE^MAGQBUT(QPTR)
+"RTN","MAGQBTM",219,0)
+ . . Q
+"RTN","MAGQBTM",220,0)
+ . I "^JUKEBOX^"[("^"_TYPE_"^") D  Q 
+"RTN","MAGQBTM",221,0)
+ . . I $P(UPDATE,U,2)["BIG" S $P(^MAG(2005,MPTR,"FBIG"),U,2)=VPTR
+"RTN","MAGQBTM",222,0)
+ . . E  S $P(^MAG(2005,MPTR,0),U,5)=VPTR
+"RTN","MAGQBTM",223,0)
+ . . D DQUE^MAGQBUT(QPTR)  ;I STAT=3
+"RTN","MAGQBTM",224,0)
+ . . Q
+"RTN","MAGQBTM",225,0)
+ . I "^GCC^"[("^"_TYPE_"^") D  Q
+"RTN","MAGQBTM",226,0)
+ . . D NOW^%DTC
+"RTN","MAGQBTM",227,0)
+ . . S FDA(2005.01,"+1,"_MPTR_",",.01)=VPTR
+"RTN","MAGQBTM",228,0)
+ . . S FDA(2005.01,"+1,"_MPTR_",",1)=%
+"RTN","MAGQBTM",229,0)
+ . . S FDA(2005.01,"+1,"_MPTR_",",2)=$P($$TRIM($P(UPDATE,U,2))," ")
+"RTN","MAGQBTM",230,0)
+ . . D UPDATE^DIE("U","FDA","","MAGIMP")
+"RTN","MAGQBTM",231,0)
+ . . S IDFN=$P(^MAG(2005,MPTR,0),U,7)
+"RTN","MAGQBTM",232,0)
+ . . D ENTRY^MAGLOG("EXPORT->"_$P($G(^MAG(2005.2,VPTR,0)),U,2),$P(NODE,U,2),MPTR,"Document Imaging",IDFN,0)
+"RTN","MAGQBTM",233,0)
+ . . Q
+"RTN","MAGQBTM",234,0)
+ . Q
+"RTN","MAGQBTM",235,0)
+ Q
+"RTN","MAGQBTM",236,0)
+ ;
+"RTN","MAGQBTM",237,0)
+QRUPT(PTR,RESULT,NODE) ; Delete corrupt 2006.03 entry/update next queue ptr prn
+"RTN","MAGQBTM",238,0)
+ N %,TYPE,DONE,QIEN,MSG
+"RTN","MAGQBTM",239,0)
+ D NOW^%DTC
+"RTN","MAGQBTM",240,0)
+ I $D(^MAG(2005.1,PTR)) D
+"RTN","MAGQBTM",241,0)
+ . S MSG="Image Record Deleted and in archive file: "
+"RTN","MAGQBTM",242,0)
+ . Q
+"RTN","MAGQBTM",243,0)
+ E  S MSG="Queue record corrupted: "
+"RTN","MAGQBTM",244,0)
+ S RESULT="-1^"_PTR_"^"_MSG_NODE
+"RTN","MAGQBTM",245,0)
+ D QSTAT(PTR,"QUEUE RECORD CORRUPTED","DON'T KNOW")
+"RTN","MAGQBTM",246,0)
+ S ^TMP("MAGQ",$J,"QRUPT",PTR,%)=RESULT_U_NODE
+"RTN","MAGQBTM",247,0)
+ S (TYPE,DONE)=""
+"RTN","MAGQBTM",248,0)
+ F  S TYPE=$O(^MAGQUEUE(2006.031,"B",TYPE)) Q:TYPE=""  D  Q:DONE
+"RTN","MAGQBTM",249,0)
+ . I $D(^MAGQUEUE(2006.03,"B",TYPE,PTR)) D 
+"RTN","MAGQBTM",250,0)
+ . . S $P(^MAGQUEUE(2006.03,PTR,0),U)=TYPE,DONE=1
+"RTN","MAGQBTM",251,0)
+ . . Q
+"RTN","MAGQBTM",252,0)
+ . Q
+"RTN","MAGQBTM",253,0)
+ I 'DONE ;K ^MAGQUEUE(2006.03,PTR,0)
+"RTN","MAGQBTM",254,0)
+ Q
+"RTN","MAGQBTM",255,0)
+ ;
+"RTN","MAGQBTM",256,0)
+REQUE(RESULT,QPTR) ;
+"RTN","MAGQBTM",257,0)
+ ; RPC[MAGQ REQ]
+"RTN","MAGQBTM",258,0)
+ S X="ERR^MAGQBTM",@^%ZOSF("TRAP")
+"RTN","MAGQBTM",259,0)
+ N PROC,NODE,INDX,PARAM,OPDUZ,STATUS
+"RTN","MAGQBTM",260,0)
+ S INDX=$$TRIM(QPTR)
+"RTN","MAGQBTM",261,0)
+ S NODE=$G(^MAGQUEUE(2006.03,INDX,0))
+"RTN","MAGQBTM",262,0)
+ Q:NODE=""
+"RTN","MAGQBTM",263,0)
+ S PROC=$P(NODE,U),STATUS=$P(NODE,U,5)
+"RTN","MAGQBTM",264,0)
+ D RQP(PROC,NODE,.PARAM)
+"RTN","MAGQBTM",265,0)
+ S @("RESULT=$$"_PROC_"^MAGBAPI(PARAM)")
+"RTN","MAGQBTM",266,0)
+ I RESULT?1.N,STATUS'="" D
+"RTN","MAGQBTM",267,0)
+ . S $P(^MAGQUEUE(2006.03,RESULT,0),U,5)=STATUS
+"RTN","MAGQBTM",268,0)
+ . S ^MAGQUEUE(2006.03,"C",PROC,$E(STATUS,1,30),RESULT)=""
+"RTN","MAGQBTM",269,0)
+ . Q
+"RTN","MAGQBTM",270,0)
+ D DQUE^MAGQBUT(INDX)
+"RTN","MAGQBTM",271,0)
+ Q
+"RTN","MAGQBTM",272,0)
+RQP(P,N,PAR) ;
+"RTN","MAGQBTM",273,0)
+ N P1,P2,P3,P4
+"RTN","MAGQBTM",274,0)
+ I ("^JBTOHD^PREFET^")[P S P1=$P(N,U,7),P2=$P(N,U,8),P3=+$P(N,U,9)+1,PAR=P1_U_P2_U_P3 Q
+"RTN","MAGQBTM",275,0)
+ I P["DELETE" S P1=$P(N,U,10)_"^^",P2=+$P(N,U,9)+1,PAR=P1_P2 Q
+"RTN","MAGQBTM",276,0)
+ I P["GCC" D  Q
+"RTN","MAGQBTM",277,0)
+ . S P1=$P(N,U,7),P2=$P(N,U,10),P3=$P(N,U,11),P4=$P(N,U,9)+1,PAR=P1_U_P2_U_P3_U_P4 Q
+"RTN","MAGQBTM",278,0)
+ S P1=$P(N,U,7)_"^^",P2=+$P(N,U,9)+1,PAR=P1_P2 ;JUKEBOX + ABSTRACT
+"RTN","MAGQBTM",279,0)
+ Q
+"RTN","MAGQBTM",280,0)
+ERR ;
+"RTN","MAGQBTM",281,0)
+ N ERRXX
+"RTN","MAGQBTM",282,0)
+ S ERRXX=$$EC^%ZOSV
+"RTN","MAGQBTM",283,0)
+ D ^%ZTER
+"RTN","MAGQBTM",284,0)
+ D ^XUSCLEAN
+"RTN","MAGQBTM",285,0)
+ Q
+"RTN","MAGQBTM",286,0)
+ ;
+"RTN","MAGQBTM",287,0)
+TRIM(X) ; Remove both leading and trailing blanks
+"RTN","MAGQBTM",288,0)
+ N I,J
+"RTN","MAGQBTM",289,0)
+ F I=1:1:$L(X) Q:$E(X,I)'=" "
+"RTN","MAGQBTM",290,0)
+ F J=$L(X):-1:I Q:$E(X,J)'=" "
+"RTN","MAGQBTM",291,0)
+ Q $E(X,I,J)
+"RTN","MAGQBTM",292,0)
+ ;
+"VER")
+8.0^22.0
+"^DD",2005.2,2005.2,1,0)
+PHYSICAL REFERENCE^RFX^^0;2^K:$L(X)>30!($L(X)<1)!'((X?1"\\".E1"\".E1"\")!(X?1A1":\"1E.E1"\")) X
+"^DD",2005.2,2005.2,1,1,0)
+^.1^^-1
+"^DD",2005.2,2005.2,1,1,1,0)
+2005.2^AC
+"^DD",2005.2,2005.2,1,1,1,1)
+S ^MAG(2005.2,"AC",$E(X,1,30),DA)=""
+"^DD",2005.2,2005.2,1,1,1,2)
+K ^MAG(2005.2,"AC",$E(X,1,30),DA)
+"^DD",2005.2,2005.2,1,1,1,"%D",0)
+^^2^2^2951017^
+"^DD",2005.2,2005.2,1,1,1,"%D",1,0)
+This cross-reference allows a network location to be looked up
+"^DD",2005.2,2005.2,1,1,1,"%D",2,0)
+by physical name.
+"^DD",2005.2,2005.2,1,1,1,"DT")
+2951017
+"^DD",2005.2,2005.2,1,3)
+Answer must be 1-30 characters in length.
+"^DD",2005.2,2005.2,1,21,0)
+^.001^3^3^3000705^^^^
+"^DD",2005.2,2005.2,1,21,1,0)
+This is the physical network location where the image is stored. This is
+"^DD",2005.2,2005.2,1,21,2,0)
+the Universal Naming Convention (UNC)PATH for the Image Storage. For
+"^DD",2005.2,2005.2,1,21,3,0)
+example: \\SERVER01\IMAGE1\
+"^DD",2005.2,2005.2,1,"DT")
+3000913
+"^DD",2005.2,2005.2,5,0)
+OPERATIONAL STATUS^RSX^0:Off-Line;1:On-Line;^0;6^Q:DA["+1"  S:$P(^MAG(2005.2,DA,0),U,6)="" $P(^MAG(2005.2,DA,0),U,6)="0"
+"^DD",2005.2,2005.2,5,.1)
+Reachability Status
+"^DD",2005.2,2005.2,5,1,0)
+^.1^^0
+"^DD",2005.2,2005.2,5,3)
+Code the Network Location ONline/OFFline status
+"^DD",2005.2,2005.2,5,21,0)
+^.001^3^3^3020211^^^^
+"^DD",2005.2,2005.2,5,21,1,0)
+This field tells the Imaging software whether or not this network
+"^DD",2005.2,2005.2,5,21,2,0)
+location, where images are stored, is online. The default is online if the
+"^DD",2005.2,2005.2,5,21,3,0)
+field is null.
+"^DD",2005.2,2005.2,5,23,0)
+^.001^1^1^3020211^^^^
+"^DD",2005.2,2005.2,5,23,1,0)
+ 
+"^DD",2005.2,2005.2,5,"DT")
+3020211
+**END**
+**END**

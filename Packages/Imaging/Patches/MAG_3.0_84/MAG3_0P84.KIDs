@@ -1,0 +1,646 @@
+KIDS Distribution saved on Oct 26, 2006@08:18:03
+VistA Imaging V3.0 - Patch 84 10/26/2006 08:18AM
+**KIDS**:MAG*3.0*84^
+
+**INSTALL NAME**
+MAG*3.0*84
+"BLD",3463,0)
+MAG*3.0*84^IMAGING^0^3061026^y
+"BLD",3463,1,0)
+^^9^9^3061026^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 84 - Ambulatory Care Phase II Synchronization
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+Routines:
+"BLD",3463,1,5,0)
+MAGDHWS     old value = 8664784, new value = 25864298
+"BLD",3463,1,6,0)
+MAGIPS84    old value = 5182345, new value = 9466465
+"BLD",3463,1,7,0)
+ 
+"BLD",3463,1,8,0)
+Please note that routine MAGIPS84 is deleted after the KIDS Build is
+"BLD",3463,1,9,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^^0
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+n^n^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INID")
+n^y^n
+"BLD",3463,"INIT")
+POST^MAGIPS84
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.401,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.402,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAGDHWS^^0^B25864298
+"BLD",3463,"KRN",9.8,"NM","B","MAGDHWS",1)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",771,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",870,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"INIT")
+POST^MAGIPS84
+"MBREQ")
+0
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+84^3061026^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^8^8^3061026
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for Patch 84, Test Build 1.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGDHWS     value = 8664784
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGIPS84    value = 5182345
+"PKG",454,22,1,"PAH",1,1,6,0)
+ 
+"PKG",454,22,1,"PAH",1,1,7,0)
+Please note that routine MAGIPS84 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,8,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","MAGDHWS")
+0^1^B25864298
+"RTN","MAGDHWS",1,0)
+MAGDHWS ;WOIFO/PMK - Capture Consult/GMRC data ; 10/26/2006 07:35
+"RTN","MAGDHWS",2,0)
+ ;;3.0;IMAGING;**10,11,51,84**;26-October-2006;;Build 960
+"RTN","MAGDHWS",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDHWS",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHWS",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDHWS",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDHWS",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDHWS",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDHWS",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDHWS",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDHWS",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDHWS",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDHWS",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDHWS",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDHWS",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDHWS",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHWS",17,0)
+ ;;
+"RTN","MAGDHWS",18,0)
+ ; Called from PROTOCOL called MAGD APPOINTMENT (^ORD(101,...))
+"RTN","MAGDHWS",19,0)
+ ; through the scheduling package
+"RTN","MAGDHWS",20,0)
+ ;
+"RTN","MAGDHWS",21,0)
+ N %,AFTERSTS,APTNUMB,APTSCHED,CLINIC,CONSULTM,CUTOFF,DATETIME
+"RTN","MAGDHWS",22,0)
+ N DEL,DEL2,DEL3,DEL4,DEL5,DFN,DIVISION,DONE,FILLER1,FMDATE,FMDATETM
+"RTN","MAGDHWS",23,0)
+ N GMRCIEN,HL,IGNORE,IREQ,ITYPCODE,ITYPNAME,MSGTYPE,REQUEST
+"RTN","MAGDHWS",24,0)
+ N SERVICE,STATUS,UNKNOWN,X,Y,Z
+"RTN","MAGDHWS",25,0)
+ ;
+"RTN","MAGDHWS",26,0)
+ S APTNUMB=$P(SDATA,"^",1) I APTNUMB<1 Q  ; not a valid appointment
+"RTN","MAGDHWS",27,0)
+ D INIT^MAGDHW0 ; initialize variables
+"RTN","MAGDHWS",28,0)
+ D NOW^%DTC S FMDATE=%\1,FMDATETM=%
+"RTN","MAGDHWS",29,0)
+ S %H=%H-90 D TT^%DTC S CUTOFF=X ; cutoff date is 90 days ago
+"RTN","MAGDHWS",30,0)
+ S DFN=$P(SDATA,"^",2),DATETIME=$P(SDATA,"^",3),CLINIC=$P(SDATA,"^",4)
+"RTN","MAGDHWS",31,0)
+ S APTSCHED("CLINIC IEN")=CLINIC,APTSCHED("FM DATETIME")=DATETIME
+"RTN","MAGDHWS",32,0)
+ S AFTERSTS=SDATA("AFTER","STATUS"),X=$P(AFTERSTS,"^",3)
+"RTN","MAGDHWS",33,0)
+ ; appointment management transactions from ^SD(409.63)
+"RTN","MAGDHWS",34,0)
+ S FILLER1="" D  Q:FILLER1=""
+"RTN","MAGDHWS",35,0)
+ . I X["CHECK IN" S FILLER1="SDAM-CHECKIN" Q
+"RTN","MAGDHWS",36,0)
+ . I X["CHECKED IN" S FILLER1="SDAM-CHECKIN" Q
+"RTN","MAGDHWS",37,0)
+ . I X["CHECK OUT" S FILLER1="SDAM-CHECKOUT" Q
+"RTN","MAGDHWS",38,0)
+ . I X["CHECKED OUT" S FILLER1="SDAM-CHECKOUT" Q
+"RTN","MAGDHWS",39,0)
+ . I X["AUTO RE-BOOK" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",40,0)
+ . I X["ACTION REQUIRED" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",41,0)
+ . I X["ACT REQ" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",42,0)
+ . I X["NON-COUNT" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",43,0)
+ . I X["CANCELLED" S FILLER1="SDAM-CANCELLED" Q
+"RTN","MAGDHWS",44,0)
+ . I X["NO-SHOW" S FILLER1="SDAM-CANCELLED" Q
+"RTN","MAGDHWS",45,0)
+ . I X["DELETED" S FILLER1="SDAM-CANCELLED" Q
+"RTN","MAGDHWS",46,0)
+ . I X["FUTURE" S FILLER1="SDAM-FUTURE" Q
+"RTN","MAGDHWS",47,0)
+ . I X["NO ACTION TAKEN" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",48,0)
+ . I X["NO ACT TAKN" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",49,0)
+ . W !!,"Unexpected Status: """,X,""" in protocol MAGD APPOINTMENT."
+"RTN","MAGDHWS",50,0)
+ . W !,"Please notify Customer Support"
+"RTN","MAGDHWS",51,0)
+ . W !!,"Press <Enter> to continue: " R X:$G(DTIME,300)
+"RTN","MAGDHWS",52,0)
+ . Q
+"RTN","MAGDHWS",53,0)
+ ;
+"RTN","MAGDHWS",54,0)
+ S APTSCHED("CLINIC NAME")=$S(CLINIC:$$GET1^DIQ(44,CLINIC,.01),1:"")
+"RTN","MAGDHWS",55,0)
+ ;
+"RTN","MAGDHWS",56,0)
+ ; find requests that can be performed in this clinic
+"RTN","MAGDHWS",57,0)
+ D SEARCH^MAGDGMRC(DFN,CUTOFF,CLINIC,.REQUEST)
+"RTN","MAGDHWS",58,0)
+ ;
+"RTN","MAGDHWS",59,0)
+ ; output an HL7 message for each request related to this appointment
+"RTN","MAGDHWS",60,0)
+ F IREQ=1:1:REQUEST D
+"RTN","MAGDHWS",61,0)
+ . S GMRCIEN=$P(REQUEST(IREQ),"^",1),SERVICE=$P(REQUEST(IREQ),"^",2)
+"RTN","MAGDHWS",62,0)
+ . S STATUS=$P(REQUEST(IREQ),"^",3)
+"RTN","MAGDHWS",63,0)
+ . S IGNORE=1 D SERVICE^MAGDHWC Q:IGNORE  ; not a service of interest
+"RTN","MAGDHWS",64,0)
+ . ; if {pending, active, scheduled, partially resulted, or complete}
+"RTN","MAGDHWS",65,0)
+ . I "^p^a^s^pr^c^"[("^"_STATUS_"^") D
+"RTN","MAGDHWS",66,0)
+ . . ; completed requests can only be checked out or cancelled
+"RTN","MAGDHWS",67,0)
+ . . I STATUS="c","SDAM-CHECKOUT^SDAM-CANCELLED"'[FILLER1 Q
+"RTN","MAGDHWS",68,0)
+ . . D MESSAGE("S")
+"RTN","MAGDHWS",69,0)
+ . . Q
+"RTN","MAGDHWS",70,0)
+ . Q
+"RTN","MAGDHWS",71,0)
+ Q
+"RTN","MAGDHWS",72,0)
+ ;
+"RTN","MAGDHWS",73,0)
+MESSAGE(MSGTYPE) ; invoked above and also from ^MAGDHWC for the initial order
+"RTN","MAGDHWS",74,0)
+ N CONSULT,HL7,MSG,NEXT,OBXSEGNO,ORCTRL,ORSTATUS
+"RTN","MAGDHWS",75,0)
+ I MSGTYPE="O" D  ; ordered - set in ^MAGDHWC
+"RTN","MAGDHWS",76,0)
+ . S MSGTYPE="ORDERED"
+"RTN","MAGDHWS",77,0)
+ . S ORCTRL="NW" ; order control
+"RTN","MAGDHWS",78,0)
+ . S ORSTATUS="IP" ; order status
+"RTN","MAGDHWS",79,0)
+ . Q
+"RTN","MAGDHWS",80,0)
+ E  D
+"RTN","MAGDHWS",81,0)
+ . S MSGTYPE="SCHEDULED"
+"RTN","MAGDHWS",82,0)
+ . S ORCTRL="SC" ; order control -- status changed
+"RTN","MAGDHWS",83,0)
+ . S ORSTATUS="ZC" ; scheduling
+"RTN","MAGDHWS",84,0)
+ . Q
+"RTN","MAGDHWS",85,0)
+ D MSH^HLFNC2(.HL,100000,.MSG) S $P(MSG,DEL,9)="ORM"
+"RTN","MAGDHWS",86,0)
+ S NEXT=0
+"RTN","MAGDHWS",87,0)
+ S NEXT=NEXT+1,HL7(NEXT)=MSG D MSH^MAGDHWA
+"RTN","MAGDHWS",88,0)
+ S NEXT=NEXT+1,HL7(NEXT)="PID",$P(HL7(NEXT),DEL,1+3)=DFN
+"RTN","MAGDHWS",89,0)
+ S NEXT=NEXT+1,HL7(NEXT)="PV1"
+"RTN","MAGDHWS",90,0)
+ D PID^MAGDHWA ; generate PID and PV1 segments
+"RTN","MAGDHWS",91,0)
+ S NEXT=NEXT+1,HL7(NEXT)=$$ORC D ORC^MAGDHWA
+"RTN","MAGDHWS",92,0)
+ S NEXT=NEXT+1,HL7(NEXT)=$$OBR D OBR^MAGDHWA
+"RTN","MAGDHWS",93,0)
+ S NEXT=NEXT+1,HL7(NEXT)=$$ZSV D ZSV^MAGDHWA
+"RTN","MAGDHWS",94,0)
+ S NEXT=NEXT+1,NEXT=$$OBX(NEXT)
+"RTN","MAGDHWS",95,0)
+ D ALLERGY^MAGDHWA,POSTINGS^MAGDHWA
+"RTN","MAGDHWS",96,0)
+ D OUTPUT^MAGDHW0
+"RTN","MAGDHWS",97,0)
+ Q
+"RTN","MAGDHWS",98,0)
+ ;
+"RTN","MAGDHWS",99,0)
+PV1() ; build a PV1 segment
+"RTN","MAGDHWS",100,0)
+ N X,Z
+"RTN","MAGDHWS",101,0)
+ S FROM=$$GET1^DIQ(123,GMRCIEN,.04,"I") ; patient location
+"RTN","MAGDHWS",102,0)
+ S Z=FROM_DEL3_$S(FROM:$$GET1^DIQ(44,FROM,.01),1:"")_DEL3_SERVICE
+"RTN","MAGDHWS",103,0)
+ S $P(X,DEL,10)=Z
+"RTN","MAGDHWS",104,0)
+ Q "PV1"_DEL_X
+"RTN","MAGDHWS",105,0)
+ ;
+"RTN","MAGDHWS",106,0)
+ORC() ; build an ORC segment
+"RTN","MAGDHWS",107,0)
+ N ORC,ORCPLCR,ORURG
+"RTN","MAGDHWS",108,0)
+ S ORCPLCR=$$GET1^DIQ(123,GMRCIEN,10,"I") ; sending provider
+"RTN","MAGDHWS",109,0)
+ D ORC^GMRCHL7(GMRCIEN,ORCTRL,ORCPLCR,,FMDATETM)
+"RTN","MAGDHWS",110,0)
+ S $P(ORC,DEL,5+1)=ORSTATUS
+"RTN","MAGDHWS",111,0)
+ Q ORC
+"RTN","MAGDHWS",112,0)
+ ;
+"RTN","MAGDHWS",113,0)
+ZSV() ; build a ZSV segment
+"RTN","MAGDHWS",114,0)
+ N ZSV
+"RTN","MAGDHWS",115,0)
+ D ZSV^GMRCHL7(GMRCIEN)
+"RTN","MAGDHWS",116,0)
+ Q ZSV
+"RTN","MAGDHWS",117,0)
+ ;
+"RTN","MAGDHWS",118,0)
+OBR() ; build an OBR segment
+"RTN","MAGDHWS",119,0)
+ N NOTIFY,OBR
+"RTN","MAGDHWS",120,0)
+ D OBR^GMRCHL72(GMRCIEN,"",FMDATETM)
+"RTN","MAGDHWS",121,0)
+ Q OBR
+"RTN","MAGDHWS",122,0)
+ ;
+"RTN","MAGDHWS",123,0)
+OBX(NEXT) ; build one or more OBX segments
+"RTN","MAGDHWS",124,0)
+ N GMRCND,GMRCND1,I,J,OBX,X
+"RTN","MAGDHWS",125,0)
+ D OBX^GMRCHL72(GMRCIEN)
+"RTN","MAGDHWS",126,0)
+ S OBXSEGNO=0
+"RTN","MAGDHWS",127,0)
+ F I=1:1 Q:'$D(OBX(I))  D
+"RTN","MAGDHWS",128,0)
+ . D OBX1(OBX(I))
+"RTN","MAGDHWS",129,0)
+ . I $D(OBX(I,1)) S X=$P(OBX(I),DEL,1,5) F J=1:1 Q:'$D(OBX(I,J))  D
+"RTN","MAGDHWS",130,0)
+ . . D OBX1(X_DEL_OBX(I,J))
+"RTN","MAGDHWS",131,0)
+ . . Q
+"RTN","MAGDHWS",132,0)
+ . Q
+"RTN","MAGDHWS",133,0)
+ Q NEXT
+"RTN","MAGDHWS",134,0)
+ ;
+"RTN","MAGDHWS",135,0)
+OBX1(RECORD) ; store one OBX segment into the HL7 array
+"RTN","MAGDHWS",136,0)
+ S HL7(NEXT)=RECORD
+"RTN","MAGDHWS",137,0)
+ S OBXSEGNO=$P(RECORD,DEL,2) ; get the highest value of OBXSEGNO
+"RTN","MAGDHWS",138,0)
+ S NEXT=NEXT+1
+"RTN","MAGDHWS",139,0)
+ Q
+"RTN","MAGIPS84")
+0^^B9466465
+"RTN","MAGIPS84",1,0)
+MAGIPS84 ;Post init routine to queue site activity at install. ; 10/25/2006 15:18
+"RTN","MAGIPS84",2,0)
+ ;;3.0;IMAGING;**84**;26-October-2006;;Build 960
+"RTN","MAGIPS84",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGIPS84",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS84",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS84",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS84",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS84",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS84",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS84",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS84",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS84",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS84",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS84",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS84",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS84",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS84",17,0)
+ ;;
+"RTN","MAGIPS84",18,0)
+ Q
+"RTN","MAGIPS84",19,0)
+ ;
+"RTN","MAGIPS84",20,0)
+ ;
+"RTN","MAGIPS84",21,0)
+POST ;
+"RTN","MAGIPS84",22,0)
+ ; Send confirmation message
+"RTN","MAGIPS84",23,0)
+ ;
+"RTN","MAGIPS84",24,0)
+ D  ; Confirmation message
+"RTN","MAGIPS84",25,0)
+ . N CT,CNT,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS84",26,0)
+ . ;
+"RTN","MAGIPS84",27,0)
+ . D GETENV^%ZOSV
+"RTN","MAGIPS84",28,0)
+ . S CNT=0
+"RTN","MAGIPS84",29,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS84",30,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS84",31,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XPDNM
+"RTN","MAGIPS84",32,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XPDNM)
+"RTN","MAGIPS84",33,0)
+ . S ST=$$GET1^DIQ(9.7,XPDA,11,"I")
+"RTN","MAGIPS84",34,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS84",35,0)
+ . S CT=$$GET1^DIQ(9.7,XPDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT()
+"RTN","MAGIPS84",36,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS84",37,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS84",38,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS84",39,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_$$GET1^DIQ(9.7,XPDA,6,"I")
+"RTN","MAGIPS84",40,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="DATE: "_$$NOW^XLFDT()
+"RTN","MAGIPS84",41,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,XPDA,9,"E")
+"RTN","MAGIPS84",42,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,XPDA,.01,"E")
+"RTN","MAGIPS84",43,0)
+ . S DDATE=$$GET1^DIQ(9.7,XPDA,51,"I")
+"RTN","MAGIPS84",44,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS84",45,0)
+ . S:$G(CVT)'="" CNT=CNT+1,MAGMSG(CNT)="Conversion time: "_CVT
+"RTN","MAGIPS84",46,0)
+ . S XMSUB=XPDNM_" INSTALLATION"
+"RTN","MAGIPS84",47,0)
+ . S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS84",48,0)
+ . S XMY(XMID)=""
+"RTN","MAGIPS84",49,0)
+ . S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS84",50,0)
+ . S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS84",51,0)
+ . S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS84",52,0)
+ . D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS84",53,0)
+ . I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS84",54,0)
+ . Q
+"RTN","MAGIPS84",55,0)
+ Q
+"RTN","MAGIPS84",56,0)
+ ;
+"VER")
+8.0^22.0
+**END**
+**END**
+
+
+****
+****

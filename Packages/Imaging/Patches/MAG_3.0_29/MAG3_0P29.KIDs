@@ -1,0 +1,2176 @@
+KIDS Distribution saved on Jan 06, 2004@13:42:48
+VistA Imaging V3.0 - Patch 29 -  01/06/2004 13:42PM
+**KIDS**:MAG*3.0*29^
+
+**INSTALL NAME**
+MAG*3.0*29
+"BLD",3463,0)
+MAG*3.0*29^IMAGING^0^3040106^y
+"BLD",3463,1,0)
+^^23^23^3040106^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 29 - Imaging Site Usage Maintenance II
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+c:\release\Patches\SD30029\KIDS_Components\OPT_MAG$ENTERPRISE.kid:
+"BLD",3463,1,5,0)
+Option definition for Imaging (one file, one Option).
+"BLD",3463,1,6,0)
+ 
+"BLD",3463,1,7,0)
+c:\release\Patches\SD30029\KIDS_Components\OPT_MAGREPSTART.KID:
+"BLD",3463,1,8,0)
+Option definition for Imaging (one file, one Option).
+"BLD",3463,1,9,0)
+ 
+"BLD",3463,1,10,0)
+c:\release\Patches\SD30029\KIDS_Components\OPT_MAGREPSTOP.KID:
+"BLD",3463,1,11,0)
+Option definition for Imaging (one file, one Option).
+"BLD",3463,1,12,0)
+ 
+"BLD",3463,1,13,0)
+Routines:
+"BLD",3463,1,14,0)
+MAGIPS29    value = 7704207
+"BLD",3463,1,15,0)
+MAGQE1      value = 4787344
+"BLD",3463,1,16,0)
+MAGQE2      value = 6460721
+"BLD",3463,1,17,0)
+MAGQE3      value = 15683461
+"BLD",3463,1,18,0)
+MAGQE4      value = 5655117
+"BLD",3463,1,19,0)
+MAGQE5      value = 10424133
+"BLD",3463,1,20,0)
+MAGQST      value = 4955242
+"BLD",3463,1,21,0)
+ 
+"BLD",3463,1,22,0)
+Please note that routine MAGIPS29 is deleted after the KIDS Build is
+"BLD",3463,1,23,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^MAGQST      value = 4955242^0
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+n^y^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INID")
+^y^n
+"BLD",3463,"INIT")
+POST^MAGIPS29
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^6^6
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAGQE1^^0^B11027992
+"BLD",3463,"KRN",9.8,"NM",2,0)
+MAGQE2^^0^B16406896
+"BLD",3463,"KRN",9.8,"NM",3,0)
+MAGQE3^^0^B76411253
+"BLD",3463,"KRN",9.8,"NM",4,0)
+MAGQE4^^0^B12881674
+"BLD",3463,"KRN",9.8,"NM",5,0)
+MAGQE5^^0^B39006169
+"BLD",3463,"KRN",9.8,"NM",6,0)
+MAGQST^^0^B12637510
+"BLD",3463,"KRN",9.8,"NM","B","MAGQE1",1)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGQE2",2)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGQE3",3)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGQE4",4)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGQE5",5)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGQST",6)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^3^3
+"BLD",3463,"KRN",19,"NM",1,0)
+MAG ENTERPRISE^^0
+"BLD",3463,"KRN",19,"NM",2,0)
+MAGREPSTART^^0
+"BLD",3463,"KRN",19,"NM",3,0)
+MAGREPSTOP^^0
+"BLD",3463,"KRN",19,"NM","B","MAG ENTERPRISE",1)
+
+"BLD",3463,"KRN",19,"NM","B","MAGREPSTART",2)
+
+"BLD",3463,"KRN",19,"NM","B","MAGREPSTOP",3)
+
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"BLD",3463,"REQB",0)
+^9.611^3^3
+"BLD",3463,"REQB",1,0)
+MAG*3.0*1^2
+"BLD",3463,"REQB",2,0)
+MAG*3.0*7^2
+"BLD",3463,"REQB",3,0)
+MAG*3.0*9^2
+"BLD",3463,"REQB","B","MAG*3.0*1",1)
+
+"BLD",3463,"REQB","B","MAG*3.0*7",2)
+
+"BLD",3463,"REQB","B","MAG*3.0*9",3)
+
+"INIT")
+POST^MAGIPS29
+"KRN",19,123457,-1)
+0^1
+"KRN",19,123457,0)
+MAG ENTERPRISE^Ad hoc Enterprise Site Report^^R^^^^^^^^
+"KRN",19,123457,1,0)
+^19.06^3^3^3030605^^^^
+"KRN",19,123457,1,1,0)
+This utility will create an Enterprise covering a period of activity
+"KRN",19,123457,1,2,0)
+specified by the user.  The report will be sent in a VistA Mail message
+"KRN",19,123457,1,3,0)
+to each of the members of the MAG SERVER mail group.
+"KRN",19,123457,25)
+AHOPT^MAGQE5
+"KRN",19,123457,"U")
+AD HOC ENTERPRISE SITE REPORT
+"KRN",19,123458,-1)
+0^2
+"KRN",19,123458,0)
+MAGREPSTART^Imaging Utilization Report Initialization^^R^^^^^^^^
+"KRN",19,123458,25)
+STTASK^MAGQE4
+"KRN",19,123458,"U")
+IMAGING UTILIZATION REPORT INI
+"KRN",19,123459,-1)
+0^3
+"KRN",19,123459,0)
+MAGREPSTOP^Imaging Utilization Report Stop^^R^^^^^^^^
+"KRN",19,123459,25)
+REMTASK^MAGQE4
+"KRN",19,123459,"U")
+IMAGING UTILIZATION REPORT STO
+"MBREQ")
+0
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+29^3040106^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^13^13^3040106
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for the Imaging Site Usage reports.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGIPS29    value = 7704207
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGQE1      value = 4787344
+"PKG",454,22,1,"PAH",1,1,6,0)
+MAGQE2      value = 6460721
+"PKG",454,22,1,"PAH",1,1,7,0)
+MAGQE3      value = 15683461
+"PKG",454,22,1,"PAH",1,1,8,0)
+MAGQE4      value = 5655117
+"PKG",454,22,1,"PAH",1,1,9,0)
+MAGQE5      value = 10424133
+"PKG",454,22,1,"PAH",1,1,10,0)
+MAGQST      value = 4955242
+"PKG",454,22,1,"PAH",1,1,11,0)
+ 
+"PKG",454,22,1,"PAH",1,1,12,0)
+Please note that routine MAGIPS29 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,13,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+7
+"RTN","MAGIPS29")
+0^^B23731494
+"RTN","MAGIPS29",1,0)
+MAGIPS29 ;Post init routine to queue site activity at install. ; 12/16/2003  11:11
+"RTN","MAGIPS29",2,0)
+ ;;3.0;IMAGING;**29**;06-January-2004
+"RTN","MAGIPS29",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS29",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS29",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS29",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS29",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS29",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS29",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS29",10,0)
+ ;; |                                                               |
+"RTN","MAGIPS29",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS29",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS29",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS29",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS29",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS29",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS29",17,0)
+ ;;
+"RTN","MAGIPS29",18,0)
+ Q
+"RTN","MAGIPS29",19,0)
+ ; This routine will be removed automatically after the installation
+"RTN","MAGIPS29",20,0)
+ ; of this patch is complete.
+"RTN","MAGIPS29",21,0)
+ ;
+"RTN","MAGIPS29",22,0)
+POST ;
+"RTN","MAGIPS29",23,0)
+ N FIRST,LAST,TASK
+"RTN","MAGIPS29",24,0)
+ F TASK="ISU^MAGQE2","ISU^MAGUSIT" D  ; Clean Up Existing TaskMan Entries
+"RTN","MAGIPS29",25,0)
+ . N DA,DIE,DR,I,MAGTSK,X,ZTDESC,ZTDTH,ZTIO,ZTRTN,ZTSAVE,ZTSK
+"RTN","MAGIPS29",26,0)
+ . D RTN^%ZTLOAD(TASK,"MAGTSK")
+"RTN","MAGIPS29",27,0)
+ . ; EdM: Note: The above procedure only returns tasks submitted
+"RTN","MAGIPS29",28,0)
+ . ;      with the DUZ of the current requestor, unless...:
+"RTN","MAGIPS29",29,0)
+ . ;      When $D(^XUSEC("ZTMQ",DUZ))>0,
+"RTN","MAGIPS29",30,0)
+ . ;      tasks with other DUZs are reported as well.
+"RTN","MAGIPS29",31,0)
+ . S I=0 F  S I=$O(MAGTSK(I)) Q:'I  K ZTSK S ZTSK=I D KILL^%ZTLOAD
+"RTN","MAGIPS29",32,0)
+ . Q
+"RTN","MAGIPS29",33,0)
+ ;
+"RTN","MAGIPS29",34,0)
+ D STTASK^MAGQE4
+"RTN","MAGIPS29",35,0)
+ ;
+"RTN","MAGIPS29",36,0)
+ ; For non consolidated sites only:
+"RTN","MAGIPS29",37,0)
+ ; Index the BP Workstation file,
+"RTN","MAGIPS29",38,0)
+ ; and the Windows Workstation files
+"RTN","MAGIPS29",39,0)
+ ;
+"RTN","MAGIPS29",40,0)
+ D:'$$CONSOLID^MAGQE5()
+"RTN","MAGIPS29",41,0)
+ . N D0,J,PLACE
+"RTN","MAGIPS29",42,0)
+ . S PLACE=$O(^MAG(2006.1," "),-1) Q:'PLACE
+"RTN","MAGIPS29",43,0)
+ . S D0=0 F  S D0=$O(^MAG(2006.8,D0)) Q:'D0  D
+"RTN","MAGIPS29",44,0)
+ . . S J=$P($G(^MAG(2006.8,D0,0)),"^",2)
+"RTN","MAGIPS29",45,0)
+ . . S:J'?1.N $P(^MAG(2006.8,D0,0),"^",2)=PLACE,J=PLACE
+"RTN","MAGIPS29",46,0)
+ . . S ^MAG(2006.8,"D",J,D0)=""
+"RTN","MAGIPS29",47,0)
+ . . Q
+"RTN","MAGIPS29",48,0)
+ . S D0=0 F  S D0=$O(^MAG(2006.81,D0)) Q:'D0  D
+"RTN","MAGIPS29",49,0)
+ . . S J=$P($G(^MAG(2006.81,D0,1)),"^",2)
+"RTN","MAGIPS29",50,0)
+ . . S:J'?1.N $P(^MAG(2006.81,D0,1),"^",2)=PLACE,J=PLACE
+"RTN","MAGIPS29",51,0)
+ . . S ^MAG(2006.81,"C",J,D0)=""
+"RTN","MAGIPS29",52,0)
+ . . Q
+"RTN","MAGIPS29",53,0)
+ . Q
+"RTN","MAGIPS29",54,0)
+ ;
+"RTN","MAGIPS29",55,0)
+ D INS(XPDNM,DUZ,$$NOW^XLFDT,XPDA)
+"RTN","MAGIPS29",56,0)
+ Q
+"RTN","MAGIPS29",57,0)
+ ;
+"RTN","MAGIPS29",58,0)
+UNDEF(NAME) ; The domain is undefined in the Image site file (2006.19)
+"RTN","MAGIPS29",59,0)
+ N ASK,Y,FN
+"RTN","MAGIPS29",60,0)
+ S DIR("A")="Enter the type of account"
+"RTN","MAGIPS29",61,0)
+ S DIR("?")="^D FNA^MAGQE2",DIR("B")="T"
+"RTN","MAGIPS29",62,0)
+ S DIR(0)="S0^T:Test;P:PRODUCTION"
+"RTN","MAGIPS29",63,0)
+ D ^DIR S ASK=Y
+"RTN","MAGIPS29",64,0)
+ I ASK="T" S FN="ZZT"
+"RTN","MAGIPS29",65,0)
+ I ASK="P" D
+"RTN","MAGIPS29",66,0)
+ . S FN=$$ONE^MAGQAI(NAME)
+"RTN","MAGIPS29",67,0)
+ . D  ; Mail message to LAVC-server/image developers
+"RTN","MAGIPS29",68,0)
+ . . N LOC,XMSUB,Y
+"RTN","MAGIPS29",69,0)
+ . . D NOW^%DTC S Y=% D DD^%DT
+"RTN","MAGIPS29",70,0)
+ . . S LOC=$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS29",71,0)
+ . . S ^TMP($J,"MAGQ",1)="            SITE: "_LOC
+"RTN","MAGIPS29",72,0)
+ . . S ^TMP($J,"MAGQ",2)="            DATE: "_Y_" "_$G(^XMB("TIMEZONE"))
+"RTN","MAGIPS29",73,0)
+ . . S ^TMP($J,"MAGQ",3)="          DOMAIN: "_NAME
+"RTN","MAGIPS29",74,0)
+ . . S ^TMP($J,"MAGQ",4)="        INITIALS: "_INIT
+"RTN","MAGIPS29",75,0)
+ . . ; Send the report
+"RTN","MAGIPS29",76,0)
+ . . S XMSUB="Update Site file from "_LOC
+"RTN","MAGIPS29",77,0)
+ . . D MAILSHR^MAGQE2
+"RTN","MAGIPS29",78,0)
+ . . K ^TMP($J,"MAGQ")
+"RTN","MAGIPS29",79,0)
+ . . Q
+"RTN","MAGIPS29",80,0)
+ . Q
+"RTN","MAGIPS29",81,0)
+ Q FN
+"RTN","MAGIPS29",82,0)
+ ;
+"RTN","MAGIPS29",83,0)
+FNA ; For setting domain initials in site parameter file
+"RTN","MAGIPS29",84,0)
+ W !!?10,"For the purpose of establishing a unique file"
+"RTN","MAGIPS29",85,0)
+ W !?10,"namespace or prefix. This will make it possible"
+"RTN","MAGIPS29",86,0)
+ W !?10,"to determine the origin of files which are copied"
+"RTN","MAGIPS29",87,0)
+ W !?10,"from one site to another."
+"RTN","MAGIPS29",88,0)
+ Q
+"RTN","MAGIPS29",89,0)
+ ;
+"RTN","MAGIPS29",90,0)
+INS(XP,DUZ,DATE,IDA) ;
+"RTN","MAGIPS29",91,0)
+ N CT,CNT,COM,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS29",92,0)
+ D GETENV^%ZOSV
+"RTN","MAGIPS29",93,0)
+ S CNT=0
+"RTN","MAGIPS29",94,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS29",95,0)
+ S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS29",96,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XP
+"RTN","MAGIPS29",97,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XP)
+"RTN","MAGIPS29",98,0)
+ S ST=$$GET1^DIQ(9.7,IDA,11,"I")
+"RTN","MAGIPS29",99,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS29",100,0)
+ S CT=$$GET1^DIQ(9.7,IDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT
+"RTN","MAGIPS29",101,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS29",102,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS29",103,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS29",104,0)
+ S COM=$$GET1^DIQ(9.7,IDA,6,"I")
+"RTN","MAGIPS29",105,0)
+ S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_COM
+"RTN","MAGIPS29",106,0)
+ S CNT=CNT+1,MAGMSG(CNT)="DATE: "_DATE
+"RTN","MAGIPS29",107,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,IDA,9,"E")
+"RTN","MAGIPS29",108,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,IDA,.01,"E")
+"RTN","MAGIPS29",109,0)
+ S DDATE=$$GET1^DIQ(9.7,IDA,51,"I")
+"RTN","MAGIPS29",110,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS29",111,0)
+ S XMSUB=XP_" INSTALLATION"
+"RTN","MAGIPS29",112,0)
+ S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS29",113,0)
+ S XMY(XMID)=""
+"RTN","MAGIPS29",114,0)
+ S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS29",115,0)
+ S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS29",116,0)
+ S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS29",117,0)
+ D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS29",118,0)
+ I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS29",119,0)
+ Q
+"RTN","MAGIPS29",120,0)
+ ;
+"RTN","MAGQE1")
+0^1^B11027992
+"RTN","MAGQE1",1,0)
+MAGQE1 ;WOIFO/RMP - Support for MAG Enterprise ; 01/06/2004  11:34
+"RTN","MAGQE1",2,0)
+ ;;3.0;IMAGING;**27,29**;06-January-2004
+"RTN","MAGQE1",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE1",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQE1",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQE1",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQE1",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQE1",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQE1",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQE1",10,0)
+ ;; |                                                               |
+"RTN","MAGQE1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQE1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGQE1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGQE1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGQE1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGQE1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE1",17,0)
+ ;;
+"RTN","MAGQE1",18,0)
+ Q
+"RTN","MAGQE1",19,0)
+ ;
+"RTN","MAGQE1",20,0)
+SDATE(FDAY,ORDER) ; Find first image before/after specified date
+"RTN","MAGQE1",21,0)
+ ; EdM: In a future patch, this function must be replaced by a cross-reference.
+"RTN","MAGQE1",22,0)
+ N I1,I2
+"RTN","MAGQE1",23,0)
+ I $G(ORDER)'="R" Q 0
+"RTN","MAGQE1",24,0)
+ S I1=$O(^MAG(2005," "),-1)+1 S I2=$O(^MAG(2005.1," "),-1)+1
+"RTN","MAGQE1",25,0)
+ Q $S(I1>I2:I1,1:I2)
+"RTN","MAGQE1",26,0)
+ ;
+"RTN","MAGQE1",27,0)
+BPV(PLACE) ;
+"RTN","MAGQE1",28,0)
+ N BPWS,D0,NODE,INDEX
+"RTN","MAGQE1",29,0)
+ S D0=0 F  S D0=$O(^MAG(2006.8,"D",PLACE,D0)) Q:'D0  D
+"RTN","MAGQE1",30,0)
+ . Q:$P($G(^MAG(2006.8,D0,0)),"^",12)'="1"
+"RTN","MAGQE1",31,0)
+ . S NODE=$G(^MAG(2006.8,D0,1))
+"RTN","MAGQE1",32,0)
+ . D:$P(NODE,"^",2)>0
+"RTN","MAGQE1",33,0)
+ . . S INDEX=$P(NODE,"^",2)_"^"_$P(NODE,"^",4)
+"RTN","MAGQE1",34,0)
+ . . S BPWS(INDEX)=$G(BPWS(INDEX))+1
+"RTN","MAGQE1",35,0)
+ . . S $P(BPWS(INDEX),"^",2)=$P(NODE,"^",3)
+"RTN","MAGQE1",36,0)
+ . . Q
+"RTN","MAGQE1",37,0)
+ . Q
+"RTN","MAGQE1",38,0)
+ D:$D(BPWS) LLOAD^MAGQE5(.BPV,"BP VERS NUM DATE: ")
+"RTN","MAGQE1",39,0)
+ Q
+"RTN","MAGQE1",40,0)
+ ;
+"RTN","MAGQE1",41,0)
+IWSV(PLACE) ; Image workstation versions
+"RTN","MAGQE1",42,0)
+ N D0,IDX,OS,RD,WSC,WSD,WSV,X
+"RTN","MAGQE1",43,0)
+ S RD=$$FMADD^XLFDT($$NOW^XLFDT,-180,"","","")
+"RTN","MAGQE1",44,0)
+ S D0=0 F  S D0=$O(^MAG(2006.81,"C",PLACE,D0)) Q:'D0  D
+"RTN","MAGQE1",45,0)
+ . S X=^MAG(2006.81,D0,0) Q:$P(X,"^",3)<RD
+"RTN","MAGQE1",46,0)
+ . S OS=$P($G(^MAG(2006.81,D0,1)),"^",2)
+"RTN","MAGQE1",47,0)
+ . S:OS?.N OS=$P($G(^MAG(2006.81,D0,1)),"^",3)
+"RTN","MAGQE1",48,0)
+ . S IDX=$P(X,"^",9) D:IDX'=""  ; Display Station
+"RTN","MAGQE1",49,0)
+ . . S:OS'="" IDX=IDX_"^"_OS S WSD(IDX)=$G(WSD(IDX))+1
+"RTN","MAGQE1",50,0)
+ . . Q
+"RTN","MAGQE1",51,0)
+ . S IDX=$P(X,"^",13) D:IDX'=""  ; Capture Station
+"RTN","MAGQE1",52,0)
+ . . S:OS'="" IDX=IDX_"^"_OS S WSC(IDX)=$G(WSC(IDX))+1
+"RTN","MAGQE1",53,0)
+ . . Q
+"RTN","MAGQE1",54,0)
+ . S IDX=$P(X,"^",15) D:IDX'=""  ; VistARad Station
+"RTN","MAGQE1",55,0)
+ . . S:OS'="" IDX=IDX_"^"_OS S WSV(IDX)=$G(WSV(IDX))+1
+"RTN","MAGQE1",56,0)
+ . . Q
+"RTN","MAGQE1",57,0)
+ . Q
+"RTN","MAGQE1",58,0)
+ D LLOAD^MAGQE5(.WSD," WS DIS VERS: ")
+"RTN","MAGQE1",59,0)
+ D LLOAD^MAGQE5(.WSC," WS CAP VERS: ")
+"RTN","MAGQE1",60,0)
+ D LLOAD^MAGQE5(.WSV," WS VR VERS: ")
+"RTN","MAGQE1",61,0)
+ Q
+"RTN","MAGQE1",62,0)
+ ;
+"RTN","MAGQE1",63,0)
+DICOMV() ; Version of DICOM
+"RTN","MAGQE1",64,0)
+ N D0,DCMG,VER,X
+"RTN","MAGQE1",65,0)
+ S X="" F  S X=$O(^MAG(2006.83,"B",X)) Q:X=""  D
+"RTN","MAGQE1",66,0)
+ . S D0=$O(^MAG(2006.83,"B",X,"")) Q:'D0
+"RTN","MAGQE1",67,0)
+ . S VER=$P(^MAG(2006.83,D0,0),"^",3) S:VER="" VER="?"
+"RTN","MAGQE1",68,0)
+ . S DCMG(VER)=$G(DCMG(VER))+1
+"RTN","MAGQE1",69,0)
+ . Q
+"RTN","MAGQE1",70,0)
+ D:$D(DCMG) LLOAD^MAGQE5(.DCMG,"DICOM Gateway Version: ")
+"RTN","MAGQE1",71,0)
+ Q
+"RTN","MAGQE1",72,0)
+ ;
+"RTN","MAGQE1",73,0)
+VSTAV() ;
+"RTN","MAGQE1",74,0)
+ N VER
+"RTN","MAGQE1",75,0)
+ S VER=$$VERSION^XPDUTL("IMAGING")
+"RTN","MAGQE1",76,0)
+ S:$T(LAST^XPDUTL)'="" VER=VER_"^"_$$LAST^XPDUTL("IMAGING",VER)
+"RTN","MAGQE1",77,0)
+ Q VER
+"RTN","MAGQE1",78,0)
+ ;
+"RTN","MAGQE1",79,0)
+SNS(PLACE) ;
+"RTN","MAGQE1",80,0)
+ N D1,RESULT
+"RTN","MAGQE1",81,0)
+ S RESULT=$P(^MAG(2006.1,PLACE,0),"^",2)
+"RTN","MAGQE1",82,0)
+ S D1=0 F  S D1=$O(^MAG(2006.1,PLACE,4,D1)) Q:'D1  D
+"RTN","MAGQE1",83,0)
+ . S RESULT=RESULT_"^"_$P($G(^MAG(2006.1,PLACE,4,D1,0)),"^",1)
+"RTN","MAGQE1",84,0)
+ . Q
+"RTN","MAGQE1",85,0)
+ Q RESULT
+"RTN","MAGQE1",86,0)
+ ;
+"RTN","MAGQE2")
+0^2^B16406896
+"RTN","MAGQE2",1,0)
+MAGQE2 ;WOIFO/RMP - Support for MAG Enterprise ; 08/22/2003  13:44
+"RTN","MAGQE2",2,0)
+ ;;3.0;IMAGING;**27,29**;06-January-2004
+"RTN","MAGQE2",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE2",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQE2",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQE2",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQE2",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQE2",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQE2",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQE2",10,0)
+ ;; |                                                               |
+"RTN","MAGQE2",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQE2",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGQE2",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGQE2",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGQE2",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGQE2",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE2",17,0)
+ ;;
+"RTN","MAGQE2",18,0)
+ Q
+"RTN","MAGQE2",19,0)
+ ;
+"RTN","MAGQE2",20,0)
+MAILSHR ; Shared Mail server code
+"RTN","MAGQE2",21,0)
+ N D,D0,D1,D2,DG,DIC,DICR,DIW,XMID,XMY
+"RTN","MAGQE2",22,0)
+ S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGQE2",23,0)
+ S XMY(XMID)=""
+"RTN","MAGQE2",24,0)
+ S XMY("G.MAG SERVER")=""
+"RTN","MAGQE2",25,0)
+ S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGQE2",26,0)
+ S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGQE2",27,0)
+ D SENDMSG^XMXAPI(XMID,XMSUB,"^TMP($J,""MAGQ"")",.XMY,,.XMZ,)
+"RTN","MAGQE2",28,0)
+ I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGQE2",29,0)
+ Q
+"RTN","MAGQE2",30,0)
+ ;
+"RTN","MAGQE2",31,0)
+AHISU(START,STOP) ;
+"RTN","MAGQE2",32,0)
+ N ADHOC
+"RTN","MAGQE2",33,0)
+ S ADHOC=1
+"RTN","MAGQE2",34,0)
+ ;
+"RTN","MAGQE2",35,0)
+ISU ;IMAGING SITE USAGE - SERVER
+"RTN","MAGQE2",36,0)
+ N INST,LOC,PLACE,TMP
+"RTN","MAGQE2",37,0)
+ I $$CONSOLID^MAGQE5() D
+"RTN","MAGQE2",38,0)
+ . S INST="" F  S INST=$O(^MAG(2006.1,"B",INST)) Q:INST=""  D
+"RTN","MAGQE2",39,0)
+ . . S PLACE=$O(^MAG(2006.1,"B",INST,"")) Q:'PLACE
+"RTN","MAGQE2",40,0)
+ . . D ISU1(PLACE,INST)
+"RTN","MAGQE2",41,0)
+ . . Q
+"RTN","MAGQE2",42,0)
+ . Q
+"RTN","MAGQE2",43,0)
+ E  D ISU1($O(^MAG(2006.1," "),-1),$$KSP^XUPARAM("INST"))
+"RTN","MAGQE2",44,0)
+ D:'$G(ADHOC) TASK^MAGQE4
+"RTN","MAGQE2",45,0)
+ K ^TMP($J,"MAGQ")
+"RTN","MAGQE2",46,0)
+ Q
+"RTN","MAGQE2",47,0)
+ ;
+"RTN","MAGQE2",48,0)
+ISU1(PLACE,INST) ;
+"RTN","MAGQE2",49,0)
+ I '$G(ADHOC) D TASK Q  ; We are already in a TaskMan task...
+"RTN","MAGQE2",50,0)
+ ;
+"RTN","MAGQE2",51,0)
+ S ZTDTH=$$NOW^XLFDT()
+"RTN","MAGQE2",52,0)
+ S ZTRTN="TASK^"_$T(+0)
+"RTN","MAGQE2",53,0)
+ S ZTDESC="Ad-Hoc Imaging Usage Report ("_$$FMTE^XLFDT(START\1)_" - "_$$FMTE^XLFDT(STOP\1)_")"
+"RTN","MAGQE2",54,0)
+ S ZTIO=""
+"RTN","MAGQE2",55,0)
+ S ZTSAVE("START")=START
+"RTN","MAGQE2",56,0)
+ S ZTSAVE("STOP")=STOP
+"RTN","MAGQE2",57,0)
+ S ZTSAVE("PLACE")=PLACE
+"RTN","MAGQE2",58,0)
+ S ZTSAVE("INST")=INST
+"RTN","MAGQE2",59,0)
+ S:$G(ADHOC) ZTSAVE("ADHOC")=1
+"RTN","MAGQE2",60,0)
+ S:$D(MAGDUZ) ZTSAVE("MAGDUZ")=MAGDUZ
+"RTN","MAGQE2",61,0)
+ D ^%ZTLOAD
+"RTN","MAGQE2",62,0)
+ Q
+"RTN","MAGQE2",63,0)
+ ;
+"RTN","MAGQE2",64,0)
+MSG(TXT) N I
+"RTN","MAGQE2",65,0)
+ S I=$O(^TMP($J,"MAGQ"," "),-1)+1,^TMP($J,"MAGQ",I)=TXT
+"RTN","MAGQE2",66,0)
+ Q
+"RTN","MAGQE2",67,0)
+ ;
+"RTN","MAGQE2",68,0)
+TASK N DM,I,LOC,NEW,OCONS,PCNT,REC,VR,XMSUB,Y
+"RTN","MAGQE2",69,0)
+ S:'$D(INST) INST=$$KSP^XUPARAM("INST")
+"RTN","MAGQE2",70,0)
+ K ^TMP($J,"MAGQ")
+"RTN","MAGQE2",71,0)
+ I '$G(START)!'$G(STOP) D
+"RTN","MAGQE2",72,0)
+ . S STOP=$$FMADD^XLFDT($$NOW^XLFDT()\100_"01",-1)
+"RTN","MAGQE2",73,0)
+ . S START=STOP\100_"01"
+"RTN","MAGQE2",74,0)
+ . Q
+"RTN","MAGQE2",75,0)
+ D NOW^%DTC S Y=% D DD^%DT
+"RTN","MAGQE2",76,0)
+ S U="^",LOC=$$GET1^DIQ(4,INST,.01)_"^"_INST
+"RTN","MAGQE2",77,0)
+ D MSG("            SITE: "_LOC)
+"RTN","MAGQE2",78,0)
+ D MSG("Reporting Period: "_$$FMTE^XLFDT(START\1)_" - "_$$FMTE^XLFDT(STOP\1))
+"RTN","MAGQE2",79,0)
+ D MSG("            DATE: "_Y_" "_$G(^XMB("TIMEZONE")))
+"RTN","MAGQE2",80,0)
+ D MSG("          DOMAIN: "_$$KSP^XUPARAM("WHERE"))
+"RTN","MAGQE2",81,0)
+ D MSG("    2005 ENTRIES: "_$P($G(^MAG(2005,0)),"^",4))
+"RTN","MAGQE2",82,0)
+ D MSG(" 2006.81 ENTRIES: "_$$WSP^MAGQE5(PLACE))
+"RTN","MAGQE2",83,0)
+ ; Distribute an array each of the capture and display versions
+"RTN","MAGQE2",84,0)
+ D IWSV^MAGQE1(PLACE)
+"RTN","MAGQE2",85,0)
+ ; VistaRad version
+"RTN","MAGQE2",86,0)
+ S VR=$$VERSION^XPDUTL("MAGJ RADIOLOGY") D:VR'="" MSG("VistaRad Version: "_VR)
+"RTN","MAGQE2",87,0)
+ I $D(^MAGD(2006.599,0)) D MSG("DICOM Error Log:"_+$P(^MAGD(2006.599,0),"^",4))
+"RTN","MAGQE2",88,0)
+ I $D(^MAGD(2006.575,0)) D MSG("DICOM FAILED IMAGES:"_+$P(^MAGD(2006.575,0),"^",4))
+"RTN","MAGQE2",89,0)
+ ; Queue File count & Unprocessed Queue entries
+"RTN","MAGQE2",90,0)
+ D MSG("Queue File count: "_$$QCNT^MAGQE5(.PCNT,PLACE))
+"RTN","MAGQE2",91,0)
+ D MSG("Unprocessed Queue entries: "_PCNT)
+"RTN","MAGQE2",92,0)
+ D ISU2^MAGQE5
+"RTN","MAGQE2",93,0)
+ S X=""
+"RTN","MAGQE2",94,0)
+ S:'$G(ADHOC) X=" ("_$P("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"," ",START\100#100)_" "_(START\10000+1700)_")"
+"RTN","MAGQE2",95,0)
+ S XMSUB=$S($G(ADHOC):"Ad Hoc",1:"Monthly")_" Image Site Usage: "_LOC_X
+"RTN","MAGQE2",96,0)
+ D MAILSHR
+"RTN","MAGQE2",97,0)
+ Q
+"RTN","MAGQE2",98,0)
+ ;
+"RTN","MAGQE3")
+0^3^B76411253
+"RTN","MAGQE3",1,0)
+MAGQE3 ;WOIFO/RMP - Support for MAG Enterprise ; 12/10/2003  10:00
+"RTN","MAGQE3",2,0)
+ ;;3.0;IMAGING;**27,29**;06-January-2004
+"RTN","MAGQE3",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE3",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQE3",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQE3",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQE3",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQE3",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQE3",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQE3",10,0)
+ ;; |                                                               |
+"RTN","MAGQE3",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQE3",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGQE3",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGQE3",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGQE3",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGQE3",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE3",17,0)
+ ;;
+"RTN","MAGQE3",18,0)
+ Q
+"RTN","MAGQE3",19,0)
+ ;
+"RTN","MAGQE3",20,0)
+COUNT(SDATE,EDATE,INST) ;
+"RTN","MAGQE3",21,0)
+ N CLIN,CONSENTS,CPTR,D0,DAT,DELETED,DICOM,DOC,DOCGRP,DOCUMENT,ED0,GRPPRNT,I,IMAGE,NAME,NODE,OTHER,PCE,PROC,SD0,TRK
+"RTN","MAGQE3",22,0)
+ S SD0=$$SDATE^MAGQE1(SDATE,"F")
+"RTN","MAGQE3",23,0)
+ S ED0=$$SDATE^MAGQE1(EDATE,"R")
+"RTN","MAGQE3",24,0)
+ D MSG^MAGQE2(" From, FileMan Date="""_SDATE_""", D0="""_SD0_""".")
+"RTN","MAGQE3",25,0)
+ D MSG^MAGQE2("Until, FileMan Date="""_EDATE_""", D0="""_ED0_""".")
+"RTN","MAGQE3",26,0)
+ S D0="" F  S D0=$O(^MAG(2005.02,"B","DOCUMENT",D0)) Q:D0=""  D
+"RTN","MAGQE3",27,0)
+ . S:$G(^MAG(2005.02,D0,4))["TIF" DOC(D0)=""
+"RTN","MAGQE3",28,0)
+ . Q
+"RTN","MAGQE3",29,0)
+ S (CONSENTS,GRPPRNT,IMAGE,DELETED,DOCGRP,DOCUMENT)=0
+"RTN","MAGQE3",30,0)
+ S CPTR=$O(^MAG(2005.83,"B","CONSENT",""))
+"RTN","MAGQE3",31,0)
+ S D0=SD0 F  S D0=$O(^MAG(2005,D0)) Q:'D0  Q:D0'<ED0  D
+"RTN","MAGQE3",32,0)
+ . S X=$P($G(^MAG(2005,D0,2)),"^",1) Q:'X  Q:X<SDATE  Q:X>EDATE
+"RTN","MAGQE3",33,0)
+ . S NODE=$G(^MAG(2005,D0,100)),TRK=""
+"RTN","MAGQE3",34,0)
+ . S PCE=$P(NODE,"^",3) I PCE Q:PCE'=INST
+"RTN","MAGQE3",35,0)
+ . S PCE=$P(NODE,"^",5) I PCE'="" S TRK=$P(TRK,";",1) S:TRK="" TRK="?"
+"RTN","MAGQE3",36,0)
+ . S NODE=$G(^MAG(2005,D0,0))
+"RTN","MAGQE3",37,0)
+ . I $P(NODE,"^",2)="" D  Q
+"RTN","MAGQE3",38,0)
+ . . S GRPPRNT=GRPPRNT+1
+"RTN","MAGQE3",39,0)
+ . . S PCE=$P(NODE,"^",8) S:PCE="" PCE="NIL"
+"RTN","MAGQE3",40,0)
+ . . S:$D(^MAG(2005,D0,"PACS")) DICOM(PCE,0)=$G(DICOM(PCE,0))+1
+"RTN","MAGQE3",41,0)
+ . . S PCE=$P(NODE,"^",6) I PCE,$D(DOC(PCE)) S DOCGRP=DOCGRP+1
+"RTN","MAGQE3",42,0)
+ . . S:TRK'="" IMPORT(TRK,0)=$G(IMPORT(TRK,0))+1
+"RTN","MAGQE3",43,0)
+ . . Q
+"RTN","MAGQE3",44,0)
+ . S:TRK'="" IMPORT(TRK)=$G(IMPORT(TRK))+1
+"RTN","MAGQE3",45,0)
+ . I CPTR,$P($G(^MAG(2005,D0,40)),"^",3)=CPTR S CONSENTS=CONSENTS+1
+"RTN","MAGQE3",46,0)
+ . E  S PCE=$$UPPER^MAGQE4($P($G(^MAG(2005,D0,2)),"^",4)) S:PCE["CONSENT" OTHER(PCE)=$G(OTHER(PCE))+1
+"RTN","MAGQE3",47,0)
+ . S IMAGE=IMAGE+1
+"RTN","MAGQE3",48,0)
+ . S PCE=$P(NODE,"^",6) I PCE,$D(DOC(PCE)) S DOCUMENT=DOCUMENT+1
+"RTN","MAGQE3",49,0)
+ . S PCE=$P(NODE,"^",7) S:PCE="" PCE="NIL"
+"RTN","MAGQE3",50,0)
+ . S ^TMP($J,"MAGQ","ACQPAT",PCE)=""
+"RTN","MAGQE3",51,0)
+ . S ^TMP($J,"MAGQ","ALLPAT",PCE)=""
+"RTN","MAGQE3",52,0)
+ . S PCE=$P(NODE,"^",8) S:PCE="" PCE="NIL"
+"RTN","MAGQE3",53,0)
+ . I $D(^MAG(2005,D0,"PACS")) S DICOM(PCE)=$G(DICOM(PCE))+1
+"RTN","MAGQE3",54,0)
+ . E  S CLIN(PCE)=$G(CLIN(PCE))+1
+"RTN","MAGQE3",55,0)
+ . Q
+"RTN","MAGQE3",56,0)
+ S NAME="" F  S NAME=$O(DICOM(NAME)) Q:NAME=""  D
+"RTN","MAGQE3",57,0)
+ . D:$E(NAME,1,4)="RAD "
+"RTN","MAGQE3",58,0)
+ . . Q:'$D(DICOM(NAME,0))
+"RTN","MAGQE3",59,0)
+ . . S I=$E(NAME,5,$L(NAME)) Q:I=""
+"RTN","MAGQE3",60,0)
+ . . Q:$D(DICOM(I,0))
+"RTN","MAGQE3",61,0)
+ . . S DICOM(I,0)=DICOM(NAME,0) K DICOM(NAME,0)
+"RTN","MAGQE3",62,0)
+ . . Q
+"RTN","MAGQE3",63,0)
+ . S PROC=$O(^RAMIS(73.1,"B",NAME,"")) Q:'PROC
+"RTN","MAGQE3",64,0)
+ . S $P(DICOM(NAME),"^",2)=$P($G(^RAMIS(73.1,PROC,0)),"^",2)
+"RTN","MAGQE3",65,0)
+ . Q
+"RTN","MAGQE3",66,0)
+ S D0=SD0 F  S D0=$O(^MAG(2005.1,D0)) Q:'D0  Q:D0'<ED0  D
+"RTN","MAGQE3",67,0)
+ . S X=$P($G(^MAG(2005.1,D0,2)),"^",1) Q:'X  Q:X<SDATE  Q:X>EDATE
+"RTN","MAGQE3",68,0)
+ . S PCE=$P($G(^MAG(2005.1,D0,100)),"^",3) I PCE Q:PCE'=INST
+"RTN","MAGQE3",69,0)
+ . S DELETED=DELETED+1
+"RTN","MAGQE3",70,0)
+ . Q
+"RTN","MAGQE3",71,0)
+ S I="" F  S I=$O(DICOM(I)) Q:I=""  D
+"RTN","MAGQE3",72,0)
+ . S X=" DICOM CAPTURE: "_I_"^"_$G(DICOM(I))
+"RTN","MAGQE3",73,0)
+ . S:$G(DICOM(I,0)) $P(X,"^",4)=DICOM(I,0)
+"RTN","MAGQE3",74,0)
+ . D MSG^MAGQE2(X)
+"RTN","MAGQE3",75,0)
+ . Q
+"RTN","MAGQE3",76,0)
+ S I="" F  S I=$O(IMPORT(I)) Q:I=""  D
+"RTN","MAGQE3",77,0)
+ . S X=" IMPORT API: "_I_"^"_IMPORT(I)
+"RTN","MAGQE3",78,0)
+ . S:$G(IMPORT(I,0)) X=X_"^"_IMPORT(I,0)
+"RTN","MAGQE3",79,0)
+ . D MSG^MAGQE2(X)
+"RTN","MAGQE3",80,0)
+ . Q
+"RTN","MAGQE3",81,0)
+ D LLOAD^MAGQE5(.CLIN,"CLIN CAPTURE:")
+"RTN","MAGQE3",82,0)
+ D MSG^MAGQE2("CONSENT FORMS: "_CONSENTS)
+"RTN","MAGQE3",83,0)
+ D LLOAD^MAGQE5(.OTHER,"OTHER CONSENTS:")
+"RTN","MAGQE3",84,0)
+ D MSG^MAGQE2("Image file group parents: "_GRPPRNT)
+"RTN","MAGQE3",85,0)
+ D MSG^MAGQE2("Image file objects: "_IMAGE)
+"RTN","MAGQE3",86,0)
+ D MSG^MAGQE2("Image file deletes: "_DELETED)
+"RTN","MAGQE3",87,0)
+ D MSG^MAGQE2("Document Images (TIF): "_DOCUMENT)
+"RTN","MAGQE3",88,0)
+ D MSG^MAGQE2("Document Groups (TIF): "_DOCGRP)
+"RTN","MAGQE3",89,0)
+ Q
+"RTN","MAGQE3",90,0)
+ ;
+"RTN","MAGQE3",91,0)
+ACT(D0,DIS,CAP,VD,VI,RES) ;
+"RTN","MAGQE3",92,0)
+ N ACT,AN,AN2,D1,IMG
+"RTN","MAGQE3",93,0)
+ S D1=0 F  S D1=$O(^MAG(2006.82,D0,"ACT",D1)) Q:'D1  D
+"RTN","MAGQE3",94,0)
+ . S AN=^MAG(2006.82,D0,"ACT",D1,0)
+"RTN","MAGQE3",95,0)
+ . S ACT="^"_$P(AN,"^",1)_"^",AN2=+$P(AN,"^",2)
+"RTN","MAGQE3",96,0)
+ . Q:"^LOGON^LOGOFF^PAT^"[ACT
+"RTN","MAGQE3",97,0)
+ . I "^SC_BAD^SCR_OK^"[ACT D  Q
+"RTN","MAGQE3",98,0)
+ . . S AN=$P(AN,"^",10,14) Q:AN=""
+"RTN","MAGQE3",99,0)
+ . . S RES(ACT,AN)=$G(RES(ACT,AN))+1
+"RTN","MAGQE3",100,0)
+ . . Q
+"RTN","MAGQE3",101,0)
+ . I "^CAP^IMG^"[ACT D  Q
+"RTN","MAGQE3",102,0)
+ . . S IMG=+$P(AN,"^",3) Q:'IMG  Q:$P($G(^MAG(2005,IMG,0)),"^",2)=""
+"RTN","MAGQE3",103,0)
+ . . I ACT="^CAP^" S CAP=CAP+1 Q
+"RTN","MAGQE3",104,0)
+ . . S DIS=DIS+1,^TMP($J,"MAGQ","DISPAT",AN2)="",^TMP($J,"MAGQ","ALLPAT",AN2)=""
+"RTN","MAGQE3",105,0)
+ . . Q
+"RTN","MAGQE3",106,0)
+ . I "^VR-VW^"[ACT D VRAD(.VD,"VD",AN) S ^TMP($J,"MAGQ","DISPAT",AN2)="",^TMP($J,"MAGQ","ALLPAT",AN2)="" Q
+"RTN","MAGQE3",107,0)
+ . I "^VR-INT^"[ACT D VRAD(.VI,"VI",AN) S ^TMP($J,"MAGQ","DISPAT",AN2)="",^TMP($J,"MAGQ","ALLPAT",AN2)="" Q
+"RTN","MAGQE3",108,0)
+ . Q
+"RTN","MAGQE3",109,0)
+ Q
+"RTN","MAGQE3",110,0)
+ ;
+"RTN","MAGQE3",111,0)
+VRAD(ARR,MO,AN) ;
+"RTN","MAGQE3",112,0)
+ ;ARR=STUDIES^IMAGES^PATIENTS^User Type(Rad/Non-Rad)^Remotes(Remote/Local)^Modalities
+"RTN","MAGQE3",113,0)
+ N MI,P,TMP
+"RTN","MAGQE3",114,0)
+ S $P(ARR,"^",1)=$P($G(ARR),"^",1)+1 ; Studies
+"RTN","MAGQE3",115,0)
+ S $P(ARR,"^",2)=$P($G(ARR),"^",2)+$P(AN,"^",6) ; Images
+"RTN","MAGQE3",116,0)
+ S $P(ARR,"^",3)=$P($G(ARR),"^",3)+$P(AN,"^",7) ; Patients
+"RTN","MAGQE3",117,0)
+ S P=$P(ARR,"^",4)
+"RTN","MAGQE3",118,0)
+ I +$P(AN,"^",8)=1 S $P(P,"/",1)=$P(P,"/",1)+1
+"RTN","MAGQE3",119,0)
+ E  S $P(P,"/",2)=$P(P,"/",2)+1
+"RTN","MAGQE3",120,0)
+ S $P(ARR,"^",4)=P ; User Type
+"RTN","MAGQE3",121,0)
+ S P=$P(ARR,"^",5)
+"RTN","MAGQE3",122,0)
+ I +$P(AN,"^",9)=1 S $P(P,"/",1)=$P(P,"/",1)+1
+"RTN","MAGQE3",123,0)
+ E  S $P(P,"/",2)=$P(P,"/",2)+1
+"RTN","MAGQE3",124,0)
+ S $P(ARR,"^",5)=P ; Remotes
+"RTN","MAGQE3",125,0)
+ S ^TMP($J,"MAGQ",MO,$P(AN,"^",4))=+$G(^TMP($J,"MAGQ",MO,$P(AN,"^",4)))+1
+"RTN","MAGQE3",126,0)
+ S (MI,TMP)="" F  S MI=$O(^TMP($J,"MAGQ",MO,MI)) Q:MI=""  D
+"RTN","MAGQE3",127,0)
+ . S TMP=TMP_"/"_MI_"="_^TMP($J,"MAGQ",MO,MI)
+"RTN","MAGQE3",128,0)
+ . Q
+"RTN","MAGQE3",129,0)
+ S $P(ARR,"^",6)=TMP ; Modalities
+"RTN","MAGQE3",130,0)
+ Q
+"RTN","MAGQE3",131,0)
+ ;
+"RTN","MAGQE3",132,0)
+GPACHX() ; Get Package File Install History of Imaging
+"RTN","MAGQE3",133,0)
+ N I,LCNT,MSG,PKG,PKT,PV
+"RTN","MAGQE3",134,0)
+ S LCNT=0
+"RTN","MAGQE3",135,0)
+ F PKG="IMAGING","MAGJ RADIOLOGY" D
+"RTN","MAGQE3",136,0)
+ . N J,K,L,PKNAM,VERS
+"RTN","MAGQE3",137,0)
+ . S J=$$FIND1^DIC(9.4,",","MX",PKG) Q:'J
+"RTN","MAGQE3",138,0)
+ . I PKG="MAGJ RADIOLOGY" D  Q
+"RTN","MAGQE3",139,0)
+ . . N TAR
+"RTN","MAGQE3",140,0)
+ . . D LIST^DIC(9.49,","_J_",","@;.01;2;3","","","","","","","","TAR","MSG")
+"RTN","MAGQE3",141,0)
+ . . Q:$D(MSG("DIERR"))
+"RTN","MAGQE3",142,0)
+ . . S L=0 F  S L=$O(TAR("DILIST","ID",L)) Q:'L  D
+"RTN","MAGQE3",143,0)
+ . . . S LCNT=LCNT+1
+"RTN","MAGQE3",144,0)
+ . . . S PV(LCNT)=PKG_"^P"_$P(TAR("DILIST","ID",L,".01"),"^",1)
+"RTN","MAGQE3",145,0)
+ . . . S PV(LCNT)=PV(LCNT)_"^"_$P(TAR("DILIST","ID",L,"2"),"^",1)
+"RTN","MAGQE3",146,0)
+ . . . S PV(LCNT)=PV(LCNT)_"^"_$P(TAR("DILIST","ID",L,"3"),"^",1)
+"RTN","MAGQE3",147,0)
+ . . . Q
+"RTN","MAGQE3",148,0)
+ . . Q
+"RTN","MAGQE3",149,0)
+ . K PKT D LIST^DIC(9.49,","_J_",",.01,"","*","","","B","","","PKT","MSG")
+"RTN","MAGQE3",150,0)
+ . S VERS="" F  S VERS=$O(PKT("DILIST",2,VERS)) Q:VERS=""  S K=PKT("DILIST",2,VERS) D
+"RTN","MAGQE3",151,0)
+ . . K MSG
+"RTN","MAGQE3",152,0)
+ . . D LIST^DIC(9.4901,","_K_","_J_",","@;.01;.02;.03","","","","","","","","TAR","MSG")
+"RTN","MAGQE3",153,0)
+ . . Q:$D(MSG("DIERR"))
+"RTN","MAGQE3",154,0)
+ . . S L=0 F  S L=$O(TAR("DILIST","ID",L)) Q:'L  D
+"RTN","MAGQE3",155,0)
+ . . . S LCNT=LCNT+1
+"RTN","MAGQE3",156,0)
+ . . . S PV(LCNT)=PKG_"^"_VERS_"P"_$P(TAR("DILIST","ID",L,".01"),"^",1)
+"RTN","MAGQE3",157,0)
+ . . . S PV(LCNT)=PV(LCNT)_"^"_$P(TAR("DILIST","ID",L,".02"),"^",1)
+"RTN","MAGQE3",158,0)
+ . . . S PV(LCNT)=PV(LCNT)_"^"_$P(TAR("DILIST","ID",L,".03"),"^",1)
+"RTN","MAGQE3",159,0)
+ . . . Q
+"RTN","MAGQE3",160,0)
+ . . Q
+"RTN","MAGQE3",161,0)
+ . Q
+"RTN","MAGQE3",162,0)
+ S I="" F  S I=$O(PV(I)) Q:I=""  D
+"RTN","MAGQE3",163,0)
+ . D MSG^MAGQE2("IMAGING PACKAGE INSTALLATION HX: "_I_"^"_PV(I))
+"RTN","MAGQE3",164,0)
+ . Q
+"RTN","MAGQE3",165,0)
+ Q
+"RTN","MAGQE3",166,0)
+ ;
+"RTN","MAGQE3",167,0)
+ADCNT(SDATE,EDATE,INST) ;
+"RTN","MAGQE3",168,0)
+ ; SAC = Scanned, Administrative Closure
+"RTN","MAGQE3",169,0)
+ ; SMC = Scanned, Manual Closure
+"RTN","MAGQE3",170,0)
+ ; UMC = Unscanned, Manual Closure
+"RTN","MAGQE3",171,0)
+ N ARRY,D0,D1,DATE,DATES,DOC,HLOC,SAC,SCR,SMC,STAT,STATA,STATC,TITLE,TIUDA,UMC
+"RTN","MAGQE3",172,0)
+ S STATA="^",D0=0 F  S D0=$O(^TIU(8925.6,"B","AMENDED",D0)) Q:'D0  D
+"RTN","MAGQE3",173,0)
+ . S STATA=STATA_D0_"^"
+"RTN","MAGQE3",174,0)
+ . Q
+"RTN","MAGQE3",175,0)
+ S STATC="^",D0=0 F  S D0=$O(^TIU(8925.6,"B","COMPLETED",D0)) Q:'D0  D
+"RTN","MAGQE3",176,0)
+ . S STATC=STATC_D0_"^"
+"RTN","MAGQE3",177,0)
+ . Q
+"RTN","MAGQE3",178,0)
+ S DOC="ADVANCE DIRECTIVE"
+"RTN","MAGQE3",179,0)
+ S D0=0 F  S D0=$O(^TIU(8925.1,"B",DOC,D0)) Q:'D0  D
+"RTN","MAGQE3",180,0)
+ . Q:$P($G(^TIU(8925.1,D0,0)),"^",4)'="DC"
+"RTN","MAGQE3",181,0)
+ . S D1=0 F  S D1=$O(^TIU(8925.1,D0,10,"B",D1)) Q:'D1  D
+"RTN","MAGQE3",182,0)
+ . . S TITLE=$P($G(^TIU(8925.1,+D1,0)),"^",1) S:TITLE="" TITLE=" "
+"RTN","MAGQE3",183,0)
+ . . S ARRY(TITLE,D1)=""
+"RTN","MAGQE3",184,0)
+ . . Q
+"RTN","MAGQE3",185,0)
+ . Q
+"RTN","MAGQE3",186,0)
+ S SCR="",(SAC,SMC,UMC)=0
+"RTN","MAGQE3",187,0)
+ S TITLE="" F  S TITLE=$O(ARRY(TITLE)) Q:TITLE=""  D
+"RTN","MAGQE3",188,0)
+ . S D1="" F  S D1=$O(ARRY(TITLE,D1)) Q:D1=""  D
+"RTN","MAGQE3",189,0)
+ . . S TIUDA=0 F  S TIUDA=$O(^TIU(8925,"B",D1,TIUDA)) Q:'TIUDA  D
+"RTN","MAGQE3",190,0)
+ . . . N MSG,TARGET
+"RTN","MAGQE3",191,0)
+ . . . S SCR="" ; INSTITIUTION screen for consolidation sites only.
+"RTN","MAGQE3",192,0)
+ . . . D GETS^DIQ(8925,TIUDA,".05;1205;1501;1507;1603;1606;1613","IE","TARGET","MSG")
+"RTN","MAGQE3",193,0)
+ . . . Q:$D(MSG("DIERR"))
+"RTN","MAGQE3",194,0)
+ . . . I $$CONSOLID^MAGQE5() D  Q:SCR
+"RTN","MAGQE3",195,0)
+ . . . . S HLOC=TARGET(8925,TIUDA_",",1205,"I") ; INSTITIUTION screen - dependent upon TIU*1*113
+"RTN","MAGQE3",196,0)
+ . . . . I HLOC="" S SCR=1
+"RTN","MAGQE3",197,0)
+ . . . . E  I $P($G(^SC(HLOC,0)),"^",4)'=INST S SCR=1
+"RTN","MAGQE3",198,0)
+ . . . . Q
+"RTN","MAGQE3",199,0)
+ . . . S STAT="^"_TARGET(8925,TIUDA_",",.05,"I")_"^"
+"RTN","MAGQE3",200,0)
+ . . . Q:STATA_STATC'[STAT
+"RTN","MAGQE3",201,0)
+ . . . I TARGET(8925,TIUDA_",",1613,"I")="S" D  Q
+"RTN","MAGQE3",202,0)
+ . . . . Q:TARGET(8925,TIUDA_",",1606,"I")<SDATE
+"RTN","MAGQE3",203,0)
+ . . . . Q:$P(TARGET(8925,TIUDA_",",1606,"I"),".")>EDATE
+"RTN","MAGQE3",204,0)
+ . . . . S SAC=SAC+1,SAC(TITLE)=$G(SAC(TITLE))+1
+"RTN","MAGQE3",205,0)
+ . . . . Q
+"RTN","MAGQE3",206,0)
+ . . . I STATC[STAT D  Q
+"RTN","MAGQE3",207,0)
+ . . . . S DATE=TARGET(8925,TIUDA_",",1507,"I")
+"RTN","MAGQE3",208,0)
+ . . . . S DATE=$S(DATE?1.N:DATE,1:+TARGET(8925,TIUDA_",",1501,"I"))
+"RTN","MAGQE3",209,0)
+ . . . . Q:DATE<SDATE
+"RTN","MAGQE3",210,0)
+ . . . . Q:$P(DATE,".")>EDATE
+"RTN","MAGQE3",211,0)
+ . . . . I $$SCAN(TIUDA) S SMC=SMC+1,SMC(TITLE)=$G(SMC(TITLE))+1 Q
+"RTN","MAGQE3",212,0)
+ . . . . S UMC=UMC+1,UMC(TITLE)=$G(UMC(TITLE))+1
+"RTN","MAGQE3",213,0)
+ . . . . Q
+"RTN","MAGQE3",214,0)
+ . . . I STATA[STAT D  Q
+"RTN","MAGQE3",215,0)
+ . . . . Q:TARGET(8925,TIUDA_",",1603,"I")<SDATE
+"RTN","MAGQE3",216,0)
+ . . . . Q:$P(TARGET(8925,TIUDA_",",1603,"I"),".")>EDATE
+"RTN","MAGQE3",217,0)
+ . . . . I $$SCAN(TIUDA) S SMC=SMC+1,SMC(TITLE)=$G(SMC(TITLE))+1 Q
+"RTN","MAGQE3",218,0)
+ . . . . S UMC=UMC+1,UMC(TITLE)=$G(UMC(TITLE))+1
+"RTN","MAGQE3",219,0)
+ . . . . Q
+"RTN","MAGQE3",220,0)
+ . . . Q
+"RTN","MAGQE3",221,0)
+ . . Q
+"RTN","MAGQE3",222,0)
+ . Q
+"RTN","MAGQE3",223,0)
+ D MSG^MAGQE2(DOC_" SCANNED ADMINISTRATIVE CLOSURE: "_SAC)
+"RTN","MAGQE3",224,0)
+ S TITLE="" F  S TITLE=$O(SAC(TITLE)) Q:TITLE=""  D
+"RTN","MAGQE3",225,0)
+ . D MSG^MAGQE2(DOC_" - SAC - "_TITLE_": "_SAC(TITLE))
+"RTN","MAGQE3",226,0)
+ . Q
+"RTN","MAGQE3",227,0)
+ D MSG^MAGQE2(DOC_" UNSCANNED MANUAL CLOSURE: "_UMC)
+"RTN","MAGQE3",228,0)
+ S TITLE="" F  S TITLE=$O(UMC(TITLE)) Q:TITLE=""  D
+"RTN","MAGQE3",229,0)
+ . D MSG^MAGQE2(DOC_" - UMC - "_TITLE_": "_UMC(TITLE))
+"RTN","MAGQE3",230,0)
+ . Q
+"RTN","MAGQE3",231,0)
+ D MSG^MAGQE2(DOC_" SCANNED MANUAL CLOSURE: "_SMC)
+"RTN","MAGQE3",232,0)
+ S TITLE="" F  S TITLE=$O(SMC(TITLE)) Q:TITLE=""  D
+"RTN","MAGQE3",233,0)
+ . D MSG^MAGQE2(DOC_" - SMC - "_TITLE_": "_SMC(TITLE))
+"RTN","MAGQE3",234,0)
+ . Q
+"RTN","MAGQE3",235,0)
+ Q
+"RTN","MAGQE3",236,0)
+ ;
+"RTN","MAGQE3",237,0)
+SCAN(IEN) ;
+"RTN","MAGQE3",238,0)
+ N LINK
+"RTN","MAGQE3",239,0)
+ S LINK=$O(^TIU(8925.91,"B",IEN,"")) Q:'LINK 0
+"RTN","MAGQE3",240,0)
+ Q $S($P($G(^TIU(8925.1,LINK,0)),"^",2)?1.N:0,1:1)
+"RTN","MAGQE3",241,0)
+ ;
+"RTN","MAGQE4")
+0^4^B12881674
+"RTN","MAGQE4",1,0)
+MAGQE4 ;WOIFO/RMP - Support for MAG Enterprise ; 07/08/2003  09:59
+"RTN","MAGQE4",2,0)
+ ;;3.0;IMAGING;**27,29**;06-January-2004
+"RTN","MAGQE4",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE4",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQE4",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQE4",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQE4",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQE4",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQE4",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQE4",10,0)
+ ;; |                                                               |
+"RTN","MAGQE4",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQE4",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGQE4",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGQE4",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGQE4",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGQE4",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE4",17,0)
+ ;;
+"RTN","MAGQE4",18,0)
+ Q
+"RTN","MAGQE4",19,0)
+ ;
+"RTN","MAGQE4",20,0)
+TASK ;Re-task the job
+"RTN","MAGQE4",21,0)
+ N DA,DIE,DR,I,MAGTSK,X,ZTDESC,ZTDTH,ZTIO,ZTRTN,ZTSAVE,ZTSK
+"RTN","MAGQE4",22,0)
+ ; First clean up any entries that might already be there
+"RTN","MAGQE4",23,0)
+ D RTN^%ZTLOAD("ISU^MAGQE2","MAGTSK")
+"RTN","MAGQE4",24,0)
+ ; EdM: Note: The above procedure only returns tasks submitted
+"RTN","MAGQE4",25,0)
+ ;      with the DUZ of the current requestor, unless...:
+"RTN","MAGQE4",26,0)
+ ;      When $D(^XUSEC("ZTMQ",DUZ))>0,
+"RTN","MAGQE4",27,0)
+ ;      tasks with other DUZs are reported as well.
+"RTN","MAGQE4",28,0)
+ S I=0 F  S I=$O(MAGTSK(I)) Q:'I  D
+"RTN","MAGQE4",29,0)
+ . N ZTSK
+"RTN","MAGQE4",30,0)
+ . S ZTSK=I D KILL^%ZTLOAD
+"RTN","MAGQE4",31,0)
+ . Q
+"RTN","MAGQE4",32,0)
+ ; Then queue up the next report for 2nd day of the next month
+"RTN","MAGQE4",33,0)
+ S ZTDTH=$$NOW^XLFDT()\100+1 S:(ZTDTH#100)>12 ZTDTH=ZTDTH+88
+"RTN","MAGQE4",34,0)
+ S ZTDTH=ZTDTH_"02.040101"
+"RTN","MAGQE4",35,0)
+ S ZTRTN="ISU^MAGQE2",ZTDESC="Site Imaging Utilization report",ZTIO=""
+"RTN","MAGQE4",36,0)
+ S:$D(MAGDUZ) ZTSAVE("MAGDUZ")=MAGDUZ
+"RTN","MAGQE4",37,0)
+ D ^%ZTLOAD
+"RTN","MAGQE4",38,0)
+ ; Record the task number in the Site Parameter Table
+"RTN","MAGQE4",39,0)
+ S DA=$S($T(PLACE^MAGBAPI)'="":$$PLACE^MAGBAPI($$MAGDUZ2^MAGQE5()),1:1)
+"RTN","MAGQE4",40,0)
+ S DIE="^MAG(2006.1,",DR="10///^S X=ZTSK" D ^DIE
+"RTN","MAGQE4",41,0)
+ Q
+"RTN","MAGQE4",42,0)
+ ;
+"RTN","MAGQE4",43,0)
+STTASK ; Start the Imaging task report
+"RTN","MAGQE4",44,0)
+ N DAYS,MCON,REC,TASK,ZTSK
+"RTN","MAGQE4",45,0)
+ S REC=$$PLACE^MAGQE5($$MAGDUZ2^MAGQE5()) Q:'$D(^MAG(2006.1,REC))
+"RTN","MAGQE4",46,0)
+ S TASK=$P($G(^MAG(2006.1,REC,1)),"^",7)
+"RTN","MAGQE4",47,0)
+ I TASK'="" D  Q:TASK'=""
+"RTN","MAGQE4",48,0)
+ . S ZTSK=TASK D STAT^%ZTLOAD
+"RTN","MAGQE4",49,0)
+ . I ZTSK(0)=0 S TASK=""
+"RTN","MAGQE4",50,0)
+ . E  W:$G(XQY0)["MAG" !,"Task is already running"
+"RTN","MAGQE4",51,0)
+ . Q
+"RTN","MAGQE4",52,0)
+ S MCON="",MAGDUZ=DUZ,DAYS=1
+"RTN","MAGQE4",53,0)
+ D RESTASK ; Also called from elsewhere
+"RTN","MAGQE4",54,0)
+ Q
+"RTN","MAGQE4",55,0)
+ ;
+"RTN","MAGQE4",56,0)
+RESTASK ; Restart the Imaging task report
+"RTN","MAGQE4",57,0)
+ N DA,DIC,DIE,DR,ZTDESC,ZTIO,ZTRTN,ZTSAVE
+"RTN","MAGQE4",58,0)
+ S ZTRTN="ISU^MAGQE2",ZTDESC="Site Imaging Utilization report",ZTIO=""
+"RTN","MAGQE4",59,0)
+ S:$D(MAGDUZ) ZTSAVE("MAGDUZ")=MAGDUZ
+"RTN","MAGQE4",60,0)
+ S ZTDTH=$$NOW^XLFDT()\100+1 S:(ZTDTH#100)>12 ZTDTH=ZTDTH+88
+"RTN","MAGQE4",61,0)
+ S ZTDTH=ZTDTH_"02.040101"
+"RTN","MAGQE4",62,0)
+ D ^%ZTLOAD
+"RTN","MAGQE4",63,0)
+ S DIE="^MAG(2006.1,",DA=$$PLACE^MAGQE5($$MAGDUZ2^MAGQE5()),DR="10///^S X=ZTSK" D ^DIE
+"RTN","MAGQE4",64,0)
+ W:$G(XQY0)["MAG" !,"Task is started. To remove task execute option MAGREPSTOP"
+"RTN","MAGQE4",65,0)
+ K MCDUZ
+"RTN","MAGQE4",66,0)
+ Q
+"RTN","MAGQE4",67,0)
+ ;
+"RTN","MAGQE4",68,0)
+REMTASK ;Remove the Imaging Task Report
+"RTN","MAGQE4",69,0)
+ N DA,DIE,DR,FIND,REC,TASK,ZTSK
+"RTN","MAGQE4",70,0)
+ S REC=$$PLACE^MAGQE5($$MAGDUZ2^MAGQE5())
+"RTN","MAGQE4",71,0)
+ S TASK=$P($G(^MAG(2006.1,REC,1)),"^",7)
+"RTN","MAGQE4",72,0)
+ I TASK D  Q
+"RTN","MAGQE4",73,0)
+ . S DIE="^MAG(2006.1,",DA=REC,DR="10///@" D ^DIE
+"RTN","MAGQE4",74,0)
+ . S ZTSK=TASK D KILL^%ZTLOAD
+"RTN","MAGQE4",75,0)
+ . Q:$G(XQY0)'["MAG"
+"RTN","MAGQE4",76,0)
+ . I ZTSK(0)=1 W !,"Task is removed.  To restart execute option MAGREPSTART"
+"RTN","MAGQE4",77,0)
+ . E  W !,"Could not stop task or task was no longer active."
+"RTN","MAGQE4",78,0)
+ . Q
+"RTN","MAGQE4",79,0)
+ I $G(XQY0)["MAG" W !,"No task to stop."
+"RTN","MAGQE4",80,0)
+ Q
+"RTN","MAGQE4",81,0)
+ ;
+"RTN","MAGQE4",82,0)
+UPPER(X) ;
+"RTN","MAGQE4",83,0)
+ Q $TR(X,"abcdefghijklmnopqrstuvwxyz","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","MAGQE4",84,0)
+ ;
+"RTN","MAGQE5")
+0^5^B39006169
+"RTN","MAGQE5",1,0)
+MAGQE5 ;WOIFO/RMP - Support for MAG Enterprise ; 08/22/2003  13:44
+"RTN","MAGQE5",2,0)
+ ;;3.0;IMAGING;**27,29**;06-January-2004
+"RTN","MAGQE5",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE5",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQE5",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQE5",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQE5",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQE5",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQE5",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQE5",10,0)
+ ;; |                                                               |
+"RTN","MAGQE5",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQE5",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGQE5",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGQE5",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGQE5",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGQE5",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQE5",17,0)
+ ;;
+"RTN","MAGQE5",18,0)
+ISU2 ;
+"RTN","MAGQE5",19,0)
+ ; Workstation Session and Patient counts
+"RTN","MAGQE5",20,0)
+ N CCNT,D0,DATE,ICNT,M1,M2,PCNT,RES,SCNAD,SCNMN,SCNT,TD,TD1,UNSCN,VD,VI,X1,X2,YR
+"RTN","MAGQE5",21,0)
+ S (SCNT,PCNT,ICNT,CCNT)=0
+"RTN","MAGQE5",22,0)
+ S (VD,VI)=""
+"RTN","MAGQE5",23,0)
+ I '$$CONSOLID() D
+"RTN","MAGQE5",24,0)
+ . S DATE="L"_START
+"RTN","MAGQE5",25,0)
+ . F  S DATE=$O(^MAG(2006.82,"AC",DATE)) Q:DATE=""  Q:$P(DATE,"L",2)\1>STOP  D
+"RTN","MAGQE5",26,0)
+ . . S D0=0 F  S D0=$O(^MAG(2006.82,"AC",DATE,D0)) Q:'D0  D
+"RTN","MAGQE5",27,0)
+ . . . Q:'$D(^MAG(2006.82,D0,1))
+"RTN","MAGQE5",28,0)
+ . . . S SCNT=SCNT+1
+"RTN","MAGQE5",29,0)
+ . . . S PCNT=PCNT+$P($G(^MAG(2006.82,D0,1)),"^",1)
+"RTN","MAGQE5",30,0)
+ . . . D ACT^MAGQE3(D0,.ICNT,.CCNT,.VD,.VI,.RES)
+"RTN","MAGQE5",31,0)
+ . . . Q
+"RTN","MAGQE5",32,0)
+ . . Q
+"RTN","MAGQE5",33,0)
+ . Q
+"RTN","MAGQE5",34,0)
+ E  D
+"RTN","MAGQE5",35,0)
+ . S DATE=START
+"RTN","MAGQE5",36,0)
+ . F  S DATE=$O(^MAG(2006.82,"APL",PLACE,DATE)) Q:DATE=""  Q:DATE\1>STOP  D
+"RTN","MAGQE5",37,0)
+ . . S D0=0 F  S D0=$O(^MAG(2006.82,"APL",PLACE,DATE,D0)) Q:D0'?1.N  D
+"RTN","MAGQE5",38,0)
+ . . . Q:'$D(^MAG(2006.82,D0,1))
+"RTN","MAGQE5",39,0)
+ . . . S SCNT=SCNT+1
+"RTN","MAGQE5",40,0)
+ . . . S PCNT=PCNT+$P($G(^MAG(2006.82,D0,1)),"^",1)
+"RTN","MAGQE5",41,0)
+ . . . D ACT^MAGQE3(D0,.ICNT,.CCNT,.VD,.VI,.RES)
+"RTN","MAGQE5",42,0)
+ . . . Q
+"RTN","MAGQE5",43,0)
+ . . Q
+"RTN","MAGQE5",44,0)
+ . Q
+"RTN","MAGQE5",45,0)
+ K ^TMP($J,"MAGQ","VD"),^TMP($J,"MAGQ","VI")
+"RTN","MAGQE5",46,0)
+ S X1=START,X2=STOP D ^%DTC S X=$TR(X,"-")+1_" day "
+"RTN","MAGQE5",47,0)
+ D MSG^MAGQE2(X_"Image Workstation Sessions: "_SCNT)
+"RTN","MAGQE5",48,0)
+ D MSG^MAGQE2(X_"Image Workstation Patients: "_PCNT)
+"RTN","MAGQE5",49,0)
+ D MSG^MAGQE2(X_"Image Workstation Images: "_ICNT)
+"RTN","MAGQE5",50,0)
+ D MSG^MAGQE2(X_"Image Workstation Captures: "_CCNT)
+"RTN","MAGQE5",51,0)
+ D MSG^MAGQE2(X_"VistaRad WS Display: "_VD)
+"RTN","MAGQE5",52,0)
+ D MSG^MAGQE2(X_"VistaRad WS Interpretations: "_VI)
+"RTN","MAGQE5",53,0)
+ I $T(AVERAGE^MAGBRTLD)'="" D
+"RTN","MAGQE5",54,0)
+ . D MSG^MAGQE2(X_"average daily routed images: "_$$AVERAGE^MAGBRTLD())
+"RTN","MAGQE5",55,0)
+ . Q
+"RTN","MAGQE5",56,0)
+ D BPV^MAGQE1(PLACE)
+"RTN","MAGQE5",57,0)
+ D MSG^MAGQE2("Vista Image Version/Build: "_$$VSTAV^MAGQE1())
+"RTN","MAGQE5",58,0)
+ D DICOMV^MAGQE1()
+"RTN","MAGQE5",59,0)
+ D MSG^MAGQE2("Image file namespace(s): "_$$SNS^MAGQE1(PLACE))
+"RTN","MAGQE5",60,0)
+ S I="" F  S I=$O(RES(I)) Q:I=""  D
+"RTN","MAGQE5",61,0)
+ . S RES="" F  S RES=$O(RES(I,RES)) Q:RES=""  D
+"RTN","MAGQE5",62,0)
+ . . S X=$TR(I,"^")_"^"_RES S $P(X,"^",6)=RES(I,RES)
+"RTN","MAGQE5",63,0)
+ . . D MSG^MAGQE2(" RESOLUTION: "_X)
+"RTN","MAGQE5",64,0)
+ . . Q
+"RTN","MAGQE5",65,0)
+ . Q
+"RTN","MAGQE5",66,0)
+ K RES
+"RTN","MAGQE5",67,0)
+ ;
+"RTN","MAGQE5",68,0)
+ D COUNT^MAGQE3(START,STOP,INST)
+"RTN","MAGQE5",69,0)
+ ;
+"RTN","MAGQE5",70,0)
+ S (I,D0)=0 F  S D0=$O(^TMP($J,"MAGQ","ACQPAT",D0)) Q:D0=""  S I=I+1
+"RTN","MAGQE5",71,0)
+ D MSG^MAGQE2("Unique Image patients captured: "_I)
+"RTN","MAGQE5",72,0)
+ K ^TMP($J,"MAGQ","ACQPAT")
+"RTN","MAGQE5",73,0)
+ S (I,D0)=0 F  S D0=$O(^TMP($J,"MAGQ","DISPAT",D0)) Q:D0=""  S I=I+1
+"RTN","MAGQE5",74,0)
+ D MSG^MAGQE2("Unique Image patients display: "_I)
+"RTN","MAGQE5",75,0)
+ K ^TMP($J,"MAGQ","DISPAT")
+"RTN","MAGQE5",76,0)
+ S (I,D0)=0 F  S D0=$O(^TMP($J,"MAGQ","ALLPAT",D0)) Q:D0=""  S I=I+1
+"RTN","MAGQE5",77,0)
+ D MSG^MAGQE2("Unique Image patients All: "_I)
+"RTN","MAGQE5",78,0)
+ K ^TMP($J,"MAGQ","ALLPAT")
+"RTN","MAGQE5",79,0)
+ ;
+"RTN","MAGQE5",80,0)
+ D ADCNT^MAGQE3(START,STOP,INST)
+"RTN","MAGQE5",81,0)
+ D GPACHX^MAGQE3()
+"RTN","MAGQE5",82,0)
+ D GS1^MAGQE5() ;Get Share data
+"RTN","MAGQE5",83,0)
+ Q
+"RTN","MAGQE5",84,0)
+ ;
+"RTN","MAGQE5",85,0)
+AHOPT ;
+"RTN","MAGQE5",86,0)
+ N %DT,START,STOP
+"RTN","MAGQE5",87,0)
+ S STOP=$$FMADD^XLFDT($$NOW^XLFDT()\100_"01",-1)
+"RTN","MAGQE5",88,0)
+ S START=STOP\100_"01"
+"RTN","MAGQE5",89,0)
+ S Y=START D DD^%DT S %DT("B")=Y
+"RTN","MAGQE5",90,0)
+ S %DT="AEXP",%DT("A")="Enter starting Date: "
+"RTN","MAGQE5",91,0)
+ D ^%DT I ((X="")!(X="^")!($D(DTOUT))) K %DT(0) Q
+"RTN","MAGQE5",92,0)
+ S START=Y
+"RTN","MAGQE5",93,0)
+ S Y=STOP D DD^%DT S %DT("B")=Y
+"RTN","MAGQE5",94,0)
+ S %DT="AEXP",%DT("A")="Enter ending Date: "
+"RTN","MAGQE5",95,0)
+ D ^%DT I ((X="")!(X="^")!($D(DTOUT))) K %DT(0) Q
+"RTN","MAGQE5",96,0)
+ S STOP=Y
+"RTN","MAGQE5",97,0)
+ W !!,"Creating ad-hoc report over the period "
+"RTN","MAGQE5",98,0)
+ W $$DT(START)," until ",$$DT(STOP),".",!
+"RTN","MAGQE5",99,0)
+ D AHISU^MAGQE2(START,STOP)
+"RTN","MAGQE5",100,0)
+ Q
+"RTN","MAGQE5",101,0)
+ ;
+"RTN","MAGQE5",102,0)
+DT(X) ;
+"RTN","MAGQE5",103,0)
+ Q (X\1#100)_"-"_$P("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"," ",X\100#100)_"-"_(X\10000+1700)
+"RTN","MAGQE5",104,0)
+ ;
+"RTN","MAGQE5",105,0)
+LLOAD(AR,LBL) ;
+"RTN","MAGQE5",106,0)
+ N I
+"RTN","MAGQE5",107,0)
+ S I="" F  S I=$O(AR(I)) Q:I=""  D MSG^MAGQE2(" "_LBL_" "_I_"^"_AR(I))
+"RTN","MAGQE5",108,0)
+ Q
+"RTN","MAGQE5",109,0)
+ ;
+"RTN","MAGQE5",110,0)
+GETPLACE(PLACE) ; Validate place
+"RTN","MAGQE5",111,0)
+ S PLACE=$S($$CONSOLID():$G(PLACE),1:+$O(^MAG(2006.1," "),-1)) Q:'PLACE 0
+"RTN","MAGQE5",112,0)
+ S:$P($G(^MAG(2006.1,PLACE,0)),"^",1)="" PLACE=0
+"RTN","MAGQE5",113,0)
+ Q PLACE
+"RTN","MAGQE5",114,0)
+ ;
+"RTN","MAGQE5",115,0)
+CONSOLID() ;
+"RTN","MAGQE5",116,0)
+ ; Return value: 0 = site not consolidated,
+"RTN","MAGQE5",117,0)
+ ;               1 = site is consolidated
+"RTN","MAGQE5",118,0)
+ N FLDNFO
+"RTN","MAGQE5",119,0)
+ D FIELD^DID(2006.1,.01,"","SPECIFIER","FLDNFO")
+"RTN","MAGQE5",120,0)
+ I $G(FLDNFO("SPECIFIER"))["P" Q 1
+"RTN","MAGQE5",121,0)
+ Q 0
+"RTN","MAGQE5",122,0)
+ ;
+"RTN","MAGQE5",123,0)
+PLACE(INST) ;
+"RTN","MAGQE5",124,0)
+ Q:'$$CONSOLID() +$O(^MAG(2006.1," "),-1)
+"RTN","MAGQE5",125,0)
+ Q $$GETPLACE(+$O(^MAG(2006.1,"B",INST,"")))
+"RTN","MAGQE5",126,0)
+ ;
+"RTN","MAGQE5",127,0)
+QCNT(READY,PLACE) ;
+"RTN","MAGQE5",128,0)
+ N D0,FAILED,NEXT,TYPE
+"RTN","MAGQE5",129,0)
+ S (READY,FAILED)=0
+"RTN","MAGQE5",130,0)
+ I $$CONSOLID() D
+"RTN","MAGQE5",131,0)
+ . S TYPE="" F  S TYPE=$O(^MAGQUEUE(2006.031,"C",PLACE,TYPE)) Q:TYPE=""  D
+"RTN","MAGQE5",132,0)
+ . . S NEXT=+$O(^MAGQUEUE(2006.031,"C",PLACE,TYPE,""))
+"RTN","MAGQE5",133,0)
+ . . S NEXT=+$P($G(^MAGQUEUE(2006.031,NEXT,0)),"^",2)
+"RTN","MAGQE5",134,0)
+ . . S D0=0 F  S D0=$O(^MAGQUEUE(2006.03,"C",PLACE,TYPE,D0)) Q:'D0  D
+"RTN","MAGQE5",135,0)
+ . . . I D0<NEXT S FAILED=FAILED+1
+"RTN","MAGQE5",136,0)
+ . . . E  S READY=READY+1
+"RTN","MAGQE5",137,0)
+ . . . Q
+"RTN","MAGQE5",138,0)
+ . . Q
+"RTN","MAGQE5",139,0)
+ E  D
+"RTN","MAGQE5",140,0)
+ . S TYPE="" F  S TYPE=$O(^MAGQUEUE(2006.031,"B",TYPE)) Q:TYPE=""  D
+"RTN","MAGQE5",141,0)
+ . . S NEXT=+$O(^MAGQUEUE(2006.031,"B",TYPE,""))
+"RTN","MAGQE5",142,0)
+ . . S NEXT=+$P($G(^MAGQUEUE(2006.031,NEXT,0)),"^",2)
+"RTN","MAGQE5",143,0)
+ . . S D0=0 F  S D0=$O(^MAGQUEUE(2006.03,"B",TYPE,D0)) Q:'D0  D
+"RTN","MAGQE5",144,0)
+ . . . I D0<NEXT S FAILED=FAILED+1
+"RTN","MAGQE5",145,0)
+ . . . E  S READY=READY+1
+"RTN","MAGQE5",146,0)
+ . . . Q
+"RTN","MAGQE5",147,0)
+ . . Q
+"RTN","MAGQE5",148,0)
+ . Q
+"RTN","MAGQE5",149,0)
+ Q READY+FAILED
+"RTN","MAGQE5",150,0)
+ ;
+"RTN","MAGQE5",151,0)
+WSP(PLACE) ; Imaging workstations per place
+"RTN","MAGQE5",152,0)
+ N COUNT,D0,RD
+"RTN","MAGQE5",153,0)
+ S RD=$$FMADD^XLFDT($$NOW^XLFDT,-180,"","","")
+"RTN","MAGQE5",154,0)
+ S (D0,COUNT)=0 F  S D0=$O(^MAG(2006.81,"C",PLACE,D0)) Q:'D0  D
+"RTN","MAGQE5",155,0)
+ . S:$P(^MAG(2006.81,D0,0),"^",3)'<RD COUNT=COUNT+1
+"RTN","MAGQE5",156,0)
+ . Q
+"RTN","MAGQE5",157,0)
+ Q COUNT
+"RTN","MAGQE5",158,0)
+ ;
+"RTN","MAGQE5",159,0)
+MAGDUZ2() Q $G(DUZ(2),$$KSP^XUPARAM("INST"))
+"RTN","MAGQE5",160,0)
+GS1() ; Get local Network location share data
+"RTN","MAGQE5",161,0)
+ N RESULT,SCREEN,L,M,I
+"RTN","MAGQE5",162,0)
+ K TAR
+"RTN","MAGQE5",163,0)
+ S SCREEN="I ""^DGM^GCC""'[(U_$P(^(0),U,7)_U),$P(^(0),U,6)=""1"",'$P(^(0),U,9)"
+"RTN","MAGQE5",164,0)
+ S RESULT(0)="NETWORK LOCATION^PHYSICAL REFERENCE^TOTAL SPACE^SPACE USED^FREE SPACE^OPERATIONAL STATUS^STORAGE TYPE^HASH"
+"RTN","MAGQE5",165,0)
+ D LIST^DIC(2005.2,"","@;.01;1;2;3;4;5;6;7","","","","","",SCREEN,"","TAR","MSG")
+"RTN","MAGQE5",166,0)
+ Q:$D(MSG("DIERR"))
+"RTN","MAGQE5",167,0)
+ S L=0 F  S L=$O(TAR("DILIST","ID",L)) Q:'L  D
+"RTN","MAGQE5",168,0)
+ . S RESULT(L)=$P(TAR("DILIST","ID",L,.01),U,1)
+"RTN","MAGQE5",169,0)
+ . F M=1,2,3,4,5,6,7 S RESULT(L)=RESULT(L)_U_$P(TAR("DILIST","ID",L,M),U,1)
+"RTN","MAGQE5",170,0)
+ . Q
+"RTN","MAGQE5",171,0)
+ S I="" F  S I=$O(RESULT(I)) Q:I=""  D
+"RTN","MAGQE5",172,0)
+ . D MSG^MAGQE2("LOCAL NETWORK LOCATIONS: "_I_"^"_RESULT(I))
+"RTN","MAGQE5",173,0)
+ . Q
+"RTN","MAGQE5",174,0)
+ Q
+"RTN","MAGQE5",175,0)
+ ;
+"RTN","MAGQST")
+0^6^B12637510
+"RTN","MAGQST",1,0)
+MAGQST ;WOIFO/DCB,RMP-SERVER TASKS [ 06/20/2001 08:57 ] ; 07/08/2003  10:15
+"RTN","MAGQST",2,0)
+ ;;3.0;IMAGING;**29**;06-January-2004
+"RTN","MAGQST",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQST",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGQST",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGQST",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGQST",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGQST",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGQST",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGQST",10,0)
+ ;; |                                                               |
+"RTN","MAGQST",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGQST",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGQST",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGQST",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGQST",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGQST",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGQST",17,0)
+ ;;
+"RTN","MAGQST",18,0)
+ Q
+"RTN","MAGQST",19,0)
+ ;
+"RTN","MAGQST",20,0)
+RESTASK D RESTASK^MAGQE4 Q
+"RTN","MAGQST",21,0)
+STTASK D STTASK^MAGQE4 Q
+"RTN","MAGQST",22,0)
+REMTASK D REMTASK^MAGQE4 Q
+"RTN","MAGQST",23,0)
+ ;
+"RTN","MAGQST",24,0)
+CHECK ;Check to see if the task is running
+"RTN","MAGQST",25,0)
+ N REC,TASK,ZTSK
+"RTN","MAGQST",26,0)
+ S REC=$S($T(PLACE^MAGBAPI)'="":$$PLACE^MAGBAPI(DUZ(2)),1:1)
+"RTN","MAGQST",27,0)
+ S TASK=$P($G(^MAG(2006.1,REC,1)),U,7) Q:TASK=""
+"RTN","MAGQST",28,0)
+ S ZTSK=TASK D STAT^%ZTLOAD
+"RTN","MAGQST",29,0)
+ D:ZTSK(0)=0 RESTASK^MAGQE4
+"RTN","MAGQST",30,0)
+ Q
+"RTN","MAGQST",31,0)
+POST ;
+"RTN","MAGQST",32,0)
+ D REMTASK^MAGQE4,STTASK^MAGQE4
+"RTN","MAGQST",33,0)
+ D INS^MAGQST(XPDNM,DUZ,$$NOW^XLFDT,XPDA)
+"RTN","MAGQST",34,0)
+ D POSTI^MAGQBUT ;
+"RTN","MAGQST",35,0)
+ Q
+"RTN","MAGQST",36,0)
+ENHS ;Enable Health Summary Component
+"RTN","MAGQST",37,0)
+PRE ; REMOVE SITE 2006.19 ENTRIES SO THAT THEY CAN BE REPLACED
+"RTN","MAGQST",38,0)
+ ; THE "ID" NODE ON FIELD .2 MAKES CHANGING THEM DIFFICULT
+"RTN","MAGQST",39,0)
+ ;We require a DUZ(0)="@" for installer S DUZ(0)="@"
+"RTN","MAGQST",40,0)
+ N INDX S INDX=0
+"RTN","MAGQST",41,0)
+ F  S INDX=$O(^MAG(2006.19,INDX)) Q:INDX'?1N.N  D
+"RTN","MAGQST",42,0)
+ . S DIE=2006.19,DA=INDX,DR=".01///@"
+"RTN","MAGQST",43,0)
+ . D ^DIE
+"RTN","MAGQST",44,0)
+ Q
+"RTN","MAGQST",45,0)
+NUMBER(VAL,SP) ;
+"RTN","MAGQST",46,0)
+ Q $J($FN(VAL,",",0),SP)
+"RTN","MAGQST",47,0)
+INS(XP,DUZ,DATE,IDA) ;
+"RTN","MAGQST",48,0)
+ N ST,CT,DDATE
+"RTN","MAGQST",49,0)
+ D GETENV^%ZOSV
+"RTN","MAGQST",50,0)
+ K ^TMP($J,"MAGQ")
+"RTN","MAGQST",51,0)
+ S ^TMP($J,"MAGQ",1)="PACKAGE INSTALL"
+"RTN","MAGQST",52,0)
+ S ^TMP($J,"MAGQ",2)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGQST",53,0)
+ S ^TMP($J,"MAGQ",3)="PACKAGE: "_XP
+"RTN","MAGQST",54,0)
+ S ^TMP($J,"MAGQ",4)="Version: "_$$VER^XPDUTL(XP)
+"RTN","MAGQST",55,0)
+ S ST=$$GET1^DIQ(9.7,IDA,11,"I")
+"RTN","MAGQST",56,0)
+ S ^TMP($J,"MAGQ",5)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGQST",57,0)
+ S CT=$$GET1^DIQ(9.7,IDA,17,"I")
+"RTN","MAGQST",58,0)
+ S ^TMP($J,"MAGQ",6)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGQST",59,0)
+ S ^TMP($J,"MAGQ",7)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGQST",60,0)
+ S ^TMP($J,"MAGQ",8)="Environment: "_Y
+"RTN","MAGQST",61,0)
+ S ^TMP($J,"MAGQ",9)="DATE: "_DATE
+"RTN","MAGQST",62,0)
+ S ^TMP($J,"MAGQ",10)="Installed by: "_$$GET1^DIQ(9.7,IDA,9,"E")
+"RTN","MAGQST",63,0)
+ S ^TMP($J,"MAGQ",11)="Install Name: "_$$GET1^DIQ(9.7,IDA,.01,"E")
+"RTN","MAGQST",64,0)
+ S DDATE=$$GET1^DIQ(9.7,IDA,51,"I")
+"RTN","MAGQST",65,0)
+ S ^TMP($J,"MAGQ",11)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGQST",66,0)
+ S XMSUB="MAG "_XP_" INSTALLATION"
+"RTN","MAGQST",67,0)
+ D MAILSHR^MAGUSIT
+"RTN","MAGQST",68,0)
+ K ^TMP($J,"MAGQ")
+"RTN","MAGQST",69,0)
+ Q
+"RTN","MAGQST",70,0)
+ ;
+"RTN","MAGQST",71,0)
+TQ ; Test Queue functionality
+"RTN","MAGQST",72,0)
+ N CNT,RESULT
+"RTN","MAGQST",73,0)
+ S CNT=1,RESULT="" K ^TMP("MAGQ",$J)
+"RTN","MAGQST",74,0)
+ F  D GETQUE^MAGQBTM(.RESULT,"JBTOHD") S CNT=CNT+1 Q:CNT>200  D
+"RTN","MAGQST",75,0)
+ . S ^TMP("MAGQ",$J,CNT)=RESULT
+"RTN","MAGQST",76,0)
+ . Q
+"RTN","MAGQST",77,0)
+ Q
+"RTN","MAGQST",78,0)
+ ;
+"RTN","MAGQST",79,0)
+UPPER(X) ;
+"RTN","MAGQST",80,0)
+ Q $TR(X,"abcdefghijklmnopqrstuvwxyz","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","MAGQST",81,0)
+ ;
+"RTN","MAGQST",82,0)
+TRIM(X) ; remove both leading and trailing blanks
+"RTN","MAGQST",83,0)
+ N I,J
+"RTN","MAGQST",84,0)
+ F I=1:1:$L(X) Q:$E(X,I)'=" "
+"RTN","MAGQST",85,0)
+ F J=$L(X):-1:I Q:$E(X,J)'=" "
+"RTN","MAGQST",86,0)
+ Q $S($E(X,I,J)=" ":"",1:$E(X,I,J))
+"RTN","MAGQST",87,0)
+CHKTSK(RTN) ;
+"RTN","MAGQST",88,0)
+ N ARR,I,BOOL
+"RTN","MAGQST",89,0)
+ S ARR="MAGCT",BOOL=0,I=""
+"RTN","MAGQST",90,0)
+ K @ARR
+"RTN","MAGQST",91,0)
+ D RTN^%ZTLOAD(RTN,ARR)
+"RTN","MAGQST",92,0)
+ I $D(@ARR) D
+"RTN","MAGQST",93,0)
+ . F  S I=$O(@ARR@(I)) Q:I'?1N.N  D  Q:BOOL
+"RTN","MAGQST",94,0)
+ . . S ZTSK=I D ISQED^%ZTLOAD S BOOL=ZTSK(0)
+"RTN","MAGQST",95,0)
+ Q BOOL
+"RTN","MAGQST",96,0)
+ ;
+"VER")
+8.0^22.0
+**END**
+**END**
+
+
+****
+****

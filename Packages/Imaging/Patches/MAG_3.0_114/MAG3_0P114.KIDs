@@ -1,0 +1,2802 @@
+KIDS Distribution saved on Aug 17, 2010@13:40:06
+VistA Imaging V3.0 - Patch 114 - 08/17/2010 13:40PM
+**KIDS**:MAG*3.0*114^
+
+**INSTALL NAME**
+MAG*3.0*114
+"BLD",3463,0)
+MAG*3.0*114^IMAGING^0^3100817^y
+"BLD",3463,1,0)
+^^11^11^3100817^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 114 - Telereader Configurator
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+Routines:
+"BLD",3463,1,5,0)
+MAGDDR      new value = 3492873
+"BLD",3463,1,6,0)
+MAGIP114    new value = 20155618
+"BLD",3463,1,7,0)
+MAGNTLR2    new value = 26968313
+"BLD",3463,1,8,0)
+MAGNTLRS    new value = 186626605
+"BLD",3463,1,9,0)
+ 
+"BLD",3463,1,10,0)
+Please note that routine MAGIP114 is deleted after the KIDS Build is
+"BLD",3463,1,11,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^2006.5843^5
+"BLD",3463,6.3)
+V3.0p114Build1827_T11
+"BLD",3463,4,2006.1,0)
+2006.1
+"BLD",3463,4,2006.1,2,0)
+^9.641^2006.1^1
+"BLD",3463,4,2006.1,2,2006.1,0)
+IMAGING SITE PARAMETERS  (File-top level)
+"BLD",3463,4,2006.1,2,2006.1,1,0)
+^9.6411^131^1
+"BLD",3463,4,2006.1,2,2006.1,1,131,0)
+TELEREADER TIMEOUT (MINUTES)
+"BLD",3463,4,2006.1,222)
+n^n^p^^^^n^^n
+"BLD",3463,4,2006.1,224)
+
+"BLD",3463,4,2006.5831,0)
+2006.5831
+"BLD",3463,4,2006.5831,2,0)
+^9.641^2006.58314^2
+"BLD",3463,4,2006.5831,2,2006.5831,0)
+DICOM HEALTHCARE PROVIDER SERVICE  (File-top level)
+"BLD",3463,4,2006.5831,2,2006.5831,1,0)
+^9.6411^3^3
+"BLD",3463,4,2006.5831,2,2006.5831,1,.01,0)
+REQUESTED SERVICE
+"BLD",3463,4,2006.5831,2,2006.5831,1,2,0)
+SERVICE GROUP
+"BLD",3463,4,2006.5831,2,2006.5831,1,3,0)
+SERVICE DIVISION
+"BLD",3463,4,2006.5831,2,2006.58314,0)
+CLINIC  (sub-file)
+"BLD",3463,4,2006.5831,2,2006.58314,1,0)
+^9.6411^.01^1
+"BLD",3463,4,2006.5831,2,2006.58314,1,.01,0)
+CLINIC
+"BLD",3463,4,2006.5831,222)
+y^y^p^^^^n^^n
+"BLD",3463,4,2006.5831,224)
+
+"BLD",3463,4,2006.5841,0)
+2006.5841
+"BLD",3463,4,2006.5841,2,0)
+^9.641^2006.5841^1
+"BLD",3463,4,2006.5841,2,2006.5841,0)
+TELEREADER ACQUISITION SERVICE  (File-top level)
+"BLD",3463,4,2006.5841,2,2006.5841,1,0)
+^9.6411^6^7
+"BLD",3463,4,2006.5841,2,2006.5841,1,.01,0)
+NAME
+"BLD",3463,4,2006.5841,2,2006.5841,1,1,0)
+PROCEDURE
+"BLD",3463,4,2006.5841,2,2006.5841,1,2,0)
+SPECIALTY INDEX
+"BLD",3463,4,2006.5841,2,2006.5841,1,3,0)
+PROCEDURE INDEX
+"BLD",3463,4,2006.5841,2,2006.5841,1,4,0)
+ACQUISITION SITE
+"BLD",3463,4,2006.5841,2,2006.5841,1,5,0)
+UNREAD LIST CREATION TRIGGER
+"BLD",3463,4,2006.5841,2,2006.5841,1,6,0)
+TIU NOTE FILE
+"BLD",3463,4,2006.5841,222)
+y^y^p^^^^n^^n
+"BLD",3463,4,2006.5841,224)
+
+"BLD",3463,4,2006.5842,0)
+2006.5842
+"BLD",3463,4,2006.5842,2,0)
+^9.641^2006.5842^1
+"BLD",3463,4,2006.5842,2,2006.5842,0)
+TELEREADER ACQUISITION SITE  (File-top level)
+"BLD",3463,4,2006.5842,2,2006.5842,1,0)
+^9.6411^3^4
+"BLD",3463,4,2006.5842,2,2006.5842,1,.01,0)
+NAME
+"BLD",3463,4,2006.5842,2,2006.5842,1,1,0)
+PRIMARY SITE
+"BLD",3463,4,2006.5842,2,2006.5842,1,2,0)
+STATUS
+"BLD",3463,4,2006.5842,2,2006.5842,1,3,0)
+LOCK TIMEOUT IN MINUTES
+"BLD",3463,4,2006.5842,222)
+y^y^p^^^^n^^n
+"BLD",3463,4,2006.5842,224)
+
+"BLD",3463,4,2006.5843,0)
+2006.5843
+"BLD",3463,4,2006.5843,2,0)
+^9.641^2006.5843^4
+"BLD",3463,4,2006.5843,2,2006.5843,0)
+TELEREADER READER  (File-top level)
+"BLD",3463,4,2006.5843,2,2006.5843,1,0)
+^9.6411^.01^1
+"BLD",3463,4,2006.5843,2,2006.5843,1,.01,0)
+READER
+"BLD",3463,4,2006.5843,2,2006.58431,0)
+ACQUISITION SITE  (sub-file)
+"BLD",3463,4,2006.5843,2,2006.58431,1,0)
+^9.6411^.01^1
+"BLD",3463,4,2006.5843,2,2006.58431,1,.01,0)
+ACQUISITION SITE
+"BLD",3463,4,2006.5843,2,2006.584311,0)
+SPECIALTY INDEX  (sub-file)
+"BLD",3463,4,2006.5843,2,2006.584311,1,0)
+^9.6411^.01^1
+"BLD",3463,4,2006.5843,2,2006.584311,1,.01,0)
+SPECIALTY INDEX
+"BLD",3463,4,2006.5843,2,2006.5843111,0)
+PROCEDURE INDEX  (sub-file)
+"BLD",3463,4,2006.5843,2,2006.5843111,1,0)
+^9.6411^.01^1
+"BLD",3463,4,2006.5843,2,2006.5843111,1,.01,0)
+PROCEDURE INDEX
+"BLD",3463,4,2006.5843,222)
+y^y^p^^^^n^^n
+"BLD",3463,4,2006.5843,224)
+
+"BLD",3463,4,"APDD",2006.5843,2006.5843)
+
+"BLD",3463,4,"APDD",2006.1,2006.1)
+
+"BLD",3463,4,"APDD",2006.1,2006.1,131)
+
+"BLD",3463,4,"APDD",2006.5831,2006.5831)
+
+"BLD",3463,4,"APDD",2006.5831,2006.5831,.01)
+
+"BLD",3463,4,"APDD",2006.5831,2006.5831,2)
+
+"BLD",3463,4,"APDD",2006.5831,2006.5831,3)
+
+"BLD",3463,4,"APDD",2006.5831,2006.58314)
+
+"BLD",3463,4,"APDD",2006.5831,2006.58314,.01)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841,.01)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841,1)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841,2)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841,3)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841,4)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841,5)
+
+"BLD",3463,4,"APDD",2006.5841,2006.5841,6)
+
+"BLD",3463,4,"APDD",2006.5842,2006.5842)
+
+"BLD",3463,4,"APDD",2006.5842,2006.5842,.01)
+
+"BLD",3463,4,"APDD",2006.5842,2006.5842,1)
+
+"BLD",3463,4,"APDD",2006.5842,2006.5842,2)
+
+"BLD",3463,4,"APDD",2006.5842,2006.5842,3)
+
+"BLD",3463,4,"APDD",2006.5843,2006.5843)
+
+"BLD",3463,4,"APDD",2006.5843,2006.5843,.01)
+
+"BLD",3463,4,"APDD",2006.5843,2006.58431)
+
+"BLD",3463,4,"APDD",2006.5843,2006.58431,.01)
+
+"BLD",3463,4,"APDD",2006.5843,2006.584311)
+
+"BLD",3463,4,"APDD",2006.5843,2006.584311,.01)
+
+"BLD",3463,4,"APDD",2006.5843,2006.5843111)
+
+"BLD",3463,4,"APDD",2006.5843,2006.5843111,.01)
+
+"BLD",3463,4,"B",2006.1,2006.1)
+
+"BLD",3463,4,"B",2006.5831,2006.5831)
+
+"BLD",3463,4,"B",2006.5841,2006.5841)
+
+"BLD",3463,4,"B",2006.5842,2006.5842)
+
+"BLD",3463,4,"B",2006.5843,2006.5843)
+
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+y^y^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INID")
+n^y^n
+"BLD",3463,"INIT")
+POS^MAGIP114
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.401,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.402,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",.84,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^3^3
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAGDDR^^0^B3492873
+"BLD",3463,"KRN",9.8,"NM",2,0)
+MAGNTLR2^^0^B26968313
+"BLD",3463,"KRN",9.8,"NM",3,0)
+MAGNTLRS^^0^B186626605
+"BLD",3463,"KRN",9.8,"NM","B","MAGDDR",1)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGNTLR2",2)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGNTLRS",3)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",771,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",870,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.51,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^9^9
+"BLD",3463,"KRN",8994,"NM",1,0)
+MAG3 SET TIMEOUT^^0
+"BLD",3463,"KRN",8994,"NM",2,0)
+MAG3 TELEREADER ACQ SRVC SETUP^^0
+"BLD",3463,"KRN",8994,"NM",3,0)
+MAG3 TELEREADER DHPS LIST^^0
+"BLD",3463,"KRN",8994,"NM",4,0)
+MAG3 TELEREADER PDR SRVC SETUP^^0
+"BLD",3463,"KRN",8994,"NM",5,0)
+MAG3 TELEREADER READER LIST^^0
+"BLD",3463,"KRN",8994,"NM",6,0)
+MAG3 TELEREADER READER SETUP^^0
+"BLD",3463,"KRN",8994,"NM",7,0)
+MAG3 TELEREADER SITE SETUP^^0
+"BLD",3463,"KRN",8994,"NM",8,0)
+MAGDDR GETS ENTRY DATA^^0
+"BLD",3463,"KRN",8994,"NM",9,0)
+MAGDDR LISTER^^0
+"BLD",3463,"KRN",8994,"NM","B","MAG3 SET TIMEOUT",1)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG3 TELEREADER ACQ SRVC SETUP",2)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG3 TELEREADER DHPS LIST",3)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG3 TELEREADER PDR SRVC SETUP",4)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG3 TELEREADER READER LIST",5)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG3 TELEREADER READER SETUP",6)
+
+"BLD",3463,"KRN",8994,"NM","B","MAG3 TELEREADER SITE SETUP",7)
+
+"BLD",3463,"KRN",8994,"NM","B","MAGDDR GETS ENTRY DATA",8)
+
+"BLD",3463,"KRN",8994,"NM","B","MAGDDR LISTER",9)
+
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"BLD",3463,"REQB",0)
+^9.611^1^1
+"BLD",3463,"REQB",1,0)
+MAG*3.0*46^2
+"BLD",3463,"REQB","B","MAG*3.0*46",1)
+
+"FIA",2006.1)
+IMAGING SITE PARAMETERS
+"FIA",2006.1,0)
+^MAG(2006.1,
+"FIA",2006.1,0,0)
+2006.1P
+"FIA",2006.1,0,1)
+y^y^p^^^^n^^n
+"FIA",2006.1,0,10)
+
+"FIA",2006.1,0,11)
+
+"FIA",2006.1,0,"RLRO")
+
+"FIA",2006.1,0,"VR")
+3.0^MAG
+"FIA",2006.1,2006.1)
+1
+"FIA",2006.1,2006.1,131)
+
+"FIA",2006.5831)
+DICOM HEALTHCARE PROVIDER SERVICE
+"FIA",2006.5831,0)
+^MAG(2006.5831,
+"FIA",2006.5831,0,0)
+2006.5831P
+"FIA",2006.5831,0,1)
+y^y^p^^^^n^^n
+"FIA",2006.5831,0,10)
+
+"FIA",2006.5831,0,11)
+
+"FIA",2006.5831,0,"RLRO")
+
+"FIA",2006.5831,0,"VR")
+3.0^MAG
+"FIA",2006.5831,2006.5831)
+1
+"FIA",2006.5831,2006.5831,.01)
+
+"FIA",2006.5831,2006.5831,2)
+
+"FIA",2006.5831,2006.5831,3)
+
+"FIA",2006.5831,2006.5831,4)
+
+"FIA",2006.5831,2006.58314)
+1
+"FIA",2006.5831,2006.58314,.01)
+
+"FIA",2006.5841)
+TELEREADER ACQUISITION SERVICE
+"FIA",2006.5841,0)
+^MAG(2006.5841,
+"FIA",2006.5841,0,0)
+2006.5841PI
+"FIA",2006.5841,0,1)
+y^y^p^^^^n^^n
+"FIA",2006.5841,0,10)
+
+"FIA",2006.5841,0,11)
+
+"FIA",2006.5841,0,"RLRO")
+
+"FIA",2006.5841,0,"VR")
+3.0^MAG
+"FIA",2006.5841,2006.5841)
+1
+"FIA",2006.5841,2006.5841,.01)
+
+"FIA",2006.5841,2006.5841,1)
+
+"FIA",2006.5841,2006.5841,2)
+
+"FIA",2006.5841,2006.5841,3)
+
+"FIA",2006.5841,2006.5841,4)
+
+"FIA",2006.5841,2006.5841,5)
+
+"FIA",2006.5841,2006.5841,6)
+
+"FIA",2006.5842)
+TELEREADER ACQUISITION SITE
+"FIA",2006.5842,0)
+^MAG(2006.5842,
+"FIA",2006.5842,0,0)
+2006.5842P
+"FIA",2006.5842,0,1)
+y^y^p^^^^n^^n
+"FIA",2006.5842,0,10)
+
+"FIA",2006.5842,0,11)
+
+"FIA",2006.5842,0,"RLRO")
+
+"FIA",2006.5842,0,"VR")
+3.0^MAG
+"FIA",2006.5842,2006.5842)
+1
+"FIA",2006.5842,2006.5842,.01)
+
+"FIA",2006.5842,2006.5842,1)
+
+"FIA",2006.5842,2006.5842,2)
+
+"FIA",2006.5842,2006.5842,3)
+
+"FIA",2006.5843)
+TELEREADER READER
+"FIA",2006.5843,0)
+^MAG(2006.5843,
+"FIA",2006.5843,0,0)
+2006.5843P
+"FIA",2006.5843,0,1)
+y^y^p^^^^n^^n
+"FIA",2006.5843,0,10)
+
+"FIA",2006.5843,0,11)
+
+"FIA",2006.5843,0,"RLRO")
+
+"FIA",2006.5843,0,"VR")
+3.0^MAG
+"FIA",2006.5843,2006.5843)
+1
+"FIA",2006.5843,2006.5843,.01)
+
+"FIA",2006.5843,2006.5843,1)
+
+"FIA",2006.5843,2006.58431)
+1
+"FIA",2006.5843,2006.58431,.01)
+
+"FIA",2006.5843,2006.58431,1)
+
+"FIA",2006.5843,2006.584311)
+1
+"FIA",2006.5843,2006.584311,.01)
+
+"FIA",2006.5843,2006.584311,1)
+
+"FIA",2006.5843,2006.5843111)
+1
+"FIA",2006.5843,2006.5843111,.01)
+
+"INIT")
+POS^MAGIP114
+"IX",2006.5841,2006.5841,"AC",0)
+2006.5841^AC^Service/Procedure Index^MU^^R^IR^I^2006.5841^^^^^A
+"IX",2006.5841,2006.5841,"AC",1)
+I X2(1)'="" S ^MAG(2006.5841,"AC",$E(X2(1),1,30),+$E(X2(2),1,30),DA)=""
+"IX",2006.5841,2006.5841,"AC",2)
+K ^MAG(2006.5841,"AC",$E(X1(1),1,30),+$E(X1(2),1,30),DA)
+"IX",2006.5841,2006.5841,"AC",11.1,0)
+^.114IA^2^2
+"IX",2006.5841,2006.5841,"AC",11.1,1,0)
+1^F^2006.5841^.01^^^F
+"IX",2006.5841,2006.5841,"AC",11.1,1,3)
+
+"IX",2006.5841,2006.5841,"AC",11.1,2,0)
+2^F^2006.5841^1^^^F
+"IX",2006.5841,2006.5841,"AC",11.1,2,3)
+
+"KRN",8994,123457,-1)
+0^1
+"KRN",8994,123457,0)
+MAG3 SET TIMEOUT^TIMEOUT^MAGNTLRS^1^R
+"KRN",8994,123457,2,0)
+^8994.02A^2^2
+"KRN",8994,123457,2,1,0)
+MAGAPP^1^^1^1
+"KRN",8994,123457,2,2,0)
+MAGTIME^1^^1^2
+"KRN",8994,123457,2,"B","MAGAPP",1)
+
+"KRN",8994,123457,2,"B","MAGTIME",2)
+
+"KRN",8994,123457,2,"PARAMSEQ",1,1)
+
+"KRN",8994,123457,2,"PARAMSEQ",2,2)
+
+"KRN",8994,123458,-1)
+0^2
+"KRN",8994,123458,0)
+MAG3 TELEREADER ACQ SRVC SETUP^UASRVC^MAGNTLRS^1^R
+"KRN",8994,123458,1,0)
+^8994.01^1^1^3090807^^^^
+"KRN",8994,123458,1,1,0)
+UPDATES TELEREADER ACQUISITION SERVICE file (#2006.5841)
+"KRN",8994,123458,2,0)
+^8994.02A^1^1
+"KRN",8994,123458,2,1,0)
+MAGPARAM^2^^1
+"KRN",8994,123458,2,"B","MAGPARAM",1)
+
+"KRN",8994,123459,-1)
+0^3
+"KRN",8994,123459,0)
+MAG3 TELEREADER DHPS LIST^LDHSP^MAGNTLR2^2
+"KRN",8994,123459,1,0)
+^8994.01^1^1^3091214^
+"KRN",8994,123459,1,1,0)
+ Return all records in DICOM HEALTHCARE PROVIDER SERVICE file (#2006.5831)
+"KRN",8994,123459,3,0)
+^^10^10^3091214^
+"KRN",8994,123459,3,1,0)
+if error found during execution
+"KRN",8994,123459,3,2,0)
+  MAGRY(0) = "0^Error"
+"KRN",8994,123459,3,3,0)
+if success
+"KRN",8994,123459,3,4,0)
+   MAGRY(0)    = "1^#CNT" - where #CNT is a number of records returned
+"KRN",8994,123459,3,5,0)
+   MAGRY(1)    = "IEN^Requested Service ID^Requested Sirveice^Service Group ID^Service Group ID^
+"KRN",8994,123459,3,6,0)
+                   Service Division ID^Service Division ID^Clinic"
+"KRN",8994,123459,3,7,0)
+ 
+"KRN",8994,123459,3,8,0)
+   MAGRY(2..n) = "^" delimited string with values of fields listed in MAGRY(1)
+"KRN",8994,123459,3,9,0)
+ 
+"KRN",8994,123459,3,10,0)
+   Clinic column is tilda (~) delimited - Clinic ID~Clinic;.... 
+"KRN",8994,123460,-1)
+0^4
+"KRN",8994,123460,0)
+MAG3 TELEREADER PDR SRVC SETUP^UPSRVC^MAGNTLRS^1^R
+"KRN",8994,123460,1,0)
+^^1^1^3090807^
+"KRN",8994,123460,1,1,0)
+Add/Update/Delete a service in DICOM HEALTHCARE PROVIDER SERVICE file (#2006.5831)
+"KRN",8994,123460,2,0)
+^8994.02A^1^1
+"KRN",8994,123460,2,1,0)
+MAGPARAM^2^^1
+"KRN",8994,123460,2,"B","MAGPARAM",1)
+
+"KRN",8994,123461,-1)
+0^5
+"KRN",8994,123461,0)
+MAG3 TELEREADER READER LIST^LREADER^MAGNTLR2^2^R
+"KRN",8994,123461,1,0)
+^8994.01^1^1^3090731^
+"KRN",8994,123461,1,1,0)
+Return all records in TELEREADER READER file (#2006.5843)
+"KRN",8994,123462,-1)
+0^6
+"KRN",8994,123462,0)
+MAG3 TELEREADER READER SETUP^UREADER^MAGNTLRS^1^R
+"KRN",8994,123462,1,0)
+^^1^1^3090804^
+"KRN",8994,123462,1,1,0)
+Add/Update/Delete TELEREADER READER file (#2006.5843)
+"KRN",8994,123462,2,0)
+^8994.02A^1^1
+"KRN",8994,123462,2,1,0)
+MAGPARAM^2^^1^1
+"KRN",8994,123462,2,"B","MAGPARAM",1)
+
+"KRN",8994,123462,2,"PARAMSEQ",1,1)
+
+"KRN",8994,123463,-1)
+0^7
+"KRN",8994,123463,0)
+MAG3 TELEREADER SITE SETUP^USITE^MAGNTLRS^1^R
+"KRN",8994,123463,1,0)
+^^1^1^3090730^
+"KRN",8994,123463,1,1,0)
+ Add/Update/Delete a site in TELEREADER ACQUISITION SITE file (#2006.5842)
+"KRN",8994,123463,2,0)
+^8994.02A^1^1
+"KRN",8994,123463,2,1,0)
+MAGPARAM^2^^1^1
+"KRN",8994,123463,2,"B","MAGPARAM",1)
+
+"KRN",8994,123463,2,"PARAMSEQ",1,1)
+
+"KRN",8994,123464,-1)
+0^8
+"KRN",8994,123464,0)
+MAGDDR GETS ENTRY DATA^GETSC^MAGDDR^2^R
+"KRN",8994,123464,1,0)
+^^1^1^3090918^
+"KRN",8994,123464,1,1,0)
+Calls database server at GETS^DIQ
+"KRN",8994,123464,2,0)
+^8994.02A^1^1
+"KRN",8994,123464,2,1,0)
+MAGDDR^2^^1^1
+"KRN",8994,123464,2,1,1,0)
+^^1^1^3090918^
+"KRN",8994,123464,2,1,1,1,0)
+GETS ATTRIBUTES
+"KRN",8994,123464,2,"B","MAGDDR",1)
+
+"KRN",8994,123464,2,"PARAMSEQ",1,1)
+
+"KRN",8994,123465,-1)
+0^9
+"KRN",8994,123465,0)
+MAGDDR LISTER^LISTC^MAGDDR^4^R^^^1
+"KRN",8994,123465,2,0)
+^8994.02A^1^1
+"KRN",8994,123465,2,1,0)
+LIST ATTRIBUTES^2^512^1
+"KRN",8994,123465,2,"B","LIST ATTRIBUTES",1)
+
+"MBREQ")
+0
+"ORD",16,8994)
+8994;16;1;;;;;;;RPCDEL^XPDIA1
+"ORD",16,8994,0)
+REMOTE PROCEDURE
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+114^3100817^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^10^10^3100817
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for Patch 114, Test Build 11.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGDDR      value = 2636969
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGIP114    value = 7030232
+"PKG",454,22,1,"PAH",1,1,6,0)
+MAGNTLR2    value = 8297941
+"PKG",454,22,1,"PAH",1,1,7,0)
+MAGNTLRS    value = 20095042
+"PKG",454,22,1,"PAH",1,1,8,0)
+ 
+"PKG",454,22,1,"PAH",1,1,9,0)
+Please note that routine MAGIP114 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,10,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+4
+"RTN","MAGDDR")
+0^1^B3492873
+"RTN","MAGDDR",1,0)
+MAGDDR ;WOIFO/NST FileMan Delphi Components' RPCs ;4/28/98  10:38
+"RTN","MAGDDR",2,0)
+ ;;3.0;IMAGING;**114**;Mar 19, 2002;Build 1827;Aug 17, 2010
+"RTN","MAGDDR",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDDR",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDDR",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDDR",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDDR",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDDR",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDDR",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDDR",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDDR",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDDR",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDDR",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDDR",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDDR",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDDR",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDDR",17,0)
+ ;;
+"RTN","MAGDDR",18,0)
+ Q
+"RTN","MAGDDR",19,0)
+ ;
+"RTN","MAGDDR",20,0)
+LISTC(MAGOUT,MAGDDR) ; RPC[MAGDDR LISTER] -- broker callback to get list data
+"RTN","MAGDDR",21,0)
+ D LISTC^DDR(.MAGOUT,.MAGDDR)
+"RTN","MAGDDR",22,0)
+ Q
+"RTN","MAGDDR",23,0)
+ ;
+"RTN","MAGDDR",24,0)
+GETSC(MAGOUT,MAGDDR) ; RPC[MAGDDR GETS ENTRY DATA]
+"RTN","MAGDDR",25,0)
+ D GETSC^DDR2(.MAGOUT,.MAGDDR)
+"RTN","MAGDDR",26,0)
+ Q
+"RTN","MAGIP114")
+0^^B20155618
+"RTN","MAGIP114",1,0)
+MAGIP114  ;WOIFO/NST - INSTALL CODE FOR MAG*3.0*114 ; 22 Jun 2010 10:13 AM
+"RTN","MAGIP114",2,0)
+ ;;3.0;IMAGING;**114**;Mar 19, 2002;Build 1827;Aug 17, 2010
+"RTN","MAGIP114",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGIP114",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIP114",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIP114",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIP114",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIP114",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIP114",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIP114",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIP114",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIP114",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIP114",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIP114",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIP114",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIP114",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIP114",17,0)
+ ;;
+"RTN","MAGIP114",18,0)
+ ; There are no environment checks here but the MAGIP114 has to be
+"RTN","MAGIP114",19,0)
+ ; referenced by the "Environment Check Routine" field of the KIDS
+"RTN","MAGIP114",20,0)
+ ; build so that entry points of the routine are available to the
+"RTN","MAGIP114",21,0)
+ ; KIDS during all installation phases.
+"RTN","MAGIP114",22,0)
+ Q
+"RTN","MAGIP114",23,0)
+PRE ;
+"RTN","MAGIP114",24,0)
+ Q
+"RTN","MAGIP114",25,0)
+ ;
+"RTN","MAGIP114",26,0)
+POS ;
+"RTN","MAGIP114",27,0)
+ D ADDRPC()  ; Link new remote procedures to the Broker context option
+"RTN","MAGIP114",28,0)
+ D RPTSKCP() ; Restart the Imaging Utilization Report task
+"RTN","MAGIP114",29,0)
+ D NOTIFY()  ; Send the notification e-mail
+"RTN","MAGIP114",30,0)
+ Q
+"RTN","MAGIP114",31,0)
+ ;
+"RTN","MAGIP114",32,0)
+ADDRPC() ;
+"RTN","MAGIP114",33,0)
+ N RPCNAMES,NAME,RPCIEN,IENS,OPTIEN,I,GET,MAGFDA,DIERR
+"RTN","MAGIP114",34,0)
+ ;  1. Add RPCs to Secondary menu(s)
+"RTN","MAGIP114",35,0)
+ ;
+"RTN","MAGIP114",36,0)
+ S OPTIEN=$$LKOPT^XPDMENU("MAG WINDOWS")
+"RTN","MAGIP114",37,0)
+ I OPTIEN'>0 W !,"Error getting ""MAG WINDOWS"" context" Q
+"RTN","MAGIP114",38,0)
+ ; 
+"RTN","MAGIP114",39,0)
+ S RPCNAMES="RPCLST^"_$T(+0)
+"RTN","MAGIP114",40,0)
+ ;--- Get the list from the source code
+"RTN","MAGIP114",41,0)
+ S GET=$P(RPCNAMES,"^")_"+I^"_$P(RPCNAMES,"^",2)
+"RTN","MAGIP114",42,0)
+ S GET="S NAME=$$TRIM^XLFSTR($P($T("_GET_"),"";;"",2))"
+"RTN","MAGIP114",43,0)
+ F I=1:1  X GET  Q:NAME=""  S RPCNAMES(NAME)=""
+"RTN","MAGIP114",44,0)
+ ;
+"RTN","MAGIP114",45,0)
+ S NAME=""
+"RTN","MAGIP114",46,0)
+ F  S NAME=$O(RPCNAMES(NAME)) Q:NAME=""  D
+"RTN","MAGIP114",47,0)
+ . ;--- Check if the remote procedure exists
+"RTN","MAGIP114",48,0)
+ . S RPCIEN=$$FIND1^DIC(8994,,"X",NAME,"B",,"MAGMSG")
+"RTN","MAGIP114",49,0)
+ . I $G(DIERR) Q
+"RTN","MAGIP114",50,0)
+ . I RPCIEN'>0 Q
+"RTN","MAGIP114",51,0)
+ . ;--- Add the remote procedure to the multiple
+"RTN","MAGIP114",52,0)
+ . S IENS="?+1,"_OPTIEN_","
+"RTN","MAGIP114",53,0)
+ . S MAGFDA(19.05,IENS,.01)=RPCIEN
+"RTN","MAGIP114",54,0)
+ . D UPDATE^DIE(,"MAGFDA",,"MAGMSG")
+"RTN","MAGIP114",55,0)
+ . I $G(DIERR) W !,"Error updating ""MAG WINDOWS"" context RPC="_NAME
+"RTN","MAGIP114",56,0)
+ . ;---
+"RTN","MAGIP114",57,0)
+ . Q
+"RTN","MAGIP114",58,0)
+ Q
+"RTN","MAGIP114",59,0)
+ ;
+"RTN","MAGIP114",60,0)
+NOTIFY() ;
+"RTN","MAGIP114",61,0)
+ N CNT,CT,IENS,MAGBUF,MAGERR,MAGMSG,MAGRC,ST,Y
+"RTN","MAGIP114",62,0)
+ S MAGRC=0,IENS=XPDA_","
+"RTN","MAGIP114",63,0)
+ ;
+"RTN","MAGIP114",64,0)
+ ;--- Load the build properties from the BUILD file (#9.7)
+"RTN","MAGIP114",65,0)
+ D GETS^DIQ(9.7,IENS,".01;6;9;11;17;51","EI","MAGBUF","MAGERR")
+"RTN","MAGIP114",66,0)
+ I $G(DIERR) W !,"Error loading the build properties" Q
+"RTN","MAGIP114",67,0)
+ ;
+"RTN","MAGIP114",68,0)
+ ;--- Compile the message text
+"RTN","MAGIP114",69,0)
+ S CNT=0
+"RTN","MAGIP114",70,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIP114",71,0)
+ S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIP114",72,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XPDNM
+"RTN","MAGIP114",73,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XPDNM)
+"RTN","MAGIP114",74,0)
+ S ST=$G(MAGBUF(9.7,IENS,11,"I"))
+"RTN","MAGIP114",75,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIP114",76,0)
+ S CT=$G(MAGBUF(9.7,IENS,17,"I"))  S:+CT'=CT CT=$$NOW^XLFDT()
+"RTN","MAGIP114",77,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIP114",78,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIP114",79,0)
+ D GETENV^%ZOSV
+"RTN","MAGIP114",80,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIP114",81,0)
+ S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_$G(MAGBUF(9.7,IENS,6,"I"))
+"RTN","MAGIP114",82,0)
+ S CNT=CNT+1,MAGMSG(CNT)="DATE: "_$$NOW^XLFDT()
+"RTN","MAGIP114",83,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$G(MAGBUF(9.7,IENS,9,"E"))
+"RTN","MAGIP114",84,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$G(MAGBUF(9.7,IENS,.01,"E"))
+"RTN","MAGIP114",85,0)
+ S Y=$G(MAGBUF(9.7,IENS,51,"E"))
+"RTN","MAGIP114",86,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_Y
+"RTN","MAGIP114",87,0)
+ ;
+"RTN","MAGIP114",88,0)
+ ;--- Send the e-mail notification
+"RTN","MAGIP114",89,0)
+ D
+"RTN","MAGIP114",90,0)
+ . N DIFROM,XMERR,XMID,XMSUB,XMY,XMZ
+"RTN","MAGIP114",91,0)
+ . S XMSUB=$E(XPDNM_" INSTALLATION",1,63)
+"RTN","MAGIP114",92,0)
+ . S XMID=$G(DUZ)  S:XMID'>0 XMID=.5
+"RTN","MAGIP114",93,0)
+ . S (XMY(XMID),XMY("G.MAG SERVER"))=""
+"RTN","MAGIP114",94,0)
+ . D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ)
+"RTN","MAGIP114",95,0)
+ . Q:'$G(XMERR)
+"RTN","MAGIP114",96,0)
+ . K MAGERR  M MAGERR=^TMP("XMERR",$J)
+"RTN","MAGIP114",97,0)
+ . Q
+"RTN","MAGIP114",98,0)
+ ;
+"RTN","MAGIP114",99,0)
+ ;---
+"RTN","MAGIP114",100,0)
+ Q
+"RTN","MAGIP114",101,0)
+ ;
+"RTN","MAGIP114",102,0)
+ ;+++++ LIST OF NEW REMOTE PROCEDURES
+"RTN","MAGIP114",103,0)
+RPCLST ;
+"RTN","MAGIP114",104,0)
+ ;;MAG3 TELEREADER ACQ SRVC SETUP
+"RTN","MAGIP114",105,0)
+ ;;MAG3 TELEREADER PDR SRVC SETUP
+"RTN","MAGIP114",106,0)
+ ;;MAG3 TELEREADER SITE SETUP
+"RTN","MAGIP114",107,0)
+ ;;MAG3 TELEREADER READER LIST
+"RTN","MAGIP114",108,0)
+ ;;MAG3 TELEREADER READER SETUP
+"RTN","MAGIP114",109,0)
+ ;;MAG3 TELEREADER DHPS LIST
+"RTN","MAGIP114",110,0)
+ ;;MAG3 SET TIMEOUT
+"RTN","MAGIP114",111,0)
+ ;;MAGDDR GETS ENTRY DATA
+"RTN","MAGIP114",112,0)
+ ;;MAGDDR LISTER
+"RTN","MAGIP114",113,0)
+ ;;XWB DEFERRED RPC
+"RTN","MAGIP114",114,0)
+ ;;XWB DEFERRED STATUS
+"RTN","MAGIP114",115,0)
+ ;;XWB DEFERRED GETDATA
+"RTN","MAGIP114",116,0)
+ ;;XWB DEFERRED CLEAR
+"RTN","MAGIP114",117,0)
+ Q 0
+"RTN","MAGIP114",118,0)
+ ;
+"RTN","MAGIP114",119,0)
+ ;+++++ RESTARTS THE IMAGING UTILIZATION REPORT TASK
+"RTN","MAGIP114",120,0)
+RPTSKCP() ;
+"RTN","MAGIP114",121,0)
+ D REMTASK^MAGQE4,STTASK^MAGQE4
+"RTN","MAGIP114",122,0)
+ Q 0
+"RTN","MAGNTLR2")
+0^2^B26968313
+"RTN","MAGNTLR2",1,0)
+MAGNTLR2 ;WOIFO/NST - TeleReader Configuration  ; 21 Jun 2010 12:19 PM
+"RTN","MAGNTLR2",2,0)
+ ;;3.0;IMAGING;**114**;Mar 19, 2002;Build 1827;Aug 17, 2010
+"RTN","MAGNTLR2",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGNTLR2",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGNTLR2",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGNTLR2",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGNTLR2",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGNTLR2",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGNTLR2",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGNTLR2",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGNTLR2",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGNTLR2",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGNTLR2",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGNTLR2",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGNTLR2",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGNTLR2",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGNTLR2",17,0)
+ ;;
+"RTN","MAGNTLR2",18,0)
+ Q
+"RTN","MAGNTLR2",19,0)
+ ;***** Return all records in TELEREADER READER file (#2006.5843)
+"RTN","MAGNTLR2",20,0)
+ ; RPC: MAG3 TELEREADER READER LIST
+"RTN","MAGNTLR2",21,0)
+ ;
+"RTN","MAGNTLR2",22,0)
+ ; Input Parameters
+"RTN","MAGNTLR2",23,0)
+ ; ================
+"RTN","MAGNTLR2",24,0)
+ ;  No input parameters
+"RTN","MAGNTLR2",25,0)
+ ;  
+"RTN","MAGNTLR2",26,0)
+ ; Return Values
+"RTN","MAGNTLR2",27,0)
+ ; =============
+"RTN","MAGNTLR2",28,0)
+ ; if error found during execution
+"RTN","MAGNTLR2",29,0)
+ ;   MAGRY(0) = "0^Error"
+"RTN","MAGNTLR2",30,0)
+ ; if success
+"RTN","MAGNTLR2",31,0)
+ ;   MAGRY(0)    = "1^#CNT" - where #CNT is a number of records returned
+"RTN","MAGNTLR2",32,0)
+ ;   MAGRY(1)    = "Reader ID^Reader Name^AQ Site ID^AQ Site^AQ Status^
+"RTN","MAGNTLR2",33,0)
+ ;                   Specialty ID^Specialty^Specialty Status^
+"RTN","MAGNTLR2",34,0)
+ ;                   Procedure ID^Procedure^Procedure Status^Procedure User Pref"
+"RTN","MAGNTLR2",35,0)
+ ;   MAGRY(2..n) = "^" delimited string with values of fields listed in MAGRY(1) 
+"RTN","MAGNTLR2",36,0)
+ ;
+"RTN","MAGNTLR2",37,0)
+LREADER(MAGRY) ;RPC [MAG3 TELEREADER READER LIST]
+"RTN","MAGNTLR2",38,0)
+ ;
+"RTN","MAGNTLR2",39,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGGTERR"
+"RTN","MAGNTLR2",40,0)
+ ;
+"RTN","MAGNTLR2",41,0)
+ N D0,D1,D2
+"RTN","MAGNTLR2",42,0)
+ N I0,I1,I2,I3
+"RTN","MAGNTLR2",43,0)
+ N OUT0,OUT1,OUT2,OUT3
+"RTN","MAGNTLR2",44,0)
+ N MSG0,MSG1,MSG2,MSG3
+"RTN","MAGNTLR2",45,0)
+ N CNT
+"RTN","MAGNTLR2",46,0)
+ N RVAL,RNAME
+"RTN","MAGNTLR2",47,0)
+ N ACQSITE,ACQSITES,ACQSITEN,ACQSITST
+"RTN","MAGNTLR2",48,0)
+ N SPECIDX,SPECIDXS,SPECIDXN
+"RTN","MAGNTLR2",49,0)
+ N PROCIDX,PROCIDXS,PROCIDXU,PROCIDXN
+"RTN","MAGNTLR2",50,0)
+ ;
+"RTN","MAGNTLR2",51,0)
+ S MAGRY(0)="0^Error"
+"RTN","MAGNTLR2",52,0)
+ S MAGRY(1)="Reader ID^Reader Name^AQ Site ID^AQ Site^AQ Station^AQ Status^"
+"RTN","MAGNTLR2",53,0)
+ S MAGRY(1)=MAGRY(1)_"Specialty ID^Specialty^Specialty Status^"
+"RTN","MAGNTLR2",54,0)
+ S MAGRY(1)=MAGRY(1)_"Procedure ID^Procedure^Procedure Status^Procedure User Pref"
+"RTN","MAGNTLR2",55,0)
+ S CNT=1 ; Will skip 0 and 1
+"RTN","MAGNTLR2",56,0)
+ S I0=0
+"RTN","MAGNTLR2",57,0)
+ D LIST^DIC(2006.5843,"","@;.01I;.01",,,,,,,,"OUT0","MSG0")
+"RTN","MAGNTLR2",58,0)
+ F  S I0=$O(OUT0("DILIST","ID",I0)) Q:'I0  D
+"RTN","MAGNTLR2",59,0)
+ . S RVAL=OUT0("DILIST","ID",I0,".01","I")
+"RTN","MAGNTLR2",60,0)
+ . S RNAME=OUT0("DILIST","ID",I0,".01","E")
+"RTN","MAGNTLR2",61,0)
+ . S D0=OUT0("DILIST","2",I0)
+"RTN","MAGNTLR2",62,0)
+ . D LIST^DIC(2006.58431,","_D0_",","@;.01I;.01;.5I",,,,,,,,"OUT1","MSG1")
+"RTN","MAGNTLR2",63,0)
+ . S I1=0
+"RTN","MAGNTLR2",64,0)
+ . F  S I1=$O(OUT1("DILIST","ID",I1)) Q:'I1  D
+"RTN","MAGNTLR2",65,0)
+ . . S ACQSITE=OUT1("DILIST","ID",I1,".01","I")
+"RTN","MAGNTLR2",66,0)
+ . . S ACQSITEN=OUT1("DILIST","ID",I1,".01","E")
+"RTN","MAGNTLR2",67,0)
+ . . S ACQSITST=$$GET1^DIQ(4,ACQSITE,99)
+"RTN","MAGNTLR2",68,0)
+ . . S ACQSITES=OUT1("DILIST","ID",I1,".5")
+"RTN","MAGNTLR2",69,0)
+ . . S D1=OUT1("DILIST","2",I1)
+"RTN","MAGNTLR2",70,0)
+ . . D LIST^DIC(2006.584311,","_D1_","_D0_",","@;.01I;.01;.5I",,,,,,,,"OUT2","MSG2")
+"RTN","MAGNTLR2",71,0)
+ . . S I2=0
+"RTN","MAGNTLR2",72,0)
+ . . F  S I2=$O(OUT2("DILIST","ID",I2)) Q:'I2  D
+"RTN","MAGNTLR2",73,0)
+ . . . S SPECIDX=OUT2("DILIST","ID",I2,".01","I")
+"RTN","MAGNTLR2",74,0)
+ . . . S SPECIDXN=OUT2("DILIST","ID",I2,".01","E")
+"RTN","MAGNTLR2",75,0)
+ . . . S SPECIDXS=OUT2("DILIST","ID",I2,".5")
+"RTN","MAGNTLR2",76,0)
+ . . . S D2=OUT2("DILIST","2",I2)
+"RTN","MAGNTLR2",77,0)
+ . . . D LIST^DIC(2006.5843111,","_D2_","_D1_","_D0_",","@;.01I;.01;.5I;1I",,,,,,,,"OUT3","MSG3")
+"RTN","MAGNTLR2",78,0)
+ . . . S I3=0
+"RTN","MAGNTLR2",79,0)
+ . . . F  S I3=$O(OUT3("DILIST","ID",I3)) Q:'I3  D
+"RTN","MAGNTLR2",80,0)
+ . . . . S PROCIDX=OUT3("DILIST","ID",I3,".01","I")
+"RTN","MAGNTLR2",81,0)
+ . . . . S PROCIDXN=OUT3("DILIST","ID",I3,".01","E")
+"RTN","MAGNTLR2",82,0)
+ . . . . S PROCIDXS=OUT3("DILIST","ID",I3,".5")
+"RTN","MAGNTLR2",83,0)
+ . . . . S PROCIDXU=OUT3("DILIST","ID",I3,"1")
+"RTN","MAGNTLR2",84,0)
+ . . . . S CNT=CNT+1
+"RTN","MAGNTLR2",85,0)
+ . . . . S MAGRY(CNT)=RVAL_U_RNAME_U_ACQSITE_U_ACQSITEN_U_ACQSITST_U_ACQSITES
+"RTN","MAGNTLR2",86,0)
+ . . . . S MAGRY(CNT)=MAGRY(CNT)_U_SPECIDX_U_SPECIDXN_U_SPECIDXS
+"RTN","MAGNTLR2",87,0)
+ . . . . S MAGRY(CNT)=MAGRY(CNT)_U_PROCIDX_U_PROCIDXN_U_PROCIDXS_U_PROCIDXU
+"RTN","MAGNTLR2",88,0)
+ . . . . Q
+"RTN","MAGNTLR2",89,0)
+ . . . Q
+"RTN","MAGNTLR2",90,0)
+ . . Q
+"RTN","MAGNTLR2",91,0)
+ . Q
+"RTN","MAGNTLR2",92,0)
+ S MAGRY(0)="1^"_(CNT-1)
+"RTN","MAGNTLR2",93,0)
+ Q
+"RTN","MAGNTLR2",94,0)
+ ;
+"RTN","MAGNTLR2",95,0)
+ ;***** Return all records in DICOM HEALTHCARE PROVIDER SERVICE file (#2006.5831)
+"RTN","MAGNTLR2",96,0)
+ ; RPC: MAG3 TELEREADER DHPS LIST
+"RTN","MAGNTLR2",97,0)
+ ;
+"RTN","MAGNTLR2",98,0)
+ ; Input Parameters
+"RTN","MAGNTLR2",99,0)
+ ; ================
+"RTN","MAGNTLR2",100,0)
+ ;  No input parameters
+"RTN","MAGNTLR2",101,0)
+ ;  
+"RTN","MAGNTLR2",102,0)
+ ; Return Values
+"RTN","MAGNTLR2",103,0)
+ ; =============
+"RTN","MAGNTLR2",104,0)
+ ; if error found during execution
+"RTN","MAGNTLR2",105,0)
+ ;   MAGRY(0) = "0^Error"
+"RTN","MAGNTLR2",106,0)
+ ; if success
+"RTN","MAGNTLR2",107,0)
+ ;   MAGRY(0)    = "1^#CNT" - where #CNT is a number of records returned
+"RTN","MAGNTLR2",108,0)
+ ;   MAGRY(1)    = "IEN^Requested Service ID^Requested Service^Service Group ID^Service Group ID^
+"RTN","MAGNTLR2",109,0)
+ ;                   Service Division ID^Service Division ID^Clinic"
+"RTN","MAGNTLR2",110,0)
+ ;                 
+"RTN","MAGNTLR2",111,0)
+ ;   MAGRY(2..n) = "^" delimited string with values of fields listed in MAGRY(1)
+"RTN","MAGNTLR2",112,0)
+ ;   
+"RTN","MAGNTLR2",113,0)
+ ;   Clinic column is tilda delimited - Clinic ID~Clinic~.... 
+"RTN","MAGNTLR2",114,0)
+ ; 
+"RTN","MAGNTLR2",115,0)
+LDHSP(MAGRY) ;RPC [MAG3 TELEREADER DHPS LIST]
+"RTN","MAGNTLR2",116,0)
+ ;
+"RTN","MAGNTLR2",117,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGGTERR"
+"RTN","MAGNTLR2",118,0)
+ ;
+"RTN","MAGNTLR2",119,0)
+ N I0,I1,D0
+"RTN","MAGNTLR2",120,0)
+ N CNT,DEL,DEL1,MLTPL
+"RTN","MAGNTLR2",121,0)
+ N OUT,OUT1,MSG,MSG1
+"RTN","MAGNTLR2",122,0)
+ K MAGRY,OUT,MSG
+"RTN","MAGNTLR2",123,0)
+ S MAGRY(0)="0^Error"
+"RTN","MAGNTLR2",124,0)
+ S MAGRY(1)="Requested Service ID^Requested Service^Service Group ID^Service Group ID^"
+"RTN","MAGNTLR2",125,0)
+ S MAGRY(1)=MAGRY(1)_"Service Division ID^Service Division ID^Clinic"
+"RTN","MAGNTLR2",126,0)
+ D LIST^DIC(2006.5831,"","@;.01I;.01;2I;2;3I;3",,,,,,,,"OUT","MSG")
+"RTN","MAGNTLR2",127,0)
+ Q:$D(MSG("DIERR"))
+"RTN","MAGNTLR2",128,0)
+ S CNT=1 ; Will skip 0 and 1
+"RTN","MAGNTLR2",129,0)
+ S I0=0
+"RTN","MAGNTLR2",130,0)
+ F  S I0=$O(OUT("DILIST","ID",I0)) Q:'I0  D
+"RTN","MAGNTLR2",131,0)
+ . S D0=OUT("DILIST",2,I0)
+"RTN","MAGNTLR2",132,0)
+ . S CNT=CNT+1
+"RTN","MAGNTLR2",133,0)
+ . S MAGRY(CNT)=D0
+"RTN","MAGNTLR2",134,0)
+ . S MAGRY(CNT)=MAGRY(CNT)_U_OUT("DILIST","ID",I0,".01","I")_U_OUT("DILIST","ID",I0,".01","E")
+"RTN","MAGNTLR2",135,0)
+ . S MAGRY(CNT)=MAGRY(CNT)_U_OUT("DILIST","ID",I0,"2","I")_U_OUT("DILIST","ID",I0,"2","E")
+"RTN","MAGNTLR2",136,0)
+ . S MAGRY(CNT)=MAGRY(CNT)_U_OUT("DILIST","ID",I0,"3","I")_U_OUT("DILIST","ID",I0,"3","E")
+"RTN","MAGNTLR2",137,0)
+ . K OUT1,MSG1
+"RTN","MAGNTLR2",138,0)
+ . D LIST^DIC(2006.58314,","_D0_",","@;.01I;.01",,,,,,,,"OUT1","MSG1")
+"RTN","MAGNTLR2",139,0)
+ . S I1=0
+"RTN","MAGNTLR2",140,0)
+ . S MLTPL=""
+"RTN","MAGNTLR2",141,0)
+ . S DEL="",DEL1="~"
+"RTN","MAGNTLR2",142,0)
+ . F  S I1=$O(OUT1("DILIST","ID",I1)) Q:'I1  D
+"RTN","MAGNTLR2",143,0)
+ . . S MLTPL=MLTPL_DEL_OUT1("DILIST","ID",I1,".01","I")_DEL1_OUT1("DILIST","ID",I1,".01","E")
+"RTN","MAGNTLR2",144,0)
+ . . S DEL=DEL1
+"RTN","MAGNTLR2",145,0)
+ . . Q
+"RTN","MAGNTLR2",146,0)
+ . S MAGRY(CNT)=MAGRY(CNT)_U_MLTPL
+"RTN","MAGNTLR2",147,0)
+ . Q
+"RTN","MAGNTLR2",148,0)
+ S MAGRY(0)="1^"_(CNT-1)
+"RTN","MAGNTLR2",149,0)
+ Q
+"RTN","MAGNTLRS")
+0^3^B186626605
+"RTN","MAGNTLRS",1,0)
+MAGNTLRS ;WOIFO/NST - TeleReader Configuration  ; 26 May 2010 5:11 PM
+"RTN","MAGNTLRS",2,0)
+ ;;3.0;IMAGING;**114**;Mar 19, 2002;Build 1827;Aug 17, 2010
+"RTN","MAGNTLRS",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGNTLRS",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGNTLRS",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGNTLRS",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGNTLRS",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGNTLRS",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGNTLRS",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGNTLRS",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGNTLRS",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGNTLRS",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGNTLRS",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGNTLRS",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGNTLRS",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGNTLRS",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGNTLRS",17,0)
+ ;;
+"RTN","MAGNTLRS",18,0)
+ Q
+"RTN","MAGNTLRS",19,0)
+ ;
+"RTN","MAGNTLRS",20,0)
+ ;***** Add/Update/Delete a service in TELEREADER ACQUISITION SERVICE file (#2006.5841)
+"RTN","MAGNTLRS",21,0)
+ ; RPC: MAG3 TELEREADER ACQ SRVC SETUP
+"RTN","MAGNTLRS",22,0)
+ ;
+"RTN","MAGNTLRS",23,0)
+ ; Input Parameters
+"RTN","MAGNTLRS",24,0)
+ ; ================
+"RTN","MAGNTLRS",25,0)
+ ;   Delete action:
+"RTN","MAGNTLRS",26,0)
+ ;     MAGPARAM("ACTION")           = "DELETE"
+"RTN","MAGNTLRS",27,0)
+ ;     MAGPARAM("IEN")              = IEN of the record that will be deleted
+"RTN","MAGNTLRS",28,0)
+ ;   Add or Update action:
+"RTN","MAGNTLRS",29,0)
+ ;     MAGPARAM("ACTION")           = "ADD" or "UPDATE"
+"RTN","MAGNTLRS",30,0)
+ ;     MAGPARAM("NAME")             = A pointer to REQUEST SERVICES file (#123.5)
+"RTN","MAGNTLRS",31,0)
+ ;     MAGPARAM("PROCEDURE")        = A pointer to GMRC PROCEDURE file (#123.5)
+"RTN","MAGNTLRS",32,0)
+ ;     MAGPARAM("SPECIALTY INDEX")  = A pointer to the SPECIALTY file (#2005.84)
+"RTN","MAGNTLRS",33,0)
+ ;     MAGPARAM("PROCEDURE INDEX")  = A pointer to the PROCEDURE/EVENT file (#2005.85)
+"RTN","MAGNTLRS",34,0)
+ ;     MAGPARAM("ACQUISITION SITE") = A pointer to the INSTITUTION file (#4) 
+"RTN","MAGNTLRS",35,0)
+ ;     MAGPARAM("UNREAD LIST CREATION TRIGGER") = I/O/F
+"RTN","MAGNTLRS",36,0)
+ ;     MAGPARAM("TIU NOTE FILE")    = A pointer to TIU DOCUMENT file (#8925.1)
+"RTN","MAGNTLRS",37,0)
+ ; 
+"RTN","MAGNTLRS",38,0)
+ ; Return Values
+"RTN","MAGNTLRS",39,0)
+ ; =============
+"RTN","MAGNTLRS",40,0)
+ ; if error MAGRY = "0^Error"
+"RTN","MAGNTLRS",41,0)
+ ; if success MAGRY = "1^IEN" - IEN of the record that is updated
+"RTN","MAGNTLRS",42,0)
+ ;                               or IEN of the added record
+"RTN","MAGNTLRS",43,0)
+ ;
+"RTN","MAGNTLRS",44,0)
+UASRVC(MAGRY,MAGPARAM) ;RPC [MAG3 TELEREADER ACQ SRVC SETUP]
+"RTN","MAGNTLRS",45,0)
+ ;
+"RTN","MAGNTLRS",46,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGGTERR"
+"RTN","MAGNTLRS",47,0)
+ ;
+"RTN","MAGNTLRS",48,0)
+ N X,MAGNFDA,MAGNIEN,MAGNXE,IENS,MAGRESA
+"RTN","MAGNTLRS",49,0)
+ N DA,DIK
+"RTN","MAGNTLRS",50,0)
+ ;
+"RTN","MAGNTLRS",51,0)
+ ;^MAG(2006.5841,D0,0)=1=NAME, 2=PROCEDURE, 3=SPECIALTY INDEX, 4=PROCEDURE INDEX,
+"RTN","MAGNTLRS",52,0)
+ ;                     5=ACQUISITION SITE, 6=UNREAD LIST CREATION TRIGGER, 7=TIU NOTE FILE
+"RTN","MAGNTLRS",53,0)
+ ;
+"RTN","MAGNTLRS",54,0)
+ I MAGPARAM("ACTION")="DELETE" D  Q  ; Delete an entry IEN and exit
+"RTN","MAGNTLRS",55,0)
+ . S DIK="^MAG(2006.5841,"
+"RTN","MAGNTLRS",56,0)
+ . S DA=MAGPARAM("IEN")
+"RTN","MAGNTLRS",57,0)
+ . D ^DIK
+"RTN","MAGNTLRS",58,0)
+ . S MAGRY=1
+"RTN","MAGNTLRS",59,0)
+ . Q
+"RTN","MAGNTLRS",60,0)
+ ;
+"RTN","MAGNTLRS",61,0)
+ S MAGRY=""
+"RTN","MAGNTLRS",62,0)
+ I MAGPARAM("ACTION")="ADD" D  Q:MAGRY'=""  ; Quit if a service already exists
+"RTN","MAGNTLRS",63,0)
+ . D FIND^DIC(2006.5841,"","@;IX","PQX",MAGPARAM("NAME"),"1","B","","","X")
+"RTN","MAGNTLRS",64,0)
+ . I $D(X("DILIST","1",0)) S MAGRY="0^Service already exists"
+"RTN","MAGNTLRS",65,0)
+ . S IENS="+1,"
+"RTN","MAGNTLRS",66,0)
+ E  S IENS=MAGPARAM("IEN")_",",MAGNIEN(1)=MAGPARAM("IEN")
+"RTN","MAGNTLRS",67,0)
+ ;  
+"RTN","MAGNTLRS",68,0)
+ S MAGNFDA(2006.5841,IENS,.01)=MAGPARAM("NAME")
+"RTN","MAGNTLRS",69,0)
+ S MAGNFDA(2006.5841,IENS,1)=MAGPARAM("PROCEDURE")
+"RTN","MAGNTLRS",70,0)
+ S MAGNFDA(2006.5841,IENS,2)=MAGPARAM("SPECIALTY INDEX")
+"RTN","MAGNTLRS",71,0)
+ S MAGNFDA(2006.5841,IENS,3)=MAGPARAM("PROCEDURE INDEX")
+"RTN","MAGNTLRS",72,0)
+ S MAGNFDA(2006.5841,IENS,4)=MAGPARAM("ACQUISITION SITE")
+"RTN","MAGNTLRS",73,0)
+ S MAGNFDA(2006.5841,IENS,5)=MAGPARAM("UNREAD LIST CREATION TRIGGER")
+"RTN","MAGNTLRS",74,0)
+ S MAGNFDA(2006.5841,IENS,6)=MAGPARAM("TIU NOTE FILE")
+"RTN","MAGNTLRS",75,0)
+ ;
+"RTN","MAGNTLRS",76,0)
+ D UPDATE^DIE("SK","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",77,0)
+ ;
+"RTN","MAGNTLRS",78,0)
+ I $D(MAGNXE("DIERR","E")) D  Q
+"RTN","MAGNTLRS",79,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",80,0)
+ . S MAGRY="0^"_MAGRESA(1)
+"RTN","MAGNTLRS",81,0)
+ . Q
+"RTN","MAGNTLRS",82,0)
+ E  S MAGRY="1^"_MAGNIEN(1)
+"RTN","MAGNTLRS",83,0)
+ Q
+"RTN","MAGNTLRS",84,0)
+ ;
+"RTN","MAGNTLRS",85,0)
+ ;***** Add/Update/Delete a service in DICOM HEALTHCARE PROVIDER SERVICE file (#2006.5831)
+"RTN","MAGNTLRS",86,0)
+ ; RPC: MAG3 TELEREADER PDR SRVC SETUP
+"RTN","MAGNTLRS",87,0)
+ ;
+"RTN","MAGNTLRS",88,0)
+ ; Input Parameters
+"RTN","MAGNTLRS",89,0)
+ ; ================
+"RTN","MAGNTLRS",90,0)
+ ;   Delete action:
+"RTN","MAGNTLRS",91,0)
+ ;     MAGPARAM("ACTION")            = "DELETE"
+"RTN","MAGNTLRS",92,0)
+ ;     MAGPARAM("IEN")               = IEN of the record that will be deleted
+"RTN","MAGNTLRS",93,0)
+ ;   Add or Update action:
+"RTN","MAGNTLRS",94,0)
+ ;     MAGPARAM("ACTION")            = "ADD" or "UPDATE"
+"RTN","MAGNTLRS",95,0)
+ ;     MAGPARAM("REQUESTED SERVICE") = A pointer to the "Request Services" file (#123.5)
+"RTN","MAGNTLRS",96,0)
+ ;     MAGPARAM("SERVICE GROUP")     = A pointer to the SPECIALTY file (#2005.84)
+"RTN","MAGNTLRS",97,0)
+ ;     MAGPARAM("SERVICE DIVISION")  = A pointer to the INSTITUTION file (#4)
+"RTN","MAGNTLRS",98,0)
+ ;     MAGPARAM("CLINIC")            = "^" delimited string with clinics IENS in file (#44)
+"RTN","MAGNTLRS",99,0)
+ ; 
+"RTN","MAGNTLRS",100,0)
+ ; Return Values
+"RTN","MAGNTLRS",101,0)
+ ; =============
+"RTN","MAGNTLRS",102,0)
+ ; if error MAGRY = "0^Error"
+"RTN","MAGNTLRS",103,0)
+ ; if success MAGRY = "1^IEN" - IEN of the record that is updated
+"RTN","MAGNTLRS",104,0)
+ ;                               or IEN of the added record
+"RTN","MAGNTLRS",105,0)
+ ;
+"RTN","MAGNTLRS",106,0)
+UPSRVC(MAGRY,MAGPARAM) ;RPC [MAG3 TELEREADER PDR SRVC SETUP]
+"RTN","MAGNTLRS",107,0)
+ ;
+"RTN","MAGNTLRS",108,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGGTERR"
+"RTN","MAGNTLRS",109,0)
+ ;
+"RTN","MAGNTLRS",110,0)
+ N X,MAGNFDA,MAGNIEN,MAGNXE,IENS,IEN,MAGRESA
+"RTN","MAGNTLRS",111,0)
+ N DA,DIK
+"RTN","MAGNTLRS",112,0)
+ ;
+"RTN","MAGNTLRS",113,0)
+ ;^MAG(2006.5831,D0,0)=1=REQUESTED SERVICE, 2=SERVICE GROUP, 3=SERVICE DIVISION
+"RTN","MAGNTLRS",114,0)
+ ;
+"RTN","MAGNTLRS",115,0)
+ I MAGPARAM("ACTION")="DELETE" D  Q  ; Delete an entry IEN and exit
+"RTN","MAGNTLRS",116,0)
+ . S DIK="^MAG(2006.5831,"
+"RTN","MAGNTLRS",117,0)
+ . S DA=MAGPARAM("IEN")
+"RTN","MAGNTLRS",118,0)
+ . D ^DIK
+"RTN","MAGNTLRS",119,0)
+ . S MAGRY=1
+"RTN","MAGNTLRS",120,0)
+ . Q
+"RTN","MAGNTLRS",121,0)
+ ;
+"RTN","MAGNTLRS",122,0)
+ S MAGRY=""
+"RTN","MAGNTLRS",123,0)
+ I MAGPARAM("ACTION")="ADD" D  Q:MAGRY'=""  ; Quit if a service already exists
+"RTN","MAGNTLRS",124,0)
+ . D FIND^DIC(2006.5831,"","@;IX","PQX",MAGPARAM("REQUESTED SERVICE"),"1","","","","X")
+"RTN","MAGNTLRS",125,0)
+ . I $D(X("DILIST","1",0)) S MAGRY="0^Service already exists"
+"RTN","MAGNTLRS",126,0)
+ . S IENS="+1,"
+"RTN","MAGNTLRS",127,0)
+ . S MAGNIEN(1)=MAGPARAM("REQUESTED SERVICE") ; if you add a new item using P^DI the new IEN will be value of field "NAME" (#.01)
+"RTN","MAGNTLRS",128,0)
+ . Q
+"RTN","MAGNTLRS",129,0)
+ E  S IENS=MAGPARAM("IEN")_",",MAGNIEN(1)=MAGPARAM("IEN")
+"RTN","MAGNTLRS",130,0)
+ ;  
+"RTN","MAGNTLRS",131,0)
+ S MAGNFDA(2006.5831,IENS,.01)=MAGPARAM("REQUESTED SERVICE")
+"RTN","MAGNTLRS",132,0)
+ S MAGNFDA(2006.5831,IENS,2)=MAGPARAM("SERVICE GROUP")
+"RTN","MAGNTLRS",133,0)
+ S MAGNFDA(2006.5831,IENS,3)=MAGPARAM("SERVICE DIVISION")
+"RTN","MAGNTLRS",134,0)
+ ;
+"RTN","MAGNTLRS",135,0)
+ D UPDATE^DIE("SK","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",136,0)
+ ;
+"RTN","MAGNTLRS",137,0)
+ I $D(MAGNXE("DIERR","E")) D  Q
+"RTN","MAGNTLRS",138,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",139,0)
+ . S MAGRY="0^"_MAGRESA(1)
+"RTN","MAGNTLRS",140,0)
+ . Q
+"RTN","MAGNTLRS",141,0)
+ ;
+"RTN","MAGNTLRS",142,0)
+ I $D(MAGPARAM("CLINIC")) I '$$UCLINIC^MAGNTLRS(.MAGRY,MAGPARAM("CLINIC"),MAGNIEN(1)) Q
+"RTN","MAGNTLRS",143,0)
+ ;
+"RTN","MAGNTLRS",144,0)
+ S MAGRY="1^"_MAGNIEN(1)
+"RTN","MAGNTLRS",145,0)
+ Q
+"RTN","MAGNTLRS",146,0)
+ ; #######################
+"RTN","MAGNTLRS",147,0)
+ ; UCLINIC -  Update Clinic multiple field in file #2006.5831
+"RTN","MAGNTLRS",148,0)
+ ;
+"RTN","MAGNTLRS",149,0)
+ ; Returns 0 if failed
+"RTN","MAGNTLRS",150,0)
+ ;         1 success
+"RTN","MAGNTLRS",151,0)
+ ; Input parameters
+"RTN","MAGNTLRS",152,0)
+ ;   CLINS = "^" delimited string with clinics IENS
+"RTN","MAGNTLRS",153,0)
+ ;   IEN   = IEN in file #2006.5831
+"RTN","MAGNTLRS",154,0)
+ ;
+"RTN","MAGNTLRS",155,0)
+ ; Output parameters
+"RTN","MAGNTLRS",156,0)
+ ;   RES = "0^Error"
+"RTN","MAGNTLRS",157,0)
+ ;
+"RTN","MAGNTLRS",158,0)
+UCLINIC(RES,CLINS,IEN) ; Update Clinic field in file #2006.58314
+"RTN","MAGNTLRS",159,0)
+ N CLIN,CLINA,OUT,MSG,I
+"RTN","MAGNTLRS",160,0)
+ N DA,DIK
+"RTN","MAGNTLRS",161,0)
+ N MAGNFDA,MAGNXE,MAGNIEN
+"RTN","MAGNTLRS",162,0)
+ S RES=""
+"RTN","MAGNTLRS",163,0)
+ D LIST^DIC(2006.58314,","_IEN_",","@;.01I","",,,,,,,"OUT","MSG")
+"RTN","MAGNTLRS",164,0)
+ I $D(MSG("DIERR","E")) S RES="0^Error updating CLINIC field" Q 0
+"RTN","MAGNTLRS",165,0)
+ ;
+"RTN","MAGNTLRS",166,0)
+ S DA(1)=IEN  ; set the variables so we can perform deletion of multiple if needed
+"RTN","MAGNTLRS",167,0)
+ S DIK="^MAG(2006.5831,"_IEN_",1,"
+"RTN","MAGNTLRS",168,0)
+ ;
+"RTN","MAGNTLRS",169,0)
+ F I=1:1 S CLIN=$P(CLINS,"^",I) Q:CLIN=""  S CLINA(CLIN)=""
+"RTN","MAGNTLRS",170,0)
+ ;
+"RTN","MAGNTLRS",171,0)
+ ; delete multiple if they are not present in CLINA (CLINS)
+"RTN","MAGNTLRS",172,0)
+ S I=0
+"RTN","MAGNTLRS",173,0)
+ F  S I=$O(OUT("DILIST","ID",I)) Q:'I  D
+"RTN","MAGNTLRS",174,0)
+ . S CLIN=OUT("DILIST","ID",I,".01")
+"RTN","MAGNTLRS",175,0)
+ . I $D(CLINA(CLIN)) K CLINA(CLIN) Q   ; The Clin ID exists in multiple. Delete from CLINA and continue
+"RTN","MAGNTLRS",176,0)
+ . S DA=OUT("DILIST","2",I)
+"RTN","MAGNTLRS",177,0)
+ . D ^DIK
+"RTN","MAGNTLRS",178,0)
+ . Q 
+"RTN","MAGNTLRS",179,0)
+ ;
+"RTN","MAGNTLRS",180,0)
+ ; insert the new multiples
+"RTN","MAGNTLRS",181,0)
+ S CLIN=""
+"RTN","MAGNTLRS",182,0)
+ F  S CLIN=$O(CLINA(CLIN)) Q:CLIN=""  Q:RES'=""  D
+"RTN","MAGNTLRS",183,0)
+ . K MAGNFDA,MAGNXE,MAGNIEN
+"RTN","MAGNTLRS",184,0)
+ . S MAGNFDA(2006.58314,"+1,"_IEN_",",.01)=CLIN
+"RTN","MAGNTLRS",185,0)
+ . D UPDATE^DIE("","MAGNFDA","","MAGNXE")
+"RTN","MAGNTLRS",186,0)
+ . I $D(MAGNXE("DIERR","E")) S RES="0^Error inserting CLINIC field " Q
+"RTN","MAGNTLRS",187,0)
+ . Q
+"RTN","MAGNTLRS",188,0)
+ Q $S(RES="":1,1:0)  ; return 
+"RTN","MAGNTLRS",189,0)
+ ;
+"RTN","MAGNTLRS",190,0)
+ ;***** Add/Update/Delete a site in TELEREADER ACQUISITION SITE file (#2006.5842)
+"RTN","MAGNTLRS",191,0)
+ ; RPC: MAG3 TELEREADER SITE SETUP
+"RTN","MAGNTLRS",192,0)
+ ;
+"RTN","MAGNTLRS",193,0)
+ ; Input Parameters
+"RTN","MAGNTLRS",194,0)
+ ; ================
+"RTN","MAGNTLRS",195,0)
+ ;   Delete action:
+"RTN","MAGNTLRS",196,0)
+ ;     MAGPARAM("ACTION")                  = "DELETE"
+"RTN","MAGNTLRS",197,0)
+ ;     MAGPARAM("IEN")                     = IEN of the record that will be deleted
+"RTN","MAGNTLRS",198,0)
+ ;   Add or Update action:
+"RTN","MAGNTLRS",199,0)
+ ;     MAGPARAM("ACTION")                  = "ADD" or "UPDATE"
+"RTN","MAGNTLRS",200,0)
+ ;     MAGPARAM("NAME")                    = A pointer to the INSTITUTION file (#4)
+"RTN","MAGNTLRS",201,0)
+ ;     MAGPARAM("PRIMARY SITE")            = A pointer to the INSTITUTION file (#4)
+"RTN","MAGNTLRS",202,0)
+ ;     MAGPARAM("STATUS")                  = 0 or 1 (Active or Inactive)
+"RTN","MAGNTLRS",203,0)
+ ;     MAGPARAM("LOCK TIMEOUT IN MINUTES") = value of field #3 of file (#2006.5842)
+"RTN","MAGNTLRS",204,0)
+ ;
+"RTN","MAGNTLRS",205,0)
+ ; Return Values
+"RTN","MAGNTLRS",206,0)
+ ; =============
+"RTN","MAGNTLRS",207,0)
+ ; if error MAGRY = "0^Error"
+"RTN","MAGNTLRS",208,0)
+ ; if success MAGRY = "1^IEN" - IEN of the record that is updated
+"RTN","MAGNTLRS",209,0)
+ ;                               or IEN of the added record
+"RTN","MAGNTLRS",210,0)
+ ;
+"RTN","MAGNTLRS",211,0)
+USITE(MAGRY,MAGPARAM) ;RPC [MAG3 TELEREADER SITE SETUP]
+"RTN","MAGNTLRS",212,0)
+ ;
+"RTN","MAGNTLRS",213,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGGTERR"
+"RTN","MAGNTLRS",214,0)
+ ;
+"RTN","MAGNTLRS",215,0)
+ N X,MAGNFDA,MAGNIEN,MAGNXE,IENS,MAGRESA
+"RTN","MAGNTLRS",216,0)
+ N DA,DIK
+"RTN","MAGNTLRS",217,0)
+ ;
+"RTN","MAGNTLRS",218,0)
+ ;^MAG(2006.5842,D0,0)=1=NAME,2=PRIMARY SITE,3=STATUS,4=LOCK TIMEOUT IN MINUTES
+"RTN","MAGNTLRS",219,0)
+ ;
+"RTN","MAGNTLRS",220,0)
+ I MAGPARAM("ACTION")="DELETE" D  Q  ; Delete an entry IEN and exit
+"RTN","MAGNTLRS",221,0)
+ . S DIK="^MAG(2006.5842,"
+"RTN","MAGNTLRS",222,0)
+ . S DA=MAGPARAM("IEN")
+"RTN","MAGNTLRS",223,0)
+ . D ^DIK
+"RTN","MAGNTLRS",224,0)
+ . S MAGRY=1
+"RTN","MAGNTLRS",225,0)
+ . Q
+"RTN","MAGNTLRS",226,0)
+ ;
+"RTN","MAGNTLRS",227,0)
+ S MAGRY=""
+"RTN","MAGNTLRS",228,0)
+ I MAGPARAM("ACTION")="ADD" D  Q:MAGRY'=""  ; Quit if a record already exists
+"RTN","MAGNTLRS",229,0)
+ . D FIND^DIC(2006.5842,"","@;IX","PQX",MAGPARAM("NAME"),"1","B","","","X")
+"RTN","MAGNTLRS",230,0)
+ . I $D(X("DILIST","1",0)) S MAGRY="0^Record already exists"
+"RTN","MAGNTLRS",231,0)
+ . S IENS="+1,"
+"RTN","MAGNTLRS",232,0)
+ E  S IENS=MAGPARAM("IEN")_","
+"RTN","MAGNTLRS",233,0)
+ ;
+"RTN","MAGNTLRS",234,0)
+ S MAGNIEN(1)=MAGPARAM("NAME") ; if you add a new item using P^DI the new IEN will be value of field "NAME" (#.01)
+"RTN","MAGNTLRS",235,0)
+ S MAGNFDA(2006.5842,IENS,.01)=MAGPARAM("NAME")
+"RTN","MAGNTLRS",236,0)
+ S MAGNFDA(2006.5842,IENS,1)=MAGPARAM("PRIMARY SITE")
+"RTN","MAGNTLRS",237,0)
+ S MAGNFDA(2006.5842,IENS,2)=MAGPARAM("STATUS")
+"RTN","MAGNTLRS",238,0)
+ S MAGNFDA(2006.5842,IENS,3)=MAGPARAM("LOCK TIMEOUT IN MINUTES")
+"RTN","MAGNTLRS",239,0)
+ ;
+"RTN","MAGNTLRS",240,0)
+ D UPDATE^DIE("SK","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",241,0)
+ ;
+"RTN","MAGNTLRS",242,0)
+ I $D(MAGNXE("DIERR","E")) D  Q
+"RTN","MAGNTLRS",243,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",244,0)
+ . S MAGRY="0^"_MAGRESA(1)
+"RTN","MAGNTLRS",245,0)
+ . Q
+"RTN","MAGNTLRS",246,0)
+ E  S MAGRY="1^"_MAGNIEN(1)
+"RTN","MAGNTLRS",247,0)
+ Q
+"RTN","MAGNTLRS",248,0)
+ ;
+"RTN","MAGNTLRS",249,0)
+ ;*****  Add/Update/Delete TELEREADER READER file (#2006.5843)
+"RTN","MAGNTLRS",250,0)
+ ; RPC: MAG3 TELEREADER READER SETUP
+"RTN","MAGNTLRS",251,0)
+ ;
+"RTN","MAGNTLRS",252,0)
+ ; Input Parameters
+"RTN","MAGNTLRS",253,0)
+ ; ================
+"RTN","MAGNTLRS",254,0)
+ ;   Delete actions:
+"RTN","MAGNTLRS",255,0)
+ ;     Reader
+"RTN","MAGNTLRS",256,0)
+ ;       MAGPARAM("ACTION") = "DELETE READER"
+"RTN","MAGNTLRS",257,0)
+ ;       MAGPARAM("READER") = Reader internal value
+"RTN","MAGNTLRS",258,0)
+ ;     Acquisition Site
+"RTN","MAGNTLRS",259,0)
+ ;       MAGPARAM("ACTION")           = "DELETE SITE"
+"RTN","MAGNTLRS",260,0)
+ ;       MAGPARAM("READER")           = Reader internal value
+"RTN","MAGNTLRS",261,0)
+ ;       MAGPARAM("ACQUISITION SITE") = Acquisition Site internal value
+"RTN","MAGNTLRS",262,0)
+ ;     Specialty
+"RTN","MAGNTLRS",263,0)
+ ;       MAGPARAM("ACTION")           = "DELETE SPECIALTY"
+"RTN","MAGNTLRS",264,0)
+ ;       MAGPARAM("READER")           = Reader internal value
+"RTN","MAGNTLRS",265,0)
+ ;       MAGPARAM("ACQUISITION SITE") = Acquisition Site internal value
+"RTN","MAGNTLRS",266,0)
+ ;       MAGPARAM("SPECIALTY INDEX")  = Specialty Index internal value
+"RTN","MAGNTLRS",267,0)
+ ;     Procedure
+"RTN","MAGNTLRS",268,0)
+ ;       MAGPARAM("ACTION")           = "DELETE PROCEDURE"
+"RTN","MAGNTLRS",269,0)
+ ;       MAGPARAM("READER")           = Reader internal value
+"RTN","MAGNTLRS",270,0)
+ ;       MAGPARAM("ACQUISITION SITE") = Acquisition Site internal value
+"RTN","MAGNTLRS",271,0)
+ ;       MAGPARAM("SPECIALTY INDEX")  = Specialty Index internal value
+"RTN","MAGNTLRS",272,0)
+ ;       MAGPARAM("PROCEDURE INDEX")  = Procedure Index internal value
+"RTN","MAGNTLRS",273,0)
+ ;   Update Status field:
+"RTN","MAGNTLRS",274,0)
+ ;     Acquisition Site
+"RTN","MAGNTLRS",275,0)
+ ;       MAGPARAM("ACTION")           = "SET SITE STATUS"
+"RTN","MAGNTLRS",276,0)
+ ;       MAGPARAM("READER")           = Reader internal value
+"RTN","MAGNTLRS",277,0)
+ ;       MAGPARAM("ACQUISITION SITE") = Acquisition Site internal value
+"RTN","MAGNTLRS",278,0)
+ ;       MAGPARAM("ACQUISITION SITE STATUS") = 0 or 1 (Active or Inactive)
+"RTN","MAGNTLRS",279,0)
+ ;     Specialty 
+"RTN","MAGNTLRS",280,0)
+ ;       MAGPARAM("ACTION")           = "SET SPECIALTY STATUS"
+"RTN","MAGNTLRS",281,0)
+ ;       MAGPARAM("READER")           = Reader internal value
+"RTN","MAGNTLRS",282,0)
+ ;       MAGPARAM("ACQUISITION SITE") = Acquisition Site internal value
+"RTN","MAGNTLRS",283,0)
+ ;       MAGPARAM("SPECIALTY INDEX")  = Specialty Index internal value
+"RTN","MAGNTLRS",284,0)
+ ;       MAGPARAM("SPECIALTY INDEX STATUS") = 0 or 1 (Active or Inactive)
+"RTN","MAGNTLRS",285,0)
+ ;     Procedure
+"RTN","MAGNTLRS",286,0)
+ ;       MAGPARAM("ACTION")           = "SET PROCEDURE STATUS"
+"RTN","MAGNTLRS",287,0)
+ ;       MAGPARAM("READER")           = Reader internal value
+"RTN","MAGNTLRS",288,0)
+ ;       MAGPARAM("ACQUISITION SITE") = Acquisition Site internal value
+"RTN","MAGNTLRS",289,0)
+ ;       MAGPARAM("SPECIALTY INDEX")  = Specialty Index internal value
+"RTN","MAGNTLRS",290,0)
+ ;       MAGPARAM("PROCEDURE INDEX")  = Procedure Index internal value
+"RTN","MAGNTLRS",291,0)
+ ;       MAGPARAM("PROCEDURE STATUS") = 0 or 1 (Active or Inactive)
+"RTN","MAGNTLRS",292,0)
+ ;   Add action:
+"RTN","MAGNTLRS",293,0)
+ ;     MAGPARAM("ACTION")           = "ADD"
+"RTN","MAGNTLRS",294,0)
+ ;     MAGPARAM("READER")           = Reader internal value
+"RTN","MAGNTLRS",295,0)
+ ;     MAGPARAM("ACQUISITION SITE") = Acquisition Site internal value
+"RTN","MAGNTLRS",296,0)
+ ;     MAGPARAM("ACQUISITION SITE STATUS") = Acquisition Site Status
+"RTN","MAGNTLRS",297,0)
+ ;     MAGPARAM("SPECIALTY INDEX")  = Specialty Index internal value
+"RTN","MAGNTLRS",298,0)
+ ;     MAGPARAM("SPECIALTY INDEX STATUS") = Specialty Index Status
+"RTN","MAGNTLRS",299,0)
+ ;     MAGPARAM("PROCEDURE INDEX")  = Procedure Index internal value
+"RTN","MAGNTLRS",300,0)
+ ;     MAGPARAM("PROCEDURE INDEX STATUS") = 0 or 1 (Active or Inactive)
+"RTN","MAGNTLRS",301,0)
+ ;     MAGPARAM("PROCEDURE INDEX USER PREFERENCE") = 0 or 1 (Active or Inactive)
+"RTN","MAGNTLRS",302,0)
+ ;
+"RTN","MAGNTLRS",303,0)
+ ; Return Values
+"RTN","MAGNTLRS",304,0)
+ ; =============
+"RTN","MAGNTLRS",305,0)
+ ; if error MAGRY = "0^Error"
+"RTN","MAGNTLRS",306,0)
+ ; if success MAGRY = "1^IEN" - IEN of the record that is updated
+"RTN","MAGNTLRS",307,0)
+ ;                               or IEN of the added record
+"RTN","MAGNTLRS",308,0)
+ ;
+"RTN","MAGNTLRS",309,0)
+UREADER(MAGRY,MAGPARAM) ;RPC [MAG3 TELEREADER READER SETUP]
+"RTN","MAGNTLRS",310,0)
+ ;
+"RTN","MAGNTLRS",311,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGGTERR"
+"RTN","MAGNTLRS",312,0)
+ ;
+"RTN","MAGNTLRS",313,0)
+ N MAGNFDA,MAGNIEN,MAGNXE,MAGRESA
+"RTN","MAGNTLRS",314,0)
+ ;
+"RTN","MAGNTLRS",315,0)
+ I MAGPARAM("ACTION")="DELETE READER" D  Q  ; Delete an entry and exit
+"RTN","MAGNTLRS",316,0)
+ . D DREADER(.MAGPARAM)
+"RTN","MAGNTLRS",317,0)
+ . S MAGRY=1
+"RTN","MAGNTLRS",318,0)
+ . Q
+"RTN","MAGNTLRS",319,0)
+ ;
+"RTN","MAGNTLRS",320,0)
+ I MAGPARAM("ACTION")="DELETE SITE" D  Q  ; Delete an entry and exit
+"RTN","MAGNTLRS",321,0)
+ . D DACQSITE(.MAGPARAM)
+"RTN","MAGNTLRS",322,0)
+ . S MAGRY=1
+"RTN","MAGNTLRS",323,0)
+ . Q
+"RTN","MAGNTLRS",324,0)
+ ;
+"RTN","MAGNTLRS",325,0)
+ I MAGPARAM("ACTION")="DELETE SPECIALTY" D  Q  ; Delete an entry and exit
+"RTN","MAGNTLRS",326,0)
+ . D DSPECIDX(.MAGPARAM)
+"RTN","MAGNTLRS",327,0)
+ . S MAGRY=1
+"RTN","MAGNTLRS",328,0)
+ . Q
+"RTN","MAGNTLRS",329,0)
+ ;
+"RTN","MAGNTLRS",330,0)
+ I MAGPARAM("ACTION")="DELETE PROCEDURE" D  Q  ; Delete an entry and exit
+"RTN","MAGNTLRS",331,0)
+ . D DPROCIDX(.MAGPARAM)
+"RTN","MAGNTLRS",332,0)
+ . S MAGRY=1
+"RTN","MAGNTLRS",333,0)
+ . Q
+"RTN","MAGNTLRS",334,0)
+ ;
+"RTN","MAGNTLRS",335,0)
+ I MAGPARAM("ACTION")="SET SITE STATUS" D  Q  ; Exit
+"RTN","MAGNTLRS",336,0)
+ . S MAGRY=$$USITEST(.MAGPARAM)
+"RTN","MAGNTLRS",337,0)
+ . Q
+"RTN","MAGNTLRS",338,0)
+ ;
+"RTN","MAGNTLRS",339,0)
+ I MAGPARAM("ACTION")="SET SPECIALTY STATUS" D  Q  ; Exit
+"RTN","MAGNTLRS",340,0)
+ . S MAGRY=$$USPECST(.MAGPARAM)
+"RTN","MAGNTLRS",341,0)
+ . Q
+"RTN","MAGNTLRS",342,0)
+ ;
+"RTN","MAGNTLRS",343,0)
+ I MAGPARAM("ACTION")="SET PROCEDURE STATUS" D  Q  ; Exit
+"RTN","MAGNTLRS",344,0)
+ . S MAGRY=$$UPROCST(.MAGPARAM)
+"RTN","MAGNTLRS",345,0)
+ . Q
+"RTN","MAGNTLRS",346,0)
+ ;
+"RTN","MAGNTLRS",347,0)
+ ; Add
+"RTN","MAGNTLRS",348,0)
+ S MAGNFDA(2006.5843,"?+1,",.01)=MAGPARAM("READER")
+"RTN","MAGNTLRS",349,0)
+ S MAGNFDA(2006.58431,"?+2,?+1,",.01)=MAGPARAM("ACQUISITION SITE")
+"RTN","MAGNTLRS",350,0)
+ S MAGNFDA(2006.58431,"?+2,?+1,",.5)=MAGPARAM("ACQUISITION SITE STATUS")
+"RTN","MAGNTLRS",351,0)
+ S MAGNFDA(2006.584311,"?+3,?+2,?+1,",.01)=MAGPARAM("SPECIALTY INDEX")
+"RTN","MAGNTLRS",352,0)
+ S MAGNFDA(2006.584311,"?+3,?+2,?+1,",.5)=MAGPARAM("SPECIALTY INDEX STATUS")
+"RTN","MAGNTLRS",353,0)
+ S MAGNFDA(2006.5843111,"?+4,?+3,?+2,?+1,",.01)=MAGPARAM("PROCEDURE INDEX")
+"RTN","MAGNTLRS",354,0)
+ S MAGNFDA(2006.5843111,"?+4,?+3,?+2,?+1,",.5)=MAGPARAM("PROCEDURE INDEX STATUS")
+"RTN","MAGNTLRS",355,0)
+ S MAGNFDA(2006.5843111,"?+4,?+3,?+2,?+1,",1)=MAGPARAM("PROCEDURE INDEX USER PREFERENCE")
+"RTN","MAGNTLRS",356,0)
+ ;
+"RTN","MAGNTLRS",357,0)
+ D UPDATE^DIE("S","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",358,0)
+ ;
+"RTN","MAGNTLRS",359,0)
+ I $D(MAGNXE("DIERR","E")) D  Q
+"RTN","MAGNTLRS",360,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",361,0)
+ . S MAGRY="0^"_MAGRESA(1)
+"RTN","MAGNTLRS",362,0)
+ . Q
+"RTN","MAGNTLRS",363,0)
+ E  S MAGRY="1^OK"
+"RTN","MAGNTLRS",364,0)
+ Q
+"RTN","MAGNTLRS",365,0)
+ ;
+"RTN","MAGNTLRS",366,0)
+DREADER(MAGPARAM) ; Delete a reader
+"RTN","MAGNTLRS",367,0)
+ N MAGD0,DA,DIK
+"RTN","MAGNTLRS",368,0)
+ S MAGD0=$O(^MAG(2006.5843,"B",MAGPARAM("READER"),""))
+"RTN","MAGNTLRS",369,0)
+ S DA=MAGD0
+"RTN","MAGNTLRS",370,0)
+ S DIK="^MAG(2006.5843,"
+"RTN","MAGNTLRS",371,0)
+ D ^DIK
+"RTN","MAGNTLRS",372,0)
+ Q
+"RTN","MAGNTLRS",373,0)
+ ;
+"RTN","MAGNTLRS",374,0)
+DACQSITE(MAGPARAM) ; Delete acquisition  site
+"RTN","MAGNTLRS",375,0)
+ N MAGD0,MAGD1,DA,DIK
+"RTN","MAGNTLRS",376,0)
+ S MAGD0=$O(^MAG(2006.5843,"B",MAGPARAM("READER"),""))
+"RTN","MAGNTLRS",377,0)
+ S MAGD1=$O(^MAG(2006.5843,MAGD0,1,"B",MAGPARAM("ACQUISITION SITE"),""))
+"RTN","MAGNTLRS",378,0)
+ S DA=MAGD1
+"RTN","MAGNTLRS",379,0)
+ S DA(1)=MAGD0
+"RTN","MAGNTLRS",380,0)
+ S DIK="^MAG(2006.5843,"_MAGD0_",1,"
+"RTN","MAGNTLRS",381,0)
+ D ^DIK
+"RTN","MAGNTLRS",382,0)
+ I $O(^MAG(2006.5843,MAGD0,1,"B",""))="" D DREADER(.MAGPARAM) Q  ; no more sites
+"RTN","MAGNTLRS",383,0)
+ Q
+"RTN","MAGNTLRS",384,0)
+ ;
+"RTN","MAGNTLRS",385,0)
+DSPECIDX(MAGPARAM) ; Delete specialty
+"RTN","MAGNTLRS",386,0)
+ N MAGD0,MAGD1,MAGD2,DA,DIK
+"RTN","MAGNTLRS",387,0)
+ S MAGD0=$O(^MAG(2006.5843,"B",MAGPARAM("READER"),""))
+"RTN","MAGNTLRS",388,0)
+ S MAGD1=$O(^MAG(2006.5843,MAGD0,1,"B",MAGPARAM("ACQUISITION SITE"),""))
+"RTN","MAGNTLRS",389,0)
+ S MAGD2=$O(^MAG(2006.5843,MAGD0,1,MAGD1,1,"B",MAGPARAM("SPECIALTY INDEX"),""))
+"RTN","MAGNTLRS",390,0)
+ S DA=MAGD2
+"RTN","MAGNTLRS",391,0)
+ S DA(1)=MAGD1
+"RTN","MAGNTLRS",392,0)
+ S DA(2)=MAGD0
+"RTN","MAGNTLRS",393,0)
+ S DIK="^MAG(2006.5843,"_MAGD0_",1,"_MAGD1_",1,"
+"RTN","MAGNTLRS",394,0)
+ D ^DIK
+"RTN","MAGNTLRS",395,0)
+ I $O(^MAG(2006.5843,MAGD0,1,MAGD1,1,"B",""))="" D DACQSITE(.MAGPARAM) Q  ; no more specialties
+"RTN","MAGNTLRS",396,0)
+ Q
+"RTN","MAGNTLRS",397,0)
+ ;
+"RTN","MAGNTLRS",398,0)
+DPROCIDX(MAGPARAM) ; Delete Procedure index from file #2006.5843
+"RTN","MAGNTLRS",399,0)
+ N MAGD0,MAGD1,MAGD2,MAGD3,DA,DIK
+"RTN","MAGNTLRS",400,0)
+ S MAGD0=$O(^MAG(2006.5843,"B",MAGPARAM("READER"),""))
+"RTN","MAGNTLRS",401,0)
+ S MAGD1=$O(^MAG(2006.5843,MAGD0,1,"B",MAGPARAM("ACQUISITION SITE"),""))
+"RTN","MAGNTLRS",402,0)
+ S MAGD2=$O(^MAG(2006.5843,MAGD0,1,MAGD1,1,"B",MAGPARAM("SPECIALTY INDEX"),""))
+"RTN","MAGNTLRS",403,0)
+ S MAGD3=$O(^MAG(2006.5843,MAGD0,1,MAGD1,1,MAGD2,1,"B",MAGPARAM("PROCEDURE INDEX"),""))
+"RTN","MAGNTLRS",404,0)
+ S DA=MAGD3
+"RTN","MAGNTLRS",405,0)
+ S DA(1)=MAGD2
+"RTN","MAGNTLRS",406,0)
+ S DA(2)=MAGD1
+"RTN","MAGNTLRS",407,0)
+ S DA(3)=MAGD0
+"RTN","MAGNTLRS",408,0)
+ S DIK="^MAG(2006.5843,"_MAGD0_",1,"_MAGD1_",1,"_MAGD2_",1,"
+"RTN","MAGNTLRS",409,0)
+ D ^DIK
+"RTN","MAGNTLRS",410,0)
+ I $O(^MAG(2006.5843,MAGD0,1,MAGD1,1,MAGD2,1,"B",""))="" D DSPECIDX(.MAGPARAM) Q  ; no more procedures
+"RTN","MAGNTLRS",411,0)
+ Q
+"RTN","MAGNTLRS",412,0)
+ ;
+"RTN","MAGNTLRS",413,0)
+USITEST(MAGPARAM) ; Update Acquisition Site Status
+"RTN","MAGNTLRS",414,0)
+ N MAGNFDA,MAGNIEN,MAGNXE,MAGRESA
+"RTN","MAGNTLRS",415,0)
+ N MAGD0,MAGD1
+"RTN","MAGNTLRS",416,0)
+ S MAGD0=$O(^MAG(2006.5843,"B",MAGPARAM("READER"),""))
+"RTN","MAGNTLRS",417,0)
+ S MAGD1=$O(^MAG(2006.5843,MAGD0,1,"B",MAGPARAM("ACQUISITION SITE"),""))
+"RTN","MAGNTLRS",418,0)
+ S MAGNFDA(2006.58431,MAGD1_","_MAGD0_",",.5)=MAGPARAM("ACQUISITION SITE STATUS")
+"RTN","MAGNTLRS",419,0)
+ D UPDATE^DIE("S","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",420,0)
+ I $D(MAGNXE("DIERR","E")) D  Q "0^"_MAGRESA(1)
+"RTN","MAGNTLRS",421,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",422,0)
+ . Q
+"RTN","MAGNTLRS",423,0)
+ E  Q "1^OK"
+"RTN","MAGNTLRS",424,0)
+ Q
+"RTN","MAGNTLRS",425,0)
+ ;
+"RTN","MAGNTLRS",426,0)
+USPECST(MAGPARAM) ; Update Specialty Index Status
+"RTN","MAGNTLRS",427,0)
+ N MAGNFDA,MAGNIEN,MAGNXE,MAGRESA
+"RTN","MAGNTLRS",428,0)
+ N MAGD0,MAGD1,MAGD2
+"RTN","MAGNTLRS",429,0)
+ S MAGD0=$O(^MAG(2006.5843,"B",MAGPARAM("READER"),""))
+"RTN","MAGNTLRS",430,0)
+ S MAGD1=$O(^MAG(2006.5843,MAGD0,1,"B",MAGPARAM("ACQUISITION SITE"),""))
+"RTN","MAGNTLRS",431,0)
+ S MAGD2=$O(^MAG(2006.5843,MAGD0,1,MAGD1,1,"B",MAGPARAM("SPECIALTY INDEX"),""))
+"RTN","MAGNTLRS",432,0)
+ S MAGNFDA(2006.584311,MAGD2_","_MAGD1_","_MAGD0_",",.5)=MAGPARAM("SPECIALTY INDEX STATUS")
+"RTN","MAGNTLRS",433,0)
+ D UPDATE^DIE("S","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",434,0)
+ I $D(MAGNXE("DIERR","E")) D  Q "0^"_MAGRESA(1)
+"RTN","MAGNTLRS",435,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",436,0)
+ . Q
+"RTN","MAGNTLRS",437,0)
+ E  Q "1^OK"
+"RTN","MAGNTLRS",438,0)
+ Q
+"RTN","MAGNTLRS",439,0)
+ ;
+"RTN","MAGNTLRS",440,0)
+UPROCST(MAGPARAM) ; Update Procedure Index Status
+"RTN","MAGNTLRS",441,0)
+ N MAGNFDA,MAGNIEN,MAGNXE,MAGRESA
+"RTN","MAGNTLRS",442,0)
+ N MAGD0,MAGD1,MAGD2,MAGD3
+"RTN","MAGNTLRS",443,0)
+ S MAGD0=$O(^MAG(2006.5843,"B",MAGPARAM("READER"),""))
+"RTN","MAGNTLRS",444,0)
+ S MAGD1=$O(^MAG(2006.5843,MAGD0,1,"B",MAGPARAM("ACQUISITION SITE"),""))
+"RTN","MAGNTLRS",445,0)
+ S MAGD2=$O(^MAG(2006.5843,MAGD0,1,MAGD1,1,"B",MAGPARAM("SPECIALTY INDEX"),""))
+"RTN","MAGNTLRS",446,0)
+ S MAGD3=$O(^MAG(2006.5843,MAGD0,1,MAGD1,1,MAGD2,1,"B",MAGPARAM("PROCEDURE INDEX"),""))
+"RTN","MAGNTLRS",447,0)
+ S MAGNFDA(2006.5843111,MAGD3_","_MAGD2_","_MAGD1_","_MAGD0_",",.5)=MAGPARAM("PROCEDURE INDEX STATUS")
+"RTN","MAGNTLRS",448,0)
+ D UPDATE^DIE("S","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",449,0)
+ I $D(MAGNXE("DIERR","E")) D  Q "0^"_MAGRESA(1)
+"RTN","MAGNTLRS",450,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",451,0)
+ . Q
+"RTN","MAGNTLRS",452,0)
+ E  Q "1^OK"
+"RTN","MAGNTLRS",453,0)
+ Q
+"RTN","MAGNTLRS",454,0)
+ ;
+"RTN","MAGNTLRS",455,0)
+ ;***** Set Time Out for an application
+"RTN","MAGNTLRS",456,0)
+ ; RPC: MAG3 SET TIMEOUT
+"RTN","MAGNTLRS",457,0)
+ ;
+"RTN","MAGNTLRS",458,0)
+ ; Input Parameters
+"RTN","MAGNTLRS",459,0)
+ ; ================
+"RTN","MAGNTLRS",460,0)
+ ;   MAGAPP is "DISPLAY", "CAPTURE", "VISTARAD", or "TELEREADER"
+"RTN","MAGNTLRS",461,0)
+ ;   MAGTIME is time out value
+"RTN","MAGNTLRS",462,0)
+ ;
+"RTN","MAGNTLRS",463,0)
+ ; Return Values
+"RTN","MAGNTLRS",464,0)
+ ; =============
+"RTN","MAGNTLRS",465,0)
+ ; if error MAGRY = first "^" piece is zero if record is not found or 
+"RTN","MAGNTLRS",466,0)
+ ;                   updating error
+"RTN","MAGNTLRS",467,0)
+ ; if success MAGRY = "1^IEN" - IEN of the record that is updated
+"RTN","MAGNTLRS",468,0)
+ ;                              
+"RTN","MAGNTLRS",469,0)
+TIMEOUT(MAGRY,MAGAPP,MAGTIME) ;RPC [MAG3 SET TIMEOUT]
+"RTN","MAGNTLRS",470,0)
+ ; Set the timeout for the APP from IMAGING SITE PARAMETERS File
+"RTN","MAGNTLRS",471,0)
+ ;  MAGAPP is either 'DISPLAY', 'CAPTURE','VISTARAD', or 'TELEREADER'
+"RTN","MAGNTLRS",472,0)
+ ;
+"RTN","MAGNTLRS",473,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGGTERR"
+"RTN","MAGNTLRS",474,0)
+ ;
+"RTN","MAGNTLRS",475,0)
+ N MAGNFDA,MAGNIEN,MAGNXE,MAGPLC,IEN,MAGFLD
+"RTN","MAGNTLRS",476,0)
+ N MAGRESA
+"RTN","MAGNTLRS",477,0)
+ ;
+"RTN","MAGNTLRS",478,0)
+ S MAGRY=""
+"RTN","MAGNTLRS",479,0)
+ S MAGPLC=$$PLACE^MAGBAPI(DUZ(2))
+"RTN","MAGNTLRS",480,0)
+ I 'MAGPLC S MAGRY="0^No record found" Q
+"RTN","MAGNTLRS",481,0)
+ ;
+"RTN","MAGNTLRS",482,0)
+ S IEN=MAGPLC_","
+"RTN","MAGNTLRS",483,0)
+ I MAGAPP="DISPLAY" S MAGFLD=121
+"RTN","MAGNTLRS",484,0)
+ I MAGAPP="CAPTURE" S MAGFLD=122
+"RTN","MAGNTLRS",485,0)
+ I MAGAPP="VISTARAD" S MAGFLD=123
+"RTN","MAGNTLRS",486,0)
+ I MAGAPP="TELEREADER" S MAGFLD=131
+"RTN","MAGNTLRS",487,0)
+ ;
+"RTN","MAGNTLRS",488,0)
+ S MAGNFDA(2006.1,IEN,MAGFLD)=MAGTIME
+"RTN","MAGNTLRS",489,0)
+ D UPDATE^DIE("S","MAGNFDA","MAGNIEN","MAGNXE")
+"RTN","MAGNTLRS",490,0)
+ I $D(MAGNXE("DIERR","E")) D  Q
+"RTN","MAGNTLRS",491,0)
+ . D MSG^DIALOG("A",.MAGRESA,245,5,"MAGNXE")
+"RTN","MAGNTLRS",492,0)
+ . S MAGRY="0^"_MAGRESA(1)
+"RTN","MAGNTLRS",493,0)
+ . Q
+"RTN","MAGNTLRS",494,0)
+ E  S MAGRY="1^"_MAGPLC
+"RTN","MAGNTLRS",495,0)
+ Q
+"UP",2006.5831,2006.58314,-1)
+2006.5831^1
+"UP",2006.5831,2006.58314,0)
+2006.58314
+"UP",2006.5843,2006.58431,-1)
+2006.5843^1
+"UP",2006.5843,2006.58431,0)
+2006.58431
+"UP",2006.5843,2006.584311,-1)
+2006.58431^1
+"UP",2006.5843,2006.584311,-2)
+2006.5843^1
+"UP",2006.5843,2006.584311,0)
+2006.584311
+"UP",2006.5843,2006.5843111,-1)
+2006.584311^1
+"UP",2006.5843,2006.5843111,-2)
+2006.58431^1
+"UP",2006.5843,2006.5843111,-3)
+2006.5843^1
+"UP",2006.5843,2006.5843111,0)
+2006.5843111
+"VER")
+8.0^22.0
+"^DD",2006.1,2006.1,131,0)
+TELEREADER TIMEOUT (MINUTES)^NJ6,0^^KEYS;6^K:+X'=X!(X>999999)!(X<1)!(X?.E1"."1N.N) X
+"^DD",2006.1,2006.1,131,3)
+Type a Number between 1 and 999999, 0 Decimal Digits
+"^DD",2006.1,2006.1,131,21,0)
+^^4^4^3100301^
+"^DD",2006.1,2006.1,131,21,1,0)
+The number of minutes that the TeleReader application 
+"^DD",2006.1,2006.1,131,21,2,0)
+will remain active before closing due to inactivity. 
+"^DD",2006.1,2006.1,131,21,3,0)
+If this field is undefined, the application will not timeout.
+"^DD",2006.1,2006.1,131,21,4,0)
+Max value is 999999, no decimals allowed.
+"^DD",2006.1,2006.1,131,"DT")
+3100301
+"^DD",2006.5831,2006.5831,.01,0)
+REQUESTED SERVICE^RP123.5'X^GMR(123.5,^0;1^S DINUM=X
+"^DD",2006.5831,2006.5831,.01,1,0)
+^.1^^0
+"^DD",2006.5831,2006.5831,.01,3)
+Enter the name of the service being requested
+"^DD",2006.5831,2006.5831,.01,21,0)
+^^3^3^3100301^
+"^DD",2006.5831,2006.5831,.01,21,1,0)
+The name of the CONSULT service or specialty
+"^DD",2006.5831,2006.5831,.01,21,2,0)
+to be added to the TeleReader unread list.
+"^DD",2006.5831,2006.5831,.01,21,3,0)
+Example:  Hematology.
+"^DD",2006.5831,2006.5831,.01,"DT")
+3100304
+"^DD",2006.5831,2006.5831,2,0)
+SERVICE GROUP^RP2005.84'^MAG(2005.84,^0;2^Q
+"^DD",2006.5831,2006.5831,2,3)
+Enter the name of the WorkList Class.
+"^DD",2006.5831,2006.5831,2,21,0)
+^^3^3^3100122^^
+"^DD",2006.5831,2006.5831,2,21,1,0)
+Specialty/Subspecialty for the unread list items 
+"^DD",2006.5831,2006.5831,2,21,2,0)
+associated with a given service.
+"^DD",2006.5831,2006.5831,2,21,3,0)
+Example: Hematology, Lab
+"^DD",2006.5831,2006.5831,2,23,0)
+^^5^5^3100122^^
+"^DD",2006.5831,2006.5831,2,23,1,0)
+Image Types are groups of services that are being treated
+"^DD",2006.5831,2006.5831,2,23,2,0)
+the same as far as DICOM WorkList requests are concerned.
+"^DD",2006.5831,2006.5831,2,23,3,0)
+ 
+"^DD",2006.5831,2006.5831,2,23,4,0)
+Service Requests are described in file 123.5, and (sub)specialties
+"^DD",2006.5831,2006.5831,2,23,5,0)
+are described in file 2005.84.
+"^DD",2006.5831,2006.5831,2,"DT")
+3100122
+"^DD",2006.5831,2006.5831,3,0)
+SERVICE INSTITUTION^P4'^DIC(4,^0;3^Q
+"^DD",2006.5831,2006.5831,3,3)
+Identify the institution where these consults are executed
+"^DD",2006.5831,2006.5831,3,21,0)
+^^2^2^3100301^
+"^DD",2006.5831,2006.5831,3,21,1,0)
+VistA institution that takes the images associated 
+"^DD",2006.5831,2006.5831,3,21,2,0)
+ with a consult and captures them into the VistA Imaging system.
+"^DD",2006.5831,2006.5831,3,"DT")
+3100303
+"^DD",2006.5831,2006.5831,4,0)
+LOCATION^2006.58314PA^^1;0
+"^DD",2006.5831,2006.5831,4,"DT")
+3100226
+"^DD",2006.5831,2006.58314,0)
+LOCATION SUB-FIELD^^.01^1
+"^DD",2006.5831,2006.58314,0,"NM","LOCATION")
+
+"^DD",2006.5831,2006.58314,.01,0)
+LOCATION^MP44'^SC(^0;1^Q
+"^DD",2006.5831,2006.58314,.01,1,0)
+^.1
+"^DD",2006.5831,2006.58314,.01,1,1,0)
+2006.58314^B
+"^DD",2006.5831,2006.58314,.01,1,1,1)
+S ^MAG(2006.5831,DA(1),1,"B",$E(X,1,30),DA)=""
+"^DD",2006.5831,2006.58314,.01,1,1,2)
+K ^MAG(2006.5831,DA(1),1,"B",$E(X,1,30),DA)
+"^DD",2006.5831,2006.58314,.01,3)
+Identify the location where this service may take place.
+"^DD",2006.5831,2006.58314,.01,21,0)
+^.001^8^8^3100226^^
+"^DD",2006.5831,2006.58314,.01,21,1,0)
+If this field is populated, appointment information from 
+"^DD",2006.5831,2006.58314,.01,21,2,0)
+the VA Scheduling package will be added to Modality Worklist
+"^DD",2006.5831,2006.58314,.01,21,3,0)
+for a given procedure after it is scheduled.  
+"^DD",2006.5831,2006.58314,.01,21,4,0)
+The consult request and the appointment 
+"^DD",2006.5831,2006.58314,.01,21,5,0)
+must have the same associated location in order for 
+"^DD",2006.5831,2006.58314,.01,21,6,0)
+the appointment information to get added to Modality Worklist.
+"^DD",2006.5831,2006.58314,.01,21,7,0)
+In most cases a CLINIC type location will be used.
+"^DD",2006.5831,2006.58314,.01,21,8,0)
+Multiple values are allowed.
+"^DD",2006.5831,2006.58314,.01,"DT")
+3100226
+"^DD",2006.5841,2006.5841,.01,0)
+NAME^RP123.5'^GMR(123.5,^0;1^Q
+"^DD",2006.5841,2006.5841,.01,1,0)
+^.1
+"^DD",2006.5841,2006.5841,.01,1,1,0)
+2006.5841^B
+"^DD",2006.5841,2006.5841,.01,1,1,1)
+S ^MAG(2006.5841,"B",$E(X,1,30),DA)=""
+"^DD",2006.5841,2006.5841,.01,1,1,2)
+K ^MAG(2006.5841,"B",$E(X,1,30),DA)
+"^DD",2006.5841,2006.5841,.01,3)
+Enter a Consult service or specialty
+"^DD",2006.5841,2006.5841,.01,21,0)
+^^3^3^3100301^
+"^DD",2006.5841,2006.5841,.01,21,1,0)
+The name of the CONSULT service or specialty
+"^DD",2006.5841,2006.5841,.01,21,2,0)
+to be added to the TeleReader unread list.
+"^DD",2006.5841,2006.5841,.01,21,3,0)
+Example:  Hematology.
+"^DD",2006.5841,2006.5841,.01,"DT")
+3100304
+"^DD",2006.5841,2006.5841,1,0)
+PROCEDURE^P123.3'^GMR(123.3,^0;2^Q
+"^DD",2006.5841,2006.5841,1,3)
+Enter a Consult based procedure
+"^DD",2006.5841,2006.5841,1,21,0)
+^^2^2^3100122^
+"^DD",2006.5841,2006.5841,1,21,1,0)
+A specific CONSULT based procedure associated with a given service.
+"^DD",2006.5841,2006.5841,1,21,2,0)
+Example: Bone Marrow Biopsy.
+"^DD",2006.5841,2006.5841,1,"DT")
+3100304
+"^DD",2006.5841,2006.5841,2,0)
+SPECIALTY INDEX^RP2005.84'^MAG(2005.84,^0;3^Q
+"^DD",2006.5841,2006.5841,2,3)
+Enter Image Index for Specialty/Subspecialty
+"^DD",2006.5841,2006.5841,2,21,0)
+^^3^3^3100122^^
+"^DD",2006.5841,2006.5841,2,21,1,0)
+Specialty/Subspecialty for the unread list items 
+"^DD",2006.5841,2006.5841,2,21,2,0)
+associated with a given service.
+"^DD",2006.5841,2006.5841,2,21,3,0)
+Example: Hematology, Lab
+"^DD",2006.5841,2006.5841,2,"DT")
+3100303
+"^DD",2006.5841,2006.5841,3,0)
+PROCEDURE INDEX^RP2005.85'^MAG(2005.85,^0;4^Q
+"^DD",2006.5841,2006.5841,3,3)
+Enter Image Index for Procedure
+"^DD",2006.5841,2006.5841,3,21,0)
+^^2^2^3100122^
+"^DD",2006.5841,2006.5841,3,21,1,0)
+Procedure/Event for the unread list items associated with a given service.
+"^DD",2006.5841,2006.5841,3,21,2,0)
+Example:  C&P Exam
+"^DD",2006.5841,2006.5841,3,"DT")
+3100304
+"^DD",2006.5841,2006.5841,4,0)
+ACQUISITION SITE^RP4'^DIC(4,^0;5^Q
+"^DD",2006.5841,2006.5841,4,3)
+Enter the VistA site where images are acquired
+"^DD",2006.5841,2006.5841,4,21,0)
+^^2^2^3100301^
+"^DD",2006.5841,2006.5841,4,21,1,0)
+VistA site that takes the images associated 
+"^DD",2006.5841,2006.5841,4,21,2,0)
+ with a consult and captures them into the VistA system.
+"^DD",2006.5841,2006.5841,4,"DT")
+3100304
+"^DD",2006.5841,2006.5841,5,0)
+UNREAD LIST CREATION TRIGGER^RS^I:Create/Update with every acquired image;O:Create when request is ordered;F:Create when consult is forwarded to IFC;^0;6^Q
+"^DD",2006.5841,2006.5841,5,3)
+Select when a Consult is added to the unread list 
+"^DD",2006.5841,2006.5841,5,21,0)
+^^2^2^3100303^
+"^DD",2006.5841,2006.5841,5,21,1,0)
+The action that places a specific Consult on the unread list.
+"^DD",2006.5841,2006.5841,5,21,2,0)
+The most commonly used option is "Create/Update with every acquired image".
+"^DD",2006.5841,2006.5841,5,"DT")
+3100304
+"^DD",2006.5841,2006.5841,6,0)
+TIU NOTE FILE^RP8925.1'^TIU(8925.1,^0;7^Q
+"^DD",2006.5841,2006.5841,6,3)
+Enter a TIU note title
+"^DD",2006.5841,2006.5841,6,21,0)
+^^1^1^31000304^
+"^DD",2006.5841,2006.5841,6,21,1,0)
+The title of a note for images associated with a given consult that has been read and resulted.
+"^DD",2006.5841,2006.5841,6,"DT")
+3100304
+"^DD",2006.5842,2006.5842,.01,0)
+NAME^RP4'X^DIC(4,^0;1^S DINUM=X Q
+"^DD",2006.5842,2006.5842,.01,1,0)
+^.1
+"^DD",2006.5842,2006.5842,.01,1,1,0)
+2006.5842^B
+"^DD",2006.5842,2006.5842,.01,1,1,1)
+S ^MAG(2006.5842,"B",$E(X,1,30),DA)=""
+"^DD",2006.5842,2006.5842,.01,1,1,2)
+K ^MAG(2006.5842,"B",$E(X,1,30),DA)
+"^DD",2006.5842,2006.5842,.01,3)
+Enter the VistA site where images are acquired
+"^DD",2006.5842,2006.5842,.01,21,0)
+^^2^2^3100301^
+"^DD",2006.5842,2006.5842,.01,21,1,0)
+VistA site that takes the images associated 
+"^DD",2006.5842,2006.5842,.01,21,2,0)
+ with a consult and captures them into the VistA system.
+"^DD",2006.5842,2006.5842,.01,"DT")
+3100304
+"^DD",2006.5842,2006.5842,1,0)
+PRIMARY SITE^P4'^DIC(4,^0;2^Q
+"^DD",2006.5842,2006.5842,1,3)
+Enter the institution of the main VistA server
+"^DD",2006.5842,2006.5842,1,21,0)
+^^1^1^3100122^
+"^DD",2006.5842,2006.5842,1,21,1,0)
+The parent site of an acquisition site.
+"^DD",2006.5842,2006.5842,1,"DT")
+3100304
+"^DD",2006.5842,2006.5842,2,0)
+STATUS^S^1:Active;0:Inactive;^0;3^Q
+"^DD",2006.5842,2006.5842,2,3)
+Enter Active to allow reading of images from the site
+"^DD",2006.5842,2006.5842,2,21,0)
+^^3^3^3100114^
+"^DD",2006.5842,2006.5842,2,21,1,0)
+Status of a site to read from an acquisition site.
+"^DD",2006.5842,2006.5842,2,21,2,0)
+Active means images can be read.
+"^DD",2006.5842,2006.5842,2,21,3,0)
+Inactive means images cannot be read.
+"^DD",2006.5842,2006.5842,2,"DT")
+3100304
+"^DD",2006.5842,2006.5842,3,0)
+LOCK TIMEOUT IN MINUTES^NJ5,0^^0;4^K:+X'=X!(X>99999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",2006.5842,2006.5842,3,3)
+Type a number between 0 and 99999, 0 Decimal Digits
+"^DD",2006.5842,2006.5842,3,21,0)
+^^4^4^3100226^
+"^DD",2006.5842,2006.5842,3,21,1,0)
+The number of minutes a study can be locked by a user.
+"^DD",2006.5842,2006.5842,3,21,2,0)
+After this period of time, a study that is still locked is automatically unlocked.
+"^DD",2006.5842,2006.5842,3,21,3,0)
+If this field is undefined, the application will default to 180 minutes.
+"^DD",2006.5842,2006.5842,3,21,4,0)
+Max value is 99999, no decimals allowed.
+"^DD",2006.5842,2006.5842,3,"DT")
+3100304
+"^DD",2006.5843,2006.5843,.01,0)
+READER^RP200'^VA(200,^0;1^Q
+"^DD",2006.5843,2006.5843,.01,1,0)
+^.1
+"^DD",2006.5843,2006.5843,.01,1,1,0)
+2006.5843^B
+"^DD",2006.5843,2006.5843,.01,1,1,1)
+S ^MAG(2006.5843,"B",$E(X,1,30),DA)=""
+"^DD",2006.5843,2006.5843,.01,1,1,2)
+K ^MAG(2006.5843,"B",$E(X,1,30),DA)
+"^DD",2006.5843,2006.5843,.01,3)
+Enter a TeleReader user
+"^DD",2006.5843,2006.5843,.01,21,0)
+^^1^1^3100226^
+"^DD",2006.5843,2006.5843,.01,21,1,0)
+A user with permission to run the TeleReader application.
+"^DD",2006.5843,2006.5843,.01,"DT")
+3100303
+"^DD",2006.5843,2006.5843,1,0)
+ACQUISITION SITE^2006.58431PA^^1;0
+"^DD",2006.5843,2006.5843,1,21,0)
+^^1^1^3060509^
+"^DD",2006.5843,2006.5843,1,21,1,0)
+The Site (Institution) where the images are acquired.
+"^DD",2006.5843,2006.58431,0)
+ACQUISITION SITE SUB-FIELD^^1^3
+"^DD",2006.5843,2006.58431,0,"NM","ACQUISITION SITE")
+
+"^DD",2006.5843,2006.58431,.01,0)
+ACQUISITION SITE^MP2006.5842'^MAG(2006.5842,^0;1^Q
+"^DD",2006.5843,2006.58431,.01,1,0)
+^.1
+"^DD",2006.5843,2006.58431,.01,1,1,0)
+2006.58431^B
+"^DD",2006.5843,2006.58431,.01,1,1,1)
+S ^MAG(2006.5843,DA(1),1,"B",$E(X,1,30),DA)=""
+"^DD",2006.5843,2006.58431,.01,1,1,2)
+K ^MAG(2006.5843,DA(1),1,"B",$E(X,1,30),DA)
+"^DD",2006.5843,2006.58431,.01,3)
+Enter the VistA site where images are acquired
+"^DD",2006.5843,2006.58431,.01,21,0)
+^^2^2^3100301^
+"^DD",2006.5843,2006.58431,.01,21,1,0)
+VistA site that takes the images associated 
+"^DD",2006.5843,2006.58431,.01,21,2,0)
+ with a consult and captures them into the VistA system.
+"^DD",2006.5843,2006.58431,.01,"DT")
+3100304
+"^DD",2006.5843,2006.58431,1,0)
+SPECIALTY INDEX^2006.584311PA^^1;0
+"^DD",2006.5843,2006.58431,1,21,0)
+^^1^1^3060503^
+"^DD",2006.5843,2006.58431,1,21,1,0)
+The SPECIALTY/SUBSPECIALTY of the image.
+"^DD",2006.5843,2006.584311,0)
+SPECIALTY INDEX SUB-FIELD^^1^3
+"^DD",2006.5843,2006.584311,0,"NM","SPECIALTY INDEX")
+
+"^DD",2006.5843,2006.584311,.01,0)
+SPECIALTY INDEX^MP2005.84'^MAG(2005.84,^0;1^Q
+"^DD",2006.5843,2006.584311,.01,1,0)
+^.1
+"^DD",2006.5843,2006.584311,.01,1,1,0)
+2006.584311^B
+"^DD",2006.5843,2006.584311,.01,1,1,1)
+S ^MAG(2006.5843,DA(2),1,DA(1),1,"B",$E(X,1,30),DA)=""
+"^DD",2006.5843,2006.584311,.01,1,1,2)
+K ^MAG(2006.5843,DA(2),1,DA(1),1,"B",$E(X,1,30),DA)
+"^DD",2006.5843,2006.584311,.01,3)
+Enter Image Index for Specialty/Subspecialty
+"^DD",2006.5843,2006.584311,.01,21,0)
+^^3^3^3100122^^
+"^DD",2006.5843,2006.584311,.01,21,1,0)
+Specialty/Subspecialty for the unread list items 
+"^DD",2006.5843,2006.584311,.01,21,2,0)
+associated with a given service.
+"^DD",2006.5843,2006.584311,.01,21,3,0)
+Example: Hematology, Lab
+"^DD",2006.5843,2006.584311,.01,"DT")
+3100304
+"^DD",2006.5843,2006.584311,1,0)
+PROCEDURE INDEX^2006.5843111PA^^1;0
+"^DD",2006.5843,2006.584311,1,21,0)
+^^1^1^3060503^
+"^DD",2006.5843,2006.584311,1,21,1,0)
+The PROCEDURE/EVENT of the image.
+"^DD",2006.5843,2006.5843111,0)
+PROCEDURE INDEX SUB-FIELD^^1^3
+"^DD",2006.5843,2006.5843111,0,"NM","PROCEDURE INDEX")
+
+"^DD",2006.5843,2006.5843111,.01,0)
+PROCEDURE INDEX^MP2005.85'^MAG(2005.85,^0;1^Q
+"^DD",2006.5843,2006.5843111,.01,1,0)
+^.1
+"^DD",2006.5843,2006.5843111,.01,1,1,0)
+2006.5843111^B
+"^DD",2006.5843,2006.5843111,.01,1,1,1)
+S ^MAG(2006.5843,DA(3),1,DA(2),1,DA(1),1,"B",$E(X,1,30),DA)=""
+"^DD",2006.5843,2006.5843111,.01,1,1,2)
+K ^MAG(2006.5843,DA(3),1,DA(2),1,DA(1),1,"B",$E(X,1,30),DA)
+"^DD",2006.5843,2006.5843111,.01,3)
+Enter Image Index for Procedure
+"^DD",2006.5843,2006.5843111,.01,21,0)
+^^2^2^3100122^
+"^DD",2006.5843,2006.5843111,.01,21,1,0)
+Procedure/Event for the unread list items associated with a given service.
+"^DD",2006.5843,2006.5843111,.01,21,2,0)
+Example:  C&P Exam
+"^DD",2006.5843,2006.5843111,.01,"DT")
+3100304
+**END**
+**END**
+
+
+****
+****

@@ -1,0 +1,940 @@
+KIDS Distribution saved on Jan 10, 2007@07:49:33
+"VistA Imaging V3 - Patch 92 - Error Trap Problem
+**KIDS**:MAG*3.0*92^
+
+**INSTALL NAME**
+MAG*3.0*92
+"BLD",5613,0)
+MAG*3.0*92^IMAGING^0^3070110^y
+"BLD",5613,1,0)
+^9.61A^13^13^3070110^^^^
+"BLD",5613,1,1,0)
+This patch adds a parameter check to Imaging routines
+"BLD",5613,1,2,0)
+that call FIND^DIC.  The parameter check halts the lookup if the 
+"BLD",5613,1,3,0)
+lookup text (text to search for) is greated than 30 characters.
+"BLD",5613,1,4,0)
+In some rare situations the routine FIND^DIC was being called 
+"BLD",5613,1,5,0)
+with an input parameter of 500+ spaces and this caused an 
+"BLD",5613,1,6,0)
+infinite Error Trap loop in DICFIX.  This check will stop that.
+"BLD",5613,1,7,0)
+   
+"BLD",5613,1,8,0)
+This will check the routines from a BUILD file.
+"BLD",5613,1,9,0)
+Select BUILD NAME:    MAG*3.0*92     IMAGING
+"BLD",5613,1,10,0)
+MAGGNLKP  value = 14664234
+"BLD",5613,1,11,0)
+MAGGTPT1  value = 32058249
+"BLD",5613,1,12,0)
+MAGIPS92  value = 9086005
+"BLD",5613,1,13,0)
+done
+"BLD",5613,4,0)
+^9.64PA^^0
+"BLD",5613,6.3)
+1
+"BLD",5613,"ABNS",0)
+^9.66A^^
+"BLD",5613,"ABPKG")
+n^n^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",5613,"INID")
+^y
+"BLD",5613,"INIT")
+POST^MAGIPS92
+"BLD",5613,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",5613,"KRN",.4,0)
+.4
+"BLD",5613,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",5613,"KRN",.401,0)
+.401
+"BLD",5613,"KRN",.401,"NM",0)
+^9.68A^^
+"BLD",5613,"KRN",.402,0)
+.402
+"BLD",5613,"KRN",.403,0)
+.403
+"BLD",5613,"KRN",.5,0)
+.5
+"BLD",5613,"KRN",.84,0)
+.84
+"BLD",5613,"KRN",3.6,0)
+3.6
+"BLD",5613,"KRN",3.8,0)
+3.8
+"BLD",5613,"KRN",9.2,0)
+9.2
+"BLD",5613,"KRN",9.2,"NM",0)
+^9.68A^^
+"BLD",5613,"KRN",9.8,0)
+9.8
+"BLD",5613,"KRN",9.8,"NM",0)
+^9.68A^3^3
+"BLD",5613,"KRN",9.8,"NM",1,0)
+MAGGNLKP^^0^B14664234
+"BLD",5613,"KRN",9.8,"NM",2,0)
+MAGGTPT1^^0^B32058249
+"BLD",5613,"KRN",9.8,"NM",3,0)
+MAGIPS92^^0^B9086005
+"BLD",5613,"KRN",9.8,"NM","B","MAGGNLKP",1)
+
+"BLD",5613,"KRN",9.8,"NM","B","MAGGTPT1",2)
+
+"BLD",5613,"KRN",9.8,"NM","B","MAGIPS92",3)
+
+"BLD",5613,"KRN",19,0)
+19
+"BLD",5613,"KRN",19,"NM",0)
+^9.68A^^0
+"BLD",5613,"KRN",19.1,0)
+19.1
+"BLD",5613,"KRN",19.1,"NM",0)
+^9.68A^^0
+"BLD",5613,"KRN",101,0)
+101
+"BLD",5613,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",5613,"KRN",409.61,0)
+409.61
+"BLD",5613,"KRN",409.61,"NM",0)
+^9.68A^^
+"BLD",5613,"KRN",771,0)
+771
+"BLD",5613,"KRN",771,"NM",0)
+^9.68A^^
+"BLD",5613,"KRN",870,0)
+870
+"BLD",5613,"KRN",870,"NM",0)
+^9.68A^^
+"BLD",5613,"KRN",8989.51,0)
+8989.51
+"BLD",5613,"KRN",8989.52,0)
+8989.52
+"BLD",5613,"KRN",8994,0)
+8994
+"BLD",5613,"KRN",8994,"NM",0)
+^9.68A^^0
+"BLD",5613,"KRN","B",.4,.4)
+
+"BLD",5613,"KRN","B",.401,.401)
+
+"BLD",5613,"KRN","B",.402,.402)
+
+"BLD",5613,"KRN","B",.403,.403)
+
+"BLD",5613,"KRN","B",.5,.5)
+
+"BLD",5613,"KRN","B",.84,.84)
+
+"BLD",5613,"KRN","B",3.6,3.6)
+
+"BLD",5613,"KRN","B",3.8,3.8)
+
+"BLD",5613,"KRN","B",9.2,9.2)
+
+"BLD",5613,"KRN","B",9.8,9.8)
+
+"BLD",5613,"KRN","B",19,19)
+
+"BLD",5613,"KRN","B",19.1,19.1)
+
+"BLD",5613,"KRN","B",101,101)
+
+"BLD",5613,"KRN","B",409.61,409.61)
+
+"BLD",5613,"KRN","B",771,771)
+
+"BLD",5613,"KRN","B",870,870)
+
+"BLD",5613,"KRN","B",8989.51,8989.51)
+
+"BLD",5613,"KRN","B",8989.52,8989.52)
+
+"BLD",5613,"KRN","B",8994,8994)
+
+"BLD",5613,"QUES",0)
+^9.62^^
+"BLD",5613,"REQB",0)
+^9.611^1^1
+"BLD",5613,"REQB",1,0)
+MAG*3.0*45^2
+"BLD",5613,"REQB","B","MAG*3.0*45",1)
+
+"INIT")
+POST^MAGIPS92
+"MBREQ")
+0
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging-V1 to release 
+"PKG",454,20,0)
+^9.402P^^
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020319^3020517^126
+"PKG",454,22,1,"PAH",1,0)
+92^3070110
+"PKG",454,22,1,"PAH",1,1,0)
+^^13^13^3070110
+"PKG",454,22,1,"PAH",1,1,1,0)
+This patch adds a parameter check to Imaging routines
+"PKG",454,22,1,"PAH",1,1,2,0)
+that call FIND^DIC.  The parameter check halts the lookup if the 
+"PKG",454,22,1,"PAH",1,1,3,0)
+lookup text (text to search for) is greated than 30 characters.
+"PKG",454,22,1,"PAH",1,1,4,0)
+In some rare situations the routine FIND^DIC was being called 
+"PKG",454,22,1,"PAH",1,1,5,0)
+with an input parameter of 500+ spaces and this caused an 
+"PKG",454,22,1,"PAH",1,1,6,0)
+infinite Error Trap loop in DICFIX.  This check will stop that.
+"PKG",454,22,1,"PAH",1,1,7,0)
+   
+"PKG",454,22,1,"PAH",1,1,8,0)
+This will check the routines from a BUILD file.
+"PKG",454,22,1,"PAH",1,1,9,0)
+Select BUILD NAME:    MAG*3.0*92     IMAGING
+"PKG",454,22,1,"PAH",1,1,10,0)
+MAGGNLKP  value = 14664234
+"PKG",454,22,1,"PAH",1,1,11,0)
+MAGGTPT1  value = 32058249
+"PKG",454,22,1,"PAH",1,1,12,0)
+MAGIPS92  value = 9086005
+"PKG",454,22,1,"PAH",1,1,13,0)
+done
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+3
+"RTN","MAGGNLKP")
+0^1^B14664234
+"RTN","MAGGNLKP",1,0)
+MAGGNLKP ;WOIFO/GEK - Lookup from delphi into any file ; [ 06/20/2001 08:56 ]
+"RTN","MAGGNLKP",2,0)
+ ;;3.0;IMAGING;**8,92**;Jan 10, 2007;Build 1
+"RTN","MAGGNLKP",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGGNLKP",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGNLKP",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGNLKP",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGNLKP",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGNLKP",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGNLKP",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGNLKP",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGNLKP",11,0)
+ ;; |                                                               |
+"RTN","MAGGNLKP",12,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGNLKP",13,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGNLKP",14,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGNLKP",15,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGNLKP",16,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGNLKP",17,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGNLKP",18,0)
+ ;;
+"RTN","MAGGNLKP",19,0)
+ Q
+"RTN","MAGGNLKP",20,0)
+ ;
+"RTN","MAGGNLKP",21,0)
+LKP(MAGRY,MAGIN,DATA) ;RPC [MAG3 LOOKUP ANY] 
+"RTN","MAGGNLKP",22,0)
+ ; Generic lookup using FIND^DIC
+"RTN","MAGGNLKP",23,0)
+ ; MAGRY is the Array to return.
+"RTN","MAGGNLKP",24,0)
+ ; MAGIN is parameter sent by calling app (Delphi)
+"RTN","MAGGNLKP",25,0)
+ ;    FILE NUM ^ NUM TO RETURN ^ TEXT TO MATCH ^ FIELDS ^ SCREEN ($P 5-99)
+"RTN","MAGGNLKP",26,0)
+ ;    
+"RTN","MAGGNLKP",27,0)
+ ; DATA : 
+"RTN","MAGGNLKP",28,0)
+ ;  LVIEW =Piece 1 
+"RTN","MAGGNLKP",29,0)
+ ;     +LVIEW = 1  :  
+"RTN","MAGGNLKP",30,0)
+ ;          result array is formatted for a magListView control
+"RTN","MAGGNLKP",31,0)
+ ;              i.e.  ^ delimiter for data and "|" delimiter for IEN
+"RTN","MAGGNLKP",32,0)
+ ;     +LVIEW = 0  : 
+"RTN","MAGGNLKP",33,0)
+ ;         old way,  "  " delim for data and '^' delim for IEN
+"RTN","MAGGNLKP",34,0)
+ ;  INDX = Piece 2
+"RTN","MAGGNLKP",35,0)
+ ;                       This is the index to search 
+"RTN","MAGGNLKP",36,0)
+ ;                       Defaults to "B"
+"RTN","MAGGNLKP",37,0)
+ ;    
+"RTN","MAGGNLKP",38,0)
+ ;
+"RTN","MAGGNLKP",39,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGGTERR"
+"RTN","MAGGNLKP",40,0)
+ ;
+"RTN","MAGGNLKP",41,0)
+ N Y,XI,Z,FI,MAGIEN,INFO,LVIEW,INDX
+"RTN","MAGGNLKP",42,0)
+ N FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT
+"RTN","MAGGNLKP",43,0)
+ S (FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT)=""
+"RTN","MAGGNLKP",44,0)
+ S MAGIN=$G(MAGIN)
+"RTN","MAGGNLKP",45,0)
+ S DATA=$G(DATA)
+"RTN","MAGGNLKP",46,0)
+ ;
+"RTN","MAGGNLKP",47,0)
+ S FILE=+$P(MAGIN,U,1)
+"RTN","MAGGNLKP",48,0)
+ S NUM=$S(+$P(MAGIN,U,2):+$P(MAGIN,U,2),1:200)
+"RTN","MAGGNLKP",49,0)
+ S VAL=$P(MAGIN,U,3)
+"RTN","MAGGNLKP",50,0)
+ S FLDS=$P(MAGIN,U,4)
+"RTN","MAGGNLKP",51,0)
+ S SCR=$P(MAGIN,U,5,99)
+"RTN","MAGGNLKP",52,0)
+ ;
+"RTN","MAGGNLKP",53,0)
+ S LVIEW=+$P(DATA,"^",1)
+"RTN","MAGGNLKP",54,0)
+ S INDX=$S($L($P(DATA,"^",2)):$P(DATA,"^",2),1:"B")
+"RTN","MAGGNLKP",55,0)
+ ;
+"RTN","MAGGNLKP",56,0)
+ I 'FILE S MAGRY(1)="0^ERROR - Invalid Parameter:  File Number ? " Q
+"RTN","MAGGNLKP",57,0)
+ I '$$VFILE^DILFD(FILE) S MAGRY(1)="0^ERROR - Invalid File # - "_FILE Q
+"RTN","MAGGNLKP",58,0)
+ ;          Number of entries to return, If 0 we'll stop at 200
+"RTN","MAGGNLKP",59,0)
+ ;
+"RTN","MAGGNLKP",60,0)
+ K ^TMP("DILIST",$J)
+"RTN","MAGGNLKP",61,0)
+ K ^TMP("DIERR",$J)
+"RTN","MAGGNLKP",62,0)
+ ;  VAL is the initial value to search for. i.e. the user input.
+"RTN","MAGGNLKP",63,0)
+ ;  Next line is to stop the FM Infinite Error Trap problem.
+"RTN","MAGGNLKP",64,0)
+ I $L(VAL)>30 S MAGRY(0)="0^Invalid Input: '"_$E(VAL,1,40)_"...' is too long. "_$L(VAL)_" characters." Q
+"RTN","MAGGNLKP",65,0)
+ D FIND^DIC(FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT)
+"RTN","MAGGNLKP",66,0)
+ ;
+"RTN","MAGGNLKP",67,0)
+ I '$D(^TMP("DILIST",$J,1)) S XI=1 D  Q
+"RTN","MAGGNLKP",68,0)
+ . I $D(^TMP("DIERR",$J)) D FINDERR(XI) Q
+"RTN","MAGGNLKP",69,0)
+ . S MAGRY(XI)="0^NO MATCH for lookup on """_$P(MAGIN,"^",3)_""""
+"RTN","MAGGNLKP",70,0)
+ ;  so we have some matches, (BUT we could still have an error)
+"RTN","MAGGNLKP",71,0)
+ ;  so first list all matches, then the ERROR
+"RTN","MAGGNLKP",72,0)
+ ;  Next lines were Q&D but old .EXE's expect return string with 
+"RTN","MAGGNLKP",73,0)
+ ;  this syntax, when all T11 code is gone, this can be rewritten
+"RTN","MAGGNLKP",74,0)
+ I LVIEW S XI="" F  S XI=$O(^TMP("DILIST",$J,1,XI)) Q:XI=""  S X=^(XI) D
+"RTN","MAGGNLKP",75,0)
+ . S MAGIEN=^TMP("DILIST",$J,2,XI)
+"RTN","MAGGNLKP",76,0)
+ . S Z=".01",FLD="NAME"
+"RTN","MAGGNLKP",77,0)
+ . F  S Z=$O(^TMP("DILIST",$J,"ID",XI,Z)) Q:Z=""  S X=X_"^"_^(Z),FLD=FLD_"^"_$$GET1^DID(FILE,Z,"","LABEL","MAGFLD")
+"RTN","MAGGNLKP",78,0)
+ . S MAGRY(.05)=FLD
+"RTN","MAGGNLKP",79,0)
+ . S MAGRY(XI)=X_"^|"_MAGIEN
+"RTN","MAGGNLKP",80,0)
+ . Q
+"RTN","MAGGNLKP",81,0)
+ I 'LVIEW  S XI="" F  S XI=$O(^TMP("DILIST",$J,1,XI)) Q:XI=""  S X=^(XI) D
+"RTN","MAGGNLKP",82,0)
+ . S MAGIEN=^TMP("DILIST",$J,2,XI)
+"RTN","MAGGNLKP",83,0)
+ . S Z=""
+"RTN","MAGGNLKP",84,0)
+ . F  S Z=$O(^TMP("DILIST",$J,"ID",XI,Z)) Q:Z=""  S X=X_"   "_^(Z)
+"RTN","MAGGNLKP",85,0)
+ . S MAGRY(XI)=X_"^"_MAGIEN
+"RTN","MAGGNLKP",86,0)
+ . Q
+"RTN","MAGGNLKP",87,0)
+ I $D(^TMP("DIERR",$J)) D FINDERR() Q
+"RTN","MAGGNLKP",88,0)
+ I $D(^TMP("DILIST",$J,0)) S INFO=^(0) D
+"RTN","MAGGNLKP",89,0)
+ . S MAGRY(0)=$P(INFO,"^")_U_"Found "_$P(INFO,"^")_" entr"_$S((+INFO=1):"y",1:"ies")_" matching """_$P(MAGIN,"^",3)_""""
+"RTN","MAGGNLKP",90,0)
+ . I $P(INFO,"^",3)>0 S MAGRY(0)=MAGRY(0)_" there are more"
+"RTN","MAGGNLKP",91,0)
+ . Q
+"RTN","MAGGNLKP",92,0)
+ Q
+"RTN","MAGGNLKP",93,0)
+FINDERR(XI) ;
+"RTN","MAGGNLKP",94,0)
+ ;
+"RTN","MAGGNLKP",95,0)
+ I '+$G(XI) S XI=$O(MAGRY(""),-1)+1
+"RTN","MAGGNLKP",96,0)
+ S MAGRY(XI)="ERROR^"_^TMP("DIERR",$J,1,"TEXT",1)
+"RTN","MAGGNLKP",97,0)
+ Q
+"RTN","MAGGTPT1")
+0^2^B32058249
+"RTN","MAGGTPT1",1,0)
+MAGGTPT1 ;WOIFO/GEK - Delphi-Broker calls for patient lookup and information ; [ 06/20/2001 08:57 ]
+"RTN","MAGGTPT1",2,0)
+ ;;3.0;IMAGING;**16,8,92**;Jan 10, 2007;Build 1
+"RTN","MAGGTPT1",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGGTPT1",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTPT1",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGTPT1",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGTPT1",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGTPT1",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGTPT1",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGTPT1",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGTPT1",11,0)
+ ;; |                                                               |
+"RTN","MAGGTPT1",12,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGTPT1",13,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGTPT1",14,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGTPT1",15,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGTPT1",16,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGTPT1",17,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTPT1",18,0)
+ ;;
+"RTN","MAGGTPT1",19,0)
+ Q
+"RTN","MAGGTPT1",20,0)
+ ;
+"RTN","MAGGTPT1",21,0)
+FIND(MAGRY,ZY) ;RPC [MAGG PAT FIND]
+"RTN","MAGGTPT1",22,0)
+ ; Call to Do a lookup using FIND^DIC
+"RTN","MAGGTPT1",23,0)
+ ; MAGRY is the Array to return.
+"RTN","MAGGTPT1",24,0)
+ ; ZY is parameter sent by calling app (Delphi)
+"RTN","MAGGTPT1",25,0)
+ ;     NUM TO RETURN ^ TEXT TO MATCH ^  ^ ^ SCREEN ($P 5-99)
+"RTN","MAGGTPT1",26,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERRA^MAGGTERR"
+"RTN","MAGGTPT1",27,0)
+ ;
+"RTN","MAGGTPT1",28,0)
+ N X,Y,I,Z,MAGDFN,WARD
+"RTN","MAGGTPT1",29,0)
+ N FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT
+"RTN","MAGGTPT1",30,0)
+ S (FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT)=""
+"RTN","MAGGTPT1",31,0)
+ ;
+"RTN","MAGGTPT1",32,0)
+ S FILE=2 ; Patient File
+"RTN","MAGGTPT1",33,0)
+ ;          Number of entries to return, If 0 we'll stop at 100
+"RTN","MAGGTPT1",34,0)
+ S NUM=$S(+$P(ZY,U,1):+$P(ZY,U,1),1:100)
+"RTN","MAGGTPT1",35,0)
+ S VAL=$P(ZY,U,2) ; this is the starting value i.e. 'Smi'
+"RTN","MAGGTPT1",36,0)
+ S SCR=$P(ZY,U,5,99)
+"RTN","MAGGTPT1",37,0)
+ S FLDS=$P(ZY,U,3)
+"RTN","MAGGTPT1",38,0)
+ ; $P(ZU,U,4) isn't used.
+"RTN","MAGGTPT1",39,0)
+ ;  If specific fields aren't requested, 
+"RTN","MAGGTPT1",40,0)
+ ;     Get Identifiers, and ward as FLDS
+"RTN","MAGGTPT1",41,0)
+ ;I '$L(FLDS) S FLDS=FLDS_";.1;.03;.09;.301;391"
+"RTN","MAGGTPT1",42,0)
+ I '$L(FLDS) S FLDS=FLDS_";.1;.301;391"
+"RTN","MAGGTPT1",43,0)
+ ;  we'll add ACN to the index to search, for ward
+"RTN","MAGGTPT1",44,0)
+ ; for speed we'll decide which xref to use
+"RTN","MAGGTPT1",45,0)
+ S INDEX=$S(VAL?9N:"SSN^ACN",VAL?1U1.N:"BS5^ACN",1:"B^ACN")
+"RTN","MAGGTPT1",46,0)
+ ;
+"RTN","MAGGTPT1",47,0)
+ K ^TMP("DILIST",$J)
+"RTN","MAGGTPT1",48,0)
+ K ^TMP("DIERR",$J)
+"RTN","MAGGTPT1",49,0)
+ ;  VAL is the initial value to search for. i.e. the user input.
+"RTN","MAGGTPT1",50,0)
+ ;  Next line is to stop the FM Infinite Error Trap problem.
+"RTN","MAGGTPT1",51,0)
+ I $L(VAL)>30 S MAGRY(0)="0^Invalid: Input '"_$E(VAL,1,40)_"...' is too long. "_$L(VAL)_" characters." Q
+"RTN","MAGGTPT1",52,0)
+ D FIND^DIC(FILE,IENS,FLDS,FLAGS,VAL,NUM,INDEX,SCR,IDENT,TROOT)
+"RTN","MAGGTPT1",53,0)
+ ;
+"RTN","MAGGTPT1",54,0)
+ ;  if no Match or ERROR  we return 0 as 1st '^' piece.
+"RTN","MAGGTPT1",55,0)
+ ;
+"RTN","MAGGTPT1",56,0)
+ I '$D(^TMP("DILIST",$J,1)) S I=1 D  Q
+"RTN","MAGGTPT1",57,0)
+ . I $D(^TMP("DIERR",$J)) D FINDERR(I) Q
+"RTN","MAGGTPT1",58,0)
+ . S MAGRY(I)="NO MATCH for lookup on """_$P(ZY,"^",2)_""""
+"RTN","MAGGTPT1",59,0)
+ ;
+"RTN","MAGGTPT1",60,0)
+ ;  so we have some matches, (BUT we could still have an error)
+"RTN","MAGGTPT1",61,0)
+ ;  so first list all matches, then the Errors, if any.
+"RTN","MAGGTPT1",62,0)
+ S I="" F  S I=$O(^TMP("DILIST",$J,1,I)) Q:I=""  D
+"RTN","MAGGTPT1",63,0)
+ . S X=^TMP("DILIST",$J,1,I) ; Name
+"RTN","MAGGTPT1",64,0)
+ . S MAGDFN=^TMP("DILIST",$J,2,I) ; DFN
+"RTN","MAGGTPT1",65,0)
+ . ;
+"RTN","MAGGTPT1",66,0)
+ . S WARD=^TMP("DILIST",$J,"ID",I,.1)
+"RTN","MAGGTPT1",67,0)
+ . K ^TMP("DILIST",$J,"ID",I,.1)
+"RTN","MAGGTPT1",68,0)
+ . I $E(WARD,1,$L(VAL))=VAL S X=WARD_"   "_X
+"RTN","MAGGTPT1",69,0)
+ . ;
+"RTN","MAGGTPT1",70,0)
+ . S X=X_"   "_$$DOB^DPTLK1(MAGDFN)_"   "_$$SSN^DPTLK1(MAGDFN)
+"RTN","MAGGTPT1",71,0)
+ . S Z=0
+"RTN","MAGGTPT1",72,0)
+ . ; We are displaying other identifiers with each patient.
+"RTN","MAGGTPT1",73,0)
+ . F  S Z=$O(^TMP("DILIST",$J,"ID",I,Z)) Q:Z=""  S X=X_"   "_^(Z)
+"RTN","MAGGTPT1",74,0)
+ . S MAGRY(I)=X_"^"_+MAGDFN
+"RTN","MAGGTPT1",75,0)
+ ;
+"RTN","MAGGTPT1",76,0)
+ I $D(^TMP("DIERR",$J)) D FINDERR() Q
+"RTN","MAGGTPT1",77,0)
+ I '$D(^TMP("DILIST",$J,0)) Q
+"RTN","MAGGTPT1",78,0)
+ S X=^TMP("DILIST",$J,0)
+"RTN","MAGGTPT1",79,0)
+ S I=$O(MAGRY(""),-1)+1
+"RTN","MAGGTPT1",80,0)
+ S MAGRY(0)="Found "_$P(X,"^")_" entr"_$S((+X=1):"y",1:"ies")_" matching """_$P(ZY,"^",3)_""""
+"RTN","MAGGTPT1",81,0)
+ I $P(X,"^",3)>0 S MAGRY(0)=MAGRY(0)_" there are more"
+"RTN","MAGGTPT1",82,0)
+ Q
+"RTN","MAGGTPT1",83,0)
+FINDERR(XI) ;
+"RTN","MAGGTPT1",84,0)
+ I '+$G(XI) S XI=$O(MAGRY(""),-1)+1
+"RTN","MAGGTPT1",85,0)
+ S MAGRY(XI)="ERROR^"_^TMP("DIERR",$J,1,"TEXT",1)
+"RTN","MAGGTPT1",86,0)
+ Q
+"RTN","MAGGTPT1",87,0)
+INFO(MAGRY,DATA) ;RPC [MAGG PAT INFO]  Call to  Return patient info.
+"RTN","MAGGTPT1",88,0)
+ ; Input parameters 
+"RTN","MAGGTPT1",89,0)
+ ;    DATA:  MAGDFN ^ NOLOG ^ ISICN
+"RTN","MAGGTPT1",90,0)
+ ;       MAGDFN -- Patient DFN
+"RTN","MAGGTPT1",91,0)
+ ;       NOLOG  -- 0/1; if 1, then do NOT update the Session log
+"RTN","MAGGTPT1",92,0)
+ ;       ISICN  -- 0/1  if 1, then this is an ICN, if 0 (default) this is a DFN ; Patch 41
+"RTN","MAGGTPT1",93,0)
+ ;  MAGRY is a string, we return the following :
+"RTN","MAGGTPT1",94,0)
+ ; //$P     1        2      3     4     5     6     7     8        9                     10
+"RTN","MAGGTPT1",95,0)
+ ; //    status ^   DFN ^ name ^ sex ^ DOB ^ SSN ^ S/C ^ TYPE ^ Veteran(y/n)  ^ Patient Image Count
+"RTN","MAGGTPT1",96,0)
+ ; //$P    11            12              13
+"RTN","MAGGTPT1",97,0)
+ ;        ICN       SITE Number   ^ Production Account 1/0
+"RTN","MAGGTPT1",98,0)
+ ; VADM(1)=Patient's name
+"RTN","MAGGTPT1",99,0)
+ ; VADM(5)=Patient's sex (M^MALE)
+"RTN","MAGGTPT1",100,0)
+ ; VADM(3)=Patient's DOB (internal^external)
+"RTN","MAGGTPT1",101,0)
+ ; VADM(2)=Patient's SSN (internal^external)
+"RTN","MAGGTPT1",102,0)
+ ; VAEL(3)=Patient's Service Connected? (#.301) (1=yes)
+"RTN","MAGGTPT1",103,0)
+ ; VAEL(4)=Patient's Veteran Y/N (#1901) (1=yes)
+"RTN","MAGGTPT1",104,0)
+ ; VAEL(6)=Patient's Type (#391) (internal^external)
+"RTN","MAGGTPT1",105,0)
+ ;
+"RTN","MAGGTPT1",106,0)
+ N MAGDFN,DFN,X,NOLOG,VADM,VAEL,VAERR,ISICN
+"RTN","MAGGTPT1",107,0)
+ S MAGDFN=$P(DATA,U),NOLOG=+$P(DATA,U,2),ISICN=+$P(DATA,U,3)
+"RTN","MAGGTPT1",108,0)
+ I ISICN D GETDFN^VAFCTFU1(.DFN,MAGDFN)
+"RTN","MAGGTPT1",109,0)
+ E  S DFN=+MAGDFN
+"RTN","MAGGTPT1",110,0)
+ D DEM^VADPT,ELIG^VADPT
+"RTN","MAGGTPT1",111,0)
+ I VAERR S MAGRY="0^"_"Entry not found in Patient file." Q
+"RTN","MAGGTPT1",112,0)
+ S X=$TR($$FMTE^XLFDT($P(VADM(3),"^"),"2FD")," ",0)
+"RTN","MAGGTPT1",113,0)
+ ; //           status ^   DFN ^ name ^ sex ^ DOB ^ SSN    ^ S/C ^ TYPE ^ Veteran(y/n)  ^ Patient Image Count
+"RTN","MAGGTPT1",114,0)
+ S $P(MAGRY,"^",1,2)="1^"_DFN
+"RTN","MAGGTPT1",115,0)
+ ;          Fields:      NAME,           SEX,      DATE OF BIRTH,    SSN
+"RTN","MAGGTPT1",116,0)
+ S $P(MAGRY,"^",3,6)=$G(VADM(1))_"^"_$P(VADM(5),"^",2)_"^"_X_"^"_$P(VADM(2),"^")
+"RTN","MAGGTPT1",117,0)
+ ;          Fields:  Service Connected?,       Type,                   Veteran Y/N?     
+"RTN","MAGGTPT1",118,0)
+ S $P(MAGRY,"^",7,9)=$S(+VAEL(3):"YES",1:"")_"^"_$P(VAEL(6),"^",2)_"^"_$S(+VAEL(4):"YES",1:"")
+"RTN","MAGGTPT1",119,0)
+ ;          Fields:  Patient Image Count   
+"RTN","MAGGTPT1",120,0)
+ S $P(MAGRY,"^",10)=$$IMGCT(DFN)_"^"
+"RTN","MAGGTPT1",121,0)
+ ;  Additions. for Patch 41
+"RTN","MAGGTPT1",122,0)
+ ;          Fields :   Patient ICN
+"RTN","MAGGTPT1",123,0)
+ S $P(MAGRY,"^",11)=$$GETICN^MPIF001(DFN)
+"RTN","MAGGTPT1",124,0)
+ S X=$$SITE^VASITE
+"RTN","MAGGTPT1",125,0)
+ ;          Fields:   Site Number       Prod Acct
+"RTN","MAGGTPT1",126,0)
+ S $P(MAGRY,"^",12)=$P($G(X),"^",3)_"^"_"1" ; We'll default to Production Account = Yes.
+"RTN","MAGGTPT1",127,0)
+ ; NEED KERNEL PATCH XU*8.0*284 FOR PROD^XUPROD
+"RTN","MAGGTPT1",128,0)
+ ;          Fields :   the Actual value for Prod Acct
+"RTN","MAGGTPT1",129,0)
+ I $L($T(PROD^XUPROD)) S $P(MAGRY,"^",13)=+$$PROD^XUPROD
+"RTN","MAGGTPT1",130,0)
+ S $P(MAGRY,"^",14)="^"
+"RTN","MAGGTPT1",131,0)
+ ; AGE
+"RTN","MAGGTPT1",132,0)
+ S $P(MAGRY,"^",15)=VADM(4)_"^"
+"RTN","MAGGTPT1",133,0)
+ D KVAR^VADPT,KVA^VADPT
+"RTN","MAGGTPT1",134,0)
+ I NOLOG  ; Don't update session log
+"RTN","MAGGTPT1",135,0)
+ ;  We'll track DFN:ICN
+"RTN","MAGGTPT1",136,0)
+ E  D ACTION^MAGGTAU("PAT^"_DFN_$S(ISICN:"-"_MAGDFN,1:""))
+"RTN","MAGGTPT1",137,0)
+ Q
+"RTN","MAGGTPT1",138,0)
+IMGCT(DFN) ; RETURN TOTAL NUMBER OF IMAGES FOR A PATIENT;
+"RTN","MAGGTPT1",139,0)
+ ;
+"RTN","MAGGTPT1",140,0)
+ N I,CT,RDT,PRX,IEN
+"RTN","MAGGTPT1",141,0)
+ S CT=0
+"RTN","MAGGTPT1",142,0)
+ S RDT="" F  S RDT=$O(^MAG(2005,"APDTPX",DFN,RDT)) Q:RDT=""  D
+"RTN","MAGGTPT1",143,0)
+ . S PRX="" F  S PRX=$O(^MAG(2005,"APDTPX",DFN,RDT,PRX)) Q:PRX=""  D
+"RTN","MAGGTPT1",144,0)
+ . . S IEN="" F  S IEN=$O(^MAG(2005,"APDTPX",DFN,RDT,PRX,IEN)) Q:IEN=""  S CT=CT+1
+"RTN","MAGGTPT1",145,0)
+ Q CT
+"RTN","MAGGTPT1",146,0)
+BS5CHK(MAGRY,MAGDFN) ;RPC [MAGG PAT BS5 CHECK]
+"RTN","MAGGTPT1",147,0)
+ ; Call to check the BS5 cross ref 
+"RTN","MAGGTPT1",148,0)
+ ; and see if any similar patients exist.
+"RTN","MAGGTPT1",149,0)
+ ; If yes, all matching patients will be listed and shown to the user.
+"RTN","MAGGTPT1",150,0)
+ ;
+"RTN","MAGGTPT1",151,0)
+ N MAGX,MAGDPT,XDFN,XSSN,CT,LNTH
+"RTN","MAGGTPT1",152,0)
+ S LNTH=0
+"RTN","MAGGTPT1",153,0)
+ S MAGRY(1)="-1^Error checking cross reference"
+"RTN","MAGGTPT1",154,0)
+ D GUIBS5A^DPTLK6(.MAGRY,MAGDFN)
+"RTN","MAGGTPT1",155,0)
+ I MAGRY(1)=0 Q
+"RTN","MAGGTPT1",156,0)
+ S CT=$O(MAGRY(""),-1)+1
+"RTN","MAGGTPT1",157,0)
+ S MAGRY(CT)=MAGRY(CT-1),MAGRY(CT-1)="0^ "
+"RTN","MAGGTPT1",158,0)
+ S I="" F  S I=$O(MAGRY(I)) Q:'I  D
+"RTN","MAGGTPT1",159,0)
+ . I $P(MAGRY(I),U)=0 Q
+"RTN","MAGGTPT1",160,0)
+ . I $L($P(MAGRY(I),U,3))>LNTH S LNTH=$L($P(MAGRY(I),U,3))
+"RTN","MAGGTPT1",161,0)
+ S LNTH=LNTH+1
+"RTN","MAGGTPT1",162,0)
+ S I=1 F  S I=$O(MAGRY(I)) Q:'I  D
+"RTN","MAGGTPT1",163,0)
+ . I $P(MAGRY(I),U)="0" S MAGRY(I)=$P(MAGRY(I),U,2) Q
+"RTN","MAGGTPT1",164,0)
+ . S XDFN=$P(MAGRY(I),U,2)
+"RTN","MAGGTPT1",165,0)
+ . I +XDFN=+MAGDFN S MAGX="   >>>>>> "
+"RTN","MAGGTPT1",166,0)
+ . E  S MAGX="          "
+"RTN","MAGGTPT1",167,0)
+ . S XSSN=$$SSN^DPTLK1(XDFN) I XSSN?9N S XSSN=$E(XSSN,1,3)_"-"_$E(XSSN,4,5)_"-"_$E(XSSN,6,9)
+"RTN","MAGGTPT1",168,0)
+ . S MAGDPT=$P(MAGRY(I),U,3),$E(MAGDPT,LNTH)=" "
+"RTN","MAGGTPT1",169,0)
+ . S MAGX=MAGX_MAGDPT_"   "_$$DOB^DPTLK1(XDFN)_"   "_XSSN
+"RTN","MAGGTPT1",170,0)
+ . S MAGRY(I)=MAGX
+"RTN","MAGGTPT1",171,0)
+ Q
+"RTN","MAGIPS92")
+0^3^B9086005
+"RTN","MAGIPS92",1,0)
+MAGIPS92 ;Post init routine to queue site activity at install ; 16 Feb 2004  2:41 PM
+"RTN","MAGIPS92",2,0)
+ ;;3.0;IMAGING;**92**;Jan 10, 2007;Build 1
+"RTN","MAGIPS92",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGIPS92",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS92",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS92",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS92",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS92",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS92",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS92",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS92",11,0)
+ ;; |                                                               |
+"RTN","MAGIPS92",12,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS92",13,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS92",14,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS92",15,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS92",16,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS92",17,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS92",18,0)
+ ;;
+"RTN","MAGIPS92",19,0)
+ Q
+"RTN","MAGIPS92",20,0)
+POST ;
+"RTN","MAGIPS92",21,0)
+ ; create and send the site installation message
+"RTN","MAGIPS92",22,0)
+ D REMTASK^MAGQE4
+"RTN","MAGIPS92",23,0)
+ D STTASK^MAGQE4
+"RTN","MAGIPS92",24,0)
+ D INS(XPDNM,DUZ,$$NOW^XLFDT,XPDA)
+"RTN","MAGIPS92",25,0)
+ Q
+"RTN","MAGIPS92",26,0)
+INS(XP,DUZ,DATE,IDA) ;
+"RTN","MAGIPS92",27,0)
+ N CT,CNT,COM,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS92",28,0)
+ D GETENV^%ZOSV
+"RTN","MAGIPS92",29,0)
+ S CNT=0
+"RTN","MAGIPS92",30,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS92",31,0)
+ S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS92",32,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XP
+"RTN","MAGIPS92",33,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XP)
+"RTN","MAGIPS92",34,0)
+ S ST=$$GET1^DIQ(9.7,IDA,11,"I")
+"RTN","MAGIPS92",35,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS92",36,0)
+ S CT=$$GET1^DIQ(9.7,IDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT
+"RTN","MAGIPS92",37,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS92",38,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS92",39,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS92",40,0)
+ S COM=$$GET1^DIQ(9.7,IDA,6,"I")
+"RTN","MAGIPS92",41,0)
+ S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_COM
+"RTN","MAGIPS92",42,0)
+ S CNT=CNT+1,MAGMSG(CNT)="DATE: "_DATE
+"RTN","MAGIPS92",43,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,IDA,9,"E")
+"RTN","MAGIPS92",44,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,IDA,.01,"E")
+"RTN","MAGIPS92",45,0)
+ S DDATE=$$GET1^DIQ(9.7,IDA,51,"I")
+"RTN","MAGIPS92",46,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS92",47,0)
+ S XMSUB=XP_" INSTALLATION"
+"RTN","MAGIPS92",48,0)
+ S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS92",49,0)
+ S XMY(XMID)=""
+"RTN","MAGIPS92",50,0)
+ S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS92",51,0)
+ S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS92",52,0)
+ S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS92",53,0)
+ D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS92",54,0)
+ I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS92",55,0)
+ Q
+"VER")
+8.0^22.0
+**END**
+**END**

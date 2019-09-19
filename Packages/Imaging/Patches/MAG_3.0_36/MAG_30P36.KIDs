@@ -1,0 +1,538 @@
+KIDS Distribution saved on Feb 13, 2004@07:43:01
+VistA Imaging V3.0 - Patch 36 - 02/13/2004 07:43AM
+**KIDS**:MAG*3.0*36^
+
+**INSTALL NAME**
+MAG*3.0*36
+"BLD",3463,0)
+MAG*3.0*36^IMAGING^0^3040213^y
+"BLD",3463,1,0)
+^^9^9^3040213^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 36 - DICOM Maintenance for Kernel patch 335
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+Routines:
+"BLD",3463,1,5,0)
+MAGDROUT    value = 5343680
+"BLD",3463,1,6,0)
+MAGIPS36    value = 4705155
+"BLD",3463,1,7,0)
+ 
+"BLD",3463,1,8,0)
+Please note that routine MAGIPS36 is deleted after the KIDS Build is
+"BLD",3463,1,9,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^MAGIPS36    value = 4705155^0
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+N^Y^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INID")
+n^y^n
+"BLD",3463,"INIT")
+POST^MAGIPS36
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAGDROUT^^0^B11388481
+"BLD",3463,"KRN",9.8,"NM","B","MAGDROUT",1)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"BLD",3463,"REQB",0)
+^9.611^1^1
+"BLD",3463,"REQB",1,0)
+XU*8.0*335^2
+"BLD",3463,"REQB","B","XU*8.0*335",1)
+
+"INIT")
+POST^MAGIPS36
+"MBREQ")
+0
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+36^3040213^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^8^8^3040213
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for the Imaging Site Usage reports.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGDROUT    value = 5343680
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGIPS36    value = 4705155
+"PKG",454,22,1,"PAH",1,1,6,0)
+ 
+"PKG",454,22,1,"PAH",1,1,7,0)
+Please note that routine MAGIPS36 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,8,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","MAGDROUT")
+0^1^B11388481
+"RTN","MAGDROUT",1,0)
+MAGDROUT ;WOIFO/EdM - Copy routine code ; 01/29/2004  11:59
+"RTN","MAGDROUT",2,0)
+ ;;3.0;IMAGING;**10,36**;13-February-2004
+"RTN","MAGDROUT",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDROUT",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDROUT",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDROUT",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDROUT",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDROUT",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDROUT",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDROUT",10,0)
+ ;; |                                                               |
+"RTN","MAGDROUT",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDROUT",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDROUT",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDROUT",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDROUT",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDROUT",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDROUT",17,0)
+ ;;
+"RTN","MAGDROUT",18,0)
+ ; This routine can be used to copy code from the VistA system
+"RTN","MAGDROUT",19,0)
+ ; to a DICOM Gateway computer.
+"RTN","MAGDROUT",20,0)
+ ;
+"RTN","MAGDROUT",21,0)
+ ; The entry point VISTA collects the software from the live system
+"RTN","MAGDROUT",22,0)
+ ; and stores it in ^MAGD.
+"RTN","MAGDROUT",23,0)
+ ;
+"RTN","MAGDROUT",24,0)
+ ; The entry point DICOM takes the software from the global variable
+"RTN","MAGDROUT",25,0)
+ ; and stores it in the local system.
+"RTN","MAGDROUT",26,0)
+ Q
+"RTN","MAGDROUT",27,0)
+ ;
+"RTN","MAGDROUT",28,0)
+VISTA D SAVE(1)
+"RTN","MAGDROUT",29,0)
+ Q
+"RTN","MAGDROUT",30,0)
+ ;
+"RTN","MAGDROUT",31,0)
+SILENT D SAVE(0)
+"RTN","MAGDROUT",32,0)
+ Q
+"RTN","MAGDROUT",33,0)
+ ;
+"RTN","MAGDROUT",34,0)
+SAVE(VERBOSE) ; Collect active code
+"RTN","MAGDROUT",35,0)
+ N D0,D1,I,N,R,X
+"RTN","MAGDROUT",36,0)
+ S VERBOSE=+$G(VERBOSE),N=0
+"RTN","MAGDROUT",37,0)
+ ;
+"RTN","MAGDROUT",38,0)
+ ; From Kernel:
+"RTN","MAGDROUT",39,0)
+ F R="XLFDT","XUSRB1","XUMF333" S R(R)=""
+"RTN","MAGDROUT",40,0)
+ ; From Radiology 5.0
+"RTN","MAGDROUT",41,0)
+ F R="RARIC","RARTE2","RAUTL","RAUTL1","RAUTL2","RAUTL20","RAUTL3","RAUTL5","RAXREF" S R(R)=""
+"RTN","MAGDROUT",42,0)
+ ; From MAS
+"RTN","MAGDROUT",43,0)
+ F R="VADPT","VADPT0","VADPT1","VADPT2","VADPT3","VADPT30","VADPT31","VADPT32","VADPT4","VADPT5","VADPT6","VADPT60","VADPT61","VADPT62" S R(R)=""
+"RTN","MAGDROUT",44,0)
+ ; From TIU
+"RTN","MAGDROUT",45,0)
+ F R="TIULC1","TIULS","TIUSRVPL" S R(R)=""
+"RTN","MAGDROUT",46,0)
+ ; From Medicine
+"RTN","MAGDROUT",47,0)
+ S R="MCUIMAG0",R(R)=""
+"RTN","MAGDROUT",48,0)
+ ;
+"RTN","MAGDROUT",49,0)
+ ; Store the code from the routines:
+"RTN","MAGDROUT",50,0)
+ W !!,"Saving source code for Imaging..."
+"RTN","MAGDROUT",51,0)
+ W:VERBOSE !!,"Now copying:",!
+"RTN","MAGDROUT",52,0)
+ S R="" F  S R=$O(R(R)) Q:R=""  D
+"RTN","MAGDROUT",53,0)
+ . N %
+"RTN","MAGDROUT",54,0)
+ . W:VERBOSE !,R,?15 S N=N+1
+"RTN","MAGDROUT",55,0)
+ . D NOW^%DTC
+"RTN","MAGDROUT",56,0)
+ . S D0=$O(^MAGD(2006.79,"B",R,"")) D:'D0
+"RTN","MAGDROUT",57,0)
+ . . L +^MAGD(2006.79)
+"RTN","MAGDROUT",58,0)
+ . . S X=$G(^MAGD(2006.79,0)),$P(X,"^",1,2)="DICOM ROUTINE COPY^2006.79"
+"RTN","MAGDROUT",59,0)
+ . . S D0=$O(^MAGD(2006.79," "),-1)+1
+"RTN","MAGDROUT",60,0)
+ . . S ^MAGD(2006.79,D0,0)=R_"^"_%,^MAGD(2006.79,"B",R,D0)=""
+"RTN","MAGDROUT",61,0)
+ . . S $P(X,"^",3)=D0,$P(X,"^",4)=$P(X,"^",4)+1
+"RTN","MAGDROUT",62,0)
+ . . S ^MAGD(2006.79,0)=X
+"RTN","MAGDROUT",63,0)
+ . . L -^MAGD(2006.79)
+"RTN","MAGDROUT",64,0)
+ . . Q
+"RTN","MAGDROUT",65,0)
+ . S X=$G(^MAGD(2006.79,D0,0)),$P(X,"^",2)=%
+"RTN","MAGDROUT",66,0)
+ . L +^MAGD(2006.79,D0)
+"RTN","MAGDROUT",67,0)
+ . K ^MAGD(2006.79,D0,1)
+"RTN","MAGDROUT",68,0)
+ . S D1=0 F I=1:1 S X=$T(+I^@R) Q:X=""  S D1=D1+1,^MAGD(2006.79,D0,1,D1,0)=X
+"RTN","MAGDROUT",69,0)
+ . S ^MAGD(2006.79,D0,1,0)="^2006.791^"_D1_"^"_D1
+"RTN","MAGDROUT",70,0)
+ . L -^MAGD(2006.79,D0)
+"RTN","MAGDROUT",71,0)
+ . I VERBOSE W $J(D1,4)," line" W:D1'=1 "s"
+"RTN","MAGDROUT",72,0)
+ . Q
+"RTN","MAGDROUT",73,0)
+ W !,"Code saved for ",N," routine" W:N'=1 "s" W "."
+"RTN","MAGDROUT",74,0)
+ Q
+"RTN","MAGDROUT",75,0)
+ ;
+"RTN","MAGDROUT",76,0)
+DICOM ; Restore routines in DICOM environment
+"RTN","MAGDROUT",77,0)
+ ;N D0,D1,L,N,R,S,X
+"RTN","MAGDROUT",78,0)
+ S R="" F  S R=$O(^MAGD(2006.79,"B",R)) Q:R=""  D
+"RTN","MAGDROUT",79,0)
+ . S D0="" F  S D0=$O(^MAGD(2006.79,"B",R,D0)) Q:D0=""  D
+"RTN","MAGDROUT",80,0)
+ . . W !,R,?15
+"RTN","MAGDROUT",81,0)
+ . . S X="ZR  S D1=0 F  S D1=$O(^MAGD(2006.79,D0,1,D1)),L="""" S:D1 L=^MAGD(2006.79,D0,1,D1,0),N=D1 ZI:L'="""" L I 'D1 ZS "_R_" ZL "_$T(+0)_" Q"
+"RTN","MAGDROUT",82,0)
+ . . X X
+"RTN","MAGDROUT",83,0)
+ . . W $J(N,4)," line" W:N'=1 "s"
+"RTN","MAGDROUT",84,0)
+ . . Q
+"RTN","MAGDROUT",85,0)
+ . Q
+"RTN","MAGDROUT",86,0)
+ Q
+"RTN","MAGIPS36")
+0^^B8925294
+"RTN","MAGIPS36",1,0)
+MAGIPS36 ;Post init routine ; 02/10/2004  07:09
+"RTN","MAGIPS36",2,0)
+ ;;3.0;IMAGING;**36**;13-February-2004
+"RTN","MAGIPS36",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS36",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS36",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS36",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS36",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS36",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS36",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS36",10,0)
+ ;; |                                                               |
+"RTN","MAGIPS36",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS36",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS36",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS36",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS36",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS36",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS36",17,0)
+ ;;
+"RTN","MAGIPS36",18,0)
+ Q
+"RTN","MAGIPS36",19,0)
+ ;
+"RTN","MAGIPS36",20,0)
+POST ;
+"RTN","MAGIPS36",21,0)
+ D REMTASK^MAGQE4
+"RTN","MAGIPS36",22,0)
+ D STTASK^MAGQE4
+"RTN","MAGIPS36",23,0)
+ D INS
+"RTN","MAGIPS36",24,0)
+ D POSTI^MAGQBUT
+"RTN","MAGIPS36",25,0)
+ Q
+"RTN","MAGIPS36",26,0)
+ ;
+"RTN","MAGIPS36",27,0)
+INS ;
+"RTN","MAGIPS36",28,0)
+ N CT,CNT,COM,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS36",29,0)
+ D GETENV^%ZOSV
+"RTN","MAGIPS36",30,0)
+ S CNT=0
+"RTN","MAGIPS36",31,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS36",32,0)
+ S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS36",33,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XPDNM
+"RTN","MAGIPS36",34,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XPDNM)
+"RTN","MAGIPS36",35,0)
+ S ST=$$GET1^DIQ(9.7,XPDA,11,"I")
+"RTN","MAGIPS36",36,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS36",37,0)
+ S CT=$$GET1^DIQ(9.7,XPDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT
+"RTN","MAGIPS36",38,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS36",39,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS36",40,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS36",41,0)
+ S COM=$$GET1^DIQ(9.7,XPDA,6,"I")
+"RTN","MAGIPS36",42,0)
+ S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_COM
+"RTN","MAGIPS36",43,0)
+ S CNT=CNT+1,MAGMSG(CNT)="DATE: "_$$NOW^XLFDT
+"RTN","MAGIPS36",44,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,XPDA,9,"E")
+"RTN","MAGIPS36",45,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,XPDA,.01,"E")
+"RTN","MAGIPS36",46,0)
+ S DDATE=$$GET1^DIQ(9.7,XPDA,51,"I")
+"RTN","MAGIPS36",47,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS36",48,0)
+ S XMSUB=XPDNM_" INSTALLATION"
+"RTN","MAGIPS36",49,0)
+ S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS36",50,0)
+ S XMY(XMID)=""
+"RTN","MAGIPS36",51,0)
+ S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS36",52,0)
+ S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS36",53,0)
+ S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS36",54,0)
+ D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS36",55,0)
+ I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS36",56,0)
+ Q
+"RTN","MAGIPS36",57,0)
+ ;
+"VER")
+8.0^22.0
+**END**
+**END**
+
+
+****
+****

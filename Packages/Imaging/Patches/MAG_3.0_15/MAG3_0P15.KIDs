@@ -1,0 +1,662 @@
+KIDS Distribution saved on Apr 27, 2004@16:01:43
+VistA Imaging patch 15
+**KIDS**:MAG*3.0*15^
+
+**INSTALL NAME**
+MAG*3.0*15
+"BLD",3987,0)
+MAG*3.0*15^IMAGING^0^3040427^y
+"BLD",3987,1,0)
+^^1^1^3040427^
+"BLD",3987,1,1,0)
+This patch enhances the import API capabilities.  
+"BLD",3987,4,0)
+^9.64PA^^
+"BLD",3987,"INID")
+^y
+"BLD",3987,"INIT")
+POST^MAGIPS15
+"BLD",3987,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",3987,"KRN",.4,0)
+.4
+"BLD",3987,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",3987,"KRN",.401,0)
+.401
+"BLD",3987,"KRN",.402,0)
+.402
+"BLD",3987,"KRN",.403,0)
+.403
+"BLD",3987,"KRN",.5,0)
+.5
+"BLD",3987,"KRN",.84,0)
+.84
+"BLD",3987,"KRN",3.6,0)
+3.6
+"BLD",3987,"KRN",3.8,0)
+3.8
+"BLD",3987,"KRN",9.2,0)
+9.2
+"BLD",3987,"KRN",9.8,0)
+9.8
+"BLD",3987,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",3987,"KRN",9.8,"NM",1,0)
+MAGGSIV^^0^B40300181
+"BLD",3987,"KRN",9.8,"NM","B","MAGGSIV",1)
+
+"BLD",3987,"KRN",19,0)
+19
+"BLD",3987,"KRN",19.1,0)
+19.1
+"BLD",3987,"KRN",101,0)
+101
+"BLD",3987,"KRN",409.61,0)
+409.61
+"BLD",3987,"KRN",771,0)
+771
+"BLD",3987,"KRN",870,0)
+870
+"BLD",3987,"KRN",8989.51,0)
+8989.51
+"BLD",3987,"KRN",8989.52,0)
+8989.52
+"BLD",3987,"KRN",8994,0)
+8994
+"BLD",3987,"KRN","B",.4,.4)
+
+"BLD",3987,"KRN","B",.401,.401)
+
+"BLD",3987,"KRN","B",.402,.402)
+
+"BLD",3987,"KRN","B",.403,.403)
+
+"BLD",3987,"KRN","B",.5,.5)
+
+"BLD",3987,"KRN","B",.84,.84)
+
+"BLD",3987,"KRN","B",3.6,3.6)
+
+"BLD",3987,"KRN","B",3.8,3.8)
+
+"BLD",3987,"KRN","B",9.2,9.2)
+
+"BLD",3987,"KRN","B",9.8,9.8)
+
+"BLD",3987,"KRN","B",19,19)
+
+"BLD",3987,"KRN","B",19.1,19.1)
+
+"BLD",3987,"KRN","B",101,101)
+
+"BLD",3987,"KRN","B",409.61,409.61)
+
+"BLD",3987,"KRN","B",771,771)
+
+"BLD",3987,"KRN","B",870,870)
+
+"BLD",3987,"KRN","B",8989.51,8989.51)
+
+"BLD",3987,"KRN","B",8989.52,8989.52)
+
+"BLD",3987,"KRN","B",8994,8994)
+
+"BLD",3987,"QUES",0)
+^9.62^^
+"BLD",3987,"REQB",0)
+^9.611^2^1
+"BLD",3987,"REQB",2,0)
+MAG*3.0*7^2
+"BLD",3987,"REQB","B","MAG*3.0*7",2)
+
+"INIT")
+POST^MAGIPS15
+"MBREQ")
+0
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging-V1 to release 
+"PKG",454,20,0)
+^9.402P^^
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020319^3020517^126
+"PKG",454,22,1,"PAH",1,0)
+15^3040427
+"PKG",454,22,1,"PAH",1,1,0)
+^^1^1^3040427
+"PKG",454,22,1,"PAH",1,1,1,0)
+This patch enhances the import API capabilities.  
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","MAGGSIV")
+0^1^B40300181
+"RTN","MAGGSIV",1,0)
+MAGGSIV ;WOIFO/GEK - Imaging RPC Broker calls. Validate Image data array ; [ 12/27/2000 10:49 ]
+"RTN","MAGGSIV",2,0)
+ ;;3.0;IMAGING;**7,15**;Apr 27, 2004
+"RTN","MAGGSIV",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIV",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGSIV",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGSIV",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGSIV",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGSIV",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGSIV",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGSIV",10,0)
+ ;; |                                                               |
+"RTN","MAGGSIV",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGSIV",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGSIV",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGSIV",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGSIV",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGSIV",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIV",17,0)
+ ;;
+"RTN","MAGGSIV",18,0)
+ Q
+"RTN","MAGGSIV",19,0)
+ ;
+"RTN","MAGGSIV",20,0)
+ ; 
+"RTN","MAGGSIV",21,0)
+VAL(MAGRY,MAGARRAY,ALL) ; RPC Call to Validate the Image Data Array before a 
+"RTN","MAGGSIV",22,0)
+ ; new image/modified entry is attempted.  
+"RTN","MAGGSIV",23,0)
+ ; Called from MAGGSIA, MAGGSIUI and Capture GUI.
+"RTN","MAGGSIV",24,0)
+ ;
+"RTN","MAGGSIV",25,0)
+ ;  Parameters : 
+"RTN","MAGGSIV",26,0)
+ ;    MAGARRAY - array of 'Field numbers'/'Action codes'  and their Values 
+"RTN","MAGGSIV",27,0)
+ ;                     MAGARRAY(1)="5^38"  Field#:  5   Value: 38
+"RTN","MAGGSIV",28,0)
+ ;         an example of an action code is the Code for File Extension    
+"RTN","MAGGSIV",29,0)
+ ;                     MAGARRAY(2)="EXT^JPG"  Action: EXT Value: JPG
+"RTN","MAGGSIV",30,0)
+ ;                        
+"RTN","MAGGSIV",31,0)
+ ;    ALL - "1" = Validate ALL fields, returning an array of error messages.
+"RTN","MAGGSIV",32,0)
+ ;          "0" = Stop validating if an error occurs, return
+"RTN","MAGGSIV",33,0)
+ ;                           the error message in (0) node.
+"RTN","MAGGSIV",34,0)
+ ;  Return Variable
+"RTN","MAGGSIV",35,0)
+ ;    MAGRY() - Array
+"RTN","MAGGSIV",36,0)
+ ;      Successful   MAGRY(0) = 1^Image Data is Valid.
+"RTN","MAGGSIV",37,0)
+ ;      UNsuccessful MAGRY(0) = 0^Error desc
+"RTN","MAGGSIV",38,0)
+ ;                   IF ALL then MAGRY(1..N) =0^Error desc of all errors
+"RTN","MAGGSIV",39,0)
+ ;
+"RTN","MAGGSIV",40,0)
+ ;----------------------------------------------------------------
+"RTN","MAGGSIV",41,0)
+ N MAGGFLD,MAGGDAT,MAGFSPEC,CHKOK
+"RTN","MAGGSIV",42,0)
+ N Y,AITEM,CT,MAGERR,DFNFLAG
+"RTN","MAGGSIV",43,0)
+ ;N $ETRAP,$ESTACK S $ETRAP="D ERR^MAGGSERR"
+"RTN","MAGGSIV",44,0)
+ ;
+"RTN","MAGGSIV",45,0)
+ S ALL=$G(ALL)
+"RTN","MAGGSIV",46,0)
+ S MAGRY(0)="0^Validating the Data Array..."
+"RTN","MAGGSIV",47,0)
+ S MAGERR="",DFNFLAG=0,CT=0
+"RTN","MAGGSIV",48,0)
+ ;
+"RTN","MAGGSIV",49,0)
+ ;  Do we have any data ? 
+"RTN","MAGGSIV",50,0)
+ I ($D(MAGARRAY)<10) S MAGRY(0)="0^No input data, Operation CANCELED" Q
+"RTN","MAGGSIV",51,0)
+ ;  Loop through Input Array 
+"RTN","MAGGSIV",52,0)
+ S AITEM="" F  S AITEM=$O(MAGARRAY(AITEM)) Q:AITEM=""  D  I $L(MAGERR) Q:'ALL  S CT=CT+1,MAGRY(CT)=MAGERR,MAGERR=""
+"RTN","MAGGSIV",53,0)
+ . S MAGERR=""
+"RTN","MAGGSIV",54,0)
+ . S MAGGFLD=$P(MAGARRAY(AITEM),U,1),MAGGDAT=$P(MAGARRAY(AITEM),U,2,99)
+"RTN","MAGGSIV",55,0)
+ . ;
+"RTN","MAGGSIV",56,0)
+ . I MAGGFLD="" S MAGERR="0^A Field Number/Action Code is required: "_" Item: "_MAGARRAY(AITEM) Q
+"RTN","MAGGSIV",57,0)
+ . I MAGGDAT="" S MAGERR="0^A Value is required."_" Item: "_MAGARRAY(AITEM) Q
+"RTN","MAGGSIV",58,0)
+ . I MAGGFLD=5 S DFNFLAG=1
+"RTN","MAGGSIV",59,0)
+ . ; This inadvertantly disallowed Tracking ID's on Group Images.
+"RTN","MAGGSIV",60,0)
+ . ;I MAGGFLD=108 I $D(^MAG(2005,"ATRKID",MAGGDAT)) S MAGERR="0^Tracking ID Must be Unique !" Q
+"RTN","MAGGSIV",61,0)
+ . I MAGGFLD=108 I ($L(MAGGDAT,";")<2) S MAGRY(0)="0^Tracking ID Must have "";"" Delimiter" Q
+"RTN","MAGGSIV",62,0)
+ . ; Check for possible action codes that could be in the array.
+"RTN","MAGGSIV",63,0)
+ . I $$ACTCODE(MAGGFLD) D  Q
+"RTN","MAGGSIV",64,0)
+ . . S Y=$$VALCODE(MAGARRAY(AITEM)) S:'Y MAGERR=Y_" Item: "_MAGARRAY(AITEM)
+"RTN","MAGGSIV",65,0)
+ . ;
+"RTN","MAGGSIV",66,0)
+ . ; If we are adding Multiple Images to a Group, they must be Validated.
+"RTN","MAGGSIV",67,0)
+ . ;   we could have multiple "2005.04^IENs" in this array. Which means we are 
+"RTN","MAGGSIV",68,0)
+ . ;   adding existing Images to a New/Existing Group.
+"RTN","MAGGSIV",69,0)
+ . I MAGGFLD=2005.04 D  Q  ; 2005.04 isn't the field number, #4 is the field number
+"RTN","MAGGSIV",70,0)
+ . . I $G(MAGGDAT,0)=0 Q  ;Creating a new Group, with no group entries is the usual way
+"RTN","MAGGSIV",71,0)
+ . . ; to do it.  Then make successive calls to ADD, Adding each Image to the 
+"RTN","MAGGSIV",72,0)
+ . . ; Object Group multiple of the Group Parent (fld#14) as it is created.
+"RTN","MAGGSIV",73,0)
+ . . I '$D(^MAG(2005,MAGGDAT,0)) S MAGERR="0^Group Object "_MAGGDAT_" doesn't exist"_" Item: "_MAGARRAY(AITEM)
+"RTN","MAGGSIV",74,0)
+ . . ;  We can't allow adding an image if it already has a group parent.
+"RTN","MAGGSIV",75,0)
+ . . I $P(^MAG(2005,MAGGDAT,0),U,10) S MAGERR="0^The Image to be added to the Group, already has a Group Parent"_" Item: "_MAGARRAY(AITEM)
+"RTN","MAGGSIV",76,0)
+ . ;
+"RTN","MAGGSIV",77,0)
+ . ; if we are getting a WP line of text for Long Desc Field.  Can't validate it.
+"RTN","MAGGSIV",78,0)
+ . I MAGGFLD=11 Q  ; this is a line of the WP Long Desc field.
+"RTN","MAGGSIV",79,0)
+ . ;
+"RTN","MAGGSIV",80,0)
+ . ;if a BAD field number
+"RTN","MAGGSIV",81,0)
+ . I '$$VFIELD^DILFD(2005,MAGGFLD) S MAGERR="0^Field Number "_MAGGFLD_" doesn't exist"_" Item: "_MAGARRAY(AITEM) Q
+"RTN","MAGGSIV",82,0)
+ . ;
+"RTN","MAGGSIV",83,0)
+ . ; Get Field Specifiers
+"RTN","MAGGSIV",84,0)
+ . D FIELD^DID(2005,MAGGFLD,"","LABEL;SPECIFIER","MAGFSPEC")
+"RTN","MAGGSIV",85,0)
+ . ; 
+"RTN","MAGGSIV",86,0)
+ . I (MAGFSPEC("SPECIFIER")["D") D  Q:$L(MAGERR)
+"RTN","MAGGSIV",87,0)
+ . . S %DT="T",X=MAGGDAT D ^%DT
+"RTN","MAGGSIV",88,0)
+ . . I Y=-1 S MAGERR="0^Invalid Date: "_MAGGDAT_" Item: "_MAGARRAY(AITEM) Q
+"RTN","MAGGSIV",89,0)
+ . . S MAGGDAT=Y
+"RTN","MAGGSIV",90,0)
+ . . S MAGARRAY(AITEM)=MAGGFLD_"^"_MAGGDAT
+"RTN","MAGGSIV",91,0)
+ . ;  Usually for Pointer fields, we're getting the Internal value. So
+"RTN","MAGGSIV",92,0)
+ . ;  We'll test for that here, and if success, we quit.
+"RTN","MAGGSIV",93,0)
+ . ;  If not success, then maybe it's the external value being passed in,
+"RTN","MAGGSIV",94,0)
+ . ;  so we continue, letting it get validated again.
+"RTN","MAGGSIV",95,0)
+ . I (MAGFSPEC("SPECIFIER")["P") D  Q:CHKOK
+"RTN","MAGGSIV",96,0)
+ . . S CHKOK=0
+"RTN","MAGGSIV",97,0)
+ . . I $$EXTERNAL^DILFD(2005,MAGGFLD,"",MAGGDAT)'="" S CHKOK=1 Q  ; Valid Internal value, returned the external
+"RTN","MAGGSIV",98,0)
+ . . D CHK^DIE(2005,MAGGFLD,"",MAGGDAT,.MAGRET,"MAGETXT") I 'MAGRET Q  ; Let it get error message below
+"RTN","MAGGSIV",99,0)
+ . . ; Valid External Value is in .MAGRET
+"RTN","MAGGSIV",100,0)
+ . . S MAGGDAT=MAGRET
+"RTN","MAGGSIV",101,0)
+ . . S MAGARRAY(AITEM)=MAGGFLD_"^"_MAGGDAT S CHKOK=1
+"RTN","MAGGSIV",102,0)
+ . . Q
+"RTN","MAGGSIV",103,0)
+ . ; Validate all fields here.  
+"RTN","MAGGSIV",104,0)
+ . S MAGRET=""
+"RTN","MAGGSIV",105,0)
+ . D VAL^DIE(2005,"",MAGGFLD,"",MAGGDAT,.MAGRET,"","MAGETXT") I MAGRET="^" D  Q
+"RTN","MAGGSIV",106,0)
+ . . S MAGERR="0^"_MAGETXT("DIERR",1,"TEXT",1)_" Item: "_MAGARRAY(AITEM)
+"RTN","MAGGSIV",107,0)
+ ;
+"RTN","MAGGSIV",108,0)
+ ; if there was an Error in data we'll quit now.
+"RTN","MAGGSIV",109,0)
+ ; If ALL is true, then MAGRY(1...N) will exist if there were errors.
+"RTN","MAGGSIV",110,0)
+ I $O(MAGRY(0)) S MAGRY(0)="0^Errors were found in data." Q
+"RTN","MAGGSIV",111,0)
+ ; If ALL is false, then MAGERR will exist if there was an error.
+"RTN","MAGGSIV",112,0)
+ I $L(MAGERR) S MAGRY(0)=MAGERR Q
+"RTN","MAGGSIV",113,0)
+ ;
+"RTN","MAGGSIV",114,0)
+ ;  If all data is valid we get here.
+"RTN","MAGGSIV",115,0)
+ ;  Last Test, see if a Patient was in array, 
+"RTN","MAGGSIV",116,0)
+ ;  (Patient is the only Required field check done in this routine).
+"RTN","MAGGSIV",117,0)
+ I 'DFNFLAG S MAGRY(0)="0^A Patient DFN is required. " Q
+"RTN","MAGGSIV",118,0)
+ S MAGRY(0)="1^Data is Valid."
+"RTN","MAGGSIV",119,0)
+ Q
+"RTN","MAGGSIV",120,0)
+ACTCODE(CODE) ;
+"RTN","MAGGSIV",121,0)
+ ;I '$T(FLD) Q 0
+"RTN","MAGGSIV",122,0)
+ I ",IEN,EXT,ABS,JB,WRITE,BIG,DICOMSN,DICOMIN,ACQD,ACQS,ACQL,STATUSCB,CALLMTH,USERNAME,PASSWORD,DELFLAG,TRNSTYP,"[(","_CODE_",") Q 1
+"RTN","MAGGSIV",123,0)
+ Q 0
+"RTN","MAGGSIV",124,0)
+VALCODE(X) ; We validate the values for the possible action codes
+"RTN","MAGGSIV",125,0)
+ N MAGY,CODE,VALUE
+"RTN","MAGGSIV",126,0)
+ S CODE=$P(X,U),VALUE=$P(X,U,2,99)
+"RTN","MAGGSIV",127,0)
+ I VALUE="" Q "0^NO VALUE in Action Code string: """_X_""
+"RTN","MAGGSIV",128,0)
+ I ",ACQD,ACQS,ACQL,CALLMTH,USERNAME,PASSWORD,"[(","_CODE_",") Q 1 ; NO VALIDATION FOR THESE CODES
+"RTN","MAGGSIV",129,0)
+ D @CODE
+"RTN","MAGGSIV",130,0)
+ Q MAGY
+"RTN","MAGGSIV",131,0)
+ ;  Each Tag is a valid Action code
+"RTN","MAGGSIV",132,0)
+IEN I $D(^MAG(2005,VALUE)) S MAGY=1
+"RTN","MAGGSIV",133,0)
+ E  S MAGY="0^INVALID IMAGE IEN."
+"RTN","MAGGSIV",134,0)
+ Q
+"RTN","MAGGSIV",135,0)
+EXT ; code will go here to validate the extension type.  i.e. we won't let types .exe .bat .com .zip ... etc.
+"RTN","MAGGSIV",136,0)
+ ;  Maybe a modification to Object Type file, to have allowable extensions in the file, and a 
+"RTN","MAGGSIV",137,0)
+ ;  cross reference on a new field EXTENSION.  The capture workstation wouldn't have to ask the 
+"RTN","MAGGSIV",138,0)
+ ; user for the file type of each file, and we wouldn't get WORD .DOC files that the user called Color Images
+"RTN","MAGGSIV",139,0)
+ABS ; Meaning: Have the BP create the abstract
+"RTN","MAGGSIV",140,0)
+JB ; Meaning: Have the BP copy the image to the JukeBox
+"RTN","MAGGSIV",141,0)
+BIG ; Meaning: There is a big file also, set the Image File field ? to indicate there is a BIG File.
+"RTN","MAGGSIV",142,0)
+ S MAGY=1
+"RTN","MAGGSIV",143,0)
+ Q
+"RTN","MAGGSIV",144,0)
+WRITE ; Meaning: This is the Internal Entry (or "PACS") of the WRITE Directory. Images will be written
+"RTN","MAGGSIV",145,0)
+ ; here instead of the default WRITE Directory.
+"RTN","MAGGSIV",146,0)
+ S MAGY=$$DRIVE^MAGGTU1(VALUE)
+"RTN","MAGGSIV",147,0)
+ Q
+"RTN","MAGGSIV",148,0)
+DICOMSN ;Meaning: DICOM Series Number.  This will be entered in the Group Object multiple, field #1
+"RTN","MAGGSIV",149,0)
+ ;I +$P(X,U,2) S MAGY=1
+"RTN","MAGGSIV",150,0)
+ ;E  S MAGY="0^INVALID DICOM Series number: "_X
+"RTN","MAGGSIV",151,0)
+ S MAGY=1
+"RTN","MAGGSIV",152,0)
+ Q
+"RTN","MAGGSIV",153,0)
+DICOMIN ;Meaning: DICOM Image Number.  This will be entered in the Group Object multiple, field #2
+"RTN","MAGGSIV",154,0)
+ ;I +$P(X,U,2) S MAGY=1
+"RTN","MAGGSIV",155,0)
+ ;E  S MAGY="0^INVALID DICOM Series number: "_X
+"RTN","MAGGSIV",156,0)
+ S MAGY=1
+"RTN","MAGGSIV",157,0)
+ Q
+"RTN","MAGGSIV",158,0)
+DELFLAG ;Meaning: This flag tells the Delphi Import Component to Delete the Image files after successful processing
+"RTN","MAGGSIV",159,0)
+ S MAGY=1
+"RTN","MAGGSIV",160,0)
+ Q
+"RTN","MAGGSIV",161,0)
+TRNSTYP ;Meaning: This flag is for future use, for now it is ignored, defaults to "NEW"
+"RTN","MAGGSIV",162,0)
+ S MAGY=1
+"RTN","MAGGSIV",163,0)
+ Q
+"RTN","MAGGSIV",164,0)
+STATUSCB ; Meaning: This is the TAG^RTN that Imaging calls to report the 
+"RTN","MAGGSIV",165,0)
+ ; status of the Import.
+"RTN","MAGGSIV",166,0)
+ I '$L($T(@VALUE)) S MAGY="0^Invalid Status CallBack "_VALUE
+"RTN","MAGGSIV",167,0)
+ E  S MAGY=1
+"RTN","MAGGSIV",168,0)
+ Q
+"RTN","MAGIPS15")
+0^^B8907584
+"RTN","MAGIPS15",1,0)
+MAGIPS15 ;Post init routine to queue site activity at install ; 16 Feb 2004  2:41 PM
+"RTN","MAGIPS15",2,0)
+ ;;3.0;IMAGING;**15**;Apr 27, 2004
+"RTN","MAGIPS15",3,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS15",4,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS15",5,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS15",6,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS15",7,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS15",8,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS15",9,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS15",10,0)
+ ;; |                                                               |
+"RTN","MAGIPS15",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS15",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS15",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS15",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS15",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS15",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS15",17,0)
+ ;;
+"RTN","MAGIPS15",18,0)
+ Q
+"RTN","MAGIPS15",19,0)
+POST ;
+"RTN","MAGIPS15",20,0)
+ ; create and send the site installation message
+"RTN","MAGIPS15",21,0)
+ D REMTASK^MAGQE4
+"RTN","MAGIPS15",22,0)
+ D STTASK^MAGQE4
+"RTN","MAGIPS15",23,0)
+ D INS(XPDNM,DUZ,$$NOW^XLFDT,XPDA)
+"RTN","MAGIPS15",24,0)
+ D POSTI^MAGQBUT
+"RTN","MAGIPS15",25,0)
+ Q
+"RTN","MAGIPS15",26,0)
+ ;
+"RTN","MAGIPS15",27,0)
+INS(XP,DUZ,DATE,IDA) ;
+"RTN","MAGIPS15",28,0)
+ N CT,CNT,COM,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS15",29,0)
+ D GETENV^%ZOSV
+"RTN","MAGIPS15",30,0)
+ S CNT=0
+"RTN","MAGIPS15",31,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS15",32,0)
+ S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS15",33,0)
+ S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XP
+"RTN","MAGIPS15",34,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XP)
+"RTN","MAGIPS15",35,0)
+ S ST=$$GET1^DIQ(9.7,IDA,11,"I")
+"RTN","MAGIPS15",36,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS15",37,0)
+ S CT=$$GET1^DIQ(9.7,IDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT
+"RTN","MAGIPS15",38,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS15",39,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS15",40,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS15",41,0)
+ S COM=$$GET1^DIQ(9.7,IDA,6,"I")
+"RTN","MAGIPS15",42,0)
+ S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_COM
+"RTN","MAGIPS15",43,0)
+ S CNT=CNT+1,MAGMSG(CNT)="DATE: "_DATE
+"RTN","MAGIPS15",44,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,IDA,9,"E")
+"RTN","MAGIPS15",45,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,IDA,.01,"E")
+"RTN","MAGIPS15",46,0)
+ S DDATE=$$GET1^DIQ(9.7,IDA,51,"I")
+"RTN","MAGIPS15",47,0)
+ S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS15",48,0)
+ S XMSUB=XP_" INSTALLATION"
+"RTN","MAGIPS15",49,0)
+ S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS15",50,0)
+ S XMY(XMID)=""
+"RTN","MAGIPS15",51,0)
+ S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS15",52,0)
+ S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS15",53,0)
+ S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS15",54,0)
+ D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS15",55,0)
+ I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS15",56,0)
+ Q
+"RTN","MAGIPS15",57,0)
+ ;
+"VER")
+8.0^22.0
+**END**
+**END**

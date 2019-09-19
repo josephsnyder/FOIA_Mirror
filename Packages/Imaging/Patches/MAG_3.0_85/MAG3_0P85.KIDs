@@ -1,0 +1,5790 @@
+KIDS Distribution saved on Mar 16, 2007@13:58:22
+VistA Imaging V3.0 - Patch 85 03/16/2007 13:58PM
+**KIDS**:MAG*3.0*85^
+
+**INSTALL NAME**
+MAG*3.0*85
+"BLD",3463,0)
+MAG*3.0*85^IMAGING^0^3070316^y
+"BLD",3463,1,0)
+^^35^35^3070316^
+"BLD",3463,1,1,0)
+Version 3.0 Patch 085 - Import API + SRA + Maintenance
+"BLD",3463,1,2,0)
+ 
+"BLD",3463,1,3,0)
+ 
+"BLD",3463,1,4,0)
+This package contains a KIDS component
+"BLD",3463,1,5,0)
+for patch 85.
+"BLD",3463,1,6,0)
+ 
+"BLD",3463,1,7,0)
+This package transports the menu option named MAG_IC_RPT_GM.
+"BLD",3463,1,8,0)
+ 
+"BLD",3463,1,9,0)
+This package contains a KIDS component
+"BLD",3463,1,10,0)
+for patch 85.
+"BLD",3463,1,11,0)
+ 
+"BLD",3463,1,12,0)
+This package transports the FileMan data dictionary named 2006.56.
+"BLD",3463,1,13,0)
+ 
+"BLD",3463,1,14,0)
+This package contains a KIDS component
+"BLD",3463,1,15,0)
+for patch 85.
+"BLD",3463,1,16,0)
+ 
+"BLD",3463,1,17,0)
+This package transports the FileMan data dictionary named 2006.581;3.
+"BLD",3463,1,18,0)
+ 
+"BLD",3463,1,19,0)
+Routines:
+"BLD",3463,1,20,0)
+MAGBRTE4    old value = 15548436, new value = 80308391
+"BLD",3463,1,21,0)
+MAGBRTE5    old value = 10484128, new value = 38970205
+"BLD",3463,1,22,0)
+MAGBRTUT    old value = 10369180, new value = 44439840
+"BLD",3463,1,23,0)
+MAGDCCS     old value = 14379289, new value = 61691051
+"BLD",3463,1,24,0)
+MAGDGMRC    old value = 8758583, new value = 32653385
+"BLD",3463,1,25,0)
+MAGDHWS     old value = 8766948, new value = 26938069
+"BLD",3463,1,26,0)
+MAGDRPC3    old value = 14580986, new value = 64691096
+"BLD",3463,1,27,0)
+MAGDRPC5    old value = 14944486, new value = 81521995
+"BLD",3463,1,28,0)
+MAGGSIA1    old value = 13865284, new value = 39981791
+"BLD",3463,1,29,0)
+MAGGSIU2    old value = 9527311, new value = 19675088
+"BLD",3463,1,30,0)
+MAGGSIUI    old value = 12223625, new value = 43724945
+"BLD",3463,1,31,0)
+MAGGTU1     old value = 4211501, new value = 7213091
+"BLD",3463,1,32,0)
+MAGIPS85    old value = 5272602, new value = 10553074
+"BLD",3463,1,33,0)
+ 
+"BLD",3463,1,34,0)
+Please note that routine MAGIPS85 is deleted after the KIDS Build is
+"BLD",3463,1,35,0)
+installed.
+"BLD",3463,4,0)
+^9.64PA^2006.581^2
+"BLD",3463,4,2006.56,0)
+2006.56
+"BLD",3463,4,2006.56,222)
+y^y^f^^^^n
+"BLD",3463,4,2006.581,0)
+2006.581
+"BLD",3463,4,2006.581,2,0)
+^9.641^2006.581^1
+"BLD",3463,4,2006.581,2,2006.581,0)
+INSTRUMENT DICTIONARY  (File-top level)
+"BLD",3463,4,2006.581,2,2006.581,1,0)
+^9.6411^3^1
+"BLD",3463,4,2006.581,2,2006.581,1,3,0)
+SERVICE
+"BLD",3463,4,2006.581,222)
+y^y^p^^^^n^^n
+"BLD",3463,4,2006.581,224)
+
+"BLD",3463,4,"APDD",2006.581,2006.581)
+
+"BLD",3463,4,"APDD",2006.581,2006.581)
+
+"BLD",3463,4,"APDD",2006.581,2006.581,3)
+
+"BLD",3463,4,"B",2006.56,2006.56)
+
+"BLD",3463,4,"B",2006.581,2006.581)
+
+"BLD",3463,"ABNS",0)
+^9.66A^^
+"BLD",3463,"ABPKG")
+n^n^G.IMAGING DEVELOPMENT TEAM@DOMAIN.EXT
+"BLD",3463,"INI")
+PRE^MAGIPS85
+"BLD",3463,"INID")
+n^y^n
+"BLD",3463,"INIT")
+POST^MAGIPS85
+"BLD",3463,"KRN",0)
+^9.67PA^8994^19
+"BLD",3463,"KRN",.4,0)
+.4
+"BLD",3463,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.401,0)
+.401
+"BLD",3463,"KRN",.401,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.402,0)
+.402
+"BLD",3463,"KRN",.402,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",.403,0)
+.403
+"BLD",3463,"KRN",.5,0)
+.5
+"BLD",3463,"KRN",.84,0)
+.84
+"BLD",3463,"KRN",3.6,0)
+3.6
+"BLD",3463,"KRN",3.8,0)
+3.8
+"BLD",3463,"KRN",9.2,0)
+9.2
+"BLD",3463,"KRN",9.8,0)
+9.8
+"BLD",3463,"KRN",9.8,"NM",0)
+^9.68A^12^12
+"BLD",3463,"KRN",9.8,"NM",1,0)
+MAGBRTE4^^0^B80308391
+"BLD",3463,"KRN",9.8,"NM",2,0)
+MAGBRTE5^^0^B38970205
+"BLD",3463,"KRN",9.8,"NM",3,0)
+MAGBRTUT^^0^B44439840
+"BLD",3463,"KRN",9.8,"NM",4,0)
+MAGDCCS^^0^B61691051
+"BLD",3463,"KRN",9.8,"NM",5,0)
+MAGDGMRC^^0^B32653385
+"BLD",3463,"KRN",9.8,"NM",6,0)
+MAGDHWS^^0^B26938069
+"BLD",3463,"KRN",9.8,"NM",7,0)
+MAGDRPC3^^0^B64691096
+"BLD",3463,"KRN",9.8,"NM",8,0)
+MAGDRPC5^^0^B81521995
+"BLD",3463,"KRN",9.8,"NM",9,0)
+MAGGSIA1^^0^B39981791
+"BLD",3463,"KRN",9.8,"NM",10,0)
+MAGGSIU2^^0^B19675088
+"BLD",3463,"KRN",9.8,"NM",11,0)
+MAGGSIUI^^0^B43724945
+"BLD",3463,"KRN",9.8,"NM",12,0)
+MAGGTU1^^0^B7213091
+"BLD",3463,"KRN",9.8,"NM","B","MAGBRTE4",1)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGBRTE5",2)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGBRTUT",3)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGDCCS",4)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGDGMRC",5)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGDHWS",6)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGDRPC3",7)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGDRPC5",8)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGGSIA1",9)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGGSIU2",10)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGGSIUI",11)
+
+"BLD",3463,"KRN",9.8,"NM","B","MAGGTU1",12)
+
+"BLD",3463,"KRN",19,0)
+19
+"BLD",3463,"KRN",19,"NM",0)
+^9.68A^1^1
+"BLD",3463,"KRN",19,"NM",1,0)
+MAG_IC_RPT_GM^^0
+"BLD",3463,"KRN",19,"NM","B","MAG_IC_RPT_GM",1)
+
+"BLD",3463,"KRN",19.1,0)
+19.1
+"BLD",3463,"KRN",19.1,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",101,0)
+101
+"BLD",3463,"KRN",101,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",409.61,0)
+409.61
+"BLD",3463,"KRN",771,0)
+771
+"BLD",3463,"KRN",771,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",870,0)
+870
+"BLD",3463,"KRN",870,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN",8989.51,0)
+8989.51
+"BLD",3463,"KRN",8989.52,0)
+8989.52
+"BLD",3463,"KRN",8994,0)
+8994
+"BLD",3463,"KRN",8994,"NM",0)
+^9.68A^^
+"BLD",3463,"KRN","B",.4,.4)
+
+"BLD",3463,"KRN","B",.401,.401)
+
+"BLD",3463,"KRN","B",.402,.402)
+
+"BLD",3463,"KRN","B",.403,.403)
+
+"BLD",3463,"KRN","B",.5,.5)
+
+"BLD",3463,"KRN","B",.84,.84)
+
+"BLD",3463,"KRN","B",3.6,3.6)
+
+"BLD",3463,"KRN","B",3.8,3.8)
+
+"BLD",3463,"KRN","B",9.2,9.2)
+
+"BLD",3463,"KRN","B",9.8,9.8)
+
+"BLD",3463,"KRN","B",19,19)
+
+"BLD",3463,"KRN","B",19.1,19.1)
+
+"BLD",3463,"KRN","B",101,101)
+
+"BLD",3463,"KRN","B",409.61,409.61)
+
+"BLD",3463,"KRN","B",771,771)
+
+"BLD",3463,"KRN","B",870,870)
+
+"BLD",3463,"KRN","B",8989.51,8989.51)
+
+"BLD",3463,"KRN","B",8989.52,8989.52)
+
+"BLD",3463,"KRN","B",8994,8994)
+
+"FIA",2006.56)
+DICOM WORKLIST STUDY
+"FIA",2006.56,0)
+^MAGDWLST(2006.56,
+"FIA",2006.56,0,0)
+2006.56P
+"FIA",2006.56,0,1)
+y^y^f^^^^n
+"FIA",2006.56,0,10)
+
+"FIA",2006.56,0,11)
+
+"FIA",2006.56,0,"RLRO")
+
+"FIA",2006.56,2006.56)
+0
+"FIA",2006.56,2006.562)
+0
+"FIA",2006.56,2006.5621)
+0
+"FIA",2006.56,2006.5622)
+0
+"FIA",2006.581)
+INSTRUMENT DICTIONARY
+"FIA",2006.581,0)
+^MAGDICOM(2006.581,
+"FIA",2006.581,0,0)
+2006.581
+"FIA",2006.581,0,1)
+y^y^p^^^^n^^n
+"FIA",2006.581,0,10)
+
+"FIA",2006.581,0,11)
+
+"FIA",2006.581,0,"RLRO")
+
+"FIA",2006.581,2006.581)
+1
+"FIA",2006.581,2006.581,3)
+
+"INI")
+PRE^MAGIPS85
+"INIT")
+POST^MAGIPS85
+"IX",2006.56,2006.562,"C",0)
+2006.562^C^Study and Service^R^^R^IR^I^2006.562^^^^^LS
+"IX",2006.56,2006.562,"C",.1,0)
+^^3^3^3001204^
+"IX",2006.56,2006.562,"C",.1,1,0)
+This cross reference keeps track of which accessions
+"IX",2006.56,2006.562,"C",.1,2,0)
+were performed 
+"IX",2006.56,2006.562,"C",.1,3,0)
+for which services.
+"IX",2006.56,2006.562,"C",1)
+S ^MAGDWLST(2006.56,DA(1),1,"C",X(1),X(2),DA)=""
+"IX",2006.56,2006.562,"C",2)
+K ^MAGDWLST(2006.56,DA(1),1,"C",X(1),X(2),DA)
+"IX",2006.56,2006.562,"C",2.5)
+K ^MAGDWLST(2006.56,DA(1),1,"C")
+"IX",2006.56,2006.562,"C",11.1,0)
+^.114IA^2^2
+"IX",2006.56,2006.562,"C",11.1,1,0)
+1^F^2006.562^.01^^1^F
+"IX",2006.56,2006.562,"C",11.1,2,0)
+2^F^2006.562^3^^2^F
+"IX",2006.56,2006.562,"D",0)
+2006.562^D^Service and Study ID^R^^R^IR^I^2006.562^^^^^LS
+"IX",2006.56,2006.562,"D",.1,0)
+^^2^2^3001204^
+"IX",2006.56,2006.562,"D",.1,1,0)
+This cross reference keeps track of which Study IDs are
+"IX",2006.56,2006.562,"D",.1,2,0)
+performed for which services.
+"IX",2006.56,2006.562,"D",1)
+S ^MAGDWLST(2006.56,DA(1),1,"D",X(1),X(2),DA)=""
+"IX",2006.56,2006.562,"D",2)
+K ^MAGDWLST(2006.56,DA(1),1,"D",X(1),X(2),DA)
+"IX",2006.56,2006.562,"D",2.5)
+K ^MAGDWLST(2006.56,DA(1),1,"D")
+"IX",2006.56,2006.562,"D",11.1,0)
+^.114IA^2^2
+"IX",2006.56,2006.562,"D",11.1,1,0)
+1^F^2006.562^.01^^1^F
+"IX",2006.56,2006.562,"D",11.1,2,0)
+2^F^2006.562^4^^2^F
+"IX",2006.56,2006.562,"E",0)
+2006.562^E^Service, timestamp and Modality^R^^R^IR^I^2006.562^^^^^LS
+"IX",2006.56,2006.562,"E",.1,0)
+^^2^2^3001204^
+"IX",2006.56,2006.562,"E",.1,1,0)
+This cross reference keeps track of which modalities have
+"IX",2006.56,2006.562,"E",.1,2,0)
+studies performed for which services.
+"IX",2006.56,2006.562,"E",1)
+S ^MAGDWLST(2006.56,DA(1),1,"E",X(1),X(2),X(3),DA)=""
+"IX",2006.56,2006.562,"E",2)
+K ^MAGDWLST(2006.56,DA(1),1,"E",X(1),X(2),X(3),DA)
+"IX",2006.56,2006.562,"E",2.5)
+K ^MAGDWLST(2006.56,DA(1),1,"E")
+"IX",2006.56,2006.562,"E",11.1,0)
+^.114IA^3^3
+"IX",2006.56,2006.562,"E",11.1,1,0)
+1^F^2006.562^.01^^1^F
+"IX",2006.56,2006.562,"E",11.1,1,3)
+
+"IX",2006.56,2006.562,"E",11.1,2,0)
+2^F^2006.562^10^^2^F
+"IX",2006.56,2006.562,"E",11.1,2,3)
+
+"IX",2006.56,2006.562,"E",11.1,3,0)
+3^F^2006.562^5^^3^F
+"IX",2006.56,2006.562,"E",11.1,3,3)
+
+"IX",2006.56,2006.562,"G",0)
+2006.562^G^Services and modalities^R^^R^IR^I^2006.562^^^^^LS
+"IX",2006.56,2006.562,"G",.1,0)
+^^4^4^3030114^
+"IX",2006.56,2006.562,"G",.1,1,0)
+This cross reference keeps track of studies by:
+"IX",2006.56,2006.562,"G",.1,2,0)
+ 1. service
+"IX",2006.56,2006.562,"G",.1,3,0)
+ 2. modality code
+"IX",2006.56,2006.562,"G",.1,4,0)
+ 3. timestamp
+"IX",2006.56,2006.562,"G",1)
+S ^MAGDWLST(2006.56,DA(1),1,"G",X(1),X(2),X(3),DA)=""
+"IX",2006.56,2006.562,"G",2)
+K ^MAGDWLST(2006.56,DA(1),1,"G",X(1),X(2),X(3),DA)
+"IX",2006.56,2006.562,"G",2.5)
+K ^MAGDWLST(2006.56,DA(1),1,"G")
+"IX",2006.56,2006.562,"G",11.1,0)
+^.114IA^3^3
+"IX",2006.56,2006.562,"G",11.1,1,0)
+1^F^2006.562^.01^^1^F
+"IX",2006.56,2006.562,"G",11.1,1,3)
+
+"IX",2006.56,2006.562,"G",11.1,2,0)
+2^F^2006.562^10^^2^F
+"IX",2006.56,2006.562,"G",11.1,2,3)
+
+"IX",2006.56,2006.562,"G",11.1,3,0)
+3^F^2006.562^5^^3^F
+"IX",2006.56,2006.562,"G",11.1,3,3)
+
+"KRN",19,123457,-1)
+0^1
+"KRN",19,123457,0)
+MAG_IC_RPT_GM^Global Move Inconsistency Report^^R^^^^^^^^IMAGING
+"KRN",19,123457,1,0)
+^19.06^2^2^3010921^^^
+"KRN",19,123457,1,1,0)
+Report from Imaging Integrity Check, limited to items required for
+"KRN",19,123457,1,2,0)
+Central Office.
+"KRN",19,123457,25)
+RPT^MAGCRPT("CO")
+"KRN",19,123457,"U")
+GLOBAL MOVE INCONSISTENCY REPO
+"MBREQ")
+0
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",454,-1)
+1^1
+"PKG",454,0)
+IMAGING^MAG^Imaging Release History
+"PKG",454,22,0)
+^9.49I^1^1
+"PKG",454,22,1,0)
+3.0^3020328^3020328^.5
+"PKG",454,22,1,"PAH",1,0)
+85^3070316^.5
+"PKG",454,22,1,"PAH",1,1,0)
+^9.49011^19^19^3070316
+"PKG",454,22,1,"PAH",1,1,1,0)
+Routines for Patch 85, Test Build 5.
+"PKG",454,22,1,"PAH",1,1,2,0)
+ 
+"PKG",454,22,1,"PAH",1,1,3,0)
+Routines:
+"PKG",454,22,1,"PAH",1,1,4,0)
+MAGBRTE4    value = 15548436
+"PKG",454,22,1,"PAH",1,1,5,0)
+MAGBRTE5    value = 10484128
+"PKG",454,22,1,"PAH",1,1,6,0)
+MAGBRTUT    value = 10369180
+"PKG",454,22,1,"PAH",1,1,7,0)
+MAGDCCS     value = 14379289
+"PKG",454,22,1,"PAH",1,1,8,0)
+MAGDGMRC    value = 8758583
+"PKG",454,22,1,"PAH",1,1,9,0)
+MAGDHWS     value = 8766948
+"PKG",454,22,1,"PAH",1,1,10,0)
+MAGDRPC3    value = 14580986
+"PKG",454,22,1,"PAH",1,1,11,0)
+MAGDRPC5    value = 14944486
+"PKG",454,22,1,"PAH",1,1,12,0)
+MAGGSIA1    value = 13865284
+"PKG",454,22,1,"PAH",1,1,13,0)
+MAGGSIU2    value = 9527311
+"PKG",454,22,1,"PAH",1,1,14,0)
+MAGGSIUI    value = 12223625
+"PKG",454,22,1,"PAH",1,1,15,0)
+MAGGTU1     value = 4211501
+"PKG",454,22,1,"PAH",1,1,16,0)
+MAGIPS85    value = 5272602
+"PKG",454,22,1,"PAH",1,1,17,0)
+ 
+"PKG",454,22,1,"PAH",1,1,18,0)
+Please note that routine MAGIPS85 is deleted after the KIDS Build is
+"PKG",454,22,1,"PAH",1,1,19,0)
+installed.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+YES
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+13
+"RTN","MAGBRTE4")
+0^1^B80308391
+"RTN","MAGBRTE4",1,0)
+MAGBRTE4 ;WOIFO/EdM - Process Routing Rule Evaluation Queue ; 12/15/2006 13:49
+"RTN","MAGBRTE4",2,0)
+ ;;3.0;IMAGING;**11,30,51,85**;16-March-2007;;Build 1039
+"RTN","MAGBRTE4",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGBRTE4",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTE4",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGBRTE4",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGBRTE4",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGBRTE4",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGBRTE4",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGBRTE4",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGBRTE4",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGBRTE4",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGBRTE4",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGBRTE4",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGBRTE4",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGBRTE4",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTE4",17,0)
+ ;;
+"RTN","MAGBRTE4",18,0)
+ Q
+"RTN","MAGBRTE4",19,0)
+ ;
+"RTN","MAGBRTE4",20,0)
+EVAL ;
+"RTN","MAGBRTE4",21,0)
+ N ACTIVE ;- Switch that controls start/stop queue processor
+"RTN","MAGBRTE4",22,0)
+ N ANY ;---- Flag: processed any rule
+"RTN","MAGBRTE4",23,0)
+ N CONS ;--- Switch that indicates whether or not site has "consolidated" code
+"RTN","MAGBRTE4",24,0)
+ N XMSG ;--- Message counter
+"RTN","MAGBRTE4",25,0)
+ ;
+"RTN","MAGBRTE4",26,0)
+ K ^XTMP("MAGEVAL",ZTSK)
+"RTN","MAGBRTE4",27,0)
+ D LOG("Started at "_$H)
+"RTN","MAGBRTE4",28,0)
+ S XMSG=1,CONS=$$CONSOLID^MAGBAPI()
+"RTN","MAGBRTE4",29,0)
+ S PLACE=$S(CONS:$O(^MAG(2006.1,"B",LOCATION,"")),1:1)
+"RTN","MAGBRTE4",30,0)
+ L +^MAGDICOM(2006.563,1,"EVAL",LOCATION):0 E  D  Q
+"RTN","MAGBRTE4",31,0)
+ . D LOG("A rule evaluator is already running for "_$$GET1^DIQ(4,LOCATION,.01))
+"RTN","MAGBRTE4",32,0)
+ . Q
+"RTN","MAGBRTE4",33,0)
+ S ^MAGDICOM(2006.563,1,"EVAL")=1
+"RTN","MAGBRTE4",34,0)
+ ;
+"RTN","MAGBRTE4",35,0)
+ S I="" F  S I=$O(RULES(I)) Q:I=""  D
+"RTN","MAGBRTE4",36,0)
+ . N D0,D1,D2,L,Q1
+"RTN","MAGBRTE4",37,0)
+ . S X=RULES(I),D0=$P(X,"^",1),Q1=$P(X,"^",2),L=$L(X,"^")
+"RTN","MAGBRTE4",38,0)
+ . I L=3 S RULE(D0,Q1)=$P(X,"^",3) Q
+"RTN","MAGBRTE4",39,0)
+ . I Q1="ACTION" S RULE(D0,Q1,$P(X,"^",3))=$P(X,"^",4,L) Q
+"RTN","MAGBRTE4",40,0)
+ . I Q1'="CONDITION" D LOG("Rule "_D0_" has a qualifier """_Q1_""".") Q
+"RTN","MAGBRTE4",41,0)
+ . I L=5 S RULE(D0,Q1,$P(X,"^",3),$P(X,"^",4))=$P(X,"^",5) Q
+"RTN","MAGBRTE4",42,0)
+ . S RULE(D0,Q1,$P(X,"^",3),$P(X,"^",4),$P(X,"^",6),$P(X,"^",5))=$P(X,"^",7)
+"RTN","MAGBRTE4",43,0)
+ . Q
+"RTN","MAGBRTE4",44,0)
+ K RULES
+"RTN","MAGBRTE4",45,0)
+ ;
+"RTN","MAGBRTE4",46,0)
+ S ACTIVE=1 F  D  Q:'ACTIVE
+"RTN","MAGBRTE4",47,0)
+ . S ANY=0
+"RTN","MAGBRTE4",48,0)
+ . S ACTIVE=+$G(^MAGDICOM(2006.563,1,"EVAL")) I 'ACTIVE D  Q
+"RTN","MAGBRTE4",49,0)
+ . . D LOG("Stopped at "_$H)
+"RTN","MAGBRTE4",50,0)
+ . . Q
+"RTN","MAGBRTE4",51,0)
+ . D
+"RTN","MAGBRTE4",52,0)
+ . . N IMAGE,QPTR,QPTR2,STATUS,X
+"RTN","MAGBRTE4",53,0)
+ . . D:'CONS ADD^MAGBAPI(0,"EVAL")
+"RTN","MAGBRTE4",54,0)
+ . . D:CONS ADD^MAGBAPI(0,"EVAL",PLACE)
+"RTN","MAGBRTE4",55,0)
+ . . S QPTR2=$O(^MAGQUEUE(2006.031,"B","EVAL",""))
+"RTN","MAGBRTE4",56,0)
+ . . S QPTR=$S(QPTR2:$P(^MAGQUEUE(2006.031,QPTR2,0),"^",2),1:"")
+"RTN","MAGBRTE4",57,0)
+ . . ; Get next queue pointer value
+"RTN","MAGBRTE4",58,0)
+ . . S:'CONS QPTR=$O(^MAGQUEUE(2006.03,"B","EVAL",QPTR))
+"RTN","MAGBRTE4",59,0)
+ . . S:CONS QPTR=$O(^MAGQUEUE(2006.03,"C",PLACE,"EVAL",QPTR))
+"RTN","MAGBRTE4",60,0)
+ . . I QPTR="" Q  ; Nothing to do
+"RTN","MAGBRTE4",61,0)
+ . . ;
+"RTN","MAGBRTE4",62,0)
+ . . S X=$G(^MAGQUEUE(2006.03,QPTR,0))
+"RTN","MAGBRTE4",63,0)
+ . . ; After an error, sometimes the entry is purged,
+"RTN","MAGBRTE4",64,0)
+ . . ; but the cross reference is still present.
+"RTN","MAGBRTE4",65,0)
+ . . ; In such a case, remove the cross reference.
+"RTN","MAGBRTE4",66,0)
+ . . I X="" D  Q
+"RTN","MAGBRTE4",67,0)
+ . . . K:'CONS ^MAGQUEUE(2006.03,"B","EVAL",QPTR)
+"RTN","MAGBRTE4",68,0)
+ . . . K:CONS ^MAGQUEUE(2006.03,"C",PLACE,"EVAL",QPTR)
+"RTN","MAGBRTE4",69,0)
+ . . . Q
+"RTN","MAGBRTE4",70,0)
+ . . ;
+"RTN","MAGBRTE4",71,0)
+ . . S IMAGE=$P(X,"^",7),ANY=1
+"RTN","MAGBRTE4",72,0)
+ . . I IMAGE,$D(^MAG(2005,IMAGE,0)) D
+"RTN","MAGBRTE4",73,0)
+ . . . S STATUS=$$RULES() Q:STATUS'<0
+"RTN","MAGBRTE4",74,0)
+ . . . I STATUS["NO NETWORK LOCATION" D  Q
+"RTN","MAGBRTE4",75,0)
+ . . . . D LOG("Image "_IMAGE_" has no files associated with it")
+"RTN","MAGBRTE4",76,0)
+ . . . . Q
+"RTN","MAGBRTE4",77,0)
+ . . . D LOG("*** EVAL queue error: "_STATUS_" ***")
+"RTN","MAGBRTE4",78,0)
+ . . . Q
+"RTN","MAGBRTE4",79,0)
+ . . K ^MAGQUEUE(2006.03,QPTR)
+"RTN","MAGBRTE4",80,0)
+ . . K:'CONS ^MAGQUEUE(2006.03,"B","EVAL",QPTR)
+"RTN","MAGBRTE4",81,0)
+ . . K:CONS ^MAGQUEUE(2006.03,"C",PLACE,"EVAL",QPTR)
+"RTN","MAGBRTE4",82,0)
+ . . S $P(^MAGQUEUE(2006.03,0),"^",4)=$P(^MAGQUEUE(2006.03,0),"^",4)-1
+"RTN","MAGBRTE4",83,0)
+ . . Q
+"RTN","MAGBRTE4",84,0)
+ . H:'ANY 1
+"RTN","MAGBRTE4",85,0)
+ . D:'$D(^XTMP("MAGEVAL",ZTSK)) XTINIT^MAGDRPC5,LOG("^XTMP was cleaned up.")
+"RTN","MAGBRTE4",86,0)
+ . Q
+"RTN","MAGBRTE4",87,0)
+ L -^MAGDICOM(2006.563,1,"EVAL",LOCATION)
+"RTN","MAGBRTE4",88,0)
+ Q
+"RTN","MAGBRTE4",89,0)
+ ;
+"RTN","MAGBRTE4",90,0)
+LOG(X) N D,H,I,M,T
+"RTN","MAGBRTE4",91,0)
+ S I=$O(^XTMP("MAGEVAL",ZTSK," "),-1)+1
+"RTN","MAGBRTE4",92,0)
+ S XMSG=$G(XMSG)+1 S:I>XMSG XMSG=I
+"RTN","MAGBRTE4",93,0)
+ S D=$P("Thu Fri Sat Sun Mon Tue Wed"," ",$H#7+1)
+"RTN","MAGBRTE4",94,0)
+ S T=$P($H,",",2),H=T\3600,M=T\60#60 S:H<10 H=0_H S:M<10 M=0_M
+"RTN","MAGBRTE4",95,0)
+ S ^XTMP("MAGEVAL",ZTSK,XMSG)=D_" "_H_":"_M_" "_X
+"RTN","MAGBRTE4",96,0)
+ Q
+"RTN","MAGBRTE4",97,0)
+ ;
+"RTN","MAGBRTE4",98,0)
+RULES() ; To be called from above
+"RTN","MAGBRTE4",99,0)
+ ; IMAGE ;---- IEN for image (2005)
+"RTN","MAGBRTE4",100,0)
+ ; LOCATION ;- Location from which queue entry originates
+"RTN","MAGBRTE4",101,0)
+ N ACTION ;--- Action to be taken (SEND)
+"RTN","MAGBRTE4",102,0)
+ N C ;-------- Loop-variable for looping through parameters and conditions
+"RTN","MAGBRTE4",103,0)
+ N D ;-------- Data type
+"RTN","MAGBRTE4",104,0)
+ N DS ;------- Data type enclosed in space-characters
+"RTN","MAGBRTE4",105,0)
+ N F ;-------- ...
+"RTN","MAGBRTE4",106,0)
+ N METMSG ;--- Message to be issued when rule is evaluated
+"RTN","MAGBRTE4",107,0)
+ N O ;-------- Operator
+"RTN","MAGBRTE4",108,0)
+ N OK ;------- Flag: indicates whether or not rule is met
+"RTN","MAGBRTE4",109,0)
+ N RDT ;------ Current date (don't use DT, process might run over midnight)
+"RTN","MAGBRTE4",110,0)
+ N V ;-------- Value for property as specified in rule
+"RTN","MAGBRTE4",111,0)
+ N VAL ;------ Actual value of property
+"RTN","MAGBRTE4",112,0)
+ N VRS ;------ String of Queue Entry numbers when rule(s) are met
+"RTN","MAGBRTE4",113,0)
+ N X ;-------- Scratch variable
+"RTN","MAGBRTE4",114,0)
+ ;
+"RTN","MAGBRTE4",115,0)
+ S VRS=""
+"RTN","MAGBRTE4",116,0)
+ ;
+"RTN","MAGBRTE4",117,0)
+ D KEYWORD^MAGBRTK
+"RTN","MAGBRTE4",118,0)
+ ;
+"RTN","MAGBRTE4",119,0)
+ D FILEFIND^MAGDFB(IMAGE,"FULL",0,0,.MAGFILE1)
+"RTN","MAGBRTE4",120,0)
+ Q:MAGFILE1<0 MAGFILE1
+"RTN","MAGBRTE4",121,0)
+ ;
+"RTN","MAGBRTE4",122,0)
+ S RULE=0 F  S RULE=$O(RULE(RULE)) Q:'RULE  D
+"RTN","MAGBRTE4",123,0)
+ . S METMSG=$G(RULE(RULE,"ACTION"))
+"RTN","MAGBRTE4",124,0)
+ . S X=" (",C=0 F  S C=$O(RULE(RULE,"ACTION",C)) Q:'C  D
+"RTN","MAGBRTE4",125,0)
+ . . S METMSG=METMSG_X_$G(RULE(RULE,"ACTION",C)),X=", "
+"RTN","MAGBRTE4",126,0)
+ . . Q
+"RTN","MAGBRTE4",127,0)
+ . S:X'=" (" METMSG=METMSG_")"
+"RTN","MAGBRTE4",128,0)
+ . S:METMSG="" METMSG="Rule #"_RULE
+"RTN","MAGBRTE4",129,0)
+ . S OK=1,C=0 F  S C=$O(RULE(RULE,"CONDITION",C)) Q:'C  D  Q:'OK
+"RTN","MAGBRTE4",130,0)
+ . . S F=$G(RULE(RULE,"CONDITION",C,"KW")) Q:F=""
+"RTN","MAGBRTE4",131,0)
+ . . S X=$G(KEYWORD("CONDITION",F),"^DICOM^MAGBRTE3(F,""OUT"",.VAL)")
+"RTN","MAGBRTE4",132,0)
+ . . K VAL D @$P(X,"^",2,9)
+"RTN","MAGBRTE4",133,0)
+ . . ; If the field is not defined, the test passes...
+"RTN","MAGBRTE4",134,0)
+ . . Q:$D(VAL)'=1  ; We won't deal with multiple values just yet...
+"RTN","MAGBRTE4",135,0)
+ . . ;
+"RTN","MAGBRTE4",136,0)
+ . . S V=$G(RULE(RULE,"CONDITION",C,"VA"))
+"RTN","MAGBRTE4",137,0)
+ . . S D=$G(RULE(RULE,"CONDITION",C,"DT"))
+"RTN","MAGBRTE4",138,0)
+ . . S O=$G(RULE(RULE,"CONDITION",C,"OP"))
+"RTN","MAGBRTE4",139,0)
+ . . S:D="" D="S"
+"RTN","MAGBRTE4",140,0)
+ . . S DS=" "_D_" "
+"RTN","MAGBRTE4",141,0)
+ . . D:" S CS DS IS LO LT OB OW PN SH ST "[DS
+"RTN","MAGBRTE4",142,0)
+ . . . N WILD ;-- Wildcard to be matched
+"RTN","MAGBRTE4",143,0)
+ . . . S WILD=$$WLDMATCH(VAL,V)
+"RTN","MAGBRTE4",144,0)
+ . . . I O="=",'WILD S OK=0 Q
+"RTN","MAGBRTE4",145,0)
+ . . . I O="!=",WILD S OK=0 Q
+"RTN","MAGBRTE4",146,0)
+ . . . Q
+"RTN","MAGBRTE4",147,0)
+ . . D:" DT DA TM "[DS
+"RTN","MAGBRTE4",148,0)
+ . . . Q:O'="="  ; Only "within range" comparisons allowed currently
+"RTN","MAGBRTE4",149,0)
+ . . . ;
+"RTN","MAGBRTE4",150,0)
+ . . . N A ;--- Flag: indicates whether at least one time-frame matches
+"RTN","MAGBRTE4",151,0)
+ . . . N B ;--- Begin date/time
+"RTN","MAGBRTE4",152,0)
+ . . . N E ;--- End date/time
+"RTN","MAGBRTE4",153,0)
+ . . . N %H ;-- FileMan API parameter value -- date
+"RTN","MAGBRTE4",154,0)
+ . . . N I ;--- Loopcounter
+"RTN","MAGBRTE4",155,0)
+ . . . N M ;--- Date/time mask
+"RTN","MAGBRTE4",156,0)
+ . . . N N ;--- Loopcounter (time-frames)
+"RTN","MAGBRTE4",157,0)
+ . . . N %T ;-- FileMan internal variable
+"RTN","MAGBRTE4",158,0)
+ . . . N VV ;-- Actual value
+"RTN","MAGBRTE4",159,0)
+ . . . N WD ;-- Weekday
+"RTN","MAGBRTE4",160,0)
+ . . . N X1 ;-- FileMan API parameter value -- date
+"RTN","MAGBRTE4",161,0)
+ . . . N X2 ;-- FileMan API parameter value -- date
+"RTN","MAGBRTE4",162,0)
+ . . . ;
+"RTN","MAGBRTE4",163,0)
+ . . . ; convert the literal date/time field into the format for comparison
+"RTN","MAGBRTE4",164,0)
+ . . . S VV=VAL
+"RTN","MAGBRTE4",165,0)
+ . . . ;
+"RTN","MAGBRTE4",166,0)
+ . . . S (A,N)=0 F  S N=$O(RULE(RULE,"CONDITION",C,"VA",N)) Q:'N  D
+"RTN","MAGBRTE4",167,0)
+ . . . . N T,VB,VC,VE
+"RTN","MAGBRTE4",168,0)
+ . . . . S M=$G(RULE(RULE,"CONDITION",C,"VA",N,"M"))
+"RTN","MAGBRTE4",169,0)
+ . . . . S B=$G(RULE(RULE,"CONDITION",C,"VA",N,"B"))
+"RTN","MAGBRTE4",170,0)
+ . . . . S E=$G(RULE(RULE,"CONDITION",C,"VA",N,"E"))
+"RTN","MAGBRTE4",171,0)
+ . . . . S T=1
+"RTN","MAGBRTE4",172,0)
+ . . . . I $E(M,1,3)="HOL" S:$$GET1^DIQ(40.5,+$E(VV,5,11),.01)="" T=0 ; IA 10038
+"RTN","MAGBRTE4",173,0)
+ . . . . I $E(M,1,3)="DDD",$E(B,1,3)'=$E(VAL,1,3) S T=0
+"RTN","MAGBRTE4",174,0)
+ . . . . S (VB,VC,VE)=""
+"RTN","MAGBRTE4",175,0)
+ . . . . F I=4:1:$L(M) S:$E(M,I)?1U VC=VC_$E(VV,I),VB=VB_$E(B,I),VE=VE_$E(E,I)
+"RTN","MAGBRTE4",176,0)
+ . . . . S:VB>VC T=0
+"RTN","MAGBRTE4",177,0)
+ . . . . S:VE<VC T=0
+"RTN","MAGBRTE4",178,0)
+ . . . . S:T A=1
+"RTN","MAGBRTE4",179,0)
+ . . . . Q
+"RTN","MAGBRTE4",180,0)
+ . . . S:'A OK=0
+"RTN","MAGBRTE4",181,0)
+ . . . Q
+"RTN","MAGBRTE4",182,0)
+ . . Q
+"RTN","MAGBRTE4",183,0)
+ . S METMSG(OK,METMSG)=""
+"RTN","MAGBRTE4",184,0)
+ . D NOW^%DTC S RDT=%\1
+"RTN","MAGBRTE4",185,0)
+ . Q:'OK
+"RTN","MAGBRTE4",186,0)
+ . S ACTION=$G(RULE(RULE,"ACTION"))
+"RTN","MAGBRTE4",187,0)
+ . Q:ACTION=""
+"RTN","MAGBRTE4",188,0)
+ . I ACTION="SEND" D  Q
+"RTN","MAGBRTE4",189,0)
+ . . N %,D,PRI,X
+"RTN","MAGBRTE4",190,0)
+ . . S X=$G(RULE(RULE,"ACTION",1))
+"RTN","MAGBRTE4",191,0)
+ . . I X="" S METMSG(0,"No location for rule "_RULE)="" Q
+"RTN","MAGBRTE4",192,0)
+ . . D VALDEST^MAGDRPC1(.D,X)
+"RTN","MAGBRTE4",193,0)
+ . . I D<0 S METMSG(0,"Cannot find location """_X_""".")="" Q
+"RTN","MAGBRTE4",194,0)
+ . . S PRI=$$PRI($G(RULE(RULE,"PRIORITY")),IMAGE)
+"RTN","MAGBRTE4",195,0)
+ . . S VRS=$$VRS^MAGBRTE5(VRS,$$SEND^MAGBRTE5(IMAGE,D,PRI,1,LOCATION))
+"RTN","MAGBRTE4",196,0)
+ . . Q
+"RTN","MAGBRTE4",197,0)
+ . I ACTION="DICOM" D  Q
+"RTN","MAGBRTE4",198,0)
+ . . N %,D,PRI,X
+"RTN","MAGBRTE4",199,0)
+ . . S X=$G(RULE(RULE,"ACTION",1))
+"RTN","MAGBRTE4",200,0)
+ . . I X="" S METMSG(0,"No location for rule "_RULE)="" Q
+"RTN","MAGBRTE4",201,0)
+ . . S D=$O(^MAG(2006.587,"B",X,""))
+"RTN","MAGBRTE4",202,0)
+ . . I D="" S METMSG(0,"Cannot find location """_X_""".")="" Q
+"RTN","MAGBRTE4",203,0)
+ . . S PRI=$$PRI($G(RULE(RULE,"PRIORITY")),IMAGE)
+"RTN","MAGBRTE4",204,0)
+ . . S VRS=$$VRS^MAGBRTE5(VRS,$$SEND^MAGBRTE5(IMAGE,D,PRI,2,LOCATION))
+"RTN","MAGBRTE4",205,0)
+ . . Q
+"RTN","MAGBRTE4",206,0)
+ . I ACTION="BALANCE" D BALANCE^MAGBRTE5(IMAGE,.RULE) Q
+"RTN","MAGBRTE4",207,0)
+ . ;
+"RTN","MAGBRTE4",208,0)
+ . ; Other actions to be inserted here...
+"RTN","MAGBRTE4",209,0)
+ . ;
+"RTN","MAGBRTE4",210,0)
+ . Q
+"RTN","MAGBRTE4",211,0)
+ ;
+"RTN","MAGBRTE4",212,0)
+ ; Note: we may have:
+"RTN","MAGBRTE4",213,0)
+ ;    Rule 1: If CR, send to XXX
+"RTN","MAGBRTE4",214,0)
+ ;    Rule 2: If CT, send to XXX
+"RTN","MAGBRTE4",215,0)
+ ; For a CR, this would cause an entry of
+"RTN","MAGBRTE4",216,0)
+ ;    METMSG(0,"SEND(XXX)") for rule 2
+"RTN","MAGBRTE4",217,0)
+ ; and an entry of
+"RTN","MAGBRTE4",218,0)
+ ;    METMSG(1,"SEND(XXX)") for rule 1
+"RTN","MAGBRTE4",219,0)
+ ; and for a CT it would be the other way around.
+"RTN","MAGBRTE4",220,0)
+ ; So, first remove all "failed" entries that were successful
+"RTN","MAGBRTE4",221,0)
+ ; for a different rule.
+"RTN","MAGBRTE4",222,0)
+ ;
+"RTN","MAGBRTE4",223,0)
+ S X="" F  S X=$O(METMSG(1,X)) Q:X=""  D
+"RTN","MAGBRTE4",224,0)
+ . D LOG("Image "_IMAGE_": "_X)
+"RTN","MAGBRTE4",225,0)
+ . K METMSG(0,X)
+"RTN","MAGBRTE4",226,0)
+ . Q
+"RTN","MAGBRTE4",227,0)
+ S X="" F  S X=$O(METMSG(0,X)) Q:X=""  D
+"RTN","MAGBRTE4",228,0)
+ . D LOG("Image "_IMAGE_": Do not "_X)
+"RTN","MAGBRTE4",229,0)
+ . Q
+"RTN","MAGBRTE4",230,0)
+ Q VRS
+"RTN","MAGBRTE4",231,0)
+ ;
+"RTN","MAGBRTE4",232,0)
+ ;
+"RTN","MAGBRTE4",233,0)
+PRI(PRI,IMAGE) N C,D0,D1,D2,O,P,R,X
+"RTN","MAGBRTE4",234,0)
+ S PRI=$S(PRI="HIGH":750,PRI="NORMAL":500,PRI="LOW":250,1:500)
+"RTN","MAGBRTE4",235,0)
+ S X=$G(^MAG(2005,IMAGE,2))
+"RTN","MAGBRTE4",236,0)
+ S P=$P(X,"^",6) Q:P'=74 PRI
+"RTN","MAGBRTE4",237,0)
+ S R=$P(X,"^",7) Q:'R PRI
+"RTN","MAGBRTE4",238,0)
+ S C=$P($G(^RARPT(R,0)),"^",1) Q:C="" PRI  ; IA 1171
+"RTN","MAGBRTE4",239,0)
+ S D0=$O(^RADPT("ADC",C,"")) Q:'D0 PRI  ; IA 1172
+"RTN","MAGBRTE4",240,0)
+ S D1=$O(^RADPT("ADC",C,D0,"")) Q:'D1 PRI  ; IA 1172
+"RTN","MAGBRTE4",241,0)
+ S D2=$O(^RADPT("ADC",C,D0,D1,"")) Q:'D2 PRI  ; IA 1172
+"RTN","MAGBRTE4",242,0)
+ S O=$P($G(^RADPT(D0,"DT",D1,"P",D2,0)),"^",11) Q:'O PRI  ; IA 1172
+"RTN","MAGBRTE4",243,0)
+ S X=$P($G(^RAO(75.1,O,0)),"^",6) ; IA 3074
+"RTN","MAGBRTE4",244,0)
+ Q PRI+$S(X=1:20,X=2:10,1:0)
+"RTN","MAGBRTE4",245,0)
+ ;
+"RTN","MAGBRTE4",246,0)
+WLDMATCH(VAL,WILD) ;
+"RTN","MAGBRTE4",247,0)
+ ;
+"RTN","MAGBRTE4",248,0)
+ ; Returns true if VAL=WILD (Val=Actual value, Wild=Wildcard)
+"RTN","MAGBRTE4",249,0)
+ ;
+"RTN","MAGBRTE4",250,0)
+ ; Wild characters are:
+"RTN","MAGBRTE4",251,0)
+ ;   ?   matches any single character
+"RTN","MAGBRTE4",252,0)
+ ;   *   matches any string of characters
+"RTN","MAGBRTE4",253,0)
+ ;
+"RTN","MAGBRTE4",254,0)
+ N I,M
+"RTN","MAGBRTE4",255,0)
+ F  Q:VAL=""  Q:WILD=""  D
+"RTN","MAGBRTE4",256,0)
+ . I $E(VAL,1)=$E(WILD,1) S VAL=$E(VAL,2,$L(VAL)),WILD=$E(WILD,2,$L(WILD)) Q
+"RTN","MAGBRTE4",257,0)
+ . I $E(WILD,1)="?" S VAL=$E(VAL,2,$L(VAL)),WILD=$E(WILD,2,$L(WILD)) Q
+"RTN","MAGBRTE4",258,0)
+ . I $E(WILD,1)="*" D  Q:M
+"RTN","MAGBRTE4",259,0)
+ . . I WILD="*" S (VAL,WILD)="",M=1 Q
+"RTN","MAGBRTE4",260,0)
+ . . S WILD=$E(WILD,2,$L(WILD)),M=0
+"RTN","MAGBRTE4",261,0)
+ . . F I=1:1:$L(VAL) I $$WLDMATCH($E(VAL,I,$L(VAL)),WILD) S M=1,VAL=$E(VAL,I,$L(VAL)) Q
+"RTN","MAGBRTE4",262,0)
+ . . Q
+"RTN","MAGBRTE4",263,0)
+ . S VAL="!",WILD=""
+"RTN","MAGBRTE4",264,0)
+ . Q
+"RTN","MAGBRTE4",265,0)
+ Q:VAL'="" 0 Q:WILD'="" 0 Q 1
+"RTN","MAGBRTE4",266,0)
+ ;
+"RTN","MAGBRTE5")
+0^2^B38970205
+"RTN","MAGBRTE5",1,0)
+MAGBRTE5 ;WOIFO/PMK - Background Routing - Load Balance ; 12/15/2006 13:49
+"RTN","MAGBRTE5",2,0)
+ ;;3.0;IMAGING;**11,30,51,85**;16-March-2007;;Build 1039
+"RTN","MAGBRTE5",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGBRTE5",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTE5",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGBRTE5",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGBRTE5",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGBRTE5",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGBRTE5",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGBRTE5",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGBRTE5",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGBRTE5",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGBRTE5",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGBRTE5",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGBRTE5",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGBRTE5",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTE5",17,0)
+ ;;
+"RTN","MAGBRTE5",18,0)
+ Q
+"RTN","MAGBRTE5",19,0)
+ ;
+"RTN","MAGBRTE5",20,0)
+BALANCE(IMAGE,RULE) N %,D,DEST,PARENT,PRI,X
+"RTN","MAGBRTE5",21,0)
+ S PARENT=$P(^MAG(2005,IMAGE,0),"^",10) ; ~~~
+"RTN","MAGBRTE5",22,0)
+ D:'$D(^MAGRT(2006.5906,RULE,1,PARENT))
+"RTN","MAGBRTE5",23,0)
+ . N CP,M1,M2,MAX,B,E,L,RD,T
+"RTN","MAGBRTE5",24,0)
+ . ;
+"RTN","MAGBRTE5",25,0)
+ . L +^MAGRT(2006.5906,0):1E9 ; Background task must wait for lock
+"RTN","MAGBRTE5",26,0)
+ . ;
+"RTN","MAGBRTE5",27,0)
+ . ; Clean up old info
+"RTN","MAGBRTE5",28,0)
+ . ; Allow for a study to cross one day boundary,
+"RTN","MAGBRTE5",29,0)
+ . ; and remove everything that is older than a day.
+"RTN","MAGBRTE5",30,0)
+ . ;
+"RTN","MAGBRTE5",31,0)
+ . S RD=RDT-1 F  S RD=$O(^MAGRT(2006.5906,"D",RD),-1) Q:'RD  D
+"RTN","MAGBRTE5",32,0)
+ . . N DE,RU,PA
+"RTN","MAGBRTE5",33,0)
+ . . S DE="" F  S DE=$O(^MAGRT(2006.5906,"D",RD,DE)) Q:DE=""  D
+"RTN","MAGBRTE5",34,0)
+ . . . S RU="" F  S RU=$O(^MAGRT(2006.5906,"D",RD,DE,RU)) Q:RU=""  D
+"RTN","MAGBRTE5",35,0)
+ . . . . S PA="" F  S PA=$O(^MAGRT(2006.5906,"D",RD,DE,RU,PA)) Q:PA=""  D
+"RTN","MAGBRTE5",36,0)
+ . . . . . K ^MAGRT(2006.5906,"D",RD,DE,RU,PA)
+"RTN","MAGBRTE5",37,0)
+ . . . . . K ^MAGRT(2006.5906,RU,1,PA)
+"RTN","MAGBRTE5",38,0)
+ . . . . . S X=^MAGRT(2006.5906,RU,1,0)
+"RTN","MAGBRTE5",39,0)
+ . . . . . S $P(X,"^",4)=$P(X,"^",4)-1
+"RTN","MAGBRTE5",40,0)
+ . . . . . S ^MAGRT(2006.5906,RU,1,0)=X
+"RTN","MAGBRTE5",41,0)
+ . . . . . Q
+"RTN","MAGBRTE5",42,0)
+ . . . . Q
+"RTN","MAGBRTE5",43,0)
+ . . . Q
+"RTN","MAGBRTE5",44,0)
+ . . Q
+"RTN","MAGBRTE5",45,0)
+ . ;
+"RTN","MAGBRTE5",46,0)
+ . D:'$D(^MAGRT(2006.5906,RULE))
+"RTN","MAGBRTE5",47,0)
+ . . S X=$G(^MAGRT(2006.5906,0))
+"RTN","MAGBRTE5",48,0)
+ . . S $P(X,"^",1,2)="ROUTE LOAD BALANCE^2006.5906"
+"RTN","MAGBRTE5",49,0)
+ . . S:RULE>$P(X,"^",3) $P(X,"^",3)=RULE
+"RTN","MAGBRTE5",50,0)
+ . . S $P(X,"^",4)=$P(X,"^",4)+1
+"RTN","MAGBRTE5",51,0)
+ . . S:RULE>$P(X,"^",3) $P(X,"^",3)=RULE
+"RTN","MAGBRTE5",52,0)
+ . . S ^MAGRT(2006.5906,0)=X
+"RTN","MAGBRTE5",53,0)
+ . . S ^MAGRT(2006.5906,RULE,0)=RULE
+"RTN","MAGBRTE5",54,0)
+ . . Q
+"RTN","MAGBRTE5",55,0)
+ . ;
+"RTN","MAGBRTE5",56,0)
+ . M CP=^MAGRT(2006.5906,"D",RDT)
+"RTN","MAGBRTE5",57,0)
+ . S (B,DEST,L,M1,M2,MAX)=0
+"RTN","MAGBRTE5",58,0)
+ . F  S DEST=$O(RULE(RULE,"ACTION",DEST)) Q:'DEST  D
+"RTN","MAGBRTE5",59,0)
+ . . N I,T
+"RTN","MAGBRTE5",60,0)
+ . . S B=B+1,B(B)=DEST
+"RTN","MAGBRTE5",61,0)
+ . . S X=RULE(RULE,"ACTION",DEST)
+"RTN","MAGBRTE5",62,0)
+ . . S M(B)=$P(X,"^",2),MAX=MAX+M(B)
+"RTN","MAGBRTE5",63,0)
+ . . ; Don't exceed maximum number of studies per day days
+"RTN","MAGBRTE5",64,0)
+ . . S T=0,I="" F  S I=$O(CP(DEST,I)) Q:I=""  S T=T+1
+"RTN","MAGBRTE5",65,0)
+ . . I $P(X,"^",3),T'<$P(X,"^",3) S M2=M2+M(B),M(B)=-1,M1=M1+1
+"RTN","MAGBRTE5",66,0)
+ . . Q
+"RTN","MAGBRTE5",67,0)
+ . ; If one destination has reached its cap, redistribute...
+"RTN","MAGBRTE5",68,0)
+ . D:M1
+"RTN","MAGBRTE5",69,0)
+ . . N I,L,R
+"RTN","MAGBRTE5",70,0)
+ . . S R=M2#M1,L=0
+"RTN","MAGBRTE5",71,0)
+ . . F I=1:1:B S:M(I)>0 M(I)=M2\M1+M(I),L=I
+"RTN","MAGBRTE5",72,0)
+ . . S M(L)=M(L)+R
+"RTN","MAGBRTE5",73,0)
+ . . Q
+"RTN","MAGBRTE5",74,0)
+ . ;
+"RTN","MAGBRTE5",75,0)
+ . S X=$G(^MAGRT(2006.5906,RULE,2))
+"RTN","MAGBRTE5",76,0)
+ . ; X = LAST ^ TOTAL ^ COUNT(DEST) ^ COUNT(DEST) ^ ...
+"RTN","MAGBRTE5",77,0)
+ . F L=1:1:B S E(L)=+$P(X,"^",L+2)
+"RTN","MAGBRTE5",78,0)
+ . S L=$P(X,"^",1) F  S L=L+1 S:L>B L=1 Q:E(L)<M(L)
+"RTN","MAGBRTE5",79,0)
+ . S T=$P(X,"^",2)+1,E(L)=E(L)+1,DEST=B(L)
+"RTN","MAGBRTE5",80,0)
+ . I T'<MAX S T=0 F L=1:1:B S E(L)=0
+"RTN","MAGBRTE5",81,0)
+ . S X=L_"^"_T F L=1:1:B S X=X_"^"_E(L)
+"RTN","MAGBRTE5",82,0)
+ . S ^MAGRT(2006.5906,RULE,2)=X
+"RTN","MAGBRTE5",83,0)
+ . ;
+"RTN","MAGBRTE5",84,0)
+ . ; Note: on consolidated sites 'origins' and 'destinations'
+"RTN","MAGBRTE5",85,0)
+ . ; matter even more than on non-consolidated ones.
+"RTN","MAGBRTE5",86,0)
+ . ; In the case of load-balancing, however, the 'destinations'
+"RTN","MAGBRTE5",87,0)
+ . ; part is taken care of by the balancing parameters, and the
+"RTN","MAGBRTE5",88,0)
+ . ; origin is moot, because each study has one (and only one)
+"RTN","MAGBRTE5",89,0)
+ . ; origin.
+"RTN","MAGBRTE5",90,0)
+ . ;
+"RTN","MAGBRTE5",91,0)
+ . D:'$D(^MAGRT(2006.5906,RULE,1,PARENT))
+"RTN","MAGBRTE5",92,0)
+ . . S X=$G(^MAGRT(2006.5906,RULE,1,0))
+"RTN","MAGBRTE5",93,0)
+ . . S $P(X,"^",1,2)="^2006.59061"
+"RTN","MAGBRTE5",94,0)
+ . . S:PARENT>$P(X,"^",3) $P(X,"^",3)=PARENT
+"RTN","MAGBRTE5",95,0)
+ . . S $P(X,"^",4)=$P(X,"^",4)+1
+"RTN","MAGBRTE5",96,0)
+ . . S ^MAGRT(2006.5906,RULE,1,0)=X
+"RTN","MAGBRTE5",97,0)
+ . . S ^MAGRT(2006.5906,RULE,1,PARENT,0)=PARENT_"^"_RDT_"^"_DEST
+"RTN","MAGBRTE5",98,0)
+ . . Q
+"RTN","MAGBRTE5",99,0)
+ . L -^MAGRT(2006.5906,0)
+"RTN","MAGBRTE5",100,0)
+ . Q
+"RTN","MAGBRTE5",101,0)
+ S DEST=$P(^MAGRT(2006.5906,RULE,1,PARENT,0),"^",3)
+"RTN","MAGBRTE5",102,0)
+ S X=$G(RULE(RULE,"ACTION",DEST))
+"RTN","MAGBRTE5",103,0)
+ I X="" S METMSG(0,"No location for rule "_RULE_", alternative "_DEST)="" Q
+"RTN","MAGBRTE5",104,0)
+ S X=$P(X,"^",1) Q:X="<LOCAL>"
+"RTN","MAGBRTE5",105,0)
+ S DEST=0
+"RTN","MAGBRTE5",106,0)
+ S D=0 F  S D=$O(RULE(RULE,"ACTION",D)) Q:'D  D  Q:DEST
+"RTN","MAGBRTE5",107,0)
+ . Q:$P($G(RULE(RULE,"ACTION",D)),"^",1)'=X
+"RTN","MAGBRTE5",108,0)
+ . S DEST=D
+"RTN","MAGBRTE5",109,0)
+ . Q
+"RTN","MAGBRTE5",110,0)
+ I 'DEST S METMSG(0,"Cannot find location """_X_""".")="" Q
+"RTN","MAGBRTE5",111,0)
+ S ^MAGRT(2006.5906,"D",RDT,DEST,RULE,PARENT)=""
+"RTN","MAGBRTE5",112,0)
+ ;
+"RTN","MAGBRTE5",113,0)
+ ; Current version assumes that BALANCE means DOS-Copy, not DICOM...
+"RTN","MAGBRTE5",114,0)
+ D VALDEST^MAGDRPC1(.DEST,X)
+"RTN","MAGBRTE5",115,0)
+ D LOG^MAGBRTE4("Load-Balance Destination is "_X)
+"RTN","MAGBRTE5",116,0)
+ S PRI=$$PRI^MAGBRTE4($G(RULE(RULE,"PRIORITY")),IMAGE)
+"RTN","MAGBRTE5",117,0)
+ S VRS=$$VRS(VRS,$$SEND(IMAGE,DEST,PRI,1,LOCATION))
+"RTN","MAGBRTE5",118,0)
+ Q
+"RTN","MAGBRTE5",119,0)
+ ;
+"RTN","MAGBRTE5",120,0)
+VARNAME(F) ;
+"RTN","MAGBRTE5",121,0)
+ S F=$TR(F," !""#$%&'()*+,-./:;<=>?@[\]^_`{|}~","_________________________________")
+"RTN","MAGBRTE5",122,0)
+ F  Q:F'["__"  S F=$P(F,"__",1)_"_"_$P(F,"__",2,$L(F)+2)
+"RTN","MAGBRTE5",123,0)
+ F  Q:$E(F,1)'="_"  S F=$E(F,2,$L(F))
+"RTN","MAGBRTE5",124,0)
+ F  Q:$E(F,$L(F))'="_"  S F=$E(F,1,$L(F)-1)
+"RTN","MAGBRTE5",125,0)
+ S F=$TR(F,"abcdefghijklmnopqrstuvwxyz","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","MAGBRTE5",126,0)
+ Q F
+"RTN","MAGBRTE5",127,0)
+ ;
+"RTN","MAGBRTE5",128,0)
+SEND(IMAGE,DEST,PRI,MECH,LOCATION) N D1,D2,IM,IMG,O,OUT,PRE,RADFN,RADTI,RACNI,RARPT,VRS,X
+"RTN","MAGBRTE5",129,0)
+ S VRS=$$VRS("",$$SEND^MAGBRTUT(IMAGE,DEST,PRI,MECH,LOCATION))
+"RTN","MAGBRTE5",130,0)
+ Q:$G(RULE(RULE,"PRIORSTUDY"))'="YES" VRS
+"RTN","MAGBRTE5",131,0)
+ Q:'$G(IMAGE) VRS
+"RTN","MAGBRTE5",132,0)
+ S X=$G(^MAG(2005,IMAGE,2))
+"RTN","MAGBRTE5",133,0)
+ I $P(X,"^",6)'=74 Q VRS
+"RTN","MAGBRTE5",134,0)
+ S RARPT=$P(X,"^",7) I 'RARPT Q VRS
+"RTN","MAGBRTE5",135,0)
+ S X=$G(^RARPT(RARPT,0)) ; IA # 1171
+"RTN","MAGBRTE5",136,0)
+ S RADFN=$P(X,"^",2),RADTI=9999999.9999-$P(X,"^",3),RACNI=$P(X,"^",4)
+"RTN","MAGBRTE5",137,0)
+ S:RACNI RACNI=$O(^RADPT(+RADFN,"DT",+RADTI,"P","B",RACNI,"")) ; IA # 1172
+"RTN","MAGBRTE5",138,0)
+ S PRE="A^"_RADFN_"^"_RADTI_"^"_RACNI_"^"_RARPT
+"RTN","MAGBRTE5",139,0)
+ D PRIOR1^MAGJEX2(.OUT,PRE)
+"RTN","MAGBRTE5",140,0)
+ S O=0 F  S O=$O(OUT(O))  Q:O=""  D
+"RTN","MAGBRTE5",141,0)
+ . S X=$G(OUT(O)) Q:'$P(X,"^",2)
+"RTN","MAGBRTE5",142,0)
+ . S X=$P(X,"|",2) Q:'X
+"RTN","MAGBRTE5",143,0)
+ . S RARPT=$P(X,"^",4) Q:'RARPT
+"RTN","MAGBRTE5",144,0)
+ . S D1=0 F  S D1=$O(^RARPT(RARPT,2005,D1)) Q:'D1  D  ; IA # 1171
+"RTN","MAGBRTE5",145,0)
+ . . S IM=+$G(^RARPT(RARPT,2005,D1,0)) Q:'IM  ; IA # 1171
+"RTN","MAGBRTE5",146,0)
+ . . S D2=0 F  S D2=$O(^MAG(2005,IM,1,D2)) Q:'D2  D
+"RTN","MAGBRTE5",147,0)
+ . . . S IMG=+$G(^MAG(2005,IM,1,D2,0)) Q:'IMG
+"RTN","MAGBRTE5",148,0)
+ . . . S VRS=$$VRS(VRS,$$SEND^MAGBRTUT(IMG,DEST,PRI,MECH,LOCATION))
+"RTN","MAGBRTE5",149,0)
+ . . . S METMSG(1,"SEND also image #"_IMG_" from prior study")=""
+"RTN","MAGBRTE5",150,0)
+ . . . Q
+"RTN","MAGBRTE5",151,0)
+ . . Q
+"RTN","MAGBRTE5",152,0)
+ . Q
+"RTN","MAGBRTE5",153,0)
+ Q VRS
+"RTN","MAGBRTE5",154,0)
+ ;
+"RTN","MAGBRTE5",155,0)
+VRS(OLD,NEW) N OUT
+"RTN","MAGBRTE5",156,0)
+ S OUT=""
+"RTN","MAGBRTE5",157,0)
+ S:OLD OUT=OLD_"^"
+"RTN","MAGBRTE5",158,0)
+ S:NEW OUT=OUT_NEW
+"RTN","MAGBRTE5",159,0)
+ F  Q:OUT'["^^"  S OUT=$P(OUT,"^^",1)_"^"_$P(OUT,"^^",2,$L(OUT)+2)
+"RTN","MAGBRTE5",160,0)
+ Q:$L(OUT)<100 OUT
+"RTN","MAGBRTE5",161,0)
+ Q $P(OUT,"^",1)_"^...^"_$P(OUT,"^",$L(OUT,"^"))
+"RTN","MAGBRTE5",162,0)
+ ;
+"RTN","MAGBRTUT")
+0^3^B44439840
+"RTN","MAGBRTUT",1,0)
+MAGBRTUT ;WOIFO/EdM - Routing Utilities ; 12/15/2006 13:50
+"RTN","MAGBRTUT",2,0)
+ ;;3.0;IMAGING;**9,11,30,51,50,85**;16-March-2007;;Build 1039
+"RTN","MAGBRTUT",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGBRTUT",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTUT",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGBRTUT",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGBRTUT",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGBRTUT",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGBRTUT",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGBRTUT",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGBRTUT",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGBRTUT",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGBRTUT",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGBRTUT",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGBRTUT",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGBRTUT",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGBRTUT",17,0)
+ ;;
+"RTN","MAGBRTUT",18,0)
+ Q
+"RTN","MAGBRTUT",19,0)
+ ;
+"RTN","MAGBRTUT",20,0)
+SEND(IMAGE,LOC,PRI,MECH,FROM,ID) ; Enter image into Routing Queue
+"RTN","MAGBRTUT",21,0)
+ ; IMAGE ;---- Internal Entry Number in Image FIle
+"RTN","MAGBRTUT",22,0)
+ ; LOC ;------ Internal Entry Number in either Network Location file
+"RTN","MAGBRTUT",23,0)
+ ;             or SCU_List file
+"RTN","MAGBRTUT",24,0)
+ ; PRI ;------ Priority
+"RTN","MAGBRTUT",25,0)
+ ; MECHanism = 1: Send using MS-DOS-Copy
+"RTN","MAGBRTUT",26,0)
+ ;           = 2: Send using DICOM_Send
+"RTN","MAGBRTUT",27,0)
+ ; FROM ;----- Location from which request originates
+"RTN","MAGBRTUT",28,0)
+ ; ID ;------- Transaction ID
+"RTN","MAGBRTUT",29,0)
+ N D0 ;------- Internal Entry number
+"RTN","MAGBRTUT",30,0)
+ N FLAG ;----- List of file-types to transmit
+"RTN","MAGBRTUT",31,0)
+ N I ;-------- Scratch and loop counter
+"RTN","MAGBRTUT",32,0)
+ N ORIGIN ;--- Location from which image is being sent (IEN in Institution file)
+"RTN","MAGBRTUT",33,0)
+ N QQ ;------- List of queue-entries created
+"RTN","MAGBRTUT",34,0)
+ ;
+"RTN","MAGBRTUT",35,0)
+ S QQ="",MECH=$G(MECH) S:'MECH MECH=1
+"RTN","MAGBRTUT",36,0)
+ I '$D(^MAG(2005,+$G(IMAGE))) Q:$Q QQ Q
+"RTN","MAGBRTUT",37,0)
+ I MECH=1,'$D(^MAG(2005.2,+$G(LOC))) Q:$Q QQ Q
+"RTN","MAGBRTUT",38,0)
+ I MECH=2,'$D(^MAG(2006.587,+$G(LOC))) Q:$Q QQ Q
+"RTN","MAGBRTUT",39,0)
+ I MECH'=1,MECH'=2 Q:$Q QQ Q
+"RTN","MAGBRTUT",40,0)
+ S:MECH=1 LOC=(+LOC)_";MAG(2005.2,"
+"RTN","MAGBRTUT",41,0)
+ S:MECH=2 LOC=(+LOC)_";MAG(2006.587,"
+"RTN","MAGBRTUT",42,0)
+ ;
+"RTN","MAGBRTUT",43,0)
+ S ORIGIN=$G(FROM) D:'ORIGIN
+"RTN","MAGBRTUT",44,0)
+ . S ORIGIN=$P($G(^MAG(2005,IMAGE,100)),"^",3)
+"RTN","MAGBRTUT",45,0)
+ . S:'ORIGIN ORIGIN=$G(DUZ(2))
+"RTN","MAGBRTUT",46,0)
+ . S:'ORIGIN ORIGIN=$$KSP^XUPARAM("INST")
+"RTN","MAGBRTUT",47,0)
+ . Q
+"RTN","MAGBRTUT",48,0)
+ ;
+"RTN","MAGBRTUT",49,0)
+ S PRI=$G(PRI,500),ID=$G(ID)
+"RTN","MAGBRTUT",50,0)
+ S FLAG=$G(^MAG(2005.2,+LOC,1)) S:MECH=2 FLAG="^^^^5"
+"RTN","MAGBRTUT",51,0)
+ ;
+"RTN","MAGBRTUT",52,0)
+ I MECH=2 D  Q:$Q QQ Q
+"RTN","MAGBRTUT",53,0)
+ . ; Stopgap until "native DICOM" storage is supported
+"RTN","MAGBRTUT",54,0)
+ . N APPNAM
+"RTN","MAGBRTUT",55,0)
+ . S APPNAM=$P($G(^MAG(2006.587,+LOC,0)),"^",1)
+"RTN","MAGBRTUT",56,0)
+ . D QUEUE^MAGDRPC3(.QQ,IMAGE,APPNAM,ORIGIN,"","6: Copy to HIPAA Compliant Storage",,PRI)
+"RTN","MAGBRTUT",57,0)
+ . Q
+"RTN","MAGBRTUT",58,0)
+ ;
+"RTN","MAGBRTUT",59,0)
+ F I=1:1:5 D:$P(FLAG,"^",I)
+"RTN","MAGBRTUT",60,0)
+ . N D0,T,X
+"RTN","MAGBRTUT",61,0)
+ . S T=$P("ABSTRACT FULL BIG TEXT DICOM"," ",I)
+"RTN","MAGBRTUT",62,0)
+ . ;
+"RTN","MAGBRTUT",63,0)
+ . S D0=$O(^MAGQUEUE(2006.035,"DEST",LOC,"WAITING",IMAGE,T,"")) I D0 D  Q
+"RTN","MAGBRTUT",64,0)
+ . . N O,P,T,X0,X1
+"RTN","MAGBRTUT",65,0)
+ . . S X0=$G(^MAGQUEUE(2006.035,D0,0)),O=$P(X0,"^",5),T=$P(X0,"^",6)
+"RTN","MAGBRTUT",66,0)
+ . . S X1=$G(^MAGQUEUE(2006.035,D0,1)),P=$P(X1,"^",2)
+"RTN","MAGBRTUT",67,0)
+ . . ; Don't send multiple copies, but do increase priority if needed
+"RTN","MAGBRTUT",68,0)
+ . . Q:PRI'>P
+"RTN","MAGBRTUT",69,0)
+ . . S $P(X0,"^",5)=ORIGIN,^MAGQUEUE(2006.035,D0,0)=X0
+"RTN","MAGBRTUT",70,0)
+ . . I T'=ID,ID'="" D
+"RTN","MAGBRTUT",71,0)
+ . . . S $P(X0,"^",6)=ID
+"RTN","MAGBRTUT",72,0)
+ . . . S ^MAGQUEUE(2006.035,D0,0)=X0
+"RTN","MAGBRTUT",73,0)
+ . . . K:O'="" ^MAGQUEUE(2006.035,"ID",T,D0)
+"RTN","MAGBRTUT",74,0)
+ . . . S ^MAGQUEUE(2006.035,"ID",ID,D0)=""
+"RTN","MAGBRTUT",75,0)
+ . . . Q
+"RTN","MAGBRTUT",76,0)
+ . . S $P(X1,"^",2)=PRI,^MAGQUEUE(2006.035,D0,1)=X1
+"RTN","MAGBRTUT",77,0)
+ . . K:O ^MAGQUEUE(2006.035,"STS",O,"WAITING",P,LOC,D0)
+"RTN","MAGBRTUT",78,0)
+ . . S ^MAGQUEUE(2006.035,"STS",ORIGIN,"WAITING",PRI,LOC,D0)=""
+"RTN","MAGBRTUT",79,0)
+ . . Q
+"RTN","MAGBRTUT",80,0)
+ . ;
+"RTN","MAGBRTUT",81,0)
+ . L +^MAGQUEUE(2006.035,0)
+"RTN","MAGBRTUT",82,0)
+ . S D0=$O(^MAGQUEUE(2006.035," "),-1)+1
+"RTN","MAGBRTUT",83,0)
+ . S X=$G(^MAGQUEUE(2006.035,0))
+"RTN","MAGBRTUT",84,0)
+ . S $P(X,"^",1,2)="SEND QUEUE^2006.035"
+"RTN","MAGBRTUT",85,0)
+ . S $P(X,"^",3)=D0
+"RTN","MAGBRTUT",86,0)
+ . S $P(X,"^",4)=$P(X,"^",4)+1
+"RTN","MAGBRTUT",87,0)
+ . S ^MAGQUEUE(2006.035,0)=X
+"RTN","MAGBRTUT",88,0)
+ . S X=IMAGE_"^"_LOC_"^"_T_"^"_MECH_"^"_ORIGIN_"^"_ID
+"RTN","MAGBRTUT",89,0)
+ . S:ID'="" ^MAGQUEUE(2006.035,"ID",ID,D0)=""
+"RTN","MAGBRTUT",90,0)
+ . S ^MAGQUEUE(2006.035,D0,0)=X
+"RTN","MAGBRTUT",91,0)
+ . D NOW^%DTC
+"RTN","MAGBRTUT",92,0)
+ . S ^MAGQUEUE(2006.035,D0,1)="WAITING^"_PRI_"^"_%
+"RTN","MAGBRTUT",93,0)
+ . S ^MAGQUEUE(2006.035,"STS",ORIGIN,"WAITING",PRI,LOC,D0)=""
+"RTN","MAGBRTUT",94,0)
+ . S ^MAGQUEUE(2006.035,"DEST",LOC,"WAITING",IMAGE,T,D0)=""
+"RTN","MAGBRTUT",95,0)
+ . L -^MAGQUEUE(2006.035,0)
+"RTN","MAGBRTUT",96,0)
+ . S QQ=QQ_D0_"^"
+"RTN","MAGBRTUT",97,0)
+ . Q
+"RTN","MAGBRTUT",98,0)
+ Q:$Q QQ Q
+"RTN","MAGBRTUT",99,0)
+ ;
+"RTN","MAGBRTUT",100,0)
+DCMLIST(OUT,LOCATION) N D0,LO,LST,N,NM,X
+"RTN","MAGBRTUT",101,0)
+ S LOCATION=+$G(LOCATION)
+"RTN","MAGBRTUT",102,0)
+ S D0=0 F  S D0=$O(^MAG(2006.587,D0)) Q:'D0  D
+"RTN","MAGBRTUT",103,0)
+ . S X=$G(^MAG(2006.587,D0,0))
+"RTN","MAGBRTUT",104,0)
+ . S NM=$P(X,"^",1),LO=$P(X,"^",7) Q:NM=""
+"RTN","MAGBRTUT",105,0)
+ . I LOCATION,LO,LO'=LOCATION Q
+"RTN","MAGBRTUT",106,0)
+ . S LST(NM,LO)=D0
+"RTN","MAGBRTUT",107,0)
+ . Q
+"RTN","MAGBRTUT",108,0)
+ S N=1,NM="" F  S NM=$O(LST(NM)) Q:NM=""  D
+"RTN","MAGBRTUT",109,0)
+ . S LO="",X=0 F  S LO=$O(LST(NM,LO)) Q:LO=""  S X=X+1,D0=LST(NM,LO)
+"RTN","MAGBRTUT",110,0)
+ . I X=1 S N=N+1,OUT(N)=NM_"^"_D0 Q
+"RTN","MAGBRTUT",111,0)
+ . S LO="" F  S LO=$O(LST(NM,LO)) Q:LO=""  S N=N+1,OUT(N)=NM_" ("_LO_")^"_LST(NM,LO)
+"RTN","MAGBRTUT",112,0)
+ . Q
+"RTN","MAGBRTUT",113,0)
+ S OUT(1)=N-1
+"RTN","MAGBRTUT",114,0)
+ Q
+"RTN","MAGBRTUT",115,0)
+ ;
+"RTN","MAGBRTUT",116,0)
+EVALPU(OUT,UNTIL) ; RPC = MAG DICOM ROUTE EVAL PURGE
+"RTN","MAGBRTUT",117,0)
+ N D0,MORE,N,P1,P4,P5,P6,P7,P8,TIME
+"RTN","MAGBRTUT",118,0)
+ S TIME=$$STAMP($H)+55,N=0,MORE=0
+"RTN","MAGBRTUT",119,0)
+ L +^MAGQUEUE(2006.03,0):1E9 ; Background process must wait
+"RTN","MAGBRTUT",120,0)
+ S D0="" F  S D0=$O(^MAGQUEUE(2006.03,"B","EVAL",D0)) Q:D0=""  D  Q:MORE
+"RTN","MAGBRTUT",121,0)
+ . S X=$G(^MAGQUEUE(2006.03,D0,0))
+"RTN","MAGBRTUT",122,0)
+ . S P4=$P(X,"^",4),P6=$P(X,"^",6)
+"RTN","MAGBRTUT",123,0)
+ . S:P6 P4=-1
+"RTN","MAGBRTUT",124,0)
+ . Q:P4>UNTIL
+"RTN","MAGBRTUT",125,0)
+ . I $$STAMP($H)>TIME S MORE=1 Q
+"RTN","MAGBRTUT",126,0)
+ . S N=N+1,P1=$P(X,"^",1),P5=$P(X,"^",5),P7=$P(X,"^",7),P8=$P(X,"^",8)
+"RTN","MAGBRTUT",127,0)
+ . I P1'="" K ^MAGQUEUE(2006.03,"B",P1,D0)
+"RTN","MAGBRTUT",128,0)
+ . I P5'="" K ^MAGQUEUE(2006.03,"C",P5,D0)
+"RTN","MAGBRTUT",129,0)
+ . I P7'="",P8'="" K ^MAGQUEUE(2006.03,"JD",P7,P8,D0)
+"RTN","MAGBRTUT",130,0)
+ . I P7'="" K ^MAGQUEUE(2006.03,"JX",P7,D0)
+"RTN","MAGBRTUT",131,0)
+ . K ^MAGQUEUE(2006.03,D0)
+"RTN","MAGBRTUT",132,0)
+ . Q
+"RTN","MAGBRTUT",133,0)
+ S X=$G(^MAGQUEUE(2006.03,0))
+"RTN","MAGBRTUT",134,0)
+ S P1=$P(X,"^",4)-N S:P1<1 P1=0 S $P(X,"^",4)=P1
+"RTN","MAGBRTUT",135,0)
+ S $P(X,"^",1,2)="IMAGE BACKGROUND QUEUE^2006.03"
+"RTN","MAGBRTUT",136,0)
+ S ^MAGQUEUE(2006.03,0)=X
+"RTN","MAGBRTUT",137,0)
+ L -^MAGQUEUE(2006.03,0)
+"RTN","MAGBRTUT",138,0)
+ S OUT=N_"^"_MORE
+"RTN","MAGBRTUT",139,0)
+ Q
+"RTN","MAGBRTUT",140,0)
+ ;
+"RTN","MAGBRTUT",141,0)
+STAMP(H) Q H*86400+$P(H,",",2)
+"RTN","MAGBRTUT",142,0)
+ ;
+"RTN","MAGBRTUT",143,0)
+RENAME(OUT,OLD,NEW,KEY) ; RPC = MAG DICOM XMIT RENAME GATEWAY
+"RTN","MAGBRTUT",144,0)
+ N D0,ID,LOC,SVC,N,X
+"RTN","MAGBRTUT",145,0)
+ I $G(OLD)="" S OUT="-1,No previous Gateway name specified" Q
+"RTN","MAGBRTUT",146,0)
+ I $G(NEW)="" S OUT="-2,No new Gateway name specified" Q
+"RTN","MAGBRTUT",147,0)
+ S:'$G(KEY) KEY=5
+"RTN","MAGBRTUT",148,0)
+ I KEY'=5,KEY'=6 S OUT="-3,Invalid key specified ("_KEY_")" Q
+"RTN","MAGBRTUT",149,0)
+ ;
+"RTN","MAGBRTUT",150,0)
+ S (N,D0)=0 F  S D0=$O(^MAG(2006.587,D0)) Q:'D0  D
+"RTN","MAGBRTUT",151,0)
+ . S X=$G(^MAG(2006.587,D0,0)),ID=$P(X,"^",KEY) Q:ID'=OLD
+"RTN","MAGBRTUT",152,0)
+ . S N=N+1
+"RTN","MAGBRTUT",153,0)
+ . S $P(X,"^",KEY)=NEW
+"RTN","MAGBRTUT",154,0)
+ . Q:KEY'=5
+"RTN","MAGBRTUT",155,0)
+ . S LOC=$P(X,"^",7),SVC=$P(X,"^",1)
+"RTN","MAGBRTUT",156,0)
+ . I LOC'="",SVC'="" K ^MAG(2006.587,"C",SVC,OLD,LOC,D0)
+"RTN","MAGBRTUT",157,0)
+ . I LOC'="" K ^MAG(2006.587,"D",OLD,LOC,D0)
+"RTN","MAGBRTUT",158,0)
+ . I LOC'="",SVC'="" S ^MAG(2006.587,"C",SVC,NEW,LOC,D0)=""
+"RTN","MAGBRTUT",159,0)
+ . I LOC'="" S ^MAG(2006.587,"D",NEW,LOC,D0)=""
+"RTN","MAGBRTUT",160,0)
+ . Q
+"RTN","MAGBRTUT",161,0)
+ S OUT=N_" entr"_$S(N=1:"y",1:"ies")_" renamed"
+"RTN","MAGBRTUT",162,0)
+ Q
+"RTN","MAGBRTUT",163,0)
+ ;
+"RTN","MAGBRTUT",164,0)
+REMOVE(OUT,OLD,KEY) ; RPC = MAG DICOM XMIT REMOVE GATEWAY
+"RTN","MAGBRTUT",165,0)
+ N D0,ID,LOC,SVC,N,T,X
+"RTN","MAGBRTUT",166,0)
+ I $G(OLD)="" S OUT="-1,No Gateway name specified" Q
+"RTN","MAGBRTUT",167,0)
+ S:'$G(KEY) KEY=5
+"RTN","MAGBRTUT",168,0)
+ I KEY'=5,KEY'=6 S OUT="-3,Invalid key specified ("_KEY_")" Q
+"RTN","MAGBRTUT",169,0)
+ ;
+"RTN","MAGBRTUT",170,0)
+ L +^MAG(2006.587,0):1E9 ; Background process MUST wait
+"RTN","MAGBRTUT",171,0)
+ S (N,D0)=0 F  S D0=$O(^MAG(2006.587,D0)) Q:'D0  D
+"RTN","MAGBRTUT",172,0)
+ . S X=$G(^MAG(2006.587,D0,0)),ID=$P(X,"^",KEY) Q:ID'=OLD
+"RTN","MAGBRTUT",173,0)
+ . S N=N+1
+"RTN","MAGBRTUT",174,0)
+ . S LOC=$P(X,"^",7),SVC=$P(X,"^",1)
+"RTN","MAGBRTUT",175,0)
+ . I LOC'="",SVC'="" K ^MAG(2006.587,"C",SVC,OLD,LOC,D0)
+"RTN","MAGBRTUT",176,0)
+ . I LOC'="" K ^MAG(2006.587,"D",OLD,LOC,D0)
+"RTN","MAGBRTUT",177,0)
+ . I SVC'="" K ^MAG(2006.586,"B",SVC,D0)
+"RTN","MAGBRTUT",178,0)
+ . K ^MAG(2005.676,D0)
+"RTN","MAGBRTUT",179,0)
+ . Q
+"RTN","MAGBRTUT",180,0)
+ S X=$G(^MAG(2006.587,0))
+"RTN","MAGBRTUT",181,0)
+ S $P(X,"^",1,2)="DICOM TRANSMIT DESTINATION^2006.587"
+"RTN","MAGBRTUT",182,0)
+ S $P(X,"^",3)=$O(^MAG(2006.587," "),-1)
+"RTN","MAGBRTUT",183,0)
+ S T=$P(X,"^",4)-N S:T<1 T="" S $P(X,"^",4)=T
+"RTN","MAGBRTUT",184,0)
+ S ^MAG(2006.587,0)=X
+"RTN","MAGBRTUT",185,0)
+ L -^MAG(2006.587,0)
+"RTN","MAGBRTUT",186,0)
+ S OUT=N_" entr"_$S(N=1:"y",1:"ies")_" removed"
+"RTN","MAGBRTUT",187,0)
+ Q
+"RTN","MAGBRTUT",188,0)
+ ;
+"RTN","MAGDCCS")
+0^4^B61691051
+"RTN","MAGDCCS",1,0)
+MAGDCCS ;WOIFO/MLH - DICOM Correct - Clinical Specialties ; 12/15/2006 13:50
+"RTN","MAGDCCS",2,0)
+ ;;3.0;IMAGING;**10,11,85**;16-March-2007;;Build 1039
+"RTN","MAGDCCS",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDCCS",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDCCS",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDCCS",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDCCS",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDCCS",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDCCS",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDCCS",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDCCS",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDCCS",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDCCS",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDCCS",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDCCS",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDCCS",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDCCS",17,0)
+ ;;
+"RTN","MAGDCCS",18,0)
+ Q
+"RTN","MAGDCCS",19,0)
+L ;Loop thru the entire file for entries that need processing
+"RTN","MAGDCCS",20,0)
+ ;The "F" xref is set for unique Study UIDs. The entry setting this xref
+"RTN","MAGDCCS",21,0)
+ ;will also have a "RLATE" node with all the Xray images associated with
+"RTN","MAGDCCS",22,0)
+ ;that unique Study UID.
+"RTN","MAGDCCS",23,0)
+ N ANS,ANSR,CASENO,COMNT1,DATA,DATA1,DATA2,DATE,FILE,FIRST,FIRSTS
+"RTN","MAGDCCS",24,0)
+ N MACHID,MAGDY,MAGDIEN,MAGIEN,MAGTYPE,MSG,START,STOP
+"RTN","MAGDCCS",25,0)
+ N MOD,MODEL,NEWCAS,NEWDFN,NEWDTI,NEWDTIM,NEWMUL,NEWNME,NEWPIEN,NEWPROC
+"RTN","MAGDCCS",26,0)
+ N NEWSSN,OK,OOUT,OUT,PAT,PID,PP,PREV,PREVS,REASON,STUDYUID,WHY,MAGFIX
+"RTN","MAGDCCS",27,0)
+ N KFIXALL ; --- does user hold MAGDFIX ALL key
+"RTN","MAGDCCS",28,0)
+ N GWLOC ; -- gateway site
+"RTN","MAGDCCS",29,0)
+ ;
+"RTN","MAGDCCS",30,0)
+ S KFIXALL=$$SECKEY^MAGDLB12()
+"RTN","MAGDCCS",31,0)
+ I '$D(^MAGD(2006.575,"F")) W !,"Nothing to process!" Q
+"RTN","MAGDCCS",32,0)
+ S (OOUT,OUT,PREV,FIRST)=0
+"RTN","MAGDCCS",33,0)
+ S GWLOC=0
+"RTN","MAGDCCS",34,0)
+ F  S GWLOC=$O(^MAGD(2006.575,"F",GWLOC)) Q:'GWLOC  D
+"RTN","MAGDCCS",35,0)
+ . S SUID=""
+"RTN","MAGDCCS",36,0)
+ . F  S SUID=$O(^MAGD(2006.575,"F",GWLOC,SUID)) Q:SUID=""!(OOUT)  D
+"RTN","MAGDCCS",37,0)
+ . . S MAGIEN=$O(^MAGD(2006.575,"F",GWLOC,SUID,0)) Q:'MAGIEN
+"RTN","MAGDCCS",38,0)
+ . . ; if no main failed image rec, there's a xref prob, so bail
+"RTN","MAGDCCS",39,0)
+ . . I '$D(^MAGD(2006.575,MAGIEN,0)) D  Q  ; clean up xref
+"RTN","MAGDCCS",40,0)
+ . . . K ^MAGD(2006.575,"F",GWLOC,SUID,MAGIEN)
+"RTN","MAGDCCS",41,0)
+ . . . Q
+"RTN","MAGDCCS",42,0)
+ . . ;Only process clinical specialties images... radiology and medicine images done by other rtns.
+"RTN","MAGDCCS",43,0)
+ . . S MAGTYPE=$P($G(^MAGD(2006.575,MAGIEN,"TYPE")),"^") I MAGTYPE'="CON" Q
+"RTN","MAGDCCS",44,0)
+ . . I $D(^MAGD(2006.575,MAGIEN,"FIXD")),$P(^MAGD(2006.575,MAGIEN,"FIXD"),"^") Q
+"RTN","MAGDCCS",45,0)
+ . . I 'FIRST S PREV=MAGIEN,PREVS=SUID,FIRST=MAGIEN
+"RTN","MAGDCCS",46,0)
+ . . D SET
+"RTN","MAGDCCS",47,0)
+ . Q
+"RTN","MAGDCCS",48,0)
+ Q
+"RTN","MAGDCCS",49,0)
+DISPLAY ;
+"RTN","MAGDCCS",50,0)
+ S OUT=0
+"RTN","MAGDCCS",51,0)
+ W !,"**************Processing entry**********"
+"RTN","MAGDCCS",52,0)
+ W !!,?2,"PATIENT: ",PAT,?50,"SSN: ",PID,!,"Request/Consultation #: ",CASENO
+"RTN","MAGDCCS",53,0)
+ W !,?2,"Equipment: ",MOD,?50,"Model: ",MODEL
+"RTN","MAGDCCS",54,0)
+ W !,?2,"Date Processed: ",DATE,?50,"Problem with: ",REASON
+"RTN","MAGDCCS",55,0)
+ W !,?2,"Comment: ",COMNT1
+"RTN","MAGDCCS",56,0)
+ W !,?2,"Correcting file on server ID: ",MACHID,!,?5,FILE
+"RTN","MAGDCCS",57,0)
+ S MSG="Do you want to Correct this entry? "
+"RTN","MAGDCCS",58,0)
+ Q
+"RTN","MAGDCCS",59,0)
+NEWCASE ;
+"RTN","MAGDCCS",60,0)
+ S NEWDFN=$P(MAGDY,"^"),NEWNME=$P(MAGDY,"^",2),NEWSSN=$P(MAGDY,"^",3)
+"RTN","MAGDCCS",61,0)
+ S NEWCAS=$P(MAGDY,"^",4),NEWPROC=$P(MAGDY,"^",5),NEWDTI=$P(MAGDY,"^",6)
+"RTN","MAGDCCS",62,0)
+ S NEWMUL=$P(MAGDY,"^",7),NEWPIEN=$P(MAGDY,"^",8),PP=$P(MAGDY,"^",9)
+"RTN","MAGDCCS",63,0)
+ Q
+"RTN","MAGDCCS",64,0)
+ASK() ;
+"RTN","MAGDCCS",65,0)
+ N ANS,ASK
+"RTN","MAGDCCS",66,0)
+ASK1 S ASK="Y/N/D/Q"
+"RTN","MAGDCCS",67,0)
+ I $G(PREV)'=$G(MAGIEN),MAGTYPE="CON" S ASK=ASK_"/P"
+"RTN","MAGDCCS",68,0)
+ W !,$G(MSG),"("_ASK_")// " R ANS:600
+"RTN","MAGDCCS",69,0)
+ I '$T!(ANS["^") Q "^"
+"RTN","MAGDCCS",70,0)
+ I ANS="" Q "N"
+"RTN","MAGDCCS",71,0)
+ I "YNDPQyndpq"'[$E(ANS) D  G ASK1
+"RTN","MAGDCCS",72,0)
+ . W !,"Please respond with one of the following codes."
+"RTN","MAGDCCS",73,0)
+ . W !,"Legend: Y=yes, N=no, D=delete, P=Previous entry, and Q=quit",!
+"RTN","MAGDCCS",74,0)
+ S ANS=$TR(ANS,"yndpq","YNDPQ")
+"RTN","MAGDCCS",75,0)
+ Q $E(ANS)
+"RTN","MAGDCCS",76,0)
+CHK ;remove any punctuation before doing comparison on SSN
+"RTN","MAGDCCS",77,0)
+ ;stop on 1st check.
+"RTN","MAGDCCS",78,0)
+ N OLD,I
+"RTN","MAGDCCS",79,0)
+ S OLD="" F I=1:1:$L(PID) I $E(PID,I)?1AN S OLD=OLD_$E(PID,I)
+"RTN","MAGDCCS",80,0)
+ I NEWSSN'=OLD D  Q
+"RTN","MAGDCCS",81,0)
+ . S MSG="Social Security numbers do not match. Update? "
+"RTN","MAGDCCS",82,0)
+ I NEWNME'=PAT D  Q
+"RTN","MAGDCCS",83,0)
+ . S MSG="Patient names do not match. Update? "
+"RTN","MAGDCCS",84,0)
+ ;Finally the problem is with the case number...either no longer in "C"
+"RTN","MAGDCCS",85,0)
+ ;xref or invalid number provided
+"RTN","MAGDCCS",86,0)
+ S MSG="Accession number different. Update? "
+"RTN","MAGDCCS",87,0)
+ Q
+"RTN","MAGDCCS",88,0)
+NEWDIS ;
+"RTN","MAGDCCS",89,0)
+ W !,?2,"****Please review the following: *****"
+"RTN","MAGDCCS",90,0)
+ W !,?2,"Previous name: ",PAT,!,?2,"     New name: ",NEWNME
+"RTN","MAGDCCS",91,0)
+ W !,?2,"Previous ssn: ",PID,!,?2,"     New ssn: ",NEWSSN
+"RTN","MAGDCCS",92,0)
+ W !,?2,"Previous request/consultation #: ",CASENO,!,?2,"     New request/consultation #: ",NEWCAS
+"RTN","MAGDCCS",93,0)
+ ; Variable PP already has text message about being part of printset.
+"RTN","MAGDCCS",94,0)
+ Q
+"RTN","MAGDCCS",95,0)
+UPDT ;
+"RTN","MAGDCCS",96,0)
+ N GWLOC ; -- gateway location
+"RTN","MAGDCCS",97,0)
+ W !,"Will change the following: " D NEWDIS
+"RTN","MAGDCCS",98,0)
+ W !,"Are you sure you want to correct this entry? " S %=2 D YN^DICN
+"RTN","MAGDCCS",99,0)
+ I %=-1!(%=2) S OUT=1 Q
+"RTN","MAGDCCS",100,0)
+ W !,"Updating the file."
+"RTN","MAGDCCS",101,0)
+ S NEWDTIM=$TR(NEWDTI,"0123456789","9876543210")
+"RTN","MAGDCCS",102,0)
+ S ^MAGD(2006.575,MAGIEN,"FIXD")="1^"_NEWDFN_"^"_NEWNME_"^"_NEWSSN_"^"_NEWCAS_"^"_NEWDTI_"^"_NEWMUL_"^"_NEWDTIM W "."
+"RTN","MAGDCCS",103,0)
+ S ^MAGD(2006.575,MAGIEN,"FIXPR")=NEWPIEN_"^"_NEWPROC W "."
+"RTN","MAGDCCS",104,0)
+ ;Same as ^radpt(newdfn,"DT",newdti,"P",newmul,0) & ^RAMIS(71,newpien,0)
+"RTN","MAGDCCS",105,0)
+ S GWLOC=$P($G(^MAGD(2006.575,MAGIEN,1)),"^",5)
+"RTN","MAGDCCS",106,0)
+ S MACHID=$S(MACHID="":"A",1:MACHID) ; server ID
+"RTN","MAGDCCS",107,0)
+ I GWLOC S ^MAGD(2006.575,"AFX",GWLOC,MACHID,MAGIEN)="" W "."
+"RTN","MAGDCCS",108,0)
+ E  W !,"Gateway place not defined on image entry "_MAGIEN_", continuing.."
+"RTN","MAGDCCS",109,0)
+ ;Xref to loop & process entries; processing will be minimal.
+"RTN","MAGDCCS",110,0)
+ S MAGFIX(MAGIEN)="F"
+"RTN","MAGDCCS",111,0)
+ Q
+"RTN","MAGDCCS",112,0)
+SETDEL ;Entry to be deleted
+"RTN","MAGDCCS",113,0)
+ N GWLOC ; -- gateway location
+"RTN","MAGDCCS",114,0)
+ D LOGERR I ANS="^" S OUT=1 Q
+"RTN","MAGDCCS",115,0)
+ S GWLOC=$P($G(^MAGD(2006.575,MAGIEN,1)),"^",5)
+"RTN","MAGDCCS",116,0)
+ I GWLOC S ^MAGD(2006.575,"AFX",GWLOC,MACHID,MAGIEN)="D" W "."
+"RTN","MAGDCCS",117,0)
+ E  W !,"Gateway place not defined on image entry "_MAGIEN_", continuing.."
+"RTN","MAGDCCS",118,0)
+ S $P(^MAGD(2006.575,MAGIEN,0),"^",6)="1"
+"RTN","MAGDCCS",119,0)
+ S ^MAGD(2006.575,MAGIEN,"FIXD")=1
+"RTN","MAGDCCS",120,0)
+ S MAGFIX(MAGIEN)="D"
+"RTN","MAGDCCS",121,0)
+ Q
+"RTN","MAGDCCS",122,0)
+LOGERR ;Need to record error
+"RTN","MAGDCCS",123,0)
+ N DIR,DIRUT,DTOUT,ENTRY,I,MAGERR,MAGOUT,X,Y,WHY,WHO
+"RTN","MAGDCCS",124,0)
+ W !! F I=1:1:80 W "*"
+"RTN","MAGDCCS",125,0)
+ W !,"*** Will log in error log (file 2006.599). ****"
+"RTN","MAGDCCS",126,0)
+ D NOW^%DTC
+"RTN","MAGDCCS",127,0)
+ S DIR(0)="F^3:30"
+"RTN","MAGDCCS",128,0)
+ S DIR("A")="Reason for deletion"
+"RTN","MAGDCCS",129,0)
+ S DIR("A",1)="Please enter a reason for deleting."
+"RTN","MAGDCCS",130,0)
+ S DIR("A",2)="For example: TEST PATIENT"
+"RTN","MAGDCCS",131,0)
+ D ^DIR
+"RTN","MAGDCCS",132,0)
+ I $D(DIRUT)!($D(DTOUT))!(Y="") D  S ANS="^" Q
+"RTN","MAGDCCS",133,0)
+ . W !,"Can not delete if a reason is not provided."
+"RTN","MAGDCCS",134,0)
+ . Q
+"RTN","MAGDCCS",135,0)
+ S WHY=Y,WHO=$G(DUZ)
+"RTN","MAGDCCS",136,0)
+ I WHO D 
+"RTN","MAGDCCS",137,0)
+ . D GETS^DIQ(200,DUZ,".01","E","MAGOUT","MAGERR")
+"RTN","MAGDCCS",138,0)
+ . Q:$D(MAGERR("DIERR"))
+"RTN","MAGDCCS",139,0)
+ . S WHO=$G(MAGOUT(200,DUZ_",",.01,"E"))
+"RTN","MAGDCCS",140,0)
+ I WHO="" S WHO="UNKNOWN"
+"RTN","MAGDCCS",141,0)
+ I '$D(^MAGD(2006.599,0)) D
+"RTN","MAGDCCS",142,0)
+ . S ^MAGD(2006.599,0)="Dicom Error Log^2006.599^^"
+"RTN","MAGDCCS",143,0)
+ . Q
+"RTN","MAGDCCS",144,0)
+ S ENTRY=$P(^MAGD(2006.599,0),"^",3)+1
+"RTN","MAGDCCS",145,0)
+ S $P(^MAGD(2006.599,0),"^",3)=ENTRY
+"RTN","MAGDCCS",146,0)
+ S $P(^MAGD(2006.599,0),"^",4)=$P(^MAGD(2006.599,0),"^",4)+1
+"RTN","MAGDCCS",147,0)
+ S ^MAGD(2006.599,ENTRY,0)=%_"^"_WHY_"^"_FILE_"^"_MODEL
+"RTN","MAGDCCS",148,0)
+ S ^MAGD(2006.599,ENTRY,1)=WHO_"^"_PAT_"^"_PID_"^"_CASENO_"^"_MACHID
+"RTN","MAGDCCS",149,0)
+ S ^MAGD(2006.599,"B",%,ENTRY)=""
+"RTN","MAGDCCS",150,0)
+ Q
+"RTN","MAGDCCS",151,0)
+SET ;
+"RTN","MAGDCCS",152,0)
+ S MAGTYPE=$P(^MAGD(2006.575,MAGIEN,"TYPE"),"^")
+"RTN","MAGDCCS",153,0)
+ Q:$P($G(^MAGD(2006.575,MAGIEN,"FIXD")),"^")    ;Already fixed.
+"RTN","MAGDCCS",154,0)
+ ;Only process Clinical Specialties images...radiology & medicine images done by other rtns.
+"RTN","MAGDCCS",155,0)
+ I $E(MAGTYPE,1,3)'="CON" Q
+"RTN","MAGDCCS",156,0)
+ S DATA=^MAGD(2006.575,MAGIEN,0)
+"RTN","MAGDCCS",157,0)
+ S FILE=$P(^MAGD(2006.575,MAGIEN,0),"^")
+"RTN","MAGDCCS",158,0)
+ S DATA1=^MAGD(2006.575,MAGIEN,1)    ;Case no. info
+"RTN","MAGDCCS",159,0)
+ S DATA2=^MAGD(2006.575,MAGIEN,"AMFG")    ;Modality info
+"RTN","MAGDCCS",160,0)
+ S PAT=$P(DATA,"^",4),PID=$P(DATA,"^",3),REASON=$P(DATA,"^",2)
+"RTN","MAGDCCS",161,0)
+ S MOD=$P(DATA2,"^"),MODEL=$P(DATA2,"^",6)
+"RTN","MAGDCCS",162,0)
+ S CASENO=$P(DATA1,"^",2),MACHID=$P(DATA1,"^",4)
+"RTN","MAGDCCS",163,0)
+ S Y=$P(DATA1,"^",3) X ^DD("DD") S DATE=Y
+"RTN","MAGDCCS",164,0)
+ S COMNT1=$G(^MAGD(2006.575,MAGIEN,"ACSTXT")) ;1st line comment.
+"RTN","MAGDCCS",165,0)
+ S MACHID=$P(DATA1,"^",4)
+"RTN","MAGDCCS",166,0)
+ S ANS="" D DISPLAY S ANS=$$ASK
+"RTN","MAGDCCS",167,0)
+ I ANS="Q"!(ANS["^") S (OOUT,OUT)=1 D SETPREV Q
+"RTN","MAGDCCS",168,0)
+ I ANS="N" S OUT=1 D SETPREV Q
+"RTN","MAGDCCS",169,0)
+ I ANS="P" D CHKPREV Q
+"RTN","MAGDCCS",170,0)
+ I ANS="D" D SETDEL,SETPREV Q
+"RTN","MAGDCCS",171,0)
+ Q:OUT
+"RTN","MAGDCCS",172,0)
+ K MAGDY W !," Lookup by case number or patient name"
+"RTN","MAGDCCS",173,0)
+LOOK ;
+"RTN","MAGDCCS",174,0)
+ ;D ^MAGDLB2 Q:'$D(MAGDY)  Q:MAGDY'[""
+"RTN","MAGDCCS",175,0)
+ D EN^MAGDCCS2 Q:'$D(MAGDY)  Q:MAGDY'[""
+"RTN","MAGDCCS",176,0)
+ D NEWCASE,CHK,NEWDIS S ANS=$$ASK
+"RTN","MAGDCCS",177,0)
+ ;W !,"Sorry, under construction (",$T(+0),")... please try again later.",! Q
+"RTN","MAGDCCS",178,0)
+ I ANS="Q"!(ANS["^") S (OOUT,OUT)=1 D SETPREV Q
+"RTN","MAGDCCS",179,0)
+ I ANS="D" D SETDEL,SETPREV Q
+"RTN","MAGDCCS",180,0)
+ I ANS="P" D CHKPREV Q
+"RTN","MAGDCCS",181,0)
+ I ANS="N" S OUT=1 D SETPREV Q
+"RTN","MAGDCCS",182,0)
+ Q:OUT
+"RTN","MAGDCCS",183,0)
+ D UPDT
+"RTN","MAGDCCS",184,0)
+ I ANS="P" D CHKPREV Q
+"RTN","MAGDCCS",185,0)
+ D SETMAG
+"RTN","MAGDCCS",186,0)
+ Q
+"RTN","MAGDCCS",187,0)
+DATELOOP(START,STOP) ;Loop thru the "AD" cross reference
+"RTN","MAGDCCS",188,0)
+ N MAGIEN,SUID,THEDT,FIRST,OOUT,MAGFIX
+"RTN","MAGDCCS",189,0)
+ S THEDT=START-.1,(OOUT,FIRST)=0
+"RTN","MAGDCCS",190,0)
+ F  S THEDT=$O(^MAGD(2006.575,"AD",THEDT)) Q:'THEDT!(THEDT>STOP)!(OOUT)  D
+"RTN","MAGDCCS",191,0)
+ . S MAGIEN=0
+"RTN","MAGDCCS",192,0)
+ . F  S MAGIEN=$O(^MAGD(2006.575,"AD",THEDT,MAGIEN)) Q:'MAGIEN  D
+"RTN","MAGDCCS",193,0)
+ . . I '$D(^MAGD(2006.575,MAGIEN,0)) K ^MAGD(2006.575,"AD",THEDT,MAGIEN)
+"RTN","MAGDCCS",194,0)
+ . . I $D(^MAGD(2006.575,MAGIEN,"TYPE")),$E($P(^MAGD(2006.575,MAGIEN,"TYPE"),"^"),1,3)'="CON" Q
+"RTN","MAGDCCS",195,0)
+ . . I 'FIRST S PREV=MAGIEN,FIRST=1
+"RTN","MAGDCCS",196,0)
+ . . D SET
+"RTN","MAGDCCS",197,0)
+ . . Q
+"RTN","MAGDCCS",198,0)
+ . Q
+"RTN","MAGDCCS",199,0)
+ Q
+"RTN","MAGDCCS",200,0)
+SETPREV ;
+"RTN","MAGDCCS",201,0)
+ S PREV=MAGIEN,PREVS=$G(SUID)
+"RTN","MAGDCCS",202,0)
+ Q
+"RTN","MAGDCCS",203,0)
+SETMAG ;
+"RTN","MAGDCCS",204,0)
+ S FIRST=MAGIEN,FIRSTS=$G(SUID),MAGIEN=PREV,SUID=$G(PREVS)
+"RTN","MAGDCCS",205,0)
+ S PREV=FIRST,PREVS=FIRSTS
+"RTN","MAGDCCS",206,0)
+ Q
+"RTN","MAGDCCS",207,0)
+CHKPREV ;
+"RTN","MAGDCCS",208,0)
+ S OUT=1 N STATUS
+"RTN","MAGDCCS",209,0)
+ I '$D(MAGFIX(PREV)) D SETMAG G SET
+"RTN","MAGDCCS",210,0)
+ S STATUS=$S($G(MAGFIX(PREV))="D":"deleted",1:"corrected")
+"RTN","MAGDCCS",211,0)
+ W !,"Previous entry has been "_STATUS_".",$C(7)
+"RTN","MAGDCCS",212,0)
+ G SET
+"RTN","MAGDCCS",213,0)
+ Q
+"RTN","MAGDGMRC")
+0^5^B32653385
+"RTN","MAGDGMRC",1,0)
+MAGDGMRC ;WOIFO/PMK - Read a DICOM image file ; 12/15/2006 13:50
+"RTN","MAGDGMRC",2,0)
+ ;;3.0;IMAGING;**10,51,50,85**;16-March-2007;;Build 1039
+"RTN","MAGDGMRC",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDGMRC",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDGMRC",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDGMRC",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDGMRC",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDGMRC",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDGMRC",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDGMRC",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDGMRC",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDGMRC",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDGMRC",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDGMRC",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDGMRC",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDGMRC",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDGMRC",17,0)
+ ;;
+"RTN","MAGDGMRC",18,0)
+ ; This is the set of GMRC APIs that are use by the VistA Imaging
+"RTN","MAGDGMRC",19,0)
+ ; DICOM Gateway
+"RTN","MAGDGMRC",20,0)
+ ;
+"RTN","MAGDGMRC",21,0)
+ANYREQ(DFN) ; check if any GMRC requests are present for the patient
+"RTN","MAGDGMRC",22,0)
+ N ADFN ; ---- array of DFNs to look up
+"RTN","MAGDGMRC",23,0)
+ N WRK ; ----- work array for our results
+"RTN","MAGDGMRC",24,0)
+ N IX ; ------ results lookup index
+"RTN","MAGDGMRC",25,0)
+ N FHIT ; ---- flag - any results for the pt?
+"RTN","MAGDGMRC",26,0)
+ ;
+"RTN","MAGDGMRC",27,0)
+ ; ask for requests for the patient
+"RTN","MAGDGMRC",28,0)
+ S WRK=$NA(^TMP("MAG",$J,$T(+0))) K @WRK
+"RTN","MAGDGMRC",29,0)
+ S ADFN(1)=DFN
+"RTN","MAGDGMRC",30,0)
+ D FIND^DIC(123,,"@;.02I","QX",.ADFN,,"F",,,WRK,WRK)
+"RTN","MAGDGMRC",31,0)
+ ;
+"RTN","MAGDGMRC",32,0)
+ ; check returns to see if any are actually for this patient (see note
+"RTN","MAGDGMRC",33,0)
+ ; on SEARCH below)
+"RTN","MAGDGMRC",34,0)
+ S IX=0
+"RTN","MAGDGMRC",35,0)
+ F  S IX=$O(@WRK@("DILIST","ID",IX)) Q:'IX  D  Q:$G(FHIT)
+"RTN","MAGDGMRC",36,0)
+ . I $G(@WRK@("DILIST","ID",IX,.02))=DFN S FHIT=1
+"RTN","MAGDGMRC",37,0)
+ . Q
+"RTN","MAGDGMRC",38,0)
+ K @WRK
+"RTN","MAGDGMRC",39,0)
+ Q +$G(FHIT)
+"RTN","MAGDGMRC",40,0)
+ ;
+"RTN","MAGDGMRC",41,0)
+TIULAST(GMRCIEN) ; find the ien of the most recent TIU note for this request
+"RTN","MAGDGMRC",42,0)
+ N TIUIEN
+"RTN","MAGDGMRC",43,0)
+ N WRK ; root of work global
+"RTN","MAGDGMRC",44,0)
+ S TIUIEN=0
+"RTN","MAGDGMRC",45,0)
+ I GMRCIEN D  ; look for the most recent TIU note for this request
+"RTN","MAGDGMRC",46,0)
+ . ; set up the array to look through
+"RTN","MAGDGMRC",47,0)
+ . S WRK=$NA(^TMP("MAG",$J,$T(+0))) K @WRK
+"RTN","MAGDGMRC",48,0)
+ . D LIST^DIC(123.03,","_GMRCIEN_",",".01I",,,,,,,,WRK,WRK)
+"RTN","MAGDGMRC",49,0)
+ . ; traverse the array
+"RTN","MAGDGMRC",50,0)
+ . N TIUPTR
+"RTN","MAGDGMRC",51,0)
+ . S TIUPTR=" " ; setup for reverse $o from space (" ")
+"RTN","MAGDGMRC",52,0)
+ . F  S TIUPTR=$O(@WRK@("DILIST","ID",TIUPTR),-1) Q:'TIUPTR  D  Q:TIUIEN
+"RTN","MAGDGMRC",53,0)
+ . . S TIUIEN=$P($G(@WRK@("DILIST","ID",TIUPTR,.01)),"^",1)
+"RTN","MAGDGMRC",54,0)
+ . . I $P(TIUIEN,";",2)'="TIU(8925," S TIUIEN=0 ; not a TIU document
+"RTN","MAGDGMRC",55,0)
+ . . Q
+"RTN","MAGDGMRC",56,0)
+ . Q
+"RTN","MAGDGMRC",57,0)
+ K @WRK
+"RTN","MAGDGMRC",58,0)
+ Q +TIUIEN
+"RTN","MAGDGMRC",59,0)
+ ;
+"RTN","MAGDGMRC",60,0)
+TIUALL(GMRCIEN,RESULT) ; find all IENs for the TIU notes for this request
+"RTN","MAGDGMRC",61,0)
+ N MAGIEN,TIUIEN,TIUPTR,TIUXIEN,Y
+"RTN","MAGDGMRC",62,0)
+ N WRK ; root of work global
+"RTN","MAGDGMRC",63,0)
+ K RESULT
+"RTN","MAGDGMRC",64,0)
+ ; set up the array to look through
+"RTN","MAGDGMRC",65,0)
+ S WRK=$NA(^TMP("MAG",$J,$T(+0))) K @WRK
+"RTN","MAGDGMRC",66,0)
+ D LIST^DIC(123.03,","_GMRCIEN_",",".01I",,,,,,,,WRK,WRK)
+"RTN","MAGDGMRC",67,0)
+ ; traverse the array
+"RTN","MAGDGMRC",68,0)
+ S (RESULT,TIUPTR)=0
+"RTN","MAGDGMRC",69,0)
+ F  S TIUPTR=$O(@WRK@("DILIST","ID",TIUPTR)) Q:'TIUPTR  D
+"RTN","MAGDGMRC",70,0)
+ . S TIUIEN=$P($G(@WRK@("DILIST","ID",TIUPTR,.01)),"^",1)
+"RTN","MAGDGMRC",71,0)
+ . I $P(TIUIEN,";",2)'="TIU(8925," Q  ; not a TIU document
+"RTN","MAGDGMRC",72,0)
+ . S TIUIEN=+TIUIEN ; strip off variable pointer stuff
+"RTN","MAGDGMRC",73,0)
+ . S TIUXIEN=""
+"RTN","MAGDGMRC",74,0)
+ . F  S TIUXIEN=$O(^TIU(8925.91,"B",TIUIEN,TIUXIEN)) Q:'TIUXIEN  D
+"RTN","MAGDGMRC",75,0)
+ . . S Y=$G(^TIU(8925.91,TIUXIEN,0)) Q:'Y
+"RTN","MAGDGMRC",76,0)
+ . . S MAGIEN=$P(Y,"^",2)
+"RTN","MAGDGMRC",77,0)
+ . . S RESULT=RESULT+1
+"RTN","MAGDGMRC",78,0)
+ . . S RESULT(RESULT)=TIUIEN_"^GMRC-"_GMRCIEN_"^"_MAGIEN
+"RTN","MAGDGMRC",79,0)
+ . . Q
+"RTN","MAGDGMRC",80,0)
+ . Q
+"RTN","MAGDGMRC",81,0)
+ K @WRK
+"RTN","MAGDGMRC",82,0)
+ Q
+"RTN","MAGDGMRC",83,0)
+ ;
+"RTN","MAGDGMRC",84,0)
+FWDFROM(GMRCIEN) ; for a forwarded request, determine the FORWARD FROM service
+"RTN","MAGDGMRC",85,0)
+ N FWDFROM,I
+"RTN","MAGDGMRC",86,0)
+ N WRK ; root of work global
+"RTN","MAGDGMRC",87,0)
+ ; set up the array to look through
+"RTN","MAGDGMRC",88,0)
+ S WRK=$NA(^TMP("MAG",$J,$T(+0))) K @WRK
+"RTN","MAGDGMRC",89,0)
+ D LIST^DIC(123.02,","_GMRCIEN_",",".01I;6I",,,,,,,,WRK,WRK)
+"RTN","MAGDGMRC",90,0)
+ ; traverse the array
+"RTN","MAGDGMRC",91,0)
+ S FWDFROM=0
+"RTN","MAGDGMRC",92,0)
+ I GMRCIEN D
+"RTN","MAGDGMRC",93,0)
+ . S I=$O(@WRK@("DILIST","ID"," "),-1)
+"RTN","MAGDGMRC",94,0)
+ . I I D  ; get the FORWARDED FROM service
+"RTN","MAGDGMRC",95,0)
+ . . S FWDFROM=$G(@WRK@("DILIST","ID",I,6))
+"RTN","MAGDGMRC",96,0)
+ . . Q
+"RTN","MAGDGMRC",97,0)
+ . Q
+"RTN","MAGDGMRC",98,0)
+ K @WRK
+"RTN","MAGDGMRC",99,0)
+ Q +FWDFROM
+"RTN","MAGDGMRC",100,0)
+ ;
+"RTN","MAGDGMRC",101,0)
+UNSIGNED(GMRCIEN) ; check if there are any unsigned TIU notes for the request
+"RTN","MAGDGMRC",102,0)
+ N TIUPTR,NRESULTS,TIUSTAT,UNSIGNED,X
+"RTN","MAGDGMRC",103,0)
+ N WRK ; root of work global
+"RTN","MAGDGMRC",104,0)
+ ; set up the array to look through
+"RTN","MAGDGMRC",105,0)
+ S WRK=$NA(^TMP("MAG",$J,$T(+0))) K @WRK
+"RTN","MAGDGMRC",106,0)
+ D LIST^DIC(123.03,","_GMRCIEN_",",".01I",,,,,,,,WRK,WRK)
+"RTN","MAGDGMRC",107,0)
+ S UNSIGNED=0,TIUPTR=""
+"RTN","MAGDGMRC",108,0)
+ ; traverse the array, check all associated results, bail if any unsigned
+"RTN","MAGDGMRC",109,0)
+ F  S TIUPTR=$O(@WRK@("DILIST","ID",TIUPTR)) Q:'TIUPTR  D  Q:UNSIGNED
+"RTN","MAGDGMRC",110,0)
+ . S X=$P($G(@WRK@("DILIST","ID",TIUPTR,.01)),"^",1)
+"RTN","MAGDGMRC",111,0)
+ . ; if TIU note, check if unsigned
+"RTN","MAGDGMRC",112,0)
+ . I X?.N1";TIU(8925," D  ; check status of TIU note for completion
+"RTN","MAGDGMRC",113,0)
+ . . ; status in ^TIU(8925.6) - use first 5 "UNs" per Margy McClenanhan
+"RTN","MAGDGMRC",114,0)
+ . . S TIUSTAT=$$GET1^DIQ(8925,+X,.05,"I")
+"RTN","MAGDGMRC",115,0)
+ . . I TIUSTAT,TIUSTAT<6 S UNSIGNED=1 ; got one!
+"RTN","MAGDGMRC",116,0)
+ . . Q
+"RTN","MAGDGMRC",117,0)
+ . Q
+"RTN","MAGDGMRC",118,0)
+ K @WRK
+"RTN","MAGDGMRC",119,0)
+ Q UNSIGNED
+"RTN","MAGDGMRC",120,0)
+ ;
+"RTN","MAGDGMRC",121,0)
+SEARCH(DFN,CUTOFF,CLINIC,REQUEST) ; search for requests for a given clinic
+"RTN","MAGDGMRC",122,0)
+ ;
+"RTN","MAGDGMRC",123,0)
+ ; It is a bit of a trick to determine if a given appointment is for
+"RTN","MAGDGMRC",124,0)
+ ; an existing GMRC request.  This determination is performed by using
+"RTN","MAGDGMRC",125,0)
+ ; an association between the SERVICE for the request and the CLINIC
+"RTN","MAGDGMRC",126,0)
+ ; where the request is to be performed.
+"RTN","MAGDGMRC",127,0)
+ ;
+"RTN","MAGDGMRC",128,0)
+ ; This subroutine passes all of the (recent) requests for a patient and
+"RTN","MAGDGMRC",129,0)
+ ; builds a list of those that can be performed in the designated clinic.
+"RTN","MAGDGMRC",130,0)
+ ;
+"RTN","MAGDGMRC",131,0)
+ ; Maybe the replacement for Appointment Management and future versions
+"RTN","MAGDGMRC",132,0)
+ ; of CPRS Order Entry and Consult Request Tracking will capable of
+"RTN","MAGDGMRC",133,0)
+ ; correctly maintaining this essential association.
+"RTN","MAGDGMRC",134,0)
+ ;
+"RTN","MAGDGMRC",135,0)
+ N GMRIDX,GMRC0,GMRCDATE,GMRCIEN,SERVICE,STATUS
+"RTN","MAGDGMRC",136,0)
+ N WRK ; --- root of results global
+"RTN","MAGDGMRC",137,0)
+ N ADFN ; -- array for DFNs to look up
+"RTN","MAGDGMRC",138,0)
+ K REQUEST S REQUEST=0
+"RTN","MAGDGMRC",139,0)
+ I 'DFN Q  ; no patient number provided
+"RTN","MAGDGMRC",140,0)
+ ; build the array of results
+"RTN","MAGDGMRC",141,0)
+ ; Note the use of the "Q[uick]" flag to allow lookup by *internal* DFN.
+"RTN","MAGDGMRC",142,0)
+ ; However, even though we define ADFN(1) to force lookup on the *first*
+"RTN","MAGDGMRC",143,0)
+ ; level subscript of the F index only, FileMan also looks up on the IEN
+"RTN","MAGDGMRC",144,0)
+ ; directly (because there is a .001 field defined in the DD of File
+"RTN","MAGDGMRC",145,0)
+ ; #123).  So we grab the DFN in the .02 field for later double-
+"RTN","MAGDGMRC",146,0)
+ ; checking.
+"RTN","MAGDGMRC",147,0)
+ ;
+"RTN","MAGDGMRC",148,0)
+ S ADFN(1)=DFN
+"RTN","MAGDGMRC",149,0)
+ S WRK=$NA(^TMP("MAG",$J,$T(+0))) K @WRK
+"RTN","MAGDGMRC",150,0)
+ D FIND^DIC(123,,"@;.02I;1I;3I;5I;8I","QX",.ADFN,,"F",,,WRK,WRK)
+"RTN","MAGDGMRC",151,0)
+ ; traverse the results
+"RTN","MAGDGMRC",152,0)
+ S GMRIDX=""
+"RTN","MAGDGMRC",153,0)
+ F  S GMRIDX=$O(@WRK@("DILIST","ID",GMRIDX)) Q:'GMRIDX  D
+"RTN","MAGDGMRC",154,0)
+ . S GMRCIEN=+$G(@WRK@("DILIST",2,GMRIDX))
+"RTN","MAGDGMRC",155,0)
+ . I $G(@WRK@("DILIST","ID",GMRIDX,.02))'=DFN Q  ; not for this patient!
+"RTN","MAGDGMRC",156,0)
+ . I $G(@WRK@("DILIST","ID",GMRIDX,3))<CUTOFF Q  ; too far back
+"RTN","MAGDGMRC",157,0)
+ . S SERVICE=$G(@WRK@("DILIST","ID",GMRIDX,1)) Q:SERVICE=""
+"RTN","MAGDGMRC",158,0)
+ . I '$$ISCLINIC^MAGDGMRC(SERVICE,CLINIC) Q  ; not a service or clinic
+"RTN","MAGDGMRC",159,0)
+ . S STATUS=$G(@WRK@("DILIST","ID",GMRIDX,8)) ; CPRS status
+"RTN","MAGDGMRC",160,0)
+ . I STATUS S STATUS=$$GET1^DIQ(100.01,STATUS,.1) ; CPRS status abbrev
+"RTN","MAGDGMRC",161,0)
+ . S REQUEST=$G(REQUEST)+1
+"RTN","MAGDGMRC",162,0)
+ . S REQUEST(REQUEST)=GMRCIEN_"^"_SERVICE_"^"_STATUS
+"RTN","MAGDGMRC",163,0)
+ . Q
+"RTN","MAGDGMRC",164,0)
+ K @WRK
+"RTN","MAGDGMRC",165,0)
+ Q
+"RTN","MAGDGMRC",166,0)
+ ;
+"RTN","MAGDGMRC",167,0)
+ISCLINIC(SERVICE,CLINIC) ; is a particular clinic defined for a given service?
+"RTN","MAGDGMRC",168,0)
+ ; this entry point is called by ^MAGDGMRC as well as below
+"RTN","MAGDGMRC",169,0)
+ N ISCLINIC
+"RTN","MAGDGMRC",170,0)
+ S ISCLINIC=0
+"RTN","MAGDGMRC",171,0)
+ I SERVICE,CLINIC,$D(^MAG(2006.5831,SERVICE,1,"B",CLINIC)) S ISCLINIC=1
+"RTN","MAGDGMRC",172,0)
+ Q ISCLINIC
+"RTN","MAGDGMRC",173,0)
+ ;
+"RTN","MAGDHWS")
+0^6^B26938069
+"RTN","MAGDHWS",1,0)
+MAGDHWS ;WOIFO/PMK - Capture Consult/GMRC data ; 03/16/2007 12:48
+"RTN","MAGDHWS",2,0)
+ ;;3.0;IMAGING;**10,11,51,84,85**;16-March-2007;;Build 1039
+"RTN","MAGDHWS",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDHWS",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHWS",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDHWS",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDHWS",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDHWS",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDHWS",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDHWS",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDHWS",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDHWS",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDHWS",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDHWS",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDHWS",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDHWS",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDHWS",17,0)
+ ;;
+"RTN","MAGDHWS",18,0)
+ ; Called from PROTOCOL called MAGD APPOINTMENT (^ORD(101,...))
+"RTN","MAGDHWS",19,0)
+ ; through the scheduling package
+"RTN","MAGDHWS",20,0)
+ ;
+"RTN","MAGDHWS",21,0)
+ N %,AFTERSTS,APTSCHED,CLINIC,CONSULTM,CUTOFF,DATETIME
+"RTN","MAGDHWS",22,0)
+ N DEL,DEL2,DEL3,DEL4,DEL5,DFN,DIVISION,DONE,FILLER1,FMDATE,FMDATETM
+"RTN","MAGDHWS",23,0)
+ N GMRCIEN,HL,IGNORE,IREQ,ITYPCODE,ITYPNAME,MSGTYPE,REQUEST
+"RTN","MAGDHWS",24,0)
+ N SERVICE,STATUS,UNKNOWN,X,Y,Z
+"RTN","MAGDHWS",25,0)
+ ;
+"RTN","MAGDHWS",26,0)
+ Q:$P($G(SDATA("AFTER","STATUS")),"^",3)=""  ; Not a valid appointment
+"RTN","MAGDHWS",27,0)
+ ;
+"RTN","MAGDHWS",28,0)
+ D INIT^MAGDHW0 ; initialize variables
+"RTN","MAGDHWS",29,0)
+ D NOW^%DTC S FMDATE=%\1,FMDATETM=%
+"RTN","MAGDHWS",30,0)
+ S %H=%H-90 D TT^%DTC S CUTOFF=X ; cutoff date is 90 days ago
+"RTN","MAGDHWS",31,0)
+ S DFN=$P(SDATA,"^",2),DATETIME=$P(SDATA,"^",3),CLINIC=$P(SDATA,"^",4)
+"RTN","MAGDHWS",32,0)
+ S APTSCHED("CLINIC IEN")=CLINIC,APTSCHED("FM DATETIME")=DATETIME
+"RTN","MAGDHWS",33,0)
+ S AFTERSTS=SDATA("AFTER","STATUS"),X=$P(AFTERSTS,"^",3)
+"RTN","MAGDHWS",34,0)
+ ; appointment management transactions from ^SD(409.63)
+"RTN","MAGDHWS",35,0)
+ S FILLER1="" D  Q:FILLER1=""
+"RTN","MAGDHWS",36,0)
+ . I X["CHECK IN" S FILLER1="SDAM-CHECKIN" Q
+"RTN","MAGDHWS",37,0)
+ . I X["CHECKED IN" S FILLER1="SDAM-CHECKIN" Q
+"RTN","MAGDHWS",38,0)
+ . I X["CHECK OUT" S FILLER1="SDAM-CHECKOUT" Q
+"RTN","MAGDHWS",39,0)
+ . I X["CHECKED OUT" S FILLER1="SDAM-CHECKOUT" Q
+"RTN","MAGDHWS",40,0)
+ . I X["AUTO RE-" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",41,0)
+ . I X["AUTO-RE" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",42,0)
+ . I X["ACTION REQUIRED" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",43,0)
+ . I X["ACT REQ" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",44,0)
+ . I X["NON-COUNT" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",45,0)
+ . I X["CANCELLED" S FILLER1="SDAM-CANCELLED" Q
+"RTN","MAGDHWS",46,0)
+ . I X["NO-SHOW" S FILLER1="SDAM-CANCELLED" Q
+"RTN","MAGDHWS",47,0)
+ . I X["DELETED" S FILLER1="SDAM-CANCELLED" Q
+"RTN","MAGDHWS",48,0)
+ . I X["FUTURE" S FILLER1="SDAM-FUTURE" Q
+"RTN","MAGDHWS",49,0)
+ . I X["NO ACTION TAKEN" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",50,0)
+ . I X["NO ACT TAKN" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",51,0)
+ . I X["INPATIENT" S FILLER1="SDAM-SCHEDULED" Q
+"RTN","MAGDHWS",52,0)
+ . ;
+"RTN","MAGDHWS",53,0)
+ . W !!,"Unexpected Status: """,X,""" in protocol MAGD APPOINTMENT."
+"RTN","MAGDHWS",54,0)
+ . W !,"Please notify Customer Support"
+"RTN","MAGDHWS",55,0)
+ . W !!,"Press <Enter> to continue: " R X:$G(DTIME,300)
+"RTN","MAGDHWS",56,0)
+ . Q
+"RTN","MAGDHWS",57,0)
+ ;
+"RTN","MAGDHWS",58,0)
+ S APTSCHED("CLINIC NAME")=$S(CLINIC:$$GET1^DIQ(44,CLINIC,.01),1:"")
+"RTN","MAGDHWS",59,0)
+ ;
+"RTN","MAGDHWS",60,0)
+ ; find requests that can be performed in this clinic
+"RTN","MAGDHWS",61,0)
+ D SEARCH^MAGDGMRC(DFN,CUTOFF,CLINIC,.REQUEST)
+"RTN","MAGDHWS",62,0)
+ ;
+"RTN","MAGDHWS",63,0)
+ ; output an HL7 message for each request related to this appointment
+"RTN","MAGDHWS",64,0)
+ F IREQ=1:1:REQUEST D
+"RTN","MAGDHWS",65,0)
+ . S GMRCIEN=$P(REQUEST(IREQ),"^",1),SERVICE=$P(REQUEST(IREQ),"^",2)
+"RTN","MAGDHWS",66,0)
+ . S STATUS=$P(REQUEST(IREQ),"^",3)
+"RTN","MAGDHWS",67,0)
+ . S IGNORE=1 D SERVICE^MAGDHWC Q:IGNORE  ; not a service of interest
+"RTN","MAGDHWS",68,0)
+ . ; if {pending, active, scheduled, partially resulted, or complete}
+"RTN","MAGDHWS",69,0)
+ . I "^p^a^s^pr^c^"[("^"_STATUS_"^") D
+"RTN","MAGDHWS",70,0)
+ . . ; completed requests can only be checked out or cancelled
+"RTN","MAGDHWS",71,0)
+ . . I STATUS="c","SDAM-CHECKOUT^SDAM-CANCELLED"'[FILLER1 Q
+"RTN","MAGDHWS",72,0)
+ . . D MESSAGE("S")
+"RTN","MAGDHWS",73,0)
+ . . Q
+"RTN","MAGDHWS",74,0)
+ . Q
+"RTN","MAGDHWS",75,0)
+ Q
+"RTN","MAGDHWS",76,0)
+ ;
+"RTN","MAGDHWS",77,0)
+MESSAGE(MSGTYPE) ; invoked above and also from ^MAGDHWC for the initial order
+"RTN","MAGDHWS",78,0)
+ N CONSULT,HL7,MSG,NEXT,OBXSEGNO,ORCTRL,ORSTATUS
+"RTN","MAGDHWS",79,0)
+ I MSGTYPE="O" D  ; ordered - set in ^MAGDHWC
+"RTN","MAGDHWS",80,0)
+ . S MSGTYPE="ORDERED"
+"RTN","MAGDHWS",81,0)
+ . S ORCTRL="NW" ; order control
+"RTN","MAGDHWS",82,0)
+ . S ORSTATUS="IP" ; order status
+"RTN","MAGDHWS",83,0)
+ . Q
+"RTN","MAGDHWS",84,0)
+ E  D
+"RTN","MAGDHWS",85,0)
+ . S MSGTYPE="SCHEDULED"
+"RTN","MAGDHWS",86,0)
+ . S ORCTRL="SC" ; order control -- status changed
+"RTN","MAGDHWS",87,0)
+ . S ORSTATUS="ZC" ; scheduling
+"RTN","MAGDHWS",88,0)
+ . Q
+"RTN","MAGDHWS",89,0)
+ D MSH^HLFNC2(.HL,100000,.MSG) S $P(MSG,DEL,9)="ORM"
+"RTN","MAGDHWS",90,0)
+ S NEXT=0
+"RTN","MAGDHWS",91,0)
+ S NEXT=NEXT+1,HL7(NEXT)=MSG D MSH^MAGDHWA
+"RTN","MAGDHWS",92,0)
+ S NEXT=NEXT+1,HL7(NEXT)="PID",$P(HL7(NEXT),DEL,1+3)=DFN
+"RTN","MAGDHWS",93,0)
+ S NEXT=NEXT+1,HL7(NEXT)="PV1"
+"RTN","MAGDHWS",94,0)
+ D PID^MAGDHWA ; generate PID and PV1 segments
+"RTN","MAGDHWS",95,0)
+ S NEXT=NEXT+1,HL7(NEXT)=$$ORC D ORC^MAGDHWA
+"RTN","MAGDHWS",96,0)
+ S NEXT=NEXT+1,HL7(NEXT)=$$OBR D OBR^MAGDHWA
+"RTN","MAGDHWS",97,0)
+ S NEXT=NEXT+1,HL7(NEXT)=$$ZSV D ZSV^MAGDHWA
+"RTN","MAGDHWS",98,0)
+ S NEXT=NEXT+1,NEXT=$$OBX(NEXT)
+"RTN","MAGDHWS",99,0)
+ D ALLERGY^MAGDHWA,POSTINGS^MAGDHWA
+"RTN","MAGDHWS",100,0)
+ D OUTPUT^MAGDHW0
+"RTN","MAGDHWS",101,0)
+ Q
+"RTN","MAGDHWS",102,0)
+ ;
+"RTN","MAGDHWS",103,0)
+PV1() ; build a PV1 segment
+"RTN","MAGDHWS",104,0)
+ N X,Z
+"RTN","MAGDHWS",105,0)
+ S FROM=$$GET1^DIQ(123,GMRCIEN,.04,"I") ; patient location
+"RTN","MAGDHWS",106,0)
+ S Z=FROM_DEL3_$S(FROM:$$GET1^DIQ(44,FROM,.01),1:"")_DEL3_SERVICE
+"RTN","MAGDHWS",107,0)
+ S $P(X,DEL,10)=Z
+"RTN","MAGDHWS",108,0)
+ Q "PV1"_DEL_X
+"RTN","MAGDHWS",109,0)
+ ;
+"RTN","MAGDHWS",110,0)
+ORC() ; build an ORC segment
+"RTN","MAGDHWS",111,0)
+ N ORC,ORCPLCR,ORURG
+"RTN","MAGDHWS",112,0)
+ S ORCPLCR=$$GET1^DIQ(123,GMRCIEN,10,"I") ; sending provider
+"RTN","MAGDHWS",113,0)
+ D ORC^GMRCHL7(GMRCIEN,ORCTRL,ORCPLCR,,FMDATETM)
+"RTN","MAGDHWS",114,0)
+ S $P(ORC,DEL,5+1)=ORSTATUS
+"RTN","MAGDHWS",115,0)
+ Q ORC
+"RTN","MAGDHWS",116,0)
+ ;
+"RTN","MAGDHWS",117,0)
+ZSV() ; build a ZSV segment
+"RTN","MAGDHWS",118,0)
+ N ZSV
+"RTN","MAGDHWS",119,0)
+ D ZSV^GMRCHL7(GMRCIEN)
+"RTN","MAGDHWS",120,0)
+ Q ZSV
+"RTN","MAGDHWS",121,0)
+ ;
+"RTN","MAGDHWS",122,0)
+OBR() ; build an OBR segment
+"RTN","MAGDHWS",123,0)
+ N NOTIFY,OBR
+"RTN","MAGDHWS",124,0)
+ D OBR^GMRCHL72(GMRCIEN,"",FMDATETM)
+"RTN","MAGDHWS",125,0)
+ Q OBR
+"RTN","MAGDHWS",126,0)
+ ;
+"RTN","MAGDHWS",127,0)
+OBX(NEXT) ; build one or more OBX segments
+"RTN","MAGDHWS",128,0)
+ N GMRCND,GMRCND1,I,J,OBX,X
+"RTN","MAGDHWS",129,0)
+ D OBX^GMRCHL72(GMRCIEN)
+"RTN","MAGDHWS",130,0)
+ S OBXSEGNO=0
+"RTN","MAGDHWS",131,0)
+ F I=1:1 Q:'$D(OBX(I))  D
+"RTN","MAGDHWS",132,0)
+ . D OBX1(OBX(I))
+"RTN","MAGDHWS",133,0)
+ . I $D(OBX(I,1)) S X=$P(OBX(I),DEL,1,5) F J=1:1 Q:'$D(OBX(I,J))  D
+"RTN","MAGDHWS",134,0)
+ . . D OBX1(X_DEL_OBX(I,J))
+"RTN","MAGDHWS",135,0)
+ . . Q
+"RTN","MAGDHWS",136,0)
+ . Q
+"RTN","MAGDHWS",137,0)
+ Q NEXT
+"RTN","MAGDHWS",138,0)
+ ;
+"RTN","MAGDHWS",139,0)
+OBX1(RECORD) ; store one OBX segment into the HL7 array
+"RTN","MAGDHWS",140,0)
+ S HL7(NEXT)=RECORD
+"RTN","MAGDHWS",141,0)
+ S OBXSEGNO=$P(RECORD,DEL,2) ; get the highest value of OBXSEGNO
+"RTN","MAGDHWS",142,0)
+ S NEXT=NEXT+1
+"RTN","MAGDHWS",143,0)
+ Q
+"RTN","MAGDRPC3")
+0^7^B64691096
+"RTN","MAGDRPC3",1,0)
+MAGDRPC3 ;WOIFO/EdM - Imaging RPCs ; 12/15/2006 13:50
+"RTN","MAGDRPC3",2,0)
+ ;;3.0;IMAGING;**11,30,51,50,85**;16-March-2007;;Build 1039
+"RTN","MAGDRPC3",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDRPC3",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDRPC3",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDRPC3",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDRPC3",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDRPC3",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDRPC3",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDRPC3",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDRPC3",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDRPC3",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDRPC3",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDRPC3",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDRPC3",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDRPC3",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDRPC3",17,0)
+ ;;
+"RTN","MAGDRPC3",18,0)
+ Q
+"RTN","MAGDRPC3",19,0)
+ ;
+"RTN","MAGDRPC3",20,0)
+RADLKUP(OUT,CASENUMB,STUDYDAT) ; RPC = MAG DICOM LOOKUP RAD STUDY
+"RTN","MAGDRPC3",21,0)
+ ; Radiology patient/study lookup
+"RTN","MAGDRPC3",22,0)
+ N ACCNUM ;--- Accession Number
+"RTN","MAGDRPC3",23,0)
+ N CPTCODE ;-- CPT code for the procedure
+"RTN","MAGDRPC3",24,0)
+ N CPTNAME ;-- CPT name for the procedure
+"RTN","MAGDRPC3",25,0)
+ N DATETIME ;- Timestamp
+"RTN","MAGDRPC3",26,0)
+ N EXAMSTS ;-- Exam status (don't post images to CANCELLED exams)
+"RTN","MAGDRPC3",27,0)
+ N PROCDESC ;- Procedure description
+"RTN","MAGDRPC3",28,0)
+ N PROCIEN ;-- radiology procedure ien in ^RAMIS(71)
+"RTN","MAGDRPC3",29,0)
+ N RAIX ;----- cross reference subscript for case number lookup
+"RTN","MAGDRPC3",30,0)
+ N RADPT1 ;--- first level subscript in ^RADPT
+"RTN","MAGDRPC3",31,0)
+ N RADPT2 ;--- second level subscript in ^RADPT (after "DT")
+"RTN","MAGDRPC3",32,0)
+ N RADPT3 ;--- third level subscript in ^RADPT (after "P")
+"RTN","MAGDRPC3",33,0)
+ N D1,I,LIST,X,Z
+"RTN","MAGDRPC3",34,0)
+ ;
+"RTN","MAGDRPC3",35,0)
+ ; find the patient/study in ^RADPT using the Radiology Case Number
+"RTN","MAGDRPC3",36,0)
+ K OUT
+"RTN","MAGDRPC3",37,0)
+ D
+"RTN","MAGDRPC3",38,0)
+ . I $G(CASENUMB)="" S OUT(1)="-1,No Case Number Specified" Q
+"RTN","MAGDRPC3",39,0)
+ . S RAIX=$S($D(^RADPT("C")):"C",1:"AE") ; for Radiology Patch RA*5*7
+"RTN","MAGDRPC3",40,0)
+ . S RAIX=$S(CASENUMB["-":"ADC",1:RAIX) ; select the cross-reference
+"RTN","MAGDRPC3",41,0)
+ . S RADPT1=$O(^RADPT(RAIX,CASENUMB,"")) I 'RADPT1 D  Q:'RADPT1
+"RTN","MAGDRPC3",42,0)
+ . . I '$G(STUDYDAT) S OUT(1)="-2,No Study Date Specified",RADPT1=0 Q
+"RTN","MAGDRPC3",43,0)
+ . . ;
+"RTN","MAGDRPC3",44,0)
+ . . ; Search 1-3 days prior the study date OR a day in advance but only
+"RTN","MAGDRPC3",45,0)
+ . . ; if the study date is not equal to today or greater than today.
+"RTN","MAGDRPC3",46,0)
+ . . ; Has to be long case number or must have an image study date
+"RTN","MAGDRPC3",47,0)
+ . . ;
+"RTN","MAGDRPC3",48,0)
+ . . N II,RCASE,SDATE,TODAY,X,Y,%,%I
+"RTN","MAGDRPC3",49,0)
+ . . ;
+"RTN","MAGDRPC3",50,0)
+ . . S RCASE=$S(CASENUMB["-":$P(CASENUMB,"-",2),1:CASENUMB)
+"RTN","MAGDRPC3",51,0)
+ . . I 'RCASE S RADPT1=0 Q
+"RTN","MAGDRPC3",52,0)
+ . . ;
+"RTN","MAGDRPC3",53,0)
+ . . D NOW^%DTC S TODAY=X
+"RTN","MAGDRPC3",54,0)
+ . . S X=$P(STUDYDAT,"."),SDATE=$E(X,1,4)-1700_$E(X,5,8) ; FileMan date
+"RTN","MAGDRPC3",55,0)
+ . . ;
+"RTN","MAGDRPC3",56,0)
+ . . ; 1-3 days prior study date
+"RTN","MAGDRPC3",57,0)
+ . . F II=1:1:3 S RADPT1=$$FIND(SDATE,RCASE,-II) Q:RADPT1
+"RTN","MAGDRPC3",58,0)
+ . . Q:RADPT1
+"RTN","MAGDRPC3",59,0)
+ . . ;
+"RTN","MAGDRPC3",60,0)
+ . . ; Wild goose chase, but check for today's case
+"RTN","MAGDRPC3",61,0)
+ . . S RADPT1=$O(^RADPT("ADC",$$MMDDYY(TODAY)_"-"_RCASE,"")) Q:RADPT1
+"RTN","MAGDRPC3",62,0)
+ . . ;
+"RTN","MAGDRPC3",63,0)
+ . . I SDATE'<TODAY S RADPT1=0 Q
+"RTN","MAGDRPC3",64,0)
+ . . ;
+"RTN","MAGDRPC3",65,0)
+ . . ; One day in advance?
+"RTN","MAGDRPC3",66,0)
+ . . S RADPT1=$$FIND(SDATE,RCASE,1) Q:RADPT1
+"RTN","MAGDRPC3",67,0)
+ . . ;
+"RTN","MAGDRPC3",68,0)
+ . . ; Finally just check the "C" or "AE" x-reference for the case number
+"RTN","MAGDRPC3",69,0)
+ . . S X=$S($O(^RADPT("C","")):"C",1:"AE") ; RA*5*7 patch
+"RTN","MAGDRPC3",70,0)
+ . . S RADPT1=$O(^RADPT(X,RCASE,""))
+"RTN","MAGDRPC3",71,0)
+ . . Q
+"RTN","MAGDRPC3",72,0)
+ . S RADPT2=$O(^RADPT(RAIX,CASENUMB,RADPT1,"")) Q:'RADPT2
+"RTN","MAGDRPC3",73,0)
+ . S RADPT3=$O(^RADPT(RAIX,CASENUMB,RADPT1,RADPT2,"")) Q:'RADPT3
+"RTN","MAGDRPC3",74,0)
+ . Q:'$D(^RADPT(RADPT1,0))  ; no patient demographics file pointer
+"RTN","MAGDRPC3",75,0)
+ . ; get patient demographics file pointer
+"RTN","MAGDRPC3",76,0)
+ . S DFN=$P(^RADPT(RADPT1,0),"^",1)
+"RTN","MAGDRPC3",77,0)
+ . Q:'$D(^RADPT(RADPT1,"DT",RADPT2,0))  ; no datetime level
+"RTN","MAGDRPC3",78,0)
+ . ; get date and time of examination
+"RTN","MAGDRPC3",79,0)
+ . S DATETIME=$P($G(^RADPT(RADPT1,"DT",RADPT2,0)),"^",1)
+"RTN","MAGDRPC3",80,0)
+ . ; get case info
+"RTN","MAGDRPC3",81,0)
+ . S X=$G(^RADPT(RADPT1,"DT",RADPT2,"P",RADPT3,0))
+"RTN","MAGDRPC3",82,0)
+ . S Z=$P(X,"^",17) I Z S Z=$P($G(^RARPT(Z,0)),"^",1) S:Z'="" ACCNUM=Z
+"RTN","MAGDRPC3",83,0)
+ . S PROCIEN=$P(X,"^",2),EXAMSTS=$P(X,"^",3)
+"RTN","MAGDRPC3",84,0)
+ . S:EXAMSTS EXAMSTS=$$GET1^DIQ(72,EXAMSTS,.01)
+"RTN","MAGDRPC3",85,0)
+ . S (PROCDESC,CPTNAME,CPTCODE)=""
+"RTN","MAGDRPC3",86,0)
+ . Q:'PROCIEN  ; need PROCIEN to do lookup in ^RAMIS
+"RTN","MAGDRPC3",87,0)
+ . S Z=$G(^RAMIS(71,PROCIEN,0))
+"RTN","MAGDRPC3",88,0)
+ . S PROCDESC=$P(Z,"^",1),CPTCODE=$P(Z,"^",9)
+"RTN","MAGDRPC3",89,0)
+ . S CPTNAME=$P($$CPT^ICPTCOD(+CPTCODE),"^",3) ; IA 1995
+"RTN","MAGDRPC3",90,0)
+ . S:CPTNAME="" CPTNAME=PROCDESC
+"RTN","MAGDRPC3",91,0)
+ . Q
+"RTN","MAGDRPC3",92,0)
+ S OUT(2)=$G(RADPT1)
+"RTN","MAGDRPC3",93,0)
+ S OUT(3)=$G(RADPT2)
+"RTN","MAGDRPC3",94,0)
+ S OUT(4)=$G(RADPT3)
+"RTN","MAGDRPC3",95,0)
+ S OUT(5)=$G(PROCIEN)
+"RTN","MAGDRPC3",96,0)
+ S OUT(6)=$G(CPTCODE)
+"RTN","MAGDRPC3",97,0)
+ S OUT(7)=$G(CPTNAME)
+"RTN","MAGDRPC3",98,0)
+ S OUT(8)=$G(Z)
+"RTN","MAGDRPC3",99,0)
+ S OUT(9)=$G(EXAMSTS)
+"RTN","MAGDRPC3",100,0)
+ S OUT(10)=$G(DFN)
+"RTN","MAGDRPC3",101,0)
+ S OUT(11)=$G(DATETIME)
+"RTN","MAGDRPC3",102,0)
+ S OUT(12)=$G(PROCDESC)
+"RTN","MAGDRPC3",103,0)
+ S X=""
+"RTN","MAGDRPC3",104,0)
+ I $G(PROCIEN) S D1=0 F  S D1=$O(^RAMIS(71,PROCIEN,"MDL",D1)) Q:'D1  D
+"RTN","MAGDRPC3",105,0)
+ . S Z=+$P($G(^RAMIS(71,PROCIEN,"MDL",D1,0)),"^",1) Q:'Z
+"RTN","MAGDRPC3",106,0)
+ . S Z=$P($G(^RAMIS(73.1,Z,0)),"^",1) Q:Z=""
+"RTN","MAGDRPC3",107,0)
+ . S:X'="" X=X_"," S X=X_Z
+"RTN","MAGDRPC3",108,0)
+ . Q
+"RTN","MAGDRPC3",109,0)
+ S OUT(13)=X ; List of Modality-codes
+"RTN","MAGDRPC3",110,0)
+ S X="" I $G(RADPT1),$G(RADPT2) S X=$G(^RADPT(RADPT1,"DT",RADPT2,0))
+"RTN","MAGDRPC3",111,0)
+ S OUT(14)=$P(X,"^",3) ; Site
+"RTN","MAGDRPC3",112,0)
+ ; Patient's pregnancy status at the time of the exam
+"RTN","MAGDRPC3",113,0)
+ S X="" I $G(DFN),$G(RADPT2),$G(RADPT3) S X=$G(^RADPT(DFN,"DT",RADPT2,"P",RADPT3,0))
+"RTN","MAGDRPC3",114,0)
+ S OUT(15)=$P($G(^RAO(75.1,+$P(X,"^",11),0)),"^",13)
+"RTN","MAGDRPC3",115,0)
+ S OUT(16)=$G(ACCNUM)
+"RTN","MAGDRPC3",116,0)
+ S OUT(1)=1 ; OK
+"RTN","MAGDRPC3",117,0)
+ Q
+"RTN","MAGDRPC3",118,0)
+ ;
+"RTN","MAGDRPC3",119,0)
+QUEUE(OUT,IMAGE,APPNAM,LOCATION,ACCNUM,REASON,EMAIL,PRIOR,JBTOHD) ; RPC = MAG DICOM QUEUE IMAGE
+"RTN","MAGDRPC3",120,0)
+ ; Add the DICOM study send image request to the queue
+"RTN","MAGDRPC3",121,0)
+ N COUNT,D0,D1,DFN,LOG,OK,PROBLEM,TYPE,X
+"RTN","MAGDRPC3",122,0)
+ ;
+"RTN","MAGDRPC3",123,0)
+ I '$G(IMAGE) S OUT="-1,No Image specified" Q
+"RTN","MAGDRPC3",124,0)
+ I $G(APPNAM)="" S OUT="-2,No Destination specified" Q
+"RTN","MAGDRPC3",125,0)
+ I '$G(LOCATION) S OUT="-3,No Origin specified" Q
+"RTN","MAGDRPC3",126,0)
+ S PRIOR=+$G(PRIOR) S:'PRIOR PRIOR=500
+"RTN","MAGDRPC3",127,0)
+ S JBTOHD=$S($G(JBTOHD):1,1:0)
+"RTN","MAGDRPC3",128,0)
+ ;
+"RTN","MAGDRPC3",129,0)
+ S X=$G(^MAG(2005,IMAGE,0))
+"RTN","MAGDRPC3",130,0)
+ S TYPE=+$P(X,"^",6),DFN=$P(X,"^",7)
+"RTN","MAGDRPC3",131,0)
+ I " 0 11 3 100 "'[(" "_TYPE_" ") D  Q
+"RTN","MAGDRPC3",132,0)
+ . S OUT="-4,Cannot Queue Image Object Type """_TYPE_"""."
+"RTN","MAGDRPC3",133,0)
+ . Q
+"RTN","MAGDRPC3",134,0)
+ ;
+"RTN","MAGDRPC3",135,0)
+ L +^MAGDOUTP(2006.574,0):1E9 ; Background process MUST wait
+"RTN","MAGDRPC3",136,0)
+ S P=$P($G(^MAG(2005,IMAGE,0)),"^",10),P=$S(P:P,1:IMAGE)
+"RTN","MAGDRPC3",137,0)
+ S STUID=$P($G(^MAG(2005,P,"PACS")),"^",1) S:STUID="" STUID="?"
+"RTN","MAGDRPC3",138,0)
+ S OK=0,D0="" F  S D0=$O(^MAGDOUTP(2006.574,"STUDY",STUID,D0)) Q:'D0  D  Q:OK
+"RTN","MAGDRPC3",139,0)
+ . Q:'$D(^MAGDOUTP(2006.574,"STS",LOCATION,PRIOR,"WAITING",D0))
+"RTN","MAGDRPC3",140,0)
+ . Q:$P($G(^MAGDOUTP(2006.574,D0,0)),"^",1)'=APPNAM
+"RTN","MAGDRPC3",141,0)
+ . S OK=D0
+"RTN","MAGDRPC3",142,0)
+ . Q
+"RTN","MAGDRPC3",143,0)
+ S D0=OK D:'D0
+"RTN","MAGDRPC3",144,0)
+ . S X=$G(^MAGDOUTP(2006.574,0))
+"RTN","MAGDRPC3",145,0)
+ . S $P(X,"^",1,2)="DICOM IMAGE OUTPUT FILE^2006.574"
+"RTN","MAGDRPC3",146,0)
+ . S D0=$O(^MAGDOUTP(2006.574," "),-1)+1 ; Next number
+"RTN","MAGDRPC3",147,0)
+ . S $P(X,"^",3)=D0
+"RTN","MAGDRPC3",148,0)
+ . S $P(X,"^",4)=$P(X,"^",4)+1 ; Total count
+"RTN","MAGDRPC3",149,0)
+ . S ^MAGDOUTP(2006.574,0)=X
+"RTN","MAGDRPC3",150,0)
+ . ;
+"RTN","MAGDRPC3",151,0)
+ . S ^MAGDOUTP(2006.574,D0,0)=APPNAM_"^"_P_"^"_$G(ACCNUM)_"^"_LOCATION_"^"_PRIOR_"^"_JBTOHD
+"RTN","MAGDRPC3",152,0)
+ . S ^MAGDOUTP(2006.574,D0,2)=STUID
+"RTN","MAGDRPC3",153,0)
+ . S ^MAGDOUTP(2006.574,"STUDY",STUID,D0)=""
+"RTN","MAGDRPC3",154,0)
+ . Q
+"RTN","MAGDRPC3",155,0)
+ L -^MAGDOUTP(2006.574,0)
+"RTN","MAGDRPC3",156,0)
+ ;
+"RTN","MAGDRPC3",157,0)
+ S COUNT=0,PROBLEM=3
+"RTN","MAGDRPC3",158,0)
+ I (TYPE=3)!(TYPE=100) D  ; Single XRAY or DICOM image
+"RTN","MAGDRPC3",159,0)
+ . S COUNT=COUNT+$$ENQUEUE(IMAGE,D0,PRIOR)
+"RTN","MAGDRPC3",160,0)
+ . Q
+"RTN","MAGDRPC3",161,0)
+ I TYPE=11 D  ; Process all the images in an XRAY group
+"RTN","MAGDRPC3",162,0)
+ . S D1=0 F  S D1=$O(^MAG(2005,IMAGE,1,D1)) Q:'D1  D
+"RTN","MAGDRPC3",163,0)
+ . . S COUNT=COUNT+$$ENQUEUE($P($G(^MAG(2005,IMAGE,1,D1,0)),"^",1),D0,PRIOR)
+"RTN","MAGDRPC3",164,0)
+ . . Q
+"RTN","MAGDRPC3",165,0)
+ . Q
+"RTN","MAGDRPC3",166,0)
+ ;
+"RTN","MAGDRPC3",167,0)
+ S LOG="DICOM transmit to "_APPNAM_" for reason "_REASON
+"RTN","MAGDRPC3",168,0)
+ D:COUNT ENTRY^MAGLOG($C(REASON+64),DUZ,IMAGE,"DICOM Gateway",DFN,COUNT,LOG)
+"RTN","MAGDRPC3",169,0)
+ D:PROBLEM>3
+"RTN","MAGDRPC3",170,0)
+ . N XMERR,XMID,XMSUB,XMY
+"RTN","MAGDRPC3",171,0)
+ . S PROBLEM(1)="Error while queueing image for Transmission:"
+"RTN","MAGDRPC3",172,0)
+ . S PROBLEM(2)=LOG
+"RTN","MAGDRPC3",173,0)
+ . S PROBLEM(3)=" "
+"RTN","MAGDRPC3",174,0)
+ . ; --- send MailMan message...
+"RTN","MAGDRPC3",175,0)
+ . S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGDRPC3",176,0)
+ . S XMY(XMID)=""
+"RTN","MAGDRPC3",177,0)
+ . S:$G(EMAIL)'="" XMY(EMAIL)=""
+"RTN","MAGDRPC3",178,0)
+ . S XMSUB=$E("Cannot transmit image(s) to "_APPNAM,1,63)
+"RTN","MAGDRPC3",179,0)
+ . D SENDMSG^XMXAPI(XMID,XMSUB,"PROBLEM",.XMY,,.XMZ,)
+"RTN","MAGDRPC3",180,0)
+ . Q:'$G(XMERR)
+"RTN","MAGDRPC3",181,0)
+ . M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGDRPC3",182,0)
+ . Q
+"RTN","MAGDRPC3",183,0)
+ S OUT=1
+"RTN","MAGDRPC3",184,0)
+ Q
+"RTN","MAGDRPC3",185,0)
+ ;
+"RTN","MAGDRPC3",186,0)
+ENQUEUE(IMAGE,D0,PRIOR) ; Add an image to the DICOM send image request queue sub-file
+"RTN","MAGDRPC3",187,0)
+ Q:'IMAGE 0
+"RTN","MAGDRPC3",188,0)
+ N D1,I,OLD,X
+"RTN","MAGDRPC3",189,0)
+ D CHK^MAGGSQI(.X,IMAGE) I +$G(X(0))'=1 D  Q 0
+"RTN","MAGDRPC3",190,0)
+ . S PROBLEM=PROBLEM+1,PROBLEM(PROBLEM)=" "
+"RTN","MAGDRPC3",191,0)
+ . S PROBLEM=PROBLEM+1,PROBLEM(PROBLEM)="Image # "_IMAGE_":"
+"RTN","MAGDRPC3",192,0)
+ . S I="" F  S I=$O(X(I)) Q:I=""  S PROBLEM=PROBLEM+1,PROBLEM(PROBLEM)=X(I)
+"RTN","MAGDRPC3",193,0)
+ . Q
+"RTN","MAGDRPC3",194,0)
+ ;
+"RTN","MAGDRPC3",195,0)
+ ; Enter each image at most once in each transmission request
+"RTN","MAGDRPC3",196,0)
+ S (D1,OLD)=0 F  S D1=$O(^MAGDOUTP(2006.574,D0,1,D1)) Q:'D1  D  Q:OLD
+"RTN","MAGDRPC3",197,0)
+ . S:$P($G(^MAGDOUTP(2006.574,D0,1,D1,0)),"^",1)=IMAGE OLD=1
+"RTN","MAGDRPC3",198,0)
+ . Q
+"RTN","MAGDRPC3",199,0)
+ Q:OLD 1
+"RTN","MAGDRPC3",200,0)
+ ;
+"RTN","MAGDRPC3",201,0)
+ L +^MAGDOUTP(2006.574,D0,1,0):1E9 ; Background Process MUST wait
+"RTN","MAGDRPC3",202,0)
+ S X=$G(^MAGDOUTP(2006.574,D0,1,0))
+"RTN","MAGDRPC3",203,0)
+ S $P(X,"^",1,2)="^2006.5744"
+"RTN","MAGDRPC3",204,0)
+ S D1=$O(^MAGDOUTP(2006.574,D0,1," "),-1)+1,$P(X,"^",3)=D1
+"RTN","MAGDRPC3",205,0)
+ S $P(X,"^",4)=$P(X,"^",4)+1,OUT=$P(X,"^",4)
+"RTN","MAGDRPC3",206,0)
+ S ^MAGDOUTP(2006.574,D0,1,0)=X
+"RTN","MAGDRPC3",207,0)
+ S ^MAGDOUTP(2006.574,D0,1,D1,0)=IMAGE_"^WAITING^"_$H
+"RTN","MAGDRPC3",208,0)
+ S ^MAGDOUTP(2006.574,"STS",LOCATION,PRIOR,"WAITING",D0,D1)=""
+"RTN","MAGDRPC3",209,0)
+ L -^MAGDOUTP(2006.574,D0,1,0)
+"RTN","MAGDRPC3",210,0)
+ Q 1
+"RTN","MAGDRPC3",211,0)
+ ;
+"RTN","MAGDRPC3",212,0)
+FIND(DATE,CASE,NUM) ; ADC x-reference (Radiology patient file)
+"RTN","MAGDRPC3",213,0)
+ N X,X1,X2,Y
+"RTN","MAGDRPC3",214,0)
+ Q:'$G(DATE) 0
+"RTN","MAGDRPC3",215,0)
+ S (X,X1)=DATE,X2=NUM D:NUM C^%DTC Q:X<1 0
+"RTN","MAGDRPC3",216,0)
+ Q $O(^RADPT("ADC",$$MMDDYY(X)_"-"_CASE,""))
+"RTN","MAGDRPC3",217,0)
+ ;
+"RTN","MAGDRPC3",218,0)
+MMDDYY(DAY) ; YYYMMDD --> MMDDYY
+"RTN","MAGDRPC3",219,0)
+ I DAY'?7N Q 0
+"RTN","MAGDRPC3",220,0)
+ Q $E(DAY,4,7)_$E(DAY,2,3)
+"RTN","MAGDRPC3",221,0)
+ ;
+"RTN","MAGDRPC5")
+0^8^B81521995
+"RTN","MAGDRPC5",1,0)
+MAGDRPC5 ;WOIFO/EdM - Routing RPCs ; 12/15/2006 13:50
+"RTN","MAGDRPC5",2,0)
+ ;;3.0;IMAGING;**11,30,51,85**;16-March-2007;;Build 1039
+"RTN","MAGDRPC5",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGDRPC5",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDRPC5",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGDRPC5",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGDRPC5",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGDRPC5",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGDRPC5",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGDRPC5",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGDRPC5",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGDRPC5",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGDRPC5",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGDRPC5",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGDRPC5",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGDRPC5",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGDRPC5",17,0)
+ ;;
+"RTN","MAGDRPC5",18,0)
+ Q
+"RTN","MAGDRPC5",19,0)
+ ;
+"RTN","MAGDRPC5",20,0)
+START(OUT,LOCATION,RULES) ; RPC = MAG DICOM ROUTE EVAL START
+"RTN","MAGDRPC5",21,0)
+ N I,LOC,X,ZTDESC,ZTDTH,ZTRTN,ZTSAVE
+"RTN","MAGDRPC5",22,0)
+ ;
+"RTN","MAGDRPC5",23,0)
+ D XTINIT
+"RTN","MAGDRPC5",24,0)
+ ;
+"RTN","MAGDRPC5",25,0)
+ I '$G(LOCATION) S OUT="-1,No Location Specified" Q
+"RTN","MAGDRPC5",26,0)
+ I '$O(RULES("")) S OUT="-2,No Routing Rules Specified" Q
+"RTN","MAGDRPC5",27,0)
+ ;
+"RTN","MAGDRPC5",28,0)
+ S LOC=$$GET1^DIQ(4,LOCATION,.01)
+"RTN","MAGDRPC5",29,0)
+ L +^MAGDICOM(2006.563,1,"EVAL",LOCATION):0 E  D  Q
+"RTN","MAGDRPC5",30,0)
+ . S OUT="-3,A Rule Evaluator is Already Running for "_LOC
+"RTN","MAGDRPC5",31,0)
+ . Q
+"RTN","MAGDRPC5",32,0)
+ ;
+"RTN","MAGDRPC5",33,0)
+ S ^MAGDICOM(2006.563,1,"EVAL")=1
+"RTN","MAGDRPC5",34,0)
+ S ZTRTN="EVAL^MAGBRTE4"
+"RTN","MAGDRPC5",35,0)
+ S ZTDESC="Evaluate Routing Rules for Origin="_LOC
+"RTN","MAGDRPC5",36,0)
+ S ZTDTH=$H
+"RTN","MAGDRPC5",37,0)
+ S ZTSAVE("LOCATION")=LOCATION
+"RTN","MAGDRPC5",38,0)
+ S I="" F  S I=$O(RULES(I)) Q:I=""  S:+I=I ZTSAVE("RULES("_I_")")=RULES(I)
+"RTN","MAGDRPC5",39,0)
+ D ^%ZTLOAD,HOME^%ZIS
+"RTN","MAGDRPC5",40,0)
+ L -^MAGDICOM(2006.563,1,"EVAL",LOCATION)
+"RTN","MAGDRPC5",41,0)
+ I '$D(ZTSK) S OUT="-4,TaskMan did not Accept Request" Q
+"RTN","MAGDRPC5",42,0)
+ S OUT="0,TaskMan task#="_ZTSK
+"RTN","MAGDRPC5",43,0)
+ Q
+"RTN","MAGDRPC5",44,0)
+ ;
+"RTN","MAGDRPC5",45,0)
+STOP(OUT) ; RPC = MAG DICOM ROUTE EVAL STOP
+"RTN","MAGDRPC5",46,0)
+ S ^MAGDICOM(2006.563,1,"EVAL")=0,OUT=1
+"RTN","MAGDRPC5",47,0)
+ Q
+"RTN","MAGDRPC5",48,0)
+ ;
+"RTN","MAGDRPC5",49,0)
+XMIT(OUT,LOCATION,DEST,PRIOR,MECH,DESTS) ; RPC = MAG DICOM ROUTE NEXT FILE
+"RTN","MAGDRPC5",50,0)
+ N D0,DIR,DL,IM,M,OK,PLACE,TP,VP,X
+"RTN","MAGDRPC5",51,0)
+ ;
+"RTN","MAGDRPC5",52,0)
+ S PLACE=$$PLACE^MAGDRPC2(LOCATION)
+"RTN","MAGDRPC5",53,0)
+ S $P(^MAG(2006.1,PLACE,"LASTROUTE"),"^",1)=DT
+"RTN","MAGDRPC5",54,0)
+ ;
+"RTN","MAGDRPC5",55,0)
+ K OUT S OUT(1)=0,OK=0
+"RTN","MAGDRPC5",56,0)
+ S:'$G(MECH) MECH=1 I MECH'=1,MECH'=2 S MECH=1
+"RTN","MAGDRPC5",57,0)
+ I '$G(LOCATION) S OUT(1)="-1,No Location Specified" Q
+"RTN","MAGDRPC5",58,0)
+ S VP(1)=";MAG(2005.2,"
+"RTN","MAGDRPC5",59,0)
+ S VP(2)=";MAG(2006.587,"
+"RTN","MAGDRPC5",60,0)
+ S:$G(DEST) DEST=+DEST_VP(MECH)
+"RTN","MAGDRPC5",61,0)
+ S M="" F  S M=$O(DESTS(M)) Q:M=""  D
+"RTN","MAGDRPC5",62,0)
+ . S X=DESTS(M) Q:X'["^"  Q:$P(X,"^",1)'=MECH  Q:'$P(X,"^",2)
+"RTN","MAGDRPC5",63,0)
+ . S DL($P(X,"^",2)_VP(MECH))=""
+"RTN","MAGDRPC5",64,0)
+ . Q
+"RTN","MAGDRPC5",65,0)
+ I $O(DL(""))="" S OUT(1)="-2,No Valid Destinations Specified" Q
+"RTN","MAGDRPC5",66,0)
+ S:'$G(DEST) (PRIOR,DEST)=""
+"RTN","MAGDRPC5",67,0)
+ I $G(PRIOR) D
+"RTN","MAGDRPC5",68,0)
+ . I DEST S X=0 F  D  Q:X
+"RTN","MAGDRPC5",69,0)
+ . . N NXT
+"RTN","MAGDRPC5",70,0)
+ . . I $P($G(^MAG(2005.2,+DEST,0)),"^",6) S X=1 Q
+"RTN","MAGDRPC5",71,0)
+ . . D NOW^%DTC S %=%*1E6
+"RTN","MAGDRPC5",72,0)
+ . . S X=$P($G(^MAG(2005.2,+DEST,3)),"^",6)*1E6
+"RTN","MAGDRPC5",73,0)
+ . . I %-X>1500 D ONOFLINE(.X,+DEST,1) Q
+"RTN","MAGDRPC5",74,0)
+ . . S X=0,NXT=0
+"RTN","MAGDRPC5",75,0)
+ . . F  S DEST=$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",PRIOR,DEST)) Q:DEST=""  D  Q:NXT
+"RTN","MAGDRPC5",76,0)
+ . . . S:$D(DL(DEST)) NXT=1
+"RTN","MAGDRPC5",77,0)
+ . . . Q
+"RTN","MAGDRPC5",78,0)
+ . . S:'DEST X=1
+"RTN","MAGDRPC5",79,0)
+ . . Q
+"RTN","MAGDRPC5",80,0)
+ . I 'DEST S (PRIOR,DEST)="" Q
+"RTN","MAGDRPC5",81,0)
+ . F  D  Q:OK
+"RTN","MAGDRPC5",82,0)
+ . . S D0=+$G(D0)
+"RTN","MAGDRPC5",83,0)
+ . . S D0=$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",PRIOR,DEST,D0))
+"RTN","MAGDRPC5",84,0)
+ . . I 'D0 S OK=1 Q
+"RTN","MAGDRPC5",85,0)
+ . . S M=$P($G(^MAGQUEUE(2006.035,D0,0)),"^",4) I M'=1,M'=2 S M=1
+"RTN","MAGDRPC5",86,0)
+ . . I M=MECH S OK=1 Q
+"RTN","MAGDRPC5",87,0)
+ . . S (PRIOR,DEST)=""
+"RTN","MAGDRPC5",88,0)
+ . . Q
+"RTN","MAGDRPC5",89,0)
+ . Q
+"RTN","MAGDRPC5",90,0)
+ I OK D:$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",PRIOR))
+"RTN","MAGDRPC5",91,0)
+ . ;
+"RTN","MAGDRPC5",92,0)
+ . ; Ignore higher priority items for destinations that are not accessible
+"RTN","MAGDRPC5",93,0)
+ . ;
+"RTN","MAGDRPC5",94,0)
+ . N A,D,P,T,X
+"RTN","MAGDRPC5",95,0)
+ . S P=PRIOR F  S P=$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",P)) Q:'P  D  Q:'PRIOR
+"RTN","MAGDRPC5",96,0)
+ . . S D="" F  S D=$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",P,D)) Q:D=""  D  Q:'PRIOR
+"RTN","MAGDRPC5",97,0)
+ . . . ; Interrupt only if we're transmitting there
+"RTN","MAGDRPC5",98,0)
+ . . . Q:'$D(DL(D))
+"RTN","MAGDRPC5",99,0)
+ . . . ;
+"RTN","MAGDRPC5",100,0)
+ . . . D:'$P(^MAG(2005.2,+D,0),"^",6)
+"RTN","MAGDRPC5",101,0)
+ . . . . D NOW^%DTC S %=%*1E6
+"RTN","MAGDRPC5",102,0)
+ . . . . S X=$P($G(^MAG(2005.2,+D,3)),"^",6)*1E6 Q:%-X<1500
+"RTN","MAGDRPC5",103,0)
+ . . . . D ONOFLINE(.X,+D,1)
+"RTN","MAGDRPC5",104,0)
+ . . . . Q
+"RTN","MAGDRPC5",105,0)
+ . . . S:$P(^MAG(2005.2,+D,0),"^",6) PRIOR=0
+"RTN","MAGDRPC5",106,0)
+ . . . Q
+"RTN","MAGDRPC5",107,0)
+ . . Q
+"RTN","MAGDRPC5",108,0)
+ . Q
+"RTN","MAGDRPC5",109,0)
+ I '$G(PRIOR) F  D  Q:OK  Q:'PRIOR
+"RTN","MAGDRPC5",110,0)
+ . S PRIOR=" " F  S PRIOR=$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",PRIOR),-1) Q:'PRIOR  D  Q:OK
+"RTN","MAGDRPC5",111,0)
+ . . S DEST="" F  S DEST=$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",PRIOR,DEST)) Q:DEST=""  D:$D(DL(DEST))  Q:OK
+"RTN","MAGDRPC5",112,0)
+ . . . D:'$P(^MAG(2005.2,+DEST,0),"^",6)
+"RTN","MAGDRPC5",113,0)
+ . . . . D NOW^%DTC S %=%*1E6
+"RTN","MAGDRPC5",114,0)
+ . . . . S X=$P($G(^MAG(2005.2,+DEST,3)),"^",6)*1E6 Q:%-X<1500
+"RTN","MAGDRPC5",115,0)
+ . . . . D ONOFLINE(.X,+DEST,1)
+"RTN","MAGDRPC5",116,0)
+ . . . . Q
+"RTN","MAGDRPC5",117,0)
+ . . . Q:'$P(^MAG(2005.2,+DEST,0),"^",6)
+"RTN","MAGDRPC5",118,0)
+ . . . S D0="" F  S D0=$O(^MAGQUEUE(2006.035,"STS",LOCATION,"WAITING",PRIOR,DEST,D0)) Q:D0=""  D  Q:OK
+"RTN","MAGDRPC5",119,0)
+ . . . . S M=$P($G(^MAGQUEUE(2006.035,D0,0)),"^",4) I M'=1,M'=2 S M=1
+"RTN","MAGDRPC5",120,0)
+ . . . . I M=MECH S OK=1 Q
+"RTN","MAGDRPC5",121,0)
+ . . . . Q
+"RTN","MAGDRPC5",122,0)
+ . . . Q
+"RTN","MAGDRPC5",123,0)
+ . . Q
+"RTN","MAGDRPC5",124,0)
+ . Q
+"RTN","MAGDRPC5",125,0)
+ Q:'PRIOR
+"RTN","MAGDRPC5",126,0)
+ Q:'OK
+"RTN","MAGDRPC5",127,0)
+ I 'D0 S OUT(1)=0 Q  ; All files transmitted
+"RTN","MAGDRPC5",128,0)
+ ;
+"RTN","MAGDRPC5",129,0)
+ S X=^MAGQUEUE(2006.035,D0,0),IM=$P(X,"^",1),TP=$P(X,"^",3)
+"RTN","MAGDRPC5",130,0)
+ I 'IM D STATUS(X,D0,"SENT",LOCATION) S OUT(1)=2 Q
+"RTN","MAGDRPC5",131,0)
+ S OUT(2)=+DEST,OUT(3)=PRIOR,OUT(4)=MECH,OUT(9)=D0
+"RTN","MAGDRPC5",132,0)
+ S X=$G(^MAG(2005.2,+DEST,2)),OUT(5)=$P(X,"^",1),OUT(6)=$P(X,"^",2)
+"RTN","MAGDRPC5",133,0)
+ D STATUS(X,D0,"SENDING",LOCATION)
+"RTN","MAGDRPC5",134,0)
+ S OUT(10)=$P(^MAG(2005.2,+DEST,0),"^",2)
+"RTN","MAGDRPC5",135,0)
+ S DIR=$P($G(^MAG(2005.2,+DEST,4)),"^",2)
+"RTN","MAGDRPC5",136,0)
+ S OUT(11)=$G(^MAG(2005.2,+DEST,3))
+"RTN","MAGDRPC5",137,0)
+ S OUT(12)=IM
+"RTN","MAGDRPC5",138,0)
+ S OUT(13)=$P($G(^MAGQUEUE(2006.035,D0,1)),"^",3)
+"RTN","MAGDRPC5",139,0)
+ S OUT(14)=$P($G(^MAG(2005.2,+DEST,1)),"^",7) S:OUT(14)="" OUT(14)="NONE"
+"RTN","MAGDRPC5",140,0)
+ D XMIT^MAGDRPC6 ; Routine grew over 10,000 characters
+"RTN","MAGDRPC5",141,0)
+ I MECH=2 S OUT(2)=OUT(2)_"^"_$P($G(^MAG(2006.587,+DEST,0)),"^",1)
+"RTN","MAGDRPC5",142,0)
+ Q
+"RTN","MAGDRPC5",143,0)
+ ;
+"RTN","MAGDRPC5",144,0)
+PURGE(OUT,LOCATION,DEST,MAX,DONE) ; RPC = MAG DICOM ROUTE GET PURGE
+"RTN","MAGDRPC5",145,0)
+ N D0,D1,FILE,FMFILE,I,LIMIT,MORE,NOW,RETAIN,STAMP,STATUS,X
+"RTN","MAGDRPC5",146,0)
+ ;
+"RTN","MAGDRPC5",147,0)
+ D NOW^%DTC S NOW=%
+"RTN","MAGDRPC5",148,0)
+ K OUT S OUT(1)=1
+"RTN","MAGDRPC5",149,0)
+ S:$D(^MAG(2005.2,DEST,0)) $P(^MAG(2005.2,DEST,3),"^",4)=DT
+"RTN","MAGDRPC5",150,0)
+ S X=^MAG(2005.2,DEST,3)
+"RTN","MAGDRPC5",151,0)
+ S RETAIN=$P(X,"^",1) S:RETAIN="" RETAIN=32 S:RETAIN<0 RETAIN=0
+"RTN","MAGDRPC5",152,0)
+ S LIMIT=$H-RETAIN
+"RTN","MAGDRPC5",153,0)
+ ;
+"RTN","MAGDRPC5",154,0)
+ S X=$G(DONE(1)),MORE="" S:$E(X,1)="^" MORE=$P(X,"^",4,6)
+"RTN","MAGDRPC5",155,0)
+ ;
+"RTN","MAGDRPC5",156,0)
+ S I="" F  S I=$O(DONE(I)) Q:I=""  D
+"RTN","MAGDRPC5",157,0)
+ . N D41,D61
+"RTN","MAGDRPC5",158,0)
+ . S X=$G(DONE(I))
+"RTN","MAGDRPC5",159,0)
+ . S D0=$P(X,"^",2),D41=$P(X,"^",3)
+"RTN","MAGDRPC5",160,0)
+ . S STAMP=$P(X,"^",4)
+"RTN","MAGDRPC5",161,0)
+ . Q:'D0  Q:'D41
+"RTN","MAGDRPC5",162,0)
+ . ; Just in case the image is being deleted as this purge is taking place
+"RTN","MAGDRPC5",163,0)
+ . F FMFILE=2005,2005.1 D
+"RTN","MAGDRPC5",164,0)
+ . . K ^MAG(FMFILE,"ROUTE",DEST,STAMP,D0,D41)
+"RTN","MAGDRPC5",165,0)
+ . . S D61=$P($G(^MAG(FMFILE,D0,4,D41,0)),"^",7)
+"RTN","MAGDRPC5",166,0)
+ . . K ^MAG(FMFILE,D0,4,"LOC",DEST,D41)
+"RTN","MAGDRPC5",167,0)
+ . . K ^MAG(FMFILE,D0,4,D41,0)
+"RTN","MAGDRPC5",168,0)
+ . . S:D61 $P(^MAG(FMFILE,D0,6,D61,0),"^",5)=NOW
+"RTN","MAGDRPC5",169,0)
+ . . Q
+"RTN","MAGDRPC5",170,0)
+ . S MORE=""
+"RTN","MAGDRPC5",171,0)
+ . Q
+"RTN","MAGDRPC5",172,0)
+ ;
+"RTN","MAGDRPC5",173,0)
+ D
+"RTN","MAGDRPC5",174,0)
+ . N %,%H,%I
+"RTN","MAGDRPC5",175,0)
+ . S %H=LIMIT D TT^%DTC S LIMIT=X
+"RTN","MAGDRPC5",176,0)
+ . Q
+"RTN","MAGDRPC5",177,0)
+ ;
+"RTN","MAGDRPC5",178,0)
+ S MAX=$G(MAX) S:MAX<1 MAX=100
+"RTN","MAGDRPC5",179,0)
+ F FMFILE=2005,2005.1 D  Q:OUT(1)'<MAX
+"RTN","MAGDRPC5",180,0)
+ . S STAMP="" F  S STAMP=$O(^MAG(FMFILE,"ROUTE",DEST,STAMP)) Q:STAMP=""  Q:STAMP'<LIMIT  D  Q:OUT(1)'<MAX
+"RTN","MAGDRPC5",181,0)
+ . . S D0="" F  S D0=$O(^MAG(FMFILE,"ROUTE",DEST,STAMP,D0)) Q:D0=""  D  Q:OUT(1)'<MAX
+"RTN","MAGDRPC5",182,0)
+ . . . S D1="" F  S D1=$O(^MAG(FMFILE,"ROUTE",DEST,STAMP,D0,D1)) Q:D1=""  D  Q:OUT(1)'<MAX
+"RTN","MAGDRPC5",183,0)
+ . . . . I MORE'="",FMFILE_"^"_D0_"^"_D1'=MORE Q
+"RTN","MAGDRPC5",184,0)
+ . . . . S MORE=""
+"RTN","MAGDRPC5",185,0)
+ . . . . S FILE=$P($G(^MAG(FMFILE,D0,4,D1,0)),"^",4),STATUS=0
+"RTN","MAGDRPC5",186,0)
+ . . . . S:FILE="" FILE=$P($G(^MAG(2005.1,D0,4,D1,0)),"^",4)
+"RTN","MAGDRPC5",187,0)
+ . . . . I FILE="" D  Q
+"RTN","MAGDRPC5",188,0)
+ . . . . . K ^MAG(FMFILE,"ROUTE",DEST,STAMP,D0,D1)
+"RTN","MAGDRPC5",189,0)
+ . . . . . K ^MAG(FMFILE,D0,4,"LOC",DEST,D1)
+"RTN","MAGDRPC5",190,0)
+ . . . . . K ^MAG(FMFILE,D0,4,D1,0)
+"RTN","MAGDRPC5",191,0)
+ . . . . . Q
+"RTN","MAGDRPC5",192,0)
+ . . . . S OUT(1)=OUT(1)+1,OUT(OUT(1))=FMFILE_"^"_D0_"^"_D1_"^"_STAMP_"^"_FILE
+"RTN","MAGDRPC5",193,0)
+ . . . . Q
+"RTN","MAGDRPC5",194,0)
+ . . . Q
+"RTN","MAGDRPC5",195,0)
+ . . Q
+"RTN","MAGDRPC5",196,0)
+ . Q
+"RTN","MAGDRPC5",197,0)
+ Q
+"RTN","MAGDRPC5",198,0)
+ ;
+"RTN","MAGDRPC5",199,0)
+STATUS(OUT,D0,STATUS,LOCATION) ; RPC = MAG DICOM ROUTE STATUS
+"RTN","MAGDRPC5",200,0)
+ ; D0 ------- Internal Entry Number of Send Queue Entry
+"RTN","MAGDRPC5",201,0)
+ ; STATUS --- New Status
+"RTN","MAGDRPC5",202,0)
+ N DEST ;---- Internal Entry Number of destination
+"RTN","MAGDRPC5",203,0)
+ N IMAGE ;--- Internal Entry Number of image
+"RTN","MAGDRPC5",204,0)
+ N OLD ;----- Old Status Value
+"RTN","MAGDRPC5",205,0)
+ N ORIGIN ;-- Origin of image
+"RTN","MAGDRPC5",206,0)
+ N PRIOR ;--- Priority
+"RTN","MAGDRPC5",207,0)
+ N TYPE ;---- File Type (Big, Text, DICOM, etc)
+"RTN","MAGDRPC5",208,0)
+ N X0,X1 ;--- Queue data
+"RTN","MAGDRPC5",209,0)
+ ;
+"RTN","MAGDRPC5",210,0)
+ I '$G(D0) S OUT="-1,Invalid queue identifier: """_$G(D0)_"""." Q
+"RTN","MAGDRPC5",211,0)
+ ;
+"RTN","MAGDRPC5",212,0)
+ S X0=$G(^MAGQUEUE(2006.035,D0,0))
+"RTN","MAGDRPC5",213,0)
+ S X1=$G(^MAGQUEUE(2006.035,D0,1))
+"RTN","MAGDRPC5",214,0)
+ S OUT=0
+"RTN","MAGDRPC5",215,0)
+ ;
+"RTN","MAGDRPC5",216,0)
+ S DEST=$P(X0,"^",2) Q:DEST=""
+"RTN","MAGDRPC5",217,0)
+ S PRIOR=$P(X1,"^",2) Q:PRIOR=""
+"RTN","MAGDRPC5",218,0)
+ S ORIGIN=$P(X0,"^",5)
+"RTN","MAGDRPC5",219,0)
+ S:'ORIGIN ORIGIN=$G(LOCATION) Q:'ORIGIN
+"RTN","MAGDRPC5",220,0)
+ S OLD=$P(X1,"^",1),IMAGE=$P(X0,"^",1),TYPE=$P(X0,"^",3)
+"RTN","MAGDRPC5",221,0)
+ ;
+"RTN","MAGDRPC5",222,0)
+ K:OLD'="" ^MAGQUEUE(2006.035,"DEST",DEST,OLD,IMAGE,TYPE,D0)
+"RTN","MAGDRPC5",223,0)
+ K:OLD'="" ^MAGQUEUE(2006.035,"STS",ORIGIN,OLD,PRIOR,DEST,D0)
+"RTN","MAGDRPC5",224,0)
+ Q:STATUS=""
+"RTN","MAGDRPC5",225,0)
+ S $P(^MAGQUEUE(2006.035,D0,0),"^",5)=ORIGIN
+"RTN","MAGDRPC5",226,0)
+ S $P(^MAGQUEUE(2006.035,D0,1),"^",1)=STATUS
+"RTN","MAGDRPC5",227,0)
+ S ^MAGQUEUE(2006.035,"DEST",DEST,STATUS,IMAGE,TYPE,D0)=""
+"RTN","MAGDRPC5",228,0)
+ S ^MAGQUEUE(2006.035,"STS",ORIGIN,STATUS,PRIOR,DEST,D0)=""
+"RTN","MAGDRPC5",229,0)
+ S OUT=1
+"RTN","MAGDRPC5",230,0)
+ Q
+"RTN","MAGDRPC5",231,0)
+ ;
+"RTN","MAGDRPC5",232,0)
+LISTDEST(OUT,LOCATION) ; RPC = MAG DICOM ROUTE LIST DESTI
+"RTN","MAGDRPC5",233,0)
+ N D0,F,I,X
+"RTN","MAGDRPC5",234,0)
+ ; Return list of possible routing destinations
+"RTN","MAGDRPC5",235,0)
+ K OUT
+"RTN","MAGDRPC5",236,0)
+ S I=1,D0=0 F  S D0=$O(^MAG(2005.2,D0)) Q:'D0  D
+"RTN","MAGDRPC5",237,0)
+ . S X=$G(^MAG(2005.2,D0,0)) Q:'$P(X,"^",9)
+"RTN","MAGDRPC5",238,0)
+ . L +^MAGQUEUE("ROUTE",LOCATION,D0):0 S F='$T
+"RTN","MAGDRPC5",239,0)
+ . L:'F -^MAGQUEUE("ROUTE",LOCATION,D0)
+"RTN","MAGDRPC5",240,0)
+ . S I=I+1,OUT(I)=D0_"^"_F_"^"_$P(X,"^",1,2)
+"RTN","MAGDRPC5",241,0)
+ . Q
+"RTN","MAGDRPC5",242,0)
+ S OUT(1)=I-1
+"RTN","MAGDRPC5",243,0)
+ Q
+"RTN","MAGDRPC5",244,0)
+ ;
+"RTN","MAGDRPC5",245,0)
+LOCK(OUT,D0,LOCATION,PLUSMIN) ; RPC = MAG DICOM ROUTE LOCK TRANSMIT
+"RTN","MAGDRPC5",246,0)
+ S OUT=0
+"RTN","MAGDRPC5",247,0)
+ I $G(PLUSMIN) L +^MAGQUEUE("ROUTE",LOCATION,D0):0 S OUT=$T Q
+"RTN","MAGDRPC5",248,0)
+ L -^MAGQUEUE("ROUTE",LOCATION,D0) S OUT=2
+"RTN","MAGDRPC5",249,0)
+ Q
+"RTN","MAGDRPC5",250,0)
+ ;
+"RTN","MAGDRPC5",251,0)
+ONOFLINE(OUT,DEST,STATUS) ; RPC = MAG DICOM NETWORK STATUS
+"RTN","MAGDRPC5",252,0)
+ N NET
+"RTN","MAGDRPC5",253,0)
+ I '$G(DEST) S OUT="-1,No Network Location Specified" Q
+"RTN","MAGDRPC5",254,0)
+ S STATUS=''$G(STATUS)
+"RTN","MAGDRPC5",255,0)
+ S NET=$P($G(^MAG(2005.2,DEST,0)),"^",2)
+"RTN","MAGDRPC5",256,0)
+ K ^MAG(2005.2,"C",NET,0,DEST)
+"RTN","MAGDRPC5",257,0)
+ K ^MAG(2005.2,"C",NET,1,DEST)
+"RTN","MAGDRPC5",258,0)
+ S ^MAG(2005.2,"C",NET,STATUS,DEST)=""
+"RTN","MAGDRPC5",259,0)
+ S $P(^MAG(2005.2,DEST,0),"^",6)=STATUS
+"RTN","MAGDRPC5",260,0)
+ D NOW^%DTC
+"RTN","MAGDRPC5",261,0)
+ S $P(^MAG(2005.2,DEST,3),"^",6)=$S(STATUS:"",1:%)
+"RTN","MAGDRPC5",262,0)
+ S OUT=1
+"RTN","MAGDRPC5",263,0)
+ Q
+"RTN","MAGDRPC5",264,0)
+ ;
+"RTN","MAGDRPC5",265,0)
+XTINIT ;
+"RTN","MAGDRPC5",266,0)
+ D DT^DICRW
+"RTN","MAGDRPC5",267,0)
+ S X=$G(^XTMP("MAGEVAL",0))
+"RTN","MAGDRPC5",268,0)
+ S $P(X,"^",2)=DT
+"RTN","MAGDRPC5",269,0)
+ S $P(X,"^",3)="Routing Rule Evaluator Log - Can be purged at any time"
+"RTN","MAGDRPC5",270,0)
+ S ^XTMP("MAGEVAL",0)=X
+"RTN","MAGDRPC5",271,0)
+ Q
+"RTN","MAGDRPC5",272,0)
+ ;
+"RTN","MAGGSIA1")
+0^9^B39981791
+"RTN","MAGGSIA1",1,0)
+MAGGSIA1 ;WOIFO/GEK - RPC Call to Add Image File entry ; [ 12/27/2000 10:49 ]
+"RTN","MAGGSIA1",2,0)
+ ;;3.0;IMAGING;**7,8,85**;16-March-2007;;Build 1039
+"RTN","MAGGSIA1",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGGSIA1",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIA1",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGSIA1",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGSIA1",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGSIA1",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGSIA1",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGSIA1",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGSIA1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGSIA1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGSIA1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGSIA1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGSIA1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGSIA1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIA1",17,0)
+ ;;
+"RTN","MAGGSIA1",18,0)
+ Q
+"RTN","MAGGSIA1",19,0)
+PRE(MAGERR,MAGGFDA,MAGGRP,MAGGDRV,MAGREF) ;
+"RTN","MAGGSIA1",20,0)
+ ;  Check on some possible problems: required fields etc.
+"RTN","MAGGSIA1",21,0)
+ ;  Object Type and (Patient, or Short Desc) Required.
+"RTN","MAGGSIA1",22,0)
+ N MAGRSLT,X,Z
+"RTN","MAGGSIA1",23,0)
+ I '$D(MAGGFDA(2005,"+1,",3)) D OBJTYPE
+"RTN","MAGGSIA1",24,0)
+ I '$D(MAGGFDA(2005,"+1,",3)) S MAGERR="0^Need an Object Type " Q
+"RTN","MAGGSIA1",25,0)
+ I '$D(MAGGFDA(2005,"+1,",5)),'$D(MAGGFDA(2005,"+1,",10)) D  Q
+"RTN","MAGGSIA1",26,0)
+ . S MAGERR="0^Need Patient or Short Desc.  Operation CANCELED "
+"RTN","MAGGSIA1",27,0)
+ ; IF no Procedure text we'll give it some so crossref will set.
+"RTN","MAGGSIA1",28,0)
+ D PATCHK(.MAGRSLT) I 'MAGRSLT S MAGERR=MAGRSLT Q
+"RTN","MAGGSIA1",29,0)
+ ; Patch 8 IAPI We Create IXCLS (#41 CLASS) and  IXPKG (#40 Package) if TYPE is in Data.
+"RTN","MAGGSIA1",30,0)
+ ; But we are not making TYPE required yet for backward compatibality.
+"RTN","MAGGSIA1",31,0)
+ I $D(MAGGFDA(2005,"+1,",42)) D
+"RTN","MAGGSIA1",32,0)
+ . I $$GET1^DIQ(2005.83,MAGGFDA(2005,"+1,",42),2,"E")="INACTIVE" D  S MAGRY=MAGERR Q
+"RTN","MAGGSIA1",33,0)
+ . . S MAGERR="0^Index Type: "_$$GET1^DIQ(2005.83,MAGGFDA(2005,"+1,",42),.01,"E")_"is INACTIVE"
+"RTN","MAGGSIA1",34,0)
+ . I '$D(MAGGFDA(2005,"+1,",41)) D MAKECLAS^MAGGSIU1 I $L(MAGERR) S MAGRY=MAGERR Q
+"RTN","MAGGSIA1",35,0)
+ . I ($D(MAGGFDA(2005,"+1,",16)))&($$ISTYPADM(MAGGFDA(2005,"+1,",42))) D  S MAGRY=MAGERR Q
+"RTN","MAGGSIA1",36,0)
+ . . S MAGERR="0^Can't have an ADMIN TYPE with Clinical Image."
+"RTN","MAGGSIA1",37,0)
+ . I '$D(MAGGFDA(2005,"+1,",40)) D MAKEPKG^MAGGSIU1 I $L(MAGERR) S MAGRY=MAGERR Q
+"RTN","MAGGSIA1",38,0)
+ . I '$D(MAGGFDA(2005,"+1,",6)) D MAKEPROC^MAGGSIU1 I $L(MAGERR) S MAGRY=MAGERR Q
+"RTN","MAGGSIA1",39,0)
+ . I '$D(MAGGFDA(2005,"+1,",45)) D MAKEORIG^MAGGSIU1 I $L(MAGERR) S MAGRY=MAGERR Q
+"RTN","MAGGSIA1",40,0)
+ . Q
+"RTN","MAGGSIA1",41,0)
+ ;
+"RTN","MAGGSIA1",42,0)
+ I '$D(MAGGFDA(2005,"+1,",6)) D PROCTEXT
+"RTN","MAGGSIA1",43,0)
+ ;
+"RTN","MAGGSIA1",44,0)
+ ; If no Procedure/Exam Date/Time we'll give it DocDT, or NOW
+"RTN","MAGGSIA1",45,0)
+ I '$D(MAGGFDA(2005,"+1,",15)) D
+"RTN","MAGGSIA1",46,0)
+ . I $D(MAGGFDA(2005,"+1,",110)) S MAGGFDA(2005,"+1,",15)=MAGGFDA(2005,"+1,",110) Q
+"RTN","MAGGSIA1",47,0)
+ . S MAGGFDA(2005,"+1,",15)=$E($$NOW^XLFDT,1,12)
+"RTN","MAGGSIA1",48,0)
+ ; DateTime image saved.
+"RTN","MAGGSIA1",49,0)
+ I '$D(MAGGFDA(2005,"+1,",7)) S MAGGFDA(2005,"+1,",7)=$E($$NOW^XLFDT,1,12)
+"RTN","MAGGSIA1",50,0)
+ ; Short Description
+"RTN","MAGGSIA1",51,0)
+ ;I '$D(MAGGFDA(2005,"+1,",10)) S MAGGFDA(2005,"+1,",10)=$$MAKENAME^MAGGSIU1(.MAGGFDA)
+"RTN","MAGGSIA1",52,0)
+ I '$D(MAGGFDA(2005,"+1,",10)) S MAGGFDA(2005,"+1,",10)=$G(MAGGFDA(2005,"+1,",6))
+"RTN","MAGGSIA1",53,0)
+ ; Name (.01)
+"RTN","MAGGSIA1",54,0)
+ I '$D(MAGGFDA(2005,"+1,",.01)) S MAGGFDA(2005,"+1,",.01)=$$MAKENAME^MAGGSIU1(.MAGGFDA)
+"RTN","MAGGSIA1",55,0)
+ I '$D(MAGGFDA(2005,"+1,",8)) S MAGGFDA(2005,"+1,",8)=$G(DUZ)
+"RTN","MAGGSIA1",56,0)
+ ; Acquisition Site, Use it to tell where to save the file.
+"RTN","MAGGSIA1",57,0)
+ I $D(MAGACT("ACQS")) D
+"RTN","MAGGSIA1",58,0)
+ . ; Patch 8 Have to modify: Field 105 (Acquisition Site) is NOW Field .05
+"RTN","MAGGSIA1",59,0)
+ . I $P(MAGACT("ACQS"),";")]"" S MAGGFDA(2005,"+1,",.05)=$P(MAGACT("ACQS"),";")
+"RTN","MAGGSIA1",60,0)
+ ; Only get drive:dir if not a group
+"RTN","MAGGSIA1",61,0)
+ I 'MAGGRP D  I $L(MAGERR) Q
+"RTN","MAGGSIA1",62,0)
+ . ; The value of the Action Code "WRITE^value" OVERRIDES any Write Location
+"RTN","MAGGSIA1",63,0)
+ . ; sent as field # 2 in the input array. (The only value we check for is "PACS" from peter's code)
+"RTN","MAGGSIA1",64,0)
+ . S X=$S($D(MAGACT("WRITE")):MAGACT("WRITE"),$D(MAGGFDA(2005,"+1,",2)):MAGGFDA(2005,"+1,",2),1:"")
+"RTN","MAGGSIA1",65,0)
+ . ;P85 Send ACQS as second Param. $$DRIVE will use ACQS If X = ""
+"RTN","MAGGSIA1",66,0)
+ . ;
+"RTN","MAGGSIA1",67,0)
+ . S Z=$$DRIVE^MAGGTU1(X,$G(MAGGFDA(2005,"+1,",.05))) ;Drv:Dir to Write
+"RTN","MAGGSIA1",68,0)
+ . I 'Z S MAGERR=Z Q
+"RTN","MAGGSIA1",69,0)
+ . S MAGGDRV=$P(Z,U,2)
+"RTN","MAGGSIA1",70,0)
+ . S MAGGFDA(2005,"+1,",2)=+Z               ;Disk & Vol magnetic
+"RTN","MAGGSIA1",71,0)
+ . ; if a big file is being made on workstation, put NetWork Location
+"RTN","MAGGSIA1",72,0)
+ . ; pointer in the BIG NETWORK LOCATION field.
+"RTN","MAGGSIA1",73,0)
+ . ; (BIG files default to same Network Location as FullRes (or PACS))
+"RTN","MAGGSIA1",74,0)
+ . I $G(MAGACT("BIG"))=1 S MAGGFDA(2005,"+1,",102)=+Z
+"RTN","MAGGSIA1",75,0)
+ . S MAGREF=+Z ; save network location ien for $$DIRHASH in ^MAGGSIA1
+"RTN","MAGGSIA1",76,0)
+ . I $G(MAGACT("ABS"))="STUFFONLY" S MAGGFDA(2005,"+1,",2.1)=+Z
+"RTN","MAGGSIA1",77,0)
+ ;
+"RTN","MAGGSIA1",78,0)
+ I $D(MAGACT("ACQL")) S MAGGFDA(2005,"+1,",101)=MAGACT("ACQL")
+"RTN","MAGGSIA1",79,0)
+ ; HERE we are putting PRE Processing for the Import API action codes.
+"RTN","MAGGSIA1",80,0)
+ ; "ACQD,ACQS" If Acquisition device entry doesn't exist, create it.
+"RTN","MAGGSIA1",81,0)
+ I $D(MAGACT("ACQD")) D
+"RTN","MAGGSIA1",82,0)
+ . ; IF Value is a pointer to the ACQ DEVICE File Quit.  If it's invalid then UPDATE will catch it.
+"RTN","MAGGSIA1",83,0)
+ . I (+MAGACT("ACQD")=MAGACT("ACQD")) S MAGGFDA(2005,"+1,",107)=MAGACT("ACQD") Q
+"RTN","MAGGSIA1",84,0)
+ . I $D(^MAG(2006.04,"B",MAGACT("ACQD"))) D  Q
+"RTN","MAGGSIA1",85,0)
+ . . ; IF Already exists, add it to the FDA
+"RTN","MAGGSIA1",86,0)
+ . . S MAGGFDA(2005,"+1,",107)=$O(^MAG(2006.04,"B",MAGACT("ACQD"),""))
+"RTN","MAGGSIA1",87,0)
+ . . ; What do we do with the Acquisition Site. IF Acq Dev already exists. ? 
+"RTN","MAGGSIA1",88,0)
+ . . ; ??
+"RTN","MAGGSIA1",89,0)
+ . ; IF it doesn't exist, create it, and add it's ien to the image entry 
+"RTN","MAGGSIA1",90,0)
+ . N MAGDFDA,MAGDIEN,MAGDXE
+"RTN","MAGGSIA1",91,0)
+ . S MAGDFDA(2006.04,"+1,",.01)=MAGACT("ACQD")
+"RTN","MAGGSIA1",92,0)
+ . S MAGDFDA(2006.04,"+1,",1)=$S($D(MAGACT("ACQS")):$P(MAGACT("ACQS"),";"),1:$G(MAGGFDA(2005,"+1,",.05)))
+"RTN","MAGGSIA1",93,0)
+ . S MAGDFDA(2006.04,"+1,",2)=$S($D(MAGACT("ACQL")):MAGACT("ACQL"),$D(MAGGFDA(2005,"+1,",101)):MAGGFDA(2005,"+1,",101),1:$P($G(MAGACT("ACQS")),";",2))
+"RTN","MAGGSIA1",94,0)
+ . ; ACQS was a 2 ';' piece value with Acq Location (HOSPITAL LOCATION) as 2nd piece
+"RTN","MAGGSIA1",95,0)
+ . ;   now it is sent as it's own value in ACQL
+"RTN","MAGGSIA1",96,0)
+ . D UPDATE^DIE("","MAGDFDA","MAGDIEN","MAGDXE")
+"RTN","MAGGSIA1",97,0)
+ . S MAGGFDA(2005,"+1,",107)=MAGDIEN(1)
+"RTN","MAGGSIA1",98,0)
+ ;
+"RTN","MAGGSIA1",99,0)
+ ;  Check the last entry in Audit File to see if it is greater than 
+"RTN","MAGGSIA1",100,0)
+ ; last image in Image File.  IF yes, change Image File (0) node entry.
+"RTN","MAGGSIA1",101,0)
+ I ($O(^MAG(2005,"A"),-1)<$O(^MAG(2005.1,"A"),-1)) S $P(^MAG(2005,0),U,3)=$O(^MAG(2005.1,"A"),-1)
+"RTN","MAGGSIA1",102,0)
+ ;
+"RTN","MAGGSIA1",103,0)
+ Q
+"RTN","MAGGSIA1",104,0)
+PATCHK(MAGR) ; This uses the FDA Array and checks the Imaging Patient against the Procedure patient
+"RTN","MAGGSIA1",105,0)
+ ;
+"RTN","MAGGSIA1",106,0)
+ N MAGDFN,PX,PXDA,MAGY
+"RTN","MAGGSIA1",107,0)
+ S PX=$G(MAGGFDA(2005,"+1,",16))
+"RTN","MAGGSIA1",108,0)
+ S PXDA=$G(MAGGFDA(2005,"+1,",17))
+"RTN","MAGGSIA1",109,0)
+ I 'PX S MAGR=1 Q  ; This is a category, or an Image of a group (no parent pointer)
+"RTN","MAGGSIA1",110,0)
+ S MAGDFN=MAGGFDA(2005,"+1,",5)
+"RTN","MAGGSIA1",111,0)
+ I (PX=8925) D  Q
+"RTN","MAGGSIA1",112,0)
+ . I '$D(^TIU(8925,PXDA)) S MAGR="0^Invalid TIU Entry Number: "_PXDA Q
+"RTN","MAGGSIA1",113,0)
+ . D DATA^MAGGNTI(.MAGY,PXDA)
+"RTN","MAGGSIA1",114,0)
+ . I '(MAGDFN=$P(MAGY,U,4)) S MAGR="0^Procedure and Imaging patients don't match." Q
+"RTN","MAGGSIA1",115,0)
+ . S MAGR=1
+"RTN","MAGGSIA1",116,0)
+ Q
+"RTN","MAGGSIA1",117,0)
+OBJTYPE ; This call uses the EXT and computes an Object Type
+"RTN","MAGGSIA1",118,0)
+ N MTYPE
+"RTN","MAGGSIA1",119,0)
+ I '$L($G(MAGACT("EXT"))) Q
+"RTN","MAGGSIA1",120,0)
+ S MTYPE=$O(^MAG(2005.02,"AD",MAGACT("EXT"),""))
+"RTN","MAGGSIA1",121,0)
+ ;I 'MTYPE Q
+"RTN","MAGGSIA1",122,0)
+ ;TODO : Answer question, do we want to have a default Image type ?
+"RTN","MAGGSIA1",123,0)
+ I 'MTYPE S MTYPE=1
+"RTN","MAGGSIA1",124,0)
+ S MAGGFDA(2005,"+1,",3)=MTYPE
+"RTN","MAGGSIA1",125,0)
+ Q
+"RTN","MAGGSIA1",126,0)
+ISTYPADM(TYPE) ; Returns 1 if this is an Admin Type
+"RTN","MAGGSIA1",127,0)
+ N CL
+"RTN","MAGGSIA1",128,0)
+ I '$G(TYPE) Q 0
+"RTN","MAGGSIA1",129,0)
+ S CL=$$GET1^DIQ(2005.83,TYPE,1,"E")
+"RTN","MAGGSIA1",130,0)
+ Q $S($E(CL,1,5)="ADMIN":1,1:0)
+"RTN","MAGGSIA1",131,0)
+PROCTEXT ;This call uses flds 16 and 17 to compute fld #6 PROCEDURE TEXT [8F]
+"RTN","MAGGSIA1",132,0)
+ ; We are here because fld #6 PROCEDURE [8F] is null.
+"RTN","MAGGSIA1",133,0)
+ ; If a pointer to a package is in the data, (flds 16 and 17)
+"RTN","MAGGSIA1",134,0)
+ ;  get fld #6 from that , if not then treat it as an UNASSIGNED image 
+"RTN","MAGGSIA1",135,0)
+ ; i.e. Category UNASSIGNED.
+"RTN","MAGGSIA1",136,0)
+ N MAGYPX,PARENT,PARIEN,PXDESC
+"RTN","MAGGSIA1",137,0)
+ S PARENT=$G(MAGGFDA(2005,"+1,",16))
+"RTN","MAGGSIA1",138,0)
+ S PARIEN=$G(MAGGFDA(2005,"+1,",17))
+"RTN","MAGGSIA1",139,0)
+ ;
+"RTN","MAGGSIA1",140,0)
+ I (PARENT=8925),(PARIEN]"") D  Q
+"RTN","MAGGSIA1",141,0)
+ . D DATA^MAGGNTI(.MAGYPX,PARIEN)
+"RTN","MAGGSIA1",142,0)
+ . S MAGGFDA(2005,"+1,",6)=$P(MAGYPX,U,2)
+"RTN","MAGGSIA1",143,0)
+ ;TODO; create calls to get default procedure desc for all specialties
+"RTN","MAGGSIA1",144,0)
+ ; AND default to NONE if a TYPE and no PARENT data File (fld 16)
+"RTN","MAGGSIA1",145,0)
+ ; If a Parent pointer exists, and it isn't TIU, for now set "NO Description"
+"RTN","MAGGSIA1",146,0)
+ I PARENT]"" S MAGGFDA(2005,"+1,",6)="No Description" Q
+"RTN","MAGGSIA1",147,0)
+ ;
+"RTN","MAGGSIA1",148,0)
+ ; Do we have a pointer to a MAG DESCRIPTIVE CATEGORY
+"RTN","MAGGSIA1",149,0)
+ I ($G(MAGGFDA(2005,"+1,",100))]"") D  Q
+"RTN","MAGGSIA1",150,0)
+ . S MAGGFDA(2005,"+1,",6)=$P(^MAG(2005.81,MAGGFDA(2005,"+1,",100),0),U,1)
+"RTN","MAGGSIA1",151,0)
+ ; 
+"RTN","MAGGSIA1",152,0)
+ ; If a new child of a Group, use that Proc Desc
+"RTN","MAGGSIA1",153,0)
+ I $G(MAGGFDA(2005,"+1,",14))]"" D  Q
+"RTN","MAGGSIA1",154,0)
+ . S MAGGFDA(2005,"+1,",6)=$P(^MAG(2005,MAGGFDA(2005,"+1,",14),0),U,8)
+"RTN","MAGGSIA1",155,0)
+ ;
+"RTN","MAGGSIA1",156,0)
+ ; Parent="", and no Category pointer, then we Call it UNASSIGNED
+"RTN","MAGGSIA1",157,0)
+ S MAGGFDA(2005,"+1,",100)=$O(^MAG(2005.81,"B","UNASSIGNED",""))
+"RTN","MAGGSIA1",158,0)
+ S MAGGFDA(2005,"+1,",6)="UNASSIGNED"
+"RTN","MAGGSIA1",159,0)
+ Q
+"RTN","MAGGSIU2")
+0^10^B19675088
+"RTN","MAGGSIU2",1,0)
+MAGGSIU2 ;WOIFO/GEK - Utilities for Image Add/Modify ; [ 12/27/2000 10:49 ]
+"RTN","MAGGSIU2",2,0)
+ ;;3.0;IMAGING;**7,8,85**;16-March-2007;;Build 1039
+"RTN","MAGGSIU2",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGGSIU2",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIU2",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGSIU2",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGSIU2",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGSIU2",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGSIU2",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGSIU2",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGSIU2",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGSIU2",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGSIU2",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGSIU2",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGSIU2",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGSIU2",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIU2",17,0)
+ ;;
+"RTN","MAGGSIU2",18,0)
+ Q
+"RTN","MAGGSIU2",19,0)
+MAKEFDA(MAGGFDA,MAGARRAY,MAGACT,MAGCHLD,MAGGRP,MAGGWP) ;
+"RTN","MAGGSIU2",20,0)
+ ;  Create the FileMan FDA Array
+"RTN","MAGGSIU2",21,0)
+ ;  Create Imaging Action Codes Array (for Pre and Post processing)
+"RTN","MAGGSIU2",22,0)
+ N MAGGFLD,MAGGDAT,GRPCT,WPCT,Z
+"RTN","MAGGSIU2",23,0)
+ S Z="" F  S Z=$O(MAGARRAY(Z)) Q:Z=""  D  I $L(MAGERR) Q
+"RTN","MAGGSIU2",24,0)
+ . S MAGGFLD=$P(MAGARRAY(Z),U,1),MAGGDAT=$P(MAGARRAY(Z),U,2,99)
+"RTN","MAGGSIU2",25,0)
+ . ;  If this entry is one of the action codes, store it in the action array.
+"RTN","MAGGSIU2",26,0)
+ . I $$ACTCODE^MAGGSIV(MAGGFLD) S MAGACT(MAGGFLD)=MAGGDAT Q
+"RTN","MAGGSIU2",27,0)
+ . ;
+"RTN","MAGGSIU2",28,0)
+ . ; If we are Creating a Group Entry, add any Images that are to be members of this group.
+"RTN","MAGGSIU2",29,0)
+ . I MAGGFLD=2005.04 D  Q
+"RTN","MAGGSIU2",30,0)
+ . . S MAGGRP=1
+"RTN","MAGGSIU2",31,0)
+ . . I '+MAGGDAT Q  ; making a group entry, with no group entries yet. This is OK.
+"RTN","MAGGSIU2",32,0)
+ . . S MAGCHLD(MAGGDAT)=""
+"RTN","MAGGSIU2",33,0)
+ . . S GRPCT=GRPCT+1
+"RTN","MAGGSIU2",34,0)
+ . . S MAGGFDA(2005.04,"+"_GRPCT_",+1,",.01)=MAGGDAT
+"RTN","MAGGSIU2",35,0)
+ . ;
+"RTN","MAGGSIU2",36,0)
+ . ; if we are getting a WP for Long Desc, set array to pass.
+"RTN","MAGGSIU2",37,0)
+ . I MAGGFLD=11 D  ; this is one line of the WP Long Desc field.
+"RTN","MAGGSIU2",38,0)
+ . . S WPCT=WPCT+1,MAGGWP(WPCT)=MAGGDAT
+"RTN","MAGGSIU2",39,0)
+ . . S MAGGFDA(2005,"+1,",11)="MAGGWP"
+"RTN","MAGGSIU2",40,0)
+ . ;  Set the Node for the UPDATE^DIC Call.
+"RTN","MAGGSIU2",41,0)
+ . S MAGGFDA(2005,"+1,",MAGGFLD)=MAGGDAT
+"RTN","MAGGSIU2",42,0)
+ . Q
+"RTN","MAGGSIU2",43,0)
+ ; Patch 8.  Special processing for field 107 (ACQUISITION DEVICE)
+"RTN","MAGGSIU2",44,0)
+ ;  We'll change any MAGGFDA(2005,"+1,",107) to MAGACT("ACQD")
+"RTN","MAGGSIU2",45,0)
+ ;  This way the PRE processing of the array will check and create a new
+"RTN","MAGGSIU2",46,0)
+ ;  ACQUISITION DEVICE file entry, if needed. 
+"RTN","MAGGSIU2",47,0)
+ I $D(MAGACT("107")) S MAGACT("ACQD")=MAGACT("107") K MAGACT("107")
+"RTN","MAGGSIU2",48,0)
+ I $D(MAGGFDA(2005,"+1,",107)) S MAGACT("ACQD")=MAGGFDA(2005,"+1,",107) K MAGGFDA(2005,"+1,",107)
+"RTN","MAGGSIU2",49,0)
+ Q
+"RTN","MAGGSIU2",50,0)
+REQPARAM() ;Do required parameters have values. Called from MAGGSIUI
+"RTN","MAGGSIU2",51,0)
+ ; VARIABLES ARE SET AND KILLED IN THAT ROUTINE.  
+"RTN","MAGGSIU2",52,0)
+ N CT
+"RTN","MAGGSIU2",53,0)
+ S CT=0
+"RTN","MAGGSIU2",54,0)
+ S MAGRY(0)="1^Checking for Required parameter values..."
+"RTN","MAGGSIU2",55,0)
+ I IDFN="" S CT=CT+1,MAGRY(CT)="DFN is Required. !"
+"RTN","MAGGSIU2",56,0)
+ I '$D(IMAGES),'CMTH S CT=CT+1,MAGRY(CT)="List of Images is Required. !"
+"RTN","MAGGSIU2",57,0)
+ ;
+"RTN","MAGGSIU2",58,0)
+ I (PXPKG=""),(DOCCTG=""),(IXTYPE="") S CT=CT+1,MAGRY(CT)="Procedure or Category or Index Type is Required. !"
+"RTN","MAGGSIU2",59,0)
+ I (PXPKG'=""),(DOCCTG'="") S CT=CT+1,MAGRY(CT)="Procedure OR Document Category. Not BOTH. !"
+"RTN","MAGGSIU2",60,0)
+ ;
+"RTN","MAGGSIU2",61,0)
+ I (PXPKG'=""),(PXIEN="") S CT=CT+1,MAGRY(CT)="Procedure IEN is Required. !"
+"RTN","MAGGSIU2",62,0)
+ I (PXPKG=""),(PXIEN'="") S CT=CT+1,MAGRY(CT)="Procedure Package is Required. !"
+"RTN","MAGGSIU2",63,0)
+ I (PXPKG'=""),(PXDT="") S CT=CT+1,MAGRY(CT)="Procedure Date is Required. !"
+"RTN","MAGGSIU2",64,0)
+ ;
+"RTN","MAGGSIU2",65,0)
+ ;Patch 8 index field check... could be using Patch 7 or Patch 8.
+"RTN","MAGGSIU2",66,0)
+ ;  We're this far, so either PXIEN or DOCCTG is defined
+"RTN","MAGGSIU2",67,0)
+ I (IXTYPE'=""),(DOCCTG'="") S CT=CT+1,MAGRY(CT)="Image Type OR Document Category. Not BOTH. !"
+"RTN","MAGGSIU2",68,0)
+ ; MAGGSIA computes PACKAGE #40 and CLASS #41 when adding an Image (2005) entry.
+"RTN","MAGGSIU2",69,0)
+ ;
+"RTN","MAGGSIU2",70,0)
+ I TRKID="" S CT=CT+1,MAGRY(CT)="Tracking ID is Required. !"
+"RTN","MAGGSIU2",71,0)
+ I ACQD="" S CT=CT+1,MAGRY(CT)="Acquisition Device is Required. !"
+"RTN","MAGGSIU2",72,0)
+ ;   ACQS ( could ? ) default to users institution i.e. DUZ(2)
+"RTN","MAGGSIU2",73,0)
+ I (ACQS="")&(ACQN="") S CT=CT+1,MAGRY(CT)="Acquisition Site IEN or Station Number is Required. !"
+"RTN","MAGGSIU2",74,0)
+ I (ACQS]"")&(ACQN]"") S CT=CT+1,MAGRY(CT)="Station IEN or Station Number, Not BOTH. !"
+"RTN","MAGGSIU2",75,0)
+ ;
+"RTN","MAGGSIU2",76,0)
+ I STSCB="" S CT=CT+1,MAGRY(CT)="Status Handler (TAG^ROUTINE) is Required. !"
+"RTN","MAGGSIU2",77,0)
+ ;
+"RTN","MAGGSIU2",78,0)
+ I (DOCCTG'=""),(DOCDT="") S CT=CT+1,MAGRY(CT)="Document Date is Required. !"
+"RTN","MAGGSIU2",79,0)
+ ;
+"RTN","MAGGSIU2",80,0)
+ I (CT>0) S MAGRY(0)="0^Required parameter is null" Q MAGRY(0)
+"RTN","MAGGSIU2",81,0)
+ ;Checks to stop Duplicate or incorrect Tracking ID's
+"RTN","MAGGSIU2",82,0)
+ ;  //TODO: ?? check the Queue File, is this Tracking ID already Queued.
+"RTN","MAGGSIU2",83,0)
+ I (TRKID'="") I $D(^MAG(2005,"ATRKID",TRKID)) S MAGRY(0)="0^Tracking ID Must be Unique !"
+"RTN","MAGGSIU2",84,0)
+ I (TRKID'="") I ($L(TRKID,";")<2) S MAGRY(0)="0^Tracking ID Must have "";"" Delimiter"
+"RTN","MAGGSIU2",85,0)
+ ;
+"RTN","MAGGSIU2",86,0)
+ Q MAGRY(0)
+"RTN","MAGGSIUI")
+0^11^B43724945
+"RTN","MAGGSIUI",1,0)
+MAGGSIUI ;WOIFO/GEK - Utilities for Image Import API
+"RTN","MAGGSIUI",2,0)
+ ;;3.0;IMAGING;**7,8,48,20,85**;16-March-2007;;Build 1039
+"RTN","MAGGSIUI",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGGSIUI",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIUI",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGSIUI",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGSIUI",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGSIUI",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGSIUI",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGSIUI",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGSIUI",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGSIUI",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGSIUI",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGSIUI",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGSIUI",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGSIUI",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGSIUI",17,0)
+ ;;
+"RTN","MAGGSIUI",18,0)
+ Q
+"RTN","MAGGSIUI",19,0)
+REMOTE(MAGRY,MAGDATA) ;RPC [MAG4 REMOTE IMPORT]
+"RTN","MAGGSIUI",20,0)
+ ; Import Images from a Windows App, by sending an array.
+"RTN","MAGGSIUI",21,0)
+ I ($D(MAGDATA)<10) S MAGRY(0)="0^Missing Data Array !." Q
+"RTN","MAGGSIUI",22,0)
+ N I,J,ICT,DCT,MAGIX,IMAGES,ERR,X,Z
+"RTN","MAGGSIUI",23,0)
+ S (ERR,ICT,DCT)=0
+"RTN","MAGGSIUI",24,0)
+ S I="" F  S I=$O(MAGDATA(I)) Q:I=""  S X=MAGDATA(I) D  Q:ERR
+"RTN","MAGGSIUI",25,0)
+ . S Z=$P(X,U)
+"RTN","MAGGSIUI",26,0)
+ . I (X="")!(Z="") S MAGRY(0)="0^INVALID Data in Input Array: Node "_I_"="""_X_"",ERR=1 Q
+"RTN","MAGGSIUI",27,0)
+ . I Z="IMAGE" S ICT=ICT+1,IMAGES(ICT)=$P(X,U,2,99) Q
+"RTN","MAGGSIUI",28,0)
+ . S DCT=DCT+1,MAGIX(Z)=$P(X,U,2,99)
+"RTN","MAGGSIUI",29,0)
+ I 'ERR D IMPORT(.MAGRY,.IMAGES,.MAGIX)
+"RTN","MAGGSIUI",30,0)
+ Q
+"RTN","MAGGSIUI",31,0)
+ ;
+"RTN","MAGGSIUI",32,0)
+IMPORT(MAGRY,IMAGES,MAGIX) ;
+"RTN","MAGGSIUI",33,0)
+ ; "IDFN","PXPKG","PXIEN","PXDT","TRKID","ACQD","ACQS","ACQL","STSCB","ITYPE",
+"RTN","MAGGSIUI",34,0)
+ ;        "CMTH","CDUZ","USERNAME","PASSWORD","GDESC","DFLG","TRTYPE","DOCCTG","DOCDT",
+"RTN","MAGGSIUI",35,0)
+ ;        "IXTYPE","IXSPEC","IXPROC","IXORIGIN    ;Patch 8: Added Index fields
+"RTN","MAGGSIUI",36,0)
+ ;
+"RTN","MAGGSIUI",37,0)
+ ;Index fields Package, Class ("IXPKG" and "IXCLS") aren't accepted
+"RTN","MAGGSIUI",38,0)
+ ;    they are computed values.
+"RTN","MAGGSIUI",39,0)
+ ; - Convert field codes into an Input Data Array,
+"RTN","MAGGSIUI",40,0)
+ ;   validate, then set the Import Queue
+"RTN","MAGGSIUI",41,0)
+ ;
+"RTN","MAGGSIUI",42,0)
+ N $ETRAP,$ESTACK S $ETRAP="D ERR^"_$T(+0)
+"RTN","MAGGSIUI",43,0)
+ K MAGRY S MAGRY(0)="0^Importing data..."
+"RTN","MAGGSIUI",44,0)
+ N APISESS,MWIN
+"RTN","MAGGSIUI",45,0)
+ S MWIN=$$BROKER^XWBLIB
+"RTN","MAGGSIUI",46,0)
+ N PRM,CT,MAGA,MAGY,MAGTN,TNODE
+"RTN","MAGGSIUI",47,0)
+ N IDFN,PXPKG,PXIEN,PXDT,TRKID,ACQD,ACQS,ACQN,ACQL,STSCB,ITYPE,CMTH,CDUZ,USERNAME,PASSWORD
+"RTN","MAGGSIUI",48,0)
+ N GDESC,DFLG,TRTYPE,DOCCTG,DOCDT,IXPKG,IXCLS,IXTYPE,IXSPEC,IXPROC,IXORIGIN,MAX,SITEPLC
+"RTN","MAGGSIUI",49,0)
+ N ERR,MAGTM,QTIME,MAGIXZ
+"RTN","MAGGSIUI",50,0)
+ S CT=0,ERR=0
+"RTN","MAGGSIUI",51,0)
+ M MAGIXZ=MAGIX
+"RTN","MAGGSIUI",52,0)
+ ;  DON'T CONVERT ACQS(really a ACQN) to a REAL ACQS, leave it ACQS to be converted by MAGGSIV
+"RTN","MAGGSIUI",53,0)
+ ; 
+"RTN","MAGGSIUI",54,0)
+ F PRM="IDFN","PXPKG","PXIEN","PXDT","TRKID","ACQD","ACQS","ACQN","ACQL","STSCB","ITYPE","CMTH","CDUZ","USERNAME","PASSWORD","GDESC","DFLG","TRTYPE","DOCCTG","DOCDT","IXTYPE","IXSPEC","IXPROC","IXORIGIN" D
+"RTN","MAGGSIUI",55,0)
+ . S @PRM=$G(MAGIX(PRM)) K MAGIX(PRM) ; P8T14 added K.. and next line to account for field numbers later.
+"RTN","MAGGSIUI",56,0)
+ . Q
+"RTN","MAGGSIUI",57,0)
+ S PRM="" F  S PRM=$O(MAGIX(PRM)) Q:PRM=""  D SA(PRM,$G(MAGIX(PRM)))
+"RTN","MAGGSIUI",58,0)
+ ;
+"RTN","MAGGSIUI",59,0)
+ S MAGTM=$$NOW^XLFDT
+"RTN","MAGGSIUI",60,0)
+ I '$G(DUZ) S MAGRY(0)="0^DUZ is undefined." Q  ;D ERRTRK Q
+"RTN","MAGGSIUI",61,0)
+ ; DATATRK sets Global var. APISESS  = IEN of Session File.
+"RTN","MAGGSIUI",62,0)
+ D DATATRK
+"RTN","MAGGSIUI",63,0)
+ I '$$REQPARAM^MAGGSIU2() D ERRTRK Q
+"RTN","MAGGSIUI",64,0)
+ S MAX=$P(TRKID,";",1)="MAX"
+"RTN","MAGGSIUI",65,0)
+ ;I 'MWIN W !,"----------------" ZW  W !,"---------------------"
+"RTN","MAGGSIUI",66,0)
+ ; Workaround VIC (Maximus) is sending Station Number 
+"RTN","MAGGSIUI",67,0)
+ ; we'll convert to Institution IEN
+"RTN","MAGGSIUI",68,0)
+ I MAX&(ACQS]"") D  Q:ERR
+"RTN","MAGGSIUI",69,0)
+ . S X=$O(^DIC(4,"D",ACQS,""))
+"RTN","MAGGSIUI",70,0)
+ . I X="" S MAGRY(0)="0^Invalid Station Number:(Maximus ACQS): "_ACQS,ERR=1 Q
+"RTN","MAGGSIUI",71,0)
+ . S SITEPLC=X ; We need the Place for the Queue
+"RTN","MAGGSIUI",72,0)
+ . ;S ACQS=X  Out in 85. Don't change to ACQS, that's done in VAL^MAGGSIV
+"RTN","MAGGSIUI",73,0)
+ . Q
+"RTN","MAGGSIUI",74,0)
+ ; Change to Allow ACQN - STATION NUMBER from INSTITUTION File.
+"RTN","MAGGSIUI",75,0)
+ I $L(ACQN) D  Q:ERR
+"RTN","MAGGSIUI",76,0)
+ . S ACQS=$O(^DIC(4,"D",ACQN,""))
+"RTN","MAGGSIUI",77,0)
+ . I ACQS="" S MAGRY(0)="0^Invalid STATION NUMBER: (ACQN): "_ACQN,ERR=1 Q
+"RTN","MAGGSIUI",78,0)
+ . ; VAL^MAGGSIV Will fail if ACQS is real and this is Maximus 
+"RTN","MAGGSIUI",79,0)
+ . I MAX S ACQS=ACQN K ACQN Q
+"RTN","MAGGSIUI",80,0)
+ . S ACQN="" ;We converted to ACQS, lets make "" so no confusion later.
+"RTN","MAGGSIUI",81,0)
+ . Q
+"RTN","MAGGSIUI",82,0)
+ ;
+"RTN","MAGGSIUI",83,0)
+ ; Set the input data array
+"RTN","MAGGSIUI",84,0)
+ D SA(5,IDFN)    ;PATIENT
+"RTN","MAGGSIUI",85,0)
+ D SA(16,PXPKG)   ;PARENT DATA FILE
+"RTN","MAGGSIUI",86,0)
+ D SA(17,PXIEN) ;PARENT GLOBAL ROOT
+"RTN","MAGGSIUI",87,0)
+ D SA(15,PXDT)   ; PROCEDURE/EXAM DATE/TIME
+"RTN","MAGGSIUI",88,0)
+ D SA(108,TRKID) ; TRACKING ID (new)
+"RTN","MAGGSIUI",89,0)
+ D SA("ACQD",ACQD)  ; ACQUISTION DEVICE ( new )
+"RTN","MAGGSIUI",90,0)
+ I 'MAX S SITEPLC=ACQS D SA(.05,ACQS) ; this used to be fld 105
+"RTN","MAGGSIUI",91,0)
+ D SA(101,ACQL)
+"RTN","MAGGSIUI",92,0)
+ D SA("STATUSCB",STSCB)  ; STATUS CALLBACK  (was referred to as ExceptionHandler)
+"RTN","MAGGSIUI",93,0)
+ D SA(3,ITYPE)   ; OBJECT TYPE
+"RTN","MAGGSIUI",94,0)
+ D SA("CALLMTH",CMTH)     ; CALL METHOD
+"RTN","MAGGSIUI",95,0)
+ D SA(8,CDUZ)    ; IMAGE SAVE BY
+"RTN","MAGGSIUI",96,0)
+ D SA("USERNAME",USERNAME)
+"RTN","MAGGSIUI",97,0)
+ D SA("PASSWORD",PASSWORD)
+"RTN","MAGGSIUI",98,0)
+ D SA(10,GDESC)  ; SHORT DESCRIPTION
+"RTN","MAGGSIUI",99,0)
+ D SA("DELFLAG",DFLG)    ; DELETE FLAG
+"RTN","MAGGSIUI",100,0)
+ D SA("TRNSTYP",TRTYPE)  ; TRANSACTION TYPE
+"RTN","MAGGSIUI",101,0)
+ D SA(100,DOCCTG) ;  document Main category
+"RTN","MAGGSIUI",102,0)
+ D SA(110,DOCDT)     ;  document date
+"RTN","MAGGSIUI",103,0)
+ ; Patch 8 allows Index fields to be imported.
+"RTN","MAGGSIUI",104,0)
+ ;"IXTYPE","IXSPEC","IXPROC","IXORIGIN"
+"RTN","MAGGSIUI",105,0)
+ D SA(42,IXTYPE)     ;  Index Type
+"RTN","MAGGSIUI",106,0)
+ D SA(43,IXPROC)     ;  Index Proc/Event
+"RTN","MAGGSIUI",107,0)
+ D SA(44,IXSPEC)     ;  Index Spec/SubSpec
+"RTN","MAGGSIUI",108,0)
+ D SA(45,IXORIGIN)         ;  Index Origin
+"RTN","MAGGSIUI",109,0)
+ ;
+"RTN","MAGGSIUI",110,0)
+ D VAL^MAGGSIV(.MAGRY,.MAGA,1) I 'MAGRY(0) D ERRTRK Q
+"RTN","MAGGSIUI",111,0)
+ I MAX D SA(.05,ACQS) ; this used to be fld 105
+"RTN","MAGGSIUI",112,0)
+ ; Also Done in MAGGSIA when image is being Saved.
+"RTN","MAGGSIUI",113,0)
+ I '$$VALINDEX^MAGGSIV1(.MAGRY,IXTYPE,IXSPEC,IXPROC) D ERRTRK Q
+"RTN","MAGGSIUI",114,0)
+ ;   Array of Images to Import
+"RTN","MAGGSIUI",115,0)
+ D SI("IMAGES",.IMAGES) I 'MAGRY(0) D ERRTRK Q
+"RTN","MAGGSIUI",116,0)
+ K MAGRY
+"RTN","MAGGSIUI",117,0)
+ ;
+"RTN","MAGGSIUI",118,0)
+ I TRTYPE="NOQUEUE" M MAGRY=MAGA S MAGRY(0)="1^" Q
+"RTN","MAGGSIUI",119,0)
+ ; This call is for BP
+"RTN","MAGGSIUI",120,0)
+ S QTIME=$$NOW^XLFDT
+"RTN","MAGGSIUI",121,0)
+ ; p85 use ACQS instead of DUZ(2)
+"RTN","MAGGSIUI",122,0)
+ S MAGY=$$IMPORT^MAGBAPI(.MAGA,STSCB,TRKID,$$PLACE^MAGBAPI(SITEPLC))
+"RTN","MAGGSIUI",123,0)
+ ; Return Queue Number
+"RTN","MAGGSIUI",124,0)
+ I 'MAGY S MAGRY(0)="0^Error Setting Queue: "_$P(MAGY,U,2),MAGY=TRKID
+"RTN","MAGGSIUI",125,0)
+ E  S MAGRY(0)=MAGY_"^Data has been Queued.",MAGY=+MAGY
+"RTN","MAGGSIUI",126,0)
+ ; for Testing, we'll track input array, and results array by Queue number.
+"RTN","MAGGSIUI",127,0)
+ I 'MAGRY(0) D ERRTRK Q
+"RTN","MAGGSIUI",128,0)
+ D LOGRES^MAGGSIU3(.MAGRY,0,APISESS)
+"RTN","MAGGSIUI",129,0)
+ ;
+"RTN","MAGGSIUI",130,0)
+ Q
+"RTN","MAGGSIUI",131,0)
+ ;
+"RTN","MAGGSIUI",132,0)
+SA(FLD,VAL) ;Set the data array with Fld,Value
+"RTN","MAGGSIUI",133,0)
+ Q:VAL=""
+"RTN","MAGGSIUI",134,0)
+ S CT=CT+1,MAGA(CT)=FLD_U_VAL
+"RTN","MAGGSIUI",135,0)
+ Q
+"RTN","MAGGSIUI",136,0)
+SI(FLD,ARR) ;Set the images into the data array
+"RTN","MAGGSIUI",137,0)
+ ; 'CT' is a global variable.
+"RTN","MAGGSIUI",138,0)
+ S MAGRY(0)="1^Valid Image file Extensions."
+"RTN","MAGGSIUI",139,0)
+ N I,MAGEXT,MAGFN
+"RTN","MAGGSIUI",140,0)
+ S I="" F  S I=$O(ARR(I)) Q:I=""  D  Q:'MAGRY(0)
+"RTN","MAGGSIUI",141,0)
+ . S CT=CT+1
+"RTN","MAGGSIUI",142,0)
+ . I ($L($P(ARR(I),U),".")<2) S MAGRY(0)="0^Invalid file name: "_ARR(I) Q
+"RTN","MAGGSIUI",143,0)
+ . S MAGFN=$P(ARR(I),"^")
+"RTN","MAGGSIUI",144,0)
+ . S MAGEXT=$$UP^XLFSTR($P(MAGFN,".",$L(MAGFN,".")))
+"RTN","MAGGSIUI",145,0)
+ . I '$D(^MAG(2005.021,"B",MAGEXT)) S MAGRY(0)="0^Unsupported File Type:'."_MAGEXT Q
+"RTN","MAGGSIUI",146,0)
+ . S MAGA(CT)="IMAGE"_U_ARR(I)
+"RTN","MAGGSIUI",147,0)
+ Q
+"RTN","MAGGSIUI",148,0)
+GETARR(ARR,QNUM) ;RPC [MAG4 DATA FROM IMPORT QUEUE]
+"RTN","MAGGSIUI",149,0)
+ ; Get the Input Array from Queue Number
+"RTN","MAGGSIUI",150,0)
+ I '$G(QNUM) S ARR(0)="0^INVALID QUEUE Number: "_$G(QNUM) Q
+"RTN","MAGGSIUI",151,0)
+ D IMPAR^MAGQBUT2(.ARR,QNUM)
+"RTN","MAGGSIUI",152,0)
+ Q
+"RTN","MAGGSIUI",153,0)
+STATUSCB(MAGRY,STAT,TAGRTN,DOCB) ;RPC [MAG4 STATUS CALLBACK]
+"RTN","MAGGSIUI",154,0)
+ ; Report Status to calling application
+"RTN","MAGGSIUI",155,0)
+ ; Now the IAPI and OCX make this call.  Not BP
+"RTN","MAGGSIUI",156,0)
+ ; STAT(0)= "0^message" or "1^message"
+"RTN","MAGGSIUI",157,0)
+ ; STAT(1)=TRKID,
+"RTN","MAGGSIUI",158,0)
+ ;        (2)=QNUM
+"RTN","MAGGSIUI",159,0)
+ ;        (3..N)=warnings
+"RTN","MAGGSIUI",160,0)
+ ;TAGRTN                 : The TAG^RTN to call with Status Array
+"RTN","MAGGSIUI",161,0)
+ ;DOCB                   : (1|0) to suppress execution of Status Callback
+"RTN","MAGGSIUI",162,0)
+ ; 
+"RTN","MAGGSIUI",163,0)
+ N APISESS,TRKID,CBMSG
+"RTN","MAGGSIUI",164,0)
+ S DOCB=$S($G(DOCB)="":1,1:+$G(DOCB)) ;  Default to TRUE
+"RTN","MAGGSIUI",165,0)
+ ; Old Import API and BP that made this call, will work : DOCB defaults to 1
+"RTN","MAGGSIUI",166,0)
+ S CBMSG=$S(DOCB:"Status Callback was called",1:"Status Callback was NOT called")
+"RTN","MAGGSIUI",167,0)
+ I DOCB D @(TAGRTN_"(.STAT)")
+"RTN","MAGGSIUI",168,0)
+ S MAGRY="1^"_CBMSG
+"RTN","MAGGSIUI",169,0)
+ S STAT($O(STAT(""),-1)+1)=MAGRY
+"RTN","MAGGSIUI",170,0)
+ S TRKID=$G(STAT(1))
+"RTN","MAGGSIUI",171,0)
+ ; Log Results. Always.
+"RTN","MAGGSIUI",172,0)
+ I $L(TRKID) D
+"RTN","MAGGSIUI",173,0)
+ . S APISESS=$$SES4TRK^MAGGSIU3(TRKID) ;
+"RTN","MAGGSIUI",174,0)
+ . I APISESS D LOGRES^MAGGSIU3(.STAT,0,APISESS) ;gek/send Tracking ID to log status
+"RTN","MAGGSIUI",175,0)
+ Q
+"RTN","MAGGSIUI",176,0)
+TESTCB(STATARR) ;TESTING.  This is the Status Callback for testing.
+"RTN","MAGGSIUI",177,0)
+ ; the STATUSCB property must have a Valid "M" TAG^ROUTINE
+"RTN","MAGGSIUI",178,0)
+ ; TAG TESTCB exists so that STATUSCB validates successfully
+"RTN","MAGGSIUI",179,0)
+ Q
+"RTN","MAGGSIUI",180,0)
+ERRTRK ;Track bad data and Quit
+"RTN","MAGGSIUI",181,0)
+ N I
+"RTN","MAGGSIUI",182,0)
+ D LOGERR^MAGGSERR("---- New Error ----",APISESS)
+"RTN","MAGGSIUI",183,0)
+ S I="" F  S I=$O(MAGRY(I)) Q:I=""  D LOGERR^MAGGSERR(MAGRY(I),APISESS)
+"RTN","MAGGSIUI",184,0)
+ Q
+"RTN","MAGGSIUI",185,0)
+DATATRK ; Track the raw data being sent to the Import API.
+"RTN","MAGGSIUI",186,0)
+ ; Log the data being imported.  Results are logged later.
+"RTN","MAGGSIUI",187,0)
+ N XY
+"RTN","MAGGSIUI",188,0)
+ S APISESS=$$LOG^MAGGSIU3(.XY,.MAGIXZ,.IMAGES,IDFN,ACQD,TRKID)
+"RTN","MAGGSIUI",189,0)
+ Q
+"RTN","MAGGSIUI",190,0)
+ERR ; ERROR TRAP FOR Import API
+"RTN","MAGGSIUI",191,0)
+ N ERR S ERR=$$EC^%ZOSV
+"RTN","MAGGSIUI",192,0)
+ S MAGRY(0)="0^ETRAP: "_ERR
+"RTN","MAGGSIUI",193,0)
+ D @^%ZOSF("ERRTN")
+"RTN","MAGGSIUI",194,0)
+ I $G(APISESS) D ERRTRK
+"RTN","MAGGSIUI",195,0)
+ Q
+"RTN","MAGGTU1")
+0^12^B7213091
+"RTN","MAGGTU1",1,0)
+MAGGTU1 ;WOIFO/GEK - Silent Utilities ; [ 06/20/2001 08:57 ]
+"RTN","MAGGTU1",2,0)
+ ;;3.0;IMAGING;**3,8,85**;16-March-2007;;Build 1039
+"RTN","MAGGTU1",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGGTU1",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTU1",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGGTU1",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGGTU1",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGGTU1",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGGTU1",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGGTU1",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGGTU1",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGGTU1",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGGTU1",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGGTU1",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGGTU1",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGGTU1",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGGTU1",17,0)
+ ;;
+"RTN","MAGGTU1",18,0)
+ Q
+"RTN","MAGGTU1",19,0)
+DRIVE(X,SITE) ; Get the current drive for writing an image
+"RTN","MAGGTU1",20,0)
+ ; Copied from MAGFILE and edited for silent running, made extrinsic.
+"RTN","MAGGTU1",21,0)
+ ; X : The Network Location to Write to.  Dicom Gateway sends this.
+"RTN","MAGGTU1",22,0)
+ ; IF 'X then use DUZ(2) to find IMAGE NETWORK WRITE LOCATION.
+"RTN","MAGGTU1",23,0)
+ ; P 85, Enable writing to any valid site. Not Just Duz(2)
+"RTN","MAGGTU1",24,0)
+ ; SITE : The Site to Write to.  Import API now sends this.
+"RTN","MAGGTU1",25,0)
+ ; 
+"RTN","MAGGTU1",26,0)
+ ;
+"RTN","MAGGTU1",27,0)
+ N Z,MAGREF,MAGREFNM,MAGDRIVE,MAGPLC
+"RTN","MAGGTU1",28,0)
+ S SITE=$S($G(SITE):SITE,1:$G(DUZ(2)))
+"RTN","MAGGTU1",29,0)
+ S MAGPLC=$$PLACE^MAGBAPI(SITE) ;pre-patch 85 was DUZ(2)
+"RTN","MAGGTU1",30,0)
+ S MAGREF=$G(X)
+"RTN","MAGGTU1",31,0)
+ I $G(MAGWRITE)="PACS" S MAGREF=$$GET1^DIQ(2006.1,MAGPLC,1.03,"I") ; DBI 9/20/02 - SEB
+"RTN","MAGGTU1",32,0)
+ I 'MAGREF S MAGREF=$$GET1^DIQ(2006.1,MAGPLC,.03,"I") ; DBI 9/20/02 - SEB
+"RTN","MAGGTU1",33,0)
+ I MAGREF="" D  Q Z
+"RTN","MAGGTU1",34,0)
+ . S Z="0^NEED WRITE LOCATION in SITE Parameters file!!! Call IRM"
+"RTN","MAGGTU1",35,0)
+ ;
+"RTN","MAGGTU1",36,0)
+ I '$P(^MAG(2005.2,MAGREF,0),"^",6) D  Q Z
+"RTN","MAGGTU1",37,0)
+ . S Z="0^The Server that you are writing to is off-line.  Call IRM"
+"RTN","MAGGTU1",38,0)
+ ;
+"RTN","MAGGTU1",39,0)
+ S MAGREFNM=$P(^MAG(2005.2,MAGREF,0),"^",1),MAGDRIVE=$P(^(0),"^",2)
+"RTN","MAGGTU1",40,0)
+ Q MAGREF_U_MAGDRIVE
+"RTN","MAGGTU1",41,0)
+ ;
+"RTN","MAGGTU1",42,0)
+DA2NAME(IEN,SUF) ; Return file name with extension 
+"RTN","MAGGTU1",43,0)
+ ;  SUF should always be defined, but default to .TIF if not.
+"RTN","MAGGTU1",44,0)
+ N PRE,FILE,CMPF,MAGPLC
+"RTN","MAGGTU1",45,0)
+ S MAGPLC=$$DA2PLC^MAGBAPIP(IEN,"F")
+"RTN","MAGGTU1",46,0)
+ S SUF=$S($L($G(SUF)):SUF,1:"TIF")
+"RTN","MAGGTU1",47,0)
+ S PRE=$$GET1^DIQ(2006.1,MAGPLC,.02,"E") ; gek DBI
+"RTN","MAGGTU1",48,0)
+ ;S PRE=$G(^MAG(2006.1,"ALTR"))
+"RTN","MAGGTU1",49,0)
+ I '$L(PRE) Q "0^Need Site Specific LETTERS in Site Parameters File"
+"RTN","MAGGTU1",50,0)
+ ;
+"RTN","MAGGTU1",51,0)
+ S FILE=PRE_IEN
+"RTN","MAGGTU1",52,0)
+ ; Design of Patch 3 was changed to only return 14 digit file names.
+"RTN","MAGGTU1",53,0)
+ ; 08/02/2002 Patch 3,8 force 14.3 file name convention
+"RTN","MAGGTU1",54,0)
+ I ($L(FILE)<14) S FILE=PRE_$E(10000000000000+IEN,$L(PRE)+1,14)
+"RTN","MAGGTU1",55,0)
+ Q "1^"_FILE_"."_SUF
+"RTN","MAGIPS85")
+0^^B10553074
+"RTN","MAGIPS85",1,0)
+MAGIPS85 ;Post init routine to queue site activity at install. ; 02/15/2007 11:00
+"RTN","MAGIPS85",2,0)
+ ;;3.0;IMAGING;**85**;16-March-2007;;Build 1039
+"RTN","MAGIPS85",3,0)
+ ;; Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","MAGIPS85",4,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS85",5,0)
+ ;; | Property of the US Government.                                |
+"RTN","MAGIPS85",6,0)
+ ;; | No permission to copy or redistribute this software is given. |
+"RTN","MAGIPS85",7,0)
+ ;; | Use of unreleased versions of this software requires the user |
+"RTN","MAGIPS85",8,0)
+ ;; | to execute a written test agreement with the VistA Imaging    |
+"RTN","MAGIPS85",9,0)
+ ;; | Development Office of the Department of Veterans Affairs,     |
+"RTN","MAGIPS85",10,0)
+ ;; | telephone (301) 734-0100.                                     |
+"RTN","MAGIPS85",11,0)
+ ;; | The Food and Drug Administration classifies this software as  |
+"RTN","MAGIPS85",12,0)
+ ;; | a medical device.  As such, it may not be changed in any way. |
+"RTN","MAGIPS85",13,0)
+ ;; | Modifications to this software may result in an adulterated   |
+"RTN","MAGIPS85",14,0)
+ ;; | medical device under 21CFR820, the use of which is considered |
+"RTN","MAGIPS85",15,0)
+ ;; | to be a violation of US Federal Statutes.                     |
+"RTN","MAGIPS85",16,0)
+ ;; +---------------------------------------------------------------+
+"RTN","MAGIPS85",17,0)
+ ;;
+"RTN","MAGIPS85",18,0)
+ Q
+"RTN","MAGIPS85",19,0)
+ ;
+"RTN","MAGIPS85",20,0)
+PRE ;
+"RTN","MAGIPS85",21,0)
+ N DIU
+"RTN","MAGIPS85",22,0)
+ ; Remove obsolete DD definitions
+"RTN","MAGIPS85",23,0)
+ S DIU=2006.56,DIU(0)="" D EN^DIU2
+"RTN","MAGIPS85",24,0)
+ ; File-root can be left.
+"RTN","MAGIPS85",25,0)
+ Q
+"RTN","MAGIPS85",26,0)
+ ;
+"RTN","MAGIPS85",27,0)
+POST ;
+"RTN","MAGIPS85",28,0)
+ N DIU
+"RTN","MAGIPS85",29,0)
+ ; Remove file # 2006.589
+"RTN","MAGIPS85",30,0)
+ S DIU=2006.589,DIU(0)="" D EN^DIU2
+"RTN","MAGIPS85",31,0)
+ K ^MAGDICOM(2006.589)
+"RTN","MAGIPS85",32,0)
+ ;
+"RTN","MAGIPS85",33,0)
+ D  ; Confirmation message
+"RTN","MAGIPS85",34,0)
+ . N CT,CNT,D,D0,D1,D2,DDATE,DG,DIC,DICR,DIW,MAGMSG,ST,XMID,XMY
+"RTN","MAGIPS85",35,0)
+ . ;
+"RTN","MAGIPS85",36,0)
+ . D GETENV^%ZOSV
+"RTN","MAGIPS85",37,0)
+ . S CNT=0
+"RTN","MAGIPS85",38,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="PACKAGE INSTALL"
+"RTN","MAGIPS85",39,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="SITE: "_$$KSP^XUPARAM("WHERE")
+"RTN","MAGIPS85",40,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="PACKAGE: "_XPDNM
+"RTN","MAGIPS85",41,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Version: "_$$VER^XPDUTL(XPDNM)
+"RTN","MAGIPS85",42,0)
+ . S ST=$$GET1^DIQ(9.7,XPDA,11,"I")
+"RTN","MAGIPS85",43,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Start time: "_$$FMTE^XLFDT(ST)
+"RTN","MAGIPS85",44,0)
+ . S CT=$$GET1^DIQ(9.7,XPDA,17,"I") S:+CT'=CT CT=$$NOW^XLFDT()
+"RTN","MAGIPS85",45,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Completion time: "_$$FMTE^XLFDT(CT)
+"RTN","MAGIPS85",46,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Run time: "_$$FMDIFF^XLFDT(CT,ST,3)
+"RTN","MAGIPS85",47,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Environment: "_Y
+"RTN","MAGIPS85",48,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="FILE COMMENT: "_$$GET1^DIQ(9.7,XPDA,6,"I")
+"RTN","MAGIPS85",49,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="DATE: "_$$NOW^XLFDT()
+"RTN","MAGIPS85",50,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Installed by: "_$$GET1^DIQ(9.7,XPDA,9,"E")
+"RTN","MAGIPS85",51,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Install Name: "_$$GET1^DIQ(9.7,XPDA,.01,"E")
+"RTN","MAGIPS85",52,0)
+ . S DDATE=$$GET1^DIQ(9.7,XPDA,51,"I")
+"RTN","MAGIPS85",53,0)
+ . S CNT=CNT+1,MAGMSG(CNT)="Distribution Date: "_$$FMTE^XLFDT(DDATE)
+"RTN","MAGIPS85",54,0)
+ . S:$G(CVT)'="" CNT=CNT+1,MAGMSG(CNT)="Conversion time: "_CVT
+"RTN","MAGIPS85",55,0)
+ . S XMSUB=XPDNM_" INSTALLATION"
+"RTN","MAGIPS85",56,0)
+ . S XMID=$G(DUZ) S:'XMID XMID=.5
+"RTN","MAGIPS85",57,0)
+ . S XMY(XMID)=""
+"RTN","MAGIPS85",58,0)
+ . S XMY("G.MAG SERVER")=""
+"RTN","MAGIPS85",59,0)
+ . S:$G(MAGDUZ) XMY(MAGDUZ)=""
+"RTN","MAGIPS85",60,0)
+ . S XMSUB=$E(XMSUB,1,63)
+"RTN","MAGIPS85",61,0)
+ . D SENDMSG^XMXAPI(XMID,XMSUB,"MAGMSG",.XMY,,.XMZ,)
+"RTN","MAGIPS85",62,0)
+ . I $G(XMERR) M XMERR=^TMP("XMERR",$J) S $EC=",U13-Cannot send MailMan message,"
+"RTN","MAGIPS85",63,0)
+ . Q
+"RTN","MAGIPS85",64,0)
+ Q
+"RTN","MAGIPS85",65,0)
+ ;
+"SEC","^DIC",2006.56,2006.56,0,"AUDIT")
+@
+"SEC","^DIC",2006.56,2006.56,0,"DD")
+@
+"SEC","^DIC",2006.56,2006.56,0,"DEL")
+@
+"SEC","^DIC",2006.56,2006.56,0,"LAYGO")
+@
+"SEC","^DIC",2006.56,2006.56,0,"RD")
+@
+"SEC","^DIC",2006.56,2006.56,0,"WR")
+@
+"VER")
+8.0^22.0
+"^DD",2006.56,2006.56,0)
+FIELD^^2^2
+"^DD",2006.56,2006.56,0,"DDA")
+N
+"^DD",2006.56,2006.56,0,"DT")
+3000218
+"^DD",2006.56,2006.56,0,"IX","AC",2006.562,3)
+
+"^DD",2006.56,2006.56,0,"IX","AD",2006.562,4)
+
+"^DD",2006.56,2006.56,0,"IX","AF",2006.562,5)
+
+"^DD",2006.56,2006.56,0,"IX","C",2006.562,.01)
+
+"^DD",2006.56,2006.56,0,"IX","D",2006.562,.01)
+
+"^DD",2006.56,2006.56,0,"IX","E",2006.562,.01)
+
+"^DD",2006.56,2006.56,0,"IX","F",2006.562,11)
+
+"^DD",2006.56,2006.56,0,"IX","S",2006.562,2)
+
+"^DD",2006.56,2006.56,0,"NM","DICOM WORKLIST STUDY")
+
+"^DD",2006.56,2006.56,0,"VRPK")
+MAG
+"^DD",2006.56,2006.56,.01,0)
+DIVISION^RP4'XI^DIC(4,^0;1^S DINUM=X
+"^DD",2006.56,2006.56,.01,1,0)
+^.1^^0
+"^DD",2006.56,2006.56,.01,3)
+Enter the name of the division.
+"^DD",2006.56,2006.56,.01,21,0)
+^^3^3^2990202^^^
+"^DD",2006.56,2006.56,.01,21,1,0)
+The value of this field is a pointer into the INSTITUTION file (#4).
+"^DD",2006.56,2006.56,.01,21,2,0)
+The pointed to location is the division where a study for a patient
+"^DD",2006.56,2006.56,.01,21,3,0)
+is scheduled to be performed.
+"^DD",2006.56,2006.56,.01,"DT")
+2990203
+"^DD",2006.56,2006.56,2,0)
+STUDY^2006.562A^^1;0
+"^DD",2006.56,2006.56,2,21,0)
+^.001^1^1^3060511^^^^
+"^DD",2006.56,2006.56,2,21,1,0)
+This subfile holds the studies for the current division.
+"^DD",2006.56,2006.56,2,"DT")
+2990615
+"^DD",2006.56,2006.562,0)
+STUDY SUB-FIELD^^23^22
+"^DD",2006.56,2006.562,0,"DT")
+3000218
+"^DD",2006.56,2006.562,0,"IX","S",2006.562,2)
+
+"^DD",2006.56,2006.562,0,"NM","STUDY")
+
+"^DD",2006.56,2006.562,0,"UP")
+2006.56
+"^DD",2006.56,2006.562,.01,0)
+SERVICE^RF^^0;1^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.56,2006.562,.01,1,0)
+^.1^^0
+"^DD",2006.56,2006.562,.01,1,1,0)
+2006.56^C^MUMPS
+"^DD",2006.56,2006.562,.01,1,1,1)
+N ACC S ACC=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",3) S:ACC'="" ^MAGDWLST(2006.56,"C",DA(1),X,ACC,DA)=""
+"^DD",2006.56,2006.562,.01,1,1,2)
+N ACC S ACC=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",3) K:ACC'="" ^MAGDWLST(2006.56,"C",DA(1),X,ACC,DA)
+"^DD",2006.56,2006.562,.01,1,1,"%D",0)
+^^1^1^2990312^
+"^DD",2006.56,2006.562,.01,1,1,"%D",1,0)
+This cross reference keeps track of which accession numbers belong to which services.
+"^DD",2006.56,2006.562,.01,1,1,"DT")
+2990312
+"^DD",2006.56,2006.562,.01,1,2,0)
+2006.56^D^MUMPS
+"^DD",2006.56,2006.562,.01,1,2,1)
+N SID S SID=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",4) S:SID'="" ^MAGDWLST(2006.56,"D",DA(1),X,SID,DA)=""
+"^DD",2006.56,2006.562,.01,1,2,2)
+N SID S SID=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",4) K:SID'="" ^MAGDWLST(2006.56,"D",DA(1),X,SID,DA)
+"^DD",2006.56,2006.562,.01,1,2,"%D",0)
+^^1^1^2990312^
+"^DD",2006.56,2006.562,.01,1,2,"%D",1,0)
+This cross reference keeps track of which study-IDs belong to which services.
+"^DD",2006.56,2006.562,.01,1,2,"DT")
+2990312
+"^DD",2006.56,2006.562,.01,1,3,0)
+2006.56^E^MUMPS
+"^DD",2006.56,2006.562,.01,1,3,1)
+N MOD,TIM,Z S Z=$G(^MAGDWLST(2006.56,DA(1),1,DA,0)),MOD=$P(Z,"^",10),TIM=$P(X,"^",5) I MOD'="",TIM'="" S ^MAGDWLST(2006.56,"E",DA(1),X,MOD,TIM,DA)=""
+"^DD",2006.56,2006.562,.01,1,3,2)
+N MOD,TIM,Z S Z=$G(^MAGDWLST(2006.56,DA(1),1,DA,0)),MOD=$P(Z,"^",10),TIM=$P(X,"^",5) I MOD'="",TIM'="" K ^MAGDWLST(2006.56,"E",DA(1),X,MOD,TIM,DA)
+"^DD",2006.56,2006.562,.01,1,3,"%D",0)
+^^1^1^2990312^^
+"^DD",2006.56,2006.562,.01,1,3,"%D",1,0)
+This cross reference keeps track of which modalities perform which services, and when these services are scheduled.
+"^DD",2006.56,2006.562,.01,1,3,"DT")
+2990312
+"^DD",2006.56,2006.562,.01,3)
+Enter the name of a service
+"^DD",2006.56,2006.562,.01,21,0)
+^.001^2^2^3021105^^^^
+"^DD",2006.56,2006.562,.01,21,1,0)
+The value of this field identifies the service to be
+"^DD",2006.56,2006.562,.01,21,2,0)
+performed for the patient.
+"^DD",2006.56,2006.562,.01,"DT")
+3030114
+"^DD",2006.56,2006.562,2,0)
+PATIENT^P2'^DPT(^0;2^Q
+"^DD",2006.56,2006.562,2,1,0)
+^.1
+"^DD",2006.56,2006.562,2,1,1,0)
+2006.562^S
+"^DD",2006.56,2006.562,2,1,1,1)
+S ^MAGDWLST(2006.56,DA(1),1,"S",$E(X,1,30),DA)=""
+"^DD",2006.56,2006.562,2,1,1,2)
+K ^MAGDWLST(2006.56,DA(1),1,"S",$E(X,1,30),DA)
+"^DD",2006.56,2006.562,2,1,1,"%D",0)
+^^1^1^3001204^
+"^DD",2006.56,2006.562,2,1,1,"%D",1,0)
+This cross reference keeps track of which studies belong to which patients.
+"^DD",2006.56,2006.562,2,1,1,"DT")
+3001204
+"^DD",2006.56,2006.562,2,3)
+Enter the name of a patient.
+"^DD",2006.56,2006.562,2,21,0)
+^^3^3^2990311^
+"^DD",2006.56,2006.562,2,21,1,0)
+The value of this field is a pointer into the PATIENT file (#2).
+"^DD",2006.56,2006.562,2,21,2,0)
+The patient being pointed to is a patient for whom a study
+"^DD",2006.56,2006.562,2,21,3,0)
+being scheduled.
+"^DD",2006.56,2006.562,2,"DT")
+3001204
+"^DD",2006.56,2006.562,3,0)
+ACCESSION^F^^0;3^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.56,2006.562,3,1,0)
+^.1^^0
+"^DD",2006.56,2006.562,3,1,1,0)
+2006.56^AC^MUMPS
+"^DD",2006.56,2006.562,3,1,1,1)
+N SVC S SVC=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",1) I SVC'="" S ^MAGDWLST(2006.56,"C",DA(1),SVC,X,DA)=""
+"^DD",2006.56,2006.562,3,1,1,2)
+N SVC S SVC=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",1) I SVC'="" K ^MAGDWLST(2006.56,"C",DA(1),SVC,X,DA)
+"^DD",2006.56,2006.562,3,1,1,"DT")
+2990312
+"^DD",2006.56,2006.562,3,3)
+Enter an accession number.
+"^DD",2006.56,2006.562,3,21,0)
+^^7^7^3000218^^
+"^DD",2006.56,2006.562,3,21,1,0)
+The value of this field is the (long) accession number
+"^DD",2006.56,2006.562,3,21,2,0)
+for the study being performed.
+"^DD",2006.56,2006.562,3,21,3,0)
+ 
+"^DD",2006.56,2006.562,3,21,4,0)
+An accession number is created by encoding the date
+"^DD",2006.56,2006.562,3,21,5,0)
+in six digits (ddmmyy), and suffixing a dash and an
+"^DD",2006.56,2006.562,3,21,6,0)
+integer number (no leading zeroes) that uniquely identifies the study
+"^DD",2006.56,2006.562,3,21,7,0)
+for that date.
+"^DD",2006.56,2006.562,3,"DT")
+3030114
+"^DD",2006.56,2006.562,4,0)
+STUDY ID^F^^0;4^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.56,2006.562,4,1,0)
+^.1^^0
+"^DD",2006.56,2006.562,4,1,1,0)
+2006.56^AD^MUMPS
+"^DD",2006.56,2006.562,4,1,1,1)
+N SVC S SVC=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",1) I SVC'="" S ^MAGDWLST(2006.56,"D",DA(1),SVC,X,DA)=""
+"^DD",2006.56,2006.562,4,1,1,2)
+N SVC S SVC=$P($G(^MAGDWLST(2006.56,DA(1),1,DA,0)),"^",1) I SVC'="" K ^MAGDWLST(2006.56,"D",DA(1),SVC,X,DA)
+"^DD",2006.56,2006.562,4,1,1,"DT")
+2990312
+"^DD",2006.56,2006.562,4,3)
+Enter a Study ID.
+"^DD",2006.56,2006.562,4,21,0)
+^^6^6^3000218^^
+"^DD",2006.56,2006.562,4,21,1,0)
+The value of this field is the (short) accession number
+"^DD",2006.56,2006.562,4,21,2,0)
+for the study being performed.
+"^DD",2006.56,2006.562,4,21,3,0)
+ 
+"^DD",2006.56,2006.562,4,21,4,0)
+A short accession number is an
+"^DD",2006.56,2006.562,4,21,5,0)
+integer number (no leading zeroes) that uniquely identifies
+"^DD",2006.56,2006.562,4,21,6,0)
+a study during the day on which it occurs.
+"^DD",2006.56,2006.562,4,"DT")
+3030114
+"^DD",2006.56,2006.562,5,0)
+TIMESTAMP^D^^0;5^S %DT="EST" D ^%DT S X=Y K:Y<1 X
+"^DD",2006.56,2006.562,5,1,0)
+^.1^^0
+"^DD",2006.56,2006.562,5,1,1,0)
+2006.56^AF^MUMPS
+"^DD",2006.56,2006.562,5,1,1,1)
+N MOD,SVC,Z S Z=$G(^MAGDWLST(2006.56,DA(1),1,DA,0)),SVC=$P(Z,"^",1),MOD=$P(Z,"^",10) I SVC'="",MOD'="" S ^MAGDWLST(2006.56,"E",DA(1),SVC,MOD,X,DA)=""
+"^DD",2006.56,2006.562,5,1,1,2)
+N MOD,SVC,Z S Z=$G(^MAGDWLST(2006.56,DA(1),1,DA,0)),SVC=$P(Z,"^",1),MOD=$P(Z,"^",10) I SVC'="",MOD'="" K ^MAGDWLST(2006.56,"E",DA(1),SVC,MOD,X,DA)
+"^DD",2006.56,2006.562,5,1,1,"DT")
+2990312
+"^DD",2006.56,2006.562,5,3)
+Enter the date and time of the study.
+"^DD",2006.56,2006.562,5,21,0)
+^^3^3^3000218^^
+"^DD",2006.56,2006.562,5,21,1,0)
+The value of this field indicates the date and time
+"^DD",2006.56,2006.562,5,21,2,0)
+for which the procedure that is described in this
+"^DD",2006.56,2006.562,5,21,3,0)
+entry has been scheduled.
+"^DD",2006.56,2006.562,5,"DT")
+3030114
+"^DD",2006.56,2006.562,6,0)
+PROCEDURE^F^^0;6^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.56,2006.562,6,3)
+Enter a code for the procedure to be performed during the study.
+"^DD",2006.56,2006.562,6,21,0)
+^^5^5^3000218^^
+"^DD",2006.56,2006.562,6,21,1,0)
+The value of this field is the internal entry number
+"^DD",2006.56,2006.562,6,21,2,0)
+in ^RAMIS(71,... that identifies the procedure
+"^DD",2006.56,2006.562,6,21,3,0)
+that is described in this entry.
+"^DD",2006.56,2006.562,6,21,4,0)
+ 
+"^DD",2006.56,2006.562,6,21,5,0)
+VA-FileMan file 71 (RAD/NUC MED procedures) is stored in ^RAMIS(71,...
+"^DD",2006.56,2006.562,6,"DT")
+2990202
+"^DD",2006.56,2006.562,7,0)
+PROCEDURE DESCRIPTION^F^^4;1^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.56,2006.562,7,3)
+Enter a description of the procedure to be performed.
+"^DD",2006.56,2006.562,7,21,0)
+^^6^6^3000218^^
+"^DD",2006.56,2006.562,7,21,1,0)
+The value of this field is the name of the procedure
+"^DD",2006.56,2006.562,7,21,2,0)
+that is described in this entry.
+"^DD",2006.56,2006.562,7,21,3,0)
+This name is copied from ^RAMIS(71,... so that
+"^DD",2006.56,2006.562,7,21,4,0)
+worklist queries can also be performed when the network
+"^DD",2006.56,2006.562,7,21,5,0)
+connection (DDP) with the main Hospital Information System
+"^DD",2006.56,2006.562,7,21,6,0)
+is not available.
+"^DD",2006.56,2006.562,7,"DT")
+2990202
+"^DD",2006.56,2006.562,8,0)
+CPT CODE^F^^0;8^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.56,2006.562,8,3)
+Enter the CPT code for the procedure to be performed.
+"^DD",2006.56,2006.562,8,21,0)
+^^5^5^3000218^^
+"^DD",2006.56,2006.562,8,21,1,0)
+The value of this field is the internal entry number
+"^DD",2006.56,2006.562,8,21,2,0)
+in ^ICPT(... that identifies the procedure
+"^DD",2006.56,2006.562,8,21,3,0)
+that is described in this entry.
+"^DD",2006.56,2006.562,8,21,4,0)
+ 
+"^DD",2006.56,2006.562,8,21,5,0)
+VA-FileMan file 81 (CPT codes) is stored in ^ICPT(...
+"^DD",2006.56,2006.562,8,"DT")
+2990202
+"^DD",2006.56,2006.562,9,0)
+CPT DESCRIPTION^F^^5;1^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.56,2006.562,9,3)
+Enter the description of the CPT code for the procedure to be performed.
+"^DD",2006.56,2006.562,9,21,0)
+^^9^9^3000218^^
+"^DD",2006.56,2006.562,9,21,1,0)
+The value of this field is the name of the procedure
+"^DD",2006.56,2006.562,9,21,2,0)
+that is described in this entry.
+"^DD",2006.56,2006.562,9,21,3,0)
+ 
+"^DD",2006.56,2006.562,9,21,4,0)
+CPT stands for Current Procedural Terminology.
+"^DD",2006.56,2006.562,9,21,5,0)
+ 
+"^DD",2006.56,2006.562,9,21,6,0)
+This name is copied from ^ICPT(... so that
+"^DD",2006.56,2006.562,9,21,7,0)
+worklist queries can also be performed when the network
+"^DD",2006.56,2006.562,9,21,8,0)
+connection (DDP) with the main Hospital Information System
+"^DD",2006.56,2006.562,9,21,9,0)
+is not available.
+"^DD",2006.56,2006.562,9,"DT")
+2990312
+"^DD",2006.56,2006.562,10,0)
+MODALITY^F^^0;10^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.56,2006.562,10,1,0)
+^.1^^0
+"^DD",2006.56,2006.562,10,3)
+Enter the name of the modality.
+"^DD",2006.56,2006.562,10,21,0)
+^^43^43^3000218^^
+"^DD",2006.56,2006.562,10,21,1,0)
+The value of this field is a list of codes, separated
+"^DD",2006.56,2006.562,10,21,2,0)
+by commas, that each identify a modality on which the
+"^DD",2006.56,2006.562,10,21,3,0)
+requested procedure can be performed.
+"^DD",2006.56,2006.562,10,21,4,0)
+ 
+"^DD",2006.56,2006.562,10,21,5,0)
+Possible codes for modalities are:
+"^DD",2006.56,2006.562,10,21,6,0)
+   AS: Angioscopy
+"^DD",2006.56,2006.562,10,21,7,0)
+   BI: Biomagnetic imaging
+"^DD",2006.56,2006.562,10,21,8,0)
+   CD: Color flow Doppler
+"^DD",2006.56,2006.562,10,21,9,0)
+   CF: Cinefluorography
+"^DD",2006.56,2006.562,10,21,10,0)
+   CP: Culposcopy
+"^DD",2006.56,2006.562,10,21,11,0)
+   CR: Computed Radiography
+"^DD",2006.56,2006.562,10,21,12,0)
+   CS: Cystoscopy
+"^DD",2006.56,2006.562,10,21,13,0)
+   CT: Computed Tomography
+"^DD",2006.56,2006.562,10,21,14,0)
+   DD: Duplex Doppler
+"^DD",2006.56,2006.562,10,21,15,0)
+   DF: Digital fluoroscopy
+"^DD",2006.56,2006.562,10,21,16,0)
+   DG: Diaphanography
+"^DD",2006.56,2006.562,10,21,17,0)
+   DM: Digital microscopy
+"^DD",2006.56,2006.562,10,21,18,0)
+   DS: Digital Subtraction Angiography
+"^DD",2006.56,2006.562,10,21,19,0)
+   DX: Digital Radiography
+"^DD",2006.56,2006.562,10,21,20,0)
+   EC: Echocardiography
+"^DD",2006.56,2006.562,10,21,21,0)
+   ES: Endoscopy
+"^DD",2006.56,2006.562,10,21,22,0)
+   FA: Fluorescein angiography
+"^DD",2006.56,2006.562,10,21,23,0)
+   FS: Fundoscopy
+"^DD",2006.56,2006.562,10,21,24,0)
+   IO: Intra-oral Radiology
+"^DD",2006.56,2006.562,10,21,25,0)
+   LP: Laparoscopy
+"^DD",2006.56,2006.562,10,21,26,0)
+   LS: Laser surface scan
+"^DD",2006.56,2006.562,10,21,27,0)
+   MA: Magnetic resonance angiography
+"^DD",2006.56,2006.562,10,21,28,0)
+   MG: Mammography
+"^DD",2006.56,2006.562,10,21,29,0)
+   MR: Magnetic Resonance
+"^DD",2006.56,2006.562,10,21,30,0)
+   MS: Magnetic resonance spectroscopy
+"^DD",2006.56,2006.562,10,21,31,0)
+   NM: Nuclear Medicine
+"^DD",2006.56,2006.562,10,21,32,0)
+   OT: Other
+"^DD",2006.56,2006.562,10,21,33,0)
+   PT: Positron emission tomography (PET)
+"^DD",2006.56,2006.562,10,21,34,0)
+   RF: Radio Fluoroscopy
+"^DD",2006.56,2006.562,10,21,35,0)
+   RG: Radiographic imaging (conventional film/screen)
+"^DD",2006.56,2006.562,10,21,36,0)
+   ST: Single-photon emission computed tomography (SPECT)
+"^DD",2006.56,2006.562,10,21,37,0)
+   TG: Thermography
+"^DD",2006.56,2006.562,10,21,38,0)
+   US: Ultrasound
+"^DD",2006.56,2006.562,10,21,39,0)
+   VF: Videofluorography
+"^DD",2006.56,2006.562,10,21,40,0)
+   VL: Visable Light
+"^DD",2006.56,2006.562,10,21,41,0)
+   XA: X-Ray Angiography
+"^DD",2006.56,2006.562,10,21,42,0)
+ 
+"^DD",2006.56,2006.562,10,21,43,0)
+These codes are also stored in ^RAMIS(73.1,...
+"^DD",2006.56,2006.562,10,"DT")
+3030114
+"^DD",2006.56,2006.562,11,0)
+STUDY UID^F^^1;1^K:$L(X)>99!($L(X)<1) X
+"^DD",2006.56,2006.562,11,1,0)
+^.1
+"^DD",2006.56,2006.562,11,1,1,0)
+2006.56^F^MUMPS
+"^DD",2006.56,2006.562,11,1,1,1)
+S ^MAGDWLST(2006.56,"F",X,DA(1),DA)=""
+"^DD",2006.56,2006.562,11,1,1,2)
+K ^MAGDWLST(2006.56,"F",X,DA(1),DA)
+"^DD",2006.56,2006.562,11,1,1,"%D",0)
+^^3^3^2990615^^
+"^DD",2006.56,2006.562,11,1,1,"%D",1,0)
+This cross reference keeps track of the Study UIDs.
+"^DD",2006.56,2006.562,11,1,1,"%D",2,0)
+Since the UIDs are unique, the division is a later subscript
+"^DD",2006.56,2006.562,11,1,1,"%D",3,0)
+in this cross reference than in all other cross references on this file.
+"^DD",2006.56,2006.562,11,1,1,"DT")
+2990615
+"^DD",2006.56,2006.562,11,3)
+Enter the unique identifier for the study to be performed.
+"^DD",2006.56,2006.562,11,21,0)
+^^2^2^3000218^^
+"^DD",2006.56,2006.562,11,21,1,0)
+The value of this field is a unique identifier for
+"^DD",2006.56,2006.562,11,21,2,0)
+the study that is described in this entry.
+"^DD",2006.56,2006.562,11,"DT")
+2990615
+"^DD",2006.56,2006.562,12,0)
+PATIENT HISTORY^2006.5621A^^2;0
+"^DD",2006.56,2006.562,13,0)
+REFERRING PHYSICIAN^F^^3;1^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.56,2006.562,13,1,0)
+^.1^^0
+"^DD",2006.56,2006.562,13,3)
+Enter the name of the referring physician.
+"^DD",2006.56,2006.562,13,21,0)
+^^2^2^3000218^^
+"^DD",2006.56,2006.562,13,21,1,0)
+The value of this field, if any, is the name of the
+"^DD",2006.56,2006.562,13,21,2,0)
+physician who sends a patient to another doctor or institution for specialty care or services.
+"^DD",2006.56,2006.562,13,"DT")
+2990312
+"^DD",2006.56,2006.562,14,0)
+ATTENDING PHYSICIAN^F^^3;2^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.56,2006.562,14,3)
+Enter the name of the attending physician.
+"^DD",2006.56,2006.562,14,21,0)
+^^2^2^3000218^^
+"^DD",2006.56,2006.562,14,21,1,0)
+The value of this field, if any, is the name of the
+"^DD",2006.56,2006.562,14,21,2,0)
+physician who is currently responsible for the care of this patient.
+"^DD",2006.56,2006.562,14,"DT")
+2990312
+"^DD",2006.56,2006.562,15,0)
+REQUESTING PHYSICIAN^F^^3;3^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.56,2006.562,15,3)
+Enter the name of the requesting physician
+"^DD",2006.56,2006.562,15,21,0)
+^^3^3^3000218^^
+"^DD",2006.56,2006.562,15,21,1,0)
+The value of this field, if any, is the name of the
+"^DD",2006.56,2006.562,15,21,2,0)
+physician who requested the study that is described
+"^DD",2006.56,2006.562,15,21,3,0)
+in this entry.
+"^DD",2006.56,2006.562,15,"DT")
+2990312
+"^DD",2006.56,2006.562,16,0)
+REQUESTED SERVICE^F^^3;4^K:$L(X)>20!($L(X)<1) X
+"^DD",2006.56,2006.562,16,3)
+Enter the name of the requested service.
+"^DD",2006.56,2006.562,16,21,0)
+^^4^4^3000218^^
+"^DD",2006.56,2006.562,16,21,1,0)
+The value of this field, if any, is the name of the
+"^DD",2006.56,2006.562,16,21,2,0)
+service that was requested for the study that is described
+"^DD",2006.56,2006.562,16,21,3,0)
+in this entry.
+"^DD",2006.56,2006.562,16,21,4,0)
+
+"^DD",2006.56,2006.562,16,"DT")
+2990311
+"^DD",2006.56,2006.562,17,0)
+TYPE CODE^F^^0;11^K:$L(X)>10!($L(X)<1) X
+"^DD",2006.56,2006.562,17,3)
+Enter the 'type code'.
+"^DD",2006.56,2006.562,17,21,0)
+^.001^19^19^3020401^^^
+"^DD",2006.56,2006.562,17,21,1,0)
+The value of this field is a code for the type of imaging
+"^DD",2006.56,2006.562,17,21,2,0)
+activity.
+"^DD",2006.56,2006.562,17,21,3,0)
+
+"^DD",2006.56,2006.562,17,21,4,0)
+The value for this field is obtained from the HL7 message
+"^DD",2006.56,2006.562,17,21,5,0)
+that was transmitted for this event.
+"^DD",2006.56,2006.562,17,21,6,0)
+
+"^DD",2006.56,2006.562,17,21,7,0)
+Typical values are codes like:
+"^DD",2006.56,2006.562,17,21,8,0)
+   ANI
+"^DD",2006.56,2006.562,17,21,9,0)
+   CT
+"^DD",2006.56,2006.562,17,21,10,0)
+   MAM
+"^DD",2006.56,2006.562,17,21,11,0)
+   MRI
+"^DD",2006.56,2006.562,17,21,12,0)
+   NM
+"^DD",2006.56,2006.562,17,21,13,0)
+   RAD
+"^DD",2006.56,2006.562,17,21,14,0)
+   US
+"^DD",2006.56,2006.562,17,21,15,0)
+   VAS
+"^DD",2006.56,2006.562,17,21,16,0)
+
+"^DD",2006.56,2006.562,17,21,17,0)
+Since any value obtained from an HL7 message will be considered
+"^DD",2006.56,2006.562,17,21,18,0)
+valid when entering data into this file, this field is typed as
+"^DD",2006.56,2006.562,17,21,19,0)
+"free text", rather than as a "set of codes".
+"^DD",2006.56,2006.562,17,"DT")
+2990318
+"^DD",2006.56,2006.562,19,0)
+STATUS^S^CREATED:Created;SCHEDULED:Scheduled;ARRIVED:Arrived;STARTED:Started;COMPLETED:Completed;VERIFIED:Verified;^0;7^Q
+"^DD",2006.56,2006.562,19,3)
+Enter a code for the status of this study.
+"^DD",2006.56,2006.562,19,21,0)
+^^10^10^3020401^
+"^DD",2006.56,2006.562,19,21,1,0)
+The value of this field is a code that identifies the current
+"^DD",2006.56,2006.562,19,21,2,0)
+status of the study.
+"^DD",2006.56,2006.562,19,21,3,0)
+ 
+"^DD",2006.56,2006.562,19,21,4,0)
+Initially, the following possible values are defined:
+"^DD",2006.56,2006.562,19,21,5,0)
+  CREATED      Ordered or Created, but not yet Scheduled
+"^DD",2006.56,2006.562,19,21,6,0)
+  SCHEDULED    Scheduled, but not yet started
+"^DD",2006.56,2006.562,19,21,7,0)
+  ARRIVED      Patient has arrived, but study has not yet started
+"^DD",2006.56,2006.562,19,21,8,0)
+  STARTED      Study has started, but not yet finished
+"^DD",2006.56,2006.562,19,21,9,0)
+  COMPLETED    Study has completed
+"^DD",2006.56,2006.562,19,21,10,0)
+  VERIFIED     Study has completed, and image quality has been verified
+"^DD",2006.56,2006.562,19,"DT")
+3020401
+"^DD",2006.56,2006.562,20,0)
+PRIORITY^S^STAT:STAT;HIGH:High;MEDIUM:Medium;ROUTINE:Routine;LOW:Low;^0;9^Q
+"^DD",2006.56,2006.562,20,3)
+Enter a code for the priority of this study.
+"^DD",2006.56,2006.562,20,21,0)
+^^2^2^3020401^
+"^DD",2006.56,2006.562,20,21,1,0)
+The value of this field is a code that identifies the
+"^DD",2006.56,2006.562,20,21,2,0)
+priority of the study.
+"^DD",2006.56,2006.562,20,"DT")
+3020401
+"^DD",2006.56,2006.562,21,0)
+TIU NOTE SIGNED^S^0:No;1:Yes;^0;12^Q
+"^DD",2006.56,2006.562,21,3)
+Indicate whether or not the TIU note has been signed.
+"^DD",2006.56,2006.562,21,21,0)
+^.001^6^6^3020422^^^^
+"^DD",2006.56,2006.562,21,21,1,0)
+The value for this field is a code that indicates
+"^DD",2006.56,2006.562,21,21,2,0)
+whether or not the TIU note with which this study is
+"^DD",2006.56,2006.562,21,21,3,0)
+associated has been signed.
+"^DD",2006.56,2006.562,21,21,4,0)
+ 
+"^DD",2006.56,2006.562,21,21,5,0)
+A value of 0 indicates that the note has not yet been signed.
+"^DD",2006.56,2006.562,21,21,6,0)
+A value of 1 indicates that the note has been signed.
+"^DD",2006.56,2006.562,21,"DT")
+3020422
+"^DD",2006.56,2006.562,22,0)
+INTENDED RECIPIENT OF RESULTS^F^^3;5^K:$L(X)>30!($L(X)<1) X
+"^DD",2006.56,2006.562,22,3)
+Enter the name of the recipient of the results of this study.
+"^DD",2006.56,2006.562,22,21,0)
+^.001^6^6^3021105^^^
+"^DD",2006.56,2006.562,22,21,1,0)
+The value of this field is a string that contains the name of
+"^DD",2006.56,2006.562,22,21,2,0)
+the person who is intended to receive the results of this study.
+"^DD",2006.56,2006.562,22,21,3,0)
+ 
+"^DD",2006.56,2006.562,22,21,4,0)
+(Intentionally, this field is NOT a pointer to the Person File
+"^DD",2006.56,2006.562,22,21,5,0)
+(#200), because that file may not be accessible when the value
+"^DD",2006.56,2006.562,22,21,6,0)
+for this field is being retrieved.)
+"^DD",2006.56,2006.562,22,"DT")
+3020401
+"^DD",2006.56,2006.562,23,0)
+APPOINTMENT SCHEDULE^2006.5622A^^7;0
+"^DD",2006.56,2006.5621,0)
+PATIENT HISTORY SUB-FIELD^^.01^1
+"^DD",2006.56,2006.5621,0,"DT")
+2990202
+"^DD",2006.56,2006.5621,0,"NM","PATIENT HISTORY")
+
+"^DD",2006.56,2006.5621,0,"UP")
+2006.562
+"^DD",2006.56,2006.5621,.01,0)
+PATIENT HISTORY^F^^0;1^K:$L(X)>99!($L(X)<1) X
+"^DD",2006.56,2006.5621,.01,1,0)
+^.1^^0
+"^DD",2006.56,2006.5621,.01,3)
+Enter a line of patient history text.
+"^DD",2006.56,2006.5621,.01,21,0)
+^^6^6^3000218^^
+"^DD",2006.56,2006.5621,.01,21,1,0)
+The text in this multi-line entry describes any
+"^DD",2006.56,2006.5621,.01,21,2,0)
+patient history that is germane in the context
+"^DD",2006.56,2006.5621,.01,21,3,0)
+of the study that is described in this entry.
+"^DD",2006.56,2006.5621,.01,21,4,0)
+ 
+"^DD",2006.56,2006.5621,.01,21,5,0)
+Often, this section of the patient's history is
+"^DD",2006.56,2006.5621,.01,21,6,0)
+referred to as the 'reason for study'.
+"^DD",2006.56,2006.5621,.01,"DT")
+2990202
+"^DD",2006.56,2006.5622,0)
+APPOINTMENT SCHEDULE SUB-FIELD^^1^2
+"^DD",2006.56,2006.5622,0,"DT")
+3020521
+"^DD",2006.56,2006.5622,0,"IX","B",2006.5622,.01)
+
+"^DD",2006.56,2006.5622,0,"NM","APPOINTMENT SCHEDULE")
+
+"^DD",2006.56,2006.5622,0,"UP")
+2006.562
+"^DD",2006.56,2006.5622,.01,0)
+CLINIC NAME^F^^0;1^K:$L(X)>60!($L(X)<3) X
+"^DD",2006.56,2006.5622,.01,1,0)
+^.1^^0
+"^DD",2006.56,2006.5622,.01,1,1,0)
+2006.5622^B
+"^DD",2006.56,2006.5622,.01,1,1,1)
+S ^MAGDWLST(2006.56,DA(2),1,DA(1),7,"B",$E(X,1,30),DA)=""
+"^DD",2006.56,2006.5622,.01,1,1,2)
+K ^MAGDWLST(2006.56,DA(2),1,DA(1),7,"B",$E(X,1,30),DA)
+"^DD",2006.56,2006.5622,.01,3)
+Enter the name of the clinic where the appointment will take place.
+"^DD",2006.56,2006.5622,.01,21,0)
+^.001^3^3^3021105^^^
+"^DD",2006.56,2006.5622,.01,21,1,0)
+The value of this field is a string that identifies
+"^DD",2006.56,2006.5622,.01,21,2,0)
+the name of the clinic where the appointment will
+"^DD",2006.56,2006.5622,.01,21,3,0)
+take place.
+"^DD",2006.56,2006.5622,.01,"DT")
+3030114
+"^DD",2006.56,2006.5622,1,0)
+DATE/TIME^D^^0;2^S %DT="EST" D ^%DT S X=Y K:Y<1 X
+"^DD",2006.56,2006.5622,1,21,0)
+^^1^1^3020521^
+"^DD",2006.56,2006.5622,1,21,1,0)
+Date and time of appointment.
+"^DD",2006.56,2006.5622,1,"DT")
+3020521
+"^DD",2006.581,2006.581,3,0)
+SERVICE^S^CON:Consults;RAD:Radiology;^0;3^Q
+"^DD",2006.581,2006.581,3,3)
+Indicate the type of studies for this instrument (RAD or CON).
+"^DD",2006.581,2006.581,3,21,0)
+^.001^6^6^3060516^^^
+"^DD",2006.581,2006.581,3,21,1,0)
+The value of this field is a code that indicates the kind
+"^DD",2006.581,2006.581,3,21,2,0)
+of studies that is supported by this instrument.
+"^DD",2006.581,2006.581,3,21,3,0)
+ 
+"^DD",2006.581,2006.581,3,21,4,0)
+Possible values are:
+"^DD",2006.581,2006.581,3,21,5,0)
+   "RAD"   for Radiology
+"^DD",2006.581,2006.581,3,21,6,0)
+   "CON"   for Consults
+"^DD",2006.581,2006.581,3,"DT")
+3060516
+"^DIC",2006.56,2006.56,0)
+DICOM WORKLIST STUDY^2006.56
+"^DIC",2006.56,2006.56,0,"GL")
+^MAGDWLST(2006.56,
+"^DIC",2006.56,2006.56,"%",0)
+^1.005^^0
+"^DIC",2006.56,2006.56,"%D",0)
+^^36^36^3010619^
+"^DIC",2006.56,2006.56,"%D",1,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.56,2006.56,"%D",2,0)
+ |                                                               |
+"^DIC",2006.56,2006.56,"%D",3,0)
+ | Property of the US Government.                                |
+"^DIC",2006.56,2006.56,"%D",4,0)
+ | No permission to copy or redistribute this software is given. |
+"^DIC",2006.56,2006.56,"%D",5,0)
+ | Use of unreleased versions of this software requires the user |
+"^DIC",2006.56,2006.56,"%D",6,0)
+ | to execute a written test agreement with the VistA Imaging    |
+"^DIC",2006.56,2006.56,"%D",7,0)
+ | Development Office of the Department of Veterans Affairs,     |
+"^DIC",2006.56,2006.56,"%D",8,0)
+ | telephone (301) 734-0100.                                     |
+"^DIC",2006.56,2006.56,"%D",9,0)
+ |                                                               |
+"^DIC",2006.56,2006.56,"%D",10,0)
+ | The Food and Drug Administration classifies this software as  |
+"^DIC",2006.56,2006.56,"%D",11,0)
+ | a medical device.  As such, it may not be changed in any way. |
+"^DIC",2006.56,2006.56,"%D",12,0)
+ | Modifications to this software may result in an adulterated   |
+"^DIC",2006.56,2006.56,"%D",13,0)
+ | medical device under 21CFR820, the use of which is considered |
+"^DIC",2006.56,2006.56,"%D",14,0)
+ | to be a violation of US Federal Statutes.                     |
+"^DIC",2006.56,2006.56,"%D",15,0)
+ |                                                               |
+"^DIC",2006.56,2006.56,"%D",16,0)
+ +---------------------------------------------------------------+
+"^DIC",2006.56,2006.56,"%D",17,0)
+ 
+"^DIC",2006.56,2006.56,"%D",18,0)
+The entries in this table contain the information about the various
+"^DIC",2006.56,2006.56,"%D",19,0)
+studies that are recorded as tasks on the worklist for a DICOM "modality".
+"^DIC",2006.56,2006.56,"%D",20,0)
+The top-level information in this table separates the activities from the
+"^DIC",2006.56,2006.56,"%D",21,0)
+various clinics at a consolidated site; the next level contains the study
+"^DIC",2006.56,2006.56,"%D",22,0)
+information.
+"^DIC",2006.56,2006.56,"%D",23,0)
+ 
+"^DIC",2006.56,2006.56,"%D",24,0)
+This file contains temporary copies of information from the VistA
+"^DIC",2006.56,2006.56,"%D",25,0)
+system that live on our satellite systems for the duration of the
+"^DIC",2006.56,2006.56,"%D",26,0)
+study that produces the images, and the only reason for
+"^DIC",2006.56,2006.56,"%D",27,0)
+replicating the information onto these "DICOM Gateway Stations"
+"^DIC",2006.56,2006.56,"%D",28,0)
+is that we want to be able to allow the acquisition of images and
+"^DIC",2006.56,2006.56,"%D",29,0)
+the presentation of "worklist information" to continue, even
+"^DIC",2006.56,2006.56,"%D",30,0)
+while the VistA system is down, or when the DDP connection
+"^DIC",2006.56,2006.56,"%D",31,0)
+between our Gateways and the VistA system is not operating. 
+"^DIC",2006.56,2006.56,"%D",32,0)
+ 
+"^DIC",2006.56,2006.56,"%D",33,0)
+Information is copied from VistA to DICOM Gateway when an HL7
+"^DIC",2006.56,2006.56,"%D",34,0)
+message is processed that announces the "exam", and removed when
+"^DIC",2006.56,2006.56,"%D",35,0)
+an HL7 message is processed that announces that the exam is
+"^DIC",2006.56,2006.56,"%D",36,0)
+carried out. 
+"^DIC",2006.56,"B","DICOM WORKLIST STUDY",2006.56)
+
+**END**
+**END**
+
+
+****
+****
