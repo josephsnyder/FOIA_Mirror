@@ -1,0 +1,914 @@
+KIDS Distribution saved on Sep 01, 2009@10:32:10
+VBEC*1*3 090109@1032
+**KIDS**:VBEC*1.0*3^
+
+**INSTALL NAME**
+VBEC*1.0*3
+"BLD",6467,0)
+VBEC*1.0*3^VBECS^0^3090901^y
+"BLD",6467,1,0)
+^^2^2^3090901^
+"BLD",6467,1,1,0)
+This patch contains changes to the VBECS Blood Bank package. Refer to the 
+"BLD",6467,1,2,0)
+patch listed in the Forum patch module for more details.
+"BLD",6467,4,0)
+^9.64PA^^0
+"BLD",6467,6.3)
+21
+"BLD",6467,"INID")
+n^n
+"BLD",6467,"INIT")
+POST^VBECP3
+"BLD",6467,"KRN",0)
+^9.67PA^779.2^20
+"BLD",6467,"KRN",.4,0)
+.4
+"BLD",6467,"KRN",.401,0)
+.401
+"BLD",6467,"KRN",.402,0)
+.402
+"BLD",6467,"KRN",.403,0)
+.403
+"BLD",6467,"KRN",.5,0)
+.5
+"BLD",6467,"KRN",.84,0)
+.84
+"BLD",6467,"KRN",3.6,0)
+3.6
+"BLD",6467,"KRN",3.8,0)
+3.8
+"BLD",6467,"KRN",9.2,0)
+9.2
+"BLD",6467,"KRN",9.8,0)
+9.8
+"BLD",6467,"KRN",9.8,"NM",0)
+^9.68A^6^5
+"BLD",6467,"KRN",9.8,"NM",1,0)
+VBECRPCH^^0^B3877808
+"BLD",6467,"KRN",9.8,"NM",2,0)
+VBECRPCD^^0^B5041166
+"BLD",6467,"KRN",9.8,"NM",3,0)
+VBECA3B^^0^B11129821
+"BLD",6467,"KRN",9.8,"NM",5,0)
+VBECVLC^^0^B23203538
+"BLD",6467,"KRN",9.8,"NM",6,0)
+VBECP3^^0^B6587366
+"BLD",6467,"KRN",9.8,"NM","B","VBECA3B",3)
+
+"BLD",6467,"KRN",9.8,"NM","B","VBECP3",6)
+
+"BLD",6467,"KRN",9.8,"NM","B","VBECRPCD",2)
+
+"BLD",6467,"KRN",9.8,"NM","B","VBECRPCH",1)
+
+"BLD",6467,"KRN",9.8,"NM","B","VBECVLC",5)
+
+"BLD",6467,"KRN",19,0)
+19
+"BLD",6467,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",6467,"KRN",19.1,0)
+19.1
+"BLD",6467,"KRN",101,0)
+101
+"BLD",6467,"KRN",409.61,0)
+409.61
+"BLD",6467,"KRN",771,0)
+771
+"BLD",6467,"KRN",779.2,0)
+779.2
+"BLD",6467,"KRN",870,0)
+870
+"BLD",6467,"KRN",8989.51,0)
+8989.51
+"BLD",6467,"KRN",8989.52,0)
+8989.52
+"BLD",6467,"KRN",8994,0)
+8994
+"BLD",6467,"KRN","B",.4,.4)
+
+"BLD",6467,"KRN","B",.401,.401)
+
+"BLD",6467,"KRN","B",.402,.402)
+
+"BLD",6467,"KRN","B",.403,.403)
+
+"BLD",6467,"KRN","B",.5,.5)
+
+"BLD",6467,"KRN","B",.84,.84)
+
+"BLD",6467,"KRN","B",3.6,3.6)
+
+"BLD",6467,"KRN","B",3.8,3.8)
+
+"BLD",6467,"KRN","B",9.2,9.2)
+
+"BLD",6467,"KRN","B",9.8,9.8)
+
+"BLD",6467,"KRN","B",19,19)
+
+"BLD",6467,"KRN","B",19.1,19.1)
+
+"BLD",6467,"KRN","B",101,101)
+
+"BLD",6467,"KRN","B",409.61,409.61)
+
+"BLD",6467,"KRN","B",771,771)
+
+"BLD",6467,"KRN","B",779.2,779.2)
+
+"BLD",6467,"KRN","B",870,870)
+
+"BLD",6467,"KRN","B",8989.51,8989.51)
+
+"BLD",6467,"KRN","B",8989.52,8989.52)
+
+"BLD",6467,"KRN","B",8994,8994)
+
+"BLD",6467,"PRE")
+VBECP3
+"BLD",6467,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",6467,"QUES",0)
+^9.62^^
+"INIT")
+POST^VBECP3
+"MBREQ")
+0
+"PKG",649,-1)
+1^1
+"PKG",649,0)
+VBECS^VBEC^VistA Blood Establishment Computer System
+"PKG",649,20,0)
+^9.402P^^
+"PKG",649,22,0)
+^9.49I^1^1
+"PKG",649,22,1,0)
+1.0^3090423^3080103^1
+"PKG",649,22,1,"PAH",1,0)
+3^3090901
+"PKG",649,22,1,"PAH",1,1,0)
+^^2^2^3090901
+"PKG",649,22,1,"PAH",1,1,1,0)
+This patch contains changes to the VBECS Blood Bank package. Refer to the 
+"PKG",649,22,1,"PAH",1,1,2,0)
+patch listed in the Forum patch module for more details.
+"PRE")
+VBECP3
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+5
+"RTN","VBECA3B")
+0^3^B11129821
+"RTN","VBECA3B",1,0)
+VBECA3B ;DALOI/RLM-API interfaces for CPRS ;9/20/00  12:44
+"RTN","VBECA3B",2,0)
+ ;;1.0;VBECS;**3**;Apr 14, 2005;Build 21
+"RTN","VBECA3B",3,0)
+ ;
+"RTN","VBECA3B",4,0)
+ ; Note: This routine supports data exchange with an FDA registered
+"RTN","VBECA3B",5,0)
+ ; medical device. As such, it may not be changed in any way without
+"RTN","VBECA3B",6,0)
+ ; prior written approval from the medical device manufacturer.
+"RTN","VBECA3B",7,0)
+ ; 
+"RTN","VBECA3B",8,0)
+ ; Integration Agreements:
+"RTN","VBECA3B",9,0)
+ ; 
+"RTN","VBECA3B",10,0)
+ QUIT
+"RTN","VBECA3B",11,0)
+ ;
+"RTN","VBECA3B",12,0)
+CPRS ;
+"RTN","VBECA3B",13,0)
+ K VBECBBD D CR,SPC,TRX
+"RTN","VBECA3B",14,0)
+ K VBECA,VBECB,VBECI
+"RTN","VBECA3B",15,0)
+ Q
+"RTN","VBECA3B",16,0)
+CR ;Component Request
+"RTN","VBECA3B",17,0)
+ K ^TMP("BBD",$J,"COMPONENT REQUEST")
+"RTN","VBECA3B",18,0)
+ S VBECA="" F  S VBECA=$O(^TMP("VBDATA",$J,"COMPONENT REQUEST",VBECA)) Q:VBECA=""  D
+"RTN","VBECA3B",19,0)
+  . S ^TMP("BBD",$J,"COMPONENT REQUEST",VBECA)=""
+"RTN","VBECA3B",20,0)
+  . F VBECI=.01,.04,.03,.05,.09,.08 S ^TMP("BBD",$J,"COMPONENT REQUEST",VBECA)=^TMP("BBD",$J,"COMPONENT REQUEST",VBECA)_$G(^TMP("VBDATA",$J,"COMPONENT REQUEST",VBECA,VBECI))_"^"
+"RTN","VBECA3B",21,0)
+ K VBECA,VBECB,VBECI
+"RTN","VBECA3B",22,0)
+ Q
+"RTN","VBECA3B",23,0)
+SPC ;Specimen
+"RTN","VBECA3B",24,0)
+ K ^TMP("BBD",$J,"SPECIMEN")
+"RTN","VBECA3B",25,0)
+ S VBECA="" F  S VBECA=$O(^TMP("VBDATA",$J,"SPECIMEN",VBECA)) Q:VBECA=""  D
+"RTN","VBECA3B",26,0)
+  . Q:$G(^TMP("VBDATA",$J,"SPECIMEN",VBECA,"63.01,.03"))=""
+"RTN","VBECA3B",27,0)
+  . S ^TMP("BBD",$J,"SPECIMEN",VBECA)=""
+"RTN","VBECA3B",28,0)
+  . F VBECI=2.91,10.3,11.3 I $G(^TMP("VBDATA",$J,"SPECIMEN",VBECA,"63.01,"_VBECI))]"" S ^TMP("BBD",$J,"SPECIMEN",VBECA,VBECI)=$G(^TMP("VBDATA",$J,"SPECIMEN",VBECA,"63.01,"_VBECI))
+"RTN","VBECA3B",29,0)
+  . F VBECI="63.012,.01","63.46,.01","63.46,.02","63.48,.01","63.199,.01" S VBECB=0 D
+"RTN","VBECA3B",30,0)
+  . . F  S VBECB=$O(^TMP("VBDATA",$J,"SPECIMEN",VBECA,VBECI,VBECB)) Q:VBECB=""  S ^TMP("BBD",$J,"SPECIMEN",VBECA,VBECI,VBECB)=$G(^TMP("VBDATA",$J,"SPECIMEN",VBECA,VBECI,VBECB))
+"RTN","VBECA3B",31,0)
+  . F VBECI=.03,.01,10,2.9,2.1,2.4,2.6,2.9,11,6 D
+"RTN","VBECA3B",32,0)
+  . . S VBDTA=$G(^TMP("VBDATA",$J,"SPECIMEN",VBECA,"63.01,"_VBECI))
+"RTN","VBECA3B",33,0)
+  . . I VBECI=10,VBDTA="NOT DONE" S VBDTA="ND"
+"RTN","VBECA3B",34,0)
+  . . I VBECI=11,VBDTA="NOT DONE" S VBDTA="ND"
+"RTN","VBECA3B",35,0)
+  . . I (VBECI=2.1)!(VBECI=2.4)!(VBECI=2.6) S VBDTA=$S(VBDTA="N":"Neg",1:VBDTA)
+"RTN","VBECA3B",36,0)
+  . . I (VBECI=2.9)!(VBECI=6)!(VBECI=11),VBDTA'="ND" W !,VBDTA S VBDTA=$S(VBDTA?1"N".E:"Neg",VBDTA?1"P".E:"Pos",1:VBDTA) W !,VBDTA
+"RTN","VBECA3B",37,0)
+  . . S ^TMP("BBD",$J,"SPECIMEN",VBECA)=^TMP("BBD",$J,"SPECIMEN",VBECA)_VBDTA_"^"
+"RTN","VBECA3B",38,0)
+  . . ;S ^TMP("BBD",$J,"SPECIMEN",VBECA)=^TMP("BBD",$J,"SPECIMEN",VBECA)_$G(^TMP("VBDATA",$J,"SPECIMEN",VBECA,"63.01,"_VBECI))_"^"
+"RTN","VBECA3B",39,0)
+ K VBECA,VBECB,VBECI
+"RTN","VBECA3B",40,0)
+ Q
+"RTN","VBECA3B",41,0)
+TRX ;Units assigned/crossmatched
+"RTN","VBECA3B",42,0)
+ K ^TMP("BBD",$J,"CROSSMATCH")
+"RTN","VBECA3B",43,0)
+ S VBECA="" F  S VBECA=$O(^TMP("VBDATA",$J,"CROSSMATCH",VBECA)) Q:VBECA=""  F VBECI=.01,.04,.07,.08,.06,.16,3 S ^TMP("BBD",$J,"CROSSMATCH",VBECA)=$G(^TMP("BBD",$J,"CROSSMATCH",VBECA))_$G(^TMP("VBDATA",$J,"CROSSMATCH",VBECA,VBECI))_"^"
+"RTN","VBECA3B",44,0)
+ K VBECA,VBECB,VBECI
+"RTN","VBECA3B",45,0)
+ Q
+"RTN","VBECA3B",46,0)
+ZEOR ;VBECA3B
+"RTN","VBECP3")
+0^6^B6577127
+"RTN","VBECP3",1,0)
+VBECP3 ;HIOFO;RLM VBECS PATCH 3 Post Install Routine ; 04/30/09 14:40
+"RTN","VBECP3",2,0)
+ ;;1.0;VBECS;**3**;Apr 14, 2005;Build 21
+"RTN","VBECP3",3,0)
+ ;
+"RTN","VBECP3",4,0)
+ ; Note: This routine supports data exchange with an FDA registered
+"RTN","VBECP3",5,0)
+ ; medical device. As such, it may not be changed in any way without
+"RTN","VBECP3",6,0)
+ ; prior written approval from the medical device manufacturer.
+"RTN","VBECP3",7,0)
+ ; 
+"RTN","VBECP3",8,0)
+ ; Integration Agreements:
+"RTN","VBECP3",9,0)
+ ; Reference to FILESEC^DDMOD supported by DBIA #2916
+"RTN","VBECP3",10,0)
+ ; Reference to ^XMD supported by DBIA #10113
+"RTN","VBECP3",11,0)
+ ; Reference to ^XPDUTL supported by DBIA #10141
+"RTN","VBECP3",12,0)
+ ; Reference to $$GET1^DIQ supported by DBIA #2056
+"RTN","VBECP3",13,0)
+ ; Reference to $$SITE^VASITE supported by DBIA #10112
+"RTN","VBECP3",14,0)
+ENV ; Environment Check
+"RTN","VBECP3",15,0)
+ ;Don't install the patch if 6002.03 hasn't been installed.
+"RTN","VBECP3",16,0)
+ q:$d(^VBEC(6002.03))
+"RTN","VBECP3",17,0)
+ s XPDQUIT=1
+"RTN","VBECP3",18,0)
+ ;Send a message showing unsuccessful installation.
+"RTN","VBECP3",19,0)
+ s ^TMP("VBEC",$J,1,0)="Patch VBEC*1.0*3 installation failed at "_$P($$SITE^VASITE,"^",2)
+"RTN","VBECP3",20,0)
+ s XMSUB="VBEC*1.0*3 Patch Installation Failure",XMTEXT="^TMP(""VBEC"",$J,",XMDUN="VBECS Patch Monitor"
+"RTN","VBECP3",21,0)
+ s ^TMP("VBEC",$J,2,0)="VBECS does not appear to be installed"
+"RTN","VBECP3",22,0)
+ d PATCH
+"RTN","VBECP3",23,0)
+ d ^XMD k ^TMP("VBEC",$J)
+"RTN","VBECP3",24,0)
+ q
+"RTN","VBECP3",25,0)
+POST ;Post Install entry point
+"RTN","VBECP3",26,0)
+ k DISEC
+"RTN","VBECP3",27,0)
+ s DISEC("DD")=""
+"RTN","VBECP3",28,0)
+ s DISEC("RD")=""
+"RTN","VBECP3",29,0)
+ s DISEC("WR")=""
+"RTN","VBECP3",30,0)
+ s DISEC("DEL")=""
+"RTN","VBECP3",31,0)
+ s DISEC("LAYGO")=""
+"RTN","VBECP3",32,0)
+ s DISEC("AUDIT")=""
+"RTN","VBECP3",33,0)
+ s DIFIL=6002.03
+"RTN","VBECP3",34,0)
+ ;Update the security in file 6002.03
+"RTN","VBECP3",35,0)
+ d FILESEC^DDMOD(DIFIL,.DISEC,"DIMSGA")
+"RTN","VBECP3",36,0)
+ ;Send a message showing successful installation.
+"RTN","VBECP3",37,0)
+ K ^TMP("VBEC",$J)
+"RTN","VBECP3",38,0)
+ s ^TMP("VBEC",$J,1,0)="Patch VBEC*1.0*3 has been installed by "_$$GET1^DIQ(200,DUZ_",",".01","E","VBECN","ERR")_" at "_$P($$SITE^VASITE,"^",2)
+"RTN","VBECP3",39,0)
+ s XMSUB="VBEC*1.0*3 Patch Installation verification",XMTEXT="^TMP(""VBEC"",$J)",XMDUN="VBECS Patch Monitor"
+"RTN","VBECP3",40,0)
+ s ^TMP("VBEC",$J,2,0)=$s($D(DIMSGA):"",1:"No ")_"errors encountered updating 6002.03"
+"RTN","VBECP3",41,0)
+ d PATCH
+"RTN","VBECP3",42,0)
+ s XMY("G.VBEC@DOMAIN.EXT")=""
+"RTN","VBECP3",43,0)
+ d SENDMSG^XMXAPI(DUZ,XMSUB,XMTEXT,.XMY)
+"RTN","VBECP3",44,0)
+ ;d ^XMD
+"RTN","VBECP3",45,0)
+ k ^TMP("VBEC",$J)
+"RTN","VBECP3",46,0)
+ q
+"RTN","VBECP3",47,0)
+PATCH ;
+"RTN","VBECP3",48,0)
+ s ^TMP("VBEC",$J,3,0)=" ",^TMP("VBEC",$J,4,0)=" ",^TMP("VBEC",$J,5,0)="Previous Patches:"
+"RTN","VBECP3",49,0)
+ ;Update the loop in this line to reflect all released patches
+"RTN","VBECP3",50,0)
+ f VBECI=0:1:2 s VBECA=$$PATCH^XPDUTL("VBEC*1.0*"_VBECI),^TMP("VBEC",$J,(VBECI+6),0)="Patch VBEC*1.0*"_VBECI_" "_$S(VBECA=1:"has",1:"hasn't")_" been installed."
+"RTN","VBECP3",51,0)
+ q
+"RTN","VBECP3",52,0)
+EOR ;VBECP3
+"RTN","VBECRPCD")
+0^2^B5041166
+"RTN","VBECRPCD",1,0)
+VBECRPCD ;DALOI/RLM - Lookup HOSPITAL LOCATION based on DIVISION ;12 January 2004
+"RTN","VBECRPCD",2,0)
+ ;;1.0;VBECS;**3**;Apr 14, 2005;Build 21
+"RTN","VBECRPCD",3,0)
+ ;
+"RTN","VBECRPCD",4,0)
+ ; Note: This routine supports data exchange with an FDA registered
+"RTN","VBECRPCD",5,0)
+ ; medical device. As such, it may not be changed in any way without
+"RTN","VBECRPCD",6,0)
+ ; prior written approval from the medical device manufacturer.
+"RTN","VBECRPCD",7,0)
+ ; 
+"RTN","VBECRPCD",8,0)
+ ; Integration Agreements:
+"RTN","VBECRPCD",9,0)
+ ; Reference to ^SC( supported by IA #10040
+"RTN","VBECRPCD",10,0)
+ ; Reference to $$SITE^VASITE supported by IA #10112
+"RTN","VBECRPCD",11,0)
+ ; Reference to $$CHARCHK^XOBVLIB supported by IA #4090
+"RTN","VBECRPCD",12,0)
+ ;
+"RTN","VBECRPCD",13,0)
+ ; This routine should not be called from the top.
+"RTN","VBECRPCD",14,0)
+ QUIT
+"RTN","VBECRPCD",15,0)
+ ;
+"RTN","VBECRPCD",16,0)
+LOC(RESULTS,DIV) ; Main RPC Entry
+"RTN","VBECRPCD",17,0)
+ S VBECCNT=0
+"RTN","VBECRPCD",18,0)
+ S RESULTS=$NA(^TMP("VBECHLOC",$J))
+"RTN","VBECRPCD",19,0)
+ K @RESULTS
+"RTN","VBECRPCD",20,0)
+ D BEGROOT^VBECRPC("HospitalLocations")
+"RTN","VBECRPCD",21,0)
+ I DIV="" D  Q
+"RTN","VBECRPCD",22,0)
+ . D ADD^VBECRPC("<Error>No Division Provided</Error>")
+"RTN","VBECRPCD",23,0)
+ . D ENDROOT^VBECRPC("HospitalLocations")
+"RTN","VBECRPCD",24,0)
+ . Q
+"RTN","VBECRPCD",25,0)
+ I DIV]"" D LOOK
+"RTN","VBECRPCD",26,0)
+ D ENDROOT^VBECRPC("HospitalLocations")
+"RTN","VBECRPCD",27,0)
+ Q
+"RTN","VBECRPCD",28,0)
+LOOK ;
+"RTN","VBECRPCD",29,0)
+ S VBECA=0 F  S VBECA=$O(^SC(VBECA)) Q:'VBECA  D
+"RTN","VBECRPCD",30,0)
+  . Q:'$P(^SC(VBECA,0),U,15)  ;No Division
+"RTN","VBECRPCD",31,0)
+  . Q:$D(^SC(VBECA,"I"))  ;Inactive Location???
+"RTN","VBECRPCD",32,0)
+  . Q:"CWOR"'[$P(^SC(VBECA,0),U,3)  ;Clinic, Ward, or Operating Room
+"RTN","VBECRPCD",33,0)
+  . I DIV=$P($$SITE^VASITE(DT,+$P(^SC(VBECA,0),U,15)),U,3) D
+"RTN","VBECRPCD",34,0)
+  . . D BEGROOT^VBECRPC("Location")
+"RTN","VBECRPCD",35,0)
+  . . D ADD^VBECRPC("<LocationName>"_$$CHARCHK^XOBVLIB($$WSTRIP($P(^SC(VBECA,0),U)))_"</LocationName>")
+"RTN","VBECRPCD",36,0)
+  . . D ADD^VBECRPC("<LocationIEN>"_$$CHARCHK^XOBVLIB(VBECA)_"</LocationIEN>")
+"RTN","VBECRPCD",37,0)
+  . . D ADD^VBECRPC("<LocationType>"_$$CHARCHK^XOBVLIB($P(^SC(VBECA,0),U,3))_"</LocationType>")
+"RTN","VBECRPCD",38,0)
+  . . D ENDROOT^VBECRPC("Location")
+"RTN","VBECRPCD",39,0)
+ Q
+"RTN","VBECRPCD",40,0)
+KILL ;
+"RTN","VBECRPCD",41,0)
+ K DIV,VBDATA,VBECA,VBECCNT
+"RTN","VBECRPCD",42,0)
+ Q
+"RTN","VBECRPCD",43,0)
+WSTRIP(VBDATA) ;Strip White Space
+"RTN","VBECRPCD",44,0)
+ F  Q:$E(VBDATA,$L(VBDATA))'=" "  S VBDATA=$E(VBDATA,1,$L(VBDATA)-1)
+"RTN","VBECRPCD",45,0)
+ F  Q:$E(VBDATA,1)'=" "  S VBDATA=$E(VBDATA,2,$L(VBDATA))
+"RTN","VBECRPCD",46,0)
+ Q VBDATA
+"RTN","VBECRPCD",47,0)
+ ;
+"RTN","VBECRPCD",48,0)
+TESTLOC ; Entry point to write the results of the Get Hospital Locations RPC
+"RTN","VBECRPCD",49,0)
+ ; Function in XML format
+"RTN","VBECRPCD",50,0)
+ ;
+"RTN","VBECRPCD",51,0)
+ S VBECTST=1
+"RTN","VBECRPCD",52,0)
+ D LOC(.RESULTS,"589")
+"RTN","VBECRPCD",53,0)
+ S X=0
+"RTN","VBECRPCD",54,0)
+ F  S X=$O(@RESULTS@(X)) Q:X=""  D
+"RTN","VBECRPCD",55,0)
+ . W @RESULTS@(X)
+"RTN","VBECRPCD",56,0)
+ Q
+"RTN","VBECRPCH")
+0^1^B3877808
+"RTN","VBECRPCH",1,0)
+VBECRPCH ; HOIFO/BNT - VBECS HCPCS Codes lookup;19 May 2004
+"RTN","VBECRPCH",2,0)
+ ;;1.0;VBECS;**3**;Apr 14, 2005;Build 21
+"RTN","VBECRPCH",3,0)
+ ;
+"RTN","VBECRPCH",4,0)
+ ; Note: This routine supports data exchange with an FDA registered
+"RTN","VBECRPCH",5,0)
+ ; medical device. As such, it may not be changed in any way without
+"RTN","VBECRPCH",6,0)
+ ; prior written approval from the medical device manufacturer.
+"RTN","VBECRPCH",7,0)
+ ; 
+"RTN","VBECRPCH",8,0)
+ ; Integration Agreements:
+"RTN","VBECRPCH",9,0)
+ ; Reference to CPT CATEGORY file supported by IA #1587
+"RTN","VBECRPCH",10,0)
+ ; Reference to CPT file supported by IA #4776
+"RTN","VBECRPCH",11,0)
+ ; Reference to LIST^DIC supported by IA #2051
+"RTN","VBECRPCH",12,0)
+ ; Reference to $$FIND1^DIC supported by IA #2051
+"RTN","VBECRPCH",13,0)
+ ; Reference to $$CHARCHK^XOBVLIB supported by IA #4090
+"RTN","VBECRPCH",14,0)
+ ; Reference to $$CPT^ICPTCOD supported by IA #1995
+"RTN","VBECRPCH",15,0)
+ ;
+"RTN","VBECRPCH",16,0)
+ QUIT
+"RTN","VBECRPCH",17,0)
+ ;
+"RTN","VBECRPCH",18,0)
+ ; ---------------------------------------------------------------
+"RTN","VBECRPCH",19,0)
+ ;       Private Method Supports IA #4610
+"RTN","VBECRPCH",20,0)
+ ; ---------------------------------------------------------------
+"RTN","VBECRPCH",21,0)
+HCPCS(RESULTS) ; Get active HCPCS codes from the CPT file for Path/Lab CPT Categories
+"RTN","VBECRPCH",22,0)
+ ;
+"RTN","VBECRPCH",23,0)
+ N OUT,X
+"RTN","VBECRPCH",24,0)
+ S VBECCNT=0
+"RTN","VBECRPCH",25,0)
+ S RESULTS=$NA(^TMP("VBECHCPCS",$J))
+"RTN","VBECRPCH",26,0)
+ K @RESULTS,^TMP("DILIST",$J)
+"RTN","VBECRPCH",27,0)
+ D BEGROOT^VBECRPC("Root")
+"RTN","VBECRPCH",28,0)
+ S VBHPC=$$FIND1^DIC(81.1,,,"PATHOLOGY AND LABORATORY SERVICES",,,"VBERR")
+"RTN","VBECRPCH",29,0)
+ I 'VBHPC!($D(VBERR)) D  Q
+"RTN","VBECRPCH",30,0)
+ . D ERROR^VBECRPC("Error collecting HCPCS data")
+"RTN","VBECRPCH",31,0)
+ . D ENDROOT^VBECRPC("Root")
+"RTN","VBECRPCH",32,0)
+ . Q
+"RTN","VBECRPCH",33,0)
+ S VBSCRN="N CPT S CPT=$$CPT^ICPTCOD(Y) I $P(CPT,U,4)="_VBHPC_",$P(CPT,U,7),$P(CPT,U,5)=""H"""
+"RTN","VBECRPCH",34,0)
+ D LIST^DIC(81,,.01,,,,,"D",VBSCRN,,.OUT,"VBERR")
+"RTN","VBECRPCH",35,0)
+ I $D(VBERR) D  Q
+"RTN","VBECRPCH",36,0)
+ . D ERROR^VBECRPC("Error collecting HCPCS data")
+"RTN","VBECRPCH",37,0)
+ . D ENDROOT^VBECRPC("Root")
+"RTN","VBECRPCH",38,0)
+ . Q
+"RTN","VBECRPCH",39,0)
+ ;Replace the next lines with code to call $$CPT^ICPTCOD(x) and get code and name.
+"RTN","VBECRPCH",40,0)
+ ;Use ^XTMP($J,"DILIST","ID",n,.01)=P2028 to get the code (28 characters)
+"RTN","VBECRPCH",41,0)
+ S VBB=0 F  S VBB=$O(^TMP("DILIST",$J,"ID",VBB)) Q:'VBB  S VBDATA=^TMP("DILIST",$J,"ID",VBB,.01) D
+"RTN","VBECRPCH",42,0)
+  . S VBDATA=$$CPT^ICPTCOD(VBDATA) Q:$P(VBDATA,"^")=-1
+"RTN","VBECRPCH",43,0)
+  . D ADD^VBECRPC("<HCPCS>")
+"RTN","VBECRPCH",44,0)
+  . D ADD^VBECRPC("<Code>"_$P(VBDATA,"^",2)_"</Code>")
+"RTN","VBECRPCH",45,0)
+  . D ADD^VBECRPC("<Name>"_$P(VBDATA,"^",3)_"</Name>")
+"RTN","VBECRPCH",46,0)
+  . D ADD^VBECRPC("</HCPCS>")
+"RTN","VBECRPCH",47,0)
+ ;S VBB=0 F  S VBB=$O(^TMP("DILIST",$J,"ID",VBB)) Q:'VBB  S VBDATA="" D
+"RTN","VBECRPCH",48,0)
+ ; . D ADD^VBECRPC("<HCPCS>")
+"RTN","VBECRPCH",49,0)
+ ; . F VBC=".01^Code","2^Name" D ADD^VBECRPC("<"_$P(VBC,"^",2)_">"_$$STRIPL^VBECRPC($$CHARCHK^XOBVLIB(^TMP("DILIST",$J,"ID",VBB,$P(VBC,"^"))))_"</"_$P(VBC,"^",2)_">")
+"RTN","VBECRPCH",50,0)
+ ; . D ADD^VBECRPC("</HCPCS>")
+"RTN","VBECRPCH",51,0)
+ D ENDROOT^VBECRPC("Root")
+"RTN","VBECRPCH",52,0)
+ K @OUT,VBB,VBC,VBDATA,VBECCNT,VBFLD,VBHPC,VBSCRN
+"RTN","VBECRPCH",53,0)
+ Q
+"RTN","VBECVLC")
+0^5^B23211956
+"RTN","VBECVLC",1,0)
+VBECVLC ;HOIFO/BNT-VBECS VistALink Client ;07/27/2002
+"RTN","VBECVLC",2,0)
+ ;;1.0;VBECS;**3**;Apr 14, 2005;Build 21
+"RTN","VBECVLC",3,0)
+ ;
+"RTN","VBECVLC",4,0)
+ ; Note: This routine supports data exchange with an FDA registered
+"RTN","VBECVLC",5,0)
+ ; medical device. As such, it may not be changed in any way without
+"RTN","VBECVLC",6,0)
+ ; prior written approval from the medical device manufacturer.
+"RTN","VBECVLC",7,0)
+ ; 
+"RTN","VBECVLC",8,0)
+ ; Integration Agreements:
+"RTN","VBECVLC",9,0)
+ ;  Call to XOBVLIB Supported by IA #4090
+"RTN","VBECVLC",10,0)
+ ;  Reference to %ZOSV supported by IA #10097
+"RTN","VBECVLC",11,0)
+ ;  Reference to %ZTER supported by IA #1621
+"RTN","VBECVLC",12,0)
+ ;
+"RTN","VBECVLC",13,0)
+ QUIT
+"RTN","VBECVLC",14,0)
+ ;
+"RTN","VBECVLC",15,0)
+EXECUTE(VBECPRMS) ; -- Main entry point
+"RTN","VBECVLC",16,0)
+ NEW X,VBECI,VBECOK,VBECRES,VBECREF,VBECROOT,VBECREQ,VBECREAD,VBECTO,VBECFRST,VBECSTOP,VBECRL
+"RTN","VBECVLC",17,0)
+ NEW $ETRAP,$ESTACK S $ETRAP="D SYSERR^VBECVLC"
+"RTN","VBECVLC",18,0)
+ ;
+"RTN","VBECVLC",19,0)
+ ; -- if no 'results' node set, set it and kill it!
+"RTN","VBECVLC",20,0)
+ IF $G(VBECPRMS("RESULTS"))="" SET VBECPRMS("RESULTS")=$NA(^TMP("VBECVLC",$J,"XML"))
+"RTN","VBECVLC",21,0)
+ SET VBECROOT=VBECPRMS("RESULTS")
+"RTN","VBECVLC",22,0)
+ KILL @VBECROOT
+"RTN","VBECVLC",23,0)
+ ;
+"RTN","VBECVLC",24,0)
+ SET VBECREQ=VBECPRMS("REQUEST")
+"RTN","VBECVLC",25,0)
+ ;
+"RTN","VBECVLC",26,0)
+ ; -- intialize result flag to 'failed' (0)
+"RTN","VBECVLC",27,0)
+ SET VBECRES=0
+"RTN","VBECVLC",28,0)
+ ;
+"RTN","VBECVLC",29,0)
+ ; -- application can pass in address/port
+"RTN","VBECVLC",30,0)
+ IF '$D(VBECPRMS("ADDRESS")) D CLIERR(1,.VBECROOT) GOTO MAINQ
+"RTN","VBECVLC",31,0)
+ IF '$D(VBECPRMS("PORT")) D CLIERR(2,.VBECROOT) GOTO MAINQ
+"RTN","VBECVLC",32,0)
+ ;
+"RTN","VBECVLC",33,0)
+ ;  Retry open only once to prevent delay in calling application
+"RTN","VBECVLC",34,0)
+ SET VBECPRMS("RETRIES")=1
+"RTN","VBECVLC",35,0)
+ IF '$$OPEN^VBECRL(.VBECPRMS) D CLIERR(3,.VBECROOT) GOTO MAINQ
+"RTN","VBECVLC",36,0)
+ ;
+"RTN","VBECVLC",37,0)
+ ; -- write request
+"RTN","VBECVLC",38,0)
+ DO PRE^VBECRL
+"RTN","VBECVLC",39,0)
+ SET VBECI=0 FOR  SET VBECI=$O(@VBECREQ@(VBECI)) Q:'VBECI  DO WRITE^VBECRL(@VBECREQ@(VBECI))
+"RTN","VBECVLC",40,0)
+ ;
+"RTN","VBECVLC",41,0)
+ ; -- send eot and flush buffer
+"RTN","VBECVLC",42,0)
+ DO POST^VBECRL
+"RTN","VBECVLC",43,0)
+ ;
+"RTN","VBECVLC",44,0)
+ ; -- set inputs and read results
+"RTN","VBECVLC",45,0)
+ SET VBECREAD=255,VBECTO=1,VBECFRST=0,VBECSTOP=0
+"RTN","VBECVLC",46,0)
+ SET VBECOK=$$READ^VBECRL(VBECROOT,.VBECREAD,.VBECTO,.VBECFRST,.VBECSTOP)
+"RTN","VBECVLC",47,0)
+ ;
+"RTN","VBECVLC",48,0)
+ ; -- close port
+"RTN","VBECVLC",49,0)
+ DO CLOSE^VBECRL(.VBECPRMS)
+"RTN","VBECVLC",50,0)
+ ;
+"RTN","VBECVLC",51,0)
+ ; -- set result flag to 'successful' (1)
+"RTN","VBECVLC",52,0)
+ SET VBECRES=1
+"RTN","VBECVLC",53,0)
+ ;
+"RTN","VBECVLC",54,0)
+MAINQ ;
+"RTN","VBECVLC",55,0)
+ QUIT VBECRES
+"RTN","VBECVLC",56,0)
+ ;
+"RTN","VBECVLC",57,0)
+ ; -----------------------------------------------------
+"RTN","VBECVLC",58,0)
+ ;         Client Error Handler
+"RTN","VBECVLC",59,0)
+ ; -----------------------------------------------------
+"RTN","VBECVLC",60,0)
+CLIERR(VBECCODE,VBECROOT) ; -- send client error message
+"RTN","VBECVLC",61,0)
+ NEW VBECDAT
+"RTN","VBECVLC",62,0)
+ SET VBECDAT("MESSAGE TYPE")="gov.va.med.foundations.rpc.fault"
+"RTN","VBECVLC",63,0)
+ SET VBECDAT("ERRORS",1,"CODE")=1
+"RTN","VBECVLC",64,0)
+ SET VBECDAT("ERRORS",1,"ERROR TYPE")="client"
+"RTN","VBECVLC",65,0)
+ SET VBECDAT("ERRORS",1,"CDATA")=1
+"RTN","VBECVLC",66,0)
+ SET VBECDAT("ERRORS",1,"MESSAGE")=$P($TEXT(CLIERRS+VBECCODE),";;",2)
+"RTN","VBECVLC",67,0)
+ DO BUILD(.VBECROOT,.VBECDAT)
+"RTN","VBECVLC",68,0)
+ QUIT
+"RTN","VBECVLC",69,0)
+ ;
+"RTN","VBECVLC",70,0)
+ ; ------------------------------------------------------
+"RTN","VBECVLC",71,0)
+ ;         System Error Handler
+"RTN","VBECVLC",72,0)
+ ; ------------------------------------------------------
+"RTN","VBECVLC",73,0)
+SYSERR ; -- send system error message
+"RTN","VBECVLC",74,0)
+ NEW VBECDAT,VBECMSG,$ETRAP
+"RTN","VBECVLC",75,0)
+ SET $ETRAP="D ^%ZTER HALT" ; -- If we get an error in the error handler just Halt
+"RTN","VBECVLC",76,0)
+ SET VBECMSG=$$EC^%ZOSV      ; -- Get the error code
+"RTN","VBECVLC",77,0)
+ DO ^%ZTER                  ; -- Save off the error
+"RTN","VBECVLC",78,0)
+ ;
+"RTN","VBECVLC",79,0)
+ SET VBECDAT("MESSAGE TYPE")="gov.va.med.foundations.rpc.fault"
+"RTN","VBECVLC",80,0)
+ SET VBECDAT("ERRORS",1,"CODE")=1
+"RTN","VBECVLC",81,0)
+ SET VBECDAT("ERRORS",1,"ERROR TYPE")="system"
+"RTN","VBECVLC",82,0)
+ SET VBECDAT("ERRORS",1,"CDATA")=1
+"RTN","VBECVLC",83,0)
+ SET VBECDAT("ERRORS",1,"MESSAGE")=$P($TEXT(SYSERRS+1),";;",2)_VBECMSG
+"RTN","VBECVLC",84,0)
+ DO BUILD(.VBECROOT,.VBECDAT)
+"RTN","VBECVLC",85,0)
+ QUIT
+"RTN","VBECVLC",86,0)
+ ;
+"RTN","VBECVLC",87,0)
+BUILD(VBECY,VBECDAT) ;  -- store built xml in passed store reference (VBECY)
+"RTN","VBECVLC",88,0)
+ ; -- input format
+"RTN","VBECVLC",89,0)
+ ; VBECDAT("MESSAGE TYPE") = type of message (ex. gov.va.med.foundations.rpc.fault) 
+"RTN","VBECVLC",90,0)
+ ; VBECDAT("ERRORS",<integer>,"CODE") = error code
+"RTN","VBECVLC",91,0)
+ ; VBECDAT("ERRORS",<integer>,"ERROR TYPE") = type of error (system/application/security)
+"RTN","VBECVLC",92,0)
+ ; VBECDAT("ERRORS",<integer>,"MESSAGE",<integer>) = error message
+"RTN","VBECVLC",93,0)
+ ; 
+"RTN","VBECVLC",94,0)
+ NEW VBECCODE,VBECI,VBECERR,VBECLINE,VBECETYP
+"RTN","VBECVLC",95,0)
+ SET VBECLINE=0
+"RTN","VBECVLC",96,0)
+ ;
+"RTN","VBECVLC",97,0)
+ DO ADD($$XMLHDR^XOBVLIB())
+"RTN","VBECVLC",98,0)
+ DO ADD("<VistaLink messageType="""_$G(VBECDAT("MESSAGE TYPE"))_""" version=""1.0"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:noNamespaceSchemaLocation=""rpcFault.xsd"" >")
+"RTN","VBECVLC",99,0)
+ DO ADD("xmlns=""http://domain.ext/Foundations"">")
+"RTN","VBECVLC",100,0)
+ DO ADD("<Fault>")
+"RTN","VBECVLC",101,0)
+ DO ADD("<FaultString>Internal Application Error</FaultString>")
+"RTN","VBECVLC",102,0)
+ DO ADD("<FaultActor>VBECS VistaLink Client</FaultActor>")
+"RTN","VBECVLC",103,0)
+ SET VBECERR=0
+"RTN","VBECVLC",104,0)
+ FOR  SET VBECERR=$O(VBECDAT("ERRORS",VBECERR)) Q:'VBECERR  DO
+"RTN","VBECVLC",105,0)
+ . SET VBECCODE=$G(VBECDAT("ERRORS",VBECERR,"CODE"),0)
+"RTN","VBECVLC",106,0)
+ . SET VBECETYP=$G(VBECDAT("ERRORS",VBECERR,"ERROR TYPE"),0)
+"RTN","VBECVLC",107,0)
+ . DO ADD("<Detail>")
+"RTN","VBECVLC",108,0)
+ . DO ADD("<Error code="""_VBECCODE_""" type="""_VBECETYP_""" >")
+"RTN","VBECVLC",109,0)
+ . DO ADD("<Message>"_$$CHARCHK^XOBVLIB(VBECDAT("ERRORS",VBECERR,"MESSAGE"))_"</Message>")
+"RTN","VBECVLC",110,0)
+ . DO ADD("</Error>")
+"RTN","VBECVLC",111,0)
+ . DO ADD("</Detail>")
+"RTN","VBECVLC",112,0)
+ DO ADD("</Fault>")
+"RTN","VBECVLC",113,0)
+ DO ADD("</VistaLink>")
+"RTN","VBECVLC",114,0)
+ ;
+"RTN","VBECVLC",115,0)
+ QUIT
+"RTN","VBECVLC",116,0)
+ ;
+"RTN","VBECVLC",117,0)
+ADD(TXT) ; -- add line
+"RTN","VBECVLC",118,0)
+ SET VBECLINE=VBECLINE+1
+"RTN","VBECVLC",119,0)
+ SET @VBECY@(VBECLINE)=TXT
+"RTN","VBECVLC",120,0)
+ QUIT
+"RTN","VBECVLC",121,0)
+ ;
+"RTN","VBECVLC",122,0)
+CLIERRS ; -- VistALink client errors
+"RTN","VBECVLC",123,0)
+ ;;'Address' parameter not specified.
+"RTN","VBECVLC",124,0)
+ ;;'Port' parameter not specified.
+"RTN","VBECVLC",125,0)
+ ;;Unable to retrieve patient information at this time, please contact the Blood Bank. [restart VBECS VistALink listener]
+"RTN","VBECVLC",126,0)
+ ;
+"RTN","VBECVLC",127,0)
+SYSERRS ; -- application errors
+"RTN","VBECVLC",128,0)
+ ;;A system error occurred in M: "
+"VER")
+8.0^22.0
+**END**
+**END**

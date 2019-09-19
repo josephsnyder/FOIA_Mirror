@@ -1,0 +1,1908 @@
+KIDS Distribution saved on Mar 18, 2009@13:54:23
+VBEC*1*1 3/18/2009
+**KIDS**:VBEC*1.0*1^
+
+**INSTALL NAME**
+VBEC*1.0*1
+"BLD",5307,0)
+VBEC*1.0*1^VBECS^0^3090318^y
+"BLD",5307,1,0)
+^^158^158^3090318^
+"BLD",5307,1,1,0)
+This patch is being released in support of the VBECS (VistA Blood 
+"BLD",5307,1,2,0)
+Establishment Computer System) Blood Bank Package.  The routines, 
+"BLD",5307,1,3,0)
+protocols, remote procedures, and options in this patch are used by the 
+"BLD",5307,1,4,0)
+DSS (Decision Support System) and CPRS (Computerized Patient Record 
+"BLD",5307,1,5,0)
+System).  There is no direct user interaction with the contents of this 
+"BLD",5307,1,6,0)
+patch.
+"BLD",5307,1,7,0)
+ 
+"BLD",5307,1,8,0)
+Routines: VBECDSS
+"BLD",5307,1,9,0)
+========  VBECHLOR
+"BLD",5307,1,10,0)
+ 
+"BLD",5307,1,11,0)
+Options:  VBECS VISTALINK CONTEXT
+"BLD",5307,1,12,0)
+========
+"BLD",5307,1,13,0)
+ 
+"BLD",5307,1,14,0)
+ 
+"BLD",5307,1,15,0)
+Protocols: VBEC OMG CLIENT
+"BLD",5307,1,16,0)
+========== 
+"BLD",5307,1,17,0)
+ 
+"BLD",5307,1,18,0)
+Remote Procedures: VBEC DSS EXTRACT
+"BLD",5307,1,19,0)
+==================
+"BLD",5307,1,20,0)
+ 
+"BLD",5307,1,21,0)
+ 
+"BLD",5307,1,22,0)
+Files: VBECS DSS EXTRACT  (# 6002.03)
+"BLD",5307,1,23,0)
+======
+"BLD",5307,1,24,0)
+ 
+"BLD",5307,1,25,0)
+Associated ICRs: None
+"BLD",5307,1,26,0)
+=============== 
+"BLD",5307,1,27,0)
+ 
+"BLD",5307,1,28,0)
+ 
+"BLD",5307,1,29,0)
+Associated Remedy Tickets:  None
+"BLD",5307,1,30,0)
+==========================
+"BLD",5307,1,31,0)
+ 
+"BLD",5307,1,32,0)
+ 
+"BLD",5307,1,33,0)
+Associated NSR/E3R: None
+"BLD",5307,1,34,0)
+==============
+"BLD",5307,1,35,0)
+ 
+"BLD",5307,1,36,0)
+ Test Site(s):
+"BLD",5307,1,37,0)
+==============
+"BLD",5307,1,38,0)
+ 
+"BLD",5307,1,39,0)
+ HEARTLAND-EAST HCS
+"BLD",5307,1,40,0)
+ PHILADELPHIA, PA
+"BLD",5307,1,41,0)
+ SAN DIEGO, CA
+"BLD",5307,1,42,0)
+ 
+"BLD",5307,1,43,0)
+ Installation Information:
+"BLD",5307,1,44,0)
+==========================
+"BLD",5307,1,45,0)
+ 
+"BLD",5307,1,46,0)
+VBEC*1*1 is being exported as part of the VBECS package release.  The 
+"BLD",5307,1,47,0)
+installation of VBEC*1*1 will be controlled by phase a phased release.  
+"BLD",5307,1,48,0)
+An Implementation Manager will be assigned to your site and will contact 
+"BLD",5307,1,49,0)
+your POC for VBECS and will provide your site with the location of the 
+"BLD",5307,1,50,0)
+KIDS Host Files prior to your scheduled installation date. 
+"BLD",5307,1,51,0)
+ 
+"BLD",5307,1,52,0)
+Installation Sequence
+"BLD",5307,1,53,0)
+=====================
+"BLD",5307,1,54,0)
+ 
+"BLD",5307,1,55,0)
+The patches listed below represent those that will be part of the 
+"BLD",5307,1,56,0)
+controlled phased release.  Follow the sequence listed below when your 
+"BLD",5307,1,57,0)
+phased installation occurs.
+"BLD",5307,1,58,0)
+ 
+"BLD",5307,1,59,0)
+  1. LR*5.2*335
+"BLD",5307,1,60,0)
+  2. LR*5.2*367
+"BLD",5307,1,61,0)
+  3. VBECS Bundle (consisting of VBEC*1*0 and LR*5.2*325)
+"BLD",5307,1,62,0)
+  4. VBEC*1.0*1
+"BLD",5307,1,63,0)
+  5. OR*3.0*212
+"BLD",5307,1,64,0)
+ 
+"BLD",5307,1,65,0)
+ Installation File:
+"BLD",5307,1,66,0)
+ 
+"BLD",5307,1,67,0)
+VBEC_1_1.KID 
+"BLD",5307,1,68,0)
+The VBEC_1_1.KID file will be made available by the Implementation 
+"BLD",5307,1,69,0)
+Manager prior to your site's implementation schedule along with 
+"BLD",5307,1,70,0)
+instruction to retrieve. 
+"BLD",5307,1,71,0)
+ 
+"BLD",5307,1,72,0)
+ 
+"BLD",5307,1,73,0)
+Documentation Retrieval:
+"BLD",5307,1,74,0)
+ 
+"BLD",5307,1,75,0)
+Documentation is available for the entire VBECS package on the 
+"BLD",5307,1,76,0)
+ANONYMOUS.SOFTWRE directory at one of the following Office of Information 
+"BLD",5307,1,77,0)
+(OI) Field Offices.  Sites may retrieve documentation in either ".PDF" or 
+"BLD",5307,1,78,0)
+"DOC" format in one of the following ways:
+"BLD",5307,1,79,0)
+ 
+"BLD",5307,1,80,0)
+1.      The preferred method is to FTP the files from :
+"BLD",5307,1,81,0)
+Download.vista.domain.ext
+"BLD",5307,1,82,0)
+ 
+"BLD",5307,1,83,0)
+2.      Sites may also elect to retrieve documentation directly from a 
+"BLD",5307,1,84,0)
+specific server as follows:
+"BLD",5307,1,85,0)
+       Albany                  DOMAIN.EXT
+"BLD",5307,1,86,0)
+       Hines                   DOMAIN.EXT
+"BLD",5307,1,87,0)
+       Salt Lake City          DOMAIN.EXT
+"BLD",5307,1,88,0)
+ 
+"BLD",5307,1,89,0)
+NOTE:  The documentation files listed below will be listed in each of the 
+"BLD",5307,1,90,0)
+VBECS and LR patches that are part of the VBECS package and associate 
+"BLD",5307,1,91,0)
+patches, they only need to be downloaded once.
+"BLD",5307,1,92,0)
+ 
+"BLD",5307,1,93,0)
+File Name                                   Retrieval format:  Binary
+"BLD",5307,1,94,0)
+===========                                 ==========================
+"BLD",5307,1,95,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5307,1,96,0)
+ADPAC Guide.doc
+"BLD",5307,1,97,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5307,1,98,0)
+ADPAC Guide.pdf
+"BLD",5307,1,99,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5307,1,100,0)
+Installation and User Guide.doc
+"BLD",5307,1,101,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5307,1,102,0)
+Installation and User Guide.pdf
+"BLD",5307,1,103,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5307,1,104,0)
+Technical Manual.doc
+"BLD",5307,1,105,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"BLD",5307,1,106,0)
+Technical Manual.pdf
+"BLD",5307,1,107,0)
+VBECS Data Conversion Recommended Validation Method.xls
+"BLD",5307,1,108,0)
+VBECS Application Interfacing Support Software Installation and User 
+"BLD",5307,1,109,0)
+Configuration Guide.doc
+"BLD",5307,1,110,0)
+VBECS Application Interfacing Support Software Installation and User 
+"BLD",5307,1,111,0)
+Configuration Guide.pdf
+"BLD",5307,1,112,0)
+VBECS Implementation Process.xls
+"BLD",5307,1,113,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"BLD",5307,1,114,0)
+Guide.doc
+"BLD",5307,1,115,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"BLD",5307,1,116,0)
+Guide.pdf
+"BLD",5307,1,117,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"BLD",5307,1,118,0)
+Manual-Security Guide.doc
+"BLD",5307,1,119,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"BLD",5307,1,120,0)
+Manual-Security Guide.pdf
+"BLD",5307,1,121,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.doc
+"BLD",5307,1,122,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.pdf
+"BLD",5307,1,123,0)
+Known Defects and Anomalies.doc
+"BLD",5307,1,124,0)
+Known Defects and Anomalies.pdf
+"BLD",5307,1,125,0)
+ 
+"BLD",5307,1,126,0)
+ 
+"BLD",5307,1,127,0)
+Installation Instructions:
+"BLD",5307,1,128,0)
+==========================
+"BLD",5307,1,129,0)
+This patch may be loaded with users on the system.
+"BLD",5307,1,130,0)
+Installation will take less than 5 minutes.
+"BLD",5307,1,131,0)
+ 
+"BLD",5307,1,132,0)
+    1) Use the 'LOAD A DISTRIBUTION' option on the KIDS Installation
+"BLD",5307,1,133,0)
+       menu. The Host File name is VBEC_1_1.KID .  Answer YES to the
+"BLD",5307,1,134,0)
+       question: "Want to Continue with Load? YES//"
+"BLD",5307,1,135,0)
+    2) From the Kernel Installation and Distribution System Menu,
+"BLD",5307,1,136,0)
+       select the Installation menu.
+"BLD",5307,1,137,0)
+    3) From this menu, you may elect to use the following options
+"BLD",5307,1,138,0)
+       (when prompted for the INSTALL NAME, enter VBEC*1.0*1).
+"BLD",5307,1,139,0)
+       a) Backup a Transport Global - this option will create a backup
+"BLD",5307,1,140,0)
+          message of any routines exported with the patch.  It will NOT
+"BLD",5307,1,141,0)
+          backup any other changes such as DDs or templates.
+"BLD",5307,1,142,0)
+       b) Compare Transport Global to Current System - this option will
+"BLD",5307,1,143,0)
+          allow you to view all changes that will be made when the patch
+"BLD",5307,1,144,0)
+          is installed.  It compares all components of the patch
+"BLD",5307,1,145,0)
+          (routines, DDs, templates, etc.).
+"BLD",5307,1,146,0)
+       c) Verify Checksums in Transport Global - this option will allow
+"BLD",5307,1,147,0)
+          you to ensure the integrity of the routines that are in the
+"BLD",5307,1,148,0)
+          transport global.
+"BLD",5307,1,149,0)
+       d) Print Transport Global - this option will allow you to view the
+"BLD",5307,1,150,0)
+          components of the KIDS build.
+"BLD",5307,1,151,0)
+    4) Use the Install Package(s) option and select the package
+"BLD",5307,1,152,0)
+       VBEC*1.0*1.
+"BLD",5307,1,153,0)
+    5) When prompted 'Want KIDS to Rebuild Menu Trees Upon Completion of
+"BLD",5307,1,154,0)
+       Install? NO//' respond YES
+"BLD",5307,1,155,0)
+    6) When prompted 'Want KIDS to INHIBIT LOGONs during the install?
+"BLD",5307,1,156,0)
+       NO//', respond NO.
+"BLD",5307,1,157,0)
+    7) When prompted 'Want to DISABLE Scheduled Options, Menu Options, and
+"BLD",5307,1,158,0)
+       Protocols? NO//', respond NO.
+"BLD",5307,4,0)
+^9.64PA^6002.03^1
+"BLD",5307,4,6002.03,0)
+6002.03
+"BLD",5307,4,6002.03,222)
+y^y^f^^^^n
+"BLD",5307,4,"B",6002.03,6002.03)
+
+"BLD",5307,6.3)
+9
+"BLD",5307,"ABNS",0)
+^9.66A^^
+"BLD",5307,"ABPKG")
+n^n
+"BLD",5307,"INIT")
+
+"BLD",5307,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",5307,"KRN",.4,0)
+.4
+"BLD",5307,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",5307,"KRN",.401,0)
+.401
+"BLD",5307,"KRN",.401,"NM",0)
+^9.68A^^0
+"BLD",5307,"KRN",.402,0)
+.402
+"BLD",5307,"KRN",.403,0)
+.403
+"BLD",5307,"KRN",.5,0)
+.5
+"BLD",5307,"KRN",.84,0)
+.84
+"BLD",5307,"KRN",3.6,0)
+3.6
+"BLD",5307,"KRN",3.6,"NM",0)
+^9.68A^^0
+"BLD",5307,"KRN",3.8,0)
+3.8
+"BLD",5307,"KRN",3.8,"NM",0)
+^9.68A^^0
+"BLD",5307,"KRN",9.2,0)
+9.2
+"BLD",5307,"KRN",9.8,0)
+9.8
+"BLD",5307,"KRN",9.8,"NM",0)
+^9.68A^2^2
+"BLD",5307,"KRN",9.8,"NM",1,0)
+VBECHLOR^^0^B17460611
+"BLD",5307,"KRN",9.8,"NM",2,0)
+VBECDSS^^0^B14002875
+"BLD",5307,"KRN",9.8,"NM","B","VBECDSS",2)
+
+"BLD",5307,"KRN",9.8,"NM","B","VBECHLOR",1)
+
+"BLD",5307,"KRN",19,0)
+19
+"BLD",5307,"KRN",19,"NM",0)
+^9.68A^1^1
+"BLD",5307,"KRN",19,"NM",1,0)
+VBECS VISTALINK CONTEXT^^0
+"BLD",5307,"KRN",19,"NM","B","VBECS VISTALINK CONTEXT",1)
+
+"BLD",5307,"KRN",19.1,0)
+19.1
+"BLD",5307,"KRN",101,0)
+101
+"BLD",5307,"KRN",101,"NM",0)
+^9.68A^1^1
+"BLD",5307,"KRN",101,"NM",1,0)
+VBECS OMG CLIENT^^0
+"BLD",5307,"KRN",101,"NM","B","VBECS OMG CLIENT",1)
+
+"BLD",5307,"KRN",409.61,0)
+409.61
+"BLD",5307,"KRN",771,0)
+771
+"BLD",5307,"KRN",771,"NM",0)
+^9.68A^^0
+"BLD",5307,"KRN",870,0)
+870
+"BLD",5307,"KRN",870,"NM",0)
+^9.68A^^0
+"BLD",5307,"KRN",8989.51,0)
+8989.51
+"BLD",5307,"KRN",8989.51,"NM",0)
+^9.68A^^0
+"BLD",5307,"KRN",8989.52,0)
+8989.52
+"BLD",5307,"KRN",8989.52,"NM",0)
+^9.68A^^
+"BLD",5307,"KRN",8994,0)
+8994
+"BLD",5307,"KRN",8994,"NM",0)
+^9.68A^1^1
+"BLD",5307,"KRN",8994,"NM",1,0)
+VBECS DSS EXTRACT^^0
+"BLD",5307,"KRN",8994,"NM","B","VBECS DSS EXTRACT",1)
+
+"BLD",5307,"KRN","B",.4,.4)
+
+"BLD",5307,"KRN","B",.401,.401)
+
+"BLD",5307,"KRN","B",.402,.402)
+
+"BLD",5307,"KRN","B",.403,.403)
+
+"BLD",5307,"KRN","B",.5,.5)
+
+"BLD",5307,"KRN","B",.84,.84)
+
+"BLD",5307,"KRN","B",3.6,3.6)
+
+"BLD",5307,"KRN","B",3.8,3.8)
+
+"BLD",5307,"KRN","B",9.2,9.2)
+
+"BLD",5307,"KRN","B",9.8,9.8)
+
+"BLD",5307,"KRN","B",19,19)
+
+"BLD",5307,"KRN","B",19.1,19.1)
+
+"BLD",5307,"KRN","B",101,101)
+
+"BLD",5307,"KRN","B",409.61,409.61)
+
+"BLD",5307,"KRN","B",771,771)
+
+"BLD",5307,"KRN","B",870,870)
+
+"BLD",5307,"KRN","B",8989.51,8989.51)
+
+"BLD",5307,"KRN","B",8989.52,8989.52)
+
+"BLD",5307,"KRN","B",8994,8994)
+
+"BLD",5307,"QUES",0)
+^9.62^^
+"BLD",5307,"REQB",0)
+^9.611^1^1
+"BLD",5307,"REQB",1,0)
+LR*5.2*367^1
+"BLD",5307,"REQB","B","LR*5.2*367",1)
+
+"FIA",6002.03)
+VBECS DSS EXTRACT
+"FIA",6002.03,0)
+^VBEC(6002.03,
+"FIA",6002.03,0,0)
+6002.03
+"FIA",6002.03,0,1)
+y^y^f^^^^n
+"FIA",6002.03,0,10)
+
+"FIA",6002.03,0,11)
+
+"FIA",6002.03,0,"RLRO")
+
+"FIA",6002.03,0,"VR")
+1.0^VBEC
+"FIA",6002.03,6002.03)
+0
+"KRN",19,2926156,-1)
+0^1
+"KRN",19,2926156,0)
+VBECS VISTALINK CONTEXT^VBECS VistALink Remote Procedures^^B^^^^^^^^VBECS
+"KRN",19,2926156,1,0)
+^19.06^1^1^3081119^^^^
+"KRN",19,2926156,1,1,0)
+This option is used as the VBECS VistALink application context.
+"KRN",19,2926156,99.1)
+61219,33942
+"KRN",19,2926156,"RPC",0)
+^19.05P^17^17
+"KRN",19,2926156,"RPC",2,0)
+VBECS PATIENT LOOKUP
+"KRN",19,2926156,"RPC",4,0)
+VBECS HOSPITAL LOCATION LOOKUP
+"KRN",19,2926156,"RPC",5,0)
+VBECS LABORATORY TEST LOOKUP
+"KRN",19,2926156,"RPC",6,0)
+VBECS PROVIDER LOOKUP
+"KRN",19,2926156,"RPC",8,0)
+VBECS BLOOD BANK USER LOOKUP
+"KRN",19,2926156,"RPC",9,0)
+VBECS DIVISION LOOKUP
+"KRN",19,2926156,"RPC",10,0)
+VBECS WORKLOAD CODES LOOKUP
+"KRN",19,2926156,"RPC",11,0)
+VBECS MED PROFILE LOOKUP
+"KRN",19,2926156,"RPC",12,0)
+VBECS HCPCS CODES LOOKUP
+"KRN",19,2926156,"RPC",13,0)
+VBECS LAB ACCESSION UID LOOKUP
+"KRN",19,2926156,"RPC",14,0)
+VBECS LAB TEST RESULTS LOOKUP
+"KRN",19,2926156,"RPC",15,0)
+VBECS ACCESSION AREA LOOKUP
+"KRN",19,2926156,"RPC",16,0)
+VBECS LAB ORDER LOOKUP BY UID
+"KRN",19,2926156,"RPC",17,0)
+VBECS DSS EXTRACT
+"KRN",19,2926156,"U")
+VBECS VISTALINK REMOTE PROCEDU
+"KRN",101,6837,-1)
+0^1
+"KRN",101,6837,0)
+VBECS OMG CLIENT^^^S^^^^^^^^
+"KRN",101,6837,770)
+^OERR^^O20^^^VBECS-OERR^^^^ORG
+"KRN",101,6837,771)
+D EN^VBECHLOR
+"KRN",101,6837,773)
+0^0^0
+"KRN",8994,2672,-1)
+0^1
+"KRN",8994,2672,0)
+VBECS DSS EXTRACT^EN^VBECDSS^4^R
+"KRN",8994,2672,1,0)
+^8994.01^4^4^3071029^^^^
+"KRN",8994,2672,1,1,0)
+This RPC inserts or updates post transfusion related data in the VBECS DSS
+"KRN",8994,2672,1,2,0)
+EXTRACT file (#6002.03). The data is passed into the VBECDSS routine 
+"KRN",8994,2672,1,3,0)
+through the input parameters and a success indicator is returned to the 
+"KRN",8994,2672,1,4,0)
+Blood Bank medical device.
+"KRN",8994,2672,2,0)
+^8994.02A^2^1
+"KRN",8994,2672,2,2,0)
+PARAMS^1^999^1^1
+"KRN",8994,2672,2,2,1,0)
+^^26^26^3071029^
+"KRN",8994,2672,2,2,1,1,0)
+PARAMS("TRANSACTION ID") = Unique record identifier
+"KRN",8994,2672,2,2,1,2,0)
+PARAMS("DFN") = Patient identifier
+"KRN",8994,2672,2,2,1,3,0)
+PARAMS("ORDERING LOCATION") = Ordering Institution Identifier
+"KRN",8994,2672,2,2,1,4,0)
+PARAMS("TRANSFUSION LOCATION") = Tranfusing Institution identifier
+"KRN",8994,2672,2,2,1,5,0)
+PARAMS("PHYSICIAN") = Provider requesting blood product for transfusion
+"KRN",8994,2672,2,2,1,6,0)
+PARAMS("ORDERING PROVIDER") = Provider who ordered Type and Crossmatch
+"KRN",8994,2672,2,2,1,7,0)
+PARAMS("PRODUCT NAME") = Short blood product name
+"KRN",8994,2672,2,2,1,8,0)
+PARAMS("COMPONENT ABBREVIATION") = Abbreviation of blood component
+"KRN",8994,2672,2,2,1,9,0)
+PARAMS("NUMBER OF UNITS") = Number of pooled units transfused
+"KRN",8994,2672,2,2,1,10,0)
+PARAMS("TRANSFUSION DATE") = Date/time of transfusion
+"KRN",8994,2672,2,2,1,11,0)
+PARAMS("VOLUME") = Total volume of units transfused
+"KRN",8994,2672,2,2,1,12,0)
+PARAMS("REACTION TYPE") = Type of reaction indicated
+"KRN",8994,2672,2,2,1,13,0)
+PARAMS("UNIT MODIFICATION") = String of codes representing modifications 
+"KRN",8994,2672,2,2,1,14,0)
+   done on units transfused. String cannot exceed 6 character. 
+"KRN",8994,2672,2,2,1,15,0)
+   D = Deglycerolize
+"KRN",8994,2672,2,2,1,16,0)
+   F = Freeze
+"KRN",8994,2672,2,2,1,17,0)
+   I = Irradiate
+"KRN",8994,2672,2,2,1,18,0)
+   L = Leukoreduce
+"KRN",8994,2672,2,2,1,19,0)
+   P = Pool
+"KRN",8994,2672,2,2,1,20,0)
+   R = Rejuvenate
+"KRN",8994,2672,2,2,1,21,0)
+   S = Split/Divide
+"KRN",8994,2672,2,2,1,22,0)
+   T = Thaw
+"KRN",8994,2672,2,2,1,23,0)
+   U = Thaw/Pool Cryo
+"KRN",8994,2672,2,2,1,24,0)
+   V = Volume Reduce
+"KRN",8994,2672,2,2,1,25,0)
+   W = Wash
+"KRN",8994,2672,2,2,1,26,0)
+PARAMS("REACTION") = Yes or No value if a reaction was indicated.
+"KRN",8994,2672,2,"B","PARAMS",2)
+
+"KRN",8994,2672,2,"PARAMSEQ",1,2)
+
+"KRN",8994,2672,3,0)
+^8994.03^9^9^3071029^^^^
+"KRN",8994,2672,3,1,0)
+This RPC returns and XML document containing a SuccessIndicator element 
+"KRN",8994,2672,3,2,0)
+represented by either a 1 for a successful insert or update or a 0 for an 
+"KRN",8994,2672,3,3,0)
+unsuccessful insert or update in the VBECS DSS EXTRACT file (#6002.03).
+"KRN",8994,2672,3,4,0)
+ 
+"KRN",8994,2672,3,5,0)
+Example of successful transaction:
+"KRN",8994,2672,3,6,0)
+<ReturnValue><SuccessIndicator>1</SuccessIndicator></ReturnValue>
+"KRN",8994,2672,3,7,0)
+ 
+"KRN",8994,2672,3,8,0)
+Example of unsuccessful transaction:
+"KRN",8994,2672,3,9,0)
+<ReturnValue><SuccessIndicator>0</SuccessIndicator></ReturnValue>
+"MBREQ")
+0
+"ORD",15,101)
+101;15;;;PRO^XPDTA;PROF1^XPDIA;PROE1^XPDIA;PROF2^XPDIA;;PRODEL^XPDIA
+"ORD",15,101,0)
+PROTOCOL
+"ORD",16,8994)
+8994;16;1;;;;;;;RPCDEL^XPDIA1
+"ORD",16,8994,0)
+REMOTE PROCEDURE
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",649,-1)
+1^1
+"PKG",649,0)
+VBECS^VBEC^VistA Blood Establishment Computer System
+"PKG",649,20,0)
+^9.402P^^
+"PKG",649,22,0)
+^9.49I^1^1
+"PKG",649,22,1,0)
+1.0^3090318^3080103^1
+"PKG",649,22,1,"PAH",1,0)
+1^3090318^1
+"PKG",649,22,1,"PAH",1,1,0)
+^^158^158^3090318
+"PKG",649,22,1,"PAH",1,1,1,0)
+This patch is being released in support of the VBECS (VistA Blood 
+"PKG",649,22,1,"PAH",1,1,2,0)
+Establishment Computer System) Blood Bank Package.  The routines, 
+"PKG",649,22,1,"PAH",1,1,3,0)
+protocols, remote procedures, and options in this patch are used by the 
+"PKG",649,22,1,"PAH",1,1,4,0)
+DSS (Decision Support System) and CPRS (Computerized Patient Record 
+"PKG",649,22,1,"PAH",1,1,5,0)
+System).  There is no direct user interaction with the contents of this 
+"PKG",649,22,1,"PAH",1,1,6,0)
+patch.
+"PKG",649,22,1,"PAH",1,1,7,0)
+ 
+"PKG",649,22,1,"PAH",1,1,8,0)
+Routines: VBECDSS
+"PKG",649,22,1,"PAH",1,1,9,0)
+========  VBECHLOR
+"PKG",649,22,1,"PAH",1,1,10,0)
+ 
+"PKG",649,22,1,"PAH",1,1,11,0)
+Options:  VBECS VISTALINK CONTEXT
+"PKG",649,22,1,"PAH",1,1,12,0)
+========
+"PKG",649,22,1,"PAH",1,1,13,0)
+ 
+"PKG",649,22,1,"PAH",1,1,14,0)
+ 
+"PKG",649,22,1,"PAH",1,1,15,0)
+Protocols: VBEC OMG CLIENT
+"PKG",649,22,1,"PAH",1,1,16,0)
+========== 
+"PKG",649,22,1,"PAH",1,1,17,0)
+ 
+"PKG",649,22,1,"PAH",1,1,18,0)
+Remote Procedures: VBEC DSS EXTRACT
+"PKG",649,22,1,"PAH",1,1,19,0)
+==================
+"PKG",649,22,1,"PAH",1,1,20,0)
+ 
+"PKG",649,22,1,"PAH",1,1,21,0)
+ 
+"PKG",649,22,1,"PAH",1,1,22,0)
+Files: VBECS DSS EXTRACT  (# 6002.03)
+"PKG",649,22,1,"PAH",1,1,23,0)
+======
+"PKG",649,22,1,"PAH",1,1,24,0)
+ 
+"PKG",649,22,1,"PAH",1,1,25,0)
+Associated ICRs: None
+"PKG",649,22,1,"PAH",1,1,26,0)
+=============== 
+"PKG",649,22,1,"PAH",1,1,27,0)
+ 
+"PKG",649,22,1,"PAH",1,1,28,0)
+ 
+"PKG",649,22,1,"PAH",1,1,29,0)
+Associated Remedy Tickets:  None
+"PKG",649,22,1,"PAH",1,1,30,0)
+==========================
+"PKG",649,22,1,"PAH",1,1,31,0)
+ 
+"PKG",649,22,1,"PAH",1,1,32,0)
+ 
+"PKG",649,22,1,"PAH",1,1,33,0)
+Associated NSR/E3R: None
+"PKG",649,22,1,"PAH",1,1,34,0)
+==============
+"PKG",649,22,1,"PAH",1,1,35,0)
+ 
+"PKG",649,22,1,"PAH",1,1,36,0)
+ Test Site(s):
+"PKG",649,22,1,"PAH",1,1,37,0)
+==============
+"PKG",649,22,1,"PAH",1,1,38,0)
+ 
+"PKG",649,22,1,"PAH",1,1,39,0)
+ HEARTLAND-EAST HCS
+"PKG",649,22,1,"PAH",1,1,40,0)
+ PHILADELPHIA, PA
+"PKG",649,22,1,"PAH",1,1,41,0)
+ SAN DIEGO, CA
+"PKG",649,22,1,"PAH",1,1,42,0)
+ 
+"PKG",649,22,1,"PAH",1,1,43,0)
+ Installation Information:
+"PKG",649,22,1,"PAH",1,1,44,0)
+==========================
+"PKG",649,22,1,"PAH",1,1,45,0)
+ 
+"PKG",649,22,1,"PAH",1,1,46,0)
+VBEC*1*1 is being exported as part of the VBECS package release.  The 
+"PKG",649,22,1,"PAH",1,1,47,0)
+installation of VBEC*1*1 will be controlled by phase a phased release.  
+"PKG",649,22,1,"PAH",1,1,48,0)
+An Implementation Manager will be assigned to your site and will contact 
+"PKG",649,22,1,"PAH",1,1,49,0)
+your POC for VBECS and will provide your site with the location of the 
+"PKG",649,22,1,"PAH",1,1,50,0)
+KIDS Host Files prior to your scheduled installation date. 
+"PKG",649,22,1,"PAH",1,1,51,0)
+ 
+"PKG",649,22,1,"PAH",1,1,52,0)
+Installation Sequence
+"PKG",649,22,1,"PAH",1,1,53,0)
+=====================
+"PKG",649,22,1,"PAH",1,1,54,0)
+ 
+"PKG",649,22,1,"PAH",1,1,55,0)
+The patches listed below represent those that will be part of the 
+"PKG",649,22,1,"PAH",1,1,56,0)
+controlled phased release.  Follow the sequence listed below when your 
+"PKG",649,22,1,"PAH",1,1,57,0)
+phased installation occurs.
+"PKG",649,22,1,"PAH",1,1,58,0)
+ 
+"PKG",649,22,1,"PAH",1,1,59,0)
+  1. LR*5.2*335
+"PKG",649,22,1,"PAH",1,1,60,0)
+  2. LR*5.2*367
+"PKG",649,22,1,"PAH",1,1,61,0)
+  3. VBECS Bundle (consisting of VBEC*1*0 and LR*5.2*325)
+"PKG",649,22,1,"PAH",1,1,62,0)
+  4. VBEC*1.0*1
+"PKG",649,22,1,"PAH",1,1,63,0)
+  5. OR*3.0*212
+"PKG",649,22,1,"PAH",1,1,64,0)
+ 
+"PKG",649,22,1,"PAH",1,1,65,0)
+ Installation File:
+"PKG",649,22,1,"PAH",1,1,66,0)
+ 
+"PKG",649,22,1,"PAH",1,1,67,0)
+VBEC_1_1.KID 
+"PKG",649,22,1,"PAH",1,1,68,0)
+The VBEC_1_1.KID file will be made available by the Implementation 
+"PKG",649,22,1,"PAH",1,1,69,0)
+Manager prior to your site's implementation schedule along with 
+"PKG",649,22,1,"PAH",1,1,70,0)
+instruction to retrieve. 
+"PKG",649,22,1,"PAH",1,1,71,0)
+ 
+"PKG",649,22,1,"PAH",1,1,72,0)
+ 
+"PKG",649,22,1,"PAH",1,1,73,0)
+Documentation Retrieval:
+"PKG",649,22,1,"PAH",1,1,74,0)
+ 
+"PKG",649,22,1,"PAH",1,1,75,0)
+Documentation is available for the entire VBECS package on the 
+"PKG",649,22,1,"PAH",1,1,76,0)
+ANONYMOUS.SOFTWRE directory at one of the following Office of Information 
+"PKG",649,22,1,"PAH",1,1,77,0)
+(OI) Field Offices.  Sites may retrieve documentation in either ".PDF" or 
+"PKG",649,22,1,"PAH",1,1,78,0)
+"DOC" format in one of the following ways:
+"PKG",649,22,1,"PAH",1,1,79,0)
+ 
+"PKG",649,22,1,"PAH",1,1,80,0)
+1.      The preferred method is to FTP the files from :
+"PKG",649,22,1,"PAH",1,1,81,0)
+Download.vista.domain.ext
+"PKG",649,22,1,"PAH",1,1,82,0)
+ 
+"PKG",649,22,1,"PAH",1,1,83,0)
+2.      Sites may also elect to retrieve documentation directly from a 
+"PKG",649,22,1,"PAH",1,1,84,0)
+specific server as follows:
+"PKG",649,22,1,"PAH",1,1,85,0)
+       Albany                  DOMAIN.EXT
+"PKG",649,22,1,"PAH",1,1,86,0)
+       Hines                   DOMAIN.EXT
+"PKG",649,22,1,"PAH",1,1,87,0)
+       Salt Lake City          DOMAIN.EXT
+"PKG",649,22,1,"PAH",1,1,88,0)
+ 
+"PKG",649,22,1,"PAH",1,1,89,0)
+NOTE:  The documentation files listed below will be listed in each of the 
+"PKG",649,22,1,"PAH",1,1,90,0)
+VBECS and LR patches that are part of the VBECS package and associate 
+"PKG",649,22,1,"PAH",1,1,91,0)
+patches, they only need to be downloaded once.
+"PKG",649,22,1,"PAH",1,1,92,0)
+ 
+"PKG",649,22,1,"PAH",1,1,93,0)
+File Name                                   Retrieval format:  Binary
+"PKG",649,22,1,"PAH",1,1,94,0)
+===========                                 ==========================
+"PKG",649,22,1,"PAH",1,1,95,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",649,22,1,"PAH",1,1,96,0)
+ADPAC Guide.doc
+"PKG",649,22,1,"PAH",1,1,97,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",649,22,1,"PAH",1,1,98,0)
+ADPAC Guide.pdf
+"PKG",649,22,1,"PAH",1,1,99,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",649,22,1,"PAH",1,1,100,0)
+Installation and User Guide.doc
+"PKG",649,22,1,"PAH",1,1,101,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",649,22,1,"PAH",1,1,102,0)
+Installation and User Guide.pdf
+"PKG",649,22,1,"PAH",1,1,103,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",649,22,1,"PAH",1,1,104,0)
+Technical Manual.doc
+"PKG",649,22,1,"PAH",1,1,105,0)
+Blood Bank Pre-Implementation Data Validation, Mapping, and Conversion 
+"PKG",649,22,1,"PAH",1,1,106,0)
+Technical Manual.pdf
+"PKG",649,22,1,"PAH",1,1,107,0)
+VBECS Data Conversion Recommended Validation Method.xls
+"PKG",649,22,1,"PAH",1,1,108,0)
+VBECS Application Interfacing Support Software Installation and User 
+"PKG",649,22,1,"PAH",1,1,109,0)
+Configuration Guide.doc
+"PKG",649,22,1,"PAH",1,1,110,0)
+VBECS Application Interfacing Support Software Installation and User 
+"PKG",649,22,1,"PAH",1,1,111,0)
+Configuration Guide.pdf
+"PKG",649,22,1,"PAH",1,1,112,0)
+VBECS Implementation Process.xls
+"PKG",649,22,1,"PAH",1,1,113,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"PKG",649,22,1,"PAH",1,1,114,0)
+Guide.doc
+"PKG",649,22,1,"PAH",1,1,115,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Installation 
+"PKG",649,22,1,"PAH",1,1,116,0)
+Guide.pdf
+"PKG",649,22,1,"PAH",1,1,117,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"PKG",649,22,1,"PAH",1,1,118,0)
+Manual-Security Guide.doc
+"PKG",649,22,1,"PAH",1,1,119,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 Technical 
+"PKG",649,22,1,"PAH",1,1,120,0)
+Manual-Security Guide.pdf
+"PKG",649,22,1,"PAH",1,1,121,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.doc
+"PKG",649,22,1,"PAH",1,1,122,0)
+VistA Blood Establishment Computer Software (VBECS) 1.4.0.0 User Guide.pdf
+"PKG",649,22,1,"PAH",1,1,123,0)
+Known Defects and Anomalies.doc
+"PKG",649,22,1,"PAH",1,1,124,0)
+Known Defects and Anomalies.pdf
+"PKG",649,22,1,"PAH",1,1,125,0)
+ 
+"PKG",649,22,1,"PAH",1,1,126,0)
+ 
+"PKG",649,22,1,"PAH",1,1,127,0)
+Installation Instructions:
+"PKG",649,22,1,"PAH",1,1,128,0)
+==========================
+"PKG",649,22,1,"PAH",1,1,129,0)
+This patch may be loaded with users on the system.
+"PKG",649,22,1,"PAH",1,1,130,0)
+Installation will take less than 5 minutes.
+"PKG",649,22,1,"PAH",1,1,131,0)
+ 
+"PKG",649,22,1,"PAH",1,1,132,0)
+    1) Use the 'LOAD A DISTRIBUTION' option on the KIDS Installation
+"PKG",649,22,1,"PAH",1,1,133,0)
+       menu. The Host File name is VBEC_1_1.KID .  Answer YES to the
+"PKG",649,22,1,"PAH",1,1,134,0)
+       question: "Want to Continue with Load? YES//"
+"PKG",649,22,1,"PAH",1,1,135,0)
+    2) From the Kernel Installation and Distribution System Menu,
+"PKG",649,22,1,"PAH",1,1,136,0)
+       select the Installation menu.
+"PKG",649,22,1,"PAH",1,1,137,0)
+    3) From this menu, you may elect to use the following options
+"PKG",649,22,1,"PAH",1,1,138,0)
+       (when prompted for the INSTALL NAME, enter VBEC*1.0*1).
+"PKG",649,22,1,"PAH",1,1,139,0)
+       a) Backup a Transport Global - this option will create a backup
+"PKG",649,22,1,"PAH",1,1,140,0)
+          message of any routines exported with the patch.  It will NOT
+"PKG",649,22,1,"PAH",1,1,141,0)
+          backup any other changes such as DDs or templates.
+"PKG",649,22,1,"PAH",1,1,142,0)
+       b) Compare Transport Global to Current System - this option will
+"PKG",649,22,1,"PAH",1,1,143,0)
+          allow you to view all changes that will be made when the patch
+"PKG",649,22,1,"PAH",1,1,144,0)
+          is installed.  It compares all components of the patch
+"PKG",649,22,1,"PAH",1,1,145,0)
+          (routines, DDs, templates, etc.).
+"PKG",649,22,1,"PAH",1,1,146,0)
+       c) Verify Checksums in Transport Global - this option will allow
+"PKG",649,22,1,"PAH",1,1,147,0)
+          you to ensure the integrity of the routines that are in the
+"PKG",649,22,1,"PAH",1,1,148,0)
+          transport global.
+"PKG",649,22,1,"PAH",1,1,149,0)
+       d) Print Transport Global - this option will allow you to view the
+"PKG",649,22,1,"PAH",1,1,150,0)
+          components of the KIDS build.
+"PKG",649,22,1,"PAH",1,1,151,0)
+    4) Use the Install Package(s) option and select the package
+"PKG",649,22,1,"PAH",1,1,152,0)
+       VBEC*1.0*1.
+"PKG",649,22,1,"PAH",1,1,153,0)
+    5) When prompted 'Want KIDS to Rebuild Menu Trees Upon Completion of
+"PKG",649,22,1,"PAH",1,1,154,0)
+       Install? NO//' respond YES
+"PKG",649,22,1,"PAH",1,1,155,0)
+    6) When prompted 'Want KIDS to INHIBIT LOGONs during the install?
+"PKG",649,22,1,"PAH",1,1,156,0)
+       NO//', respond NO.
+"PKG",649,22,1,"PAH",1,1,157,0)
+    7) When prompted 'Want to DISABLE Scheduled Options, Menu Options, and
+"PKG",649,22,1,"PAH",1,1,158,0)
+       Protocols? NO//', respond NO.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","VBECDSS")
+0^2^B14002875
+"RTN","VBECDSS",1,0)
+VBECDSS ;;HOIFO/BNT-VBECS DSS Extract ;December 05, 2006
+"RTN","VBECDSS",2,0)
+ ;;1.0;VBECS;**1**;June 1, 2007;Build 9
+"RTN","VBECDSS",3,0)
+ ;
+"RTN","VBECDSS",4,0)
+ ; Note: This routine supports data exchange with an FDA registered
+"RTN","VBECDSS",5,0)
+ ; medical device. As such, it may not be changed in any way without
+"RTN","VBECDSS",6,0)
+ ; prior written approval from the medical device manufacturer.
+"RTN","VBECDSS",7,0)
+ ; 
+"RTN","VBECDSS",8,0)
+ QUIT
+"RTN","VBECDSS",9,0)
+ ;
+"RTN","VBECDSS",10,0)
+EN(RESULT,PARAMS) ; Main Entry point for RPC
+"RTN","VBECDSS",11,0)
+ ; -- RPC:   VBECS DSS EXTRACT
+"RTN","VBECDSS",12,0)
+ ; -- INPUT: PARAMS Array containing values to be inserted or updated
+"RTN","VBECDSS",13,0)
+ ; --        in the VBECS DSS EXTRACT File (#6002.03).
+"RTN","VBECDSS",14,0)
+ ; 
+"RTN","VBECDSS",15,0)
+ N I,X,Y,VBECRSLT,VBECLINE,FDA,VBERR
+"RTN","VBECDSS",16,0)
+ I '$D(DT) D DT^DICRW
+"RTN","VBECDSS",17,0)
+ S VBECRSLT="^TMP(""VBEC_DSS_EXTRACT"",$J)",VBECLINE=0,RESULT=$NA(@VBECRSLT)
+"RTN","VBECDSS",18,0)
+ K @RESULT
+"RTN","VBECDSS",19,0)
+ I '$D(PARAMS("TRANSACTION ID")) D RESULT(0) Q
+"RTN","VBECDSS",20,0)
+ S VBECON=$$FIND1^DIC(6002.03,,,PARAMS("TRANSACTION ID"),,.ERROR)
+"RTN","VBECDSS",21,0)
+ S VBECIEN=$S(VBECON:VBECON_",",1:"+1,")
+"RTN","VBECDSS",22,0)
+ S FDA(1,6002.03,VBECIEN,.01)=PARAMS("TRANSACTION ID")
+"RTN","VBECDSS",23,0)
+ I $D(PARAMS("DFN")) S FDA(1,6002.03,VBECIEN,1)=$G(PARAMS("DFN"))
+"RTN","VBECDSS",24,0)
+ I $D(PARAMS("ORDERING LOCATION")) S FDA(1,6002.03,VBECIEN,2)=$G(PARAMS("ORDERING LOCATION"))
+"RTN","VBECDSS",25,0)
+ I $D(PARAMS("TRANSFUSION LOCATION")) S FDA(1,6002.03,VBECIEN,3)=$G(PARAMS("TRANSFUSION LOCATION"))
+"RTN","VBECDSS",26,0)
+ ;I $D(PARAMS("FACILITY")) S VBFAC=$$TSTRIP($G(PARAMS("FACILITY"))),VBFAC=$$FIND1^DIC(4,,"MX",VBFAC,,,"VBERR") D
+"RTN","VBECDSS",27,0)
+ ;. S FDA(1,6002.03,VBECIEN,3)=VBFAC
+"RTN","VBECDSS",28,0)
+ I $D(PARAMS("PHYSICIAN")) S FDA(1,6002.03,VBECIEN,4)=$G(PARAMS("PHYSICIAN"))
+"RTN","VBECDSS",29,0)
+ I $D(PARAMS("ORDERING PROVIDER")) S FDA(1,6002.03,VBECIEN,5)=$G(PARAMS("ORDERING PROVIDER"))
+"RTN","VBECDSS",30,0)
+ I $D(PARAMS("PRODUCT NAME")) S FDA(1,6002.03,VBECIEN,6)=$G(PARAMS("PRODUCT NAME"))
+"RTN","VBECDSS",31,0)
+ I $D(PARAMS("COMPONENT ABBREVIATION")) S FDA(1,6002.03,VBECIEN,7)=$G(PARAMS("COMPONENT ABBREVIATION"))
+"RTN","VBECDSS",32,0)
+ I $D(PARAMS("NUMBER OF UNITS")) S FDA(1,6002.03,VBECIEN,8)=$G(PARAMS("NUMBER OF UNITS"))
+"RTN","VBECDSS",33,0)
+ I $D(PARAMS("TRANSFUSION DATE")) S FDA(1,6002.03,VBECIEN,9)=$G(PARAMS("TRANSFUSION DATE"))
+"RTN","VBECDSS",34,0)
+ S FDA(1,6002.03,VBECIEN,10)=$$NOW^XLFDT
+"RTN","VBECDSS",35,0)
+ I $D(PARAMS("VOLUME")) S FDA(1,6002.03,VBECIEN,11)=$G(PARAMS("VOLUME"))
+"RTN","VBECDSS",36,0)
+ I $D(PARAMS("REACTION TYPE")) S FDA(1,6002.03,VBECIEN,12)=$E($G(PARAMS("REACTION TYPE")),1,10) ;Limit input per conversation with David on 1/19
+"RTN","VBECDSS",37,0)
+ I $D(PARAMS("UNIT MODIFICATION")) S FDA(1,6002.03,VBECIEN,13)=$E($G(PARAMS("UNIT MODIFICATION")),1,6) ;Limit input per conversation with David on 1/19
+"RTN","VBECDSS",38,0)
+ I $D(PARAMS("REACTION")) S FDA(1,6002.03,VBECIEN,14)=$S($G(PARAMS("REACTION"))="True":"1",$G(PARAMS("REACTION"))="False":"",1:"") ;Leave room for a False code if necessary.
+"RTN","VBECDSS",39,0)
+ I 'VBECON D UPDATE^DIE("","FDA(1)",,"VBERR") ;W !,"NEW" ;For new record
+"RTN","VBECDSS",40,0)
+ I VBECON D FILE^DIE("E","FDA(1)","VBERR") ;W !,"UPDATE" ;To update existing record
+"RTN","VBECDSS",41,0)
+ D RESULT(1)
+"RTN","VBECDSS",42,0)
+ Q
+"RTN","VBECDSS",43,0)
+ ;
+"RTN","VBECDSS",44,0)
+TEST ; Test the update
+"RTN","VBECDSS",45,0)
+ ;36785EB0-8BCF-4407-A6C8-0002329A4ABF
+"RTN","VBECDSS",46,0)
+ ;1375FB52-EC30-453D-8FC7-00026DA1229A
+"RTN","VBECDSS",47,0)
+ ;8EE67641-0BA6-4A0C-84B4-0003E3F95011
+"RTN","VBECDSS",48,0)
+ ;AD082B9A-6EC8-4EA9-9B99-0005AA8FFBD7
+"RTN","VBECDSS",49,0)
+ ;09F8325B-0E93-4EB8-A315-000615AF3F9C
+"RTN","VBECDSS",50,0)
+ ;C6F51B1E-11B7-49F9-B919-000AA5E3EC82
+"RTN","VBECDSS",51,0)
+ ;5B8CC626-C32D-4AE2-B13D-000A65A3C04E
+"RTN","VBECDSS",52,0)
+ ;411AF601-822E-4F38-A0CE-001661042A6E
+"RTN","VBECDSS",53,0)
+ ;E66DD96E-AA27-4F12-96F6-00171F5D13EE
+"RTN","VBECDSS",54,0)
+ S PARAMS("TRANSACTION ID")="E66DD96E-AA27-4F12-96F6-00171F5D13EE"
+"RTN","VBECDSS",55,0)
+ S PARAMS("DFN")=412789
+"RTN","VBECDSS",56,0)
+ ;S PARAMS("NAME")="BILLYFRED"
+"RTN","VBECDSS",57,0)
+ S PARAMS("FACILITY")="589   "
+"RTN","VBECDSS",58,0)
+ S PARAMS("PHYSICIAN")="DOC,ONE"
+"RTN","VBECDSS",59,0)
+ S PARAMS("ORDERING PROVIDER")=53296
+"RTN","VBECDSS",60,0)
+ S PARAMS("PRODUCT NAME")="RED BLOOD CELLS"
+"RTN","VBECDSS",61,0)
+ S PARAMS("COMPONENT ABBREVIATION")="RBC"
+"RTN","VBECDSS",62,0)
+ S PARAMS("NUMBER OF UNITS")=6
+"RTN","VBECDSS",63,0)
+ S PARAMS("TRANSFUSION DATE")=DT
+"RTN","VBECDSS",64,0)
+ S PARAMS("VOLUME")="500"
+"RTN","VBECDSS",65,0)
+ S PARAMS("REACTION TYPE")="FEBRILE"
+"RTN","VBECDSS",66,0)
+ S PARAMS("UNIT MODIFICATION")="IWG"
+"RTN","VBECDSS",67,0)
+ S PARAMS("REACTION")="True"
+"RTN","VBECDSS",68,0)
+ Q
+"RTN","VBECDSS",69,0)
+ ;
+"RTN","VBECDSS",70,0)
+RESULT(VALUE) ; -- Add return value
+"RTN","VBECDSS",71,0)
+ SET VBECLINE=VBECLINE+1
+"RTN","VBECDSS",72,0)
+ SET @VBECRSLT@(VBECLINE)="<ReturnValue><SuccessIndicator>"_VALUE_"</SuccessIndicator></ReturnValue>"
+"RTN","VBECDSS",73,0)
+ QUIT
+"RTN","VBECDSS",74,0)
+TSTRIP(X) ;Strip trailing spaces
+"RTN","VBECDSS",75,0)
+ F  Q:X'?.E1" "  S X=$E(X,1,$L(X)-1)
+"RTN","VBECDSS",76,0)
+ Q X
+"RTN","VBECHLOR")
+0^1^B17460611
+"RTN","VBECHLOR",1,0)
+VBECHLOR ;;HOIFO/BNT-VBECS HL7 Order Update Message ;February 04, 2004
+"RTN","VBECHLOR",2,0)
+ ;;1.0;VBECS;**1**;June 1, 2007;Build 9
+"RTN","VBECHLOR",3,0)
+ ;
+"RTN","VBECHLOR",4,0)
+ ; Note: This routine supports data exchange with an FDA registered
+"RTN","VBECHLOR",5,0)
+ ; medical device. As such, it may not be changed in any way without
+"RTN","VBECHLOR",6,0)
+ ; prior written approval from the medical device manufacturer.
+"RTN","VBECHLOR",7,0)
+ ; 
+"RTN","VBECHLOR",8,0)
+ ; Integration Agreements:
+"RTN","VBECHLOR",9,0)
+ ; Reference to GENACK^HLMA1 supported by IA #2165
+"RTN","VBECHLOR",10,0)
+ ;
+"RTN","VBECHLOR",11,0)
+ QUIT
+"RTN","VBECHLOR",12,0)
+ ;
+"RTN","VBECHLOR",13,0)
+EN ; -- main entry point for HL7 v1.6 message processing.
+"RTN","VBECHLOR",14,0)
+ N ORMSG,ORNMSP,ORTYPE,ORACK,ORERR,ORVP,ORTS,ORL,ORCAT,I,J,SNDACK,SG
+"RTN","VBECHLOR",15,0)
+ N ORDCNTRL,ORDSTS,PKGIFN,ORIFN,ORNP,ORTN,ORLOG,ORDUZ,ORQT,ORSTRT,ORSTOP
+"RTN","VBECHLOR",16,0)
+ N ORURG,ORNATR,OREASON,ORI,ORSEG,ORSEGID
+"RTN","VBECHLOR",17,0)
+ ;
+"RTN","VBECHLOR",18,0)
+ ; Is this an Acknowledgement message?  Additional ACK message types
+"RTN","VBECHLOR",19,0)
+ ; should be included in this $S statment where appropriate to set
+"RTN","VBECHLOR",20,0)
+ ; ORACK=1
+"RTN","VBECHLOR",21,0)
+ S ORACK=$S(HL("MTN")="ORG":1,HL("MTN")="ACK":1,1:0)
+"RTN","VBECHLOR",22,0)
+ ;
+"RTN","VBECHLOR",23,0)
+ F I=1:1 X HLNEXT Q:HLQUIT'>0  D
+"RTN","VBECHLOR",24,0)
+ . S ORMSG(I)=HLNODE,J=0
+"RTN","VBECHLOR",25,0)
+ . F  S J=$O(HLNODE(J)) Q:'J  S ORMSG(I,J)=HLNODE(J)
+"RTN","VBECHLOR",26,0)
+ ;
+"RTN","VBECHLOR",27,0)
+ ;I $G(VBTEST) S X=0 F  S X=$O(^XTMP("VBECS-ORM",$J,X)) Q:X=""  S ORMSG(X)=^(X)
+"RTN","VBECHLOR",28,0)
+ S ORNMSP=$$NMSP(HL("SAN")),ORTYPE=HL("MTN")
+"RTN","VBECHLOR",29,0)
+ I '$L(ORNMSP) S ORERR="Missing or invalid sending application" D ERROR Q
+"RTN","VBECHLOR",30,0)
+ S ORTN="EN^ORM"_ORNMSP
+"RTN","VBECHLOR",31,0)
+ ;
+"RTN","VBECHLOR",32,0)
+ S ORI=0 F  S ORI=$O(ORMSG(ORI)) Q:'ORI  D  Q:$D(ORERR)
+"RTN","VBECHLOR",33,0)
+ . S ORSEG=ORMSG(ORI),ORSEGID=$P(ORMSG(ORI),HL("FS"))
+"RTN","VBECHLOR",34,0)
+ . I $T(@ORSEGID)]"" D @ORSEGID
+"RTN","VBECHLOR",35,0)
+ Q:$D(ORERR)
+"RTN","VBECHLOR",36,0)
+ ;
+"RTN","VBECHLOR",37,0)
+ I $L($G(ORDCNTRL)) D @ORTN I $D(ORERR) D ERROR Q
+"RTN","VBECHLOR",38,0)
+ I 'ORACK D GENACK
+"RTN","VBECHLOR",39,0)
+ ; If this is an Order Complete message, send message to Lab to complete the Lab order too.
+"RTN","VBECHLOR",40,0)
+ I ORDSTS="CM" D MSG^XQOR("LR7O VBECS RECEIVE",.ORMSG)
+"RTN","VBECHLOR",41,0)
+ Q
+"RTN","VBECHLOR",42,0)
+ ;
+"RTN","VBECHLOR",43,0)
+ORC S ORDCNTRL=$TR($P(ORSEG,HL("FS"),2),"@","P")
+"RTN","VBECHLOR",44,0)
+ I '$L(ORDCNTRL) S ORERR="Invalid control code" D ERROR Q
+"RTN","VBECHLOR",45,0)
+ S ORIFN=$P($P(ORSEG,HL("FS"),3),$E(HL("ECH")))
+"RTN","VBECHLOR",46,0)
+ S PKGIFN=$P($P(ORSEG,HL("FS"),4),$E(HL("ECH")))
+"RTN","VBECHLOR",47,0)
+ I ORIFN,$G(ORVP),$D(^OR(100,+ORIFN,0)),$P(^(0),U,2)'=ORVP S ORERR="Patient doesn't match" D ERROR Q
+"RTN","VBECHLOR",48,0)
+ S ORDSTS=$P(ORSEG,HL("FS"),6)
+"RTN","VBECHLOR",49,0)
+ S ORQT=$P(ORSEG,HL("FS"),8)
+"RTN","VBECHLOR",50,0)
+ S ORSTRT=$$FMDATE($P(ORQT,U,4))
+"RTN","VBECHLOR",51,0)
+ S ORSTOP=$$FMDATE($P(ORQT,U,5))
+"RTN","VBECHLOR",52,0)
+ S ORURG=$$URGENCY($P(ORQT,U,6))
+"RTN","VBECHLOR",53,0)
+ S ORLOG=$$FMDATE($P(ORSEG,HL("FS"),10))
+"RTN","VBECHLOR",54,0)
+ S ORDUZ=+$P(ORSEG,HL("FS"),11) D DUZ^XUP(ORDUZ)
+"RTN","VBECHLOR",55,0)
+ S ORNP=+$P(ORSEG,HL("FS"),13)
+"RTN","VBECHLOR",56,0)
+ S OREASON=$P(ORSEG,HL("FS"),17)
+"RTN","VBECHLOR",57,0)
+ S ORNATR=$S($P(OREASON,$E(HL("ECH")),3)="99ORN":$P(OREASON,$E(HL("ECH"))),1:"")
+"RTN","VBECHLOR",58,0)
+ Q
+"RTN","VBECHLOR",59,0)
+ ;
+"RTN","VBECHLOR",60,0)
+NMSP(NAME) ; -- Returns pkg namespace
+"RTN","VBECHLOR",61,0)
+ I NAME="RADIOLOGY"!(NAME="IMAGING") Q "RA"
+"RTN","VBECHLOR",62,0)
+ I NAME="LABORATORY" Q "LR"
+"RTN","VBECHLOR",63,0)
+ I NAME="DIETETICS" Q "FH"
+"RTN","VBECHLOR",64,0)
+ I NAME="PHARMACY" Q "PS"
+"RTN","VBECHLOR",65,0)
+ I NAME="CONSULTS" Q "GMRC"
+"RTN","VBECHLOR",66,0)
+ I NAME="PROCEDURES" Q "GMRC"
+"RTN","VBECHLOR",67,0)
+ I NAME="ORDER ENTRY" Q "ORG"
+"RTN","VBECHLOR",68,0)
+ I NAME="VBECS" Q "VBEC"
+"RTN","VBECHLOR",69,0)
+ Q ""
+"RTN","VBECHLOR",70,0)
+ ;
+"RTN","VBECHLOR",71,0)
+MSA ; -- Process MSA segment
+"RTN","VBECHLOR",72,0)
+ S ORACK=1
+"RTN","VBECHLOR",73,0)
+ I $P(ORSEG,HL("FS"),2)'="AA" D
+"RTN","VBECHLOR",74,0)
+ . S ORERR=$P(ORSEG,HL("FS"),4)
+"RTN","VBECHLOR",75,0)
+ . I '$D(OREASON) S OREASON=U_ORERR
+"RTN","VBECHLOR",76,0)
+ . D ERROR Q
+"RTN","VBECHLOR",77,0)
+ Q
+"RTN","VBECHLOR",78,0)
+ ;
+"RTN","VBECHLOR",79,0)
+PID ; -- Process PID segment
+"RTN","VBECHLOR",80,0)
+ ;    Sets PID, ORVP, ORTS if valid patient
+"RTN","VBECHLOR",81,0)
+ N I,DFN,SEG,PIDLST,X
+"RTN","VBECHLOR",82,0)
+ ; Adding logic to support v2.4 Patient Id List
+"RTN","VBECHLOR",83,0)
+ S PIDLST=$P(ORSEG,HL("FS"),4)
+"RTN","VBECHLOR",84,0)
+ I PIDLST[$E(HL("ECH")) D
+"RTN","VBECHLOR",85,0)
+ . F I=1:1:$L(PIDLST,$E(HL("ECH"),2)) S X=$P(PIDLST,$E(HL("ECH"),2),I) Q:X=""  I $P(X,$E(HL("ECH")),5)["PI" S DFN=+X Q
+"RTN","VBECHLOR",86,0)
+ I PIDLST'[$E(HL("ECH")) S DFN=+$P(ORSEG,HL("FS"),4),PID=ORSEG
+"RTN","VBECHLOR",87,0)
+ I $D(^DPT(DFN,0)) S ORVP=DFN_";DPT(",ORTS=$G(^DPT(DFN,.103)) Q
+"RTN","VBECHLOR",88,0)
+ S:$L($P(ORSEG,HL("FS"),5)) ORVP=$P(ORSEG,HL("FS"),5) ; alt ID for Lab
+"RTN","VBECHLOR",89,0)
+ I '$G(ORVP) S ORERR="Missing or invalid patient ID" D ERROR Q
+"RTN","VBECHLOR",90,0)
+ Q
+"RTN","VBECHLOR",91,0)
+ ;
+"RTN","VBECHLOR",92,0)
+PV1 ; -- Process PV1 segment
+"RTN","VBECHLOR",93,0)
+ ;    Sets ORCAT, & ORL if valid location
+"RTN","VBECHLOR",94,0)
+ N I,X
+"RTN","VBECHLOR",95,0)
+ S X=+$P(ORSEG,HL("FS"),4),ORCAT=$P(ORSEG,HL("FS"),3)
+"RTN","VBECHLOR",96,0)
+ S:$D(^SC(X,0)) ORL=X_";SC("
+"RTN","VBECHLOR",97,0)
+ Q
+"RTN","VBECHLOR",98,0)
+ ;
+"RTN","VBECHLOR",99,0)
+ORDITEM(USID) ; -- Returns pointer to Orderable Item file for USID
+"RTN","VBECHLOR",100,0)
+ N ID,OI
+"RTN","VBECHLOR",101,0)
+ S ID=$P(USID,U,4)_";"_$P(USID,U,6)
+"RTN","VBECHLOR",102,0)
+ S OI=+$O(^ORD(101.43,"ID",ID,0))
+"RTN","VBECHLOR",103,0)
+ Q OI
+"RTN","VBECHLOR",104,0)
+ ;
+"RTN","VBECHLOR",105,0)
+URGENCY(CODE) ; -- Return ptr to Order Urgency file #101.42
+"RTN","VBECHLOR",106,0)
+ S:'$L(CODE) CODE="R"
+"RTN","VBECHLOR",107,0)
+ Q $O(^ORD(101.42,"C",CODE,0))
+"RTN","VBECHLOR",108,0)
+ ;
+"RTN","VBECHLOR",109,0)
+FMDATE(Y) ; -- Convert HL7 date/time to FM format
+"RTN","VBECHLOR",110,0)
+ Q $$HL7TFM^XLFDT(Y)  ;**97
+"RTN","VBECHLOR",111,0)
+ ;
+"RTN","VBECHLOR",112,0)
+ERROR ; -- Log an error and return ACK if necessary
+"RTN","VBECHLOR",113,0)
+ N ORV S ORV("XQY0")="",ORQUIT=1
+"RTN","VBECHLOR",114,0)
+ D EN^ORERR(ORERR,.ORMSG,.ORV)
+"RTN","VBECHLOR",115,0)
+ ; send an ack to current message ??
+"RTN","VBECHLOR",116,0)
+ I 'ORACK D GENACK
+"RTN","VBECHLOR",117,0)
+ Q
+"RTN","VBECHLOR",118,0)
+ ;
+"RTN","VBECHLOR",119,0)
+GENACK ; -- Send and acknowldegement to original message
+"RTN","VBECHLOR",120,0)
+ ;Q:$G(VBTEST)
+"RTN","VBECHLOR",121,0)
+ S MSA1="AA"
+"RTN","VBECHLOR",122,0)
+ I $D(ORERR) S MSA1="AR"
+"RTN","VBECHLOR",123,0)
+ S HLA("HLA",1)="MSA"_HL("FS")_MSA1_HL("FS")_HL("MID")_$S($D(ORERR):HL("FS")_ORERR,1:"")
+"RTN","VBECHLOR",124,0)
+ S HLEID=HL("EID"),HLEIDS=HL("EIDS")
+"RTN","VBECHLOR",125,0)
+ D GENACK^HLMA1(HL("EID"),HLMTIENS,HL("EIDS"),"LM",1,.RESULT)
+"RTN","VBECHLOR",126,0)
+ K MSA
+"RTN","VBECHLOR",127,0)
+ Q
+"RTN","VBECHLOR",128,0)
+TEST ; Testing utility
+"RTN","VBECHLOR",129,0)
+ Q
+"RTN","VBECHLOR",130,0)
+ S VBTEST=1
+"RTN","VBECHLOR",131,0)
+ S HL("FS")="|",HL("ECH")="^~\&",HL("SAN")="VBECS",HL("RAN")="OERR"
+"RTN","VBECHLOR",132,0)
+ S HL("MTN")="OMG"
+"RTN","VBECHLOR",133,0)
+ D EN
+"RTN","VBECHLOR",134,0)
+ Q
+"SEC","^DIC",6002.03,6002.03,0,"AUDIT")
+ 
+"SEC","^DIC",6002.03,6002.03,0,"DD")
+
+"SEC","^DIC",6002.03,6002.03,0,"DEL")
+
+"SEC","^DIC",6002.03,6002.03,0,"LAYGO")
+ 
+"SEC","^DIC",6002.03,6002.03,0,"RD")
+
+"SEC","^DIC",6002.03,6002.03,0,"WR")
+
+"VER")
+8.0^22.0
+"^DD",6002.03,6002.03,0)
+FIELD^^2^15
+"^DD",6002.03,6002.03,0,"DDA")
+N
+"^DD",6002.03,6002.03,0,"DT")
+3071106
+"^DD",6002.03,6002.03,0,"IX","B",6002.03,.01)
+
+"^DD",6002.03,6002.03,0,"IX","C",6002.03,9)
+
+"^DD",6002.03,6002.03,0,"IX","D",6002.03,10)
+
+"^DD",6002.03,6002.03,0,"NM","VBECS DSS EXTRACT")
+
+"^DD",6002.03,6002.03,0,"VRPK")
+VBEC
+"^DD",6002.03,6002.03,.01,0)
+TRANSACTION ID^RF^^0;1^K:$L(X)>45!($L(X)<3) X
+"^DD",6002.03,6002.03,.01,1,0)
+^.1^^-1
+"^DD",6002.03,6002.03,.01,1,1,0)
+6002.03^B
+"^DD",6002.03,6002.03,.01,1,1,1)
+S ^VBEC(6002.03,"B",$E(X,1,30),DA)=""
+"^DD",6002.03,6002.03,.01,1,1,2)
+K ^VBEC(6002.03,"B",$E(X,1,30),DA)
+"^DD",6002.03,6002.03,.01,3)
+Answer must be 3-45 characters in length
+"^DD",6002.03,6002.03,.01,21,0)
+^^1^1^3061114^
+"^DD",6002.03,6002.03,.01,21,1,0)
+This is an identifier unique to this record.
+"^DD",6002.03,6002.03,.01,"DT")
+3061208
+"^DD",6002.03,6002.03,1,0)
+DFN^P2'^DPT(^0;2^Q
+"^DD",6002.03,6002.03,1,21,0)
+^^1^1^3061114^
+"^DD",6002.03,6002.03,1,21,1,0)
+This is a pointer to the PATIENT (#2) file.
+"^DD",6002.03,6002.03,1,23,0)
+^^3^3^3061114^
+"^DD",6002.03,6002.03,1,23,1,0)
+VBECS Source:
+"^DD",6002.03,6002.03,1,23,2,0)
+Table: Patient 
+"^DD",6002.03,6002.03,1,23,3,0)
+Column: VistaPatientId - numeric 
+"^DD",6002.03,6002.03,1,"DT")
+3061114
+"^DD",6002.03,6002.03,2,0)
+ORDERING LOCATION^F^^0;3^K:$L(X)>5!($L(X)<3) X
+"^DD",6002.03,6002.03,2,3)
+Answer must be 3-5 characters in length
+"^DD",6002.03,6002.03,2,21,0)
+^^2^2^3071029^
+"^DD",6002.03,6002.03,2,21,1,0)
+This is the location associated with the patient hospital location at the 
+"^DD",6002.03,6002.03,2,21,2,0)
+time of order.
+"^DD",6002.03,6002.03,2,23,0)
+^^6^6^3071029^
+"^DD",6002.03,6002.03,2,23,1,0)
+VBECS Source:
+"^DD",6002.03,6002.03,2,23,2,0)
+CASE WHEN PO.InstitutionDivisionCode IS NULL THEN
+"^DD",6002.03,6002.03,2,23,3,0)
+PO.DivisionCode
+"^DD",6002.03,6002.03,2,23,4,0)
+ELSE
+"^DD",6002.03,6002.03,2,23,5,0)
+PO.InstitutionDivisionCode
+"^DD",6002.03,6002.03,2,23,6,0)
+END AS OrderingLocation,
+"^DD",6002.03,6002.03,2,"DT")
+3071106
+"^DD",6002.03,6002.03,3,0)
+TRANSFUSION LOCATION^F^^0;4^K:$L(X)>5!($L(X)<3) X
+"^DD",6002.03,6002.03,3,3)
+Answer must be 3-5 characters in length
+"^DD",6002.03,6002.03,3,21,0)
+^^4^4^3080312^
+"^DD",6002.03,6002.03,3,21,1,0)
+Identifies the VBECS Facility ID (3-5 character station number) of the 
+"^DD",6002.03,6002.03,3,21,2,0)
+Blood Bank where the specimen work (pre-transfusion testing) is done. 
+"^DD",6002.03,6002.03,3,21,3,0)
+This field will consist of the station number + the division of where the 
+"^DD",6002.03,6002.03,3,21,4,0)
+Blood Bank is located. 
+"^DD",6002.03,6002.03,3,23,0)
+^^9^9^3061114^
+"^DD",6002.03,6002.03,3,23,1,0)
+An indicator of the division where this event occurred. FACILITY is 
+"^DD",6002.03,6002.03,3,23,2,0)
+derived from the STATION NUMBER field(#99) for that pointer number in the 
+"^DD",6002.03,6002.03,3,23,3,0)
+INSTITUTION file(#4).
+"^DD",6002.03,6002.03,3,23,4,0)
+ 
+"^DD",6002.03,6002.03,3,23,5,0)
+VBECS Source: Table: Patient Transfusion 
+"^DD",6002.03,6002.03,3,23,6,0)
+Column: DivisionCode - char(5) FK 
+"^DD",6002.03,6002.03,3,23,7,0)
+ 
+"^DD",6002.03,6002.03,3,23,8,0)
+Table: VamcDivision
+"^DD",6002.03,6002.03,3,23,9,0)
+Column: DivisionCode - char(5)
+"^DD",6002.03,6002.03,3,"DT")
+3080312
+"^DD",6002.03,6002.03,4,0)
+PHYSICIAN^F^^0;5^K:$L(X)>35!($L(X)<3) X
+"^DD",6002.03,6002.03,4,3)
+Answer must be 3-35 characters in length
+"^DD",6002.03,6002.03,4,21,0)
+^^3^3^3061214^
+"^DD",6002.03,6002.03,4,21,1,0)
+This field contains the name of the provider that ordered the blood 
+"^DD",6002.03,6002.03,4,21,2,0)
+product for transfusion, when avialable in VBECS. This physician may or
+"^DD",6002.03,6002.03,4,21,3,0)
+may not be the same as the ORDERING PROVIDER.
+"^DD",6002.03,6002.03,4,"DT")
+3061214
+"^DD",6002.03,6002.03,5,0)
+ORDERING PROVIDER^P200'^VA(200,^0;6^Q
+"^DD",6002.03,6002.03,5,3)
+Answer must be 1-11 characters in length
+"^DD",6002.03,6002.03,5,21,0)
+^^2^2^3061214^
+"^DD",6002.03,6002.03,5,21,1,0)
+This is the IEN from file 200 of the provider that ordered the Type and 
+"^DD",6002.03,6002.03,5,21,2,0)
+Crossmatch in preparation for a transfusion.
+"^DD",6002.03,6002.03,5,"DT")
+3061214
+"^DD",6002.03,6002.03,6,0)
+PRODUCT NAME^F^^0;7^K:$L(X)>50!($L(X)<3) X
+"^DD",6002.03,6002.03,6,3)
+Answer must be 3-50 characters in length
+"^DD",6002.03,6002.03,6,21,0)
+^^1^1^3061214^
+"^DD",6002.03,6002.03,6,21,1,0)
+This is the PRODUCT NAME and is also referred to as the COMPONENT.
+"^DD",6002.03,6002.03,6,23,0)
+^^7^7^3061114^
+"^DD",6002.03,6002.03,6,23,1,0)
+VBECS Source: 
+"^DD",6002.03,6002.03,6,23,2,0)
+ 
+"^DD",6002.03,6002.03,6,23,3,0)
+Table: BloodUnit 
+"^DD",6002.03,6002.03,6,23,4,0)
+Column: BloodProductGuid - uniqueidentifier FK 
+"^DD",6002.03,6002.03,6,23,5,0)
+ 
+"^DD",6002.03,6002.03,6,23,6,0)
+Table: BloodProduct 
+"^DD",6002.03,6002.03,6,23,7,0)
+Column: ProductShortName - varchar(50) 
+"^DD",6002.03,6002.03,6,"DT")
+3061214
+"^DD",6002.03,6002.03,7,0)
+COMPONENT ABBREVIATION^F^^0;8^K:$L(X)>5!($L(X)<1) X
+"^DD",6002.03,6002.03,7,3)
+Answer must be 1-5 characters in length
+"^DD",6002.03,6002.03,7,21,0)
+^^8^8^3061214^
+"^DD",6002.03,6002.03,7,21,1,0)
+This field contains the Component Class Short Name for the transfused 
+"^DD",6002.03,6002.03,7,21,2,0)
+component. The abbreviations for component classes are:
+"^DD",6002.03,6002.03,7,21,3,0)
+RBC = RED BLOOD CELLS
+"^DD",6002.03,6002.03,7,21,4,0)
+FFP = FRESH FROZEN PLASMA
+"^DD",6002.03,6002.03,7,21,5,0)
+CRYO = CRYOPRECIPITATE
+"^DD",6002.03,6002.03,7,21,6,0)
+PLT = PLATELETS
+"^DD",6002.03,6002.03,7,21,7,0)
+OTHER = OTHER
+"^DD",6002.03,6002.03,7,21,8,0)
+WB = WHOLE BLOOD
+"^DD",6002.03,6002.03,7,23,0)
+^^8^8^3061114^
+"^DD",6002.03,6002.03,7,23,1,0)
+VBECS Source: 
+"^DD",6002.03,6002.03,7,23,2,0)
+  Table: BloodUnit - Column:BloodProductGuid  Uniqueidentifier FK 
+"^DD",6002.03,6002.03,7,23,3,0)
+ 
+"^DD",6002.03,6002.03,7,23,4,0)
+  Table: BloodProduct - Column: ProductTypeCode  char(4) FK 
+"^DD",6002.03,6002.03,7,23,5,0)
+ 
+"^DD",6002.03,6002.03,7,23,6,0)
+  Table: ProductType - Column: ComponentClassID  int FK 
+"^DD",6002.03,6002.03,7,23,7,0)
+ 
+"^DD",6002.03,6002.03,7,23,8,0)
+  Table: ComponentClass - Column: ComponentClassShortName   varchar(25) 
+"^DD",6002.03,6002.03,7,"DT")
+3061214
+"^DD",6002.03,6002.03,8,0)
+NUMBER OF UNITS^NJ2,0^^0;9^K:+X'=X!(X>99)!(X<1)!(X?.E1"."1.N) X
+"^DD",6002.03,6002.03,8,3)
+Type a number between 1 and 99, 0 Decimal Digits
+"^DD",6002.03,6002.03,8,21,0)
+^^2^2^3061114^
+"^DD",6002.03,6002.03,8,21,1,0)
+This is the total number of units pooled for transfusion.  The data from 
+"^DD",6002.03,6002.03,8,21,2,0)
+VBECS should consist of the total number of units transfused.
+"^DD",6002.03,6002.03,8,23,0)
+^^2^2^3061114^
+"^DD",6002.03,6002.03,8,23,1,0)
+VBECS Source: Table: PatientTransfusion
+"^DD",6002.03,6002.03,8,23,2,0)
+Column: TransfusionPooledUnitsCount - smallint
+"^DD",6002.03,6002.03,8,"DT")
+3061114
+"^DD",6002.03,6002.03,9,0)
+DATE/TIME OF TRANSFUSION^DX^^0;10^S %DT="EST" D ^%DT S X=+Y K:X<1 X
+"^DD",6002.03,6002.03,9,1,0)
+^.1
+"^DD",6002.03,6002.03,9,1,1,0)
+6002.03^C
+"^DD",6002.03,6002.03,9,1,1,1)
+S ^VBEC(6002.03,"C",$E(X,1,30),DA)=""
+"^DD",6002.03,6002.03,9,1,1,2)
+K ^VBEC(6002.03,"C",$E(X,1,30),DA)
+"^DD",6002.03,6002.03,9,1,1,"%D",0)
+^^1^1^3080505^
+"^DD",6002.03,6002.03,9,1,1,"%D",1,0)
+This cross reference can be used to scan the records by transfusion date.
+"^DD",6002.03,6002.03,9,1,1,"DT")
+3061018
+"^DD",6002.03,6002.03,9,3)
+(No range limit on date)
+"^DD",6002.03,6002.03,9,21,0)
+^^1^1^3061114^
+"^DD",6002.03,6002.03,9,21,1,0)
+This field contains the date and time of the blood component transfusion.
+"^DD",6002.03,6002.03,9,23,0)
+^^3^3^3061114^
+"^DD",6002.03,6002.03,9,23,1,0)
+VBECS Source:
+"^DD",6002.03,6002.03,9,23,2,0)
+Table: PatientTransfusion
+"^DD",6002.03,6002.03,9,23,3,0)
+Column: TransfusionEndDateTime - datetime
+"^DD",6002.03,6002.03,9,"DT")
+3080505
+"^DD",6002.03,6002.03,10,0)
+DATE/TIME OF RECORD^D^^0;11^S %DT="EST" D ^%DT S X=Y K:X<1 X
+"^DD",6002.03,6002.03,10,1,0)
+^.1
+"^DD",6002.03,6002.03,10,1,1,0)
+6002.03^D
+"^DD",6002.03,6002.03,10,1,1,1)
+S ^VBEC(6002.03,"D",$E(X,1,30),DA)=""
+"^DD",6002.03,6002.03,10,1,1,2)
+K ^VBEC(6002.03,"D",$E(X,1,30),DA)
+"^DD",6002.03,6002.03,10,1,1,"%D",0)
+^^2^2^3061018^
+"^DD",6002.03,6002.03,10,1,1,"%D",1,0)
+This cross reference can be used to scan the records by the record 
+"^DD",6002.03,6002.03,10,1,1,"%D",2,0)
+creation date.
+"^DD",6002.03,6002.03,10,1,1,"DT")
+3061018
+"^DD",6002.03,6002.03,10,3)
+(No range limit on date)
+"^DD",6002.03,6002.03,10,21,0)
+^^1^1^3061018^^
+"^DD",6002.03,6002.03,10,21,1,0)
+This is the date and time that this record was created.
+"^DD",6002.03,6002.03,10,23,0)
+^^1^1^3061005^
+"^DD",6002.03,6002.03,10,23,1,0)
+If time cannot be determined, use 000001 as a default.
+"^DD",6002.03,6002.03,10,"DT")
+3061018
+"^DD",6002.03,6002.03,11,0)
+VOLUME^NJ4,0^^0;12^K:+X'=X!(X>9999)!(X<1)!(X?.E1"."1.N) X
+"^DD",6002.03,6002.03,11,3)
+Type a number between 1 and 9999, 0 Decimal Digits
+"^DD",6002.03,6002.03,11,21,0)
+^^1^1^3061114^
+"^DD",6002.03,6002.03,11,21,1,0)
+This is the total transfused volume.
+"^DD",6002.03,6002.03,11,23,0)
+^^2^2^3061114^
+"^DD",6002.03,6002.03,11,23,1,0)
+VBECS Source: Table: PatientTransfusion 
+"^DD",6002.03,6002.03,11,23,2,0)
+Column: TransfusedVolume - int 
+"^DD",6002.03,6002.03,11,"DT")
+3061114
+"^DD",6002.03,6002.03,12,0)
+REACTION TYPE^F^^0;13^K:$L(X)>10!($L(X)<2) X
+"^DD",6002.03,6002.03,12,3)
+Answer must be 2-10 characters in length
+"^DD",6002.03,6002.03,12,21,0)
+^^13^13^3070430^
+"^DD",6002.03,6002.03,12,21,1,0)
+This is the type of transfusion reaction.  It should consist of the first 
+"^DD",6002.03,6002.03,12,21,2,0)
+10 characters from the VBECS source file. The values stored in this field 
+"^DD",6002.03,6002.03,12,21,3,0)
+and the full tex associated wiht them are as follows:
+"^DD",6002.03,6002.03,12,21,4,0)
+Anaphylaxi = Anaphylaxis
+"^DD",6002.03,6002.03,12,21,5,0)
+Circulator = Circulatory
+"^DD",6002.03,6002.03,12,21,6,0)
+Delayed He = Delayed Hemolytic
+"^DD",6002.03,6002.03,12,21,7,0)
+Febrile No = Febrile Nonhemolytic
+"^DD",6002.03,6002.03,12,21,8,0)
+Graft vs.  = Graft vs. Host disease
+"^DD",6002.03,6002.03,12,21,9,0)
+Acute Hemo = Acute Hemolytic
+"^DD",6002.03,6002.03,12,21,10,0)
+Transfusio = Transfusion Related Acute Lung Injury
+"^DD",6002.03,6002.03,12,21,11,0)
+Other      = Other
+"^DD",6002.03,6002.03,12,21,12,0)
+Post Trans = Post Transfusion - Associated Disease
+"^DD",6002.03,6002.03,12,21,13,0)
+Urticaria  = Urticaria
+"^DD",6002.03,6002.03,12,23,0)
+^^5^5^3070430^^
+"^DD",6002.03,6002.03,12,23,1,0)
+VBECS Source: Table: PatientTransfusionReaction 
+"^DD",6002.03,6002.03,12,23,2,0)
+Column: TransfusionReactionTypeCode - char(1) FK 
+"^DD",6002.03,6002.03,12,23,3,0)
+ 
+"^DD",6002.03,6002.03,12,23,4,0)
+Table: TransfusionReactionType 
+"^DD",6002.03,6002.03,12,23,5,0)
+Column: TransfustionReactionTypeText - varchar(50) 
+"^DD",6002.03,6002.03,12,"DT")
+3070430
+"^DD",6002.03,6002.03,13,0)
+UNIT MODIFICATION^F^^0;14^K:$L(X)>6!($L(X)<1) X
+"^DD",6002.03,6002.03,13,3)
+Answer must be 1-6 characters in length
+"^DD",6002.03,6002.03,13,21,0)
+^^8^8^3061214^
+"^DD",6002.03,6002.03,13,21,1,0)
+This field notes the type of modification made to the unit before 
+"^DD",6002.03,6002.03,13,21,2,0)
+transfusion. The modification types are indicated by a single character 
+"^DD",6002.03,6002.03,13,21,3,0)
+code. Multiple modifications are indicated as a string of single 
+"^DD",6002.03,6002.03,13,21,4,0)
+character codes.
+"^DD",6002.03,6002.03,13,21,5,0)
+The codes are as follows:
+"^DD",6002.03,6002.03,13,21,6,0)
+D = Deglycerolize, F = Freeze, I = Irradiate, L = Leukoreduce, P = Pool, R
+"^DD",6002.03,6002.03,13,21,7,0)
+= Rejuvenate, S = Split/Divide, T = Thaw, U = Thaw/Pool Cryo, V = Volume
+"^DD",6002.03,6002.03,13,21,8,0)
+Reduce, W = Wash
+"^DD",6002.03,6002.03,13,23,0)
+^^11^11^3061114^
+"^DD",6002.03,6002.03,13,23,1,0)
+VBECS Source: Table: PatientTransfusion Column:
+"^DD",6002.03,6002.03,13,23,2,0)
+BloodUnitGuid - uniqueidentifier FK 
+"^DD",6002.03,6002.03,13,23,3,0)
+ 
+"^DD",6002.03,6002.03,13,23,4,0)
+Table: BloodUnitModification Column:
+"^DD",6002.03,6002.03,13,23,5,0)
+FromBloodUnitGuid - uniqueidentifier FK 
+"^DD",6002.03,6002.03,13,23,6,0)
+ 
+"^DD",6002.03,6002.03,13,23,7,0)
+Table: BloodUnitModification Column:
+"^DD",6002.03,6002.03,13,23,8,0)
+ProductModificationCode - char(1) FK 
+"^DD",6002.03,6002.03,13,23,9,0)
+ 
+"^DD",6002.03,6002.03,13,23,10,0)
+Table: ProductModification Column:
+"^DD",6002.03,6002.03,13,23,11,0)
+ProductModificationText - varchar(30) 
+"^DD",6002.03,6002.03,13,"DT")
+3061214
+"^DD",6002.03,6002.03,14,0)
+TRANSFUSION REACTION^S^1:YES;0:NO;^0;15^Q
+"^DD",6002.03,6002.03,14,21,0)
+^^2^2^3061214^
+"^DD",6002.03,6002.03,14,21,1,0)
+This field is used to indicate if a transfusion reaction has been 
+"^DD",6002.03,6002.03,14,21,2,0)
+indicated or not.
+"^DD",6002.03,6002.03,14,"DT")
+3061214
+"^DIC",6002.03,6002.03,0)
+VBECS DSS EXTRACT^6002.03
+"^DIC",6002.03,6002.03,0,"GL")
+^VBEC(6002.03,
+"^DIC",6002.03,6002.03,"%",0)
+^1.005^^0
+"^DIC",6002.03,"B","VBECS DSS EXTRACT",6002.03)
+
+**END**
+**END**
