@@ -1,0 +1,1139 @@
+Released EAS*1*174 SEQ #155
+Extracted from mail message
+**KIDS**:EAS*1.0*174^
+
+**INSTALL NAME**
+EAS*1.0*174
+"BLD",10919,0)
+EAS*1.0*174^ENROLLMENT APPLICATION SYSTEM^0^3190408^y
+"BLD",10919,1,0)
+^^2^2^3190405^
+"BLD",10919,1,1,0)
+Please see the EAS*1.0*174 patch description for detailed information 
+"BLD",10919,1,2,0)
+regarding this patch.
+"BLD",10919,4,0)
+^9.64PA^714.1^1
+"BLD",10919,4,714.1,0)
+714.1
+"BLD",10919,4,714.1,222)
+n^n^f^^n^^y^m^n
+"BLD",10919,4,714.1,224)
+I $S($P($G(^EAS(714.1,Y,0)),U,1)["VETERAN AWARDED MEDAL OF HONOR":1,1:0)
+"BLD",10919,4,"B",714.1,714.1)
+
+"BLD",10919,6.3)
+26
+"BLD",10919,"ABPKG")
+n
+"BLD",10919,"INID")
+y
+"BLD",10919,"KRN",0)
+^9.67PA^779.2^20
+"BLD",10919,"KRN",.4,0)
+.4
+"BLD",10919,"KRN",.401,0)
+.401
+"BLD",10919,"KRN",.402,0)
+.402
+"BLD",10919,"KRN",.403,0)
+.403
+"BLD",10919,"KRN",.5,0)
+.5
+"BLD",10919,"KRN",.84,0)
+.84
+"BLD",10919,"KRN",3.6,0)
+3.6
+"BLD",10919,"KRN",3.8,0)
+3.8
+"BLD",10919,"KRN",9.2,0)
+9.2
+"BLD",10919,"KRN",9.8,0)
+9.8
+"BLD",10919,"KRN",9.8,"NM",0)
+^9.68A^6^3
+"BLD",10919,"KRN",9.8,"NM",4,0)
+EASECU^^0^B12657558
+"BLD",10919,"KRN",9.8,"NM",5,0)
+EASECA^^0^B15324385
+"BLD",10919,"KRN",9.8,"NM",6,0)
+EASECSCC^^0^B39549538
+"BLD",10919,"KRN",9.8,"NM","B","EASECA",5)
+
+"BLD",10919,"KRN",9.8,"NM","B","EASECSCC",6)
+
+"BLD",10919,"KRN",9.8,"NM","B","EASECU",4)
+
+"BLD",10919,"KRN",19,0)
+19
+"BLD",10919,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",10919,"KRN",19.1,0)
+19.1
+"BLD",10919,"KRN",101,0)
+101
+"BLD",10919,"KRN",409.61,0)
+409.61
+"BLD",10919,"KRN",771,0)
+771
+"BLD",10919,"KRN",779.2,0)
+779.2
+"BLD",10919,"KRN",870,0)
+870
+"BLD",10919,"KRN",8989.51,0)
+8989.51
+"BLD",10919,"KRN",8989.52,0)
+8989.52
+"BLD",10919,"KRN",8994,0)
+8994
+"BLD",10919,"KRN","B",.4,.4)
+
+"BLD",10919,"KRN","B",.401,.401)
+
+"BLD",10919,"KRN","B",.402,.402)
+
+"BLD",10919,"KRN","B",.403,.403)
+
+"BLD",10919,"KRN","B",.5,.5)
+
+"BLD",10919,"KRN","B",.84,.84)
+
+"BLD",10919,"KRN","B",3.6,3.6)
+
+"BLD",10919,"KRN","B",3.8,3.8)
+
+"BLD",10919,"KRN","B",9.2,9.2)
+
+"BLD",10919,"KRN","B",9.8,9.8)
+
+"BLD",10919,"KRN","B",19,19)
+
+"BLD",10919,"KRN","B",19.1,19.1)
+
+"BLD",10919,"KRN","B",101,101)
+
+"BLD",10919,"KRN","B",409.61,409.61)
+
+"BLD",10919,"KRN","B",771,771)
+
+"BLD",10919,"KRN","B",779.2,779.2)
+
+"BLD",10919,"KRN","B",870,870)
+
+"BLD",10919,"KRN","B",8989.51,8989.51)
+
+"BLD",10919,"KRN","B",8989.52,8989.52)
+
+"BLD",10919,"KRN","B",8994,8994)
+
+"BLD",10919,"PRE")
+EAS1174E
+"BLD",10919,"QDEF")
+^^^^NO^^^^^^YES
+"BLD",10919,"QUES",0)
+^9.62^^
+"BLD",10919,"REQB",0)
+^9.611^2^2
+"BLD",10919,"REQB",1,0)
+EAS*1.0*79^1
+"BLD",10919,"REQB",2,0)
+DG*5.3*972^1
+"BLD",10919,"REQB","B","DG*5.3*972",2)
+
+"BLD",10919,"REQB","B","EAS*1.0*79",1)
+
+"DATA",714.1,14,0)
+VETERAN AWARDED MEDAL OF HONOR^1
+"FIA",714.1)
+LTC CO-PAY EXEMPTION
+"FIA",714.1,0)
+^EAS(714.1,
+"FIA",714.1,0,0)
+714.1
+"FIA",714.1,0,1)
+n^n^f^^n^^y^m^n
+"FIA",714.1,0,10)
+
+"FIA",714.1,0,11)
+I $S($P($G(^EAS(714.1,Y,0)),U,1)["VETERAN AWARDED MEDAL OF HONOR":1,1:0)
+"FIA",714.1,0,"RLRO")
+
+"FIA",714.1,0,"VR")
+1.0^EAS
+"FIA",714.1,714.1)
+0
+"MBREQ")
+0
+"PKG",187,-1)
+1^1
+"PKG",187,0)
+ENROLLMENT APPLICATION SYSTEM^EAS^ENROLLMENT
+"PKG",187,20,0)
+^9.402P^1^1
+"PKG",187,20,1,0)
+2^^EASXDR
+"PKG",187,20,1,1)
+ 
+"PKG",187,20,"B",2,1)
+
+"PKG",187,22,0)
+^9.49I^1^1
+"PKG",187,22,1,0)
+1.0^3010315^3010321^66481
+"PKG",187,22,1,"PAH",1,0)
+174^3190408
+"PKG",187,22,1,"PAH",1,1,0)
+^^2^2^3190408
+"PKG",187,22,1,"PAH",1,1,1,0)
+Please see the EAS*1.0*174 patch description for detailed information 
+"PKG",187,22,1,"PAH",1,1,2,0)
+regarding this patch.
+"PRE")
+EAS1174E
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+4
+"RTN","EAS1174E")
+0^^B5759002^n/a
+"RTN","EAS1174E",1,0)
+EAS1174E ;ALB/HM - ENVIRONMENT CHECK FOR PATCH EAS*1.0*174 FILE 714.1 HAS <13 OR >13 ENTRIES IN IT ;15-DEC-1997
+"RTN","EAS1174E",2,0)
+ ;;1.0;ENROLLMENT APPLICATION SYSTEM;**174**;Aug 13, 1993;Build 26
+"RTN","EAS1174E",3,0)
+ ;
+"RTN","EAS1174E",4,0)
+ ;
+"RTN","EAS1174E",5,0)
+EN ; This routine contains environmental checks which get executed
+"RTN","EAS1174E",6,0)
+ ; before the EAS*1.0*174 is allowed to run.
+"RTN","EAS1174E",7,0)
+ ;
+"RTN","EAS1174E",8,0)
+ ;  Input: Variables set by KIDS during environment check
+"RTN","EAS1174E",9,0)
+ ;
+"RTN","EAS1174E",10,0)
+ ; Output:  XPDABORT - KIDS variable set to abort installation
+"RTN","EAS1174E",11,0)
+ ;
+"RTN","EAS1174E",12,0)
+ I 'XPDENV D CHK Q  ; Loading Distribution
+"RTN","EAS1174E",13,0)
+ ;
+"RTN","EAS1174E",14,0)
+START ; Starting here
+"RTN","EAS1174E",15,0)
+ W !!,">>> Beginning the Environment Checker"
+"RTN","EAS1174E",16,0)
+ ;
+"RTN","EAS1174E",17,0)
+ D CHK ;  check for patches that will be backed out that they are installed here
+"RTN","EAS1174E",18,0)
+ ;
+"RTN","EAS1174E",19,0)
+ I $D(XPDABORT) W !!,">>> EAS*1.0*174 Aborted in Environment Checker" Q
+"RTN","EAS1174E",20,0)
+ W !!,">>> Environment Checker Successful",!!
+"RTN","EAS1174E",21,0)
+ Q
+"RTN","EAS1174E",22,0)
+ ;
+"RTN","EAS1174E",23,0)
+ ;
+"RTN","EAS1174E",24,0)
+CHK ; Check for correct number of file entries in LTC CO-PAY EXEMPTION file (#714.1).
+"RTN","EAS1174E",25,0)
+ W !,"*****"
+"RTN","EAS1174E",26,0)
+ W !,"Checking for entries in LTC CO-PAY EXEMPTION file (#714.1)."
+"RTN","EAS1174E",27,0)
+ N EASINST,EASCNT,ERROR
+"RTN","EAS1174E",28,0)
+ S EASINST=$$INSTALDT^XPDUTL("EAS*1.0*174"),ERROR=0
+"RTN","EAS1174E",29,0)
+ S EASCNT=$$GETCNT
+"RTN","EAS1174E",30,0)
+ I 'EASINST D
+"RTN","EAS1174E",31,0)
+ .I EASCNT'=13 S ERROR=1
+"RTN","EAS1174E",32,0)
+ .I $D(^EAS(714.1,14,0)) S ERROR=1
+"RTN","EAS1174E",33,0)
+ I EASINST D
+"RTN","EAS1174E",34,0)
+ .I EASCNT'=14 S ERROR=1
+"RTN","EAS1174E",35,0)
+ I ERROR D 
+"RTN","EAS1174E",36,0)
+ .; file entries have been added or missing
+"RTN","EAS1174E",37,0)
+ .W !,"It looks like you don't have the right entries in LTC CO-PAY "
+"RTN","EAS1174E",38,0)
+ .W !,"EXEMPTION file (#714.1) installed."
+"RTN","EAS1174E",39,0)
+ .W !,"Please enter a YOUR IT Services ticket with the Enterprise "
+"RTN","EAS1174E",40,0)
+ .W !,"Service Desk (ESD) for assistance with getting "
+"RTN","EAS1174E",41,0)
+ .W !,"the correct number of entries into the LTC CO-PAY EXEMPTION "
+"RTN","EAS1174E",42,0)
+ .W !,"file (#714.1)."
+"RTN","EAS1174E",43,0)
+ .W !,"*****"
+"RTN","EAS1174E",44,0)
+ .S XPDABORT=1
+"RTN","EAS1174E",45,0)
+ I 'ERROR D
+"RTN","EAS1174E",46,0)
+ .W !,"*****"
+"RTN","EAS1174E",47,0)
+ .W !,"The correct number of entries in LTC CO-PAY EXEMPTION file "
+"RTN","EAS1174E",48,0)
+ .W !,"(#714.1) are installed."
+"RTN","EAS1174E",49,0)
+ .W !,"*****"
+"RTN","EAS1174E",50,0)
+ ;
+"RTN","EAS1174E",51,0)
+ Q
+"RTN","EAS1174E",52,0)
+GETCNT() ; Get count of entries in LTC CO-PAY EXEMPTION file (#714.1)
+"RTN","EAS1174E",53,0)
+ N EASDATA,EASIEN,EASECNT
+"RTN","EAS1174E",54,0)
+ S EASDATA=0,EASECNT=0
+"RTN","EAS1174E",55,0)
+ F  S EASDATA=$O(^EAS(714.1,"B",EASDATA)) Q:EASDATA=""  D
+"RTN","EAS1174E",56,0)
+ .S EASIEN=$O(^EAS(714.1,"B",EASDATA,"")) Q:'EASIEN  D
+"RTN","EAS1174E",57,0)
+ ..S EASECNT=EASECNT+1
+"RTN","EAS1174E",58,0)
+ Q EASECNT
+"RTN","EASECA")
+0^5^B15324385^B15053921
+"RTN","EASECA",1,0)
+EASECA ;ALB/PHH,LBD,HM - Add a New LTC Co-Pay Test ;10 AUG 2001
+"RTN","EASECA",2,0)
+ ;;1.0;ENROLLMENT APPLICATION SYSTEM;**5,7,34,40,174**;Mar 15, 2001;Build 26
+"RTN","EASECA",3,0)
+ ;
+"RTN","EASECA",4,0)
+EN ;Entry point to add a new LTC Co-Pay test
+"RTN","EASECA",5,0)
+ N DGMDOD S DGMDOD=""
+"RTN","EASECA",6,0)
+ S DGMTYPT=3
+"RTN","EASECA",7,0)
+ I $D(DGMTDFN)#2 K DGMTDFN
+"RTN","EASECA",8,0)
+ S DIC="^DPT(",DIC(0)="AEMQ" W !! D ^DIC K DIC G Q:Y<0 S (DFN,DGMTDFN)=+Y
+"RTN","EASECA",9,0)
+ I $P($G(^DPT(DFN,.35)),U)'="" S DGMDOD=$P(^DPT(DFN,.35),U)
+"RTN","EASECA",10,0)
+ I $G(DGMDOD) W !!,"Patient died on: ",$$FMTE^XLFDT(DGMDOD,"1D") Q
+"RTN","EASECA",11,0)
+ ; Is patient a veteran?  Added for LTC III (EAS*1*34)
+"RTN","EASECA",12,0)
+ I $P($G(^DPT(DFN,"VET")),U)'="Y" W !!,"Patient is not a Veteran." Q
+"RTN","EASECA",13,0)
+ ;
+"RTN","EASECA",14,0)
+ S DGLDT=$$LST^EASECU(DFN,"",DGMTYPT),DGLD=$P(DGLDT,U,2),DGLDYR=$E(DGLD,1,3)_"1231"
+"RTN","EASECA",15,0)
+ ;
+"RTN","EASECA",16,0)
+DT S %DT("A")="Date of LTC Copay Test: ",%DT="AEX",%DT(0)="-NOW",%DT("B")="NOW" W ! D ^%DT K %DT G Q:Y<0 S DGMTDT=Y
+"RTN","EASECA",17,0)
+ I DGLD,DGMTDT'>DGLD W !?3,*7,"The date of test must be after the date of the last test on " S Y=DGLD X ^DD("DD") W Y,"." G DT
+"RTN","EASECA",18,0)
+ ; LTC III (EAS*1*34) - change to allow multiple tests within a year
+"RTN","EASECA",19,0)
+ I DGLD S X1=DGMTDT,X2=DGLD D ^%DTC I X<365 D  G EN:$G(Y)'=1
+"RTN","EASECA",20,0)
+ .W !?3,*7,"An LTC Copay Test already exists on " S Y=DGLD X ^DD("DD") W Y,"."
+"RTN","EASECA",21,0)
+ .S DIR(0)="Y",DIR("A")="Are you sure you want to add a new test",DIR("B")="NO" D ^DIR K DIR
+"RTN","EASECA",22,0)
+ .;S DGTTYP="LTC COPAY "
+"RTN","EASECA",23,0)
+ .;W !,$S($P($G(^DG(408.34,+$P($G(^DGMT(408.31,+DGLDT,0)),U,23),0)),U)="VAMC":"   Use the 'EASEC "_DGTTYP_"TEST EDIT' Option.",1:"   Use the 'EASEC "_DGTTYP_"TEST VIEW' Option.")
+"RTN","EASECA",24,0)
+ ;
+"RTN","EASECA",25,0)
+ D ADD G EN:DGMTI<0
+"RTN","EASECA",26,0)
+ ;
+"RTN","EASECA",27,0)
+EXMPT ; Is veteran exempt from LTC copayments?
+"RTN","EASECA",28,0)
+ S DGEXMPT=$$EXMPT^EASECU(DFN)
+"RTN","EASECA",29,0)
+ I DGEXMPT D EXMPT^EASECSCC(DFN,DGMTI,DGEXMPT) D Q G EN
+"RTN","EASECA",30,0)
+ ; Is veteran exempt for reason other than low income?
+"RTN","EASECA",31,0)
+ ; LTC Phase IV (EAS*1*40)
+"RTN","EASECA",32,0)
+ W !!
+"RTN","EASECA",33,0)
+ S DIR("A")="Is veteran EXEMPT from LTC copayments",DIR("B")="NO",DIR(0)="Y",DIR("?")="Enter either 'Y' or 'N'."
+"RTN","EASECA",34,0)
+ S DIR("?",1)="Answer 'Yes' if the veteran is exempt from LTC copayments"
+"RTN","EASECA",35,0)
+ S DIR("?",2)="for a reason other than low income.",DIR("?",3)=""
+"RTN","EASECA",36,0)
+ D ^DIR K DIR I $D(DTOUT)!($D(DUOUT)) D DEL,Q G EN
+"RTN","EASECA",37,0)
+ I Y D  D Q G EN
+"RTN","EASECA",38,0)
+ .; Get reason for exemption
+"RTN","EASECA",39,0)
+ .S DIR("A")="Reason for Exemption",DIR(0)="P^714.1:EM"
+"RTN","EASECA",40,0)
+ .S DIR("S")="I $P(^(0),U,2),""^1^2^12^14^""'[(U_Y_U)" ;EAS*1.0*174 HM exclude 14 also
+"RTN","EASECA",41,0)
+ .D ^DIR K DIR I 'Y!($D(DUOUT))!($D(DTOUT)) D  D DEL Q
+"RTN","EASECA",42,0)
+ ..W !!,"A reason for exemption must be entered.  LTC Copay Test cannot be added.",!
+"RTN","EASECA",43,0)
+ .D EXMPT^EASECSCC(DFN,DGMTI,+Y)
+"RTN","EASECA",44,0)
+ ; Check if veteran's income is below the pension threshold
+"RTN","EASECA",45,0)
+ D EN^EASECMT I $G(DGOUT) D DEL,Q G EN
+"RTN","EASECA",46,0)
+ I DGEXMPT D EXMPT^EASECSCC(DFN,DGMTI,2) D Q G EN
+"RTN","EASECA",47,0)
+ W !! F I=1:1:80 W "="
+"RTN","EASECA",48,0)
+ W !!,?10,"Veteran is NOT EXEMPT from Long Term Care copayments based"
+"RTN","EASECA",49,0)
+ W !,?10,"on last year's income and must complete a 10-10EC form."
+"RTN","EASECA",50,0)
+ W !! F I=1:1:80 W "="
+"RTN","EASECA",51,0)
+ ; Does veteran decline to provide income information?
+"RTN","EASECA",52,0)
+ W !!
+"RTN","EASECA",53,0)
+ D REF^EASECSCC I $D(DTOUT)!($D(DUOUT)) D Q G EN
+"RTN","EASECA",54,0)
+ I $D(DGREF) D  D Q G EN
+"RTN","EASECA",55,0)
+ .; Ask if veteran agrees to pay copayments; complete LTC copay test
+"RTN","EASECA",56,0)
+ .D AGREE^EASECSCC Q:$D(DTOUT)!($D(DUOUT))
+"RTN","EASECA",57,0)
+ .S DGSTA="NON-EXEMPT",DGCAT="T" D STA^DGMTSCU2 S (DGINT,DGDET,DGNWT)=""
+"RTN","EASECA",58,0)
+ .D UPD^EASECSCC
+"RTN","EASECA",59,0)
+ ; Go to LTC co-pay test (1010-EC) input screens
+"RTN","EASECA",60,0)
+ S DGMTACT="ADD",DGMTROU="EN^EASECA" G EN^EASECSC
+"RTN","EASECA",61,0)
+ ;
+"RTN","EASECA",62,0)
+Q K DA,DFN,DGADDF,DGBL,DGCAT,DGEXMPT,DGFL,DGFLD,DGIRO,DGLD,DGLDT,DGLDYR
+"RTN","EASECA",63,0)
+ K DGMTACT,DGMTCOR,DGMTDT,DGMTI,DGMTROU,DGMTYPT,DGOUT,DGREQF,DGSTA
+"RTN","EASECA",64,0)
+ K DGTTYP,DGVI,DGVO,DTOUT,DUOUT,X,X1,X2,Y
+"RTN","EASECA",65,0)
+ Q
+"RTN","EASECA",66,0)
+ ;
+"RTN","EASECA",67,0)
+ADD ;Add LTC Copay test
+"RTN","EASECA",68,0)
+ ; Input  -- DFN     Patient IEN
+"RTN","EASECA",69,0)
+ ;           DGMTDT  Date
+"RTN","EASECA",70,0)
+ ;           DGMTYPT Type of Test 3 = LTC Copay
+"RTN","EASECA",71,0)
+ ; Output -- DGMTI   Annual LTC Copay Test IEN
+"RTN","EASECA",72,0)
+ N DA,DD,DIC,DIK,DINUM,DLAYGO,DO,DS,X,D0,DGSITE
+"RTN","EASECA",73,0)
+ ;
+"RTN","EASECA",74,0)
+ S X=DGMTDT,(DIC,DIK)="^DGMT(408.31,",DIC(0)="L",DLAYGO=408.31
+"RTN","EASECA",75,0)
+ S DGSITE=$$GETSITE^DGMTU4(.DUZ)
+"RTN","EASECA",76,0)
+ ; For LTC IV (EAS*1*40) - set 1010EC Form field (#2.1) = 1
+"RTN","EASECA",77,0)
+ S DIC("DR")=".02////"_DFN_";.019////"_DGMTYPT_";.23////1;2.05////"_DGSITE_";2.1////1"
+"RTN","EASECA",78,0)
+ K DD,D0
+"RTN","EASECA",79,0)
+ D FILE^DICN S DGMTI=+Y
+"RTN","EASECA",80,0)
+ADDQ Q
+"RTN","EASECA",81,0)
+ ;
+"RTN","EASECA",82,0)
+DEL ;Delete incomplete LTC Copay test
+"RTN","EASECA",83,0)
+ ; Input   -- DGMTI  LTC Copay test IEN
+"RTN","EASECA",84,0)
+ N DA,DIK
+"RTN","EASECA",85,0)
+ Q:'$G(DGMTI)  Q:$P($G(^DGMT(408.31,DGMTI,0)),U,19)'=3
+"RTN","EASECA",86,0)
+ S DA=DGMTI,DIK="^DGMT(408.31,"
+"RTN","EASECA",87,0)
+ D ^DIK
+"RTN","EASECA",88,0)
+ Q
+"RTN","EASECSCC")
+0^6^B39549538^B35526778
+"RTN","EASECSCC",1,0)
+EASECSCC ;ALB/LBD,HM - LTC Co-Pay Test Screen Completion ;13 AUG 2001 ; 3/20/03 2:24pm
+"RTN","EASECSCC",2,0)
+ ;;1.0;ENROLLMENT APPLICATION SYSTEM;**5,7,34,40,174**;Mar 15, 2001;Build 26
+"RTN","EASECSCC",3,0)
+ ;
+"RTN","EASECSCC",4,0)
+ ;NOTE: This routine was modified from DGMTSCC for LTC Co-pay
+"RTN","EASECSCC",5,0)
+ ; Input  -- DFN      Patient IEN
+"RTN","EASECSCC",6,0)
+ ;           DGMTACT  Menu Action
+"RTN","EASECSCC",7,0)
+ ;           DGMTDT   Date of Test
+"RTN","EASECSCC",8,0)
+ ;           DGMTYPT  Type of Test 3=LTC COPAY
+"RTN","EASECSCC",9,0)
+ ;           DGMTPAR  Annual Means Test Parameters
+"RTN","EASECSCC",10,0)
+ ;           DGMTI    Annual Means Test IEN
+"RTN","EASECSCC",11,0)
+ ;           DGVINI   Veteran Individual Annual Income IEN
+"RTN","EASECSCC",12,0)
+ ;           DGVIRI   Veteran Income Relation IEN
+"RTN","EASECSCC",13,0)
+ ;           DGVPRI   Veteran Patient Relation IEN
+"RTN","EASECSCC",14,0)
+ ; Output -- DGERR    1=INCOMPLETE and 0=COMPLETE
+"RTN","EASECSCC",15,0)
+ ;
+"RTN","EASECSCC",16,0)
+EN N DGCAT,DGCOMF,DGDC,DGDET,DGIN0,DGIN1,DGIN2,DGINT,DGINTF,DGMTS,DGNC,DGND,DGNWT,DGNWTF,DGREF1,DGSP,DGTYC,DGTHA,DGTHB,DGVIR0,DGCOPS,DGCOST,DGRE,DGSTA,DGAGR
+"RTN","EASECSCC",17,0)
+ S DGERR=0
+"RTN","EASECSCC",18,0)
+ S DGCOMF=1 D DEP^EASECSU3,INC^EASECSU3
+"RTN","EASECSCC",19,0)
+ ; If veteran's income is below the threshold then exempt from LTC copay
+"RTN","EASECSCC",20,0)
+ ;   LTC III (EAS*1*34)  modified to make vet with $0 income exempt 
+"RTN","EASECSCC",21,0)
+ I DGINT'>+$$THRES^IBARXEU1(DGMTDT,1,0) D  G Q
+"RTN","EASECSCC",22,0)
+ .D EXMPT(DFN,DGMTI,12)
+"RTN","EASECSCC",23,0)
+ .D PRT
+"RTN","EASECSCC",24,0)
+ ; Check if test can be completed
+"RTN","EASECSCC",25,0)
+ D CHK I DGERR W !?3,*7,"LTC copay test cannot be completed." G Q
+"RTN","EASECSCC",26,0)
+ ; Did vet refuse to give income info
+"RTN","EASECSCC",27,0)
+ I 'DGINTF,'DGNWTF S DGREF1="" D  G Q:$D(DTOUT)!($D(DUOUT))
+"RTN","EASECSCC",28,0)
+ .D REF
+"RTN","EASECSCC",29,0)
+ .I $D(DGREF) S DGSTA="NON-EXEMPT"
+"RTN","EASECSCC",30,0)
+ ; Get test status (Exempt or Non-Exempt)
+"RTN","EASECSCC",31,0)
+ D STA G Q:$D(DTOUT)!($D(DUOUT))
+"RTN","EASECSCC",32,0)
+ ; Does vet agree to pay co-payments
+"RTN","EASECSCC",33,0)
+ I $G(DGSTA)="NON-EXEMPT" D AGREE G Q:$D(DTOUT)!($D(DUOUT))
+"RTN","EASECSCC",34,0)
+UPD S DA=DGMTI,DIE="^DGMT(408.31,",DIE("NO^")="",DR="[EASEC COMPLETE LTC CO-PAY TEST]" D ^DIE K DA,DIE,DR I '$D(DGFIN) S DGERR=1 G Q
+"RTN","EASECSCC",35,0)
+ W !?3,"...The LTC copay test has been completed with a status of ",DGSTA,"..."
+"RTN","EASECSCC",36,0)
+ D PRT
+"RTN","EASECSCC",37,0)
+ ;
+"RTN","EASECSCC",38,0)
+Q K DGFIN,DGREF,DTOUT,DUOUT,Y
+"RTN","EASECSCC",39,0)
+ Q
+"RTN","EASECSCC",40,0)
+ ;
+"RTN","EASECSCC",41,0)
+COM ;Check if user wants to complete the LTC co-pay test
+"RTN","EASECSCC",42,0)
+ N DIR
+"RTN","EASECSCC",43,0)
+ S DIR("A")="Do you wish to complete the LTC copay test"
+"RTN","EASECSCC",44,0)
+ S DIR("B")="YES",DIR(0)="Y" D ^DIR
+"RTN","EASECSCC",45,0)
+ Q
+"RTN","EASECSCC",46,0)
+ ;
+"RTN","EASECSCC",47,0)
+REF ;Check if patient declines to provide income information
+"RTN","EASECSCC",48,0)
+ N DIR,Y
+"RTN","EASECSCC",49,0)
+ S DIR("A")="Does veteran decline to give income information"
+"RTN","EASECSCC",50,0)
+ I $P($G(^DGMT(408.31,DGMTI,0)),"^",14)]"" S DIR("B")=$$YN^DGMTSCU1($P(^(0),"^",14))
+"RTN","EASECSCC",51,0)
+ S:'$D(DIR("B")) DIR("B")="NO"
+"RTN","EASECSCC",52,0)
+ S DIR("?")="Answer 'Y' or 'N'."
+"RTN","EASECSCC",53,0)
+ S DIR("?",1)="Enter whether the veteran declines to provide current income information."
+"RTN","EASECSCC",54,0)
+ S DIR(0)="Y" D ^DIR K DIR G REFQ:$D(DTOUT)!($D(DUOUT))
+"RTN","EASECSCC",55,0)
+ S:Y DGREF=""
+"RTN","EASECSCC",56,0)
+REFQ Q
+"RTN","EASECSCC",57,0)
+ ;
+"RTN","EASECSCC",58,0)
+CHK ;Check if LTC copay test can be completed
+"RTN","EASECSCC",59,0)
+ ;   For LTC III (EAS*1*34) removed check if expenses greater than income
+"RTN","EASECSCC",60,0)
+ N DGA,DGD,DGDEP,DGREL,DGL,DGM,I
+"RTN","EASECSCC",61,0)
+ D GETREL^DGMTU11(DFN,"CS",$E(DGMTDT,1,3)_"0000",$S($G(DGMTI):DGMTI,1:""))
+"RTN","EASECSCC",62,0)
+ S DGM=$P(DGVIR0,"^",14),DGL=$P(DGVIR0,"^",17),DGD=$P(DGVIR0,"^",8)
+"RTN","EASECSCC",63,0)
+ I DGM="" W !?3,"Marital section must be completed." S DGERR=1
+"RTN","EASECSCC",64,0)
+ ;  For LTC IV (EAS*1*40) added check for legally separated
+"RTN","EASECSCC",65,0)
+ I DGM,'DGL,'$D(DGREL("S")) W !?3,"Married is 'YES'.  An active spouse for this LTC copay test does not exist." S DGERR=1
+"RTN","EASECSCC",66,0)
+ I 'DGM,$D(DGREL("S")) W !?3,"An active spouse exists for this LTC copay test. Married should be 'YES'." S DGERR=1
+"RTN","EASECSCC",67,0)
+ I DGD']"" W !?3,"Dependent Children section must be completed." S DGERR=1
+"RTN","EASECSCC",68,0)
+ I DGD,'$D(DGREL("C")) W !?3,"Dependent Children is 'YES'.  No active children exist." S DGERR=1
+"RTN","EASECSCC",69,0)
+ I 'DGD,$D(DGREL("C")) W !?3,"Active children exist.  Dependent Children should be 'YES'." S DGERR=1
+"RTN","EASECSCC",70,0)
+ Q:$G(DGERR)
+"RTN","EASECSCC",71,0)
+ N CNT,ACT,DGDEP,FLAG,DGINCP
+"RTN","EASECSCC",72,0)
+ D INIT^EASECDEP S CNT=0 D
+"RTN","EASECSCC",73,0)
+ .F  S CNT=$O(DGDEP(CNT)) Q:'CNT  I $P(DGDEP(CNT),U,2)="SPOUSE" D  Q:$G(DGERR)
+"RTN","EASECSCC",74,0)
+ ..D GETIENS^EASECU2(DFN,$P(DGDEP(CNT),U,20),DGMTDT)
+"RTN","EASECSCC",75,0)
+ ..S DGINCP=$G(^DGMT(408.22,+DGIRI,"MT")) S:DGINCP FLAG=$G(FLAG)+1
+"RTN","EASECSCC",76,0)
+ ..I $G(FLAG)>1 W !?3,"Patient has more than one spouse for this LTC copay test." S DGERR=1
+"RTN","EASECSCC",77,0)
+ Q
+"RTN","EASECSCC",78,0)
+ ;
+"RTN","EASECSCC",79,0)
+STA ;Ask test status
+"RTN","EASECSCC",80,0)
+ N DIR,Y,SCRN,DGMOH
+"RTN","EASECSCC",81,0)
+ S DGMTS=$P($G(^DGMT(408.31,DGMTI,0)),U,3)
+"RTN","EASECSCC",82,0)
+ S DGRE=$P($G(^DGMT(408.31,DGMTI,2)),U,7)
+"RTN","EASECSCC",83,0)
+ I DGMTS S DGSTA=$P($G(^DG(408.32,DGMTS,0)),U)
+"RTN","EASECSCC",84,0)
+ I '$D(DGSTA) S DGSTA="NON-EXEMPT"
+"RTN","EASECSCC",85,0)
+ I DGSTA="EXEMPT",("12"[DGRE),$G(DGINT)>+$$THRES^IBARXEU1(DGMTDT,1,0) S DGSTA="NON-EXEMPT"
+"RTN","EASECSCC",86,0)
+ I DGSTA="EXEMPT",$G(DGNSTA)="NON-EXEMPT" S DGSTA="NON-EXEMPT"
+"RTN","EASECSCC",87,0)
+ I DGSTA="NON-EXEMPT" D  I DGMOH="Y" Q  ;EAS*1.0*174 I NON-EXEMPT CHECK CHECK FOR MOH DATA AND DISPLAY MESSAGE
+"RTN","EASECSCC",88,0)
+ .S DGMOH=$P($G(^DPT(DFN,.54)),U,1) I DGMOH="Y" W !!,"Veteran is Awarded Medal of Honor - Add a New LTC Copayment Test to update status" ;EAS*1.0*174 HM
+"RTN","EASECSCC",89,0)
+ S DIR("A")="LTC Copay Test Status" S DIR("B")=DGSTA
+"RTN","EASECSCC",90,0)
+ S DIR(0)="P^408.32:EM",DIR("S")="I $P(^(0),U,19)=3"
+"RTN","EASECSCC",91,0)
+ D ^DIR K DIR Q:'Y!($D(DTOUT))!($D(DUOUT))
+"RTN","EASECSCC",92,0)
+ S DGMTS=+Y,DGSTA=$P(Y,U,2) Q:DGSTA="NON-EXEMPT"
+"RTN","EASECSCC",93,0)
+ ;If Exempt, ask reason for exemption
+"RTN","EASECSCC",94,0)
+ S DIR("A")="Reason for Exemption"
+"RTN","EASECSCC",95,0)
+ I DGRE S DIR("B")=$P($G(^EAS(714.1,DGRE,0)),U)
+"RTN","EASECSCC",96,0)
+ ; Screen the look-up on file #714.1.  Exemption reasons 1, 2 and 12
+"RTN","EASECSCC",97,0)
+ ; will be screened out unless this is the call from the Edit option
+"RTN","EASECSCC",98,0)
+ ; (DGEFLG=1) and only reason 1 is screened out. Reason 14 added for screening out EAS*1.0*174 HM
+"RTN","EASECSCC",99,0)
+ S SCRN="2^12^14^" S:$G(DGEFLG) SCRN="" ;do not display 14 EAS*1.0*174 HM
+"RTN","EASECSCC",100,0)
+ S DIR("S")="I $P(^(0),U,2),""^1^14"_SCRN_"""'[(U_Y_U)" ;do not display 14 EAS*1.0*174 HM
+"RTN","EASECSCC",101,0)
+ S DIR(0)="P^714.1:EM" D ^DIR K DIR I 'Y!($D(DTOUT))!($D(DUOUT)) D  G STA
+"RTN","EASECSCC",102,0)
+ .W !!,"A reason for exemption must be entered for an Exempt status.",!
+"RTN","EASECSCC",103,0)
+ S DGRE=+Y
+"RTN","EASECSCC",104,0)
+ Q
+"RTN","EASECSCC",105,0)
+AGREE ;Ask if vet agrees to pay co-payment
+"RTN","EASECSCC",106,0)
+ N DIR,Y
+"RTN","EASECSCC",107,0)
+ S DIR("A")="Does the veteran agree to pay copayments"
+"RTN","EASECSCC",108,0)
+ I $P($G(^DGMT(408.31,DGMTI,0)),U,11)]"" S DIR("B")=$$YN^DGMTSCU1($P(^(0),U,11))
+"RTN","EASECSCC",109,0)
+ S:'$D(DIR("B")) DIR("B")="YES"
+"RTN","EASECSCC",110,0)
+ S DIR("?")="Answer 'Y' or 'N'."
+"RTN","EASECSCC",111,0)
+ S DIR("?",1)="Enter in this field whether the veteran agrees to pay the"
+"RTN","EASECSCC",112,0)
+ S DIR("?",2)="LTC copayments.  The veteran must also sign the 1010-EC form"
+"RTN","EASECSCC",113,0)
+ S DIR("?",3)="agreeing to pay the copayments. If the veteran does not agree"
+"RTN","EASECSCC",114,0)
+ S DIR("?",4)="to pay the copayments, the veteran becomes ineligible to"
+"RTN","EASECSCC",115,0)
+ S DIR("?",5)="receive extended care services."
+"RTN","EASECSCC",116,0)
+ S DIR(0)="Y" D ^DIR K DIR Q:$D(DTOUT)!($D(DUOUT))
+"RTN","EASECSCC",117,0)
+ S DGAGR=Y
+"RTN","EASECSCC",118,0)
+ Q
+"RTN","EASECSCC",119,0)
+PRT ;Print Extended Care Services test (1010EC)
+"RTN","EASECSCC",120,0)
+ N DIR,Y,X,ZTSK
+"RTN","EASECSCC",121,0)
+ S DIR("A")="PRINT 10-10EC"
+"RTN","EASECSCC",122,0)
+ S DIR("B")="YES",DIR(0)="Y" D ^DIR G PRTQ:'Y!($D(DTOUT))!($D(DUOUT))
+"RTN","EASECSCC",123,0)
+ S ZTSK=$$QUE^EASEC10E(DFN,DGMTI)
+"RTN","EASECSCC",124,0)
+PRTQ Q
+"RTN","EASECSCC",125,0)
+ ;
+"RTN","EASECSCC",126,0)
+EXMPT(DFN,DGMTI,EX) ; Veteran is exempt from LTC co-payments
+"RTN","EASECSCC",127,0)
+ ; Complete LTC co-pay test in Annual Means Test file (#408.31)
+"RTN","EASECSCC",128,0)
+ ; Input -- DFN     Patient IEN
+"RTN","EASECSCC",129,0)
+ ;          DGMTI   Annual Means Test IEN
+"RTN","EASECSCC",130,0)
+ ;          EX      Copay exemption code
+"RTN","EASECSCC",131,0)
+ ;                  1 = SC compensable disability
+"RTN","EASECSCC",132,0)
+ ;                  2 = NSC, single, receiving VA pension (no A&A, HB)
+"RTN","EASECSCC",133,0)
+ ;                         or
+"RTN","EASECSCC",134,0)
+ ;                      Income (last year) is below single pension threshold
+"RTN","EASECSCC",135,0)
+ ;                 12 = Income (current year) is below single pension threshold
+"RTN","EASECSCC",136,0)
+ ;                 14 = Veteran Awarded Medal of Honor - EAS*1.0*174 HM
+"RTN","EASECSCC",137,0)
+ Q:'DGMTI  Q:'EX
+"RTN","EASECSCC",138,0)
+ N DATA,I
+"RTN","EASECSCC",139,0)
+ W !! F I=1:1:80 W "="
+"RTN","EASECSCC",140,0)
+ W !!,?10,"Veteran is EXEMPT from Long Term Care copayments."
+"RTN","EASECSCC",141,0)
+ W !,?10,"Reason for Exemption: ",$P($G(^EAS(714.1,EX,0)),U)
+"RTN","EASECSCC",142,0)
+ W !! F I=1:1:80 W "="
+"RTN","EASECSCC",143,0)
+ W !!
+"RTN","EASECSCC",144,0)
+ S DATA(.03)=$O(^DG(408.32,"C","X","")),DATA(2.07)=EX,DATA(.06)=DUZ
+"RTN","EASECSCC",145,0)
+ S (DATA(.07),DATA(2.02))=$$NOW^XLFDT
+"RTN","EASECSCC",146,0)
+ S DATA(.04)=$G(DGINT),DATA(.05)=$G(DGNWT),DATA(.15)=$G(DGDET)
+"RTN","EASECSCC",147,0)
+ S DATA(.18)=$G(DGND),DATA(2.08)=$P($$GETLTC4^EASECMT(DFN),U,1)
+"RTN","EASECSCC",148,0)
+ S DATA(.14)=$S($D(DGREF):1,1:0)     ;LTC III (EAS*1*34)
+"RTN","EASECSCC",149,0)
+ I $$UPD^DGENDBS(408.31,DGMTI,.DATA) Q
+"RTN","EASECSCC",150,0)
+ W !,"ERROR:  COULD NOT UPDATE LTC COPAY TEST",!!
+"RTN","EASECSCC",151,0)
+ Q
+"RTN","EASECU")
+0^4^B12657558^B11675837
+"RTN","EASECU",1,0)
+EASECU ;ALB/PHH,LBD,AMA,HM - LTC Co-Pay Test Utilities ; 22 AUG 2001
+"RTN","EASECU",2,0)
+ ;;1.0;ENROLLMENT APPLICATION SYSTEM;**5,7,34,40,79,174**;Mar 15, 2001;Build 26
+"RTN","EASECU",3,0)
+ ;
+"RTN","EASECU",4,0)
+LST(DFN,DGDT,DGMTYPT) ;Last LTC Co-Pay test for a patient
+"RTN","EASECU",5,0)
+ ;         Input  -- DFN   Patient IEN
+"RTN","EASECU",6,0)
+ ;                   DGDT  Date/Time  (Optional- default today@2359)
+"RTN","EASECU",7,0)
+ ;                DGMTYPT  Type of Test (Optional - if not defined 
+"RTN","EASECU",8,0)
+ ;                                       LTC Co-Pay will be assumed)
+"RTN","EASECU",9,0)
+ ;         Output -- LTC Co-Pay Test IEN^Date of Test
+"RTN","EASECU",10,0)
+ ;                   ^Status Name^Status Code^Source of Test
+"RTN","EASECU",11,0)
+ N DGIDT,DGMTFL1,DGMTI,DGNOD,Y I '$D(DGMTYPT) S DGMTYPT=3
+"RTN","EASECU",12,0)
+ S DGIDT=$S($G(DGDT)>0:-DGDT,1:-DT) S:'$P(DGIDT,".",2) DGIDT=DGIDT_.2359
+"RTN","EASECU",13,0)
+ F  S DGIDT=+$O(^DGMT(408.31,"AID",DGMTYPT,DFN,DGIDT)) Q:'DGIDT!$G(DGMTFL1)  D
+"RTN","EASECU",14,0)
+ . F DGMTI=0:0 S DGMTI=+$O(^DGMT(408.31,"AID",DGMTYPT,DFN,DGIDT,DGMTI)) Q:'DGMTI!$G(DGMTFL1)  D
+"RTN","EASECU",15,0)
+ . . S DGNOD=$G(^DGMT(408.31,DGMTI,0)) I DGNOD S DGMTFL1=1,Y=DGMTI_"^"_$P(^(0),"^")_"^"_$$MTS(+$P(^(0),"^",3))_"^"_$P(DGNOD,"^",23)
+"RTN","EASECU",16,0)
+ Q $G(Y)
+"RTN","EASECU",17,0)
+ ;
+"RTN","EASECU",18,0)
+MTS(DGMTS) ;LTC Co-Pay test status -- default current
+"RTN","EASECU",19,0)
+ ;         Input  -- DGMTS  LTC Co-Pay Test Status IEN
+"RTN","EASECU",20,0)
+ ;         Output -- Status Name^Status Code
+"RTN","EASECU",21,0)
+ N Y
+"RTN","EASECU",22,0)
+ I $G(DGMTS) S Y=$P($G(^DG(408.32,DGMTS,0)),"^",1,2)
+"RTN","EASECU",23,0)
+ Q $G(Y)
+"RTN","EASECU",24,0)
+ ;
+"RTN","EASECU",25,0)
+EXMPT(DFN) ;Check if veteran is exempt from LTC co-payments:
+"RTN","EASECU",26,0)
+ ; If the veteran has a compensable SC disability, OR
+"RTN","EASECU",27,0)
+ ; If the veteran is a single, NSC pensioner not in receipt of A&A
+"RTN","EASECU",28,0)
+ ; If the veteran is a Medal of Honor recipient - EAS*1.0*174 HM
+"RTN","EASECU",29,0)
+ ; and HB benefits
+"RTN","EASECU",30,0)
+ ;   Input   -- DFN  Patient IEN
+"RTN","EASECU",31,0)
+ ;   Output  -- 0 = veteran not exempt
+"RTN","EASECU",32,0)
+ ;              1 = veteran has compensable SC disability
+"RTN","EASECU",33,0)
+ ;              2 = veteran is single NSC pensioner (no A&A, HB)
+"RTN","EASECU",34,0)
+ ;              14 = veteran is Medal of Honor recipient - EAS*1.0*174 HM
+"RTN","EASECU",35,0)
+ N X,Y,ELG
+"RTN","EASECU",36,0)
+ S Y=0
+"RTN","EASECU",37,0)
+ ; if service connected percentage is greater than 10% OR service
+"RTN","EASECU",38,0)
+ ; connected percentage is less than 10% and annual VA
+"RTN","EASECU",39,0)
+ ; check amount is greater than 0, then exempt type 1
+"RTN","EASECU",40,0)
+ S X=$G(^DPT(DFN,.36)),ELG=$P($G(^DIC(8,+X,0)),U,9)
+"RTN","EASECU",41,0)
+ I ELG=1!($P($G(^DPT(DFN,.3)),U,2)'<10) S Y=1 G EXMPTQ
+"RTN","EASECU",42,0)
+ I ELG=3,$P($G(^DPT(DFN,.3)),U,2)<10,$P($G(^DPT(DFN,.362)),U,20)>0 S Y=1 G EXMPTQ
+"RTN","EASECU",43,0)
+ ;if MOH = "Y" quit
+"RTN","EASECU",44,0)
+ I $P($G(^DPT(DFN,.54)),U,1)="Y" S Y=14 G EXMPTQ ;IF MEDAL OF HONOR = "Y" SET OUTPUT TO BE 14 EAS*1*174 HM
+"RTN","EASECU",45,0)
+ ; if Service Connected quit
+"RTN","EASECU",46,0)
+ I $P($G(^DPT(DFN,.3)),U)="Y" G EXMPTQ
+"RTN","EASECU",47,0)
+ ; if Marital Status = 'Married' or 'Separated' quit
+"RTN","EASECU",48,0)
+ S X=$P($G(^DIC(11,+$P($G(^DPT(DFN,0)),U,5),0)),U,3)
+"RTN","EASECU",49,0)
+ I "^M^S^"[("^"_X_"^") G EXMPTQ
+"RTN","EASECU",50,0)
+ ; if not receiving VA pension quit
+"RTN","EASECU",51,0)
+ S X=$G(^DPT(DFN,.362)) I $P(X,U,14)'="Y" G EXMPTQ
+"RTN","EASECU",52,0)
+ ; if receiving A&A or HP benefits quit
+"RTN","EASECU",53,0)
+ I $P(X,U,12)="Y"!($P(X,U,13)="Y") G EXMPTQ
+"RTN","EASECU",54,0)
+ S Y=2
+"RTN","EASECU",55,0)
+EXMPTQ Q Y
+"RTN","EASECU",56,0)
+ ;
+"RTN","EASECU",57,0)
+DIS(DFN) ;Display patient's current LTC Copay Test status and test date
+"RTN","EASECU",58,0)
+ ; Input --  DFN   IEN of Patient file
+"RTN","EASECU",59,0)
+ ; Output -- None
+"RTN","EASECU",60,0)
+ N DGX,DGMTI,DGMTDT,DGMTS
+"RTN","EASECU",61,0)
+ Q:'$G(DFN)
+"RTN","EASECU",62,0)
+ S DGX=$$LST(DFN) Q:'DGX
+"RTN","EASECU",63,0)
+ S DGMTI=+DGX,DGMTDT=$P(DGX,U,2),DGMTS=$P(DGX,U,3) S:DGMTS="" DGMTS="UNKNOWN"
+"RTN","EASECU",64,0)
+ W !,"LTC Copayment Status: ",DGMTS,"   Last Test: " S Y=DGMTDT X ^DD("DD") W Y
+"RTN","EASECU",65,0)
+ ; If last test is over a year old and patient is not deceased or not
+"RTN","EASECU",66,0)
+ ; exempt due to eligibility (compensable SC) or LTC before 11/30/99
+"RTN","EASECU",67,0)
+ ; display message that a new test is required
+"RTN","EASECU",68,0)
+ I $$FMDIFF^XLFDT(DT,DGMTDT)>364 D
+"RTN","EASECU",69,0)
+ . I $P($G(^DPT(DFN,.35)),U) Q
+"RTN","EASECU",70,0)
+ . I "^1^4^"[(U_$P($G(^DGMT(408.31,DGMTI,2)),U,7)_U) Q
+"RTN","EASECU",71,0)
+ . W " **NEW TEST REQUIRED**"
+"RTN","EASECU",72,0)
+ I $P($G(^DGMT(408.31,DGMTI,0)),U,11)=0 W !,"Patient INELIGIBLE to Receive LTC Services -- Did Not Agree to Pay Copayments"
+"RTN","EASECU",73,0)
+ Q
+"RTN","EASECU",74,0)
+ ;
+"RTN","EASECU",75,0)
+FORM(DGMTI) ; Return the version of the 10-10EC form used to complete
+"RTN","EASECU",76,0)
+ ; the LTC Copay Test passed in DGMTI
+"RTN","EASECU",77,0)
+ ;     Input:  DGMTI - LTC Copay Test (IEN file #408.31)
+"RTN","EASECU",78,0)
+ ;     Output: 0 = Original format
+"RTN","EASECU",79,0)
+ ;             1 = Revised format
+"RTN","EASECU",80,0)
+ I '$G(DGMTI) Q 0
+"RTN","EASECU",81,0)
+ Q $P($G(^DGMT(408.31,DGMTI,2)),U,10)
+"RTN","EASECU",82,0)
+ ;
+"RTN","EASECU",83,0)
+ ;EAS*1.0*79 - Instead of changing DIS (in case another routine
+"RTN","EASECU",84,0)
+ ;             calls it), copied it but also used LTC Admission Date
+"RTN","EASECU",85,0)
+DISDT(DFN,EASADM) ;Display patient's LTC Copay Test status for a given LTC Admission Date
+"RTN","EASECU",86,0)
+ ; Input -- DFN - IEN of Patient file
+"RTN","EASECU",87,0)
+ ;          EASADM - LTC Admission Date
+"RTN","EASECU",88,0)
+ ; Output -- None
+"RTN","EASECU",89,0)
+ N DGX,DGMTI,DGMTDT,DGMTS
+"RTN","EASECU",90,0)
+ Q:'$G(DFN)  Q:'$G(EASADM)
+"RTN","EASECU",91,0)
+ S DGX=$$LST(DFN,EASADM) Q:'DGX
+"RTN","EASECU",92,0)
+ S DGMTI=+DGX,DGMTDT=$P(DGX,U,2),DGMTS=$P(DGX,U,3) S:DGMTS="" DGMTS="UNKNOWN"
+"RTN","EASECU",93,0)
+ W !,"LTC Copayment Status: ",DGMTS,"   Last Test: " S Y=DGMTDT X ^DD("DD") W Y
+"RTN","EASECU",94,0)
+ ; If last test is over a year old and patient is not deceased or not
+"RTN","EASECU",95,0)
+ ; exempt due to eligibility (compensable SC) or LTC before 11/30/99
+"RTN","EASECU",96,0)
+ ; display message that a new test is required
+"RTN","EASECU",97,0)
+ I $$FMDIFF^XLFDT(DT,DGMTDT)>364 D
+"RTN","EASECU",98,0)
+ . I $P($G(^DPT(DFN,.35)),U) Q
+"RTN","EASECU",99,0)
+ . I "^1^4^"[(U_$P($G(^DGMT(408.31,DGMTI,2)),U,7)_U) Q
+"RTN","EASECU",100,0)
+ . W " **NEW TEST REQUIRED**"
+"RTN","EASECU",101,0)
+ I $P($G(^DGMT(408.31,DGMTI,0)),U,11)=0 W !,"Patient INELIGIBLE to Receive LTC Services -- Did Not Agree to Pay Copayments"
+"RTN","EASECU",102,0)
+ Q
+"VER")
+8.0^22.2
+"^DD",714.1,714.1,0)
+FIELD^^.02^3
+"^DD",714.1,714.1,0,"DDA")
+N
+"^DD",714.1,714.1,0,"DT")
+3010816
+"^DD",714.1,714.1,0,"IX","B",714.1,.01)
+
+"^DD",714.1,714.1,0,"NM","LTC CO-PAY EXEMPTION")
+
+"^DD",714.1,714.1,0,"PT",408.31,2.07)
+
+"^DD",714.1,714.1,0,"PT",714.5,.05)
+
+"^DD",714.1,714.1,0,"VRPK")
+EAS
+"^DD",714.1,714.1,.001,0)
+NUMBER^NJ4,0^^ ^K:+X'=X!(X>9999)!(X<1)!(X?.E1"."1.N) X
+"^DD",714.1,714.1,.001,3)
+Type a number between 1 and 9999, 0 Decimal Digits
+"^DD",714.1,714.1,.001,"DT")
+3010815
+"^DD",714.1,714.1,.01,0)
+NAME^RF^^0;1^K:$L(X)>65!($L(X)<3)!'(X'?1P.E) X
+"^DD",714.1,714.1,.01,1,0)
+^.1
+"^DD",714.1,714.1,.01,1,1,0)
+714.1^B
+"^DD",714.1,714.1,.01,1,1,1)
+S ^EAS(714.1,"B",$E(X,1,30),DA)=""
+"^DD",714.1,714.1,.01,1,1,2)
+K ^EAS(714.1,"B",$E(X,1,30),DA)
+"^DD",714.1,714.1,.01,3)
+Answer must be 3-65 characters in length
+"^DD",714.1,714.1,.01,"DT")
+3010815
+"^DD",714.1,714.1,.02,0)
+ACTIVE?^S^0:NO;1:YES;^0;2^Q
+"^DD",714.1,714.1,.02,21,0)
+^.001^1^1^3010816^^
+"^DD",714.1,714.1,.02,21,1,0)
+This field indicates if the LTC co-pay exemption is active and can be selected as a reason for exemption from LTC co-payments.
+"^DD",714.1,714.1,.02,"DT")
+3010816
+"^DIC",714.1,714.1,0)
+LTC CO-PAY EXEMPTION^714.1
+"^DIC",714.1,714.1,0,"GL")
+^EAS(714.1,
+"^DIC",714.1,714.1,"%",0)
+^1.005^^0
+"^DIC",714.1,714.1,"%D",0)
+^^4^4^3010813^
+"^DIC",714.1,714.1,"%D",1,0)
+This file contains the reasons why a veteran would qualify for an
+"^DIC",714.1,714.1,"%D",2,0)
+exemption from Long Term Care co-payments.  This file is pointed to by the
+"^DIC",714.1,714.1,"%D",3,0)
+Reason for Exemption field (#2.07) in the Annual Means Test file
+"^DIC",714.1,714.1,"%D",4,0)
+(#408.31).
+"^DIC",714.1,"B","LTC CO-PAY EXEMPTION",714.1)
+
+"BLD",10919,6)
+^155
+**END**
+**END**
+

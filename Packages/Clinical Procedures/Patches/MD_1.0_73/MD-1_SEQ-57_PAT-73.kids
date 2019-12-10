@@ -1,0 +1,769 @@
+Released MD*1*73 SEQ #57
+Extracted from mail message
+**KIDS**:MD*1.0*73^
+
+**INSTALL NAME**
+MD*1.0*73
+"BLD",11164,0)
+MD*1.0*73^CLINICAL PROCEDURES^0^3190617^y
+"BLD",11164,1,0)
+^^1^1^3190617^
+"BLD",11164,1,1,0)
+ELIMINATE ALERTS FOR RETRACTED NOTES AND MODS TO HIGH VOLUME SETUP
+"BLD",11164,4,0)
+^9.64PA^^
+"BLD",11164,6.3)
+2
+"BLD",11164,"ABPKG")
+n
+"BLD",11164,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11164,"KRN",.4,0)
+.4
+"BLD",11164,"KRN",.401,0)
+.401
+"BLD",11164,"KRN",.402,0)
+.402
+"BLD",11164,"KRN",.403,0)
+.403
+"BLD",11164,"KRN",.5,0)
+.5
+"BLD",11164,"KRN",.84,0)
+.84
+"BLD",11164,"KRN",1.5,0)
+1.5
+"BLD",11164,"KRN",1.6,0)
+1.6
+"BLD",11164,"KRN",1.61,0)
+1.61
+"BLD",11164,"KRN",1.62,0)
+1.62
+"BLD",11164,"KRN",3.6,0)
+3.6
+"BLD",11164,"KRN",3.8,0)
+3.8
+"BLD",11164,"KRN",9.2,0)
+9.2
+"BLD",11164,"KRN",9.8,0)
+9.8
+"BLD",11164,"KRN",9.8,"NM",0)
+^9.68A^2^2
+"BLD",11164,"KRN",9.8,"NM",1,0)
+MDHL7XXX^^0^B29356870
+"BLD",11164,"KRN",9.8,"NM",2,0)
+MDARSET^^0^B52267997
+"BLD",11164,"KRN",9.8,"NM","B","MDARSET",2)
+
+"BLD",11164,"KRN",9.8,"NM","B","MDHL7XXX",1)
+
+"BLD",11164,"KRN",19,0)
+19
+"BLD",11164,"KRN",19.1,0)
+19.1
+"BLD",11164,"KRN",101,0)
+101
+"BLD",11164,"KRN",409.61,0)
+409.61
+"BLD",11164,"KRN",771,0)
+771
+"BLD",11164,"KRN",779.2,0)
+779.2
+"BLD",11164,"KRN",870,0)
+870
+"BLD",11164,"KRN",8989.51,0)
+8989.51
+"BLD",11164,"KRN",8989.52,0)
+8989.52
+"BLD",11164,"KRN",8994,0)
+8994
+"BLD",11164,"KRN","B",.4,.4)
+
+"BLD",11164,"KRN","B",.401,.401)
+
+"BLD",11164,"KRN","B",.402,.402)
+
+"BLD",11164,"KRN","B",.403,.403)
+
+"BLD",11164,"KRN","B",.5,.5)
+
+"BLD",11164,"KRN","B",.84,.84)
+
+"BLD",11164,"KRN","B",1.5,1.5)
+
+"BLD",11164,"KRN","B",1.6,1.6)
+
+"BLD",11164,"KRN","B",1.61,1.61)
+
+"BLD",11164,"KRN","B",1.62,1.62)
+
+"BLD",11164,"KRN","B",3.6,3.6)
+
+"BLD",11164,"KRN","B",3.8,3.8)
+
+"BLD",11164,"KRN","B",9.2,9.2)
+
+"BLD",11164,"KRN","B",9.8,9.8)
+
+"BLD",11164,"KRN","B",19,19)
+
+"BLD",11164,"KRN","B",19.1,19.1)
+
+"BLD",11164,"KRN","B",101,101)
+
+"BLD",11164,"KRN","B",409.61,409.61)
+
+"BLD",11164,"KRN","B",771,771)
+
+"BLD",11164,"KRN","B",779.2,779.2)
+
+"BLD",11164,"KRN","B",870,870)
+
+"BLD",11164,"KRN","B",8989.51,8989.51)
+
+"BLD",11164,"KRN","B",8989.52,8989.52)
+
+"BLD",11164,"KRN","B",8994,8994)
+
+"BLD",11164,"QUES",0)
+^9.62^^
+"BLD",11164,"REQB",0)
+^9.611^2^2
+"BLD",11164,"REQB",1,0)
+MD*1.0*34^1
+"BLD",11164,"REQB",2,0)
+MD*1.0*65^1
+"BLD",11164,"REQB","B","MD*1.0*34",1)
+
+"BLD",11164,"REQB","B","MD*1.0*65",2)
+
+"MBREQ")
+0
+"PKG",635,-1)
+1^1
+"PKG",635,0)
+CLINICAL PROCEDURES^MD^Clinical Procedures
+"PKG",635,22,0)
+^9.49I^1^1
+"PKG",635,22,1,0)
+1.0^3040521^3061024^568
+"PKG",635,22,1,"PAH",1,0)
+73^3190617
+"PKG",635,22,1,"PAH",1,1,0)
+^^1^1^3190617
+"PKG",635,22,1,"PAH",1,1,1,0)
+ELIMINATE ALERTS FOR RETRACTED NOTES AND MODS TO HIGH VOLUME SETUP
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","MDARSET")
+0^2^B52267997^B45042455
+"RTN","MDARSET",1,0)
+MDARSET ; HOIFO/NCA,WOIFO/KLM - High Volume Check-In Setup ;31 Oct 2018 10:02 AM
+"RTN","MDARSET",2,0)
+ ;;1.0;CLINICAL PROCEDURES;**21,65,73**;Apr 01, 2004;Build 2
+"RTN","MDARSET",3,0)
+ ; Reference IA # 2263 [Supported] XPAR parameter calls
+"RTN","MDARSET",4,0)
+ ;               10104 [Supported] XLFSTR call
+"RTN","MDARSET",5,0)
+ ;                6924 [Private  ] ^TIU(8925.1
+"RTN","MDARSET",6,0)
+ ;
+"RTN","MDARSET",7,0)
+EN1 ; Entry Point for the setup option
+"RTN","MDARSET",8,0)
+ N MDAPT,MDAR,MDCP,MDCP1,MDCT,MDDEF,MDERR,MDKK,MDLST,MDLST1,MDMF,MDNOD,MDVAL,MDX,MDX1,X,Y S (MDMF,MDCT)=0
+"RTN","MDARSET",9,0)
+ D GETLST^XPAR(.MDLST,"SYS","MD GET HIGH VOLUME")
+"RTN","MDARSET",10,0)
+ F MDKK=0:0 S MDKK=$O(MDLST(MDKK)) Q:MDKK<1  S MDX=$G(MDLST(MDKK)),MDLST1(+MDX)=MDKK_"^"_$P(MDX,"^",2),MDCT=MDCT+1
+"RTN","MDARSET",11,0)
+ S MDAR=$$GET^XPAR("SYS","MD NOT ADMN CLOSE MUSE NOTE",1)
+"RTN","MDARSET",12,0)
+A1 ; Ask for procedure parameter
+"RTN","MDARSET",13,0)
+ N MDTIU
+"RTN","MDARSET",14,0)
+ S (MDCP1,MDDEF)="",MDCP1="NO"
+"RTN","MDARSET",15,0)
+ W !!,"Procedure: " R X:DTIME G:'$T!("^"[X) KIL
+"RTN","MDARSET",16,0)
+ I X["?" D PHELP
+"RTN","MDARSET",17,0)
+ K DIC S DIC="^MDS(702.01,",DIC(0)="EQMZ",DIC("S")="I +$P(^(0),U,9)>0&(+$P(^(0),U,6)'=2)&(+$P(^(0),U,11)'=2)"
+"RTN","MDARSET",18,0)
+ D ^DIC K DIC G A1:"^"[X!$D(DTOUT),A1:Y<1
+"RTN","MDARSET",19,0)
+ S MDCP=+Y,MDNOD="" D CHKTL I MDTIU']"" G A1 ;KLM/p65 -note title information. /p73 If no title, can't proceed
+"RTN","MDARSET",20,0)
+ S MDMF=$$MUSE(MDCP)
+"RTN","MDARSET",21,0)
+ I $G(MDLST1(MDCP))'="" S MDDEF=+$P($G(MDLST1(MDCP)),"^",2),MDCP1=+$P($P($G(MDLST1(MDCP)),"^",2),";",2)
+"RTN","MDARSET",22,0)
+ I $G(MDLST1(MDCP))="" G A2
+"RTN","MDARSET",23,0)
+A11 ; Ask to delete an existing entry
+"RTN","MDARSET",24,0)
+ K DIR S DIR(0)="YA",DIR("A")="Delete current procedure setup? ",DIR("B")="NO",DIR("?")="Enter either 'Y' or 'N'."
+"RTN","MDARSET",25,0)
+ S DIR("?",1)="Enter Yes or No, if you want to delete the setup for the procedure."
+"RTN","MDARSET",26,0)
+ D ^DIR G:$D(DIRUT)!$D(DIROUT)!(Y<0) KIL K DIR
+"RTN","MDARSET",27,0)
+ I +Y D EN^XPAR("SYS","MD GET HIGH VOLUME",$P($G(^MDS(702.01,+MDCP,0)),"^",1),"@") D:+MDMF EN^XPAR("SYS","MD NOT ADMN CLOSE MUSE NOTE",1,0) W "...Procedure deleted" D  S MDR=1 G TIU
+"RTN","MDARSET",28,0)
+ .S MDNOD=+MDLST1(MDCP) K MDLST1(MDCP),MDLST(+MDNOD) Q
+"RTN","MDARSET",29,0)
+A2 ; Get Text
+"RTN","MDARSET",30,0)
+ K DIR S DIR(0)="YA",DIR("A")="Get Text? " S:MDDEF'="" DIR("B")=$S(+MDDEF:"Yes",1:"No") S DIR("?")="Enter either 'Y' or 'N'."
+"RTN","MDARSET",31,0)
+ S DIR("?",1)="Indicate whether the text from the result should or should not"
+"RTN","MDARSET",32,0)
+ S DIR("?",2)="be obtained."
+"RTN","MDARSET",33,0)
+ D ^DIR G:$D(DIRUT)!$D(DIROUT)!(Y<0) KIL K DIR
+"RTN","MDARSET",34,0)
+ S MDDEF=Y
+"RTN","MDARSET",35,0)
+ I '+MDDEF S MDVAL=MDDEF_";"_0 D:+MDMF EN^XPAR("SYS","MD NOT ADMN CLOSE MUSE NOTE",1,0) G SET
+"RTN","MDARSET",36,0)
+ I '+MDMF G A4
+"RTN","MDARSET",37,0)
+A3 ; Use Interpreter to close the note
+"RTN","MDARSET",38,0)
+ K DIR S DIR(0)="YA",DIR("A")="Use Interpreter to close note? " S:MDAR'="" DIR("B")=$S(+MDAR:"Yes",1:"No") S DIR("?")="Enter either 'Y' or 'N'."
+"RTN","MDARSET",39,0)
+ S DIR("?",1)="If 'YES', the interpreter of the result will be used to close"
+"RTN","MDARSET",40,0)
+ S DIR("?",2)="the note.  If 'NO', the Proxy service will be used."
+"RTN","MDARSET",41,0)
+ D ^DIR G:$D(DIRUT)!$D(DIROUT)!(Y<0) KIL K DIR
+"RTN","MDARSET",42,0)
+ D EN^XPAR("SYS","MD NOT ADMN CLOSE MUSE NOTE",1,Y)
+"RTN","MDARSET",43,0)
+ I +Y S MDVAL=MDDEF_";"_0 D EN^XPAR("SYS","MD GET HIGH VOLUME","`"_+MDCP,MDVAL) D  G TIU ;P73
+"RTN","MDARSET",44,0)
+ .S MDNOD=$G(MDLST1(MDCP)) I MDNOD="" S MDCT=MDCT+1,MDLST1(MDCP)=MDCT_"^"_MDVAL,MDLST(MDCT)=MDCP_"^"_MDVAL Q
+"RTN","MDARSET",45,0)
+ .I MDNOD'="" S $P(MDNOD,"^",2)=MDVAL,MDLST1(MDCP)=MDNOD,$P(MDLST(+MDNOD),"^",2)=MDVAL Q
+"RTN","MDARSET",46,0)
+ .Q
+"RTN","MDARSET",47,0)
+A4 ; Use CP Method
+"RTN","MDARSET",48,0)
+ K DIR S DIR(0)="YA",DIR("A")="Do Not Auto Close Note? " S:MDCP1'="" DIR("B")=$S(+MDCP1:"Yes",1:"No") S DIR("?")="Enter either 'Y' or 'N'."
+"RTN","MDARSET",49,0)
+ S DIR("?",1)="If 'YES', the text of the result will be in the significant finding of the procedure."
+"RTN","MDARSET",50,0)
+ S DIR("?",2)="If 'NO', the default auto closure will be used."
+"RTN","MDARSET",51,0)
+ D ^DIR G:$D(DIRUT)!$D(DIROUT)!(Y<0) KIL K DIR
+"RTN","MDARSET",52,0)
+ S MDCP1=Y,MDVAL=MDDEF_";"_MDCP1
+"RTN","MDARSET",53,0)
+SET ; Set parameter
+"RTN","MDARSET",54,0)
+ D EN^XPAR("SYS","MD GET HIGH VOLUME","`"_+MDCP,MDVAL)
+"RTN","MDARSET",55,0)
+ S MDNOD=$G(MDLST1(MDCP)) I MDNOD="" S MDCT=MDCT+1,MDLST1(MDCP)=MDCT_"^"_MDVAL,MDLST(MDCT)=MDCP_"^"_MDVAL
+"RTN","MDARSET",56,0)
+ I MDNOD'="" S $P(MDNOD,"^",2)=MDVAL,MDLST1(MDCP)=MDNOD,$P(MDLST(+MDNOD),"^",2)=MDVAL
+"RTN","MDARSET",57,0)
+ I $G(MDCP1)=1 G A1 ;p73 -If SIG FINDINGS do not set tech fields
+"RTN","MDARSET",58,0)
+TIU ;KLM/P65 -Set tech fields COMMIT ACTION and POST-SIGNATURE CODE for note title
+"RTN","MDARSET",59,0)
+ N MDIENS,MDTS
+"RTN","MDARSET",60,0)
+ I MDTIU']"" W !,"Note title not found!" G A1
+"RTN","MDARSET",61,0)
+ S MDIENS=MDTIU_","
+"RTN","MDARSET",62,0)
+ I $D(MDR)=0 G TIU1 ;p73 - Skip asking for SET action.
+"RTN","MDARSET",63,0)
+ W !,"Do you want to "_$S($D(MDR):"delete",1:"set")_" the technical fields for the "_MD01_" title?"
+"RTN","MDARSET",64,0)
+ K Y,DIR S DIR(0)="Y",DIR("B")="Yes",DIR("?")="Enter 'Yes' to update the technical fields or 'No' to bypass this step"
+"RTN","MDARSET",65,0)
+ S DIR("??")="^D TLH2^MDARSET" D ^DIR
+"RTN","MDARSET",66,0)
+ I +Y=0 G A1
+"RTN","MDARSET",67,0)
+TIU1 ;Check title's status (#.07), it must be inactive to continue
+"RTN","MDARSET",68,0)
+ S MDTS=$$GET1^DIQ(8925.1,MDTIU,.07)
+"RTN","MDARSET",69,0)
+ I MDTS'="INACTIVE" D  K MDR,MD41,MD49 G A1 ;p73
+"RTN","MDARSET",70,0)
+ .W:$D(MDR)=1 !!,"Cannot update technical fields - Please INACTIVATE the note title first"
+"RTN","MDARSET",71,0)
+ .I $D(MDR)=0 D
+"RTN","MDARSET",72,0)
+ ..I (MD41="")&(MD49="") D
+"RTN","MDARSET",73,0)
+ ...W !!,"Cannot update technical fields - Please INACTIVATE the note title first"
+"RTN","MDARSET",74,0)
+ ...W !!,"** Deleting procedure from High Volume Setup **"
+"RTN","MDARSET",75,0)
+ ...D EN^XPAR("SYS","MD GET HIGH VOLUME",$P($G(^MDS(702.01,+MDCP,0)),"^",1),"@") D:+MDMF EN^XPAR("SYS","MD NOT ADMN CLOSE MUSE NOTE",1,0)
+"RTN","MDARSET",76,0)
+ ...S MDNOD=+MDLST1(MDCP) K MDLST1(MDCP),MDLST(+MDNOD)
+"RTN","MDARSET",77,0)
+ ...Q
+"RTN","MDARSET",78,0)
+ ..E  W !!,"Technical fields already set to 'QUIT', Procedure setup OK"
+"RTN","MDARSET",79,0)
+ ..Q
+"RTN","MDARSET",80,0)
+ .Q
+"RTN","MDARSET",81,0)
+ ;MDR set if procedure's HV setup is deleted...
+"RTN","MDARSET",82,0)
+ S MDFDA(8925.1,MDIENS,4.1)=$S($D(MDR):"",1:"Q") ;COMMIT ACTION
+"RTN","MDARSET",83,0)
+ S MDFDA(8925.1,MDIENS,4.9)=$S($D(MDR):"",1:"Q") ;POST-SIGNATURE CODE
+"RTN","MDARSET",84,0)
+ L +^TIU(8925.1,MDTIU):1 I '$T W !,"Record is locked." G XIT
+"RTN","MDARSET",85,0)
+ D FILE^DIE("E","MDFDA","MDERR")
+"RTN","MDARSET",86,0)
+ I $D(MDERR) D  G XIT
+"RTN","MDARSET",87,0)
+ .W !,"Update failed due to the following reason: "
+"RTN","MDARSET",88,0)
+ .S MDI="" F  S MDI=$O(MDERR("DIERR",1,"TEXT",MDI)) Q:MDI=""  W !,?5,$G(MDERR("DIERR",1,"TEXT",MDI))
+"RTN","MDARSET",89,0)
+ .Q
+"RTN","MDARSET",90,0)
+ L -^TIU(8925.1,MDTIU)
+"RTN","MDARSET",91,0)
+ W !!,"Update successful!  Don't forget to REACTIVATE the title."
+"RTN","MDARSET",92,0)
+ K MDFDA,MDR,MD01,MDERR,Y,DIR,MD41,MD49
+"RTN","MDARSET",93,0)
+ G A1
+"RTN","MDARSET",94,0)
+KIL ; kill DIR variables
+"RTN","MDARSET",95,0)
+ K DIC,DIR,DIROUT,DIRUT,DTOUT
+"RTN","MDARSET",96,0)
+ Q
+"RTN","MDARSET",97,0)
+MUSE(MDP) ; Check if procedure has Muse as a device
+"RTN","MDARSET",98,0)
+ N MDM,MDLL,MDINL S MDM=0
+"RTN","MDARSET",99,0)
+ Q:'$G(MDP)
+"RTN","MDARSET",100,0)
+ S MDLL=0 F  S MDLL=$O(^MDS(702.01,+MDP,.1,MDLL)) Q:MDLL<1  S MDINL=+$G(^(MDLL,0)) D  Q:+MDM
+"RTN","MDARSET",101,0)
+ .S:$$UP^XLFSTR($$GET1^DIQ(702.09,MDINL_",",".01","E"))["MUSE" MDM=1
+"RTN","MDARSET",102,0)
+ Q MDM
+"RTN","MDARSET",103,0)
+PHELP ; Procedure list
+"RTN","MDARSET",104,0)
+ N MDCH,MDACN,MDNAU
+"RTN","MDARSET",105,0)
+ S MDNAU=+$$GET^XPAR("SYS","MD USE NOTE",1)
+"RTN","MDARSET",106,0)
+ S MDACN=$$GET^XPAR("SYS","MD NOT ADMN CLOSE MUSE NOTE",1)
+"RTN","MDARSET",107,0)
+ W ! F MDKK=0:0 S MDKK=$O(MDLST(MDKK)) Q:MDKK<1  S MDX=$G(MDLST(MDKK)),MDX1=$P(MDX,"^",2) D
+"RTN","MDARSET",108,0)
+ .S MDCH=0 S:+$$MUSE(+MDX) MDCH=1
+"RTN","MDARSET",109,0)
+ .W !,$P($G(^MDS(702.01,+MDX,0)),"^"),?45,$S(+$P(MDX1,";"):"Text",1:"No Text")
+"RTN","MDARSET",110,0)
+ .W ?55,$S((+$P(MDX1,";",2)&'+MDNAU):"SF",(+MDCH&+MDACN):"Muse Interpreter",(+$P(MDX1,";",2)&+MDNAU):"Not Auto",1:"Auto")
+"RTN","MDARSET",111,0)
+ W !
+"RTN","MDARSET",112,0)
+ Q
+"RTN","MDARSET",113,0)
+CHKTL ;KLM/P65 -Display the associated note title information
+"RTN","MDARSET",114,0)
+ Q:'MDCP
+"RTN","MDARSET",115,0)
+ N MDIENS S MDTIU=$$GET1^DIQ(702.01,MDCP,.04,"I") I MDTIU']"" W !,"Note title not found!" Q
+"RTN","MDARSET",116,0)
+ S MDIENS=MDTIU_"," D GETS^DIQ(8925.1,MDIENS,".01;.07;4.1;4.9","","MDROOT")
+"RTN","MDARSET",117,0)
+ S MD01=$G(MDROOT(8925.1,MDIENS,.01)) ;TITLE
+"RTN","MDARSET",118,0)
+ S MD41=$G(MDROOT(8925.1,MDIENS,4.1)) ;COMMIT ACTION
+"RTN","MDARSET",119,0)
+ S MD49=$G(MDROOT(8925.1,MDIENS,4.9)) ;POST-SIGNATURE CODE
+"RTN","MDARSET",120,0)
+ S MD07=$G(MDROOT(8925.1,MDIENS,.07)) ;STATUS
+"RTN","MDARSET",121,0)
+ W !!,?5,"This procedure has note title "_MD01_" associated with it."
+"RTN","MDARSET",122,0)
+ W !!,?5,"The current setup is as follows:"
+"RTN","MDARSET",123,0)
+ W !,?10,"STATUS:",?32,MD07
+"RTN","MDARSET",124,0)
+ W !,?10,"COMMIT ACTION:",?32,$S(MD41]"":MD41,1:"<NULL>")
+"RTN","MDARSET",125,0)
+ W !,?10,"POST-SIGNATURE CODE:",?32,$S(MD49]"":MD41,1:"<NULL>")
+"RTN","MDARSET",126,0)
+ W !!,?5,"When a procedure is setup for High Volume, the COMMIT ACTION and"
+"RTN","MDARSET",127,0)
+ W !,?5,"POST-SIGNATURE CODE fields must contain a 'Q'. If you need to update"
+"RTN","MDARSET",128,0)
+ W !,?5,"these fields, the title ("_MD01_") must be inactivated first.",!!
+"RTN","MDARSET",129,0)
+ K MDROOT,MD07
+"RTN","MDARSET",130,0)
+ Q
+"RTN","MDARSET",131,0)
+TLH2 ;Help for ?? on update title prompt
+"RTN","MDARSET",132,0)
+ W !!,"Select 'Yes' to "_$S($D(MDR):"delete",1:"set")_" the COMMIT ACTION and POST-SIGNATURE CODE"
+"RTN","MDARSET",133,0)
+ W !,"technical fields of the associated note title. Note that if you"
+"RTN","MDARSET",134,0)
+ W !,"are deleting a procedure from the High Volume setup, but the note"
+"RTN","MDARSET",135,0)
+ W !,"title is shared with other procedures still configured for High"
+"RTN","MDARSET",136,0)
+ W !,"Volume, then you should not delete these fields, but instead"
+"RTN","MDARSET",137,0)
+ W !,"create a new title to be used separately (unless the procedure"
+"RTN","MDARSET",138,0)
+ W !,"is being decommissioned)."
+"RTN","MDARSET",139,0)
+ Q
+"RTN","MDARSET",140,0)
+XIT ;clean up and go
+"RTN","MDARSET",141,0)
+ K MDFDA,MDIENS,MDR,MD01,MDTS,MDERR,MDI,MDTIU,Y,DIR
+"RTN","MDARSET",142,0)
+ Q
+"RTN","MDHL7XXX")
+0^1^B29356870^B28032567
+"RTN","MDHL7XXX",1,0)
+MDHL7XXX ; HOIFO/DP - Loopback device for CP ;4/10/09  09:20
+"RTN","MDHL7XXX",2,0)
+ ;;1.0;CLINICAL PROCEDURES;**21,34,73**;Apr 01, 2004;Build 2
+"RTN","MDHL7XXX",3,0)
+ ; 06/05/19 KAM/BP S/N Ticket INC5256127/MD*1*73 Modified the Process
+"RTN","MDHL7XXX",4,0)
+ ;          subroutine to no longer send an alert when it encounters a
+"RTN","MDHL7XXX",5,0)
+ ;          'RETRACTED' note
+"RTN","MDHL7XXX",6,0)
+ ; 06/19/13 KAM/BP Remedy Ticket 442635/MD*1*34  Modified the Process
+"RTN","MDHL7XXX",7,0)
+ ;          subroutine to look back 365 days instead of 5 days for 
+"RTN","MDHL7XXX",8,0)
+ ;          auto-complete of procedures
+"RTN","MDHL7XXX",9,0)
+ ; IA#  2263 [Supported] XPAR Call
+"RTN","MDHL7XXX",10,0)
+ ;      2693 [Subscription] TIU Extractions.
+"RTN","MDHL7XXX",11,0)
+ ;      2980 [Subscription] Calls to GMRCGUIB.
+"RTN","MDHL7XXX",12,0)
+ ;      3160 [Subscription] GMRCMED Call
+"RTN","MDHL7XXX",13,0)
+ ;      3067 [Private] Read fields in Consult file (#123) w/FM
+"RTN","MDHL7XXX",14,0)
+ ;      3468 [Subscription] GMRCCP API.
+"RTN","MDHL7XXX",15,0)
+ ;      3535 [Subscription] Calls to TIUSRVP.
+"RTN","MDHL7XXX",16,0)
+ ;      4508 [Subscription] Call to TIUSRVPT.
+"RTN","MDHL7XXX",17,0)
+ ;     10060 [Supported] New Person File (#200) Read w/FM.
+"RTN","MDHL7XXX",18,0)
+ ;     10103 [Supported] Calls to XLFDT
+"RTN","MDHL7XXX",19,0)
+ ;
+"RTN","MDHL7XXX",20,0)
+EN ; [Procedure] Main entry point
+"RTN","MDHL7XXX",21,0)
+ ; wait 10 seconds and then produce some results in the CP RESULTS file
+"RTN","MDHL7XXX",22,0)
+ ; Variables STUDY and INST passed in via taskman
+"RTN","MDHL7XXX",23,0)
+ H 10 ; Wait for the study to update
+"RTN","MDHL7XXX",24,0)
+ N MDFDA,MDIEN,MDERR K ^TMP($J)
+"RTN","MDHL7XXX",25,0)
+ L +(^MDD(703.1,"B")):15 E  Q
+"RTN","MDHL7XXX",26,0)
+ F  D  Q:'$D(^MDD(703.1,"B",X))
+"RTN","MDHL7XXX",27,0)
+ .S X="127001_"_(+$H)_$E($P($H,",",2)_"00000",1,5)
+"RTN","MDHL7XXX",28,0)
+ S MDFDA(703.1,"+1,",.01)=X
+"RTN","MDHL7XXX",29,0)
+ D UPDATE^DIE("","MDFDA","MDIEN","MDERR")
+"RTN","MDHL7XXX",30,0)
+ L -(^MDD(703.1,"B"))
+"RTN","MDHL7XXX",31,0)
+ S MDIEN=+$G(MDIEN(1),-1)_"," Q:+MDIEN<0
+"RTN","MDHL7XXX",32,0)
+ ; Proceed to build the report here using MDIEN in file 703.1
+"RTN","MDHL7XXX",33,0)
+ S MDFDA(703.1,MDIEN,.02)=$P(^MDD(702,STUDY,0),U,1)
+"RTN","MDHL7XXX",34,0)
+ S MDFDA(703.1,MDIEN,.03)=$$NOW^XLFDT()
+"RTN","MDHL7XXX",35,0)
+ S MDFDA(703.1,MDIEN,.04)=INST
+"RTN","MDHL7XXX",36,0)
+ D:+$$GET1^DIQ(702.09,INST_",",.13,"I")  ; Bi-Directional?
+"RTN","MDHL7XXX",37,0)
+ .S MDFDA(703.1,MDIEN,.05)=STUDY
+"RTN","MDHL7XXX",38,0)
+ ;
+"RTN","MDHL7XXX",39,0)
+ ;; New Loopback Method -- BEGIN
+"RTN","MDHL7XXX",40,0)
+ S MDFDA(703.1,MDIEN,.09)="P"
+"RTN","MDHL7XXX",41,0)
+ S MDFDA(703.11,"+2,"_MDIEN,.01)="3"
+"RTN","MDHL7XXX",42,0)
+ S MDFDA(703.11,"+2,"_MDIEN,.1)="\\vhaishmul14\uploads\body-box-study_19960228_000.pdf"
+"RTN","MDHL7XXX",43,0)
+ D UPDATE^DIE("","MDFDA","MDIEN","MDERR")
+"RTN","MDHL7XXX",44,0)
+ ;; New Loopback Method -- END
+"RTN","MDHL7XXX",45,0)
+ ;
+"RTN","MDHL7XXX",46,0)
+ ; New High Volume Procedure code begin
+"RTN","MDHL7XXX",47,0)
+ N MDSR S MDSR=$$NTIU^MDRPCW1(+STUDY,+MDIEN)
+"RTN","MDHL7XXX",48,0)
+ ; New High Volume Procedure end 
+"RTN","MDHL7XXX",49,0)
+ ;; Original Loopback Method -- BEGIN
+"RTN","MDHL7XXX",50,0)
+ ;S MDFDA(703.11,"+2,"_MDIEN,.01)="1"
+"RTN","MDHL7XXX",51,0)
+ ;D UPDATE^DIE("","MDFDA","MDIEN","MDERR")
+"RTN","MDHL7XXX",52,0)
+ ;S MDIEN=+MDIEN(2)_","_MDIEN
+"RTN","MDHL7XXX",53,0)
+ ;S MDFDA(703.11,MDIEN,.2)=$NA(MDFDA(703.11,MDIEN,.2))
+"RTN","MDHL7XXX",54,0)
+ ;D GETS^DIQ(702,STUDY_",",".01;.011;.02;.03;.04;.05;.06;.07;.08;.09;.091;.1;.11;.12;.991","ENR",$NA(^TMP($J)))
+"RTN","MDHL7XXX",55,0)
+ ;S X="" F  S X=$O(^TMP($J,702,STUDY_",",X)) Q:X=""  D
+"RTN","MDHL7XXX",56,0)
+ ;.S Y=$O(MDFDA(703.11,MDIEN,.2,""),-1)+1
+"RTN","MDHL7XXX",57,0)
+ ;.S MDFDA(703.11,MDIEN,.2,Y)=X_": "_$G(^TMP($J,702,STUDY_",",X,"E"))
+"RTN","MDHL7XXX",58,0)
+ ;S MDFDA(703.1,$P(MDIEN,",",2,3),.09)="P"
+"RTN","MDHL7XXX",59,0)
+ ;D UPDATE^DIE("","MDFDA","MDIEN","MDERR")
+"RTN","MDHL7XXX",60,0)
+ ;; Original Loopback Method -- END
+"RTN","MDHL7XXX",61,0)
+ ;
+"RTN","MDHL7XXX",62,0)
+ K ^TMP($J)
+"RTN","MDHL7XXX",63,0)
+ Q
+"RTN","MDHL7XXX",64,0)
+ ;
+"RTN","MDHL7XXX",65,0)
+TEST ; Queue up the study creator
+"RTN","MDHL7XXX",66,0)
+ N DIC
+"RTN","MDHL7XXX",67,0)
+ S DIC=702,DIC(0)="AEQM",DIC("A")="Select Study to create a report for: "
+"RTN","MDHL7XXX",68,0)
+ D ^DIC Q:+Y<1
+"RTN","MDHL7XXX",69,0)
+ S STUDY=+Y,INST=+$P(^MDD(702,+Y,0),U,11)
+"RTN","MDHL7XXX",70,0)
+ D LOOPBACK(STUDY,INST)
+"RTN","MDHL7XXX",71,0)
+ Q
+"RTN","MDHL7XXX",72,0)
+ ;
+"RTN","MDHL7XXX",73,0)
+LOOPBACK(STUDY,INST) ; Queue up the Loopback process
+"RTN","MDHL7XXX",74,0)
+ N ZTSAVE,ZTRTN,ZTIO,ZTDESC,ZTDTH,ZTSK
+"RTN","MDHL7XXX",75,0)
+ S ZTSAVE("STUDY")=STUDY,ZTSAVE("INST")=INST
+"RTN","MDHL7XXX",76,0)
+ S ZTRTN="EN^MDHL7XXX"
+"RTN","MDHL7XXX",77,0)
+ S ZTIO=""
+"RTN","MDHL7XXX",78,0)
+ S ZTDESC="CP Loopback test"
+"RTN","MDHL7XXX",79,0)
+ S ZTDTH=$$NOW^XLFDT()
+"RTN","MDHL7XXX",80,0)
+ D ^%ZTLOAD
+"RTN","MDHL7XXX",81,0)
+ Q
+"RTN","MDHL7XXX",82,0)
+PROCESS ; Process Device Results
+"RTN","MDHL7XXX",83,0)
+ N MDADD,MDADAR,MDARAD,MDWA,MDALRT,MDAPU,MDCONRS,MDCST,MDCX,MDFD,MDFDA,MDL,MDL1,MDHR,MDHVL,MDKK,MDMAXD,MDMG,MDRR,MDSTU,MDSTAT,MDTIUER,MDX,MDX4
+"RTN","MDHL7XXX",84,0)
+ S MDMAXD=DT+.24,(MDRR,MDARAD,MDTIUER)="" K ^TMP("MDTIUST",$J)
+"RTN","MDHL7XXX",85,0)
+ D GETLST^XPAR(.MDHVL,"SYS","MD GET HIGH VOLUME")
+"RTN","MDHL7XXX",86,0)
+ S MDAPU="CLINICAL,DEVICE PROXY SERVICE"
+"RTN","MDHL7XXX",87,0)
+ S MDFD=$$FIND1^DIC(200,,"X",MDAPU,"B")
+"RTN","MDHL7XXX",88,0)
+ F MDKK=0:0 S MDKK=$O(MDHVL(MDKK)) Q:MDKK<1  S:+$P($G(MDHVL(MDKK)),"^") MDHR(+$P($G(MDHVL(MDKK)),"^"))=$P($G(MDHVL(MDKK)),"^",2)
+"RTN","MDHL7XXX",89,0)
+ ;
+"RTN","MDHL7XXX",90,0)
+ ;06/19/13 KAM/BP 442635/MD*1*34 Changed next line from -5 to -365
+"RTN","MDHL7XXX",91,0)
+ ;
+"RTN","MDHL7XXX",92,0)
+ S MDL=$$FMADD^XLFDT(DT,-365,0,0)  F  S MDL=$O(^MDD(702,"ASD",MDL)) Q:MDL<1!(MDL>MDMAXD)  F MDL1=0:0 S MDL1=$O(^MDD(702,"ASD",MDL,MDL1)) Q:MDL1<1  S MDX=$G(^MDD(702,MDL1,0)) D
+"RTN","MDHL7XXX",93,0)
+ .Q:$G(MDHR(+$P(MDX,"^",4)))=""  S MDCX=$G(MDHR(+$P(MDX,"^",4)))
+"RTN","MDHL7XXX",94,0)
+ .Q:$P($G(^MDS(702.01,+$P(MDX,U,4),0)),U,6)=2
+"RTN","MDHL7XXX",95,0)
+ .S MDCST=$P(MDX,"^",5) Q:'+MDCST
+"RTN","MDHL7XXX",96,0)
+ .Q:'+$P(MDX,"^",6)
+"RTN","MDHL7XXX",97,0)
+ .K ^TMP("MDTIUST",$J),MDWA
+"RTN","MDHL7XXX",98,0)
+ .S MDWA(1202)=MDFD,MDWA(1204)=MDFD,MDWA(1302)=MDFD
+"RTN","MDHL7XXX",99,0)
+ .S MDWA("TEXT",1,0)="** DOCUMENT IN VISTA IMAGING **"
+"RTN","MDHL7XXX",100,0)
+ .S MDWA("TEXT",2,0)="SEE FULL REPORT IN VISTA IMAGING",MDWA("TEXT",3,0)=""
+"RTN","MDHL7XXX",101,0)
+ .D EXTRACT^TIULQ($P(MDX,U,6),"^TMP(""MDTIUST"",$J)",MDTIUER,".01;.05","E")
+"RTN","MDHL7XXX",102,0)
+ .I $G(^TMP("MDTIUST",$J,$P(MDX,U,6),.05,"E"))'="COMPLETED"&('+$P(MDCX,";",2)) D  Q
+"RTN","MDHL7XXX",103,0)
+ ..Q:$P(MDX,"^",9)'=3
+"RTN","MDHL7XXX",104,0)
+ ..Q:$G(^TMP("MDTIUST",$J,$P(MDX,U,6),.05,"E"))="RETRACTED"  ;MD*1*73
+"RTN","MDHL7XXX",105,0)
+ ..I +$P(MDCX,";",1) S MDCONRS=$$CPDOC^GMRCCP(+MDCST,+$P(MDX,"^",6),2) Q
+"RTN","MDHL7XXX",106,0)
+ ..I '+$P(MDCX,";",1) D UPDATE^TIUSRVP(.MDRR,+$P(MDX,"^",6),.MDWA,1) D:+MDRR'<1 ADMNCLOS^TIUSRVPT(.MDARAD,+$P(MDX,"^",6),"M",MDFD) K MDWA D MEDCOMP^GMRCMED(+MDCST,$P(MDX,"^",6)_";TIU(8925,",DT,MDFD,$P(MDX,"^",3))
+"RTN","MDHL7XXX",107,0)
+ ..Q
+"RTN","MDHL7XXX",108,0)
+ .S MDSTU=MDL1 K MDWA
+"RTN","MDHL7XXX",109,0)
+ .S MDSTAT=$$GET1^DIQ(123,+MDCST_",",8,"E") I MDSTAT="COMPLETE" Q:$P(MDX,"^",9)=3  K MDFDA S MDFDA(702,MDSTU_",",.09)=3 D FILE^DIE("","MDFDA") K MDFDA Q
+"RTN","MDHL7XXX",110,0)
+ .I +$P(MDCX,";",2) D  Q
+"RTN","MDHL7XXX",111,0)
+ ..D GID(MDSTU,.MDADAR)
+"RTN","MDHL7XXX",112,0)
+ ..Q:$G(MDADAR(1))=""
+"RTN","MDHL7XXX",113,0)
+ ..S MDADD=$$SFILE^GMRCGUIB(+MDCST,4,"Y",MDFD,MDFD,.MDADAR,"N","",$G(^MDD(702,+MDSTU,3)))
+"RTN","MDHL7XXX",114,0)
+ ..S MDCONRS=$$CPDOC^GMRCCP(+MDCST,+$P(MDX,"^",6),2) Q
+"RTN","MDHL7XXX",115,0)
+ .S MDGET=$O(^MDD(703.1,"ASTUDYID",MDL1,""),-1) Q:'MDGET  S MDDAT=$P($G(^MDD(703.1,MDGET,0)),"^",3)
+"RTN","MDHL7XXX",116,0)
+ .D MEDCOMP^GMRCMED(+MDCST,$P(MDX,"^",6)_";TIU(8925,",MDDAT,MDFD,$P(MDX,"^",3))
+"RTN","MDHL7XXX",117,0)
+ .K ^TMP("MDTIUST",$J)
+"RTN","MDHL7XXX",118,0)
+ .I $P(MDX,"^",9)'=3 K MDFDA S MDFDA(702,MDSTU_",",.09)=3 D FILE^DIE("","MDFDA") K MDFDA
+"RTN","MDHL7XXX",119,0)
+ Q
+"RTN","MDHL7XXX",120,0)
+GID(STU,MDARY) ; Get the text array
+"RTN","MDHL7XXX",121,0)
+ N LOOP,MDRID,NODE S MDRID=0,LOOP=""
+"RTN","MDHL7XXX",122,0)
+ F  S LOOP=$O(^MDD(703.1,"ASTUDYID",STU,LOOP),-1) Q:LOOP<1!(+MDRID)  I +$P($G(^MDD(703.1,+LOOP,.4,0)),"^",3) S MDRID=+LOOP,NODE=$$GET1^DIQ(703.1,MDRID_",",.4,"","MDARY")
+"RTN","MDHL7XXX",123,0)
+ I +MDRID K MDFDA S MDFDA(703.1,MDRID_",",.4)="@" D FILE^DIE("","MDFDA") K MDFDA
+"RTN","MDHL7XXX",124,0)
+ Q
+"VER")
+8.0^22.2
+"BLD",11164,6)
+^57
+**END**
+**END**
+

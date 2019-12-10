@@ -1,0 +1,2618 @@
+KIDS Distribution saved on Sep 09, 2019@11:56:49
+XOBV*1.6*4/XOBS*1.6*4
+**KIDS**:XOBV*1.6*4^XOBS*1.6*4^
+
+**INSTALL NAME**
+XOBV*1.6*4
+"BLD",10751,0)
+XOBV*1.6*4^VISTALINK^0^3190909^y
+"BLD",10751,1,0)
+^^4^4^3190909^
+"BLD",10751,1,1,0)
+This patch corrects an issue within the VISTALINK package:
+"BLD",10751,1,2,0)
+ 
+"BLD",10751,1,3,0)
+VistaLink server errors are not respecting the Kernel's limits for logging
+"BLD",10751,1,4,0)
+errors. 
+"BLD",10751,4,0)
+^9.64PA^^
+"BLD",10751,6)
+1^
+"BLD",10751,6.3)
+7
+"BLD",10751,"ABPKG")
+n
+"BLD",10751,"KRN",0)
+^9.67PA^779.2^20
+"BLD",10751,"KRN",.4,0)
+.4
+"BLD",10751,"KRN",.401,0)
+.401
+"BLD",10751,"KRN",.402,0)
+.402
+"BLD",10751,"KRN",.403,0)
+.403
+"BLD",10751,"KRN",.5,0)
+.5
+"BLD",10751,"KRN",.84,0)
+.84
+"BLD",10751,"KRN",3.6,0)
+3.6
+"BLD",10751,"KRN",3.8,0)
+3.8
+"BLD",10751,"KRN",9.2,0)
+9.2
+"BLD",10751,"KRN",9.8,0)
+9.8
+"BLD",10751,"KRN",9.8,"NM",0)
+^9.68A^6^5
+"BLD",10751,"KRN",9.8,"NM",2,0)
+XOBVLL^^0^B22120748
+"BLD",10751,"KRN",9.8,"NM",3,0)
+XOBVRM^^0^B4369178
+"BLD",10751,"KRN",9.8,"NM",4,0)
+XOBVRPC^^0^B49182652
+"BLD",10751,"KRN",9.8,"NM",5,0)
+XOBVTCP^^0^B42826947
+"BLD",10751,"KRN",9.8,"NM",6,0)
+XOBVTCPL^^0^B7050309
+"BLD",10751,"KRN",9.8,"NM","B","XOBVLL",2)
+ 
+"BLD",10751,"KRN",9.8,"NM","B","XOBVRM",3)
+ 
+"BLD",10751,"KRN",9.8,"NM","B","XOBVRPC",4)
+ 
+"BLD",10751,"KRN",9.8,"NM","B","XOBVTCP",5)
+ 
+"BLD",10751,"KRN",9.8,"NM","B","XOBVTCPL",6)
+ 
+"BLD",10751,"KRN",19,0)
+19
+"BLD",10751,"KRN",19.1,0)
+19.1
+"BLD",10751,"KRN",101,0)
+101
+"BLD",10751,"KRN",409.61,0)
+409.61
+"BLD",10751,"KRN",771,0)
+771
+"BLD",10751,"KRN",779.2,0)
+779.2
+"BLD",10751,"KRN",870,0)
+870
+"BLD",10751,"KRN",8989.51,0)
+8989.51
+"BLD",10751,"KRN",8989.52,0)
+8989.52
+"BLD",10751,"KRN",8994,0)
+8994
+"BLD",10751,"KRN","B",.4,.4)
+ 
+"BLD",10751,"KRN","B",.401,.401)
+ 
+"BLD",10751,"KRN","B",.402,.402)
+ 
+"BLD",10751,"KRN","B",.403,.403)
+ 
+"BLD",10751,"KRN","B",.5,.5)
+ 
+"BLD",10751,"KRN","B",.84,.84)
+ 
+"BLD",10751,"KRN","B",3.6,3.6)
+ 
+"BLD",10751,"KRN","B",3.8,3.8)
+ 
+"BLD",10751,"KRN","B",9.2,9.2)
+ 
+"BLD",10751,"KRN","B",9.8,9.8)
+ 
+"BLD",10751,"KRN","B",19,19)
+ 
+"BLD",10751,"KRN","B",19.1,19.1)
+ 
+"BLD",10751,"KRN","B",101,101)
+ 
+"BLD",10751,"KRN","B",409.61,409.61)
+ 
+"BLD",10751,"KRN","B",771,771)
+ 
+"BLD",10751,"KRN","B",779.2,779.2)
+ 
+"BLD",10751,"KRN","B",870,870)
+ 
+"BLD",10751,"KRN","B",8989.51,8989.51)
+ 
+"BLD",10751,"KRN","B",8989.52,8989.52)
+ 
+"BLD",10751,"KRN","B",8994,8994)
+ 
+"BLD",10751,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",10751,"QUES",0)
+^9.62^^
+"BLD",10751,"REQB",0)
+^9.611^1^1
+"BLD",10751,"REQB",1,0)
+XOBV*1.6*3^2
+"BLD",10751,"REQB","B","XOBV*1.6*3",1)
+ 
+"MBREQ")
+0
+"PKG",561,-1)
+1^1
+"PKG",561,0)
+VISTALINK^XOBV^VistaLink
+"PKG",561,22,0)
+^9.49I^1^1
+"PKG",561,22,1,0)
+1.6^3090508^3110510^66481
+"PKG",561,22,1,"PAH",1,0)
+4^3190909^1307
+"PKG",561,22,1,"PAH",1,1,0)
+^^4^4^3190909
+"PKG",561,22,1,"PAH",1,1,1,0)
+This patch corrects an issue within the VISTALINK package:
+"PKG",561,22,1,"PAH",1,1,2,0)
+ 
+"PKG",561,22,1,"PAH",1,1,3,0)
+VistaLink server errors are not respecting the Kernel's limits for logging
+"PKG",561,22,1,"PAH",1,1,4,0)
+errors. 
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+5
+"RTN","XOBVLL")
+0^2^B22120748
+"RTN","XOBVLL",1,0)
+XOBVLL ;; mjk/alb - VistALink Listen and Spawn Code ; 07/27/2002  13:00
+"RTN","XOBVLL",2,0)
+ ;;1.6;VistALink Security;**4**;May 08, 2009;Build 7
+"RTN","XOBVLL",3,0)
+ ; ;Per VA Directive 6402, this routine should not be modified.
+"RTN","XOBVLL",4,0)
+ Q
+"RTN","XOBVLL",5,0)
+ ;
+"RTN","XOBVLL",6,0)
+ ; ***deprecated*** tag ; Use START^XOBVTCP instead
+"RTN","XOBVLL",7,0)
+START(SOCKET) ; -- start listener
+"RTN","XOBVLL",8,0)
+ D START^XOBVTCP(SOCKET)
+"RTN","XOBVLL",9,0)
+ Q
+"RTN","XOBVLL",10,0)
+ ;
+"RTN","XOBVLL",11,0)
+ ; ***deprecated*** tag ; Use UCX^XOBVTCP instead
+"RTN","XOBVLL",12,0)
+UCX ; -- VMS TCPIP (UCX) multi-thread entry point
+"RTN","XOBVLL",13,0)
+ ; -- Called from VistALink .com files
+"RTN","XOBVLL",14,0)
+ G UCX^XOBVTCP
+"RTN","XOBVLL",15,0)
+ ;
+"RTN","XOBVLL",16,0)
+SPAWN ; -- spawned process
+"RTN","XOBVLL",17,0)
+ N X,XOBSTOP,XOBPORT,XOBHDLR,XOBLASTR,XOBCMREF
+"RTN","XOBVLL",18,0)
+ ;
+"RTN","XOBVLL",19,0)
+ S XOBSTOP=0
+"RTN","XOBVLL",20,0)
+ S XOBPORT=IO
+"RTN","XOBVLL",21,0)
+ S U="^"
+"RTN","XOBVLL",22,0)
+ ;
+"RTN","XOBVLL",23,0)
+ ; -- initialize timestamp for last time request made (used for debugging)
+"RTN","XOBVLL",24,0)
+ S XOBLASTR=0
+"RTN","XOBVLL",25,0)
+ ;
+"RTN","XOBVLL",26,0)
+ ; -- set error trap
+"RTN","XOBVLL",27,0)
+ ;Set up the error trap
+"RTN","XOBVLL",28,0)
+ S $ET="D APPERROR^%ZTER(""VistALink Error $P(XOBMSG,"": "",2 "") HALT" ;*4
+"RTN","XOBVLL",29,0)
+ ;
+"RTN","XOBVLL",30,0)
+ ; -- attempt to share the license; must have TCP port open first
+"RTN","XOBVLL",31,0)
+ U XOBPORT I $T(SHARELIC^%ZOSV)'="" D SHARELIC^%ZOSV(1)
+"RTN","XOBVLL",32,0)
+ ;
+"RTN","XOBVLL",33,0)
+ ; -- start RUM for VistALink Handler
+"RTN","XOBVLL",34,0)
+ D LOGRSRC^%ZOSV("$VISTALINK HANDLER$",2,1)
+"RTN","XOBVLL",35,0)
+ ;
+"RTN","XOBVLL",36,0)
+ ; -- cache/initialize startup request handlers 
+"RTN","XOBVLL",37,0)
+ S X=$$CACHE^XOBVRH(.XOBHDLR)
+"RTN","XOBVLL",38,0)
+ I 'X D RMERR^XOBVRM(184001,$P(X,U,2)) Q
+"RTN","XOBVLL",39,0)
+ ;
+"RTN","XOBVLL",40,0)
+ ; -- initialize tcp processing variables
+"RTN","XOBVLL",41,0)
+ D INIT^XOBVSKT
+"RTN","XOBVLL",42,0)
+ ;
+"RTN","XOBVLL",43,0)
+ ; -- change job name if possible
+"RTN","XOBVLL",44,0)
+ D SETNM^%ZOSV("VLink_"_$$CNV^XLFUTL($J,16))
+"RTN","XOBVLL",45,0)
+ ;
+"RTN","XOBVLL",46,0)
+ ; -- setup for Connection Mgr: get ref; kill data @ ref
+"RTN","XOBVLL",47,0)
+ S XOBCMREF=$$GETREF^XOBUZAP1()
+"RTN","XOBVLL",48,0)
+ D KILL^XOBUZAP0(XOBCMREF)
+"RTN","XOBVLL",49,0)
+ ;
+"RTN","XOBVLL",50,0)
+ ; -- loop until told to stop
+"RTN","XOBVLL",51,0)
+ F  D NXTCALL Q:XOBSTOP
+"RTN","XOBVLL",52,0)
+ ;
+"RTN","XOBVLL",53,0)
+ ; -- kill ^XTMP ref node
+"RTN","XOBVLL",54,0)
+ D KILL^XOBUZAP0(XOBCMREF)
+"RTN","XOBVLL",55,0)
+ ;
+"RTN","XOBVLL",56,0)
+ ; -- final/clean tcp processing variables
+"RTN","XOBVLL",57,0)
+ D FINAL^XOBVSKT
+"RTN","XOBVLL",58,0)
+ ;
+"RTN","XOBVLL",59,0)
+ ; -- stop RUM for VistALink Handler
+"RTN","XOBVLL",60,0)
+ D LOGRSRC^%ZOSV("$VISTALINK HANDLER$",2,2)
+"RTN","XOBVLL",61,0)
+ ;
+"RTN","XOBVLL",62,0)
+ Q
+"RTN","XOBVLL",63,0)
+ ;
+"RTN","XOBVLL",64,0)
+NXTCALL ; -- do next call
+"RTN","XOBVLL",65,0)
+ N X,XOBROOT,XOBREAD,XOBTO,XOBFIRST,XOBOK,XOBRL,XOBDATA
+"RTN","XOBVLL",66,0)
+ ;
+"RTN","XOBVLL",67,0)
+ ; -- set up error trap
+"RTN","XOBVLL",68,0)
+ N $ES S $ET="DO SYSERR^XOBVLL"
+"RTN","XOBVLL",69,0)
+ ;
+"RTN","XOBVLL",70,0)
+ ; -- setup environment variables
+"RTN","XOBVLL",71,0)
+ N DIQUIET S DIQUIET=1
+"RTN","XOBVLL",72,0)
+ S U="^",DTIME=$G(DTIME,900),DT=$$DT^XLFDT()
+"RTN","XOBVLL",73,0)
+ ;
+"RTN","XOBVLL",74,0)
+ ; -- set ^XTMP for Connection Mgr usage if DUZ not 1st piece
+"RTN","XOBVLL",75,0)
+ I '$$GETDUZ^XOBUZAP0(XOBCMREF) D
+"RTN","XOBVLL",76,0)
+ . N XOBDUZ,XOBIP
+"RTN","XOBVLL",77,0)
+ . S XOBDUZ=$G(XOBSYS("DUZ"),$G(DUZ))
+"RTN","XOBVLL",78,0)
+ . S XOBIP=$G(IO("IP"))
+"RTN","XOBVLL",79,0)
+ . D SETVI^XOBUZAP0(XOBCMREF,XOBDUZ,XOBIP,$$GETDESC^XOBUZAP1())
+"RTN","XOBVLL",80,0)
+ ;
+"RTN","XOBVLL",81,0)
+ ; -- initialize 'current' request handler to empty string
+"RTN","XOBVLL",82,0)
+ S XOBHDLR=""
+"RTN","XOBVLL",83,0)
+ ;
+"RTN","XOBVLL",84,0)
+ ; -- # of chars to get on first read / read 11 for Broker initial read
+"RTN","XOBVLL",85,0)
+ S XOBREAD=11
+"RTN","XOBVLL",86,0)
+ ;
+"RTN","XOBVLL",87,0)
+ ; -- get J2SE heartbeat rate for timeout plus network latency factor
+"RTN","XOBVLL",88,0)
+ S XOBTO=$$GETRATE^XOBVLIB()+$$GETDELTA^XOBVLIB()
+"RTN","XOBVLL",89,0)
+ ;
+"RTN","XOBVLL",90,0)
+ ; -- get J2EE timeout value for app serv environment
+"RTN","XOBVLL",91,0)
+ I $G(XOBSYS("ENV"))="j2ee" S XOBTO=$$GETASTO^XOBVLIB()
+"RTN","XOBVLL",92,0)
+ ;
+"RTN","XOBVLL",93,0)
+ ; -- set first read flag
+"RTN","XOBVLL",94,0)
+ S XOBFIRST=1
+"RTN","XOBVLL",95,0)
+ ;
+"RTN","XOBVLL",96,0)
+ ; -- setup intake global
+"RTN","XOBVLL",97,0)
+ S XOBROOT=$NA(^TMP("XOBVLL",$J))
+"RTN","XOBVLL",98,0)
+ K @XOBROOT
+"RTN","XOBVLL",99,0)
+ ;
+"RTN","XOBVLL",100,0)
+ ; -- read from socket port
+"RTN","XOBVLL",101,0)
+ U XOBPORT
+"RTN","XOBVLL",102,0)
+ S XOBOK=$$READ^XOBVSKT(XOBROOT,.XOBREAD,.XOBTO,.XOBFIRST,.XOBSTOP,.XOBDATA,.XOBHDLR)
+"RTN","XOBVLL",103,0)
+ ;
+"RTN","XOBVLL",104,0)
+ ; -- timed out ; cleanup user and exit
+"RTN","XOBVLL",105,0)
+ I 'XOBOK!(XOBSTOP) D  G NXTCALLQ
+"RTN","XOBVLL",106,0)
+ . I $G(DUZ) D CLEAN^XOBSCAV1
+"RTN","XOBVLL",107,0)
+ . S XOBSTOP=1
+"RTN","XOBVLL",108,0)
+ ;
+"RTN","XOBVLL",109,0)
+ ; -- need null device
+"RTN","XOBVLL",110,0)
+ I '$D(XOBNULL) D ERROR(181002,$$EZBLD^DIALOG(181002),XOBPORT) S XOBSTOP=1 G NXTCALLQ
+"RTN","XOBVLL",111,0)
+ ;
+"RTN","XOBVLL",112,0)
+ ; -- call request manager                   
+"RTN","XOBVLL",113,0)
+ S XOBOK=$$EN^XOBVRM(XOBROOT,.XOBDATA,.XOBHDLR)
+"RTN","XOBVLL",114,0)
+ ; -- timestamp last time request made
+"RTN","XOBVLL",115,0)
+ S XOBLASTR=$$NOW^XLFDT()
+"RTN","XOBVLL",116,0)
+ ; -- cleanup intake global
+"RTN","XOBVLL",117,0)
+ K @XOBROOT
+"RTN","XOBVLL",118,0)
+ ;
+"RTN","XOBVLL",119,0)
+NXTCALLQ ; -- exit
+"RTN","XOBVLL",120,0)
+ Q
+"RTN","XOBVLL",121,0)
+ ;
+"RTN","XOBVLL",122,0)
+ ; ----------------------------------------------------------------------------------
+"RTN","XOBVLL",123,0)
+ ;                                System Error Handler
+"RTN","XOBVLL",124,0)
+ ; ----------------------------------------------------------------------------------
+"RTN","XOBVLL",125,0)
+SYSERR ; -- send system error message
+"RTN","XOBVLL",126,0)
+ ; -- If we get an error in the error handler just Halt
+"RTN","XOBVLL",127,0)
+ S $ET="D APPERROR^%ZTER(""VistALink Error 181001"") HALT" ;*4
+"RTN","XOBVLL",128,0)
+ D ERROR(181001,$$EZBLD^DIALOG(181001,$$EC^%ZOSV),XOBPORT)      ; -- Get the error code
+"RTN","XOBVLL",129,0)
+ Q
+"RTN","XOBVLL",130,0)
+ ;
+"RTN","XOBVLL",131,0)
+ERROR(XOBEC,XOBMSG,XOBPORT) ; -- send error message
+"RTN","XOBVLL",132,0)
+ N XOBDAT
+"RTN","XOBVLL",133,0)
+ ;
+"RTN","XOBVLL",134,0)
+ ; -- If we get an error in the error handler just Halt
+"RTN","XOBVLL",135,0)
+ S $ET="D APPERROR^%ZTER(""VistALink Error_$G(XOBDAT(""ERRORS"_",1,"_"""CODE"""_"),180000)"_") HALT" ;*4
+"RTN","XOBVLL",136,0)
+ ;
+"RTN","XOBVLL",137,0)
+ ; -- set up error info
+"RTN","XOBVLL",138,0)
+ S XOBDAT("MESSAGE TYPE")=3
+"RTN","XOBVLL",139,0)
+ S XOBDAT("ERRORS",1,"CODE")=XOBEC
+"RTN","XOBVLL",140,0)
+ S XOBDAT("ERRORS",1,"ERROR TYPE")="system"
+"RTN","XOBVLL",141,0)
+ S XOBDAT("ERRORS",1,"FAULT STRING")="System Error"
+"RTN","XOBVLL",142,0)
+ S XOBDAT("ERRORS",1,"CDATA")=1
+"RTN","XOBVLL",143,0)
+ S XOBDAT("ERRORS",1,"MESSAGE",1)=XOBMSG
+"RTN","XOBVLL",144,0)
+ ;
+"RTN","XOBVLL",145,0)
+ ; -- if serious error, save error info, logout, and halt
+"RTN","XOBVLL",146,0)
+ I (XOBMSG["<DSCON>")!(XOBMSG["<READ>")!(XOBMSG["<WRITE>")!(XOBMSG["<SYSTEM>")!(XOBMSG["READERR")!(XOBMSG["WRITERR")!(XOBMSG["SYSERR") D  H
+"RTN","XOBVLL",147,0)
+ . D APPERROR^%ZTER($S(XOBMSG["<DSCON>":$P(XOBMSG,":",2),1:"VistALink Error "_XOBEC)) ;*4
+"RTN","XOBVLL",148,0)
+ . I $G(DUZ) D CLEAN^XOBSCAV1
+"RTN","XOBVLL",149,0)
+ .Q
+"RTN","XOBVLL",150,0)
+ ;
+"RTN","XOBVLL",151,0)
+ ; -- send error back to client
+"RTN","XOBVLL",152,0)
+ U XOBPORT
+"RTN","XOBVLL",153,0)
+ D ERROR^XOBVLIB(.XOBDAT)
+"RTN","XOBVLL",154,0)
+ ;
+"RTN","XOBVLL",155,0)
+ ; -- just quit if no slots are available or logins are disabled
+"RTN","XOBVLL",156,0)
+ I (XOBEC=181003)!(XOBEC=181004) Q
+"RTN","XOBVLL",157,0)
+ ;
+"RTN","XOBVLL",158,0)
+ ; -- need to make sure any locks are released since code aborted ungracefully
+"RTN","XOBVLL",159,0)
+ L
+"RTN","XOBVLL",160,0)
+ ;
+"RTN","XOBVLL",161,0)
+ ; -- Save off the error
+"RTN","XOBVLL",162,0)
+ D APPERROR^%ZTER($P(XOBMSG,": ",2)) ;*4
+"RTN","XOBVLL",163,0)
+ ;
+"RTN","XOBVLL",164,0)
+ ; -- go back to listening
+"RTN","XOBVLL",165,0)
+ S $ET="Q:($ESTACK&'$QUIT)  Q:$ESTACK -9 S $ECODE="""" DO KILL^XOBVLL G NXTCALLQ^XOBVLL",$EC=",U99,"
+"RTN","XOBVLL",166,0)
+ Q
+"RTN","XOBVLL",167,0)
+ ;
+"RTN","XOBVLL",168,0)
+KILL ; -- new VistALink variables and then do big KILL
+"RTN","XOBVLL",169,0)
+ N XOBPORT,XOBSTOP,XOBNULL,XOBOS,XOBSYS,XOBHDLR,XOBOK,XOBLASTR,XOBCMREF
+"RTN","XOBVLL",170,0)
+ D KILL^XUSCLEAN
+"RTN","XOBVLL",171,0)
+ Q
+"RTN","XOBVLL",172,0)
+ ;
+"RTN","XOBVRM")
+0^3^B4369178
+"RTN","XOBVRM",1,0)
+XOBVRM ;; mjk/alb - VistaLink Request Manager ; 07/27/2002  13:00
+"RTN","XOBVRM",2,0)
+ ;;1.6;VistALink Security;**4**;May 08, 2009;Build 7
+"RTN","XOBVRM",3,0)
+ ; ;Per VA Directive 6402, this routine should not be modified.
+"RTN","XOBVRM",4,0)
+ Q
+"RTN","XOBVRM",5,0)
+ ;
+"RTN","XOBVRM",6,0)
+ ; --------------------------------------------------------------------------------
+"RTN","XOBVRM",7,0)
+ ;                                Request Manager
+"RTN","XOBVRM",8,0)
+ ; --------------------------------------------------------------------------------
+"RTN","XOBVRM",9,0)
+ ;                   
+"RTN","XOBVRM",10,0)
+EN(XOBROOT,XOBDATA,XOBHDLR) ; -- main entry point for Request Manager
+"RTN","XOBVRM",11,0)
+ N XOBOK,XOBOPT
+"RTN","XOBVRM",12,0)
+ S XOBOK=0
+"RTN","XOBVRM",13,0)
+ ;
+"RTN","XOBVRM",14,0)
+ ; -- if 'current' request handler is not defined then parse xml global buffer
+"RTN","XOBVRM",15,0)
+ ;    Note: 'Current' request handler could be define already via proprietary format reader
+"RTN","XOBVRM",16,0)
+ I $G(XOBHDLR)="" S XOBOPT="" D EN^XOBVRMX(XOBROOT,.XOBOPT,.XOBDATA,.XOBHDLR)
+"RTN","XOBVRM",17,0)
+ ;
+"RTN","XOBVRM",18,0)
+ ; -- default single call processing if not specified by request handler
+"RTN","XOBVRM",19,0)
+ I $G(XOBDATA("MODE"),"single call")="single call" S XOBSTOP=1
+"RTN","XOBVRM",20,0)
+ ;
+"RTN","XOBVRM",21,0)
+ ; -- check if request handler info was successfully initialized / if not, throw exception
+"RTN","XOBVRM",22,0)
+ S XOBHDLR=+$G(XOBHDLR)
+"RTN","XOBVRM",23,0)
+ I '$G(XOBHDLR(XOBHDLR)) D  G ENQ
+"RTN","XOBVRM",24,0)
+ . S XWBTIP=$$GETPEER^%ZOSV ; try get client IP for error trap. Use of GETPEER^%ZOSV: DBIA #4056
+"RTN","XOBVRM",25,0)
+ . D RMERR(184001,$G(XOBHDLR(XOBHDLR,"ERROR"),"Request Manager not defined"))
+"RTN","XOBVRM",26,0)
+ . S XOBOK=0
+"RTN","XOBVRM",27,0)
+ ;
+"RTN","XOBVRM",28,0)
+ ; -- do authentication check for message type?
+"RTN","XOBVRM",29,0)
+ I $G(XOBHDLR(XOBHDLR,"AUTHENTICATE")) D
+"RTN","XOBVRM",30,0)
+ . S XOBOK=$$LOGGEDON^XOBSCAV()
+"RTN","XOBVRM",31,0)
+ E  D
+"RTN","XOBVRM",32,0)
+ . S XOBOK=1
+"RTN","XOBVRM",33,0)
+ ;
+"RTN","XOBVRM",34,0)
+ ; -- call request handler
+"RTN","XOBVRM",35,0)
+ I XOBOK X $G(XOBHDLR(XOBHDLR,"REQHDLR"))
+"RTN","XOBVRM",36,0)
+ ;
+"RTN","XOBVRM",37,0)
+ENQ ;
+"RTN","XOBVRM",38,0)
+ Q XOBOK
+"RTN","XOBVRM",39,0)
+ ;
+"RTN","XOBVRM",40,0)
+ ; ----------------------------------------------------------------------------------
+"RTN","XOBVRM",41,0)
+ ;                    Request Manager Error Handler
+"RTN","XOBVRM",42,0)
+ ; ----------------------------------------------------------------------------------
+"RTN","XOBVRM",43,0)
+RMERR(XOBCODE,XOBMSG) ; -- send request error message
+"RTN","XOBVRM",44,0)
+ N XOBDAT,$ET,$ES
+"RTN","XOBVRM",45,0)
+ S XOBDAT("MESSAGE TYPE")=3
+"RTN","XOBVRM",46,0)
+ S XOBDAT("ERRORS",1,"FAULT STRING")="System Error"
+"RTN","XOBVRM",47,0)
+ S XOBDAT("ERRORS",1,"FAULT ACTOR")="Request Manager"
+"RTN","XOBVRM",48,0)
+ S XOBDAT("ERRORS",1,"CODE")=XOBCODE
+"RTN","XOBVRM",49,0)
+ S XOBDAT("ERRORS",1,"ERROR TYPE")="Request Manager"
+"RTN","XOBVRM",50,0)
+ S XOBDAT("ERRORS",1,"CDATA")=0
+"RTN","XOBVRM",51,0)
+ S XOBDAT("ERRORS",1,"MESSAGE",1)=$$EZBLD^DIALOG(XOBCODE,XOBMSG)
+"RTN","XOBVRM",52,0)
+ D ERROR^XOBVLIB(.XOBDAT)
+"RTN","XOBVRM",53,0)
+ ;DO ^%ZTER
+"RTN","XOBVRM",54,0)
+ D APPERROR^%ZTER("VistALink Error "_XOBCODE) ;*4
+"RTN","XOBVRM",55,0)
+ Q
+"RTN","XOBVRM",56,0)
+ ;
+"RTN","XOBVRPC")
+0^4^B49182652
+"RTN","XOBVRPC",1,0)
+XOBVRPC ;; mjk/alb - VistaLink RPC Server Listener Code ; 07/27/2002  13:00
+"RTN","XOBVRPC",2,0)
+ ;;1.6;VistALink Security;**4**;May 08, 2009;Build 7
+"RTN","XOBVRPC",3,0)
+ ; ;Per VA Directive 6402, this routine should not be modified.
+"RTN","XOBVRPC",4,0)
+ Q
+"RTN","XOBVRPC",5,0)
+ ;
+"RTN","XOBVRPC",6,0)
+ ; ------------------------------------------------------------------------
+"RTN","XOBVRPC",7,0)
+ ;                   RPC Server: Message Request Handler         
+"RTN","XOBVRPC",8,0)
+ ; ------------------------------------------------------------------------
+"RTN","XOBVRPC",9,0)
+ ; 
+"RTN","XOBVRPC",10,0)
+EN(XOBDATA) ; -- handle parsed messages request
+"RTN","XOBVRPC",11,0)
+ N DX,DY,RPC0,RPCNAME,RPCIEN,TAG,ROU,METHSIG,XOBERR,XOBR,XOBSEC,XOBWRAP,XOBPTYPE,XRTN,XOBRA,XOBVER
+"RTN","XOBVRPC",12,0)
+ ;
+"RTN","XOBVRPC",13,0)
+ I $G(XOBDATA("XOB RPC","RPC NAME"))="" D  G ENQ
+"RTN","XOBVRPC",14,0)
+ . D ERROR(182001,"[No RPC]","")
+"RTN","XOBVRPC",15,0)
+ ;
+"RTN","XOBVRPC",16,0)
+ S RPCNAME=XOBDATA("XOB RPC","RPC NAME")
+"RTN","XOBVRPC",17,0)
+ ;
+"RTN","XOBVRPC",18,0)
+ I $D(^XWB(8994,"B",RPCNAME))=0 D  G ENQ
+"RTN","XOBVRPC",19,0)
+ . D ERROR(182002,RPCNAME,RPCNAME)
+"RTN","XOBVRPC",20,0)
+ ;
+"RTN","XOBVRPC",21,0)
+ I $D(^XWB(8994,"B",RPCNAME))=10 S RPCIEN=+$O(^XWB(8994,"B",RPCNAME,""))
+"RTN","XOBVRPC",22,0)
+ ;
+"RTN","XOBVRPC",23,0)
+ ; -- get zero node
+"RTN","XOBVRPC",24,0)
+ S RPC0=$G(^XWB(8994,RPCIEN,0))
+"RTN","XOBVRPC",25,0)
+ ;
+"RTN","XOBVRPC",26,0)
+ ; -- make sure there is data on node
+"RTN","XOBVRPC",27,0)
+ I RPC0="" D  G ENQ
+"RTN","XOBVRPC",28,0)
+ . D ERROR(182003,RPCNAME,RPCNAME)
+"RTN","XOBVRPC",29,0)
+ ;
+"RTN","XOBVRPC",30,0)
+ ; -- make sure x-ref is not corrupt and found the wrong entry
+"RTN","XOBVRPC",31,0)
+ I RPCNAME'=$P(RPC0,U) D  G ENQ
+"RTN","XOBVRPC",32,0)
+ . N PARAMS S PARAMS(1)=RPCNAME,PARAMS(2)=$P(RPC0,U)
+"RTN","XOBVRPC",33,0)
+ . D ERROR(182008,RPCNAME,.PARAMS)
+"RTN","XOBVRPC",34,0)
+ ;
+"RTN","XOBVRPC",35,0)
+ ; -- check inactive flag
+"RTN","XOBVRPC",36,0)
+ I $P(RPC0,U,6)=1!($P(RPC0,U,6)=2) D  G ENQ
+"RTN","XOBVRPC",37,0)
+ . D ERROR(182004,RPCNAME,RPCNAME)
+"RTN","XOBVRPC",38,0)
+ ;
+"RTN","XOBVRPC",39,0)
+ ; -- if not already performed, check version, environment and set re-auth check flag
+"RTN","XOBVRPC",40,0)
+ S XOBERR=$S($D(XOBSYS("RPC REAUTH")):0,1:$$VER())
+"RTN","XOBVRPC",41,0)
+ I XOBERR D  G ENQ
+"RTN","XOBVRPC",42,0)
+ . D ERROR(XOBERR,RPCNAME)
+"RTN","XOBVRPC",43,0)
+ ;
+"RTN","XOBVRPC",44,0)
+ ; -- reauthentication checks
+"RTN","XOBVRPC",45,0)
+ S XOBERR=0
+"RTN","XOBVRPC",46,0)
+ I +$G(XOBSYS("RPC REAUTH")) D  G:XOBERR ENQ
+"RTN","XOBVRPC",47,0)
+ . ;
+"RTN","XOBVRPC",48,0)
+ . ; -- reauthenticate user based on type (i.e. DUZ,AV,VPID,CCOW,APPPROXY)
+"RTN","XOBVRPC",49,0)
+ . S XOBERR=$$SETUPDUZ^XOBSRA()
+"RTN","XOBVRPC",50,0)
+ . I XOBERR D ERROR(XOBERR,RPCNAME) Q
+"RTN","XOBVRPC",51,0)
+ . ;
+"RTN","XOBVRPC",52,0)
+ . ; -- if application proxy user, check if allowed to run RPC
+"RTN","XOBVRPC",53,0)
+ . I $$UP^XLFSTR(XOBDATA("XOB RPC","SECURITY","TYPE"))="APPPROXY",'$$RPC^XUSAP($G(RPCIEN)) D  Q
+"RTN","XOBVRPC",54,0)
+ .. S XOBERR=182010
+"RTN","XOBVRPC",55,0)
+ .. D ERROR(XOBERR,RPCNAME,RPCNAME)
+"RTN","XOBVRPC",56,0)
+ ;
+"RTN","XOBVRPC",57,0)
+ ; -- set context
+"RTN","XOBVRPC",58,0)
+ S XOBSEC=$$CRCONTXT^XOBSCAV($G(XOBDATA("XOB RPC","RPC CONTEXT")))
+"RTN","XOBVRPC",59,0)
+ I '+XOBSEC D  G ENQ
+"RTN","XOBVRPC",60,0)
+ . D ERROR(182005,RPCNAME,XOBSEC)
+"RTN","XOBVRPC",61,0)
+ ;
+"RTN","XOBVRPC",62,0)
+ ; -- check if appropriate context created
+"RTN","XOBVRPC",63,0)
+ S XOBSEC=$$CHKCTXT^XOBSCAV(RPCNAME)
+"RTN","XOBVRPC",64,0)
+ I '+XOBSEC D  G ENQ
+"RTN","XOBVRPC",65,0)
+ . D ERROR(182006,RPCNAME,XOBSEC)
+"RTN","XOBVRPC",66,0)
+ ;
+"RTN","XOBVRPC",67,0)
+ ; -- setup timeout info
+"RTN","XOBVRPC",68,0)
+ S XOBDATA("XOB RPC","TIMED OUT")=0
+"RTN","XOBVRPC",69,0)
+ S XOBDATA("XOB RPC","START")=$H
+"RTN","XOBVRPC",70,0)
+ ;
+"RTN","XOBVRPC",71,0)
+ ; -- setup info needed for RPC execution
+"RTN","XOBVRPC",72,0)
+ S TAG=$P(RPC0,U,2)
+"RTN","XOBVRPC",73,0)
+ S ROU=$P(RPC0,U,3)
+"RTN","XOBVRPC",74,0)
+ S XOBPTYPE=$P(RPC0,U,4)
+"RTN","XOBVRPC",75,0)
+ S XOBWRAP=$P(RPC0,U,8)
+"RTN","XOBVRPC",76,0)
+ S XOBVER=$$GETVER^XOBVRPCX()
+"RTN","XOBVRPC",77,0)
+ ;
+"RTN","XOBVRPC",78,0)
+ ; -- build method signature
+"RTN","XOBVRPC",79,0)
+ S METHSIG=TAG_"^"_ROU_"(.XOBR"_$G(XOBDATA("XOB RPC","PARAMS"))_")"
+"RTN","XOBVRPC",80,0)
+ ;
+"RTN","XOBVRPC",81,0)
+ ; -- start RTL
+"RTN","XOBVRPC",82,0)
+ D:$D(XRTL) T0^%ZOSV
+"RTN","XOBVRPC",83,0)
+ ;
+"RTN","XOBVRPC",84,0)
+ ; -- use null device in case of writing during RPC execution
+"RTN","XOBVRPC",85,0)
+ U XOBNULL
+"RTN","XOBVRPC",86,0)
+ ;
+"RTN","XOBVRPC",87,0)
+ ; -- start RUM for RPC Name
+"RTN","XOBVRPC",88,0)
+ D LOGRSRC^%ZOSV(RPCNAME,2,1)
+"RTN","XOBVRPC",89,0)
+ ;
+"RTN","XOBVRPC",90,0)
+ ; -- execute RPC
+"RTN","XOBVRPC",91,0)
+ D CALLRPC(.XOBPTYPE,.XOBWRAP,.XOBVER,METHSIG)
+"RTN","XOBVRPC",92,0)
+ ;
+"RTN","XOBVRPC",93,0)
+ ; -- re-start RUM for VistaLink Handler
+"RTN","XOBVRPC",94,0)
+ D LOGRSRC^%ZOSV("$VISTALINK HANDLER$",2,1)
+"RTN","XOBVRPC",95,0)
+ ;
+"RTN","XOBVRPC",96,0)
+ ; -- stop RTL
+"RTN","XOBVRPC",97,0)
+ S:$D(XRT0) XRTN=RPCNAME D:$D(XRT0) T1^%ZOSV
+"RTN","XOBVRPC",98,0)
+ ;
+"RTN","XOBVRPC",99,0)
+ ; -- empty write buffer of null device
+"RTN","XOBVRPC",100,0)
+ U XOBNULL S DX=0,DY=0 X ^%ZOSF("XY")
+"RTN","XOBVRPC",101,0)
+ ;
+"RTN","XOBVRPC",102,0)
+ ; -- reset to use tcp port device to send results
+"RTN","XOBVRPC",103,0)
+ U XOBPORT
+"RTN","XOBVRPC",104,0)
+ ;
+"RTN","XOBVRPC",105,0)
+ ; -- check for RPC processing timeout
+"RTN","XOBVRPC",106,0)
+ I $$TOCHK^XOBVLIB() D  G ENQ
+"RTN","XOBVRPC",107,0)
+ . N PARAMS S PARAMS(1)=RPCNAME,PARAMS(2)=$$GETTO^XOBVLIB()
+"RTN","XOBVRPC",108,0)
+ . D ERROR(182007,RPCNAME,.PARAMS)
+"RTN","XOBVRPC",109,0)
+ ;
+"RTN","XOBVRPC",110,0)
+ ; -- send results
+"RTN","XOBVRPC",111,0)
+ D SEND(.XOBR)
+"RTN","XOBVRPC",112,0)
+ ;
+"RTN","XOBVRPC",113,0)
+ENQ ; -- end message handler
+"RTN","XOBVRPC",114,0)
+ D CLEAN
+"RTN","XOBVRPC",115,0)
+ Q
+"RTN","XOBVRPC",116,0)
+ ;
+"RTN","XOBVRPC",117,0)
+CALLRPC(XWBPTYPE,XWBWRAP,XWBAPVER,METHSIG) ;-- execute RPC (use Broker RPC return type & wrap flag if there)
+"RTN","XOBVRPC",118,0)
+ D @METHSIG
+"RTN","XOBVRPC",119,0)
+ Q
+"RTN","XOBVRPC",120,0)
+ ;
+"RTN","XOBVRPC",121,0)
+CLEAN ; -- clean up message handler environment
+"RTN","XOBVRPC",122,0)
+ N POS
+"RTN","XOBVRPC",123,0)
+ ; -- kill parameters
+"RTN","XOBVRPC",124,0)
+ S POS=0
+"RTN","XOBVRPC",125,0)
+ F  S POS=$O(XOBDATA("XOB RPC","PARAMS",POS)) Q:'POS  K @XOBDATA("XOB RPC","PARAMS",POS)
+"RTN","XOBVRPC",126,0)
+ Q
+"RTN","XOBVRPC",127,0)
+ ;
+"RTN","XOBVRPC",128,0)
+SEND(XOBR) ; -- stream rpc data to client
+"RTN","XOBVRPC",129,0)
+ N XOBFMT,XOBFILL
+"RTN","XOBVRPC",130,0)
+ ;
+"RTN","XOBVRPC",131,0)
+ S XOBFMT=$$GETFMT()
+"RTN","XOBVRPC",132,0)
+ ; -- prepare socket for writing
+"RTN","XOBVRPC",133,0)
+ D PRE^XOBVSKT
+"RTN","XOBVRPC",134,0)
+ ; -- initialize XML headers
+"RTN","XOBVRPC",135,0)
+ D WRITE^XOBVSKT($$VLHDR^XOBVLIB(1))
+"RTN","XOBVRPC",136,0)
+ ; -- start response
+"RTN","XOBVRPC",137,0)
+ D WRITE^XOBVSKT("<Response type="""_XOBFMT_""" ><![CDATA[")
+"RTN","XOBVRPC",138,0)
+ ; -- results
+"RTN","XOBVRPC",139,0)
+ D PROCESS
+"RTN","XOBVRPC",140,0)
+ ; -- finalize
+"RTN","XOBVRPC",141,0)
+ D WRITE^XOBVSKT("]]></Response>"_$$ENVFTR^XOBVLIB())
+"RTN","XOBVRPC",142,0)
+ ; -- send eot and flush buffer
+"RTN","XOBVRPC",143,0)
+ D POST^XOBVSKT
+"RTN","XOBVRPC",144,0)
+ ;
+"RTN","XOBVRPC",145,0)
+ Q
+"RTN","XOBVRPC",146,0)
+ ;
+"RTN","XOBVRPC",147,0)
+DOCTYPE ;
+"RTN","XOBVRPC",148,0)
+ D WRITE^XOBVSKT("<!DOCTYPE vistalink [<!ELEMENT vistalink (results) ><!ELEMENT results (#PCDATA)><!ATTLIST vistalink type CDATA ""Gov.VA.Med.RPC.Response"" ><!ATTLIST results type (array|string) >]>")
+"RTN","XOBVRPC",149,0)
+ Q
+"RTN","XOBVRPC",150,0)
+ ;
+"RTN","XOBVRPC",151,0)
+GETFMT() ; -- determine response format type
+"RTN","XOBVRPC",152,0)
+ I XOBPTYPE=1!(XOBPTYPE=5)!(XOBPTYPE=6) Q "string"
+"RTN","XOBVRPC",153,0)
+ I XOBPTYPE=2 Q "array"
+"RTN","XOBVRPC",154,0)
+ ;
+"RTN","XOBVRPC",155,0)
+ Q $S(XOBWRAP:"array",1:"string")
+"RTN","XOBVRPC",156,0)
+ ;
+"RTN","XOBVRPC",157,0)
+PROCESS ; -- send the real results
+"RTN","XOBVRPC",158,0)
+ N I,T,D
+"RTN","XOBVRPC",159,0)
+ ; -- single value
+"RTN","XOBVRPC",160,0)
+ I XOBPTYPE=1 S XOBR=$G(XOBR) D WRITE^XOBVSKT(XOBR) Q
+"RTN","XOBVRPC",161,0)
+ ; -- table delimited by CR+LF
+"RTN","XOBVRPC",162,0)
+ I XOBPTYPE=2 D  Q
+"RTN","XOBVRPC",163,0)
+ . S I="" F  S I=$O(XOBR(I)) Q:I=""  D WRITE^XOBVSKT(XOBR(I)),WRITE^XOBVSKT($C(10))
+"RTN","XOBVRPC",164,0)
+ ; -- word processing
+"RTN","XOBVRPC",165,0)
+ I XOBPTYPE=3 D  Q
+"RTN","XOBVRPC",166,0)
+ . S I="" F  S I=$O(XOBR(I)) Q:I=""  D WRITE^XOBVSKT(XOBR(I)) D:XOBWRAP WRITE^XOBVSKT($C(10))
+"RTN","XOBVRPC",167,0)
+ ; -- global array
+"RTN","XOBVRPC",168,0)
+ I XOBPTYPE=4 D  Q
+"RTN","XOBVRPC",169,0)
+ . I $E($G(XOBR))'="^" Q
+"RTN","XOBVRPC",170,0)
+ . S I=$G(XOBR) Q:I=""  S T=$E(I,1,$L(I)-1)
+"RTN","XOBVRPC",171,0)
+ . ;Only send root node if non-null.
+"RTN","XOBVRPC",172,0)
+ . I $D(@I)>10 S D=@I I $L(D) D WRITE^XOBVSKT(D),WRITE^XOBVSKT($C(10)):XOBWRAP&(D'=$C(10))
+"RTN","XOBVRPC",173,0)
+ . F  S I=$Q(@I) Q:I=""!(I'[T)  S D=@I D WRITE^XOBVSKT(D),WRITE^XOBVSKT($C(10)):XOBWRAP&(D'=$C(10))
+"RTN","XOBVRPC",174,0)
+ . I $D(@XOBR) K @XOBR
+"RTN","XOBVRPC",175,0)
+ ; -- global instance
+"RTN","XOBVRPC",176,0)
+ I XOBPTYPE=5 D  Q
+"RTN","XOBVRPC",177,0)
+ . I $E($G(XOBR))'="^" Q
+"RTN","XOBVRPC",178,0)
+ . S XOBR=$G(@XOBR) D WRITE^XOBVSKT(XOBR)
+"RTN","XOBVRPC",179,0)
+ ; -- variable length records only good up to 255 char)
+"RTN","XOBVRPC",180,0)
+ I XOBPTYPE=6 D
+"RTN","XOBVRPC",181,0)
+ . S I="" F  S I=$O(XOBR(I)) Q:I=""  D WRITE^XOBVSKT($C($L(XOBR(I)))),WRITE^XOBVSKT(XOBR(I))
+"RTN","XOBVRPC",182,0)
+ Q
+"RTN","XOBVRPC",183,0)
+ ;
+"RTN","XOBVRPC",184,0)
+ERROR(CODE,RPCNAME,PARAMS) ; -- send rpc application error
+"RTN","XOBVRPC",185,0)
+ N XOBI,XOBDAT,$ET,$ES
+"RTN","XOBVRPC",186,0)
+ ; -- if parameters are passed as in CODE (where CODE = code^param1^param2^...)
+"RTN","XOBVRPC",187,0)
+ ; -- parse CODE and put parameters into PARAMS array.
+"RTN","XOBVRPC",188,0)
+ I CODE[U,$D(PARAMS)=0 D
+"RTN","XOBVRPC",189,0)
+ . K PARAMS
+"RTN","XOBVRPC",190,0)
+ . F XOBI=2:1:$L(XOBERR,U) S PARAMS(XOBI-1)=$P(XOBERR,U,XOBI)
+"RTN","XOBVRPC",191,0)
+ . S CODE=+CODE
+"RTN","XOBVRPC",192,0)
+ ;
+"RTN","XOBVRPC",193,0)
+ S XOBDAT("MESSAGE TYPE")=2
+"RTN","XOBVRPC",194,0)
+ S XOBDAT("ERRORS",1,"FAULT STRING")="Internal Application Error"
+"RTN","XOBVRPC",195,0)
+ S XOBDAT("ERRORS",1,"FAULT ACTOR")=RPCNAME
+"RTN","XOBVRPC",196,0)
+ S XOBDAT("ERRORS",1,"CODE")=CODE
+"RTN","XOBVRPC",197,0)
+ S XOBDAT("ERRORS",1,"ERROR TYPE")=RPCNAME
+"RTN","XOBVRPC",198,0)
+ S XOBDAT("ERRORS",1,"CDATA")=0
+"RTN","XOBVRPC",199,0)
+ S XOBDAT("ERRORS",1,"MESSAGE",1)=$$EZBLD^DIALOG(CODE,.PARAMS)
+"RTN","XOBVRPC",200,0)
+ D ERROR^XOBVLIB(.XOBDAT)
+"RTN","XOBVRPC",201,0)
+ ;
+"RTN","XOBVRPC",202,0)
+ ; -- save info in error system
+"RTN","XOBVRPC",203,0)
+ D APPERROR^%ZTER("VistALink Error "_CODE) ;*4
+"RTN","XOBVRPC",204,0)
+ Q
+"RTN","XOBVRPC",205,0)
+ ;
+"RTN","XOBVRPC",206,0)
+VER() ; -- check version and if re-authentication check is needed
+"RTN","XOBVRPC",207,0)
+ ; -- IMPORTANT: This tag needs updating for version numbers for each target release.
+"RTN","XOBVRPC",208,0)
+ ; -- This call needs only be called once per connection.
+"RTN","XOBVRPC",209,0)
+ ; 
+"RTN","XOBVRPC",210,0)
+ N XOBERR,CV,SV,ENV
+"RTN","XOBVRPC",211,0)
+ ;
+"RTN","XOBVRPC",212,0)
+ K XOBSYS("RPC REAUTH")
+"RTN","XOBVRPC",213,0)
+ ;
+"RTN","XOBVRPC",214,0)
+ S XOBERR=0
+"RTN","XOBVRPC",215,0)
+ ; -- default re-auh flag to true
+"RTN","XOBVRPC",216,0)
+ S XOBRA=1
+"RTN","XOBVRPC",217,0)
+ ; -- client version
+"RTN","XOBVRPC",218,0)
+ S CV=XOBDATA("XOB RPC","RPC HANDLER VERSION")
+"RTN","XOBVRPC",219,0)
+ ; -- current server version
+"RTN","XOBVRPC",220,0)
+ S SV="1.6"
+"RTN","XOBVRPC",221,0)
+ ; -- client environment
+"RTN","XOBVRPC",222,0)
+ S ENV=XOBSYS("ENV")
+"RTN","XOBVRPC",223,0)
+ ;
+"RTN","XOBVRPC",224,0)
+ ; -- if client version is not supported then return error
+"RTN","XOBVRPC",225,0)
+ I ("^1.0^1.5^1.6^")'[(U_CV_U) D  G VERQ
+"RTN","XOBVRPC",226,0)
+ . S XOBERR=182009_U_CV_U_SV_U_"Client version not supported"
+"RTN","XOBVRPC",227,0)
+ ;
+"RTN","XOBVRPC",228,0)
+ ; -- if client environment is not supported then return error
+"RTN","XOBVRPC",229,0)
+ I ("^j2se^j2ee^.net^")'[(U_ENV_U) D  G VERQ
+"RTN","XOBVRPC",230,0)
+ . S XOBERR=182009_U_CV_U_SV_U_"Client environment ("_$$UP^XLFSTR(ENV)_") not supported"
+"RTN","XOBVRPC",231,0)
+ ;
+"RTN","XOBVRPC",232,0)
+ ; -- if client/server environment then ok
+"RTN","XOBVRPC",233,0)
+ I ("^j2se^.net^")[(U_ENV_U) S XOBRA=0 G VERQ
+"RTN","XOBVRPC",234,0)
+ ;
+"RTN","XOBVRPC",235,0)
+ ; -- if client version is "1.0" and client is j2ee then return error
+"RTN","XOBVRPC",236,0)
+ I CV="1.0",ENV="j2ee" D  G VERQ
+"RTN","XOBVRPC",237,0)
+ . S XOBERR=182009_U_CV_U_SV_U_"Client RPC version does not support "_$$UP^XLFSTR(ENV)
+"RTN","XOBVRPC",238,0)
+ ;
+"RTN","XOBVRPC",239,0)
+ ; -- if client version supports j2ee and client is j2ee then ok (default)
+"RTN","XOBVRPC",240,0)
+ ;IF ENV="j2ee" GOTO VERQ
+"RTN","XOBVRPC",241,0)
+ ;
+"RTN","XOBVRPC",242,0)
+VERQ ;
+"RTN","XOBVRPC",243,0)
+ I 'XOBERR S XOBSYS("RPC REAUTH")=XOBRA
+"RTN","XOBVRPC",244,0)
+ Q XOBERR
+"RTN","XOBVRPC",245,0)
+ ;
+"RTN","XOBVTCP")
+0^5^B42826947
+"RTN","XOBVTCP",1,0)
+XOBVTCP ;; mjk/alb - VistALink TCP Utilities ; 07/27/2002  13:00
+"RTN","XOBVTCP",2,0)
+ ;;1.6;VistALink Security;**4**;May 08, 2009;Build 7
+"RTN","XOBVTCP",3,0)
+ ; ;Per VA Directive 6402, this routine should not be modified.
+"RTN","XOBVTCP",4,0)
+ Q
+"RTN","XOBVTCP",5,0)
+ ;
+"RTN","XOBVTCP",6,0)
+ ; -- called from protocol action at START^XOBUM1 
+"RTN","XOBVTCP",7,0)
+START(XOBPORT,XOBCFG) ;
+"RTN","XOBVTCP",8,0)
+ ; 
+"RTN","XOBVTCP",9,0)
+ ; -- set up environment
+"RTN","XOBVTCP",10,0)
+ N XOBOK
+"RTN","XOBVTCP",11,0)
+ S XOBOK=0
+"RTN","XOBVTCP",12,0)
+ S U="^" D HOME^%ZIS
+"RTN","XOBVTCP",13,0)
+ ;
+"RTN","XOBVTCP",14,0)
+ ; -- if no port, set to default
+"RTN","XOBVTCP",15,0)
+ I $G(XOBPORT)="" N XOBPORT S XOBPORT=8000
+"RTN","XOBVTCP",16,0)
+ ;
+"RTN","XOBVTCP",17,0)
+ I $$LOCK(XOBPORT) D
+"RTN","XOBVTCP",18,0)
+ . D UNLOCK(XOBPORT)
+"RTN","XOBVTCP",19,0)
+ . ; -- JOB command same for CacheNT and DSM
+"RTN","XOBVTCP",20,0)
+ . J LISTENER^XOBVTCPL(XOBPORT,$G(XOBCFG))::5
+"RTN","XOBVTCP",21,0)
+ . S XOBOK=$T
+"RTN","XOBVTCP",22,0)
+ E  D
+"RTN","XOBVTCP",23,0)
+ . S XOBOK=0
+"RTN","XOBVTCP",24,0)
+ Q XOBOK
+"RTN","XOBVTCP",25,0)
+ ;
+"RTN","XOBVTCP",26,0)
+UCX ; -- old VMS TCPIP (UCX) multi-thread entry point [for DSM]
+"RTN","XOBVTCP",27,0)
+ ; -- Called from VistALink .com files
+"RTN","XOBVTCP",28,0)
+ ;
+"RTN","XOBVTCP",29,0)
+ N XOBEC
+"RTN","XOBVTCP",30,0)
+ D ESET
+"RTN","XOBVTCP",31,0)
+ S (IO,IO(0))="SYS$NET"
+"RTN","XOBVTCP",32,0)
+ ; **VMS specific code, need to share device**
+"RTN","XOBVTCP",33,0)
+ O IO:(TCPDEV:BLOCKSIZE=512):60 E  S ^TMP("XOB DSM CONNECT FAILURE",$H)="" Q
+"RTN","XOBVTCP",34,0)
+ U IO
+"RTN","XOBVTCP",35,0)
+ S XOBEC=$$NEWOK^XOBVTCPL()
+"RTN","XOBVTCP",36,0)
+ I XOBEC D LOGINERR^XOBVTCPL(XOBEC,IO)
+"RTN","XOBVTCP",37,0)
+ I 'XOBEC D SPAWN^XOBVLL
+"RTN","XOBVTCP",38,0)
+ Q
+"RTN","XOBVTCP",39,0)
+ ;
+"RTN","XOBVTCP",40,0)
+CACHEVMS ; -- VMS TCPIP (UCX) multi-thread entry point for Cache for VMS
+"RTN","XOBVTCP",41,0)
+ ; -- Called from VistALink .com files
+"RTN","XOBVTCP",42,0)
+ ;
+"RTN","XOBVTCP",43,0)
+ N XOBEC
+"RTN","XOBVTCP",44,0)
+ D ESET
+"RTN","XOBVTCP",45,0)
+ S (IO,IO(0))="SYS$NET"
+"RTN","XOBVTCP",46,0)
+ ;
+"RTN","XOBVTCP",47,0)
+ O IO::5
+"RTN","XOBVTCP",48,0)
+ U IO:(::"-M") ;Packet mode like DSM
+"RTN","XOBVTCP",49,0)
+ ;
+"RTN","XOBVTCP",50,0)
+ S XOBEC=$$NEWOK^XOBVTCPL()
+"RTN","XOBVTCP",51,0)
+ I XOBEC D LOGINERR^XOBVTCPL(XOBEC,IO)
+"RTN","XOBVTCP",52,0)
+ I 'XOBEC D SPAWN^XOBVLL
+"RTN","XOBVTCP",53,0)
+ Q
+"RTN","XOBVTCP",54,0)
+ ;
+"RTN","XOBVTCP",55,0)
+CACHELNX ; -- multi-thread entry point for Cache for Linux
+"RTN","XOBVTCP",56,0)
+ ; -- Called from XINETD service files
+"RTN","XOBVTCP",57,0)
+ ;
+"RTN","XOBVTCP",58,0)
+ N XOBEC
+"RTN","XOBVTCP",59,0)
+ D ESET
+"RTN","XOBVTCP",60,0)
+ S (IO,IO(0))=$P
+"RTN","XOBVTCP",61,0)
+ ;
+"RTN","XOBVTCP",62,0)
+ O IO::5
+"RTN","XOBVTCP",63,0)
+ U IO:(::"-M") ;Packet mode like DSM
+"RTN","XOBVTCP",64,0)
+ ;
+"RTN","XOBVTCP",65,0)
+ S XOBEC=$$NEWOK^XOBVTCPL()
+"RTN","XOBVTCP",66,0)
+ I XOBEC D LOGINERR^XOBVTCPL(XOBEC,IO)
+"RTN","XOBVTCP",67,0)
+ I 'XOBEC D SPAWN^XOBVLL
+"RTN","XOBVTCP",68,0)
+ Q
+"RTN","XOBVTCP",69,0)
+ ;
+"RTN","XOBVTCP",70,0)
+GTMLNX ; -- Linux xinetd multi-thread entry point for GT.M
+"RTN","XOBVTCP",71,0)
+ ;
+"RTN","XOBVTCP",72,0)
+ N XOBEC,TMP,X,%
+"RTN","XOBVTCP",73,0)
+ D ESET
+"RTN","XOBVTCP",74,0)
+ ;
+"RTN","XOBVTCP",75,0)
+ ; **GTM/linux specific code**
+"RTN","XOBVTCP",76,0)
+ S (IO,IO(0))=$P,@("$ZT=""""")
+"RTN","XOBVTCP",77,0)
+ X "U IO:(nowrap:nodelimiter:IOERROR=""TRAP"")" ;Setup device
+"RTN","XOBVTCP",78,0)
+ S @("$ZINTERRUPT=""I $$JOBEXAM^ZU($ZPOSITION)"""),X=""
+"RTN","XOBVTCP",79,0)
+ X "ZSHOW ""D"":TMP"
+"RTN","XOBVTCP",80,0)
+ F %=1:1 Q:'$D(TMP("D",%))  S X=TMP("D",%) Q:X["LOCAL"
+"RTN","XOBVTCP",81,0)
+ S IO("IP")=$P($P(X,"REMOTE=",2),"@"),IO("PORT")=+$P($P(X,"LOCAL=",2),"@",2)
+"RTN","XOBVTCP",82,0)
+ ;End GT.M code
+"RTN","XOBVTCP",83,0)
+ ;
+"RTN","XOBVTCP",84,0)
+ S XOBEC=$$NEWOK^XOBVTCPL()
+"RTN","XOBVTCP",85,0)
+ I XOBEC D LOGINERR^XOBVTCPL(XOBEC,IO)
+"RTN","XOBVTCP",86,0)
+ I 'XOBEC D COUNT^XUSCNT(1),SPAWN^XOBVLL,COUNT^XUSCNT(-1)
+"RTN","XOBVTCP",87,0)
+ Q
+"RTN","XOBVTCP",88,0)
+ ;
+"RTN","XOBVTCP",89,0)
+ ;Sample linux scripts
+"RTN","XOBVTCP",90,0)
+ ;xinetd script
+"RTN","XOBVTCP",91,0)
+ ;vvvvvvvvvvvvvvvvvvvvvvvvv
+"RTN","XOBVTCP",92,0)
+ ;service vistalink
+"RTN","XOBVTCP",93,0)
+ ;{
+"RTN","XOBVTCP",94,0)
+ ;   socket_type     = stream
+"RTN","XOBVTCP",95,0)
+ ;   port            = 18001
+"RTN","XOBVTCP",96,0)
+ ;   type            = UNLISTED
+"RTN","XOBVTCP",97,0)
+ ;   user            = vista
+"RTN","XOBVTCP",98,0)
+ ;   wait            = no
+"RTN","XOBVTCP",99,0)
+ ;   disable         = no
+"RTN","XOBVTCP",100,0)
+ ;   server          = /bin/bash
+"RTN","XOBVTCP",101,0)
+ ;   server_args     = /home/vista/dev/vistalink.sh
+"RTN","XOBVTCP",102,0)
+ ;   passenv         = REMOTE_HOST
+"RTN","XOBVTCP",103,0)
+ ;}
+"RTN","XOBVTCP",104,0)
+ ;^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"RTN","XOBVTCP",105,0)
+ ;
+"RTN","XOBVTCP",106,0)
+ ;cat /home/vista/dev/vistalink.sh
+"RTN","XOBVTCP",107,0)
+ ;vvvvvvvvvvvvvvvvvvvvvvvvvvvv
+"RTN","XOBVTCP",108,0)
+ ;#!/bin/bash
+"RTN","XOBVTCP",109,0)
+ ;#RPC Broker
+"RTN","XOBVTCP",110,0)
+ ;cd /home/vista/dev
+"RTN","XOBVTCP",111,0)
+ ;. ./gtmprofile
+"RTN","XOBVTCP",112,0)
+ ;$gtm_dist/mumps -r GTMLNX^XOBVTCP
+"RTN","XOBVTCP",113,0)
+ ;exit 0
+"RTN","XOBVTCP",114,0)
+ ;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"RTN","XOBVTCP",115,0)
+ ;
+"RTN","XOBVTCP",116,0)
+SERVICE ; -- service entry point (for VMS TCP/IP & LINUX XINETD utilities)
+"RTN","XOBVTCP",117,0)
+ ; TODO: possible single entry point for os service calls; needs work and has not been tested
+"RTN","XOBVTCP",118,0)
+ N XOBEC,XOBMOS,XOBSOS
+"RTN","XOBVTCP",119,0)
+ D ESET
+"RTN","XOBVTCP",120,0)
+ S XOBMOS=$$OS^XOBVSKT()
+"RTN","XOBVTCP",121,0)
+ I XOBMOS'["OpenM" S $EC=",U98,"
+"RTN","XOBVTCP",122,0)
+ S XOBSOS=$$SYSOS^XOBVLIB(XOBMOS)
+"RTN","XOBVTCP",123,0)
+ I XOBMOS'["VMS"!(XOBMOS'["UNIX") S $EC=",U97,"
+"RTN","XOBVTCP",124,0)
+ ;
+"RTN","XOBVTCP",125,0)
+ S (IO,IO(0))=$S(XOBSOS="VMS":"SYS$NET","UNIX":$P)
+"RTN","XOBVTCP",126,0)
+ ;
+"RTN","XOBVTCP",127,0)
+ O IO::5
+"RTN","XOBVTCP",128,0)
+ U IO:(::"-M") ;Packet mode like DSM
+"RTN","XOBVTCP",129,0)
+ ;
+"RTN","XOBVTCP",130,0)
+ S XOBEC=$$NEWOK^XOBVTCPL()
+"RTN","XOBVTCP",131,0)
+ I XOBEC D LOGINERR^XOBVTCPL(XOBEC,IO)
+"RTN","XOBVTCP",132,0)
+ I 'XOBEC D SPAWN^XOBVLL
+"RTN","XOBVTCP",133,0)
+ Q
+"RTN","XOBVTCP",134,0)
+ ;
+"RTN","XOBVTCP",135,0)
+ESET ;Set initial error trap
+"RTN","XOBVTCP",136,0)
+ N $ET,$ES
+"RTN","XOBVTCP",137,0)
+ S U="^",$ET="D APPERROR^%ZTER(""VistALink Error - TCP Utilities"") H" ;Set up the error trap ;*4
+"RTN","XOBVTCP",138,0)
+ Q
+"RTN","XOBVTCP",139,0)
+ ;
+"RTN","XOBVTCP",140,0)
+STARTUP ; -- called by TaskMan startup option [Option: XOBV LISTENER STARTUP]
+"RTN","XOBVTCP",141,0)
+ ;           and could be called by VMS .com procedure
+"RTN","XOBVTCP",142,0)
+ ;
+"RTN","XOBVTCP",143,0)
+ ; -- quit if not Cache OS
+"RTN","XOBVTCP",144,0)
+ I $$GETOS()'["OpenM" G STARTUPQ
+"RTN","XOBVTCP",145,0)
+ ; -- clear log of non-active listeners
+"RTN","XOBVTCP",146,0)
+ D CLEARLOG
+"RTN","XOBVTCP",147,0)
+ ; -- get config for BOX-VOL and start it!
+"RTN","XOBVTCP",148,0)
+ D STARTCFG($$GETCFG())
+"RTN","XOBVTCP",149,0)
+STARTUPQ ;
+"RTN","XOBVTCP",150,0)
+ Q
+"RTN","XOBVTCP",151,0)
+ ;
+"RTN","XOBVTCP",152,0)
+CLEARLOG ; -- clear log of non-active listeners
+"RTN","XOBVTCP",153,0)
+ N DIK,DA,Y,XOBI,XOB0,XOBPORT
+"RTN","XOBVTCP",154,0)
+ ;
+"RTN","XOBVTCP",155,0)
+ S XOBI=0
+"RTN","XOBVTCP",156,0)
+ F  S XOBI=$O(^XOB(18.04,XOBI)) Q:'XOBI  D
+"RTN","XOBVTCP",157,0)
+ . S XOB0=$G(^XOB(18.04,XOBI,0))
+"RTN","XOBVTCP",158,0)
+ . S XOBPORT=+$P(XOB0,U,2)
+"RTN","XOBVTCP",159,0)
+ . ; -- make sure listener is not running
+"RTN","XOBVTCP",160,0)
+ . I $$LOCK(XOBPORT) D
+"RTN","XOBVTCP",161,0)
+ . . S DIK="^XOB(18.04,",DA=XOBI D ^DIK
+"RTN","XOBVTCP",162,0)
+ . . D UNLOCK(XOBPORT)
+"RTN","XOBVTCP",163,0)
+ ;
+"RTN","XOBVTCP",164,0)
+ Q
+"RTN","XOBVTCP",165,0)
+ ;
+"RTN","XOBVTCP",166,0)
+STARTCFG(XOBCFG) ; -- start a configurations listeners
+"RTN","XOBVTCP",167,0)
+ N CFG0,LSTR,LSTR0,XOBPORT,STARTUP,XOBOK
+"RTN","XOBVTCP",168,0)
+ S CFG0=$G(^XOB(18.03,XOBCFG,0))
+"RTN","XOBVTCP",169,0)
+ ;
+"RTN","XOBVTCP",170,0)
+ ; -- quit if no configuration
+"RTN","XOBVTCP",171,0)
+ I CFG0="" G CFGQ
+"RTN","XOBVTCP",172,0)
+ ;
+"RTN","XOBVTCP",173,0)
+ ; -- quit if not Cache...for now!
+"RTN","XOBVTCP",174,0)
+ I $$GETOS()'["OpenM" G CFGQ
+"RTN","XOBVTCP",175,0)
+ ;
+"RTN","XOBVTCP",176,0)
+ S LSTR=0
+"RTN","XOBVTCP",177,0)
+ F  S LSTR=$O(^XOB(18.03,XOBCFG,"PORTS",LSTR)) Q:'LSTR  D
+"RTN","XOBVTCP",178,0)
+ . S LSTR0=$G(^XOB(18.03,XOBCFG,"PORTS",LSTR,0))
+"RTN","XOBVTCP",179,0)
+ . S XOBPORT=+$P(LSTR0,U,1)
+"RTN","XOBVTCP",180,0)
+ . S STARTUP=$P(LSTR0,U,2)
+"RTN","XOBVTCP",181,0)
+ . ;
+"RTN","XOBVTCP",182,0)
+ . ; -- if ok to start, port # defined and not already started
+"RTN","XOBVTCP",183,0)
+ . I XOBPORT,STARTUP,$$LOCK^XOBVTCP(XOBPORT) D
+"RTN","XOBVTCP",184,0)
+ . . D UNLOCK(XOBPORT)
+"RTN","XOBVTCP",185,0)
+ . . D UPDATE^XOBVTCP(XOBPORT,1,XOBCFG)
+"RTN","XOBVTCP",186,0)
+ . . S XOBOK=$$START(XOBPORT,XOBCFG)
+"RTN","XOBVTCP",187,0)
+ . . I 'XOBOK D UPDATE(XOBPORT,5,XOBCFG)
+"RTN","XOBVTCP",188,0)
+ ;
+"RTN","XOBVTCP",189,0)
+CFGQ ;
+"RTN","XOBVTCP",190,0)
+ Q
+"RTN","XOBVTCP",191,0)
+ ;
+"RTN","XOBVTCP",192,0)
+LOCK(XOBPORT) ;-- Lock port
+"RTN","XOBVTCP",193,0)
+ ;
+"RTN","XOBVTCP",194,0)
+ ;  Used to prevent another process from attempting to start the Listener
+"RTN","XOBVTCP",195,0)
+ ;  when it is already running.
+"RTN","XOBVTCP",196,0)
+ ;
+"RTN","XOBVTCP",197,0)
+ ;    Input:
+"RTN","XOBVTCP",198,0)
+ ;      XOBPORT - Port #
+"RTN","XOBVTCP",199,0)
+ ;
+"RTN","XOBVTCP",200,0)
+ ;   Output:
+"RTN","XOBVTCP",201,0)
+ ;      Function Value - Returns 1 if lock was successful, 0 otherwise
+"RTN","XOBVTCP",202,0)
+ ;
+"RTN","XOBVTCP",203,0)
+ Q $$ACTION("LOCK",XOBPORT)
+"RTN","XOBVTCP",204,0)
+ ;
+"RTN","XOBVTCP",205,0)
+ ;
+"RTN","XOBVTCP",206,0)
+UNLOCK(XOBPORT) ;-- Unlock port
+"RTN","XOBVTCP",207,0)
+ ;
+"RTN","XOBVTCP",208,0)
+ ;  Used to release a lock created by $$LOCK.
+"RTN","XOBVTCP",209,0)
+ ;
+"RTN","XOBVTCP",210,0)
+ ;    Input:
+"RTN","XOBVTCP",211,0)
+ ;      XOBPORT - Port #
+"RTN","XOBVTCP",212,0)
+ ;
+"RTN","XOBVTCP",213,0)
+ ;   Output:
+"RTN","XOBVTCP",214,0)
+ ;      None
+"RTN","XOBVTCP",215,0)
+ ;
+"RTN","XOBVTCP",216,0)
+ N X
+"RTN","XOBVTCP",217,0)
+ S X=$$ACTION("UNLOCK",XOBPORT)
+"RTN","XOBVTCP",218,0)
+ Q
+"RTN","XOBVTCP",219,0)
+ ;
+"RTN","XOBVTCP",220,0)
+ACTION(ACTION,XOBPORT) ; -- do lock action
+"RTN","XOBVTCP",221,0)
+ N ENV,VOL,UCI,BOX
+"RTN","XOBVTCP",222,0)
+ ;
+"RTN","XOBVTCP",223,0)
+ S XOBPORT=+$G(XOBPORT)
+"RTN","XOBVTCP",224,0)
+ ;
+"RTN","XOBVTCP",225,0)
+ S ENV=$$GETENV()
+"RTN","XOBVTCP",226,0)
+ S VOL=$P(ENV,U,2)
+"RTN","XOBVTCP",227,0)
+ S UCI=$P(ENV,U)
+"RTN","XOBVTCP",228,0)
+ S BOX=$P(ENV,U,4)
+"RTN","XOBVTCP",229,0)
+ ;
+"RTN","XOBVTCP",230,0)
+ I ACTION="LOCK",XOBPORT L +^XOB(18.01,"VistALink Listener",VOL,UCI,BOX,XOBPORT):1 Q $T
+"RTN","XOBVTCP",231,0)
+ I ACTION="UNLOCK",XOBPORT L -^XOB(18.01,"VistALink Listener",VOL,UCI,BOX,XOBPORT) Q 1
+"RTN","XOBVTCP",232,0)
+ Q 0
+"RTN","XOBVTCP",233,0)
+ ;
+"RTN","XOBVTCP",234,0)
+ ;
+"RTN","XOBVTCP",235,0)
+UPDATE(XOBPORT,XOBSTAT,XOBCFG) ; -- update VISTALINK LISTENER STARTUP LOG for listener
+"RTN","XOBVTCP",236,0)
+ N DIC,Y,X,XOBBOX
+"RTN","XOBVTCP",237,0)
+ S XOBBOX=$$GETBOXN()
+"RTN","XOBVTCP",238,0)
+ ;
+"RTN","XOBVTCP",239,0)
+ ; -- set up lookup call
+"RTN","XOBVTCP",240,0)
+ S DIC="^XOB(18.04,"
+"RTN","XOBVTCP",241,0)
+ S DIC(0)="MLX"
+"RTN","XOBVTCP",242,0)
+ S DIC("DR")=".02////"_XOBPORT
+"RTN","XOBVTCP",243,0)
+ S DIC("S")="IF $P(^(0),U,2)="_XOBPORT
+"RTN","XOBVTCP",244,0)
+ S X=XOBBOX
+"RTN","XOBVTCP",245,0)
+ ;
+"RTN","XOBVTCP",246,0)
+ D ^DIC
+"RTN","XOBVTCP",247,0)
+ ; -- quit if lookup failed
+"RTN","XOBVTCP",248,0)
+ I +Y>0 D UPDLOG(+Y,XOBPORT,XOBSTAT,$G(XOBCFG))
+"RTN","XOBVTCP",249,0)
+ Q
+"RTN","XOBVTCP",250,0)
+ ;
+"RTN","XOBVTCP",251,0)
+UPDLOG(XOBDA,XOBPORT,XOBSTAT,XOBCFG) ; -- do edit
+"RTN","XOBVTCP",252,0)
+ N DA,DIE,DR,Y,X
+"RTN","XOBVTCP",253,0)
+ ;
+"RTN","XOBVTCP",254,0)
+ L +^XOB(18.04,XOBDA,0)
+"RTN","XOBVTCP",255,0)
+ ; -- set basic fields
+"RTN","XOBVTCP",256,0)
+ S DA=XOBDA
+"RTN","XOBVTCP",257,0)
+ S DIE="^XOB(18.04,"
+"RTN","XOBVTCP",258,0)
+ S DR=".02////"_XOBPORT_";.03////"_XOBSTAT_";.05////^S X=$$NOW^XLFDT"
+"RTN","XOBVTCP",259,0)
+ ; -- set config if defined, otherwise delete
+"RTN","XOBVTCP",260,0)
+ S DR=DR_";.06////"_$S($G(XOBCFG)]"":XOBCFG,1:"@")
+"RTN","XOBVTCP",261,0)
+ ; -- set user if defined, otherwise delete
+"RTN","XOBVTCP",262,0)
+ S DR=DR_";.04////"_$S($G(DUZ)]"":DUZ,1:"@")
+"RTN","XOBVTCP",263,0)
+ ;
+"RTN","XOBVTCP",264,0)
+ D ^DIE
+"RTN","XOBVTCP",265,0)
+ L -^XOB(18.04,XOBDA,0)
+"RTN","XOBVTCP",266,0)
+ ;
+"RTN","XOBVTCP",267,0)
+ Q
+"RTN","XOBVTCP",268,0)
+ ;
+"RTN","XOBVTCP",269,0)
+GETENV() ; -- get environment variable
+"RTN","XOBVTCP",270,0)
+ ;-- Get environment of current system i.e. Y=UCI^VOL/DIR^NODE^BOX LOOKUP
+"RTN","XOBVTCP",271,0)
+ N Y
+"RTN","XOBVTCP",272,0)
+ D GETENV^%ZOSV
+"RTN","XOBVTCP",273,0)
+ Q Y
+"RTN","XOBVTCP",274,0)
+ ;
+"RTN","XOBVTCP",275,0)
+GETOS() ;-- Get operating system
+"RTN","XOBVTCP",276,0)
+ ;
+"RTN","XOBVTCP",277,0)
+ ;  This function will determine which operating system is being used.
+"RTN","XOBVTCP",278,0)
+ ;
+"RTN","XOBVTCP",279,0)
+ ;   Input:
+"RTN","XOBVTCP",280,0)
+ ;     None
+"RTN","XOBVTCP",281,0)
+ ;
+"RTN","XOBVTCP",282,0)
+ ;  Output:
+"RTN","XOBVTCP",283,0)
+ ;     Operating system value i.e. OpenM-NT for OpenM.
+"RTN","XOBVTCP",284,0)
+ ;
+"RTN","XOBVTCP",285,0)
+ ;-- Get operating system
+"RTN","XOBVTCP",286,0)
+ Q $P($G(^%ZOSF("OS")),"^")
+"RTN","XOBVTCP",287,0)
+ ;
+"RTN","XOBVTCP",288,0)
+ ;
+"RTN","XOBVTCP",289,0)
+GETBOX() ; -- get box ien
+"RTN","XOBVTCP",290,0)
+ ;
+"RTN","XOBVTCP",291,0)
+ Q $$FIND1^DIC(14.7,"","BX",$P($$GETENV(),U,4),"","","")
+"RTN","XOBVTCP",292,0)
+ ;
+"RTN","XOBVTCP",293,0)
+GETBOXN() ; -- get box name
+"RTN","XOBVTCP",294,0)
+ ;
+"RTN","XOBVTCP",295,0)
+ Q $P($$GETENV(),U,4)
+"RTN","XOBVTCP",296,0)
+ ;
+"RTN","XOBVTCP",297,0)
+GETCFG() ; -- get config ien for current BOX-VOL pair
+"RTN","XOBVTCP",298,0)
+ Q +$P($G(^XOB(18.01,1,"CONFIG",+$O(^XOB(18.01,1,"CONFIG","B",+$$GETBOX(),"")),0)),U,2)
+"RTN","XOBVTCP",299,0)
+ ;
+"RTN","XOBVTCPL")
+0^6^B7050309
+"RTN","XOBVTCPL",1,0)
+XOBVTCPL ;; mjk/alb - VistALink TCP/IP Listener (Cache NT) ; 07/27/2002  13:00
+"RTN","XOBVTCPL",2,0)
+ ;;1.6;VistALink Security;**4**;May 08, 2009;Build 7
+"RTN","XOBVTCPL",3,0)
+ ; ;Per VA Directive 6402, this routine should not be modified.
+"RTN","XOBVTCPL",4,0)
+ Q
+"RTN","XOBVTCPL",5,0)
+ ;
+"RTN","XOBVTCPL",6,0)
+ ; -- Important: Should always be JOBed using START^XOBVTCP
+"RTN","XOBVTCPL",7,0)
+LISTENER(XOBPORT,XOBCFG) ; -- Start Listener
+"RTN","XOBVTCPL",8,0)
+ ;
+"RTN","XOBVTCPL",9,0)
+ ; -- quit if not Cache for NT
+"RTN","XOBVTCPL",10,0)
+ I $$GETOS^XOBVTCP()'="OpenM-NT" Q
+"RTN","XOBVTCPL",11,0)
+ ;
+"RTN","XOBVTCPL",12,0)
+ N $ET,$ES S $ET="D APPERROR^%ZTER(""VistALink Error""_ECODE_ "") H" ;*4
+"RTN","XOBVTCPL",13,0)
+ ;
+"RTN","XOBVTCPL",14,0)
+ N X,POP,XOBDA,U,DTIME,DT,XOBIO
+"RTN","XOBVTCPL",15,0)
+ S U="^",DTIME=900,DT=$$DT^XLFDT()
+"RTN","XOBVTCPL",16,0)
+ I $G(DUZ)="" N DUZ S DUZ=.5,DUZ(0)="@"
+"RTN","XOBVTCPL",17,0)
+ ;
+"RTN","XOBVTCPL",18,0)
+ ; -- only start if not already started
+"RTN","XOBVTCPL",19,0)
+ I $$LOCK^XOBVTCP(XOBPORT) D
+"RTN","XOBVTCPL",20,0)
+ . I $$OPENM(.XOBIO,XOBPORT) D
+"RTN","XOBVTCPL",21,0)
+ . . ; -- listener started and now stopping
+"RTN","XOBVTCPL",22,0)
+ . . S IO=XOBIO
+"RTN","XOBVTCPL",23,0)
+ . . D CLOSE^%ZISTCP
+"RTN","XOBVTCPL",24,0)
+ . . ; -- update status to 'stopped'
+"RTN","XOBVTCPL",25,0)
+ . . D UPDATE^XOBVTCP(XOBPORT,4,$G(XOBCFG))
+"RTN","XOBVTCPL",26,0)
+ . E  D
+"RTN","XOBVTCPL",27,0)
+ . . ; -- listener failed to start
+"RTN","XOBVTCPL",28,0)
+ . . ; -- update status to 'failed'
+"RTN","XOBVTCPL",29,0)
+ . . D UPDATE^XOBVTCP(XOBPORT,5,$G(XOBCFG))
+"RTN","XOBVTCPL",30,0)
+ . ;
+"RTN","XOBVTCPL",31,0)
+ . D UNLOCK^XOBVTCP(XOBPORT)
+"RTN","XOBVTCPL",32,0)
+ Q
+"RTN","XOBVTCPL",33,0)
+ ;
+"RTN","XOBVTCPL",34,0)
+ ; -- open/start listener port
+"RTN","XOBVTCPL",35,0)
+OPENM(XOBIO,XOBPORT) ;
+"RTN","XOBVTCPL",36,0)
+ N XOBBOX,%ZA
+"RTN","XOBVTCPL",37,0)
+ S XOBBOX=+$$GETBOX^XOBVTCP()
+"RTN","XOBVTCPL",38,0)
+ S XOBIO="|TCP|"_XOBPORT
+"RTN","XOBVTCPL",39,0)
+ O XOBIO:(:XOBPORT:"AT"):30
+"RTN","XOBVTCPL",40,0)
+ ;
+"RTN","XOBVTCPL",41,0)
+ ; -- if listener port could not be opened then gracefully quit
+"RTN","XOBVTCPL",42,0)
+ ;    (other namespace using port maybe?)
+"RTN","XOBVTCPL",43,0)
+ I '$T Q 0
+"RTN","XOBVTCPL",44,0)
+ ;
+"RTN","XOBVTCPL",45,0)
+ ; -- indicate listener is 'running'
+"RTN","XOBVTCPL",46,0)
+ D UPDATE^XOBVTCP(XOBPORT,2,$G(XOBCFG))
+"RTN","XOBVTCPL",47,0)
+ ; -- read & spawn loop
+"RTN","XOBVTCPL",48,0)
+ F  D  Q:$$EXIT(XOBBOX,XOBPORT)
+"RTN","XOBVTCPL",49,0)
+ . U XOBIO
+"RTN","XOBVTCPL",50,0)
+ . R *X:60 I '$T Q
+"RTN","XOBVTCPL",51,0)
+ . J CHILDNT^XOBVTCPL():(:4:XOBIO:XOBIO):10 S %ZA=$ZA
+"RTN","XOBVTCPL",52,0)
+ . I %ZA\8196#2=1 W *-2 ;Job failed to clear bit
+"RTN","XOBVTCPL",53,0)
+ Q 1
+"RTN","XOBVTCPL",54,0)
+ ;
+"RTN","XOBVTCPL",55,0)
+CHILDNT() ;Child process for OpenM
+"RTN","XOBVTCPL",56,0)
+ N XOBEC,$ET,$ES
+"RTN","XOBVTCPL",57,0)
+ S $ET="D APPERROR^%ZTER(""VistALink Error "") L  HALT" ;4
+"RTN","XOBVTCPL",58,0)
+ S IO=$P ;Reset IO to be $P
+"RTN","XOBVTCPL",59,0)
+ U IO:(::"-M") ;Packet mode like DSM
+"RTN","XOBVTCPL",60,0)
+ ; -- do quit to save a stack level
+"RTN","XOBVTCPL",61,0)
+ S XOBEC=$$NEWOK()
+"RTN","XOBVTCPL",62,0)
+ I XOBEC D LOGINERR(XOBEC,IO)
+"RTN","XOBVTCPL",63,0)
+ I 'XOBEC D VAR,SPAWN^XOBVLL
+"RTN","XOBVTCPL",64,0)
+ Q
+"RTN","XOBVTCPL",65,0)
+ ;
+"RTN","XOBVTCPL",66,0)
+VAR ;Setup IO variables
+"RTN","XOBVTCPL",67,0)
+ S IO(0)=IO,IO(1,IO)="",POP=0
+"RTN","XOBVTCPL",68,0)
+ S IOT="TCP",IOF="#",IOST="P-TCP",IOST(0)=0
+"RTN","XOBVTCPL",69,0)
+ Q
+"RTN","XOBVTCPL",70,0)
+ ;
+"RTN","XOBVTCPL",71,0)
+NEWOK() ;Is it OK to start a new process
+"RTN","XOBVTCPL",72,0)
+ N XQVOL,XUCI,XUENV,XUVOL,X,Y,XOBCODE
+"RTN","XOBVTCPL",73,0)
+ D XUVOL^XUS
+"RTN","XOBVTCPL",74,0)
+ I $$INHIB1^XUSRB() Q 181004
+"RTN","XOBVTCPL",75,0)
+ I $$INHIB2^XUSRB() Q 181003
+"RTN","XOBVTCPL",76,0)
+ Q 0
+"RTN","XOBVTCPL",77,0)
+ ;
+"RTN","XOBVTCPL",78,0)
+ ; -- process error
+"RTN","XOBVTCPL",79,0)
+LOGINERR(XOBEC,XOBPORT) ;
+"RTN","XOBVTCPL",80,0)
+ D ERROR^XOBVLL(XOBEC,$$EZBLD^DIALOG(XOBEC),XOBPORT)
+"RTN","XOBVTCPL",81,0)
+ ;
+"RTN","XOBVTCPL",82,0)
+ ; -- give client time to process stream
+"RTN","XOBVTCPL",83,0)
+ H 2
+"RTN","XOBVTCPL",84,0)
+ Q
+"RTN","XOBVTCPL",85,0)
+ ;
+"RTN","XOBVTCPL",86,0)
+EXIT(XOBBOX,XOBPORT) ;
+"RTN","XOBVTCPL",87,0)
+ ; -- is status 'stopping'
+"RTN","XOBVTCPL",88,0)
+ Q ($P($G(^XOB(18.04,+$$GETLOGID(XOBBOX,XOBPORT),0)),U,3)=3)
+"RTN","XOBVTCPL",89,0)
+ ;
+"RTN","XOBVTCPL",90,0)
+GETLOGID(XOBBOX,XOBPORT) ;
+"RTN","XOBVTCPL",91,0)
+ Q +$O(^XOB(18.04,"C",XOBBOX,XOBPORT,""))
+"RTN","XOBVTCPL",92,0)
+ ;
+"VER")
+8.0^22.2
+**INSTALL NAME**
+XOBS*1.6*4
+"BLD",11162,0)
+XOBS*1.6*4^VISTALINK SECURITY^0^3190909^y
+"BLD",11162,1,0)
+^^4^4^3190909^
+"BLD",11162,1,1,0)
+This patch corrects an issue within the VISTALINK package:
+"BLD",11162,1,2,0)
+ 
+"BLD",11162,1,3,0)
+VistaLink server errors are not respecting the Kernel's limits for logging
+"BLD",11162,1,4,0)
+errors. 
+"BLD",11162,4,0)
+^9.64PA^^
+"BLD",11162,6.3)
+3
+"BLD",11162,"ABPKG")
+n
+"BLD",11162,"KRN",0)
+^9.67PA^779.2^20
+"BLD",11162,"KRN",.4,0)
+.4
+"BLD",11162,"KRN",.401,0)
+.401
+"BLD",11162,"KRN",.402,0)
+.402
+"BLD",11162,"KRN",.403,0)
+.403
+"BLD",11162,"KRN",.5,0)
+.5
+"BLD",11162,"KRN",.84,0)
+.84
+"BLD",11162,"KRN",3.6,0)
+3.6
+"BLD",11162,"KRN",3.8,0)
+3.8
+"BLD",11162,"KRN",9.2,0)
+9.2
+"BLD",11162,"KRN",9.8,0)
+9.8
+"BLD",11162,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",11162,"KRN",9.8,"NM",1,0)
+XOBSCAV^^^B52198889
+"BLD",11162,"KRN",9.8,"NM","B","XOBSCAV",1)
+
+"BLD",11162,"KRN",19,0)
+19
+"BLD",11162,"KRN",19.1,0)
+19.1
+"BLD",11162,"KRN",101,0)
+101
+"BLD",11162,"KRN",409.61,0)
+409.61
+"BLD",11162,"KRN",771,0)
+771
+"BLD",11162,"KRN",779.2,0)
+779.2
+"BLD",11162,"KRN",870,0)
+870
+"BLD",11162,"KRN",8989.51,0)
+8989.51
+"BLD",11162,"KRN",8989.52,0)
+8989.52
+"BLD",11162,"KRN",8994,0)
+8994
+"BLD",11162,"KRN","B",.4,.4)
+
+"BLD",11162,"KRN","B",.401,.401)
+
+"BLD",11162,"KRN","B",.402,.402)
+
+"BLD",11162,"KRN","B",.403,.403)
+
+"BLD",11162,"KRN","B",.5,.5)
+
+"BLD",11162,"KRN","B",.84,.84)
+
+"BLD",11162,"KRN","B",3.6,3.6)
+
+"BLD",11162,"KRN","B",3.8,3.8)
+
+"BLD",11162,"KRN","B",9.2,9.2)
+
+"BLD",11162,"KRN","B",9.8,9.8)
+
+"BLD",11162,"KRN","B",19,19)
+
+"BLD",11162,"KRN","B",19.1,19.1)
+
+"BLD",11162,"KRN","B",101,101)
+
+"BLD",11162,"KRN","B",409.61,409.61)
+
+"BLD",11162,"KRN","B",771,771)
+
+"BLD",11162,"KRN","B",779.2,779.2)
+
+"BLD",11162,"KRN","B",870,870)
+
+"BLD",11162,"KRN","B",8989.51,8989.51)
+
+"BLD",11162,"KRN","B",8989.52,8989.52)
+
+"BLD",11162,"KRN","B",8994,8994)
+
+"BLD",11162,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",11162,"QUES",0)
+^9.62^^
+"BLD",11162,"REQB",0)
+^9.611^1^1
+"BLD",11162,"REQB",1,0)
+XOBS*1.6*3^2
+"BLD",11162,"REQB","B","XOBS*1.6*3",1)
+
+"MBREQ")
+0
+"PKG",562,-1)
+1^1
+"PKG",562,0)
+VISTALINK SECURITY^XOBS^SECURITY SUBSYSTEM FOR VISTALINK
+"PKG",562,22,0)
+^9.49I^1^1
+"PKG",562,22,1,0)
+1.6^3090508^3110510^66481
+"PKG",562,22,1,"PAH",1,0)
+4^3190909
+"PKG",562,22,1,"PAH",1,1,0)
+^^4^4^3190909
+"PKG",562,22,1,"PAH",1,1,1,0)
+This patch corrects an issue within the VISTALINK package:
+"PKG",562,22,1,"PAH",1,1,2,0)
+ 
+"PKG",562,22,1,"PAH",1,1,3,0)
+VistaLink server errors are not respecting the Kernel's limits for logging
+"PKG",562,22,1,"PAH",1,1,4,0)
+errors. 
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","XOBSCAV")
+0^1^B52198889
+"RTN","XOBSCAV",1,0)
+XOBSCAV ;; kec/oak/TECHNATOMY/PB - VistaLink Access/Verify Security ; 12/09/2002  17:00
+"RTN","XOBSCAV",2,0)
+ ;;1.6;VistALink Security;**3,4**;May 08, 2009;Build 3
+"RTN","XOBSCAV",3,0)
+ ; ;Per VA Directive 6402, this routine should not be modified.
+"RTN","XOBSCAV",4,0)
+ Q
+"RTN","XOBSCAV",5,0)
+ ;
+"RTN","XOBSCAV",6,0)
+ ; ---------------------------------------------------------------------
+"RTN","XOBSCAV",7,0)
+ ;      Access/Verify Security: Security Message Request Handler
+"RTN","XOBSCAV",8,0)
+ ;             (main entry point; utilities; constants)   
+"RTN","XOBSCAV",9,0)
+ ; ---------------------------------------------------------------------
+"RTN","XOBSCAV",10,0)
+ ; 
+"RTN","XOBSCAV",11,0)
+ ; ==== main entry point ====
+"RTN","XOBSCAV",12,0)
+ ; 
+"RTN","XOBSCAV",13,0)
+EN(XOBDATA) ; -- handle parsed messages request
+"RTN","XOBSCAV",14,0)
+ ;
+"RTN","XOBSCAV",15,0)
+ I XOBDATA("XOB SECAV","SECURITYTYPE")'=$$MSGTYP^XOBSCAV("request") D  Q
+"RTN","XOBSCAV",16,0)
+ .;this routine should never see a message not of this type.
+"RTN","XOBSCAV",17,0)
+ .N XOBSPAR S XOBSPAR(1)=$$MSGTYP^XOBSCAV("request"),XOBSPAR(2)=XOBDATA("SECURITYTYPE")
+"RTN","XOBSCAV",18,0)
+ .D ERROR(.XOBR,$P($T(FCLIENT),";;",2),"Unexpected Message Format",183001,$$CHARCHK^XOBVLIB($$EZBLD^DIALOG(183001,.XOBSPAR)))
+"RTN","XOBSCAV",19,0)
+ ;
+"RTN","XOBSCAV",20,0)
+ ;---- now process each security message type ----
+"RTN","XOBSCAV",21,0)
+ I XOBDATA("XOB SECAV","SECURITYACTION")=$P($T(MSGSETUP),";;",2) D SENDITXT^XOBSCAV1 Q
+"RTN","XOBSCAV",22,0)
+ I XOBDATA("XOB SECAV","SECURITYACTION")=$P($T(MSGLGON),";;",2) D LOGON^XOBSCAV1 Q
+"RTN","XOBSCAV",23,0)
+ ;added line below to process saml token for 2FA 
+"RTN","XOBSCAV",24,0)
+ I XOBDATA("XOB SECAV","SECURITYACTION")=$P($T(MSGLGON1),";;",2) D LOGON^XOBSCAV1 Q
+"RTN","XOBSCAV",25,0)
+ I XOBDATA("XOB SECAV","SECURITYACTION")=$P($T(MSGLGOUT),";;",2) D LOGOUT^XOBSCAV1 Q
+"RTN","XOBSCAV",26,0)
+ I XOBDATA("XOB SECAV","SECURITYACTION")=$P($T(MSGSELDV),";;",2) D DIVSLCT^XOBSCAV1 Q
+"RTN","XOBSCAV",27,0)
+ I XOBDATA("XOB SECAV","SECURITYACTION")=$P($T(MSGUPDVC),";;",2) D SENDNVC^XOBSCAV2 Q
+"RTN","XOBSCAV",28,0)
+ I XOBDATA("XOB SECAV","SECURITYACTION")=$P($T(MSGUSERD),";;",2) D SENDDEM^XOBSCAV2 Q
+"RTN","XOBSCAV",29,0)
+ ;
+"RTN","XOBSCAV",30,0)
+ ; done processing all known message types
+"RTN","XOBSCAV",31,0)
+ N XOBSPAR S XOBSPAR(1)=XOBDATA("XOB SECAV","SECURITYACTION")
+"RTN","XOBSCAV",32,0)
+ D ERROR(.XOBR,$P($T(FCLIENT),";;",2),"Unexpected Message Format",183002,$$CHARCHK^XOBVLIB($$EZBLD^DIALOG(183002,.XOBSPAR)))
+"RTN","XOBSCAV",33,0)
+ Q
+"RTN","XOBSCAV",34,0)
+ ;
+"RTN","XOBSCAV",35,0)
+ ; ==== utilities ====
+"RTN","XOBSCAV",36,0)
+ ; 
+"RTN","XOBSCAV",37,0)
+SENDSEC(XOBR,XOBMSGTP,XOBRSTYP,XOBMSG,XOBSTAT,XOBSCHEM) ; -- stream XML security reply back
+"RTN","XOBSCAV",38,0)
+ ;
+"RTN","XOBSCAV",39,0)
+ ; XOBR: internal VistaLink variable
+"RTN","XOBSCAV",40,0)
+ ; XOBMSGTP: type of message (e.g., gov.va.med.foundations.security.response)
+"RTN","XOBSCAV",41,0)
+ ; XOBRSTYP: type of response (e.g., AV.SetupAndIntroText)
+"RTN","XOBSCAV",42,0)
+ ; XOBMSG: message lines to send inside standard wrapper
+"RTN","XOBSCAV",43,0)
+ ; XOBSTAT: type of result (e.g., success)
+"RTN","XOBSCAV",44,0)
+ ; XOBSCHEM: noNamespaceSchemaLocation
+"RTN","XOBSCAV",45,0)
+ ; 
+"RTN","XOBSCAV",46,0)
+ N XOBFILL
+"RTN","XOBSCAV",47,0)
+ ; -- prepare socket for writing
+"RTN","XOBSCAV",48,0)
+ D PRE^XOBVSKT
+"RTN","XOBSCAV",49,0)
+ ; -- write XML header tag and VistaLink tag
+"RTN","XOBSCAV",50,0)
+ D WRITE^XOBVSKT($$ENVHDR^XOBVLIB(XOBMSGTP,XOBSCHEM))
+"RTN","XOBSCAV",51,0)
+ ; -- write SecurityInfo tag
+"RTN","XOBSCAV",52,0)
+ D WRITE^XOBVSKT("<SecurityInfo version="""_$P($T(VRSNSEC),";;",2)_""" />")
+"RTN","XOBSCAV",53,0)
+ ; -- write Response opening tag
+"RTN","XOBSCAV",54,0)
+ D WRITE^XOBVSKT("<Response type="""_XOBRSTYP_""" status="""_XOBSTAT_""">")
+"RTN","XOBSCAV",55,0)
+  ; -- write lines of message passed in
+"RTN","XOBSCAV",56,0)
+ N XOBI S XOBI=0 F  S XOBI=$O(XOBMSG(XOBI))  Q:'+XOBI  D WRITE^XOBVSKT(XOBMSG(XOBI))
+"RTN","XOBSCAV",57,0)
+ ; -- write closing Response tag, closing VistaLink tag
+"RTN","XOBSCAV",58,0)
+ D WRITE^XOBVSKT("</Response>")
+"RTN","XOBSCAV",59,0)
+ D WRITE^XOBVSKT($$ENVFTR^XOBVLIB())
+"RTN","XOBSCAV",60,0)
+ ; -- send eot and flush buffer
+"RTN","XOBSCAV",61,0)
+ D POST^XOBVSKT
+"RTN","XOBSCAV",62,0)
+ ;
+"RTN","XOBSCAV",63,0)
+ K XOBDATA("XOB SECAV")
+"RTN","XOBSCAV",64,0)
+ Q
+"RTN","XOBSCAV",65,0)
+ ;
+"RTN","XOBSCAV",66,0)
+ERROR(XOBR,XOBFCODE,XOBFSTR,XOBCODE,XOBSTR) ; -- send security error back to client
+"RTN","XOBSCAV",67,0)
+ ;
+"RTN","XOBSCAV",68,0)
+ ; XOBR: internal VistaLink variable
+"RTN","XOBSCAV",69,0)
+ ; XOBFCODE: the fault code
+"RTN","XOBSCAV",70,0)
+ ; XOBFSTRING: the fault string
+"RTN","XOBSCAV",71,0)
+ ; XOBCODE: error code
+"RTN","XOBSCAV",72,0)
+ ; XOBSTR: error message
+"RTN","XOBSCAV",73,0)
+ ; 
+"RTN","XOBSCAV",74,0)
+ N XOBFILL
+"RTN","XOBSCAV",75,0)
+ ; -- prepare socket for writing
+"RTN","XOBSCAV",76,0)
+ D PRE^XOBVSKT
+"RTN","XOBSCAV",77,0)
+ ; -- write XML header tag and VistaLink tag
+"RTN","XOBSCAV",78,0)
+ D WRITE^XOBVSKT($$ENVHDR^XOBVLIB($P($T(ERRTYPE^XOBSCAV),";;",2),$P($T(SCHERROR^XOBSCAV),";;",2)))
+"RTN","XOBSCAV",79,0)
+ ; -- write SecurityInfo tag
+"RTN","XOBSCAV",80,0)
+ D WRITE^XOBVSKT("<SecurityInfo version="""_$P($T(VRSNSEC),";;",2)_""" />")
+"RTN","XOBSCAV",81,0)
+ ; -- write fault message
+"RTN","XOBSCAV",82,0)
+ D WRITE^XOBVSKT("<Fault>")
+"RTN","XOBSCAV",83,0)
+ D WRITE^XOBVSKT("<FaultCode>"_XOBFCODE_"</FaultCode>")
+"RTN","XOBSCAV",84,0)
+ D WRITE^XOBVSKT("<FaultString>"_XOBFSTR_"</FaultString>")
+"RTN","XOBSCAV",85,0)
+ D WRITE^XOBVSKT("<Detail>")
+"RTN","XOBSCAV",86,0)
+ D WRITE^XOBVSKT("<Error code="""_XOBCODE_""">")
+"RTN","XOBSCAV",87,0)
+ D WRITE^XOBVSKT("<Message>"_XOBSTR_"</Message>")
+"RTN","XOBSCAV",88,0)
+ D WRITE^XOBVSKT("</Error>")
+"RTN","XOBSCAV",89,0)
+ D WRITE^XOBVSKT("</Detail>")
+"RTN","XOBSCAV",90,0)
+ D WRITE^XOBVSKT("</Fault>")
+"RTN","XOBSCAV",91,0)
+ D WRITE^XOBVSKT($$ENVFTR^XOBVLIB())
+"RTN","XOBSCAV",92,0)
+ ; -- send eot and flush buffer
+"RTN","XOBSCAV",93,0)
+ D POST^XOBVSKT
+"RTN","XOBSCAV",94,0)
+ ; -- log the error/fault unless it's "too many invalid login attempts"
+"RTN","XOBSCAV",95,0)
+ I XOBCODE'=183005 D
+"RTN","XOBSCAV",96,0)
+ .S:$D(XOBDATA("XOB SECAV","AVCODE")) XOBDATA("XOB SECAV","AVCODE")="<masked>"
+"RTN","XOBSCAV",97,0)
+ .S:$D(XOBDATA("XOB SECAV","OLDVC")) XOBDATA("XOB SECAV","OLDVC")="<masked>"
+"RTN","XOBSCAV",98,0)
+ .S:$D(XOBDATA("XOB SECAV","NEWVC")) XOBDATA("XOB SECAV","NEWVC")="<masked>"
+"RTN","XOBSCAV",99,0)
+ .S:$D(XOBDATA("XOB SECAV","NEWVCCHECK")) XOBDATA("XOB SECAV","NEWVCCHECK")="<masked>"
+"RTN","XOBSCAV",100,0)
+ .D APPERROR^%ZTER("VistALink Error ") ;XOBV*1.6*4
+"RTN","XOBSCAV",101,0)
+ K XOBDATA("XOB SECAV")
+"RTN","XOBSCAV",102,0)
+ Q
+"RTN","XOBSCAV",103,0)
+ ;
+"RTN","XOBSCAV",104,0)
+POSTTXT(XOBRET,XOBMSG) ; -- adds the post-sign-in-text to a message being prepared
+"RTN","XOBSCAV",105,0)
+ N XOBI,XOBLINE,XOBCNT
+"RTN","XOBSCAV",106,0)
+ S XOBCNT="",XOBLINE=1 F  S XOBCNT=$O(XOBMSG(XOBCNT)) Q:XOBCNT']""  S XOBLINE=XOBCNT
+"RTN","XOBSCAV",107,0)
+ S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="<PostSignInText>"
+"RTN","XOBSCAV",108,0)
+ ; only return post sign in text if the signon says that the text line count is > 0
+"RTN","XOBSCAV",109,0)
+ ; (even if, past XOBRET(5), there are actually messages from the post-sign-in text)
+"RTN","XOBSCAV",110,0)
+ I XOBRET(5)>0 D
+"RTN","XOBSCAV",111,0)
+ .S XOBI=5 F  S XOBI=$O(XOBRET(XOBI)) Q:XOBI']""  D
+"RTN","XOBSCAV",112,0)
+ ..S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="<Line>"_$$CHARCHK^XOBVLIB(XOBRET(XOBI))_"</Line>"
+"RTN","XOBSCAV",113,0)
+ S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="</PostSignInText>"
+"RTN","XOBSCAV",114,0)
+ Q XOBLINE
+"RTN","XOBSCAV",115,0)
+ ;
+"RTN","XOBSCAV",116,0)
+ADDDIVS(XOBRET,XOBMSG) ; -- adds division list to a message being prepared
+"RTN","XOBSCAV",117,0)
+ N XOBI,XOBLINE,XOBCNT,XOBDEF
+"RTN","XOBSCAV",118,0)
+ S XOBCNT="",XOBLINE=1 F  S XOBCNT=$O(XOBMSG(XOBCNT)) Q:XOBCNT']""  S XOBLINE=XOBCNT
+"RTN","XOBSCAV",119,0)
+ ;
+"RTN","XOBSCAV",120,0)
+ S XOBDEF=$O(^VA(200,DUZ,2,"AX1",1,"")) ; default division if any. Use of ^VA(200,,2,"AX1"): DBIA #4058
+"RTN","XOBSCAV",121,0)
+ S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="<"_$P($T(PARTTAG),";;",2)_" needDivisionSelection=""true"">"
+"RTN","XOBSCAV",122,0)
+ S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="<Divisions>"
+"RTN","XOBSCAV",123,0)
+ S XOBI=0 F  S XOBI=$O(XOBDIVS(XOBI)) Q:XOBI']""  D
+"RTN","XOBSCAV",124,0)
+ .S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="<Division ien="""_$P(XOBDIVS(XOBI),U)_""" divName="""_$$CHARCHK^XOBVLIB($P(XOBDIVS(XOBI),U,2))_""" divNumber="""_$$CHARCHK^XOBVLIB($P(XOBDIVS(XOBI),U,3))_""""
+"RTN","XOBSCAV",125,0)
+ .S:($P(XOBDIVS(XOBI),U)=XOBDEF) XOBMSG(XOBLINE)=XOBMSG(XOBLINE)_" default=""true"" "
+"RTN","XOBSCAV",126,0)
+ .S XOBMSG(XOBLINE)=XOBMSG(XOBLINE)_" />"
+"RTN","XOBSCAV",127,0)
+ S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="</Divisions>"
+"RTN","XOBSCAV",128,0)
+ S XOBLINE=XOBLINE+1,XOBMSG(XOBLINE)="   </"_$P($T(PARTTAG),";;",2)_">"
+"RTN","XOBSCAV",129,0)
+ ;
+"RTN","XOBSCAV",130,0)
+ Q XOBLINE
+"RTN","XOBSCAV",131,0)
+ ;
+"RTN","XOBSCAV",132,0)
+LOGGEDON() ; -- checks if the environment was previously properly set up, e.g.,
+"RTN","XOBSCAV",133,0)
+ ; logon succeeded in some previous call
+"RTN","XOBSCAV",134,0)
+ Q +$G(DUZ)
+"RTN","XOBSCAV",135,0)
+ ;
+"RTN","XOBSCAV",136,0)
+CRCONTXT(XOBOPTNM) ; -- create the context if it doesn't already exist
+"RTN","XOBSCAV",137,0)
+ ; INPUT VALUE: XOBOPTNM encoded with Kernel encoding algorithm
+"RTN","XOBSCAV",138,0)
+ ; RETURN VALUE: +result will be 1 if successful, or 0 if unsuccessful
+"RTN","XOBSCAV",139,0)
+ ; if unsuccessful, result may (or may not) also contain the textual reason for failure
+"RTN","XOBSCAV",140,0)
+ ; 
+"RTN","XOBSCAV",141,0)
+ ; Accessing, Setting and Killing of XQY and XQY0: DBIA #4059
+"RTN","XOBSCAV",142,0)
+ ; 
+"RTN","XOBSCAV",143,0)
+ N XOBRSLT,XOBOPTN1
+"RTN","XOBSCAV",144,0)
+ ;
+"RTN","XOBSCAV",145,0)
+ S XOBOPTN1=$$DECRYP^XUSRB1(XOBOPTNM)
+"RTN","XOBSCAV",146,0)
+ ; -- if context already set, quit 1
+"RTN","XOBSCAV",147,0)
+ I $L($G(XQY0)),XQY0=XOBOPTN1 Q 1
+"RTN","XOBSCAV",148,0)
+ ; -- if param is empty string, then kill off the context
+"RTN","XOBSCAV",149,0)
+ I XOBOPTN1="" K XQY0,XQY Q 1
+"RTN","XOBSCAV",150,0)
+ ; -- otherwise try to create the context
+"RTN","XOBSCAV",151,0)
+ D CRCONTXT^XWBSEC(.XOBRSLT,XOBOPTNM) ; use of CRCONTXT^XWBSEC: DBIA #4053
+"RTN","XOBSCAV",152,0)
+ ; -- return the result
+"RTN","XOBSCAV",153,0)
+ Q XOBRSLT
+"RTN","XOBSCAV",154,0)
+ ;
+"RTN","XOBSCAV",155,0)
+CHKCTXT(XOBRPCNM) ; -- does user have access to RPC?
+"RTN","XOBSCAV",156,0)
+ N XWBSEC
+"RTN","XOBSCAV",157,0)
+ D CHKPRMIT^XWBSEC(XOBRPCNM) ; use of CHKPRMIT^XWBSEC: DBIA # 4053
+"RTN","XOBSCAV",158,0)
+ Q:'+$L($G(XWBSEC)) 1
+"RTN","XOBSCAV",159,0)
+ Q XWBSEC
+"RTN","XOBSCAV",160,0)
+ ;
+"RTN","XOBSCAV",161,0)
+ ; ==== Constants ====
+"RTN","XOBSCAV",162,0)
+ ; 
+"RTN","XOBSCAV",163,0)
+MSGTYP(XOBRQRS) ; return request message type
+"RTN","XOBSCAV",164,0)
+ I XOBRQRS="request" Q $P($T(REQTYPE),";;",2)
+"RTN","XOBSCAV",165,0)
+ I XOBRQRS="response" Q $P($T(RESTYPE),";;",2)
+"RTN","XOBSCAV",166,0)
+ I XOBRQRS="error" Q $P($T(ERRTYPE),";;",2)
+"RTN","XOBSCAV",167,0)
+ Q ""
+"RTN","XOBSCAV",168,0)
+SUCCESS() ; resulttype
+"RTN","XOBSCAV",169,0)
+ Q $P($T(RESTYPES+1),";;",2)
+"RTN","XOBSCAV",170,0)
+FAILURE() ;
+"RTN","XOBSCAV",171,0)
+ Q $P($T(RESTYPES+2),";;",2)
+"RTN","XOBSCAV",172,0)
+PARTIAL() ;
+"RTN","XOBSCAV",173,0)
+ Q $P($T(RESTYPES+3),";;",2)
+"RTN","XOBSCAV",174,0)
+ ;
+"RTN","XOBSCAV",175,0)
+RESTYPES ;Result types
+"RTN","XOBSCAV",176,0)
+ ;;success
+"RTN","XOBSCAV",177,0)
+ ;;failure
+"RTN","XOBSCAV",178,0)
+ ;;partialSuccess
+"RTN","XOBSCAV",179,0)
+ ;
+"RTN","XOBSCAV",180,0)
+ ;Message types
+"RTN","XOBSCAV",181,0)
+REQTYPE ;;gov.va.med.foundations.security.request
+"RTN","XOBSCAV",182,0)
+RESTYPE ;;gov.va.med.foundations.security.response
+"RTN","XOBSCAV",183,0)
+ERRTYPE ;;gov.va.med.foundations.security.fault
+"RTN","XOBSCAV",184,0)
+ ;
+"RTN","XOBSCAV",185,0)
+ ;Message response types
+"RTN","XOBSCAV",186,0)
+MSGSETUP ;;AV.SetupAndIntroText
+"RTN","XOBSCAV",187,0)
+MSGLGON ;;AV.Logon
+"RTN","XOBSCAV",188,0)
+MSGLGON1 ;;SAML.Logon
+"RTN","XOBSCAV",189,0)
+MSGLGOUT ;;AV.Logout
+"RTN","XOBSCAV",190,0)
+MSGSELDV ;;AV.SelectDivision
+"RTN","XOBSCAV",191,0)
+MSGUPDVC ;;AV.UpdateVC
+"RTN","XOBSCAV",192,0)
+MSGUSERD ;;AV.GetUserDemographics
+"RTN","XOBSCAV",193,0)
+ ;
+"RTN","XOBSCAV",194,0)
+ ;Attribute values for response XML messages
+"RTN","XOBSCAV",195,0)
+VRSNSEC ;;1.0
+"RTN","XOBSCAV",196,0)
+ ;
+"RTN","XOBSCAV",197,0)
+ ;XML Tag names
+"RTN","XOBSCAV",198,0)
+PARTTAG ;;PartialSuccessData
+"RTN","XOBSCAV",199,0)
+MSGTAG ;;Message
+"RTN","XOBSCAV",200,0)
+ ;
+"RTN","XOBSCAV",201,0)
+ ;XML Schemas
+"RTN","XOBSCAV",202,0)
+SCHERROR ;;secFault.xsd
+"RTN","XOBSCAV",203,0)
+SCHLGON ;;secLogonResponse.xsd
+"RTN","XOBSCAV",204,0)
+SCHPARTS ;;secPartialSuccessResponse.xsd
+"RTN","XOBSCAV",205,0)
+SCHSETUP ;;secSetupIntroResponse.xsd
+"RTN","XOBSCAV",206,0)
+SCHSIMPL ;;secSimpleResponse.xsd
+"RTN","XOBSCAV",207,0)
+SCHUSERD ;;secUserDemographicsResponse.xsd
+"RTN","XOBSCAV",208,0)
+ ;
+"RTN","XOBSCAV",209,0)
+ ;Faultcodes
+"RTN","XOBSCAV",210,0)
+FSERVER ;;Server
+"RTN","XOBSCAV",211,0)
+FCLIENT ;;Client
+"RTN","XOBSCAV",212,0)
+FVERSION ;;VersionMismatch
+"RTN","XOBSCAV",213,0)
+FUNDERST ;;MustUnderstand
+"VER")
+8.0^22.2
+**END**
+**END**

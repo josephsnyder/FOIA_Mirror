@@ -1,0 +1,1813 @@
+EMERGENCY Released SD*5.3*723 SEQ #593
+Extracted from mail message
+**KIDS**:SD*5.3*723^
+
+**INSTALL NAME**
+SD*5.3*723
+"BLD",10372,0)
+SD*5.3*723^SCHEDULING^0^3191017^y
+"BLD",10372,1,0)
+^^11^11^3190823^
+"BLD",10372,1,1,0)
+Patch 722 used an encounter lookup utility that created new encounters 
+"BLD",10372,1,2,0)
+when one did not already exist.  This resulted in new encounters being 
+"BLD",10372,1,3,0)
+created for old appointments.  A modification was made to SDEC50 that
+"BLD",10372,1,4,0)
+removed the call to the encounter lookup utility.  A modification to the 
+"BLD",10372,1,5,0)
+encounter lookup utility (SDVSIT2) is also included, documenting the code 
+"BLD",10372,1,6,0)
+so that developers do not inadvertently use it improperly.
+"BLD",10372,1,7,0)
+ 
+"BLD",10372,1,8,0)
+Six (6) new options are also part of this patch so that users do not need 
+"BLD",10372,1,9,0)
+to have FileMan access to inquire or edit Appointment file (#409.84) 
+"BLD",10372,1,10,0)
+entries, inquire, create or edit Resource file (#409.831) and inquire 
+"BLD",10372,1,11,0)
+Encounter file (#409.68) entries. 
+"BLD",10372,4,0)
+^9.64PA^^
+"BLD",10372,6)
+7^
+"BLD",10372,6.3)
+21
+"BLD",10372,"KRN",0)
+^9.67PA^779.2^20
+"BLD",10372,"KRN",.4,0)
+.4
+"BLD",10372,"KRN",.4,"NM",0)
+^9.68A^2^2
+"BLD",10372,"KRN",.4,"NM",1,0)
+SDEC MISSING RESOURCE    FILE #44^44^0
+"BLD",10372,"KRN",.4,"NM",2,0)
+SDEC NULL RESOURCE    FILE #409.84^409.84^0
+"BLD",10372,"KRN",.4,"NM","B","SDEC MISSING RESOURCE    FILE #44",1)
+
+"BLD",10372,"KRN",.4,"NM","B","SDEC NULL RESOURCE    FILE #409.84",2)
+
+"BLD",10372,"KRN",.401,0)
+.401
+"BLD",10372,"KRN",.401,"NM",0)
+^9.68A^2^2
+"BLD",10372,"KRN",.401,"NM",1,0)
+SDEC MISSING RESOURCE    FILE #44^44^0
+"BLD",10372,"KRN",.401,"NM",2,0)
+SDEC NULL RESOURCE    FILE #409.84^409.84^0
+"BLD",10372,"KRN",.401,"NM","B","SDEC MISSING RESOURCE    FILE #44",1)
+
+"BLD",10372,"KRN",.401,"NM","B","SDEC NULL RESOURCE    FILE #409.84",2)
+
+"BLD",10372,"KRN",.402,0)
+.402
+"BLD",10372,"KRN",.403,0)
+.403
+"BLD",10372,"KRN",.5,0)
+.5
+"BLD",10372,"KRN",.84,0)
+.84
+"BLD",10372,"KRN",3.6,0)
+3.6
+"BLD",10372,"KRN",3.8,0)
+3.8
+"BLD",10372,"KRN",9.2,0)
+9.2
+"BLD",10372,"KRN",9.8,0)
+9.8
+"BLD",10372,"KRN",9.8,"NM",0)
+^9.68A^4^3
+"BLD",10372,"KRN",9.8,"NM",2,0)
+SDEC50^^0^B165813690
+"BLD",10372,"KRN",9.8,"NM",3,0)
+SDECDATA^^0^B33222031
+"BLD",10372,"KRN",9.8,"NM",4,0)
+SDVSIT2^^0^B4100533
+"BLD",10372,"KRN",9.8,"NM","B","SDEC50",2)
+
+"BLD",10372,"KRN",9.8,"NM","B","SDECDATA",3)
+
+"BLD",10372,"KRN",9.8,"NM","B","SDVSIT2",4)
+
+"BLD",10372,"KRN",19,0)
+19
+"BLD",10372,"KRN",19,"NM",0)
+^9.68A^11^11
+"BLD",10372,"KRN",19,"NM",1,0)
+SDEC NO RES APPT FIX^^0
+"BLD",10372,"KRN",19,"NM",2,0)
+SDEC NO RES APPT AUTO FIX^^0
+"BLD",10372,"KRN",19,"NM",3,0)
+SDSUP^^2
+"BLD",10372,"KRN",19,"NM",4,0)
+SDEC NULL RESOURCE^^0
+"BLD",10372,"KRN",19,"NM",5,0)
+SDEC MISSING RESOURCE^^0
+"BLD",10372,"KRN",19,"NM",6,0)
+SDEC APPOINTMENT EDIT^^0
+"BLD",10372,"KRN",19,"NM",7,0)
+SDEC APPOINTMENT INQUIRY^^0
+"BLD",10372,"KRN",19,"NM",8,0)
+SDEC ENCOUNTER INQUIRY^^0
+"BLD",10372,"KRN",19,"NM",9,0)
+SDEC RESOURCE CREATE^^0
+"BLD",10372,"KRN",19,"NM",10,0)
+SDEC RESOURCE EDIT^^0
+"BLD",10372,"KRN",19,"NM",11,0)
+SDEC RESOURCE INQUIRY^^0
+"BLD",10372,"KRN",19,"NM","B","SDEC APPOINTMENT EDIT",6)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC APPOINTMENT INQUIRY",7)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC ENCOUNTER INQUIRY",8)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC MISSING RESOURCE",5)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC NO RES APPT AUTO FIX",2)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC NO RES APPT FIX",1)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC NULL RESOURCE",4)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC RESOURCE CREATE",9)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC RESOURCE EDIT",10)
+
+"BLD",10372,"KRN",19,"NM","B","SDEC RESOURCE INQUIRY",11)
+
+"BLD",10372,"KRN",19,"NM","B","SDSUP",3)
+
+"BLD",10372,"KRN",19.1,0)
+19.1
+"BLD",10372,"KRN",101,0)
+101
+"BLD",10372,"KRN",409.61,0)
+409.61
+"BLD",10372,"KRN",771,0)
+771
+"BLD",10372,"KRN",779.2,0)
+779.2
+"BLD",10372,"KRN",870,0)
+870
+"BLD",10372,"KRN",8989.51,0)
+8989.51
+"BLD",10372,"KRN",8989.52,0)
+8989.52
+"BLD",10372,"KRN",8994,0)
+8994
+"BLD",10372,"KRN","B",.4,.4)
+
+"BLD",10372,"KRN","B",.401,.401)
+
+"BLD",10372,"KRN","B",.402,.402)
+
+"BLD",10372,"KRN","B",.403,.403)
+
+"BLD",10372,"KRN","B",.5,.5)
+
+"BLD",10372,"KRN","B",.84,.84)
+
+"BLD",10372,"KRN","B",3.6,3.6)
+
+"BLD",10372,"KRN","B",3.8,3.8)
+
+"BLD",10372,"KRN","B",9.2,9.2)
+
+"BLD",10372,"KRN","B",9.8,9.8)
+
+"BLD",10372,"KRN","B",19,19)
+
+"BLD",10372,"KRN","B",19.1,19.1)
+
+"BLD",10372,"KRN","B",101,101)
+
+"BLD",10372,"KRN","B",409.61,409.61)
+
+"BLD",10372,"KRN","B",771,771)
+
+"BLD",10372,"KRN","B",779.2,779.2)
+
+"BLD",10372,"KRN","B",870,870)
+
+"BLD",10372,"KRN","B",8989.51,8989.51)
+
+"BLD",10372,"KRN","B",8989.52,8989.52)
+
+"BLD",10372,"KRN","B",8994,8994)
+
+"BLD",10372,"QDEF")
+^^^^NO^^^^YES^^NO
+"BLD",10372,"QUES",0)
+^9.62^^
+"BLD",10372,"REQB",0)
+^9.611^1^1
+"BLD",10372,"REQB",1,0)
+SD*5.3*722^2
+"BLD",10372,"REQB","B","SD*5.3*722",1)
+
+"KRN",.4,1556,-1)
+0^1
+"KRN",.4,1556,0)
+SDEC MISSING RESOURCE^3190507.1014^^44^^^3191008
+"KRN",.4,1556,"DXS",1,9.2)
+S (D,D0)=$QS(DIMQ,$QL(DIMQ)) I D,$D(^SDEC(409.831,D,0)) S X=$P(^(0),U) S DIXX=DIXX(1) D M^DIO2
+"KRN",.4,1556,"DXS",1,9.3)
+N DIMQ,DIMSTRT,DIMSCNT S (DIMQ,DIMSTRT)=$NA(^SDEC(409.831,"ALOC",I(0,0))),DIMSCNT=$QL(DIMQ) F  S DIMQ=$Q(@DIMQ) Q:DIMQ=""  Q:$NA(@DIMQ,DIMSCNT)'=DIMSTRT   X DXS(1,9.2) Q:'$D(D)  S D=D0
+"KRN",.4,1556,"F",1)
+.01;"LOCATION NAME"~S SDCLN=$P(^(0),U,1),SDRESN="",SDRESND="",SDPRT="";X;Z;"S SDCLN=$P(^(0),U,1),SDRESN="",SDRESND="",SDPRT="""~
+"KRN",.4,1556,"F",2)
+-409.831,^SDEC(409.831,^1^S I(0,0)=$G(D0) X DXS(1,9.3) S X="" S D0=I(0,0);Z;"SDEC RESOURCE:"~-409.831,.01;"RESOURCE NAME"~
+"KRN",.4,1556,"F",3)
+-409.831,S SDRESND=^(0),SDRESN=$P(SDRESND,U,1),SDRESTP=$P(SDRESND,U,11);X;Z;"S SDRESND=^(0),SDRESN=$P(SDRESND,U,1),SDRESTP=$P(SDRESND,U,11)"~
+"KRN",.4,1556,"F",4)
+-409.831,S SDPRT=$S(SDRESTP'["SC":"N/A",SDCLN'=SDRESN:"***",1:"");X;Z;"S SDPRT=$S(SDRESTP'["SC":"N/A",SDCLN'=SDRESN:"***",1:"")"~
+"KRN",.4,1556,"F",5)
+-409.831,W SDPRT;"DIFF?";Z;"W SDPRT"~W:SDRESN="" ?64,"***";X;Z;"W:SDRESN="" ?64,"***""~
+"KRN",.4,1556,"H")
+HOSPITAL LOCATION Search
+"KRN",.4,1557,-1)
+0^2
+"KRN",.4,1557,0)
+SDEC NULL RESOURCE^3190516.1321^^409.84^^^3190517
+"KRN",.4,1557,"F",1)
+W D0;"IEN";Z;"W D0"~.01~S APPTDATA=X,DFN=$P(APPTDATA,U,5),SDT=$P(APPTDATA,U,1);X;Z;"S APPTDATA=X,DFN=$P(APPTDATA,U,5),SDT=$P(APPTDATA,U,1)"~
+"KRN",.4,1557,"F",2)
+S PTDATA=$G(^DPT(DFN,"S",SDT,0)),CLN=$P(PTDATA,U,1);X;Z;"S PTDATA=$G(^DPT(DFN,"S",SDT,0)),CLN=$P(PTDATA,U,1)"~
+"KRN",.4,1557,"F",3)
+W $P(^DPT(DFN,0),U,1);"PATIENT";Z;"W $P(^DPT(DFN,0),U,1)"~W:CLN $P(^SC(CLN,0),U,1);"CLINIC";C50;Z;"W:CLN $P(^SC(CLN,0),U,1)"~
+"KRN",.4,1557,"F",4)
+S PTCAN=$P(PTDATA,U,2)="C"!($P(PTDATA,U,2)="PC"),APPTCAN=$P(APPTDATA,U,12)'="";X;Z;"S PTCAN=$P(PTDATA,U,2)="C"!($P(PTDATA,U,2)="PC"),APPTCAN=$P(APPTDATA,U,12)'="""~
+"KRN",.4,1557,"F",5)
+S PTMADE=$P(PTDATA,U,19),APPTMADE=$P($P(APPTDATA,U,9),".",1);X;Z;"S PTMADE=$P(PTDATA,U,19),APPTMADE=$P($P(APPTDATA,U,9),".",1)"~
+"KRN",.4,1557,"F",6)
+S PTMADEBY=$P(PTDATA,U,18),APPTMDBY=$P(APPTDATA,U,8);X;Z;"S PTMADEBY=$P(PTDATA,U,18),APPTMDBY=$P(APPTDATA,U,8)"~
+"KRN",.4,1557,"F",7)
+S MATCHING=(PTCAN=APPTCAN)+(PTMADE=APPTMADE)+(PTMADEBY=APPTMDBY);X;Z;"S MATCHING=(PTCAN=APPTCAN)+(PTMADE=APPTMADE)+(PTMADEBY=APPTMDBY)"~
+"KRN",.4,1557,"F",8)
+W !?10,MATCHING," of 3 data points agree";X;Z;"W !?10,MATCHING," of 3 data points agree""~
+"KRN",.4,1557,"H")
+SDEC APPOINTMENT Search
+"KRN",.401,937,-1)
+0^1
+"KRN",.401,937,0)
+SDEC MISSING RESOURCE^3190521.1137^^44^^^3190521
+"KRN",.401,937,"%D",0)
+^.4012^3^3^3190904^^^
+"KRN",.401,937,"%D",1,0)
+Search template that, when used with the print template of the same name, 
+"KRN",.401,937,"%D",2,0)
+lists all clinics that do not have a corresponding resource (#409.831) of 
+"KRN",.401,937,"%D",3,0)
+the same name.
+"KRN",.401,937,"DC",1)
+2^="C"
+"KRN",.401,937,"DIS",0)
+I $P($G(^SC(D0,0)),U,3)="C"
+"KRN",.401,937,"DL")
+1
+"KRN",.401,937,"DL",0)
+^1^
+"KRN",.401,937,"O",0)
+^.4011^1^1^3190904^
+"KRN",.401,937,"O",1,0)
+TYPE EQUALS "C"^CLINIC
+"KRN",.401,937,"QR")
+3190521.113756^7
+"KRN",.401,938,-1)
+0^2
+"KRN",.401,938,0)
+SDEC NULL RESOURCE^3190507.1023^^409.84^^^3190507
+"KRN",.401,938,"%D",0)
+^.4012^3^3^3190507^
+"KRN",.401,938,"%D",1,0)
+Searches the appointment file (#409.84) for entries with null resource 
+"KRN",.401,938,"%D",2,0)
+pointer (#409.831) fields. These are caused by legacy VistA making an
+"KRN",.401,938,"%D",3,0)
+appointment for a clinic that does not have a matching resource.
+"KRN",.401,938,"DA")
+DIS("A1",
+"KRN",.401,938,"DA",1)
+N Y S Y(1)=$S($D(^SDEC(409.84,D0,0)):^(0),1:"") S X=$P($G(^SDEC(409.831,+$P(Y(1),U,7),0)),U)
+"KRN",.401,938,"DC",1)
+-1^?." "
+"KRN",.401,938,"DIS",0)
+N Y S Y(1)=$S($D(^SDEC(409.84,D0,0)):^(0),1:"") S X=$P($G(^SDEC(409.831,+$P(Y(1),U,7),0)),U) I X?." "
+"KRN",.401,938,"DL")
+1
+"KRN",.401,938,"DL",0)
+^1^
+"KRN",.401,938,"O",0)
+^
+"KRN",.401,938,"O",1,0)
+RESOURCE NULL
+"KRN",.401,938,"QR")
+3190507.102643^0
+"KRN",19,2202,-1)
+2^3
+"KRN",19,2202,0)
+SDSUP^Supervisor Menu^^M^114^^^^^^^48^y
+"KRN",19,2202,10,0)
+^19.01IP^33^33
+"KRN",19,2202,10,23,0)
+11729
+"KRN",19,2202,10,23,"^")
+SDEC NO RES APPT AUTO FIX
+"KRN",19,2202,10,24,0)
+11728
+"KRN",19,2202,10,24,"^")
+SDEC NO RES APPT FIX
+"KRN",19,2202,10,25,0)
+11730
+"KRN",19,2202,10,25,"^")
+SDEC NULL RESOURCE
+"KRN",19,2202,10,26,0)
+11731
+"KRN",19,2202,10,26,"^")
+SDEC MISSING RESOURCE
+"KRN",19,2202,10,27,0)
+11733
+"KRN",19,2202,10,27,"^")
+SDEC RESOURCE EDIT
+"KRN",19,2202,10,29,0)
+11735
+"KRN",19,2202,10,29,"^")
+SDEC APPOINTMENT INQUIRY
+"KRN",19,2202,10,30,0)
+11736
+"KRN",19,2202,10,30,"^")
+SDEC RESOURCE INQUIRY
+"KRN",19,2202,10,31,0)
+11737
+"KRN",19,2202,10,31,"^")
+SDEC ENCOUNTER INQUIRY
+"KRN",19,2202,10,32,0)
+11738
+"KRN",19,2202,10,32,"^")
+SDEC APPOINTMENT EDIT
+"KRN",19,2202,10,33,0)
+11739
+"KRN",19,2202,10,33,"^")
+SDEC RESOURCE CREATE
+"KRN",19,2202,"U")
+SUPERVISOR MENU
+"KRN",19,11728,-1)
+0^1
+"KRN",19,11728,0)
+SDEC NO RES APPT FIX^Manually Fix Appointments with No Resource^^R^^^^^^^^SCHEDULING^y
+"KRN",19,11728,1,0)
+^19.06^3^3^3190729^^
+"KRN",19,11728,1,1,0)
+This option allows the user to examine entries in the SDEC APPOINTMENT 
+"KRN",19,11728,1,2,0)
+file (#409.84) that do not have a pointer to an SDEC RESOURCE (#409.831) 
+"KRN",19,11728,1,3,0)
+and find the correct resource for the link.
+"KRN",19,11728,25)
+APPT^SDECDATA
+"KRN",19,11728,"U")
+MANUALLY FIX APPOINTMENTS WITH
+"KRN",19,11729,-1)
+0^2
+"KRN",19,11729,0)
+SDEC NO RES APPT AUTO FIX^Automatically Fix Appointments with No Resource^^R^^^^^^^^SCHEDULING^
+"KRN",19,11729,1,0)
+^^3^3^3190507^
+"KRN",19,11729,1,1,0)
+This option automatically processes entries in the SDEC APPOINTMENT file 
+"KRN",19,11729,1,2,0)
+(#409.84) that do not have a pointer to an SDEC RESOURCE (#409.831) and 
+"KRN",19,11729,1,3,0)
+fixes the link in most cases.
+"KRN",19,11729,25)
+AUTO^SDECDATA
+"KRN",19,11729,"U")
+AUTOMATICALLY FIX APPOINTMENTS
+"KRN",19,11730,-1)
+0^4
+"KRN",19,11730,0)
+SDEC NULL RESOURCE^Appointments with missing resources^^P^^^^^^^^SCHEDULING
+"KRN",19,11730,1,0)
+^19.06^5^5^3190729^^
+"KRN",19,11730,1,1,0)
+This option scans the SDEC Appointment file (#409.84) and identifies 
+"KRN",19,11730,1,2,0)
+appointments that do not have the resource (#409.831) field populated.  
+"KRN",19,11730,1,3,0)
+This condition occurs when an appointment is made in legacy VistA for a 
+"KRN",19,11730,1,4,0)
+clinic (#44) that does not have a resource of the same name assigned to 
+"KRN",19,11730,1,5,0)
+it.
+"KRN",19,11730,60)
+SDEC(409.84,
+"KRN",19,11730,62)
+0
+"KRN",19,11730,63)
+[SDEC NULL RESOURCE]
+"KRN",19,11730,64)
+
+"KRN",19,11730,65)
+
+"KRN",19,11730,66)
+
+"KRN",19,11730,69)
+I $P(^SDEC(409.84,D0,0),U,7)=""
+"KRN",19,11730,"U")
+APPOINTMENTS WITH MISSING RESO
+"KRN",19,11731,-1)
+0^5
+"KRN",19,11731,0)
+SDEC MISSING RESOURCE^Clinics without matching resource list^^P^^^^^^^^SCHEDULING
+"KRN",19,11731,1,0)
+^^3^3^3190612^
+"KRN",19,11731,1,1,0)
+This option lists all hospital locations (#44) and the associated 
+"KRN",19,11731,1,2,0)
+resources (#409.831).  Locations are flagged if they do not have a 
+"KRN",19,11731,1,3,0)
+resource of the same name.
+"KRN",19,11731,60)
+SC(
+"KRN",19,11731,62)
+0
+"KRN",19,11731,63)
+[SDEC MISSING RESOURCE]
+"KRN",19,11731,64)
+
+"KRN",19,11731,65)
+
+"KRN",19,11731,66)
+
+"KRN",19,11731,69)
+I $P(^SC(D0,0),U,3)="C"
+"KRN",19,11731,"U")
+CLINICS WITHOUT MATCHING RESOU
+"KRN",19,11733,-1)
+0^10
+"KRN",19,11733,0)
+SDEC RESOURCE EDIT^Edit Resource^^E^^^^^^^^SCHEDULING
+"KRN",19,11733,1,0)
+^19.06^1^1^3190903^^^^
+"KRN",19,11733,1,1,0)
+Use this option to edit a resource to match with a clinic.
+"KRN",19,11733,30)
+SDEC(409.831,
+"KRN",19,11733,31)
+AEMN
+"KRN",19,11733,35)
+
+"KRN",19,11733,50)
+409.831
+"KRN",19,11733,51)
+.01;.012;.04
+"KRN",19,11733,"U")
+EDIT RESOURCE
+"KRN",19,11735,-1)
+0^7
+"KRN",19,11735,0)
+SDEC APPOINTMENT INQUIRY^Appointment Inquiry^^I^^^^^^^^SCHEDULING
+"KRN",19,11735,1,0)
+^^1^1^3190731^
+"KRN",19,11735,1,1,0)
+Option performs FileMan inquiry in the Appointment file (#409.84).
+"KRN",19,11735,30)
+SDEC(409.84,
+"KRN",19,11735,31)
+AEMQ
+"KRN",19,11735,63)
+[CAPTIONED]
+"KRN",19,11735,80)
+SDEC(409.84,
+"KRN",19,11735,82)
+B
+"KRN",19,11735,"U")
+APPOINTMENT INQUIRY
+"KRN",19,11736,-1)
+0^11
+"KRN",19,11736,0)
+SDEC RESOURCE INQUIRY^Resource Inquiry^^I^^^^^^^^SCHEDULING
+"KRN",19,11736,1,0)
+^^1^1^3190731^
+"KRN",19,11736,1,1,0)
+Performs FileMan inquiry into the Resource file (#409.831).
+"KRN",19,11736,30)
+SDEC(409.831,
+"KRN",19,11736,31)
+AEMQ
+"KRN",19,11736,63)
+[CAPTIONED]
+"KRN",19,11736,80)
+SDEC(409.831,
+"KRN",19,11736,82)
+B
+"KRN",19,11736,"U")
+RESOURCE INQUIRY
+"KRN",19,11737,-1)
+0^8
+"KRN",19,11737,0)
+SDEC ENCOUNTER INQUIRY^Encounter Inquiry^^I^^^^^^^^SCHEDULING
+"KRN",19,11737,1,0)
+^^1^1^3190731^
+"KRN",19,11737,1,1,0)
+FileMan encounter inquiry for users without access to FileMan.
+"KRN",19,11737,30)
+SCE(
+"KRN",19,11737,31)
+AEMQ
+"KRN",19,11737,63)
+[CAPTIONED]
+"KRN",19,11737,80)
+SCE(
+"KRN",19,11737,82)
+B
+"KRN",19,11737,"U")
+ENCOUNTER INQUIRY
+"KRN",19,11738,-1)
+0^6
+"KRN",19,11738,0)
+SDEC APPOINTMENT EDIT^Edit resource for an appointment^^E^^^^^^^^SCHEDULING
+"KRN",19,11738,1,0)
+^19.06^2^2^3190806^^^
+"KRN",19,11738,1,1,0)
+Use this option to assign a resource to an appointment that does not have 
+"KRN",19,11738,1,2,0)
+one.
+"KRN",19,11738,30)
+SDEC(409.84,
+"KRN",19,11738,31)
+AEQM
+"KRN",19,11738,50)
+409.84
+"KRN",19,11738,51)
+.07
+"KRN",19,11738,"U")
+EDIT RESOURCE FOR AN APPOINTME
+"KRN",19,11739,-1)
+0^9
+"KRN",19,11739,0)
+SDEC RESOURCE CREATE^Create a resource^^E^^^^^^^^SCHEDULING
+"KRN",19,11739,1,0)
+^19.06^1^1^3190806^^^^
+"KRN",19,11739,1,1,0)
+Use this option to create a resource and assign it to a hospital location.
+"KRN",19,11739,30)
+SDEC(409.831,
+"KRN",19,11739,31)
+AELM
+"KRN",19,11739,50)
+409.831
+"KRN",19,11739,51)
+.012;.015;.016;.04
+"KRN",19,11739,"U")
+CREATE A RESOURCE
+"MBREQ")
+0
+"ORD",5,.4)
+.4;5;;;EDEOUT^DIFROMSO(.4,DA,"",XPDA);FPRE^DIFROMSI(.4,"",XPDA);EPRE^DIFROMSI(.4,DA,$E("N",$G(XPDNEW)),XPDA,"",OLDA);;EPOST^DIFROMSI(.4,DA,"",XPDA);DEL^DIFROMSK(.4,"",%)
+"ORD",5,.4,0)
+PRINT TEMPLATE
+"ORD",6,.401)
+.401;6;;;EDEOUT^DIFROMSO(.401,DA,"",XPDA);FPRE^DIFROMSI(.401,"",XPDA);EPRE^DIFROMSI(.401,DA,$E("N",$G(XPDNEW)),XPDA,"",OLDA);;EPOST^DIFROMSI(.401,DA,"",XPDA);DEL^DIFROMSK(.401,"",%)
+"ORD",6,.401,0)
+SORT TEMPLATE
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",48,-1)
+1^1
+"PKG",48,0)
+SCHEDULING^SD^APPOINTMENTS,PROFILES,LETTERS,AMIS REPORTS
+"PKG",48,22,0)
+^9.49I^1^1
+"PKG",48,22,1,0)
+5.3^3051119^2960613
+"PKG",48,22,1,"PAH",1,0)
+723^3191017^115
+"PKG",48,22,1,"PAH",1,1,0)
+^^11^11^3191017
+"PKG",48,22,1,"PAH",1,1,1,0)
+Patch 722 used an encounter lookup utility that created new encounters 
+"PKG",48,22,1,"PAH",1,1,2,0)
+when one did not already exist.  This resulted in new encounters being 
+"PKG",48,22,1,"PAH",1,1,3,0)
+created for old appointments.  A modification was made to SDEC50 that
+"PKG",48,22,1,"PAH",1,1,4,0)
+removed the call to the encounter lookup utility.  A modification to the 
+"PKG",48,22,1,"PAH",1,1,5,0)
+encounter lookup utility (SDVSIT2) is also included, documenting the code 
+"PKG",48,22,1,"PAH",1,1,6,0)
+so that developers do not inadvertently use it improperly.
+"PKG",48,22,1,"PAH",1,1,7,0)
+ 
+"PKG",48,22,1,"PAH",1,1,8,0)
+Six (6) new options are also part of this patch so that users do not need 
+"PKG",48,22,1,"PAH",1,1,9,0)
+to have FileMan access to inquire or edit Appointment file (#409.84) 
+"PKG",48,22,1,"PAH",1,1,10,0)
+entries, inquire, create or edit Resource file (#409.831) and inquire 
+"PKG",48,22,1,"PAH",1,1,11,0)
+Encounter file (#409.68) entries. 
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+3
+"RTN","SDEC50")
+0^2^B165813690^B161237359
+"RTN","SDEC50",1,0)
+SDEC50 ;ALB/SAT/JSM - VISTA SCHEDULING RPCS ; 22 Mar 2019  3:20 PM
+"RTN","SDEC50",2,0)
+ ;;5.3;Scheduling;**627,658,665,672,722,723**;Aug 13, 1993;Build 21
+"RTN","SDEC50",3,0)
+ ;;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","SDEC50",4,0)
+ ;
+"RTN","SDEC50",5,0)
+ Q
+"RTN","SDEC50",6,0)
+ ;
+"RTN","SDEC50",7,0)
+FAPPTGET(SDECY,DFN,SDBEG,SDEND,SDANC) ; GET Future appointments for given patient and date range
+"RTN","SDEC50",8,0)
+ ;FAPPTGET(SDECY,DFN,SDBEG,SDEND,SDANC)  external parameter tag is in SDEC
+"RTN","SDEC50",9,0)
+ ;INPUT:
+"RTN","SDEC50",10,0)
+ ;  DFN   = (required) Patient ID - Pointer to the PATIENT file 2  (lookup by name is not accurate if duplicates)
+"RTN","SDEC50",11,0)
+ ;  SDBEG = (required) Begin of date range to search for appointments in external format
+"RTN","SDEC50",12,0)
+ ;  SDEND = (required) End of date range to search for appointments in external format
+"RTN","SDEC50",13,0)
+ ;  SDANC = (optional) ancillary flag  0=all appointments; 1=only ancillary appointments
+"RTN","SDEC50",14,0)
+ ;RETURN:
+"RTN","SDEC50",15,0)
+ ; Successful Return:
+"RTN","SDEC50",16,0)
+ ;   Global Array in which each array entry contains Appointment Data from the PATIENT file
+"RTN","SDEC50",17,0)
+ ;   Data is separated by ^:
+"RTN","SDEC50",18,0)
+ ;     1. DFN
+"RTN","SDEC50",19,0)
+ ;     2. CLINIC_IEN  - Clinic IEN
+"RTN","SDEC50",20,0)
+ ;     3. CLINIC_NAME - Clinic Name
+"RTN","SDEC50",21,0)
+ ;     4. APPT_DATE - Appointment Date in external format
+"RTN","SDEC50",22,0)
+ ;     5. STATUS    - Status text
+"RTN","SDEC50",23,0)
+ ;     6. ANCTXT    - Ancillary Text
+"RTN","SDEC50",24,0)
+ ;     7. CONS      -Consult Link pointer to REQUEST/CONSULTATION file 123
+"RTN","SDEC50",25,0)
+ ;   "T00020DFN^T00020CLINIC_IEN^T00030CLINIC_NAME^T00020APPT_DATE^T00020STATUS^T00100ANCTXT^T00030CONS"
+"RTN","SDEC50",26,0)
+ ; Caught Exception Return:
+"RTN","SDEC50",27,0)
+ ;   A single entry in the Global Array in the format "-1^<error text>"
+"RTN","SDEC50",28,0)
+ ;   "T00020RETURNCODE^T00100TEXT"
+"RTN","SDEC50",29,0)
+ ; Unexpected Exception Return:
+"RTN","SDEC50",30,0)
+ ;     Handled by the RPC Broker.
+"RTN","SDEC50",31,0)
+ ;     M errors are trapped by the use of M and Kernel error handling.
+"RTN","SDEC50",32,0)
+ ;     The RPC execution stops and the RPC Broker sends the error generated
+"RTN","SDEC50",33,0)
+ ;     text back to the client.
+"RTN","SDEC50",34,0)
+ ;
+"RTN","SDEC50",35,0)
+ N IEN,SDANCT,SDCL,SDCLN,SDCONS,SDATA,SDDT,SDST,SDT,X,Y,%DT
+"RTN","SDEC50",36,0)
+ N SDTMP,SDTYP,SDTYPN,SDNOD,SDRES,SDNOD2,SDLNK ;alb/sat 672 ;*zeb 723 5/2/19 added SDNOD2,SDLNK
+"RTN","SDEC50",37,0)
+ S SDECI=0
+"RTN","SDEC50",38,0)
+ K ^TMP("SDEC50",$J)
+"RTN","SDEC50",39,0)
+ S SDECY="^TMP(""SDEC50"","_$J_")"
+"RTN","SDEC50",40,0)
+ ; data header
+"RTN","SDEC50",41,0)
+ S SDTMP="T00020DFN^T00020CLINIC_IEN^T00030CLINIC_NAME^T00020APPT_DATE^T00020STATUS^T00100ANCTXT"
+"RTN","SDEC50",42,0)
+ S SDTMP=SDTMP_"^T00030CONS^T00030IEN^T00030APPTYPE_IEN^T00030APPTYPE_NAME"   ;alb/sat 658 add IEN ;alb/sat 672 add APPTYPE
+"RTN","SDEC50",43,0)
+ S @SDECY@(0)=SDTMP_$C(30)
+"RTN","SDEC50",44,0)
+ ;validate Patient (required)
+"RTN","SDEC50",45,0)
+ I '+DFN D ERR1^SDECERR(-1,"Invalid Patient ID.",.SDECI,SDECY) Q
+"RTN","SDEC50",46,0)
+ I '$D(^DPT(DFN,0)) D ERR1^SDECERR(-1,"Invalid Patient ID.",.SDECI,SDECY) Q
+"RTN","SDEC50",47,0)
+ ;validate begin date/time (required)
+"RTN","SDEC50",48,0)
+ S:$G(SDBEG)="" SDBEG=$P($$NOW^XLFDT,".",1)
+"RTN","SDEC50",49,0)
+ S %DT="" S X=$P(SDBEG,"@",1) D ^%DT S SDBEG=Y
+"RTN","SDEC50",50,0)
+ I Y=-1 D ERR1^SDECERR(-1,"Invalid Begin Time.",.SDECI,SDECY) Q
+"RTN","SDEC50",51,0)
+ ;validate end date/time (required)
+"RTN","SDEC50",52,0)
+ S:$G(SDEND)="" SDEND=1000000
+"RTN","SDEC50",53,0)
+ S %DT="" S X=$P(SDEND,"@",1) D ^%DT S SDEND=Y
+"RTN","SDEC50",54,0)
+ I Y=-1 D ERR1^SDECERR(-1,"Invalid End Time.",.SDECI,SDECY) Q
+"RTN","SDEC50",55,0)
+ ;validate ancillary flag (optional)
+"RTN","SDEC50",56,0)
+ S SDANC=$G(SDANC)
+"RTN","SDEC50",57,0)
+ S:SDANC'=1 SDANC=0
+"RTN","SDEC50",58,0)
+ ;*zeb 722 1/9/19 begin new loop over appts instead of pt
+"RTN","SDEC50",59,0)
+ S SDT=SDBEG
+"RTN","SDEC50",60,0)
+ F  S SDT=$O(^SDEC(409.84,"APTDT",DFN,SDT)) Q:SDT=""  Q:$P(SDT,".",1)>SDEND  D
+"RTN","SDEC50",61,0)
+ . S IEN=""
+"RTN","SDEC50",62,0)
+ . F  S IEN=$O(^SDEC(409.84,"APTDT",DFN,SDT,IEN)) Q:IEN=""  D
+"RTN","SDEC50",63,0)
+ .. S SDNOD=$G(^SDEC(409.84,IEN,0))
+"RTN","SDEC50",64,0)
+ .. Q:SDNOD=""  ;appointment data missing
+"RTN","SDEC50",65,0)
+ .. S SDATA=$G(^DPT(DFN,"S",SDT,0))
+"RTN","SDEC50",66,0)
+ .. S SDANCT=$$ANC^SDAM1() ;assumes SDATA ;ancillary
+"RTN","SDEC50",67,0)
+ .. I SDANC  Q:SDANCT=""
+"RTN","SDEC50",68,0)
+ .. ;return appointment data
+"RTN","SDEC50",69,0)
+ .. S SDRES=$P(SDNOD,U,7)
+"RTN","SDEC50",70,0)
+ .. S SDCL="",SDCLN="*CORRUPT DATA" ;*zeb+8 723 5/2/19 support appointments with no resource
+"RTN","SDEC50",71,0)
+ .. I SDRES]"" S SDCL=$$GET1^DIQ(409.831,SDRES_",",.04,"I") S SDCLN=$$GET1^DIQ(409.831,SDRES_",",.04) ;clinic IEN/clinic name
+"RTN","SDEC50",72,0)
+ .. S SDDT=$$GET1^DIQ(409.84,IEN_",",.01) ;appointment start date/time ;used GET1 instead of ^DD("DD") because GUI needs leading zeroes
+"RTN","SDEC50",73,0)
+ .. S SDST=$$APPTSTS(IEN,SDNOD,SDCL) ;current status
+"RTN","SDEC50",74,0)
+ .. S SDTYP=$P(SDNOD,U,6) ;appt type id
+"RTN","SDEC50",75,0)
+ .. S SDTYPN=$P($G(^SD(409.1,SDTYP,0)),U,1)    ;appt type name
+"RTN","SDEC50",76,0)
+ .. S SDNOD2=$G(^SDEC(409.84,IEN,2)),SDLNK=""
+"RTN","SDEC50",77,0)
+ .. S SDLNK=$S(SDNOD2="":"",1:$P(SDNOD2,U,1))
+"RTN","SDEC50",78,0)
+ .. S CONS=$S(SDLNK="":"",$P(SDLNK,";",2)["GMR":$P(SDLNK,";",1),1:"")
+"RTN","SDEC50",79,0)
+ .. S SDECI=SDECI+1 S @SDECY@(SDECI)=DFN_U_SDCL_U_SDCLN_U_SDDT_U_SDST_U_SDANCT_U_CONS_U_IEN_U_SDTYP_U_SDTYPN_$C(30)
+"RTN","SDEC50",80,0)
+ S @SDECY@(SDECI)=@SDECY@(SDECI)_$C(31)
+"RTN","SDEC50",81,0)
+ Q
+"RTN","SDEC50",82,0)
+ ;
+"RTN","SDEC50",83,0)
+ ;*zeb+tag 722 2/19/19 added to get appointment status for pending appointments from appointment file
+"RTN","SDEC50",84,0)
+APPTSTS(APPTIEN,APPTNOD,CLINIEN) ;Get current status for an entry in the SDEC APPOINTMENT file in the style of STATUS^SDAM1
+"RTN","SDEC50",85,0)
+ ;APPTIEN (R) - IEN of entry in the SDEC APPOINTMENT file (#409.84)
+"RTN","SDEC50",86,0)
+ ;APPTNOD (O) - 0 node of appointment entry (will be read if not passed in)
+"RTN","SDEC50",87,0)
+ ;CLINIEN (O) - IEN of entry in the HOSPITAL LOCATION file (#44); non-count will not be checked via clinic if not passed in (can check via OE)
+"RTN","SDEC50",88,0)
+ N STS,OEIEN,DFN,SDT,VAINDT,VADMVT,CHKIO,RET,OESTS,CXLRSN,CXLRSNTP,CXLSTS ; Added variables to list wtc 8/27/19
+"RTN","SDEC50",89,0)
+ I $G(APPTNOD)="" S APPTNOD=$G(^SDEC(409.84,APPTIEN,0))
+"RTN","SDEC50",90,0)
+ S SDT=$P(APPTNOD,U,1)
+"RTN","SDEC50",91,0)
+ S DFN=$P(APPTNOD,U,5)
+"RTN","SDEC50",92,0)
+ S OEIEN=$P($G(^DPT(DFN,"S",SDT,0)),U,20)
+"RTN","SDEC50",93,0)
+ S CHKIO=""
+"RTN","SDEC50",94,0)
+ ; -- set initial status value ; non-count clinic?
+"RTN","SDEC50",95,0)
+ S STS=$P(APPTNOD,U,17)
+"RTN","SDEC50",96,0)
+ I STS]"" S STS=$P($P($P(^DD(409.84,.17,0),"^",3),STS_":",2),";",1) I 1 ;name for status code
+"RTN","SDEC50",97,0)
+ E  I CLINIEN]"" S:$P($G(^SC(CLINIEN,0)),U,17)="Y" STS="NON-COUNT" ;check for non-count clinic ;*zeb+1 723 5/2/19 don't crash if resource/clinic not available
+"RTN","SDEC50",98,0)
+ ;I ((CLINIEN]"")&(STS="NO ACTION TAKEN")) S OEIEN=$$GETAPT^SDVSIT2(DFN,SDT,CLINIEN) S:OEIEN]"" STS="" ; wtc 723 8/20/2019 - disabled 'cause it creates encounters
+"RTN","SDEC50",99,0)
+ I CLINIEN'="",STS="NO ACTION TAKEN",OEIEN'="" S STS="" ; wtc 723 8/20/2019
+"RTN","SDEC50",100,0)
+ ; -- no show?
+"RTN","SDEC50",101,0)
+ I $P(APPTNOD,U,10)=1 D
+"RTN","SDEC50",102,0)
+ . I $P(APPTNOD,U,12)]"" D  Q  ;handle cancel after no-show -- appt sts doesn't get updated with cxl but pt status does
+"RTN","SDEC50",103,0)
+ . . S CXLRSN=$P(APPTNOD,U,22)
+"RTN","SDEC50",104,0)
+ . . I CXLRSN="" S STS="CANCELLED" Q  ;cancel reason is required, this should not happen
+"RTN","SDEC50",105,0)
+ . . S CXLRSNTP=$P($G(^SD(409.2,CXLRSN,0)),U,2)
+"RTN","SDEC50",106,0)
+ . . I CXLRSNTP="C" S STS="CANCELLED BY CLINIC" Q
+"RTN","SDEC50",107,0)
+ . . I CXLRSNTP="P" S STS="CANCELLED BY PATIENT" Q
+"RTN","SDEC50",108,0)
+ . . ;only reasons that can be either are left, check pt file status -- could be overlaid after cancel
+"RTN","SDEC50",109,0)
+ . . S CXLSTS=$$GET1^DIQ(2.98,SDT_","_DFN_",",100)
+"RTN","SDEC50",110,0)
+ . . I CXLSTS["CANCELLED" S STS=CXLSTS Q
+"RTN","SDEC50",111,0)
+ . . S STS="CANCELLED BY CLINIC" ;must specify clinic or patient, default to clinic if information is lost
+"RTN","SDEC50",112,0)
+ . S STS="NO-SHOW"
+"RTN","SDEC50",113,0)
+ ; -- inpatient?
+"RTN","SDEC50",114,0)
+ ; WTC 722 3/22/19 ; I STS="" S:$$INP^SDAM2(DFN,SDT)="I" STS="INPATIENT"
+"RTN","SDEC50",115,0)
+ I STS=""!($P(APPTNOD,U,17)="I"),$$INP^SDAM2(DFN,SDT)="I" S STS=$S($P(APPTNOD,U,12)="":"INPATIENT",$P($G(^DPT(DFN,"S",SDT,0)),U,2)="PC":"CANCELLED BY PATIENT",1:"CANCELLED BY CLINIC") ; WTC 722 3/27/2019
+"RTN","SDEC50",116,0)
+ S VAINDT=SDT D ADM^VADPT2 ;ADM^VADPT2 assumes VAINDT and returns in VADMVT
+"RTN","SDEC50",117,0)
+ I STS["INPATIENT",$S('VADMVT:1,'$P(^DG(43,1,0),U,21):0,1:$P($G(^DIC(42,+$P($G(^DGPM(VADMVT,0)),U,6),0)),U,3)="D") S STS=""
+"RTN","SDEC50",118,0)
+ ; -- determine ci/co indicator
+"RTN","SDEC50",119,0)
+ S CHKIO=$S($P(APPTNOD,U,14)]"":"CHECKED OUT",$P(APPTNOD,U,3)]"":"CHECKED IN",SDT>(DT+.2400):"FUTURE",1:"NO ACTION TAKEN") ;DT is a FileMan-assumable variable with the current date
+"RTN","SDEC50",120,0)
+ S:STS="" STS=CHKIO
+"RTN","SDEC50",121,0)
+ I (STS="NO ACTION TAKEN"),($P(SDT,".")=DT),(CHKIO'["CHECKED") S CHKIO="TODAY"
+"RTN","SDEC50",122,0)
+ ; -- determine print status
+"RTN","SDEC50",123,0)
+ I STS["CANCELLED" Q STS
+"RTN","SDEC50",124,0)
+ S RET=$S(STS=CHKIO!(CHKIO=""):STS,1:"")
+"RTN","SDEC50",125,0)
+ I RET="" D
+"RTN","SDEC50",126,0)
+ . I STS["INPATIENT",$P(SDT,".",1)>DT S RET=$P(STS," ",1)_"/FUTURE" Q  ; WTC 3/26/19 722
+"RTN","SDEC50",127,0)
+ . I (STS["INPATIENT"),(CLINIEN]""),($P($G(^SC(CLINIEN,0)),U,17)'="Y"),OEIEN="" S RET=$P(STS," ",1)_"/ACT REQ" Q  ;  wtc 3/22/19 722 no outpatient encounter for inpatient
+"RTN","SDEC50",128,0)
+ . I (STS["INPATIENT"),(CLINIEN]""),($P($G(^SC(CLINIEN,0)),U,17)'="Y"),($P($G(^SCE(OEIEN,0)),U,7)="") S RET=$P(STS," ",1)_"/ACT REQ" Q
+"RTN","SDEC50",129,0)
+ . I (STS="NO ACTION TAKEN"),((CHKIO="CHECKED OUT")!(CHKIO="CHECKED IN")) S RET="ACT REQ/"_CHKIO D  Q
+"RTN","SDEC50",130,0)
+ . . I (OEIEN),($P($G(^SCE(OEIEN,0)),U,7)) S RET="CHECKED OUT" ; wtc 722 8/27/19 changed P to RET to match code in SDAM1, where the code originally came from.
+"RTN","SDEC50",131,0)
+ . I ((STS="NO-SHOW")!(STS="NON-COUNT")) S RET=STS Q:CHKIO="NO ACTION TAKEN"
+"RTN","SDEC50",132,0)
+ . S RET=STS_"/"_CHKIO
+"RTN","SDEC50",133,0)
+ I STS["INPATIENT",((CHKIO="")!(CHKIO="NO ACTION TAKEN")) D
+"RTN","SDEC50",134,0)
+ . I SDT>(DT+.2359) S RET=$P(STS," ")_"/FUTURE" Q
+"RTN","SDEC50",135,0)
+ . S RET=$P(STS," ")_"/NO ACT TAKN"
+"RTN","SDEC50",136,0)
+ I STS["INPATIENT" Q RET
+"RTN","SDEC50",137,0)
+ I STS["NO-SHOW" Q RET
+"RTN","SDEC50",138,0)
+ I ($G(OEIEN)),($D(^SCE(OEIEN,0))) D
+"RTN","SDEC50",139,0)
+ . S OESTS=$P($G(^SCE(OEIEN,0)),U,12)
+"RTN","SDEC50",140,0)
+ . S:OESTS]"" OESTS=$P($G(^SD(409.63,OESTS,0)),U,1)
+"RTN","SDEC50",141,0)
+ . I $G(OESTS)="NON-COUNT" D  Q
+"RTN","SDEC50",142,0)
+ . . I $P(APPTNOD,U,14) S RET="NON-COUNT/CHECKED OUT" Q
+"RTN","SDEC50",143,0)
+ . . I $P(APPTNOD,U,3) S RET="NON-COUNT/CHECKED IN"
+"RTN","SDEC50",144,0)
+ . I $G(OESTS)="CHECKED OUT" S RET="CHECKED OUT" Q
+"RTN","SDEC50",145,0)
+ . I $P(APPTNOD,U,14) S RET="ACT REQ/CHECKED OUT" D  Q
+"RTN","SDEC50",146,0)
+ . . I ($G(OESTS)=""),($P($G(^SCE(OEIEN,0)),U,7)) S RET="CHECKED OUT"
+"RTN","SDEC50",147,0)
+ . I $P(APPTNOD,U,3) S RET="ACT REQ/CHECKED IN"
+"RTN","SDEC50",148,0)
+ Q RET
+"RTN","SDEC50",149,0)
+ ;
+"RTN","SDEC50",150,0)
+GETIEN(DFN,SDCLN,SDDT)  ;get SDEC APPOINTMENT id
+"RTN","SDEC50",151,0)
+ N SDF,SDI,SDNOD,SDR
+"RTN","SDEC50",152,0)
+ Q:$G(DFN)="" ""
+"RTN","SDEC50",153,0)
+ Q:$G(SDCLN)="" ""
+"RTN","SDEC50",154,0)
+ Q:$G(SDDT)="" ""
+"RTN","SDEC50",155,0)
+ S (SDF,SDI)=0 F  S SDI=$O(^SDEC(409.84,"CPAT",DFN,SDI)) Q:SDI=""  D  Q:SDF=1
+"RTN","SDEC50",156,0)
+ .S SDNOD=$G(^SDEC(409.84,SDI,0))
+"RTN","SDEC50",157,0)
+ .Q:SDNOD=""
+"RTN","SDEC50",158,0)
+ .S SDR=$$GETRES^SDECUTL(SDCLN)
+"RTN","SDEC50",159,0)
+ .I $P(SDNOD,U,1)=SDDT,$P(SDNOD,U,7)=SDR S SDF=1
+"RTN","SDEC50",160,0)
+ Q $S(SDI'="":SDI,1:"")
+"RTN","SDEC50",161,0)
+ ;
+"RTN","SDEC50",162,0)
+CONS(SDCL,DFN,SDDT) ;check for consult in file 44
+"RTN","SDEC50",163,0)
+ ; SDCL = (required) clinic IEN
+"RTN","SDEC50",164,0)
+ ; DFN  = (required) patient IEN
+"RTN","SDEC50",165,0)
+ ; SDDT = (required) appointment time in FM format
+"RTN","SDEC50",166,0)
+ N CONS,CSTAT,SDI,SDJ
+"RTN","SDEC50",167,0)
+ S CONS=""
+"RTN","SDEC50",168,0)
+ S SDI=0 F  S SDI=$O(^SC(SDCL,"S",SDDT,1,SDI)) Q:SDI'>0  D  Q:CONS'=""
+"RTN","SDEC50",169,0)
+ .I $P($G(^SC(SDCL,"S",SDDT,1,SDI,0)),U,1)=DFN D
+"RTN","SDEC50",170,0)
+ ..S CONS=$G(^SC(SDCL,"S",SDDT,1,SDI,"CONS"))
+"RTN","SDEC50",171,0)
+ ..I +CONS D
+"RTN","SDEC50",172,0)
+ ...S CSTAT=$P($G(^GMR(123,CONS,0)),U,12)
+"RTN","SDEC50",173,0)
+ ...S:(CSTAT=1!(CSTAT=2)!(CSTAT=13)) CONS=""
+"RTN","SDEC50",174,0)
+ Q CONS
+"RTN","SDEC50",175,0)
+ ;
+"RTN","SDEC50",176,0)
+PCSTGET(SDECY,DFN,SDCL,SDBEG,SDEND)  ;GET patient clinic status for a clinic for a given time frame - has the patient been seen by the given Clinic in the past 24 months
+"RTN","SDEC50",177,0)
+ ;PCSTGET(SDECY,DFN,SDCL,SDBEG,SDEND)  external parameter tag is in SDEC
+"RTN","SDEC50",178,0)
+ ;INPUT:
+"RTN","SDEC50",179,0)
+ ;  DFN   = (required) Patient ID - Pointer to the PATIENT file 2  (lookup by name is not accurate if duplicates)
+"RTN","SDEC50",180,0)
+ ;  SDCL  = (required) Clinic code - Pointer to HOSPITAL LOCATION file
+"RTN","SDEC50",181,0)
+ ;  SDBEG = (optional)  Begin date in external format; defaults to 730 days previous (24 months)
+"RTN","SDEC50",182,0)
+ ;  SDEND = (optional)  End date in external format; defaults to today
+"RTN","SDEC50",183,0)
+ ;RETURN:
+"RTN","SDEC50",184,0)
+ ; Successful Return:
+"RTN","SDEC50",185,0)
+ ;   a single entry in the global array indicating that patient has or has
+"RTN","SDEC50",186,0)
+ ;   not been seen.
+"RTN","SDEC50",187,0)
+ ;   "T00020RETURNCODE^T00100TEXT"
+"RTN","SDEC50",188,0)
+ ; Caught Exception Return:
+"RTN","SDEC50",189,0)
+ ;   A single entry in the Global Array in the format "-1^<error text>"
+"RTN","SDEC50",190,0)
+ ;   "T00020RETURNCODE^T00100TEXT"
+"RTN","SDEC50",191,0)
+ ; Unexpected Exception Return:
+"RTN","SDEC50",192,0)
+ ;     Handled by the RPC Broker.
+"RTN","SDEC50",193,0)
+ ;     M errors are trapped by the use of M and Kernel error handling.
+"RTN","SDEC50",194,0)
+ ;     The RPC execution stops and the RPC Broker sends the error generated
+"RTN","SDEC50",195,0)
+ ;     text back to the client.
+"RTN","SDEC50",196,0)
+ N SDASD,SDECI,SDS,STOP,SDYN,SDSCL
+"RTN","SDEC50",197,0)
+ ;N SDSNOD,SDSD,SDSTP,SDT,SDVSP,SDWL,SDYN  alb/jsm 658 commented out since variables not used here
+"RTN","SDEC50",198,0)
+ N X,Y,%DT,APIEN
+"RTN","SDEC50",199,0)
+ S SDECI=0
+"RTN","SDEC50",200,0)
+ S SDECY="^TMP(""SDEC50"","_$J_",""PCSTGET"")"
+"RTN","SDEC50",201,0)
+ K @SDECY
+"RTN","SDEC50",202,0)
+ ; data header
+"RTN","SDEC50",203,0)
+ S @SDECY@(0)="T00020RETURNCODE^T00100TEXT"_$C(30)
+"RTN","SDEC50",204,0)
+ ;check for valid Patient
+"RTN","SDEC50",205,0)
+ I '+DFN D ERR1^SDECERR(-1,"Invalid Patient ID.",SDECI,SDECY) Q
+"RTN","SDEC50",206,0)
+ I '$D(^DPT(DFN,0)) D ERR1^SDECERR(-1,"Invalid Patient ID.",SDECI,SDECY) Q
+"RTN","SDEC50",207,0)
+ ;check for valid Clinic
+"RTN","SDEC50",208,0)
+ I '+SDCL D ERR1^SDECERR(-1,"Invalid Clinic ID.",SDECI,SDECY) Q
+"RTN","SDEC50",209,0)
+ I '$D(^SC(SDCL,0)) D ERR1^SDECERR(-1,"Invalid Clinic ID.",SDECI,SDECY) Q
+"RTN","SDEC50",210,0)
+ ;check times
+"RTN","SDEC50",211,0)
+ I $G(SDBEG)'="" S %DT="" S X=$P(SDBEG,"@",1) D ^%DT S SDBEG=Y I Y=-1 S SDBEG=""
+"RTN","SDEC50",212,0)
+ S:$G(SDBEG)="" SDBEG=$P($$FMADD^XLFDT($$NOW^XLFDT,-730),".",1)
+"RTN","SDEC50",213,0)
+ I $G(SDEND)'="" S %DT="" S X=$P(SDEND,"@",1) D ^%DT S SDEND=Y I Y=-1 S SDEND=""   ;alb/sat 665 - remove Q
+"RTN","SDEC50",214,0)
+ S:$G(SDEND)="" SDEND=$P($$NOW^XLFDT,".",1)
+"RTN","SDEC50",215,0)
+ S STOP=$$CLSTOP(SDCL)   ;get stop code number  alb/jsm 658 updated to use new CLSTOP call
+"RTN","SDEC50",216,0)
+ I '+STOP D ERR1^SDECERR(-1,"Clinic "_$P($G(^SC(+$G(SDCL),0)),U,1)_" does not have a STOP CODE NUMBER defined.",SDECI,SDECY) Q
+"RTN","SDEC50",217,0)
+ S SDYN="NO"
+"RTN","SDEC50",218,0)
+ D CHKPT
+"RTN","SDEC50",219,0)
+ ;look in HOSPITAL LOCATION
+"RTN","SDEC50",220,0)
+ ; alb/jsm 658 removing this block of code since we already loop through patient appointments for evaluation
+"RTN","SDEC50",221,0)
+ ;I SDYN'="YES" D
+"RTN","SDEC50",222,0)
+ ;.S SDS=SDBEG F  S SDS=$O(^SC(SDCL,"S",SDS)) Q:SDS'>0  Q:SDS>SDEND  D  Q:SDYN="YES"
+"RTN","SDEC50",223,0)
+ ;..S APIEN=$$FIND^SDAM2(DFN,SDS,SDCL)
+"RTN","SDEC50",224,0)
+ ;..Q:APIEN=""
+"RTN","SDEC50",225,0)
+ ;..S:$P($G(^SC(SDCL,"S",SDS,1,APIEN,"C")),U,1)'="" SDYN="YES"
+"RTN","SDEC50",226,0)
+ S SDECI=SDECI+1 S @SDECY@(SDECI)="0^"_SDYN_$C(30,31)
+"RTN","SDEC50",227,0)
+ Q
+"RTN","SDEC50",228,0)
+ ;
+"RTN","SDEC50",229,0)
+CLSTOP(CLINIC)  ;Return clinic stop code for clinic
+"RTN","SDEC50",230,0)
+ Q:$G(CLINIC)="" 0 ;Verify clinic is passed in
+"RTN","SDEC50",231,0)
+ Q $P($G(^SC(CLINIC,0)),U,7) ;Return the stop code for the clinic
+"RTN","SDEC50",232,0)
+ ;
+"RTN","SDEC50",233,0)
+CHKPT  ; alb/jsm 658 added to be used by PCSTGET and PCST2GET
+"RTN","SDEC50",234,0)
+ N SDSCO
+"RTN","SDEC50",235,0)
+ S SDS=0 F  S SDS=$O(^DPT(DFN,"S",SDS)) Q:SDS=""  D  Q:SDYN="YES"   ;alb/sat 665 - start with SDS=0 instead of ""
+"RTN","SDEC50",236,0)
+ .S SDSCL=$P($G(^DPT(DFN,"S",SDS,0)),U,1)
+"RTN","SDEC50",237,0)
+ .I $$CLSTOP(SDSCL)=STOP D
+"RTN","SDEC50",238,0)
+ ..S APIEN=$$FIND^SDAM2(DFN,SDS,SDSCL)
+"RTN","SDEC50",239,0)
+ ..Q:APIEN=""
+"RTN","SDEC50",240,0)
+ ..S SDSCO=$P($P($G(^SC(SDSCL,"S",SDS,1,+APIEN,"C")),U,3),".",1)
+"RTN","SDEC50",241,0)
+ ..S:(SDSCO'="")&(SDSCO'<SDBEG)&(SDSCO'>SDEND) SDYN="YES"
+"RTN","SDEC50",242,0)
+ Q
+"RTN","SDEC50",243,0)
+ ;
+"RTN","SDEC50",244,0)
+PCST2GET(SDECY,DFN,STOP,SDBEG,SDEND)  ;GET patient clinic status for a service/specialty (clinic stop) for a given time frame - has the patient been seen any clinics with the given service/specialty (clinic stop) in the past 24 months
+"RTN","SDEC50",245,0)
+ ;PCST2GET(SDECY,DFN,STOP,SDBEG,SDEND)  external parameter tag is in SDEC
+"RTN","SDEC50",246,0)
+ ;INPUT:
+"RTN","SDEC50",247,0)
+ ;  DFN     = (required) Patient ID - Pointer to the PATIENT file 2  (lookup by name is not accurate if duplicates)
+"RTN","SDEC50",248,0)
+ ;  STOP    = (required) CLINIC STOP or Service/Specialty name - NAME from the SD WL SERVICE/SPECIALTY file - looks for 1st active
+"RTN","SDEC50",249,0)
+ ;                       OR - Pointer to the CLINIC STOP file
+"RTN","SDEC50",250,0)
+ ;  SDBEG   = (optional)  Begin date in external format; defaults to 730 days previous (24 months)
+"RTN","SDEC50",251,0)
+ ;  SDEND   = (optional)  End date in external format; defaults to today
+"RTN","SDEC50",252,0)
+ ;RETURN:
+"RTN","SDEC50",253,0)
+ ; Successful Return:
+"RTN","SDEC50",254,0)
+ ;   a single entry in the global array indicating that patient has or has
+"RTN","SDEC50",255,0)
+ ;   not been seen.
+"RTN","SDEC50",256,0)
+ ;   "T00020RETURNCODE^T00100TEXT"
+"RTN","SDEC50",257,0)
+ ; Caught Exception Return:
+"RTN","SDEC50",258,0)
+ ;   A single entry in the Global Array in the format "-1^<error text>"
+"RTN","SDEC50",259,0)
+ ;   "T00020RETURNCODE^T00100TEXT"
+"RTN","SDEC50",260,0)
+ ; Unexpected Exception Return:
+"RTN","SDEC50",261,0)
+ ;     Handled by the RPC Broker.
+"RTN","SDEC50",262,0)
+ ;     M errors are trapped by the use of M and Kernel error handling.
+"RTN","SDEC50",263,0)
+ ;     The RPC execution stops and the RPC Broker sends the error generated
+"RTN","SDEC50",264,0)
+ ;     text back to the client.
+"RTN","SDEC50",265,0)
+ N SDASD,SDF,SDSCN,SDECI,SDSNOD,SDSD,SDSTP,SDT,SDVSP,SDWL,SDYN
+"RTN","SDEC50",266,0)
+ N H,WLSRVSP,X,Y,%DT
+"RTN","SDEC50",267,0)
+ S WLSRVSP=""
+"RTN","SDEC50",268,0)
+ S (SDF,SDECI,SDSCN)=0
+"RTN","SDEC50",269,0)
+ S SDECY="^TMP(""SDEC50"","_$J_",""PCST2GET"")"
+"RTN","SDEC50",270,0)
+ K @SDECY
+"RTN","SDEC50",271,0)
+ ; data header
+"RTN","SDEC50",272,0)
+ S @SDECY@(0)="T00020RETURNCODE^T00100TEXT"_$C(30)
+"RTN","SDEC50",273,0)
+ ;check for valid Patient
+"RTN","SDEC50",274,0)
+ I '+DFN D ERR1^SDECERR(-1,"Invalid Patient ID.",SDECI,SDECY) Q
+"RTN","SDEC50",275,0)
+ I '$D(^DPT(DFN,0)) D ERR1^SDECERR(-1,"Invalid Patient ID.",SDECI,SDECY) Q
+"RTN","SDEC50",276,0)
+ ;check for valid Service/Specialty
+"RTN","SDEC50",277,0)
+ S STOP=$G(STOP)
+"RTN","SDEC50",278,0)
+ ;I +SDSVSP,$D(^SDWL(409.31,SDSVSP,0)) S SDSCN=$P($G(^SDWL(409.31,SDSVSP,0)),U,1) S SDF=1
+"RTN","SDEC50",279,0)
+ I +STOP,'$D(^DIC(40.7,STOP,0)) D ERR1^SDECERR(-1,"Invalid stop code.",SDECI,SDECY) Q
+"RTN","SDEC50",280,0)
+ I +STOP S SDSCN=$$GET1^DIQ(40.7,STOP_",",.01) S SDF=1
+"RTN","SDEC50",281,0)
+ I 'SDF,'+STOP D
+"RTN","SDEC50",282,0)
+ .S H="" F  S H=$O(^DIC(40.7,"B",STOP,H)) Q:H=""  D  Q:+STOP
+"RTN","SDEC50",283,0)
+ ..I $P(^DIC(40.7,H,0),U,3)'="",$P(^DIC(40.7,H,0),U,3)<$$NOW^XLFDT() Q
+"RTN","SDEC50",284,0)
+ ..S STOP=H
+"RTN","SDEC50",285,0)
+ I '+STOP D ERR1^SDECERR(-1,"Invalid Stop code.",SDECI,SDECY) Q
+"RTN","SDEC50",286,0)
+ ;check times
+"RTN","SDEC50",287,0)
+ I $G(SDBEG)'="" S %DT="" S X=$P(SDBEG,"@",1) D ^%DT S SDBEG=Y I Y=-1 S SDBEG=""
+"RTN","SDEC50",288,0)
+ S:$G(SDBEG)="" SDBEG=$P($$FMADD^XLFDT($$NOW^XLFDT,-730),".",1)
+"RTN","SDEC50",289,0)
+ I $G(SDEND)'="" S %DT="" S X=$P(SDEND,"@",1) D ^%DT S SDEND=Y I Y=-1 S SDEND="" Q
+"RTN","SDEC50",290,0)
+ S:$G(SDEND)="" SDEND=$P($$NOW^XLFDT,".",1)
+"RTN","SDEC50",291,0)
+ S SDYN="NO"
+"RTN","SDEC50",292,0)
+ ;D LOOKWL  alb/jsm 658 removed only concerned with patient appts that have a check-out date/time
+"RTN","SDEC50",293,0)
+ ;I SDYN'="YES" S SDCL=0 F  S SDCL=$O(^SC(SDCL)) Q:SDCL'>0  D  Q:SDYN="YES"
+"RTN","SDEC50",294,0)
+ ;.S SDCLN=$$CLSTOP(SDCL)  ; alb/jsm 658 updated to use CLSTOP $P($G(^SC(SDCL,0)),U,7)
+"RTN","SDEC50",295,0)
+ ;.D:SDCLN=STOP LOOK
+"RTN","SDEC50",296,0)
+ D CHKPT
+"RTN","SDEC50",297,0)
+ S SDECI=SDECI+1 S @SDECY@(SDECI)="0^"_SDYN_$C(30,31)
+"RTN","SDEC50",298,0)
+ Q
+"RTN","SDEC50",299,0)
+ ;
+"RTN","SDEC50",300,0)
+LOOK ;
+"RTN","SDEC50",301,0)
+ ;look in PATIENT Appointments
+"RTN","SDEC50",302,0)
+ I SDYN'="YES" D
+"RTN","SDEC50",303,0)
+ .S SDS="" F  S SDS=$O(^DPT(DFN,"S",SDS)) Q:SDS=""  D  Q:SDYN="YES"
+"RTN","SDEC50",304,0)
+ ..S SDSD=$$GET1^DIQ(2.98,SDS_","_DFN_",",.001,"I")
+"RTN","SDEC50",305,0)
+ ..I (SDSD'<SDBEG)&(SDSD'>SDEND) D
+"RTN","SDEC50",306,0)
+ ...I $P($G(^DPT(DFN,"S",SDS,0)),U,1)=SDCL D
+"RTN","SDEC50",307,0)
+ ....S APIEN=$$FIND^SDAM2(DFN,SDS,SDCL)
+"RTN","SDEC50",308,0)
+ ....I APIEN'="",$G(^SC(SDCL,"S",SDS,1,APIEN,"C"))'="" S SDYN="YES"
+"RTN","SDEC50",309,0)
+ ;look in HOSPITAL LOCATION
+"RTN","SDEC50",310,0)
+ I SDYN'="YES" D
+"RTN","SDEC50",311,0)
+ .S SDS=SDBEG F  S SDS=$O(^SC(SDCL,"S",SDS)) Q:SDS'>0  Q:SDS>SDEND  D  Q:SDYN="YES"
+"RTN","SDEC50",312,0)
+ ..S APIEN=$$FIND^SDAM2(DFN,SDS,SDCL)
+"RTN","SDEC50",313,0)
+ ..Q:APIEN=""
+"RTN","SDEC50",314,0)
+ ..S:$P($G(^SC(SDCL,"S",SDS,1,APIEN,"C")),U,1)'="" SDYN="YES"
+"RTN","SDEC50",315,0)
+ Q
+"RTN","SDEC50",316,0)
+ ;
+"RTN","SDEC50",317,0)
+LOOKWL ;
+"RTN","SDEC50",318,0)
+ ;look in SD WAIT LIST file for STOP stop code
+"RTN","SDEC50",319,0)
+ S SDWL="" F  S SDWL=$O(^SDWL(409.3,"B",DFN,SDWL)) Q:SDWL=""  D  Q:SDYN="YES"
+"RTN","SDEC50",320,0)
+ .S SDSD=$P($G(^SDWL(409.3,SDWL,0)),U,23)
+"RTN","SDEC50",321,0)
+ .I (SDSD'<SDBEG)&(SDSD'>SDEND) D
+"RTN","SDEC50",322,0)
+ ..S SDSTP=$P($G(^SDWL(409.3,SDWL,"SDAPT")),U,4)
+"RTN","SDEC50",323,0)
+ ..I SDSTP=STOP S SDYN="YES"
+"RTN","SDEC50",324,0)
+ .Q:SDYN="YES"
+"RTN","SDEC50",325,0)
+ Q
+"RTN","SDEC50",326,0)
+ ;
+"RTN","SDEC50",327,0)
+PCSGET(SDECY,SDSVSP,SDCL)  ;GET clinics for a service/specialty (clinic stop)  ;alb/sat 658 add SDCL
+"RTN","SDEC50",328,0)
+ ;PCSGET(SDECY,SDSVSP)  external parameter tag is in SDEC
+"RTN","SDEC50",329,0)
+ ;INPUT:
+"RTN","SDEC50",330,0)
+ ;  SDSVSP  = (required) Service/Specialty name - NAME from the SD WL SERVICE/SPECIALTY file - looks for 1st active
+"RTN","SDEC50",331,0)
+ ;                       OR - Pointer to the SD WL SERVICE/SPECIALTY file
+"RTN","SDEC50",332,0)
+ ;RETURN:
+"RTN","SDEC50",333,0)
+ ; Successful Return:
+"RTN","SDEC50",334,0)
+ ;   global array containing Clinic IEN and Name of matching Hospital Locations
+"RTN","SDEC50",335,0)
+ ;   CLINSTOP  - pointer to CLINIC STOP file 40.7
+"RTN","SDEC50",336,0)
+ ;   CLINIEN   - pointer to the HOSPITAL LOCATION file 44
+"RTN","SDEC50",337,0)
+ ;   CLINNAME  - NAME from the HOSPITAL LOCATION file
+"RTN","SDEC50",338,0)
+ ; Caught Exception Return:
+"RTN","SDEC50",339,0)
+ ;   A single entry in the Global Array in the format "-1^<error text>"
+"RTN","SDEC50",340,0)
+ ;   "T00020RETURNCODE^T00100TEXT"
+"RTN","SDEC50",341,0)
+ ; Unexpected Exception Return:
+"RTN","SDEC50",342,0)
+ ;     Handled by the RPC Broker.
+"RTN","SDEC50",343,0)
+ ;     M errors are trapped by the use of M and Kernel error handling.
+"RTN","SDEC50",344,0)
+ ;     The RPC execution stops and the RPC Broker sends the error generated
+"RTN","SDEC50",345,0)
+ ;     text back to the client.
+"RTN","SDEC50",346,0)
+ N SDASD,SDSCN,SDECI,SDSNOD,SDSD,SDSTP,SDT,SDVSP,SDWL
+"RTN","SDEC50",347,0)
+ N H,WLSRVSP,X,Y
+"RTN","SDEC50",348,0)
+ S WLSRVSP=""
+"RTN","SDEC50",349,0)
+ S (SDECI,SDSCN)=0
+"RTN","SDEC50",350,0)
+ S SDECY="^TMP(""SDEC50"","_$J_",""PCSGET"")"
+"RTN","SDEC50",351,0)
+ K @SDECY
+"RTN","SDEC50",352,0)
+ ; data header
+"RTN","SDEC50",353,0)
+ S @SDECY@(0)="T00030CLINSTOP^T00030CLINIEN^T00030CLINNAME"_$C(30)
+"RTN","SDEC50",354,0)
+ ;check clinic   ;alb/sat 658
+"RTN","SDEC50",355,0)
+ S SDCL=$G(SDCL)
+"RTN","SDEC50",356,0)
+ I SDCL'="",$D(^SC(SDCL,0)) D
+"RTN","SDEC50",357,0)
+ .S SDSVSP=$$GET1^DIQ(44,SDCL_",",8,"I")
+"RTN","SDEC50",358,0)
+ ;check for valid Service/Specialty
+"RTN","SDEC50",359,0)
+ S SDSVSP=$G(SDSVSP)
+"RTN","SDEC50",360,0)
+ I SDSVSP="" D ERR1^SDECERR(-1,"Service/Specialty ID required",SDECI,SDECY) Q
+"RTN","SDEC50",361,0)
+ I +SDSVSP,$D(^SDWL(409.31,+SDSVSP,0)) S SDSCN=$P($G(^SDWL(409.31,SDSVSP,0)),U,1)
+"RTN","SDEC50",362,0)
+ I '+SDSVSP D
+"RTN","SDEC50",363,0)
+ .S H=0 F  S H=$O(^DIC(40.7,"B",SDSVSP,H)) Q:H=""  D  Q:SDSCN'=0
+"RTN","SDEC50",364,0)
+ ..I $P(^DIC(40.7,H,0),U,3)'="",$P(^DIC(40.7,H,0),U,3)<$$NOW^XLFDT() Q
+"RTN","SDEC50",365,0)
+ ..S SDSCN=H
+"RTN","SDEC50",366,0)
+ I '+SDSCN D ERR1^SDECERR(-1,"Invalid Service/Specialty.",SDECI,SDECY) Q
+"RTN","SDEC50",367,0)
+ S SDCL=0 F  S SDCL=$O(^SC(SDCL)) Q:SDCL'>0  D
+"RTN","SDEC50",368,0)
+ .S SDCLN=$P($G(^SC(SDCL,0)),U,7)
+"RTN","SDEC50",369,0)
+ .I $$GET1^DIQ(44,SDCL_",",2505,)'="",$$GET1^DIQ(44,SDCL_",",2506)="" Q   ;only active
+"RTN","SDEC50",370,0)
+ .I SDCLN=SDSCN S SDECI=SDECI+1 S @SDECY@(SDECI)=SDSCN_U_SDCL_U_$P($G(^SC(SDCL,0)),U,1)_$C(30)
+"RTN","SDEC50",371,0)
+ S @SDECY@(SDECI)=@SDECY@(SDECI)_$C(31)
+"RTN","SDEC50",372,0)
+ Q
+"RTN","SDECDATA")
+0^3^B33222031^n/a
+"RTN","SDECDATA",1,0)
+SDECDATA ;ALB/WTC - VISTA SCHEDULING GUI ; 01 May 2019  10:52 AM
+"RTN","SDECDATA",2,0)
+ ;;5.3;Scheduling;**723**;;Build 21
+"RTN","SDECDATA",3,0)
+ ;;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","SDECDATA",4,0)
+ Q
+"RTN","SDECDATA",5,0)
+ ;
+"RTN","SDECDATA",6,0)
+AUTO ;
+"RTN","SDECDATA",7,0)
+ ;
+"RTN","SDECDATA",8,0)
+ ;  Run correction code non-interactively.
+"RTN","SDECDATA",9,0)
+ ;
+"RTN","SDECDATA",10,0)
+ N AUTO S AUTO="YES" G APPT1 ;
+"RTN","SDECDATA",11,0)
+ ;
+"RTN","SDECDATA",12,0)
+APPT ;
+"RTN","SDECDATA",13,0)
+ ;
+"RTN","SDECDATA",14,0)
+ ;  Scan appointment file (#409.84) for entries without resources.  Identify correct resource using appointment list in patient file (#2).
+"RTN","SDECDATA",15,0)
+ ;
+"RTN","SDECDATA",16,0)
+ N AUTO S AUTO="NO" ;
+"RTN","SDECDATA",17,0)
+ ;
+"RTN","SDECDATA",18,0)
+APPT1 ;
+"RTN","SDECDATA",19,0)
+ ;
+"RTN","SDECDATA",20,0)
+ N DA,APPTDATA,CNT,STARTTIME,DFN,CANCELLED,APPTMADE,MADEBY,PTDATA,FAILED,CLINICSFND,CLINIC,DA1,RESOURCE,MATCHED,RESPONSE,STOP,FIXED,%DT,PTR44,Y ;
+"RTN","SDECDATA",21,0)
+ ;
+"RTN","SDECDATA",22,0)
+ ;  DA        = Appointment (#409.84) pointer
+"RTN","SDECDATA",23,0)
+ ;  APPTDATA  = Zero node of appointment file entry
+"RTN","SDECDATA",24,0)
+ ;  CNT       = Number of appointments with missing resources found
+"RTN","SDECDATA",25,0)
+ ;  STARTTIME = Appointment start time
+"RTN","SDECDATA",26,0)
+ ;  DFN       = Patient (#2) pointer
+"RTN","SDECDATA",27,0)
+ ;  CANCELLED = Appointment cancelled flag (from #409.84)
+"RTN","SDECDATA",28,0)
+ ;  APPTMADE  = Date appointment was made (from #409.84)
+"RTN","SDECDATA",29,0)
+ ;  MADEBY    = DUZ of person making appointment (from #409.84)
+"RTN","SDECDATA",30,0)
+ ;  PTDATA    = Appointment data record from patient file
+"RTN","SDECDATA",31,0)
+ ;  FAILED    = Total number of appointment records that could not be matched
+"RTN","SDECDATA",32,0)
+ ;  CLINICFND = Array indexed by clinic name of appointment records matched with patient appointments
+"RTN","SDECDATA",33,0)
+ ;  CLINIC    = Clinic name (.01 field of file #44)
+"RTN","SDECDATA",34,0)
+ ;  DA1       = Appointment (#409.84) pointer
+"RTN","SDECDATA",35,0)
+ ;  RESOURCE  = Resource (#409.831) pointer
+"RTN","SDECDATA",36,0)
+ ;  MATCHED   = 1 if a second appointment for same patient at same time in the same clinic is found, 0 otherwise
+"RTN","SDECDATA",37,0)
+ ;  RESPONSE  = User response
+"RTN","SDECDATA",38,0)
+ ;  STOP      = 1 if user enters ^ to stop processing or time out occurs
+"RTN","SDECDATA",39,0)
+ ;  FIXED     = Count of number of appointment records updated
+"RTN","SDECDATA",40,0)
+ ;
+"RTN","SDECDATA",41,0)
+ W !!,"Appointments without resources checker",! ;
+"RTN","SDECDATA",42,0)
+ ;
+"RTN","SDECDATA",43,0)
+ S CNT=0,FAILED=0,STOP=0,FIXED=0 ;
+"RTN","SDECDATA",44,0)
+ ;
+"RTN","SDECDATA",45,0)
+ ;  Scan is in date order starting with the user indicated date.
+"RTN","SDECDATA",46,0)
+ ;
+"RTN","SDECDATA",47,0)
+ W !,"Select starting date to check",! ;
+"RTN","SDECDATA",48,0)
+ S %DT="AX" D ^%DT Q:Y<0  S STARTTIME=$P(Y,".",1) ;
+"RTN","SDECDATA",49,0)
+ ;
+"RTN","SDECDATA",50,0)
+ ;  Scan appointment file in date order.
+"RTN","SDECDATA",51,0)
+ ;
+"RTN","SDECDATA",52,0)
+ F  S STARTTIME=$O(^SDEC(409.84,"B",STARTTIME)) Q:'STARTTIME  Q:STOP  S DA=0  F  S DA=$O(^SDEC(409.84,"B",STARTTIME,DA)) Q:'DA  S APPTDATA=^SDEC(409.84,DA,0) I $P(APPTDATA,U,7)="" S CNT=CNT+1 D  Q:STOP  ;
+"RTN","SDECDATA",53,0)
+ . ;
+"RTN","SDECDATA",54,0)
+ . S DFN=$P(APPTDATA,U,5),CANCELLED=$S($P(APPTDATA,U,12)="":0,1:1),APPTMADE=$P(APPTDATA,U,9),MADEBY=$P(APPTDATA,U,8) ;
+"RTN","SDECDATA",55,0)
+ . W !,CNT,". ",$$FMTE^XLFDT(STARTTIME),?25,$P(^DPT(DFN,0),U,1) ;
+"RTN","SDECDATA",56,0)
+ . ;
+"RTN","SDECDATA",57,0)
+ . ;  Find appointment in patient file.
+"RTN","SDECDATA",58,0)
+ . ;
+"RTN","SDECDATA",59,0)
+ . I '$D(^DPT(DFN,"S",STARTTIME,0)) W ?55,"No match" S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",60,0)
+ . S PTDATA=^DPT(DFN,"S",STARTTIME,0),PTR44=$P(PTDATA,U,1),CLINIC=$P(^SC(PTR44,0),U,1) W ?55,CLINIC ;
+"RTN","SDECDATA",61,0)
+ . S CLINICSFND(CLINIC)=$G(CLINICSFND(CLINIC))+1 ;
+"RTN","SDECDATA",62,0)
+ . ;
+"RTN","SDECDATA",63,0)
+ . ;  Determine if date appointment made and scheduler match.
+"RTN","SDECDATA",64,0)
+ . ;
+"RTN","SDECDATA",65,0)
+ . I $P(PTDATA,U,2)="C"!($P(PTDATA,U,2)="PC") W !?5,"Cancelled in patient file",$S(CANCELLED:" and in appointment file",1:" but NOT in appointment file") ;
+"RTN","SDECDATA",66,0)
+ . W !?5,"Date appointment made: ",$S($P(PTDATA,U,19)=$P(APPTMADE,".",1):" - same in both",1:"Appt: "_$$FMTE^XLFDT($P(APPTMADE,".",1))_" Patient: "_$$FMTE^XLFDT($P(PTDATA,U,19))) ;
+"RTN","SDECDATA",67,0)
+ . W !?5,"Appointment made by: ",$S($P(PTDATA,U,18)=MADEBY:" - same in both",1:"Appt: "_$P(^VA(200,MADEBY,0),U,1)_" Patient: "_$P(^VA(200,$P(PTDATA,U,18),0),U,1)) ;
+"RTN","SDECDATA",68,0)
+ . W ! ;
+"RTN","SDECDATA",69,0)
+ . ;
+"RTN","SDECDATA",70,0)
+ . ;  Determine if another appointment file entry is for the same time and clinic
+"RTN","SDECDATA",71,0)
+ . ;
+"RTN","SDECDATA",72,0)
+ . S DA1=0,MATCHED=0 F  S DA1=$O(^SDEC(409.84,"CPAT",DFN,DA1)) Q:'DA1  D  Q:MATCHED  ;
+"RTN","SDECDATA",73,0)
+ .. ;
+"RTN","SDECDATA",74,0)
+ .. Q:$P(^SDEC(409.84,DA1,0),U,1)'=STARTTIME  S RESOURCE=$P(^(0),U,11) Q:RESOURCE=""  ;
+"RTN","SDECDATA",75,0)
+ .. I $P(^SDEC(409.831,RESOURCE,0),U,4)=PTR44 W !,"Another appointment exists for the same patient at the same time in the listed clinic." S FAILED=FAILED+1,MATCHED=1 ;
+"RTN","SDECDATA",76,0)
+ .. ;
+"RTN","SDECDATA",77,0)
+ . Q:MATCHED  ;
+"RTN","SDECDATA",78,0)
+ . I $P(PTDATA,U,2)="C"!($P(PTDATA,U,2)="PC"),'CANCELLED S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",79,0)
+ . I $P(PTDATA,U,2)'="C",$P(PTDATA,U,2)'="PC",CANCELLED S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",80,0)
+ . I $P(PTDATA,U,19)'=$P(APPTMADE,".",1) S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",81,0)
+ . I $P(PTDATA,U,18)'=MADEBY S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",82,0)
+ . ;
+"RTN","SDECDATA",83,0)
+ . ;  Ask user if he/she wants to update Appointment file with resource of same name as clinic.
+"RTN","SDECDATA",84,0)
+ . ;
+"RTN","SDECDATA",85,0)
+ . S RESOURCE=$O(^SDEC(409.831,"B",CLINIC,0)) ;
+"RTN","SDECDATA",86,0)
+ . I 'RESOURCE W !,"No resource exists with the name '",CLINIC,"'.",!,"Create the required resource before updating this appointment.",! Q  ;
+"RTN","SDECDATA",87,0)
+ . I $P($G(^SDEC(409.831,RESOURCE,0)),U,4)'=PTR44 W !,"Resource not associated with ",CLINIC,".  Correct this before updating this appointment.",! Q  ;
+"RTN","SDECDATA",88,0)
+ . I AUTO="YES" D UPDAPPT(DA,RESOURCE) W "...updated",! S FIXED=FIXED+1 Q  ;
+"RTN","SDECDATA",89,0)
+ . W !,"Make '",CLINIC,"' the resource for this appointment?" R " NO// ",RESPONSE:180 I '$T!(RESPONSE="^") S STOP=1 Q  ;
+"RTN","SDECDATA",90,0)
+ . I RESPONSE="YES"!(RESPONSE="Y")!(RESPONSE="yes")!(RESPONSE="y") D UPDAPPT(DA,RESOURCE) W "...updated",! S FIXED=FIXED+1 Q  ;
+"RTN","SDECDATA",91,0)
+ . W "... skipped",! Q  ;
+"RTN","SDECDATA",92,0)
+ ;
+"RTN","SDECDATA",93,0)
+ Q:'CNT  ;
+"RTN","SDECDATA",94,0)
+ ;
+"RTN","SDECDATA",95,0)
+ W !,"TOTAL FOUND: ",CNT,!,"FIXES MADE: ",FIXED,!,"FAILED TO MATCH: ",FAILED,!,"MATCHING PERCENTAGE: ",$J(CNT-FAILED/CNT*100,4,1),"%",! ;
+"RTN","SDECDATA",96,0)
+ W !,"MISSING CLINICS MATCHED TO: " ;
+"RTN","SDECDATA",97,0)
+ S CLINIC="" F  S CLINIC=$O(CLINICSFND(CLINIC)) Q:CLINIC=""  W ?30,CLINIC,?62,$J(CLINICSFND(CLINIC),$L(CNT))," = ",$J(CLINICSFND(CLINIC)/CNT*100,4,1),"%",! ;
+"RTN","SDECDATA",98,0)
+ ;
+"RTN","SDECDATA",99,0)
+ Q  ;
+"RTN","SDECDATA",100,0)
+ ;
+"RTN","SDECDATA",101,0)
+UPDAPPT(APPT,RESOURCE) ;
+"RTN","SDECDATA",102,0)
+ ;
+"RTN","SDECDATA",103,0)
+ N DIE,DA,DR ;
+"RTN","SDECDATA",104,0)
+ S DIE=409.84,DA=APPT,DR=".07///"_RESOURCE ;
+"RTN","SDECDATA",105,0)
+ D ^DIE ;
+"RTN","SDECDATA",106,0)
+ Q  ;
+"RTN","SDECDATA",107,0)
+ ;
+"RTN","SDECDATA",108,0)
+JUNK ;
+"RTN","SDECDATA",109,0)
+ ;
+"RTN","SDECDATA",110,0)
+ N DA,X,PTR ;
+"RTN","SDECDATA",111,0)
+ S DA=0 F  S DA=$O(^SC(DA)) Q:'DA  S X=$P(^(DA,0),U,1) I $P(^(0),U,3)="C" W !,X S PTR=0,PTR=$$GETRES^SDECUTL(DA) W ?30,": ",$S(PTR:$P(^SDEC(409.831,PTR,0),U,1),1:"") ;
+"RTN","SDECDATA",112,0)
+ ;
+"RTN","SDECDATA",113,0)
+ Q  ;
+"RTN","SDECDATA",114,0)
+ ;
+"RTN","SDVSIT2")
+0^4^B4100533^B3594172
+"RTN","SDVSIT2",1,0)
+SDVSIT2 ;ALB/RMO/MJK - Encounter Utilities;28 DEC 1992 10:00 am
+"RTN","SDVSIT2",2,0)
+ ;;5.3;Scheduling;**27,44,132,723**;08/13/93;Build 21
+"RTN","SDVSIT2",3,0)
+ ;;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","SDVSIT2",4,0)
+ ;; ;
+"RTN","SDVSIT2",5,0)
+ ;
+"RTN","SDVSIT2",6,0)
+GETAPT(DFN,SDT,SDCL,SDVIEN) ;Look-up Outpatient Encounter IEN for Appt
+"RTN","SDVSIT2",7,0)
+ ; This utility will return the existing IEN for an Outpatient
+"RTN","SDVSIT2",8,0)
+ ; Encounter. If it fails to find an existing encounter,
+"RTN","SDVSIT2",9,0)
+ ; it will create a new Encounter and return the new IEN.
+"RTN","SDVSIT2",10,0)
+ ;
+"RTN","SDVSIT2",11,0)
+ ; Input  -- DFN      Patient file IEN
+"RTN","SDVSIT2",12,0)
+ ;           SDT      Appointment Date/Time
+"RTN","SDVSIT2",13,0)
+ ;           SDCL     Hospital Location file IEN for Appt
+"RTN","SDVSIT2",14,0)
+ ;           SDVIEN   Visit file pointer [optional]
+"RTN","SDVSIT2",15,0)
+ ; Output -- Outpatient Encounter file IEN
+"RTN","SDVSIT2",16,0)
+ N Y
+"RTN","SDVSIT2",17,0)
+ S Y=+$P($G(^DPT(DFN,"S",SDT,0)),"^",20)
+"RTN","SDVSIT2",18,0)
+ I 'Y D APPT^SDVSIT(DFN,SDT,SDCL,$G(SDVIEN)) S Y=+$P($G(^DPT(DFN,"S",SDT,0)),"^",20)
+"RTN","SDVSIT2",19,0)
+ IF Y D VIEN(Y,$G(SDVIEN))
+"RTN","SDVSIT2",20,0)
+ Q +$G(Y)
+"RTN","SDVSIT2",21,0)
+ ;
+"RTN","SDVSIT2",22,0)
+GETAE(SDVIEN,SDATYPE,SDOPE) ;Look-up Outpatient Encounter IEN for add/edit
+"RTN","SDVSIT2",23,0)
+ ; Input  -- SDVIEN   Visit file pointer
+"RTN","SDVSIT2",24,0)
+ ;           SDATYPE  Appointment Type     [optional]
+"RTN","SDVSIT2",25,0)
+ ;           SDOEP    Parent encounter ien [optional]
+"RTN","SDVSIT2",26,0)
+ ;           
+"RTN","SDVSIT2",27,0)
+ ; Output -- Outpatient Encounter file IEN
+"RTN","SDVSIT2",28,0)
+ N Y
+"RTN","SDVSIT2",29,0)
+ S Y=+$O(^SCE("AVSIT",SDVIEN,0))
+"RTN","SDVSIT2",30,0)
+ I 'Y D AEUPD^SDVSIT(SDVIEN,$G(SDATYPE),$G(SDOPE)) S Y=+$O(^SCE("AVSIT",SDVIEN,0))
+"RTN","SDVSIT2",31,0)
+ IF Y D VIEN(Y,SDVIEN)
+"RTN","SDVSIT2",32,0)
+ Q +$G(Y)
+"RTN","SDVSIT2",33,0)
+ ;
+"RTN","SDVSIT2",34,0)
+GETDISP(DFN,SDT,SDVIEN) ;Look-up Outpatient Encounter IEN for disposition
+"RTN","SDVSIT2",35,0)
+ ; Input  -- DFN      Patient file IEN
+"RTN","SDVSIT2",36,0)
+ ;           SDT      Disposition Date/Time
+"RTN","SDVSIT2",37,0)
+ ;           SDVIEN   Visit file pointer [optional]
+"RTN","SDVSIT2",38,0)
+ ; Output -- Outpatient Encounter file IEN
+"RTN","SDVSIT2",39,0)
+ N Y
+"RTN","SDVSIT2",40,0)
+ S Y=+$P($G(^DPT(DFN,"DIS",9999999-SDT,0)),"^",18)
+"RTN","SDVSIT2",41,0)
+ I 'Y D DISP^SDVSIT(DFN,SDT,$G(SDVIEN)) S Y=+$P($G(^DPT(DFN,"DIS",9999999-SDT,0)),"^",18)
+"RTN","SDVSIT2",42,0)
+ IF Y D VIEN(Y,$G(SDVIEN))
+"RTN","SDVSIT2",43,0)
+ Q +$G(Y)
+"RTN","SDVSIT2",44,0)
+ ;
+"RTN","SDVSIT2",45,0)
+OKAE(SDOE) ; -- is add/edit ok for credit
+"RTN","SDVSIT2",46,0)
+ N Y,X S Y=1
+"RTN","SDVSIT2",47,0)
+ S X=$G(^SCE(SDOE,0))
+"RTN","SDVSIT2",48,0)
+ I $$REQ^SDM1A(+X)="CO",'$P(X,U,7) S Y=0
+"RTN","SDVSIT2",49,0)
+ Q Y
+"RTN","SDVSIT2",50,0)
+ ;
+"RTN","SDVSIT2",51,0)
+VIEN(SDOE,SDVIEN) ; -- stuff in Visit IEN if not already set
+"RTN","SDVSIT2",52,0)
+ ;                 -- needed for those sites that don't have
+"RTN","SDVSIT2",53,0)
+ ;                    scheduling turned on in Visit Tracking
+"RTN","SDVSIT2",54,0)
+ ; Required input   SDOE = Outpatient Encounter pointer
+"RTN","SDVSIT2",55,0)
+ ;                SDVIEN = Visit file pointer or null or zero
+"RTN","SDVSIT2",56,0)
+ ;
+"RTN","SDVSIT2",57,0)
+ ; -- quit if no vien passed
+"RTN","SDVSIT2",58,0)
+ G VIENQ:'SDVIEN
+"RTN","SDVSIT2",59,0)
+ N Y,SDOE0
+"RTN","SDVSIT2",60,0)
+ S SDOE0=$G(^SCE(+SDOE,0))
+"RTN","SDVSIT2",61,0)
+ ; -- quit is no encounter
+"RTN","SDVSIT2",62,0)
+ G VIENQ:SDOE0=""
+"RTN","SDVSIT2",63,0)
+ ; -- set visit ien if vien not already set
+"RTN","SDVSIT2",64,0)
+ IF '$P(SDOE0,U,5) D
+"RTN","SDVSIT2",65,0)
+ . N DIE,DA,DR
+"RTN","SDVSIT2",66,0)
+ . S DIE="^SCE(",DA=SDOE,DR=".05////"_SDVIEN D ^DIE
+"RTN","SDVSIT2",67,0)
+ IF '$P(SDOE0,U,4) D
+"RTN","SDVSIT2",68,0)
+ . N DIE,DA,DR,SDLOC
+"RTN","SDVSIT2",69,0)
+ . S SDLOC=$P($G(^AUPNVSIT(SDVIEN,0)),U,22)
+"RTN","SDVSIT2",70,0)
+ . IF SDLOC S DIE="^SCE(",DA=SDOE,DR=".04////"_SDLOC D ^DIE
+"RTN","SDVSIT2",71,0)
+VIENQ Q
+"RTN","SDVSIT2",72,0)
+ ;
+"VER")
+8.0^22.2
+**END**
+**END**
+

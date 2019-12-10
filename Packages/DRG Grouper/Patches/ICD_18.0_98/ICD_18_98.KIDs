@@ -1,0 +1,1200 @@
+KIDS Distribution saved on Oct 08, 2019@13:53:32
+ICD*18.0*98 install
+**KIDS**:ICD*18.0*98^
+
+**INSTALL NAME**
+ICD*18.0*98
+"BLD",11155,0)
+ICD*18.0*98^DRG GROUPER^0^3191008^y
+"BLD",11155,1,0)
+^^2^2^3190507^^^
+"BLD",11155,1,1,0)
+Patch ICD*18.0*98 will update multiple field names and descriptions
+"BLD",11155,1,2,0)
+in the DRG (#80.2) file that are no longer updated or in use.
+"BLD",11155,4,0)
+^9.64PA^80.2^1
+"BLD",11155,4,80.2,0)
+80.2
+"BLD",11155,4,80.2,2,0)
+^9.641^80.2^8
+"BLD",11155,4,80.2,2,80.2,0)
+DRG  (File-top level)
+"BLD",11155,4,80.2,2,80.2,1,0)
+^9.6411^900^15
+"BLD",11155,4,80.2,2,80.2,1,.06,0)
+*SURGERY
+"BLD",11155,4,80.2,2,80.2,1,2,0)
+*WEIGHT
+"BLD",11155,4,80.2,2,80.2,1,3,0)
+*LOW TRIM(days)
+"BLD",11155,4,80.2,2,80.2,1,4,0)
+*HIGH TRIM(days)
+"BLD",11155,4,80.2,2,80.2,1,5,0)
+*MDC#
+"BLD",11155,4,80.2,2,80.2,1,7,0)
+*WEIGHT(nonAffil)
+"BLD",11155,4,80.2,2,80.2,1,7.5,0)
+*WEIGHT(IntAffil)
+"BLD",11155,4,80.2,2,80.2,1,10,0)
+*AVG LENGTH OF STAY(days)
+"BLD",11155,4,80.2,2,80.2,1,11,0)
+*LOCAL LOW TRIM(Days)
+"BLD",11155,4,80.2,2,80.2,1,12,0)
+*LOCAL HIGH TRIM(Days)
+"BLD",11155,4,80.2,2,80.2,1,13,0)
+*LOCAL BREAKEVEN
+"BLD",11155,4,80.2,2,80.2,1,14,0)
+*ACTIVATION DATE
+"BLD",11155,4,80.2,2,80.2,1,15,0)
+*INACTIVE
+"BLD",11155,4,80.2,2,80.2,1,16,0)
+*INACTIVATION DATE
+"BLD",11155,4,80.2,2,80.2,1,900,0)
+*REFERENCE
+"BLD",11155,4,80.2,2,80.21,0)
+*DESCRIPTION  (sub-file)
+"BLD",11155,4,80.2,2,80.21,1,0)
+^9.6411^.01^1
+"BLD",11155,4,80.2,2,80.21,1,.01,0)
+*DESCRIPTION
+"BLD",11155,4,80.2,2,80.22,0)
+FISCAL YEAR WEIGHTS&TRIMS  (sub-file)
+"BLD",11155,4,80.2,2,80.22,1,0)
+^9.6411^7^5
+"BLD",11155,4,80.2,2,80.22,1,2.5,0)
+*WEIGHT(nonAffil)
+"BLD",11155,4,80.2,2,80.22,1,2.6,0)
+*WEIGHT(IntAfill)
+"BLD",11155,4,80.2,2,80.22,1,5,0)
+*OBSOLETE
+"BLD",11155,4,80.2,2,80.22,1,6,0)
+*LOCAL LOW TRIM(days)
+"BLD",11155,4,80.2,2,80.22,1,7,0)
+*LOCAL HIGH TRIM(days)
+"BLD",11155,4,80.2,2,80.23,0)
+*BREAKEVEN FISCAL YEAR/QUARTER  (sub-file)
+"BLD",11155,4,80.2,2,80.23,1,0)
+^9.6411^2^2
+"BLD",11155,4,80.2,2,80.23,1,.01,0)
+*BREAKEVEN FISCAL YEAR/QUARTER
+"BLD",11155,4,80.2,2,80.23,1,2,0)
+*MEDICAL CENTER BREAKEVEN
+"BLD",11155,4,80.2,2,80.24,0)
+*SERVICE  (sub-file)
+"BLD",11155,4,80.2,2,80.24,1,0)
+^9.6411^1^2
+"BLD",11155,4,80.2,2,80.24,1,.01,0)
+*SERVICE
+"BLD",11155,4,80.2,2,80.24,1,1,0)
+*BREAK EVEN DAYS
+"BLD",11155,4,80.2,2,80.266,0)
+EFFECTIVE DATE  (sub-file)
+"BLD",11155,4,80.2,2,80.266,1,0)
+^9.6411^.06^4
+"BLD",11155,4,80.2,2,80.266,1,.01,0)
+EFFECTIVE DATE
+"BLD",11155,4,80.2,2,80.266,1,.03,0)
+STATUS
+"BLD",11155,4,80.2,2,80.266,1,.05,0)
+MDC#
+"BLD",11155,4,80.2,2,80.266,1,.06,0)
+SURGERY
+"BLD",11155,4,80.2,2,80.268,0)
+DESCRIPTION (VERSIONED)  (sub-file)
+"BLD",11155,4,80.2,2,80.268,1,0)
+^9.6411^.01^1
+"BLD",11155,4,80.2,2,80.268,1,.01,0)
+EFFECTIVE DATE
+"BLD",11155,4,80.2,2,80.271,0)
+*DRG GROUPER EFFECIVE DATE  (sub-file)
+"BLD",11155,4,80.2,2,80.271,1,0)
+^9.6411^2^3
+"BLD",11155,4,80.2,2,80.271,1,.01,0)
+*DRG GROUPER EFFECIVE DATE
+"BLD",11155,4,80.2,2,80.271,1,1,0)
+*REFERENCE
+"BLD",11155,4,80.2,2,80.271,1,2,0)
+*COMPLICATION/COMORBIDITY FLAG
+"BLD",11155,4,80.2,222)
+y^n^p^^^^n^^n
+"BLD",11155,4,80.2,224)
+
+"BLD",11155,4,"APDD",80.2,80.2)
+
+"BLD",11155,4,"APDD",80.2,80.2,.06)
+
+"BLD",11155,4,"APDD",80.2,80.2,2)
+
+"BLD",11155,4,"APDD",80.2,80.2,3)
+
+"BLD",11155,4,"APDD",80.2,80.2,4)
+
+"BLD",11155,4,"APDD",80.2,80.2,5)
+
+"BLD",11155,4,"APDD",80.2,80.2,7)
+
+"BLD",11155,4,"APDD",80.2,80.2,7.5)
+
+"BLD",11155,4,"APDD",80.2,80.2,10)
+
+"BLD",11155,4,"APDD",80.2,80.2,11)
+
+"BLD",11155,4,"APDD",80.2,80.2,12)
+
+"BLD",11155,4,"APDD",80.2,80.2,13)
+
+"BLD",11155,4,"APDD",80.2,80.2,14)
+
+"BLD",11155,4,"APDD",80.2,80.2,15)
+
+"BLD",11155,4,"APDD",80.2,80.2,16)
+
+"BLD",11155,4,"APDD",80.2,80.2,900)
+
+"BLD",11155,4,"APDD",80.2,80.21)
+
+"BLD",11155,4,"APDD",80.2,80.21,.01)
+
+"BLD",11155,4,"APDD",80.2,80.22)
+
+"BLD",11155,4,"APDD",80.2,80.22,2.5)
+
+"BLD",11155,4,"APDD",80.2,80.22,2.6)
+
+"BLD",11155,4,"APDD",80.2,80.22,5)
+
+"BLD",11155,4,"APDD",80.2,80.22,6)
+
+"BLD",11155,4,"APDD",80.2,80.22,7)
+
+"BLD",11155,4,"APDD",80.2,80.23)
+
+"BLD",11155,4,"APDD",80.2,80.23,.01)
+
+"BLD",11155,4,"APDD",80.2,80.23,2)
+
+"BLD",11155,4,"APDD",80.2,80.24)
+
+"BLD",11155,4,"APDD",80.2,80.24,.01)
+
+"BLD",11155,4,"APDD",80.2,80.24,1)
+
+"BLD",11155,4,"APDD",80.2,80.266)
+
+"BLD",11155,4,"APDD",80.2,80.266,.01)
+
+"BLD",11155,4,"APDD",80.2,80.266,.03)
+
+"BLD",11155,4,"APDD",80.2,80.266,.05)
+
+"BLD",11155,4,"APDD",80.2,80.266,.06)
+
+"BLD",11155,4,"APDD",80.2,80.268)
+
+"BLD",11155,4,"APDD",80.2,80.268,.01)
+
+"BLD",11155,4,"APDD",80.2,80.271)
+
+"BLD",11155,4,"APDD",80.2,80.271,.01)
+
+"BLD",11155,4,"APDD",80.2,80.271,1)
+
+"BLD",11155,4,"APDD",80.2,80.271,2)
+
+"BLD",11155,4,"B",80.2,80.2)
+
+"BLD",11155,6.3)
+11
+"BLD",11155,"ABPKG")
+n
+"BLD",11155,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11155,"KRN",.4,0)
+.4
+"BLD",11155,"KRN",.401,0)
+.401
+"BLD",11155,"KRN",.402,0)
+.402
+"BLD",11155,"KRN",.403,0)
+.403
+"BLD",11155,"KRN",.5,0)
+.5
+"BLD",11155,"KRN",.84,0)
+.84
+"BLD",11155,"KRN",1.5,0)
+1.5
+"BLD",11155,"KRN",1.6,0)
+1.6
+"BLD",11155,"KRN",1.61,0)
+1.61
+"BLD",11155,"KRN",1.62,0)
+1.62
+"BLD",11155,"KRN",3.6,0)
+3.6
+"BLD",11155,"KRN",3.8,0)
+3.8
+"BLD",11155,"KRN",9.2,0)
+9.2
+"BLD",11155,"KRN",9.8,0)
+9.8
+"BLD",11155,"KRN",19,0)
+19
+"BLD",11155,"KRN",19.1,0)
+19.1
+"BLD",11155,"KRN",101,0)
+101
+"BLD",11155,"KRN",409.61,0)
+409.61
+"BLD",11155,"KRN",771,0)
+771
+"BLD",11155,"KRN",779.2,0)
+779.2
+"BLD",11155,"KRN",870,0)
+870
+"BLD",11155,"KRN",8989.51,0)
+8989.51
+"BLD",11155,"KRN",8989.52,0)
+8989.52
+"BLD",11155,"KRN",8994,0)
+8994
+"BLD",11155,"KRN","B",.4,.4)
+
+"BLD",11155,"KRN","B",.401,.401)
+
+"BLD",11155,"KRN","B",.402,.402)
+
+"BLD",11155,"KRN","B",.403,.403)
+
+"BLD",11155,"KRN","B",.5,.5)
+
+"BLD",11155,"KRN","B",.84,.84)
+
+"BLD",11155,"KRN","B",1.5,1.5)
+
+"BLD",11155,"KRN","B",1.6,1.6)
+
+"BLD",11155,"KRN","B",1.61,1.61)
+
+"BLD",11155,"KRN","B",1.62,1.62)
+
+"BLD",11155,"KRN","B",3.6,3.6)
+
+"BLD",11155,"KRN","B",3.8,3.8)
+
+"BLD",11155,"KRN","B",9.2,9.2)
+
+"BLD",11155,"KRN","B",9.8,9.8)
+
+"BLD",11155,"KRN","B",19,19)
+
+"BLD",11155,"KRN","B",19.1,19.1)
+
+"BLD",11155,"KRN","B",101,101)
+
+"BLD",11155,"KRN","B",409.61,409.61)
+
+"BLD",11155,"KRN","B",771,771)
+
+"BLD",11155,"KRN","B",779.2,779.2)
+
+"BLD",11155,"KRN","B",870,870)
+
+"BLD",11155,"KRN","B",8989.51,8989.51)
+
+"BLD",11155,"KRN","B",8989.52,8989.52)
+
+"BLD",11155,"KRN","B",8994,8994)
+
+"BLD",11155,"QDEF")
+^^^^NO^^^^NO^^YES
+"BLD",11155,"QUES",0)
+^9.62^^
+"BLD",11155,"REQB",0)
+^9.611^^
+"FIA",80.2)
+DRG
+"FIA",80.2,0)
+^ICD(
+"FIA",80.2,0,0)
+80.2I
+"FIA",80.2,0,1)
+y^n^p^^^^n^^n
+"FIA",80.2,0,10)
+
+"FIA",80.2,0,11)
+
+"FIA",80.2,0,"RLRO")
+
+"FIA",80.2,0,"VR")
+18.0^ICD
+"FIA",80.2,80.2)
+1
+"FIA",80.2,80.2,.06)
+
+"FIA",80.2,80.2,1)
+
+"FIA",80.2,80.2,2)
+
+"FIA",80.2,80.2,3)
+
+"FIA",80.2,80.2,4)
+
+"FIA",80.2,80.2,5)
+
+"FIA",80.2,80.2,7)
+
+"FIA",80.2,80.2,7.5)
+
+"FIA",80.2,80.2,10)
+
+"FIA",80.2,80.2,11)
+
+"FIA",80.2,80.2,12)
+
+"FIA",80.2,80.2,13)
+
+"FIA",80.2,80.2,14)
+
+"FIA",80.2,80.2,15)
+
+"FIA",80.2,80.2,16)
+
+"FIA",80.2,80.2,30)
+
+"FIA",80.2,80.2,66)
+
+"FIA",80.2,80.2,68)
+
+"FIA",80.2,80.2,71)
+
+"FIA",80.2,80.2,900)
+
+"FIA",80.2,80.21)
+1
+"FIA",80.2,80.21,.01)
+
+"FIA",80.2,80.22)
+1
+"FIA",80.2,80.22,2.5)
+
+"FIA",80.2,80.22,2.6)
+
+"FIA",80.2,80.22,5)
+
+"FIA",80.2,80.22,6)
+
+"FIA",80.2,80.22,7)
+
+"FIA",80.2,80.23)
+1
+"FIA",80.2,80.23,.01)
+
+"FIA",80.2,80.23,1)
+
+"FIA",80.2,80.23,2)
+
+"FIA",80.2,80.24)
+1
+"FIA",80.2,80.24,.01)
+
+"FIA",80.2,80.24,1)
+
+"FIA",80.2,80.266)
+1
+"FIA",80.2,80.266,.01)
+
+"FIA",80.2,80.266,.03)
+
+"FIA",80.2,80.266,.05)
+
+"FIA",80.2,80.266,.06)
+
+"FIA",80.2,80.268)
+1
+"FIA",80.2,80.268,.01)
+
+"FIA",80.2,80.271)
+1
+"FIA",80.2,80.271,.01)
+
+"FIA",80.2,80.271,1)
+
+"FIA",80.2,80.271,2)
+
+"MBREQ")
+0
+"PKG",185,-1)
+1^1
+"PKG",185,0)
+DRG GROUPER^ICD^DRG GROUPER
+"PKG",185,22,0)
+^9.49I^1^1
+"PKG",185,22,1,0)
+18.0^3001024^3001201^568
+"PKG",185,22,1,"PAH",1,0)
+98^3191008
+"PKG",185,22,1,"PAH",1,1,0)
+^^2^2^3191008
+"PKG",185,22,1,"PAH",1,1,1,0)
+Patch ICD*18.0*98 will update multiple field names and descriptions
+"PKG",185,22,1,"PAH",1,1,2,0)
+in the DRG (#80.2) file that are no longer updated or in use.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"UP",80.2,80.21,-1)
+80.2^1
+"UP",80.2,80.21,0)
+80.21
+"UP",80.2,80.22,-1)
+80.2^FY
+"UP",80.2,80.22,0)
+80.22
+"UP",80.2,80.23,-1)
+80.2^BE
+"UP",80.2,80.23,0)
+80.23
+"UP",80.2,80.24,-2)
+80.2^BE
+"UP",80.2,80.24,-1)
+80.23^S
+"UP",80.2,80.24,0)
+80.24
+"UP",80.2,80.266,-1)
+80.2^66
+"UP",80.2,80.266,0)
+80.266
+"UP",80.2,80.268,-1)
+80.2^68
+"UP",80.2,80.268,0)
+80.268
+"UP",80.2,80.271,-1)
+80.2^2
+"UP",80.2,80.271,0)
+80.271
+"VER")
+8.0^22.2
+"^DD",80.2,80.2,.06,0)
+*SURGERY^S^1:YES;^0;6^Q
+"^DD",80.2,80.2,.06,21,0)
+^^4^4^3190507^
+"^DD",80.2,80.2,.06,21,1,0)
+This field is OBSOLETE as of 10/1/2004. This field is now being
+"^DD",80.2,80.2,.06,21,2,0)
+updated/maintained in the EFFECTIVE DATE multiple.
+"^DD",80.2,80.2,.06,21,3,0)
+ 
+"^DD",80.2,80.2,.06,21,4,0)
+This is a flag set =1 if this is a surgical DRG.
+"^DD",80.2,80.2,.06,23,0)
+^.001^2^2^3190507^^^^
+"^DD",80.2,80.2,.06,23,1,0)
+This is now in the SURGERY field (#.06) of the EFFECTIVE DATE multiple 
+"^DD",80.2,80.2,.06,23,2,0)
+(#80.266).
+"^DD",80.2,80.2,.06,"DT")
+3190408
+"^DD",80.2,80.2,1,0)
+*DESCRIPTION^80.21A^^1;0
+"^DD",80.2,80.2,1,21,0)
+^^3^3^3190507^
+"^DD",80.2,80.2,1,21,1,0)
+This field is OBSOLETE as of 10/1/2004.
+"^DD",80.2,80.2,1,21,2,0)
+ 
+"^DD",80.2,80.2,1,21,3,0)
+This is the description of the DRG
+"^DD",80.2,80.2,1,"DT")
+3190411
+"^DD",80.2,80.2,2,0)
+*WEIGHT^NJ8,3^^0;2^K:+X'=X!(X>9999)!(X<0)!(X?.E1"."4N.N) X
+"^DD",80.2,80.2,2,3)
+Type a Number between 0 and 9999, 3 Decimal Digits
+"^DD",80.2,80.2,2,21,0)
+^^5^5^3190411^
+"^DD",80.2,80.2,2,21,1,0)
+This field is OBSOLETE as of 10/1/2015. This field is now being
+"^DD",80.2,80.2,2,21,2,0)
+updated/maintained in the FISCAL YEAR WEIGHTS&TRIMS multiple.
+"^DD",80.2,80.2,2,21,3,0)
+ 
+"^DD",80.2,80.2,2,21,4,0)
+This field contains the weighted work unit (WWU) value assigned
+"^DD",80.2,80.2,2,21,5,0)
+to the DRG.
+"^DD",80.2,80.2,2,23,0)
+^^2^2^3190411^
+"^DD",80.2,80.2,2,23,1,0)
+This is now in the WEIGHT field (#2) of the FISCAL YEAR
+"^DD",80.2,80.2,2,23,2,0)
+WEIGHTS&TRIMS multiple (#80.22).
+"^DD",80.2,80.2,2,"DT")
+3190411
+"^DD",80.2,80.2,3,0)
+*LOW TRIM(days)^NJ2,0^^0;3^K:+X'=X!(X>99)!(X<0)!(X?.E1"."1N.N) X
+"^DD",80.2,80.2,3,3)
+TYPE A WHOLE NUMBER BETWEEN 0 AND 99
+"^DD",80.2,80.2,3,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.2,3,21,1,0)
+This field is OBSOLETE as of 10/1/2015. This field is now being
+"^DD",80.2,80.2,3,21,2,0)
+updated/maintained in the FISCAL YEAR WEIGHTS&TRIMS multiple.
+"^DD",80.2,80.2,3,21,3,0)
+ 
+"^DD",80.2,80.2,3,21,4,0)
+Lowest # days of stay for this DRG
+"^DD",80.2,80.2,3,23,0)
+^^2^2^3190411^
+"^DD",80.2,80.2,3,23,1,0)
+This is now in the LOW TRIM(days) field (#3) of the FISCAL YEAR
+"^DD",80.2,80.2,3,23,2,0)
+WEIGHTS&TRIMS multiple (#80.22).
+"^DD",80.2,80.2,3,"DT")
+3190411
+"^DD",80.2,80.2,4,0)
+*HIGH TRIM(days)^NJ3,0^^0;4^K:+X'=X!(X>999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",80.2,80.2,4,3)
+Type a Number between 0 and 999, 0 Decimal Digits
+"^DD",80.2,80.2,4,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.2,4,21,1,0)
+This field is OBSOLETE as of 10/1/2015. This field is now being
+"^DD",80.2,80.2,4,21,2,0)
+updated/maintained in the FISCAL YEAR WEIGHTS&TRIMS multiple.
+"^DD",80.2,80.2,4,21,3,0)
+ 
+"^DD",80.2,80.2,4,21,4,0)
+Highest # of days of stay for this DRG
+"^DD",80.2,80.2,4,23,0)
+^^2^2^3190411^
+"^DD",80.2,80.2,4,23,1,0)
+This is now in the HIGH TRIM(days) field (#4) of the FISCAL YEAR
+"^DD",80.2,80.2,4,23,2,0)
+WEIGHTS&TRIMS multiple (#80.22).
+"^DD",80.2,80.2,4,"DT")
+3190411
+"^DD",80.2,80.2,5,0)
+*MDC#^P80.3'^ICM(^0;5^Q
+"^DD",80.2,80.2,5,.1)
+MAJOR DIAGNOSTIC CATEGORY
+"^DD",80.2,80.2,5,3)
+Enter the MDC name or number this DRG is associated with.
+"^DD",80.2,80.2,5,21,0)
+^^4^4^3190507^
+"^DD",80.2,80.2,5,21,1,0)
+This field is OBSOLETE as of 10/1/2004. This field is now being
+"^DD",80.2,80.2,5,21,2,0)
+updated/maintained in the EFFECTIVE DATE multiple.
+"^DD",80.2,80.2,5,21,3,0)
+ 
+"^DD",80.2,80.2,5,21,4,0)
+MDC for this DRG.
+"^DD",80.2,80.2,5,23,0)
+^.001^2^2^3190507^^^
+"^DD",80.2,80.2,5,23,1,0)
+This is now in the MDC# field (#.05) of the EFFECTIVE DATE multiple 
+"^DD",80.2,80.2,5,23,2,0)
+(#80.266).
+"^DD",80.2,80.2,5,"DT")
+3190502
+"^DD",80.2,80.2,7,0)
+*WEIGHT(nonAffil)^NJ8,2^^0;7^K:+X'=X!(X>10000)!(X<0)!(X?.E1"."3N.N) X
+"^DD",80.2,80.2,7,3)
+TYPE A NUMBER BETWEEN 0 AND 10000
+"^DD",80.2,80.2,7,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.2,7,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,7,21,2,0)
+ 
+"^DD",80.2,80.2,7,21,3,0)
+This field contains the weighted work unit (WWU) value assigned to the 
+"^DD",80.2,80.2,7,21,4,0)
+DRG.
+"^DD",80.2,80.2,7,"DT")
+3190411
+"^DD",80.2,80.2,7.5,0)
+*WEIGHT(IntAffil)^NJ8,2^^0;11^K:+X'=X!(X>10000)!(X<0)!(X?.E1"."3N.N) X
+"^DD",80.2,80.2,7.5,3)
+TYPE A NUMBER BETWEEN 0 AND 10000
+"^DD",80.2,80.2,7.5,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.2,7.5,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,7.5,21,2,0)
+ 
+"^DD",80.2,80.2,7.5,21,3,0)
+This field contains the weighted work unit (WWU) value assigned to the 
+"^DD",80.2,80.2,7.5,21,4,0)
+DRG.
+"^DD",80.2,80.2,7.5,"DT")
+3190411
+"^DD",80.2,80.2,10,0)
+*AVG LENGTH OF STAY(days)^NJ8,2^^0;8^K:+X'=X!(X>99999)!(X<0)!(X?.E1"."3N.N) X
+"^DD",80.2,80.2,10,3)
+TYPE A NUMBER BETWEEN 0 AND 99999
+"^DD",80.2,80.2,10,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.2,10,21,1,0)
+This field is OBSOLETE as of 10/1/2015. This field is now being
+"^DD",80.2,80.2,10,21,2,0)
+updated/maintained in the FISCAL YEAR WEIGHTS&TRIMS multiple.
+"^DD",80.2,80.2,10,21,3,0)
+ 
+"^DD",80.2,80.2,10,21,4,0)
+Average Length of Stay for this DRG
+"^DD",80.2,80.2,10,23,0)
+^^2^2^3190411^
+"^DD",80.2,80.2,10,23,1,0)
+This is now in the AVG LENGTH OF STAY(days) field (#4.5) of the FISCAL
+"^DD",80.2,80.2,10,23,2,0)
+YEAR WEIGHTS&TRIMS multiple (#80.22).
+"^DD",80.2,80.2,10,"DT")
+3190411
+"^DD",80.2,80.2,11,0)
+*LOCAL LOW TRIM(Days)^NJ2,0^^0;9^K:+X'=X!(X>99)!(X<0)!(X?.E1"."1N.N) X
+"^DD",80.2,80.2,11,3)
+TYPE A WHOLE NUMBER BETWEEN 0 AND 99
+"^DD",80.2,80.2,11,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.2,11,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,11,21,2,0)
+ 
+"^DD",80.2,80.2,11,21,3,0)
+Low # days of stay for this (local) facility
+"^DD",80.2,80.2,11,"DT")
+3190411
+"^DD",80.2,80.2,12,0)
+*LOCAL HIGH TRIM(Days)^NJ3,0^^0;10^K:+X'=X!(X>999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",80.2,80.2,12,3)
+Type a Number between 0 and 999, 0 Decimal Digits
+"^DD",80.2,80.2,12,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.2,12,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,12,21,2,0)
+ 
+"^DD",80.2,80.2,12,21,3,0)
+High # days of stay for this (local) facility
+"^DD",80.2,80.2,12,"DT")
+3190411
+"^DD",80.2,80.2,13,0)
+*LOCAL BREAKEVEN^NJ5,1^^0;12^K:+X'=X!(X>366)!(X<0)!(X?.E1"."2N.N) X
+"^DD",80.2,80.2,13,3)
+Type a Number between 0 and 366, 1 Decimal Digit
+"^DD",80.2,80.2,13,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.2,13,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,13,21,2,0)
+ 
+"^DD",80.2,80.2,13,21,3,0)
+The day on which the actual cost of care equals the estimated allocation
+"^DD",80.2,80.2,13,21,4,0)
+for the assigned medical center.
+"^DD",80.2,80.2,13,"DT")
+3190411
+"^DD",80.2,80.2,14,0)
+*ACTIVATION DATE^D^^0;13^S %DT="EX" D ^%DT S X=Y K:Y<1 X
+"^DD",80.2,80.2,14,3)
+ENTER ACTIVATION DATE FOR THE DRG CODE
+"^DD",80.2,80.2,14,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.2,14,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,14,21,2,0)
+ 
+"^DD",80.2,80.2,14,21,3,0)
+ACTIVATION DATE FOR THE DRG CODE
+"^DD",80.2,80.2,14,"DT")
+3190411
+"^DD",80.2,80.2,15,0)
+*INACTIVE^S^1:INACTIVE;0:ACTIVE;^0;14^Q
+"^DD",80.2,80.2,15,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.2,15,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,15,21,2,0)
+ 
+"^DD",80.2,80.2,15,21,3,0)
+INACTIVE FLAG FOR DRG CODE
+"^DD",80.2,80.2,15,"DT")
+3190411
+"^DD",80.2,80.2,16,0)
+*INACTIVATION DATE^D^^0;15^S %DT="EX" D ^%DT S X=Y K:Y<1 X
+"^DD",80.2,80.2,16,3)
+ENTER DATE CODE BECAME INACTIVE
+"^DD",80.2,80.2,16,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.2,16,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,16,21,2,0)
+ 
+"^DD",80.2,80.2,16,21,3,0)
+DATE THAT THE CODE BECAME INACTIVE
+"^DD",80.2,80.2,16,"DT")
+3190411
+"^DD",80.2,80.2,30,0)
+*BREAKEVEN FISCAL YEAR/QUARTER^80.23^^BE;0
+"^DD",80.2,80.2,30,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.2,30,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,30,21,2,0)
+ 
+"^DD",80.2,80.2,30,21,3,0)
+This field contains the breakeven FY quarter.
+"^DD",80.2,80.2,30,"DT")
+3190411
+"^DD",80.2,80.2,66,0)
+EFFECTIVE DATE^80.266D^^66;0
+"^DD",80.2,80.2,66,21,0)
+^.001^1^1^3190530^^^^
+"^DD",80.2,80.2,66,21,1,0)
+Effective date of the code set versioned level.
+"^DD",80.2,80.2,68,0)
+DESCRIPTION (VERSIONED)^80.268D^^68;0
+"^DD",80.2,80.2,68,21,0)
+^.001^2^2^3190530^^^
+"^DD",80.2,80.2,68,21,1,0)
+This is a history of the descriptive text to include the date the text 
+"^DD",80.2,80.2,68,21,2,0)
+was first used and the text used.
+"^DD",80.2,80.2,71,0)
+*DRG GROUPER EFFECIVE DATE^80.271D^^2;0
+"^DD",80.2,80.2,71,21,0)
+^^1^1^3190411^
+"^DD",80.2,80.2,71,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,71,"DT")
+3190411
+"^DD",80.2,80.2,900,0)
+*REFERENCE^F^^MC1;1^K:$L(X)>30!($L(X)<3) X
+"^DD",80.2,80.2,900,3)
+Answer must be 3-30 characters in length.
+"^DD",80.2,80.2,900,21,0)
+^.001^4^4^3190502^^
+"^DD",80.2,80.2,900,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.2,900,21,2,0)
+ 
+"^DD",80.2,80.2,900,21,3,0)
+This field contains the name of the routine that contains the
+"^DD",80.2,80.2,900,21,4,0)
+grouper logic for this field.
+"^DD",80.2,80.2,900,"DT")
+3190411
+"^DD",80.2,80.21,0)
+*DESCRIPTION SUB-FIELD^NL^.01^1
+"^DD",80.2,80.21,0,"NM","*DESCRIPTION")
+
+"^DD",80.2,80.21,.01,0)
+*DESCRIPTION^MFJ80^^0;1^K:$L(X)>80!($L(X)<1) X
+"^DD",80.2,80.21,.01,1,0)
+^.1
+"^DD",80.2,80.21,.01,1,1,0)
+80.21^B
+"^DD",80.2,80.21,.01,1,1,1)
+S ^ICD(DA(1),1,"B",$E(X,1,30),DA)=""
+"^DD",80.2,80.21,.01,1,1,2)
+K ^ICD(DA(1),1,"B",$E(X,1,30),DA)
+"^DD",80.2,80.21,.01,1,1,"DT")
+2970528
+"^DD",80.2,80.21,.01,3)
+Answer must be 1-80 characters in length.
+"^DD",80.2,80.21,.01,21,0)
+^^2^2^3190507^
+"^DD",80.2,80.21,.01,21,1,0)
+This field is OBSOLETE as of 10/1/2004. This field is now being
+"^DD",80.2,80.21,.01,21,2,0)
+updated/maintained in the DESCRIPTION (VERSIONED) multiple.
+"^DD",80.2,80.21,.01,23,0)
+^.001^2^2^3190507^^
+"^DD",80.2,80.21,.01,23,1,0)
+This is now in the DESCRIPTION field (#.01) of the DESCRIPTION (VERSIONED)
+"^DD",80.2,80.21,.01,23,2,0)
+multiple (#80.268).
+"^DD",80.2,80.21,.01,"DT")
+3190507
+"^DD",80.2,80.22,2.5,0)
+*WEIGHT(nonAffil)^NJ7,2^^0;8^K:+X'=X!(X>9999)!(X<0)!(X?.E1"."3N.N) X
+"^DD",80.2,80.22,2.5,3)
+TYPE A NUMBER BETWEEN 0 AND 9999
+"^DD",80.2,80.22,2.5,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.22,2.5,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.22,2.5,21,2,0)
+ 
+"^DD",80.2,80.22,2.5,21,3,0)
+This field contains the weighted work unit (WWU) value assigned to the
+"^DD",80.2,80.22,2.5,21,4,0)
+DRG for a given FY.
+"^DD",80.2,80.22,2.5,"DT")
+3190411
+"^DD",80.2,80.22,2.6,0)
+*WEIGHT(IntAfill)^NJ8,2^^0;10^K:+X'=X!(X>10000)!(X<0)!(X?.E1"."3N.N) X
+"^DD",80.2,80.22,2.6,3)
+TYPE A NUMBER BETWEEN 0 AND 10000
+"^DD",80.2,80.22,2.6,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.22,2.6,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.22,2.6,21,2,0)
+ 
+"^DD",80.2,80.22,2.6,21,3,0)
+This field contains the weighted work unit (WWU) value assigned to the
+"^DD",80.2,80.22,2.6,21,4,0)
+DRG for a given FY.
+"^DD",80.2,80.22,2.6,"DT")
+3190411
+"^DD",80.2,80.22,5,0)
+*OBSOLETE^NJ5,0^^0;5^K:+X'=X!(X>99999)!(X<0)!(X?.E1"."1N.N) X
+"^DD",80.2,80.22,5,3)
+TYPE A WHOLE NUMBER BETWEEN 0 AND 99999
+"^DD",80.2,80.22,5,21,0)
+^.001^1^1^3190417^^
+"^DD",80.2,80.22,5,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.22,5,"DT")
+3190417
+"^DD",80.2,80.22,6,0)
+*LOCAL LOW TRIM(days)^NJ2,0^^0;6^K:+X'=X!(X>99)!(X<0)!(X?.E1"."1N.N) X
+"^DD",80.2,80.22,6,3)
+TYPE A WHOLE NUMBER BETWEEN 0 AND 99
+"^DD",80.2,80.22,6,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.22,6,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.22,6,21,2,0)
+ 
+"^DD",80.2,80.22,6,21,3,0)
+This field contains the local low trim days for a given FY.
+"^DD",80.2,80.22,6,"DT")
+3190411
+"^DD",80.2,80.22,7,0)
+*LOCAL HIGH TRIM(days)^NJ3,0^^0;7^K:+X'=X!(X>400)!(X<0)!(X?.E1"."1N.N) X
+"^DD",80.2,80.22,7,3)
+TYPE A WHOLE NUMBER BETWEEN 0 AND 400
+"^DD",80.2,80.22,7,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.22,7,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.22,7,21,2,0)
+ 
+"^DD",80.2,80.22,7,21,3,0)
+This field contains the local high trim days for a given FY
+"^DD",80.2,80.22,7,"DT")
+3190411
+"^DD",80.2,80.23,0)
+*BREAKEVEN FISCAL YEAR/QUARTER SUB-FIELD^^2^3
+"^DD",80.2,80.23,0,"NM","*BREAKEVEN FISCAL YEAR/QUARTER")
+
+"^DD",80.2,80.23,.01,0)
+*BREAKEVEN FISCAL YEAR/QUARTER^NJ3,0XO^^0;1^K:X'?3N!($E(X,3)>4!'$E(X,3)) X I $D(X) S:X>799 X=19_X S:X<800 X=20_X I $D(X) S DINUM=X
+"^DD",80.2,80.23,.01,2)
+S Y(0)=Y S Y=$E(Y,3,5)
+"^DD",80.2,80.23,.01,2.1)
+S Y=$E(Y,3,5)
+"^DD",80.2,80.23,.01,3)
+Enter fiscal year/quarter as 861 for fiscal year 86, first quarter
+"^DD",80.2,80.23,.01,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.23,.01,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.23,.01,21,2,0)
+ 
+"^DD",80.2,80.23,.01,21,3,0)
+This field contains the breakeven FY quarter.
+"^DD",80.2,80.23,.01,"DT")
+3190411
+"^DD",80.2,80.23,1,0)
+*SERVICE^80.24SA^^S;0
+"^DD",80.2,80.23,1,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.23,1,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.23,1,21,2,0)
+ 
+"^DD",80.2,80.23,1,21,3,0)
+This field contains the service for which this breakeven applies.
+"^DD",80.2,80.23,1,"DT")
+3190411
+"^DD",80.2,80.23,2,0)
+*MEDICAL CENTER BREAKEVEN^RNJ5,1^^0;2^K:+X'=X!(X>366)!(X<0)!(X?.E1"."2N.N) X
+"^DD",80.2,80.23,2,3)
+Type a Number between 0 and 366, 1 Decimal Digit allowed
+"^DD",80.2,80.23,2,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.23,2,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.23,2,21,2,0)
+ 
+"^DD",80.2,80.23,2,21,3,0)
+This field contains the breakeven days for the Medical Center.
+"^DD",80.2,80.23,2,"DT")
+3190411
+"^DD",80.2,80.24,0)
+*SERVICE SUB-FIELD^^1^2
+"^DD",80.2,80.24,0,"NM","*SERVICE")
+
+"^DD",80.2,80.24,.01,0)
+*SERVICE^SX^1:MEDICINE;2:NEUROLOGY;3:PSYCHIATRY;4:REHAB MEDICINE;5:SURGERY;^0;1^I $D(X) S DINUM=X
+"^DD",80.2,80.24,.01,3)
+Enter the service for the breakeven factor
+"^DD",80.2,80.24,.01,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.24,.01,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.24,.01,21,2,0)
+ 
+"^DD",80.2,80.24,.01,21,3,0)
+This field contains the service for which this breakeven applies.
+"^DD",80.2,80.24,.01,"DT")
+3190411
+"^DD",80.2,80.24,1,0)
+*BREAK EVEN DAYS^RNJ5,1^^0;2^K:+X'=X!(X>366)!(X<0)!(X?.E1"."2N.N) X
+"^DD",80.2,80.24,1,3)
+Type a Number between 0 and 366, 1 Decimal Digit allowed
+"^DD",80.2,80.24,1,21,0)
+^^3^3^3190411^
+"^DD",80.2,80.24,1,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.24,1,21,2,0)
+ 
+"^DD",80.2,80.24,1,21,3,0)
+This field contains the Breakeven days for the given service.
+"^DD",80.2,80.24,1,"DT")
+3190411
+"^DD",80.2,80.266,0)
+EFFECTIVE DATE SUB-FIELD^^.06^4
+"^DD",80.2,80.266,0,"NM","EFFECTIVE DATE")
+
+"^DD",80.2,80.266,.01,0)
+EFFECTIVE DATE^RD^^0;1^S %DT="EX" D ^%DT S X=Y K:Y<1 X
+"^DD",80.2,80.266,.01,1,0)
+^.1
+"^DD",80.2,80.266,.01,1,1,0)
+80.266^B
+"^DD",80.2,80.266,.01,1,1,1)
+S ^ICD(DA(1),66,"B",$E(X,1,30),DA)=""
+"^DD",80.2,80.266,.01,1,1,2)
+K ^ICD(DA(1),66,"B",$E(X,1,30),DA)
+"^DD",80.2,80.266,.01,3)
+Enter the EFFECTIVE DATE for the DRG data to be retained
+"^DD",80.2,80.266,.01,21,0)
+^.001^1^1^3190530^^^^
+"^DD",80.2,80.266,.01,21,1,0)
+Effective date of the code set versioned level.
+"^DD",80.2,80.266,.01,"DT")
+3190528
+"^DD",80.2,80.266,.03,0)
+STATUS^RS^1:ACTIVE;0:INACTIVE;^0;3^Q
+"^DD",80.2,80.266,.03,3)
+Enter the status flag for the DRG code
+"^DD",80.2,80.266,.03,21,0)
+^^1^1^3190528^
+"^DD",80.2,80.266,.03,21,1,0)
+Status flag for DRG code
+"^DD",80.2,80.266,.03,"DT")
+3190528
+"^DD",80.2,80.266,.05,0)
+MDC#^RP80.3'^ICM(^0;5^Q
+"^DD",80.2,80.266,.05,3)
+Enter the major diagnosis code
+"^DD",80.2,80.266,.05,21,0)
+^^1^1^3190528^
+"^DD",80.2,80.266,.05,21,1,0)
+This is the major diagnosis code for the DRG
+"^DD",80.2,80.266,.05,"DT")
+3190528
+"^DD",80.2,80.266,.06,0)
+SURGERY^RS^1:YES;0:NO;^0;6^Q
+"^DD",80.2,80.266,.06,3)
+Enter the surgery flag for the DRG code
+"^DD",80.2,80.266,.06,21,0)
+^^1^1^3190528^
+"^DD",80.2,80.266,.06,21,1,0)
+Surgery flag for DRG code
+"^DD",80.2,80.266,.06,"DT")
+3190528
+"^DD",80.2,80.268,0)
+DESCRIPTION (VERSIONED) SUB-FIELD^^1^2
+"^DD",80.2,80.268,0,"NM","DESCRIPTION (VERSIONED)")
+
+"^DD",80.2,80.268,.01,0)
+EFFECTIVE DATE^MD^^0;1^S %DT="EX" D ^%DT S X=Y K:2781001>X X
+"^DD",80.2,80.268,.01,1,0)
+^.1
+"^DD",80.2,80.268,.01,1,1,0)
+80.268^B
+"^DD",80.2,80.268,.01,1,1,1)
+S ^ICD(DA(1),68,"B",$E(X,1,30),DA)=""
+"^DD",80.2,80.268,.01,1,1,2)
+K ^ICD(DA(1),68,"B",$E(X,1,30),DA)
+"^DD",80.2,80.268,.01,1,1,"%D",0)
+^^4^4^3040310^
+"^DD",80.2,80.268,.01,1,1,"%D",1,0)
+^ICD(IEN1,68,"B",EFF,IEN2) - Where IEN1 is the internal entry number in 
+"^DD",80.2,80.268,.01,1,1,"%D",2,0)
+the DRG file #80.2, EFF is the effective date for the description (long 
+"^DD",80.2,80.268,.01,1,1,"%D",3,0)
+text), and IEN2 is the internal entry number in the DESCRIPTION 
+"^DD",80.2,80.268,.01,1,1,"%D",4,0)
+(VERSIONED) multiple where the versioned description is stored.  
+"^DD",80.2,80.268,.01,1,2,0)
+80.2^ADS^MUMPS
+"^DD",80.2,80.268,.01,1,2,1)
+S:$L($P($G(^ICD(DA(1),0)),"^",1)) ^ICD("ADS",($P($G(^ICD(DA(1),0)),"^",1)_" "),+X,DA(1),DA)=""
+"^DD",80.2,80.268,.01,1,2,2)
+K:$L($P($G(^ICD(DA(1),0)),"^",1)) ^ICD("ADS",($P($G(^ICD(DA(1),0)),"^",1)_" "),+X,DA(1),DA)
+"^DD",80.2,80.268,.01,1,2,"%D",0)
+^^5^5^3040310^
+"^DD",80.2,80.268,.01,1,2,"%D",1,0)
+^ICD("ADS",(DRG_" "),EFF,IEN1,IEN2) - Where DRG is the DRG Name, EFF is 
+"^DD",80.2,80.268,.01,1,2,"%D",2,0)
+the effective date for the description (long text), IEN1 is the internal 
+"^DD",80.2,80.268,.01,1,2,"%D",3,0)
+entry number in the DRG file (#80.2) and IEN2 is the internal entry 
+"^DD",80.2,80.268,.01,1,2,"%D",4,0)
+number in the DESCRIPTION (VERSIONED) multiple where the versioned long 
+"^DD",80.2,80.268,.01,1,2,"%D",5,0)
+text is stored.  
+"^DD",80.2,80.268,.01,1,2,"DT")
+3040310
+"^DD",80.2,80.268,.01,3)
+Type a date not earlier than OCT 01, 1978.
+"^DD",80.2,80.268,.01,21,0)
+^.001^1^1^3190530^^^
+"^DD",80.2,80.268,.01,21,1,0)
+This is the date the description was first used.
+"^DD",80.2,80.268,.01,"DT")
+3190530
+"^DD",80.2,80.271,0)
+*DRG GROUPER EFFECIVE DATE SUB-FIELD^^1^3
+"^DD",80.2,80.271,0,"NM","*DRG GROUPER EFFECIVE DATE")
+
+"^DD",80.2,80.271,.01,0)
+*DRG GROUPER EFFECIVE DATE^D^^0;1^S %DT="EX" D ^%DT S X=Y K:Y<1 X
+"^DD",80.2,80.271,.01,1,0)
+^.1
+"^DD",80.2,80.271,.01,1,1,0)
+80.271^B
+"^DD",80.2,80.271,.01,1,1,1)
+S ^ICD(DA(1),2,"B",$E(X,1,30),DA)=""
+"^DD",80.2,80.271,.01,1,1,2)
+K ^ICD(DA(1),2,"B",$E(X,1,30),DA)
+"^DD",80.2,80.271,.01,21,0)
+^^6^6^3190411^
+"^DD",80.2,80.271,.01,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.271,.01,21,2,0)
+ 
+"^DD",80.2,80.271,.01,21,3,0)
+This field sets the effective date for the DRGs reference table for a
+"^DD",80.2,80.271,.01,21,4,0)
+given fiscal year. It should normally be the first day of October of the
+"^DD",80.2,80.271,.01,21,5,0)
+fiscal year. Each year a new entry will be created and the DRG's 
+"^DD",80.2,80.271,.01,21,6,0)
+reference table to be used will reside within this field.
+"^DD",80.2,80.271,.01,"DT")
+3190411
+"^DD",80.2,80.271,1,0)
+*REFERENCE^F^^0;3^K:$L(X)>30!($L(X)<3) X
+"^DD",80.2,80.271,1,3)
+Answer must be 3-30 characters in length.
+"^DD",80.2,80.271,1,21,0)
+^^4^4^3190411^
+"^DD",80.2,80.271,1,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.271,1,21,2,0)
+ 
+"^DD",80.2,80.271,1,21,3,0)
+This field contains the name of the routine that contains the grouper 
+"^DD",80.2,80.271,1,21,4,0)
+logic for this field.
+"^DD",80.2,80.271,1,"DT")
+3190411
+"^DD",80.2,80.271,2,0)
+*COMPLICATION/COMORBIDITY FLAG^S^0:No CC or MCC;1:CC present;2:MCC present;3:CC or MCC present;^0;4^Q
+"^DD",80.2,80.271,2,3)
+0=None, 1=CC, 2=MCC and 3=CC or MCC
+"^DD",80.2,80.271,2,21,0)
+^^1^1^3190411^
+"^DD",80.2,80.271,2,21,1,0)
+This field is OBSOLETE as of 10/1/2015.
+"^DD",80.2,80.271,2,"DT")
+3190411
+**END**
+**END**

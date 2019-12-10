@@ -1,0 +1,607 @@
+Released IB*2*627 SEQ #596
+Extracted from mail message
+**KIDS**:IB*2.0*627^
+
+**INSTALL NAME**
+IB*2.0*627
+"BLD",10960,0)
+IB*2.0*627^INTEGRATED BILLING^0^3190131^y
+"BLD",10960,1,0)
+^^2^2^3190131^
+"BLD",10960,1,1,0)
+Please see the IB*2.0*627 patch description for detailed information 
+"BLD",10960,1,2,0)
+regarding this patch.
+"BLD",10960,4,0)
+^9.64PA^^0
+"BLD",10960,6.3)
+21
+"BLD",10960,"ABPKG")
+n
+"BLD",10960,"INIT")
+POST^IB20P627
+"BLD",10960,"KRN",0)
+^9.67PA^8989.52^19
+"BLD",10960,"KRN",.4,0)
+.4
+"BLD",10960,"KRN",.401,0)
+.401
+"BLD",10960,"KRN",.402,0)
+.402
+"BLD",10960,"KRN",.403,0)
+.403
+"BLD",10960,"KRN",.5,0)
+.5
+"BLD",10960,"KRN",.84,0)
+.84
+"BLD",10960,"KRN",3.6,0)
+3.6
+"BLD",10960,"KRN",3.8,0)
+3.8
+"BLD",10960,"KRN",9.2,0)
+9.2
+"BLD",10960,"KRN",9.8,0)
+9.8
+"BLD",10960,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",10960,"KRN",9.8,"NM",1,0)
+IBARXEU1^^0^B19452446
+"BLD",10960,"KRN",9.8,"NM","B","IBARXEU1",1)
+ 
+"BLD",10960,"KRN",19,0)
+19
+"BLD",10960,"KRN",19.1,0)
+19.1
+"BLD",10960,"KRN",101,0)
+101
+"BLD",10960,"KRN",409.61,0)
+409.61
+"BLD",10960,"KRN",771,0)
+771
+"BLD",10960,"KRN",870,0)
+870
+"BLD",10960,"KRN",8989.51,0)
+8989.51
+"BLD",10960,"KRN",8989.52,0)
+8989.52
+"BLD",10960,"KRN",8994,0)
+8994
+"BLD",10960,"KRN","B",.4,.4)
+ 
+"BLD",10960,"KRN","B",.401,.401)
+ 
+"BLD",10960,"KRN","B",.402,.402)
+ 
+"BLD",10960,"KRN","B",.403,.403)
+ 
+"BLD",10960,"KRN","B",.5,.5)
+ 
+"BLD",10960,"KRN","B",.84,.84)
+ 
+"BLD",10960,"KRN","B",3.6,3.6)
+ 
+"BLD",10960,"KRN","B",3.8,3.8)
+ 
+"BLD",10960,"KRN","B",9.2,9.2)
+ 
+"BLD",10960,"KRN","B",9.8,9.8)
+ 
+"BLD",10960,"KRN","B",19,19)
+ 
+"BLD",10960,"KRN","B",19.1,19.1)
+ 
+"BLD",10960,"KRN","B",101,101)
+ 
+"BLD",10960,"KRN","B",409.61,409.61)
+ 
+"BLD",10960,"KRN","B",771,771)
+ 
+"BLD",10960,"KRN","B",870,870)
+ 
+"BLD",10960,"KRN","B",8989.51,8989.51)
+ 
+"BLD",10960,"KRN","B",8989.52,8989.52)
+ 
+"BLD",10960,"KRN","B",8994,8994)
+ 
+"BLD",10960,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",10960,"QUES",0)
+^9.62^^0
+"BLD",10960,"REQB",0)
+^9.611^2^2
+"BLD",10960,"REQB",1,0)
+IB*2.0*385^2
+"BLD",10960,"REQB",2,0)
+DG*5.3*972^2
+"BLD",10960,"REQB","B","DG*5.3*972",2)
+ 
+"BLD",10960,"REQB","B","IB*2.0*385",1)
+ 
+"INIT")
+POST^IB20P627
+"MBREQ")
+0
+"PKG",193,-1)
+1^1
+"PKG",193,0)
+INTEGRATED BILLING^IB^INTEGRATED BILLING
+"PKG",193,20,0)
+^9.402P^1^1
+"PKG",193,20,1,0)
+2^^IBAXDR
+"PKG",193,20,1,1)
+ 
+"PKG",193,20,"B",2,1)
+ 
+"PKG",193,22,0)
+^9.49I^1^1
+"PKG",193,22,1,0)
+2.0^2940321^2940528
+"PKG",193,22,1,"PAH",1,0)
+627^3190131^35209
+"PKG",193,22,1,"PAH",1,1,0)
+^^2^2^3190131
+"PKG",193,22,1,"PAH",1,1,1,0)
+Please see the IB*2.0*627 patch description for detailed information 
+"PKG",193,22,1,"PAH",1,1,2,0)
+regarding this patch.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+ 
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","IB20P627")
+0^^B5004839^n/a
+"RTN","IB20P627",1,0)
+IB20P627 ;OAK/ELZ - POST INIT FOR PATCH;06/20/2018 ; 31 Jan 2019  3:24 PM
+"RTN","IB20P627",2,0)
+ ;;2.0;INTEGRATED BILLING;**627**;21-MAR-94;Build 21
+"RTN","IB20P627",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","IB20P627",4,0)
+ ;
+"RTN","IB20P627",5,0)
+ ;
+"RTN","IB20P627",6,0)
+POST ; post init entry point
+"RTN","IB20P627",7,0)
+ ;
+"RTN","IB20P627",8,0)
+ D MES^XPDUTL("  Starting post-init for IB*2.0*627")
+"RTN","IB20P627",9,0)
+ ;
+"RTN","IB20P627",10,0)
+ D 3542
+"RTN","IB20P627",11,0)
+ D 3503
+"RTN","IB20P627",12,0)
+ ;
+"RTN","IB20P627",13,0)
+ D MES^XPDUTL("  Finished post-init for IB*2.0*627")
+"RTN","IB20P627",14,0)
+ ;
+"RTN","IB20P627",15,0)
+ Q
+"RTN","IB20P627",16,0)
+ ;
+"RTN","IB20P627",17,0)
+3542 ; add entry to exemption file 354.2 if not there
+"RTN","IB20P627",18,0)
+ I $O(^IBE(354.2,"B","MEDAL OF HONOR",0)) D  Q
+"RTN","IB20P627",19,0)
+ . D MES^XPDUTL("    - MEDAL OF HONOR already exists, nothing to add to 354.2.")
+"RTN","IB20P627",20,0)
+ ;
+"RTN","IB20P627",21,0)
+ N DO,X,Y,DIC
+"RTN","IB20P627",22,0)
+ ;
+"RTN","IB20P627",23,0)
+ S X="MEDAL OF HONOR",DIC="^IBE(354.2,",DIC(0)=""
+"RTN","IB20P627",24,0)
+ S DIC("DR")=".02///Patient awarded Medal of Honor;.03///1;.04///1;.05///50"
+"RTN","IB20P627",25,0)
+ D FILE^DICN
+"RTN","IB20P627",26,0)
+ ;
+"RTN","IB20P627",27,0)
+ D MES^XPDUTL($S(Y>1:"    - MEDAL OF HONOR Exemption Reason (#354.2) added.",1:"*** ERROR: COULD NOT CREATE NEW MOH ENTRY IN 354.2 ***"))
+"RTN","IB20P627",28,0)
+ ;
+"RTN","IB20P627",29,0)
+ Q
+"RTN","IB20P627",30,0)
+ ;
+"RTN","IB20P627",31,0)
+3503 ; add entry to Charge Removal Reason file if not there
+"RTN","IB20P627",32,0)
+ ;
+"RTN","IB20P627",33,0)
+ N IBX,DO,DIC,X,Y
+"RTN","IB20P627",34,0)
+ ;
+"RTN","IB20P627",35,0)
+ D MES^XPDUTL("    - Adding entry to Charge Removal Reason (#350.3) file.")
+"RTN","IB20P627",36,0)
+ S IBX="MEDAL OF HONOR^MOH" D
+"RTN","IB20P627",37,0)
+ . S DIC="^IBE(350.3,",DIC(0)="",X=$P(IBX,"^")
+"RTN","IB20P627",38,0)
+ . S DIC("DR")=".02///^S X=$P(IBX,U,2);.03///3"
+"RTN","IB20P627",39,0)
+ . I $O(^IBE(350.3,"B",X,0)) D MES^XPDUTL("      - "_X_" already exists.") Q
+"RTN","IB20P627",40,0)
+ . D FILE^DICN
+"RTN","IB20P627",41,0)
+ . D MES^XPDUTL($S(Y>1:"      - "_$P(IBX,"^")_" entry added.",1:"*** ERROR: COULD NOT CREATE NEW "_$P(IBX,"^",2)_" ENTRY IN 350.3 ***"))
+"RTN","IB20P627",42,0)
+ ;
+"RTN","IB20P627",43,0)
+ D MES^XPDUTL("    - Done adding entry in Charge Removal Reason (#350.3) file.")
+"RTN","IB20P627",44,0)
+ Q
+"RTN","IB20P627",45,0)
+ ;
+"RTN","IBARXEU1")
+0^1^B19452446^B18924658
+"RTN","IBARXEU1",1,0)
+IBARXEU1 ;ALB/AAS - RX EXEMPTION UTILITY ROUTINE (CONT.);3/27/07 3:10pm ; 31 Jan 2019  3:51 PM
+"RTN","IBARXEU1",2,0)
+ ;;2.0;INTEGRATED BILLING;**26,112,74,275,367,449,385,627**;21-MAR-94;Build 21
+"RTN","IBARXEU1",3,0)
+ ;;Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","IBARXEU1",4,0)
+ ;
+"RTN","IBARXEU1",5,0)
+STATUS(DFN,IBDT) ; -- Determine medication copayment exemption status
+"RTN","IBARXEU1",6,0)
+ ; -- requests data from MAS
+"RTN","IBARXEU1",7,0)
+ ;
+"RTN","IBARXEU1",8,0)
+ ;    returns :        = exemption reason (pointer to 354.2) ^ date
+"RTN","IBARXEU1",9,0)
+ ;
+"RTN","IBARXEU1",10,0)
+ N X,Y
+"RTN","IBARXEU1",11,0)
+ I $G(IBDT)="" S IBDT=DT
+"RTN","IBARXEU1",12,0)
+ S X=$$AUTOST(DFN,IBDT)
+"RTN","IBARXEU1",13,0)
+ I X'="" G STATUSQ
+"RTN","IBARXEU1",14,0)
+ S X=$$INCST(DFN,IBDT)
+"RTN","IBARXEU1",15,0)
+STATUSQ Q X
+"RTN","IBARXEU1",16,0)
+ ;
+"RTN","IBARXEU1",17,0)
+AUTOST(DFN,IBDT) ; -- Determine automatically exempt patients.
+"RTN","IBARXEU1",18,0)
+ ;    input :     dfn  =  patient file pointer
+"RTN","IBARXEU1",19,0)
+ ;               ibdt  =  internal form of effective date
+"RTN","IBARXEU1",20,0)
+ ;
+"RTN","IBARXEU1",21,0)
+ ;    returns :        =  exemption reason (pointer to 354.2) ^ date
+"RTN","IBARXEU1",22,0)
+ ;                        null if no autostatus
+"RTN","IBARXEU1",23,0)
+ ;
+"RTN","IBARXEU1",24,0)
+ N IBEXREA,IBEXMT,I
+"RTN","IBARXEU1",25,0)
+ S (IBEXREA,IBEXMT)=""
+"RTN","IBARXEU1",26,0)
+ I $G(IBDT)="" S IBDT=DT
+"RTN","IBARXEU1",27,0)
+ ;
+"RTN","IBARXEU1",28,0)
+ ; -- ask mas if in receipt of pension/a&a/hb, etc.
+"RTN","IBARXEU1",29,0)
+ ;    the automatic determinations
+"RTN","IBARXEU1",30,0)
+ ;    returns:
+"RTN","IBARXEU1",31,0)
+ ; sc>50%^rec a&a^rec hb^rec pen^n/a^non-vet^^POW^Unempl.^cd^moh
+"RTN","IBARXEU1",32,0)
+ ;   1       1      1       1           1      1    1     1   1
+"RTN","IBARXEU1",33,0)
+ ;    pieces =1 if true
+"RTN","IBARXEU1",34,0)
+ S IBEXMT=$$AUTOINFO^DGMTCOU1(DFN) I IBEXMT="" G AUTOSTQ
+"RTN","IBARXEU1",35,0)
+ I IBEXMT[1 F I=1,2,3,4,6,8,9,10,11 I $P(IBEXMT,"^",I)=1 S IBEXREA=I*10 Q  ;lookup code is piece position time 10
+"RTN","IBARXEU1",36,0)
+ ;
+"RTN","IBARXEU1",37,0)
+ ; -- need to move CD patinet's to 70 which is ignored by IB, used to
+"RTN","IBARXEU1",38,0)
+ ;    keep other stuff working, auto-exempt stuff relies on a 2 digit
+"RTN","IBARXEU1",39,0)
+ ;    code to work properly
+"RTN","IBARXEU1",40,0)
+ ; -- added moh code to move to 50 to keep at 2 digit
+"RTN","IBARXEU1",41,0)
+ I IBEXREA=100 S IBEXREA=70 ;not used above
+"RTN","IBARXEU1",42,0)
+ I IBEXREA=110 S IBEXREA=50 ;not used above
+"RTN","IBARXEU1",43,0)
+ ;
+"RTN","IBARXEU1",44,0)
+AUTOSTQ I IBEXREA="" Q IBEXREA
+"RTN","IBARXEU1",45,0)
+ Q $O(^IBE(354.2,"ACODE",+IBEXREA,0))_"^"_IBDT
+"RTN","IBARXEU1",46,0)
+ ;
+"RTN","IBARXEU1",47,0)
+ ;
+"RTN","IBARXEU1",48,0)
+INCST(DFN,IBDT) ; -- return medication copayment exemption reason/date
+"RTN","IBARXEU1",49,0)
+ ; -- ask mas for income data
+"RTN","IBARXEU1",50,0)
+ ;
+"RTN","IBARXEU1",51,0)
+ ;    returns :  = exemption reason (pointer to 354.2) ^ date
+"RTN","IBARXEU1",52,0)
+ ;
+"RTN","IBARXEU1",53,0)
+ N IBDATA,X,DGMT,CLN,CONV
+"RTN","IBARXEU1",54,0)
+ S IBDATA=$G(^DGMT(408.31,+$$LST^DGMTCOU1(DFN,IBDT,3),0)) ;get any test
+"RTN","IBARXEU1",55,0)
+ ;
+"RTN","IBARXEU1",56,0)
+ ; -- is the mt too old even under VFA rules - no data
+"RTN","IBARXEU1",57,0)
+ I $$PLUS^IBARXEU0(+IBDATA)<IBDT,'$$VFAOK^IBARXEU($$LST^IBARXEU0(DFN,+IBDATA)) S X=$O(^IBE(354.2,"ACODE",210,0))_"^"_IBDT G INCSTQ
+"RTN","IBARXEU1",58,0)
+ ;
+"RTN","IBARXEU1",59,0)
+ I $P(IBDATA,U,23)=2 D  G:CONV INCSTQ ;skip Edb conv. tests
+"RTN","IBARXEU1",60,0)
+ .;Loop through the MT comments, Check for EDB converted test
+"RTN","IBARXEU1",61,0)
+ .;No comments to check
+"RTN","IBARXEU1",62,0)
+ .S (CLN,CONV)=0,DGMT=$$LST^DGMTCOU1(DFN,IBDT,3)
+"RTN","IBARXEU1",63,0)
+ .F  S CLN=$O(^DGMT(408.31,+DGMT,"C",CLN)) Q:'CLN!(CONV)  D
+"RTN","IBARXEU1",64,0)
+ ..;If most recent test is a converted test use current info from IBA(354
+"RTN","IBARXEU1",65,0)
+ ..I $G(^DGMT(408.31,+DGMT,"C",CLN,0))["Z06 MT via Edb" S CONV=1,X=$P($G(^IBA(354,DFN,0)),"^",5)_"^"_$P($G(^IBA(354,DFN,0)),"^",3)
+"RTN","IBARXEU1",66,0)
+ ;
+"RTN","IBARXEU1",67,0)
+ I $$NETW S X=$$MTCOMP^IBARXEU5($$INCDT(IBDATA),IBDATA)
+"RTN","IBARXEU1",68,0)
+ I '$$NETW S X=$$INCDT(IBDATA),X=$P(X,"^",3)_"^"_$P(X,"^",2)
+"RTN","IBARXEU1",69,0)
+INCSTQ Q X
+"RTN","IBARXEU1",70,0)
+ ;
+"RTN","IBARXEU1",71,0)
+INCDT(IBDATA) ; -- calcualtes copay exemption status based on income
+"RTN","IBARXEU1",72,0)
+ ; and net worth
+"RTN","IBARXEU1",73,0)
+ ;    input  := zeroth node from 408.31
+"RTN","IBARXEU1",74,0)
+ ;    output := 1 = exempt    ^date of test^ exemption reason 
+"RTN","IBARXEU1",75,0)
+ ;              2 = non-exempt^...
+"RTN","IBARXEU1",76,0)
+ ;              3 = pending adjudication (if active)^...
+"RTN","IBARXEU1",77,0)
+ ;
+"RTN","IBARXEU1",78,0)
+ N X,IBDT,IBINCOM,IBEXREA,IBDEPEN,IBNETW,IBTABLE,IBLEVEL,IBTHRES
+"RTN","IBARXEU1",79,0)
+ I '$D(DFN) N DFN S DFN=$P(IBDATA,"^",2)
+"RTN","IBARXEU1",80,0)
+ S IBEXREA=""
+"RTN","IBARXEU1",81,0)
+ ;
+"RTN","IBARXEU1",82,0)
+ ; -- if test incomplete, no longer required, no longer applicable, or
+"RTN","IBARXEU1",83,0)
+ ;    required set to no income data 
+"RTN","IBARXEU1",84,0)
+ ;    autoexempt test should be done first before getting to here
+"RTN","IBARXEU1",85,0)
+ S X=$P(IBDATA,"^",3) I X=1!(X=3)!(X=10)!(X=9)!($P(IBDATA,"^",14)) S IBEXREA=$S($P(IBDATA,"^",14):110,1:210) G NO
+"RTN","IBARXEU1",86,0)
+ ;
+"RTN","IBARXEU1",87,0)
+ S IBDT=+IBDATA
+"RTN","IBARXEU1",88,0)
+ S IBINCOM=$P(IBDATA,"^",4)-$P(IBDATA,"^",15) I IBINCOM<0 S IBINCOM=0
+"RTN","IBARXEU1",89,0)
+ S IBDEPEN=$P(IBDATA,"^",18),IBNETW=$P(IBDATA,"^",5)
+"RTN","IBARXEU1",90,0)
+ ;
+"RTN","IBARXEU1",91,0)
+ ; -- get A&A income level
+"RTN","IBARXEU1",92,0)
+ ;S IBLEVEL=$$THRES(IBDT,2,IBDEPEN)
+"RTN","IBARXEU1",93,0)
+ S IBLEVEL=$$THRES(IBDT,$S($E(IBDT,1,5)'<29612:1,1:2),IBDEPEN)
+"RTN","IBARXEU1",94,0)
+ I $P(IBLEVEL,"^",3) S IBPRIOR=$P(IBLEVEL,"^",3)
+"RTN","IBARXEU1",95,0)
+ ;
+"RTN","IBARXEU1",96,0)
+ S IBEXREA=120 ; low income
+"RTN","IBARXEU1",97,0)
+ I IBINCOM>+IBLEVEL S IBEXREA=110 G NO ;high income not exempt
+"RTN","IBARXEU1",98,0)
+ ;
+"RTN","IBARXEU1",99,0)
+ I '$$NETW G NO
+"RTN","IBARXEU1",100,0)
+ ;
+"RTN","IBARXEU1",101,0)
+ ; -- get networth threshold amount
+"RTN","IBARXEU1",102,0)
+ S IBTHRES=+$$THRES(IBDT,4,0)
+"RTN","IBARXEU1",103,0)
+ ; -- low income check for net worth
+"RTN","IBARXEU1",104,0)
+ S IBEXREA=$S((IBINCOM+IBNETW)>IBTHRES:130,1:120)
+"RTN","IBARXEU1",105,0)
+ ;
+"RTN","IBARXEU1",106,0)
+NO ; -- not enough information
+"RTN","IBARXEU1",107,0)
+ I IBEXREA="" S IBEXREA=210
+"RTN","IBARXEU1",108,0)
+ ;
+"RTN","IBARXEU1",109,0)
+ I $$NETW S Y=$S(IBEXREA=110:2,IBEXREA=120:1,IBEXREA=130:3,1:2)
+"RTN","IBARXEU1",110,0)
+ I '$$NETW S Y=$S(IBEXREA=120:1,1:2)
+"RTN","IBARXEU1",111,0)
+ ;
+"RTN","IBARXEU1",112,0)
+INCDTQ Q Y_"^"_+IBDATA_"^"_$O(^IBE(354.2,"ACODE",+IBEXREA,0))
+"RTN","IBARXEU1",113,0)
+ ;
+"RTN","IBARXEU1",114,0)
+THRES(DATE,TYPE,DEPEND) ; -- return threshold amount 
+"RTN","IBARXEU1",115,0)
+ ;
+"RTN","IBARXEU1",116,0)
+ ; -- if date is less than 12/1/92 will use 12/1 92 rates
+"RTN","IBARXEU1",117,0)
+ ;     date =: fileman format of effective date
+"RTN","IBARXEU1",118,0)
+ ;     type =: 2= pension plus A&A   1992 thru 1995
+"RTN","IBARXEU1",119,0)
+ ;     type =: 1= basic pension 1996 to present
+"RTN","IBARXEU1",120,0)
+ ;     depend =: number of dependents
+"RTN","IBARXEU1",121,0)
+ ;
+"RTN","IBARXEU1",122,0)
+ ; -- returns rate^effective date^prior year
+"RTN","IBARXEU1",123,0)
+ ;
+"RTN","IBARXEU1",124,0)
+ I DATE<2921201 S DATE=2921201 ; use threshold rates from 12/1/92
+"RTN","IBARXEU1",125,0)
+ N IBTABLE,IBLEVEL,IBPRIOR
+"RTN","IBARXEU1",126,0)
+ S IBLEVEL=""
+"RTN","IBARXEU1",127,0)
+ ; -- get entry to determine income amounts
+"RTN","IBARXEU1",128,0)
+ S IBTABLE=$G(^IBE(354.3,+$O(^(+$O(^IBE(354.3,"AIVDT",TYPE,-(DATE+.000001))),0)),0))
+"RTN","IBARXEU1",129,0)
+ G:IBTABLE="" THRESQ
+"RTN","IBARXEU1",130,0)
+ I TYPE=4 S DEPEND=0
+"RTN","IBARXEU1",131,0)
+ ;
+"RTN","IBARXEU1",132,0)
+ ; --see if rate is for prior year
+"RTN","IBARXEU1",133,0)
+ S IBPRIOR="" I $$PLUS^IBARXEU0(+IBTABLE)<DATE S IBPRIOR=+IBTABLE
+"RTN","IBARXEU1",134,0)
+ ;
+"RTN","IBARXEU1",135,0)
+ ; -- rates begin in piece 3 for veteran alone, piece 4 for 1 dependent..
+"RTN","IBARXEU1",136,0)
+ S IBLEVEL=$S(DEPEND<9:$P(IBTABLE,"^",DEPEND+3),1:"")
+"RTN","IBARXEU1",137,0)
+ I IBLEVEL="" S IBLEVEL=$P(IBTABLE,"^",4)+((DEPEND-1)*$P(IBTABLE,"^",12))
+"RTN","IBARXEU1",138,0)
+THRESQ Q IBLEVEL_"^"_+IBTABLE_"^"_IBPRIOR
+"RTN","IBARXEU1",139,0)
+ ;
+"RTN","IBARXEU1",140,0)
+NETW() ; -- use networth in determining copay exemptions - specs keep changing
+"RTN","IBARXEU1",141,0)
+ ;    returns 1 if should use networth in exemption determination
+"RTN","IBARXEU1",142,0)
+ ;    returns 0 if should not use networth in exemption
+"RTN","IBARXEU1",143,0)
+ Q 0
+"VER")
+8.0^22.2
+"BLD",10960,6)
+^596
+**END**
+**END**
+

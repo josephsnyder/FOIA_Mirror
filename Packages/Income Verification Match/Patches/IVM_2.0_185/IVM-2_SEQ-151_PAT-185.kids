@@ -1,0 +1,433 @@
+Released IVM*2*185 SEQ #151
+Extracted from mail message
+**KIDS**:IVM*2.0*185^
+
+**INSTALL NAME**
+IVM*2.0*185
+"BLD",11553,0)
+IVM*2.0*185^INCOME VERIFICATION MATCH^0^3190829^y
+"BLD",11553,1,0)
+^^3^3^3190815^^
+"BLD",11553,1,1,0)
+This patch will address a request to sync the SOURCE OF INCOME TEST
+"BLD",11553,1,2,0)
+(#408.34) file with the Standard Data Service (SDS) database. Two new
+"BLD",11553,1,3,0)
+entries will be added to the SOURCE OF INCOME TEST (#408.34) file.
+"BLD",11553,4,0)
+^9.64PA^408.34^1
+"BLD",11553,4,408.34,0)
+408.34
+"BLD",11553,4,408.34,222)
+y^n^f^^n^^y^m^n
+"BLD",11553,4,"B",408.34,408.34)
+
+"BLD",11553,6.3)
+5
+"BLD",11553,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11553,"KRN",.4,0)
+.4
+"BLD",11553,"KRN",.401,0)
+.401
+"BLD",11553,"KRN",.402,0)
+.402
+"BLD",11553,"KRN",.403,0)
+.403
+"BLD",11553,"KRN",.5,0)
+.5
+"BLD",11553,"KRN",.84,0)
+.84
+"BLD",11553,"KRN",1.5,0)
+1.5
+"BLD",11553,"KRN",1.6,0)
+1.6
+"BLD",11553,"KRN",1.61,0)
+1.61
+"BLD",11553,"KRN",1.62,0)
+1.62
+"BLD",11553,"KRN",3.6,0)
+3.6
+"BLD",11553,"KRN",3.8,0)
+3.8
+"BLD",11553,"KRN",9.2,0)
+9.2
+"BLD",11553,"KRN",9.8,0)
+9.8
+"BLD",11553,"KRN",19,0)
+19
+"BLD",11553,"KRN",19.1,0)
+19.1
+"BLD",11553,"KRN",101,0)
+101
+"BLD",11553,"KRN",409.61,0)
+409.61
+"BLD",11553,"KRN",771,0)
+771
+"BLD",11553,"KRN",779.2,0)
+779.2
+"BLD",11553,"KRN",870,0)
+870
+"BLD",11553,"KRN",8989.51,0)
+8989.51
+"BLD",11553,"KRN",8989.52,0)
+8989.52
+"BLD",11553,"KRN",8994,0)
+8994
+"BLD",11553,"KRN","B",.4,.4)
+
+"BLD",11553,"KRN","B",.401,.401)
+
+"BLD",11553,"KRN","B",.402,.402)
+
+"BLD",11553,"KRN","B",.403,.403)
+
+"BLD",11553,"KRN","B",.5,.5)
+
+"BLD",11553,"KRN","B",.84,.84)
+
+"BLD",11553,"KRN","B",1.5,1.5)
+
+"BLD",11553,"KRN","B",1.6,1.6)
+
+"BLD",11553,"KRN","B",1.61,1.61)
+
+"BLD",11553,"KRN","B",1.62,1.62)
+
+"BLD",11553,"KRN","B",3.6,3.6)
+
+"BLD",11553,"KRN","B",3.8,3.8)
+
+"BLD",11553,"KRN","B",9.2,9.2)
+
+"BLD",11553,"KRN","B",9.8,9.8)
+
+"BLD",11553,"KRN","B",19,19)
+
+"BLD",11553,"KRN","B",19.1,19.1)
+
+"BLD",11553,"KRN","B",101,101)
+
+"BLD",11553,"KRN","B",409.61,409.61)
+
+"BLD",11553,"KRN","B",771,771)
+
+"BLD",11553,"KRN","B",779.2,779.2)
+
+"BLD",11553,"KRN","B",870,870)
+
+"BLD",11553,"KRN","B",8989.51,8989.51)
+
+"BLD",11553,"KRN","B",8989.52,8989.52)
+
+"BLD",11553,"KRN","B",8994,8994)
+
+"BLD",11553,"QUES",0)
+^9.62^^
+"BLD",11553,"REQB",0)
+^9.611^^
+"DATA",408.34,1,0)
+VAMC^1
+"DATA",408.34,1,"DESC",0)
+^^2^2^2940316^
+"DATA",408.34,1,"DESC",1,0)
+Income tests with a source of VAMC are ones that were administered by
+"DATA",408.34,1,"DESC",2,0)
+VAMC staff using DHCP software.
+"DATA",408.34,2,0)
+IVM^0
+"DATA",408.34,2,"DESC",0)
+^^3^3^2940316^
+"DATA",408.34,2,"DESC",1,0)
+Income tests from IVM (the Income Verification Match Center) will be
+"DATA",408.34,2,"DESC",2,0)
+verified as being accurate and compared with IRS and SSA records.  They
+"DATA",408.34,2,"DESC",3,0)
+will therefore be uneditable by the site.
+"DATA",408.34,3,0)
+DCD^0
+"DATA",408.34,3,"DESC",0)
+^^4^4^2991012^^
+"DATA",408.34,3,"DESC",1,0)
+Income tests from DCD are those that were conducted by the Data
+"DATA",408.34,3,"DESC",2,0)
+Collection Division of the IVM Center.  These tests are electronically
+"DATA",408.34,3,"DESC",3,0)
+transmitted to the site and automatically uploaded upon receipt.
+"DATA",408.34,3,"DESC",4,0)
+They are not editable by the site.
+"DATA",408.34,4,0)
+OTHER FACILITY^0
+"DATA",408.34,4,"DESC",0)
+^^7^7^2991012^^
+"DATA",408.34,4,"DESC",1,0)
+Income tests which are conducted at other facilities may be routed
+"DATA",408.34,4,"DESC",2,0)
+to your site through the IVM Center.  These tests are not editable
+"DATA",408.34,4,"DESC",3,0)
+at the site.
+"DATA",408.34,4,"DESC",4,0)
+
+"DATA",408.34,4,"DESC",5,0)
+If the test source is Other Facility, then the actual site which
+"DATA",408.34,4,"DESC",6,0)
+conducted the test will be stored in the SITE CONDUCTING TEST (#.27)
+"DATA",408.34,4,"DESC",7,0)
+field of the ANNUAL MEANS TEST (#408.31) file.
+"DATA",408.34,5,0)
+HEC-old^0
+"DATA",408.34,5,"DESC",0)
+^^4^4^3190826^
+"DATA",408.34,5,"DESC",1,0)
+Income tests from HEC-old are those that were conducted by the Heath 
+"DATA",408.34,5,"DESC",2,0)
+Eligibility Center prior to the Data Collection Division of the IVM 
+"DATA",408.34,5,"DESC",3,0)
+Center.  These tests are electronically transmitted to the site and 
+"DATA",408.34,5,"DESC",4,0)
+automatically uploaded upon receipt.  They are not editable by the site.
+"DATA",408.34,6,0)
+VOA^0
+"DATA",408.34,6,"DESC",0)
+^^4^4^3190826^
+"DATA",408.34,6,"DESC",1,0)
+Income tests from VOA are those that were conducted by the ESR 
+"DATA",408.34,6,"DESC",2,0)
+3.1/Veterans' Online Application Data Collection Division of the IVM 
+"DATA",408.34,6,"DESC",3,0)
+Center.  These tests are electronically transmitted to the site and 
+"DATA",408.34,6,"DESC",4,0)
+automatically uploaded upon receipt.  They are not editable by the site.
+"FIA",408.34)
+SOURCE OF INCOME TEST
+"FIA",408.34,0)
+^DG(408.34,
+"FIA",408.34,0,0)
+408.34
+"FIA",408.34,0,1)
+y^n^f^^n^^y^m^n
+"FIA",408.34,0,10)
+
+"FIA",408.34,0,11)
+
+"FIA",408.34,0,"RLRO")
+
+"FIA",408.34,0,"VR")
+2.0^IVM
+"FIA",408.34,408.34)
+0
+"FIA",408.34,408.341)
+0
+"MBREQ")
+0
+"PKG",220,-1)
+1^1
+"PKG",220,0)
+INCOME VERIFICATION MATCH^IVM^IVM Software for interface with the IVM Center
+"PKG",220,22,0)
+^9.49I^1^1
+"PKG",220,22,1,0)
+2.0^2941021
+"PKG",220,22,1,"PAH",1,0)
+185^3190829
+"PKG",220,22,1,"PAH",1,1,0)
+^^3^3^3190829
+"PKG",220,22,1,"PAH",1,1,1,0)
+This patch will address a request to sync the SOURCE OF INCOME TEST
+"PKG",220,22,1,"PAH",1,1,2,0)
+(#408.34) file with the Standard Data Service (SDS) database. Two new
+"PKG",220,22,1,"PAH",1,1,3,0)
+entries will be added to the SOURCE OF INCOME TEST (#408.34) file.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"VER")
+8.0^22.2
+"^DD",408.34,408.34,0)
+FIELD^^1^3
+"^DD",408.34,408.34,0,"DDA")
+N
+"^DD",408.34,408.34,0,"DT")
+2940316
+"^DD",408.34,408.34,0,"IX","B",408.34,.01)
+
+"^DD",408.34,408.34,0,"NM","SOURCE OF INCOME TEST")
+
+"^DD",408.34,408.34,0,"PT",408.31,.23)
+
+"^DD",408.34,408.34,.01,0)
+NAME^RF^^0;1^K:$L(X)>30!($L(X)<3)!'(X'?1P.E) X
+"^DD",408.34,408.34,.01,1,0)
+^.1
+"^DD",408.34,408.34,.01,1,1,0)
+408.34^B
+"^DD",408.34,408.34,.01,1,1,1)
+S ^DG(408.34,"B",$E(X,1,30),DA)=""
+"^DD",408.34,408.34,.01,1,1,2)
+K ^DG(408.34,"B",$E(X,1,30),DA)
+"^DD",408.34,408.34,.01,3)
+Enter the name of the source for the income test.  Answer must be 3-30 characters in length.
+"^DD",408.34,408.34,.01,21,0)
+^^8^8^2940316^
+"^DD",408.34,408.34,.01,21,1,0)
+This file contains the various sources from which a DHCP income test
+"^DD",408.34,408.34,.01,21,2,0)
+may be received.  This would include, but is not limited to, USER if the 
+"^DD",408.34,408.34,.01,21,3,0)
+income test is administered by a DHCP user or IVM if the income test 
+"^DD",408.34,408.34,.01,21,4,0)
+is verified by the Income Verification Match Center.
+"^DD",408.34,408.34,.01,21,5,0)
+ 
+"^DD",408.34,408.34,.01,21,6,0)
+This file is distributed with file entries intact.  It should not be
+"^DD",408.34,408.34,.01,21,7,0)
+edited for any reason.  Editing of this file, or entries in it, could 
+"^DD",408.34,408.34,.01,21,8,0)
+cause data corruption.
+"^DD",408.34,408.34,.01,23,0)
+^^1^1^2940316^
+"^DD",408.34,408.34,.01,23,1,0)
+ 
+"^DD",408.34,408.34,.01,"DT")
+2940316
+"^DD",408.34,408.34,.02,0)
+TEST IS EDITABLE?^RSI^1:YES;0:NO;^0;2^Q
+"^DD",408.34,408.34,.02,3)
+Enter 1 if income tests from this source are editable.  Enter 0 otherwise.
+"^DD",408.34,408.34,.02,21,0)
+^^6^6^2940316^
+"^DD",408.34,408.34,.02,21,1,0)
+This field will contain a 1 if income test from this source are editable.
+"^DD",408.34,408.34,.02,21,2,0)
+Otherwise, this field will contain a 0.
+"^DD",408.34,408.34,.02,21,3,0)
+ 
+"^DD",408.34,408.34,.02,21,4,0)
+Data in this file is maintained by the software package and should not
+"^DD",408.34,408.34,.02,21,5,0)
+be altered in anyway.  Any change to data in this file could result in
+"^DD",408.34,408.34,.02,21,6,0)
+data corruption or software functioning improperly.
+"^DD",408.34,408.34,.02,"DT")
+2940316
+"^DD",408.34,408.34,1,0)
+DESCRIPTION^408.341^^DESC;0
+"^DD",408.34,408.34,1,21,0)
+^^2^2^2940316^
+"^DD",408.34,408.34,1,21,1,0)
+This field will contain a word processing description of the income
+"^DD",408.34,408.34,1,21,2,0)
+source.
+"^DD",408.34,408.341,0)
+DESCRIPTION SUB-FIELD^^.01^1
+"^DD",408.34,408.341,0,"DT")
+2940316
+"^DD",408.34,408.341,0,"NM","DESCRIPTION")
+
+"^DD",408.34,408.341,0,"UP")
+408.34
+"^DD",408.34,408.341,.01,0)
+DESCRIPTION^W^^0;1^Q
+"^DD",408.34,408.341,.01,3)
+Enter the description of this income source
+"^DD",408.34,408.341,.01,"DT")
+2940316
+"^DIC",408.34,408.34,0)
+SOURCE OF INCOME TEST
+"^DIC",408.34,408.34,0,"GL")
+^DG(408.34,
+"^DIC",408.34,408.34,"%D",0)
+^^9^9^2941014^^^
+"^DIC",408.34,408.34,"%D",1,0)
+This file contains a list of the various sources from which an income test
+"^DIC",408.34,408.34,"%D",2,0)
+may originate.  This would include the VAMC if the means test was
+"^DIC",408.34,408.34,"%D",3,0)
+administered by a user or IVM if the income was verified by the Income
+"^DIC",408.34,408.34,"%D",4,0)
+Verification Match Center.
+"^DIC",408.34,408.34,"%D",5,0)
+ 
+"^DIC",408.34,408.34,"%D",6,0)
+This file, and the data contained within the file, is strictly maintained
+"^DIC",408.34,408.34,"%D",7,0)
+and should not be altered at the site level.  Editing of this file or the
+"^DIC",408.34,408.34,"%D",8,0)
+data contained within may result in data corruption or may cause software
+"^DIC",408.34,408.34,"%D",9,0)
+to malfunction.
+"^DIC",408.34,"B","SOURCE OF INCOME TEST",408.34)
+
+"BLD",11553,6)
+^151
+**END**
+**END**
+

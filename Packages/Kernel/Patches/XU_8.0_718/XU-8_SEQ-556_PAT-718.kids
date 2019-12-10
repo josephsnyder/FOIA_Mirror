@@ -1,0 +1,519 @@
+EMERGENCY Released XU*8*718 SEQ #556
+Extracted from mail message
+**KIDS**:XU*8.0*718^
+
+**INSTALL NAME**
+XU*8.0*718
+"BLD",1667,0)
+XU*8.0*718^KERNEL^0^3191002^y
+"BLD",1667,1,0)
+^^1^1^3191002^^^^
+"BLD",1667,1,1,0)
+Please refer to the Description in Forum Patch Module for details.
+"BLD",1667,4,0)
+^9.64PA^^
+"BLD",1667,6.3)
+5
+"BLD",1667,"INID")
+^y
+"BLD",1667,"INIT")
+XU8P718
+"BLD",1667,"KRN",0)
+^9.67PA^1.5^26
+"BLD",1667,"KRN",.4,0)
+.4
+"BLD",1667,"KRN",.401,0)
+.401
+"BLD",1667,"KRN",.402,0)
+.402
+"BLD",1667,"KRN",.403,0)
+.403
+"BLD",1667,"KRN",.5,0)
+.5
+"BLD",1667,"KRN",.84,0)
+.84
+"BLD",1667,"KRN",1.5,0)
+1.5
+"BLD",1667,"KRN",1.6,0)
+1.6
+"BLD",1667,"KRN",1.61,0)
+1.61
+"BLD",1667,"KRN",1.62,0)
+1.62
+"BLD",1667,"KRN",3.6,0)
+3.6
+"BLD",1667,"KRN",3.8,0)
+3.8
+"BLD",1667,"KRN",9.2,0)
+9.2
+"BLD",1667,"KRN",9.8,0)
+9.8
+"BLD",1667,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",1667,"KRN",9.8,"NM",1,0)
+ZOSFONT^^0^B28750789
+"BLD",1667,"KRN",9.8,"NM","B","ZOSFONT",1)
+
+"BLD",1667,"KRN",19,0)
+19
+"BLD",1667,"KRN",19.1,0)
+19.1
+"BLD",1667,"KRN",101,0)
+101
+"BLD",1667,"KRN",409.61,0)
+409.61
+"BLD",1667,"KRN",771,0)
+771
+"BLD",1667,"KRN",779.2,0)
+779.2
+"BLD",1667,"KRN",870,0)
+870
+"BLD",1667,"KRN",8989.51,0)
+8989.51
+"BLD",1667,"KRN",8989.52,0)
+8989.52
+"BLD",1667,"KRN",8993,0)
+8993
+"BLD",1667,"KRN",8994,0)
+8994
+"BLD",1667,"KRN",9002226,0)
+9002226
+"BLD",1667,"KRN","B",.4,.4)
+
+"BLD",1667,"KRN","B",.401,.401)
+
+"BLD",1667,"KRN","B",.402,.402)
+
+"BLD",1667,"KRN","B",.403,.403)
+
+"BLD",1667,"KRN","B",.5,.5)
+
+"BLD",1667,"KRN","B",.84,.84)
+
+"BLD",1667,"KRN","B",1.5,1.5)
+
+"BLD",1667,"KRN","B",1.6,1.6)
+
+"BLD",1667,"KRN","B",1.61,1.61)
+
+"BLD",1667,"KRN","B",1.62,1.62)
+
+"BLD",1667,"KRN","B",3.6,3.6)
+
+"BLD",1667,"KRN","B",3.8,3.8)
+
+"BLD",1667,"KRN","B",9.2,9.2)
+
+"BLD",1667,"KRN","B",9.8,9.8)
+
+"BLD",1667,"KRN","B",19,19)
+
+"BLD",1667,"KRN","B",19.1,19.1)
+
+"BLD",1667,"KRN","B",101,101)
+
+"BLD",1667,"KRN","B",409.61,409.61)
+
+"BLD",1667,"KRN","B",771,771)
+
+"BLD",1667,"KRN","B",779.2,779.2)
+
+"BLD",1667,"KRN","B",870,870)
+
+"BLD",1667,"KRN","B",8989.51,8989.51)
+
+"BLD",1667,"KRN","B",8989.52,8989.52)
+
+"BLD",1667,"KRN","B",8993,8993)
+
+"BLD",1667,"KRN","B",8994,8994)
+
+"BLD",1667,"KRN","B",9002226,9002226)
+
+"BLD",1667,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",1667,"QUES",0)
+^9.62^^
+"BLD",1667,"REQB",0)
+^9.611^1^1
+"BLD",1667,"REQB",1,0)
+XU*8.0*661^2
+"BLD",1667,"REQB","B","XU*8.0*661",1)
+
+"INIT")
+XU8P718
+"MBREQ")
+0
+"PKG",3,-1)
+1^1
+"PKG",3,0)
+KERNEL^XU^SIGN-ON, SECURITY, MENU DRIVER, DEVICES, TASKMAN^
+"PKG",3,22,0)
+^9.49I^1^1
+"PKG",3,22,1,0)
+8.0^3090706^3090706^6
+"PKG",3,22,1,"PAH",1,0)
+718^3191002
+"PKG",3,22,1,"PAH",1,1,0)
+^^1^1^3191002
+"PKG",3,22,1,"PAH",1,1,1,0)
+Please refer to the Description in Forum Patch Module for details.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","XU8P718")
+0^^B83926^n/a
+"RTN","XU8P718",1,0)
+XU8P718 ;OAK/RSD - Post install for patch XU*8*718 ;09/29/09  15:35
+"RTN","XU8P718",2,0)
+ ;;8.0;KERNEL;**718**;Jul 10, 1995;Build 5
+"RTN","XU8P718",3,0)
+ ;setup %ZOSF("TEST")
+"RTN","XU8P718",4,0)
+ D ONE^ZOSFONT("TEST")
+"RTN","XU8P718",5,0)
+ ;remove incorrect node that was set in patch 365
+"RTN","XU8P718",6,0)
+ K ^%ZOSF("GSEL;Select Globals")
+"RTN","XU8P718",7,0)
+ Q
+"RTN","ZOSFONT")
+0^1^B28750789^B28658128
+"RTN","ZOSFONT",1,0)
+ZOSFONT ;SFISC/AC - SETS UP ^%ZOSF for Cache for NT/VMS ;09/29/09  15:35
+"RTN","ZOSFONT",2,0)
+ ;;8.0;KERNEL;**34,104,365,661,718**;JUL 10, 1995;Build 5
+"RTN","ZOSFONT",3,0)
+ ;Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","ZOSFONT",4,0)
+ ;For Cache versions 2011 and above
+"RTN","ZOSFONT",5,0)
+ S %Y=1
+"RTN","ZOSFONT",6,0)
+INIT ;
+"RTN","ZOSFONT",7,0)
+ N ZO F I="MGR","PROD","VOL" S:$D(^%ZOSF(I)) ZO(I)=^%ZOSF(I)
+"RTN","ZOSFONT",8,0)
+ F I=1:2 S Z=$P($T(Z+I),";;",2) Q:Z=""  S X=$P($T(Z+1+I),";;",2,99) S ^%ZOSF(Z)=$S($D(ZO(Z)):ZO(Z),1:X)
+"RTN","ZOSFONT",9,0)
+ ;
+"RTN","ZOSFONT",10,0)
+ G:'$G(%Y) OS
+"RTN","ZOSFONT",11,0)
+MGR W !,"NAME OF MANAGER'S NAMESPACE: "_^%ZOSF("MGR")_"// " R X:$S($G(DTIME):DTIME,1:9999) I X]"" X ^("UCICHECK") G MGR:0[Y S ^%ZOSF("MGR")=X
+"RTN","ZOSFONT",12,0)
+PROD W !,"PRODUCTION (SIGN-ON) NAMESPACE: "_^%ZOSF("PROD")_"// " R X:$S($G(DTIME):DTIME,1:9999) I X]"" X ^("UCICHECK") G PROD:0[Y S ^%ZOSF("PROD")=Y
+"RTN","ZOSFONT",13,0)
+VOL W !,"NAME OF THIS CONFIGURATION: "_^%ZOSF("VOL")_"//" R X:$S($G(DTIME):DTIME,1:9999) I X]"" S:X?1.22U ^%ZOSF("VOL")=X I X'?1.22U W "MUST BE 1-22 uppercase characters." G VOL
+"RTN","ZOSFONT",14,0)
+ ;
+"RTN","ZOSFONT",15,0)
+OS S $P(^%ZOSF("OS"),"^",1)="OpenM-NT" S:'$P(^%ZOSF("OS"),"^",2) $P(^%ZOSF("OS"),"^",2)=18
+"RTN","ZOSFONT",16,0)
+ W !!,"ALL SET UP",!!
+"RTN","ZOSFONT",17,0)
+ Q
+"RTN","ZOSFONT",18,0)
+ ;
+"RTN","ZOSFONT",19,0)
+NOASK ;Setup %ZOSF without terminal interaction
+"RTN","ZOSFONT",20,0)
+ S %Y=0
+"RTN","ZOSFONT",21,0)
+ G INIT
+"RTN","ZOSFONT",22,0)
+ ;
+"RTN","ZOSFONT",23,0)
+ONE(X) ;update a single global node
+"RTN","ZOSFONT",24,0)
+ Q:X=""
+"RTN","ZOSFONT",25,0)
+ F I=1:2 S Z=$P($T(Z+I),";;",2) Q:Z=""  I Z=X S Y=$P($T(Z+1+I),";;",2,99),^%ZOSF(X)=Y Q
+"RTN","ZOSFONT",26,0)
+ Q
+"RTN","ZOSFONT",27,0)
+Z ;;
+"RTN","ZOSFONT",28,0)
+ ;;ACTJ;;Active Jobs
+"RTN","ZOSFONT",29,0)
+ ;;S Y=$$ACTJ^%ZOSV()
+"RTN","ZOSFONT",30,0)
+ ;;AVJ;;Available Jobs
+"RTN","ZOSFONT",31,0)
+ ;;S Y=$$AVJ^%ZOSV()
+"RTN","ZOSFONT",32,0)
+ ;;BRK;;Enable Break
+"RTN","ZOSFONT",33,0)
+ ;;U $I:("":"+B")
+"RTN","ZOSFONT",34,0)
+ ;;DEL;;Delete Routine
+"RTN","ZOSFONT",35,0)
+ ;;X "ZR  ZS @X"
+"RTN","ZOSFONT",36,0)
+ ;;EOFF;;Echo off
+"RTN","ZOSFONT",37,0)
+ ;;U $I:("":"+S")
+"RTN","ZOSFONT",38,0)
+ ;;EON;;Echo On
+"RTN","ZOSFONT",39,0)
+ ;;U $I:("":"-S")
+"RTN","ZOSFONT",40,0)
+ ;;EOT;;End of Tape
+"RTN","ZOSFONT",41,0)
+ ;;S Y=$ZA\1024#2
+"RTN","ZOSFONT",42,0)
+ ;;ERRTN;;Error Routine
+"RTN","ZOSFONT",43,0)
+ ;;^%ZTER
+"RTN","ZOSFONT",44,0)
+ ;;ETRP;;obsolete
+"RTN","ZOSFONT",45,0)
+ ;;Q
+"RTN","ZOSFONT",46,0)
+ ;;GD;;Global Directory
+"RTN","ZOSFONT",47,0)
+ ;;D ^%GD
+"RTN","ZOSFONT",48,0)
+ ;;GSEL;;Select Globals
+"RTN","ZOSFONT",49,0)
+ ;;K ^CacheTempJ($J),^UTILITY($J) D ^%SYS.GSET M ^UTILITY($J)=^CacheTempJ($J) K ^CacheTempJ($J)
+"RTN","ZOSFONT",50,0)
+ ;;JOBPARAM;;Local Job
+"RTN","ZOSFONT",51,0)
+ ;;D JOBPAR^%ZOSV
+"RTN","ZOSFONT",52,0)
+ ;;LABOFF;;Special Lab Echo off
+"RTN","ZOSFONT",53,0)
+ ;;U IO:("":"+S+I-T":$C(13,27))
+"RTN","ZOSFONT",54,0)
+ ;;LOAD;;Load Routine
+"RTN","ZOSFONT",55,0)
+ ;;N %,%N S %N=0 X "ZL @X F XCNP=XCNP+1:1 S %N=%N+1,%=$T(+%N) Q:$L(%)=0  S @(DIF_XCNP_"",0)"")=%"
+"RTN","ZOSFONT",56,0)
+ ;;LPC;;Longitudinal Parity Check
+"RTN","ZOSFONT",57,0)
+ ;;S Y=$ZC(X)
+"RTN","ZOSFONT",58,0)
+ ;;MAXSIZ;;Set Partition Size
+"RTN","ZOSFONT",59,0)
+ ;;S $ZS=X+X
+"RTN","ZOSFONT",60,0)
+ ;;MGR
+"RTN","ZOSFONT",61,0)
+ ;;%SYS
+"RTN","ZOSFONT",62,0)
+ ;;MAGTAPE;;Sets magtape functions into %MT
+"RTN","ZOSFONT",63,0)
+ ;;S %MT("BS")="*-1",%MT("FS")="*-2",%MT("WTM")="*-3",%MT("WB")="*-4",%MT("REW")="*-5",%MT("RB")="*-6",%MT("REL")="*-7",%MT("WHL")="*-8",%MT("WEL")="*-9"
+"RTN","ZOSFONT",64,0)
+ ;;MTBOT;;Begining of Tape
+"RTN","ZOSFONT",65,0)
+ ;;S Y=$ZA\32#2
+"RTN","ZOSFONT",66,0)
+ ;;MTONLINE;;Magtape Online
+"RTN","ZOSFONT",67,0)
+ ;;S Y=$ZA\64#2
+"RTN","ZOSFONT",68,0)
+ ;;MTWPROT;;Magtape Write Protected
+"RTN","ZOSFONT",69,0)
+ ;;S Y=$ZA\4#2
+"RTN","ZOSFONT",70,0)
+ ;;MTERR;;Magtape Error
+"RTN","ZOSFONT",71,0)
+ ;;S Y=$ZA\32768#2
+"RTN","ZOSFONT",72,0)
+ ;;NBRK;;No break
+"RTN","ZOSFONT",73,0)
+ ;;U $I:("":"-B")
+"RTN","ZOSFONT",74,0)
+ ;;NO-PASSALL;;Set terminal to normal text mode
+"RTN","ZOSFONT",75,0)
+ ;;U $I:("":"-I+T")
+"RTN","ZOSFONT",76,0)
+ ;;NO-TYPE-AHEAD;;Turn off Type Ahead
+"RTN","ZOSFONT",77,0)
+ ;;U $I:("":"+F":$C(13,27))
+"RTN","ZOSFONT",78,0)
+ ;;PASSALL;;Set terminal to pass all codes
+"RTN","ZOSFONT",79,0)
+ ;;U $I:("":"+I-T")
+"RTN","ZOSFONT",80,0)
+ ;;PRIINQ;;Priority in current queue
+"RTN","ZOSFONT",81,0)
+ ;;N %PRIO D ^%PRIO S Y=$S('%PRIO:5,%PRIO>0:8,1:3)
+"RTN","ZOSFONT",82,0)
+ ;;PRIORITY;;set priority to X (1=low, 10=high)
+"RTN","ZOSFONT",83,0)
+ ;;D @($S(X>7:"NORMAL",X>3:"NORMAL",1:"LOW")_"^%PRIO") ;Don't do HIGH
+"RTN","ZOSFONT",84,0)
+ ;;PROGMODE;;Checks Programmer Mode
+"RTN","ZOSFONT",85,0)
+ ;;S Y=$ZJOB#2
+"RTN","ZOSFONT",86,0)
+ ;;PROD
+"RTN","ZOSFONT",87,0)
+ ;;VAH
+"RTN","ZOSFONT",88,0)
+ ;;RD;;Routine Directory
+"RTN","ZOSFONT",89,0)
+ ;;D ^%RD
+"RTN","ZOSFONT",90,0)
+ ;;RESJOB;;Kill job on local node
+"RTN","ZOSFONT",91,0)
+ ;;N OLD S OLD=$ZNSPACE ZNSPACE "%SYS" D ^RESJOB ZNSPACE OLD Q
+"RTN","ZOSFONT",92,0)
+ ;;RM;;Set Right Margin for terminal
+"RTN","ZOSFONT",93,0)
+ ;;I $G(IOT)["TRM" U $I:X
+"RTN","ZOSFONT",94,0)
+ ;;RSEL;;Routine Select
+"RTN","ZOSFONT",95,0)
+ ;;K ^UTILITY($J) D KERNEL^%RSET K %ST ;Special entry point for VA
+"RTN","ZOSFONT",96,0)
+ ;;RSUM;;Returns Checksum of Routine
+"RTN","ZOSFONT",97,0)
+ ;;N %,%1,%3 ZL @X S Y=0 F %=1,3:1 S %1=$T(+%),%3=$F(%1," ") Q:'%3  S %3=$S($E(%1,%3)'=";":$L(%1),$E(%1,%3+1)=";":$L(%1),1:%3-2) F %2=1:1:%3 S Y=$A(%1,%2)*%2+Y
+"RTN","ZOSFONT",98,0)
+ ;;RSUM1;;Returns new Checksum of Routine
+"RTN","ZOSFONT",99,0)
+ ;;N %,%1,%3 ZL @X S Y=0 F %=1,3:1 S %1=$T(+%),%3=$F(%1," ") Q:'%3  S %3=$S($E(%1,%3)'=";":$L(%1),$E(%1,%3+1)=";":$L(%1),1:%3-2) F %2=1:1:%3 S Y=$A(%1,%2)*(%2+%)+Y
+"RTN","ZOSFONT",100,0)
+ ;;SS;;System Status
+"RTN","ZOSFONT",101,0)
+ ;;D ^%SS
+"RTN","ZOSFONT",102,0)
+ ;;SAVE;;Save Routine
+"RTN","ZOSFONT",103,0)
+ ;;N XCS S XCS="F XCM=1:1 S XCN=$O(@(DIE_XCN_"")"")) Q:+XCN'=XCN  S %=^(XCN,0) Q:$E(%,1)=""$""  I $E(%,1)'="";"" ZI %" X "ZR  X XCS ZS @X"
+"RTN","ZOSFONT",104,0)
+ ;;SIZE;;Routine size in Bytes
+"RTN","ZOSFONT",105,0)
+ ;;S Y=0 F I=1:1 S %=$T(+I) Q:%=""  S Y=Y+$L(%)+2
+"RTN","ZOSFONT",106,0)
+ ;;TEST;;Routine exist
+"RTN","ZOSFONT",107,0)
+ ;;I X?1(1"%",1A).15AN,$D(^$ROUTINE(X))
+"RTN","ZOSFONT",108,0)
+ ;;TMK;;Magtape Mark
+"RTN","ZOSFONT",109,0)
+ ;;S Y=$ZA\4#2
+"RTN","ZOSFONT",110,0)
+ ;;TRAP;;Sets Error Trap;S X="^%ET",@^%ZOSF("TRAP"); User $ETRAP
+"RTN","ZOSFONT",111,0)
+ ;;$ZT=X
+"RTN","ZOSFONT",112,0)
+ ;;TRMOFF;;Terminators off
+"RTN","ZOSFONT",113,0)
+ ;;U $I:("":"-I-T":$C(13,27))
+"RTN","ZOSFONT",114,0)
+ ;;TRMON;;Terminators on
+"RTN","ZOSFONT",115,0)
+ ;;U $I:("":"+I+T")
+"RTN","ZOSFONT",116,0)
+ ;;TRMRD;;Read Terminator
+"RTN","ZOSFONT",117,0)
+ ;;S Y=$A($ZB),Y=$S(Y<32:Y,Y=127:Y,1:0)
+"RTN","ZOSFONT",118,0)
+ ;;TYPE-AHEAD;;Allows Type-ahead
+"RTN","ZOSFONT",119,0)
+ ;;U $I:("":"-F":$C(13,27))
+"RTN","ZOSFONT",120,0)
+ ;;UCI;;Current UCI
+"RTN","ZOSFONT",121,0)
+ ;;D UCI^%ZOSV
+"RTN","ZOSFONT",122,0)
+ ;;UCICHECK;;UCI Valid
+"RTN","ZOSFONT",123,0)
+ ;;S Y=$$UCICHECK^%ZOSV(X)
+"RTN","ZOSFONT",124,0)
+ ;;UPPERCASE;;Convert Lower case to Upper case
+"RTN","ZOSFONT",125,0)
+ ;;S Y=$TR(X,"abcdefghijklmnopqrstuvwxyz","ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+"RTN","ZOSFONT",126,0)
+ ;;XY;;Set $X & $Y
+"RTN","ZOSFONT",127,0)
+ ;;S $X=DX,$Y=DY
+"RTN","ZOSFONT",128,0)
+ ;;VOL;;VOLUME SET NAME
+"RTN","ZOSFONT",129,0)
+ ;;ROU
+"RTN","ZOSFONT",130,0)
+ ;;ZD;;$H to external
+"RTN","ZOSFONT",131,0)
+ ;;S Y=$ZD(X)
+"VER")
+8.0^22.2
+"BLD",1667,6)
+^556
+**END**
+**END**
+

@@ -1,0 +1,2591 @@
+EMERGENCY Released SD*5.3*731 SEQ #594
+Extracted from mail message
+**KIDS**:SD*5.3*731^
+
+**INSTALL NAME**
+SD*5.3*731
+"BLD",10376,0)
+SD*5.3*731^SCHEDULING^0^3190920^y
+"BLD",10376,1,0)
+^^236^236^3190920^
+"BLD",10376,1,1,0)
+Patch 731 enhances the appointment fixing routine used by the manual fix
+"BLD",10376,1,2,0)
+option (SDEC NO RES APPT FIX) and automatic fix option (SDEC NO RES APPT
+"BLD",10376,1,3,0)
+AUTO FIX).  It also has a tweak to the SDEC EP WAIT LIST RPC code to strip
+"BLD",10376,1,4,0)
+time from the CID date if it is present.  This tweak allows schedulers to 
+"BLD",10376,1,5,0)
+cancel VAOS appointments from the VSE calendar without error.
+"BLD",10376,1,6,0)
+ 
+"BLD",10376,1,7,0)
+Previously (patch 723), the fixing routine would not repair appointments
+"BLD",10376,1,8,0)
+(#409.84) where the current state (active or cancelled) was different from
+"BLD",10376,1,9,0)
+the appointment in the patient file (#2).  This restriction was based on 
+"BLD",10376,1,10,0)
+test data available to the development team.  The relaxation of these 
+"BLD",10376,1,11,0)
+restrictions resulted from experience with production data in the IOC 
+"BLD",10376,1,12,0)
+sites.
+"BLD",10376,1,13,0)
+ 
+"BLD",10376,1,14,0)
+The new version can flag an appointment file (#409.84) entry as cancelled
+"BLD",10376,1,15,0)
+and will copy the corresponding cancellation data into it from the patient
+"BLD",10376,1,16,0)
+file entry.  It can also change an appointment file (#409.84) entry from
+"BLD",10376,1,17,0)
+cancelled to active and will remove the cancellation data.  The enhanced 
+"BLD",10376,1,18,0)
+version also compares appointments in the patient and location file to 
+"BLD",10376,1,19,0)
+ensure consistency before between them so that VSE and VistA Scheduling 
+"BLD",10376,1,20,0)
+can function properly.
+"BLD",10376,1,21,0)
+ 
+"BLD",10376,1,22,0)
+Patch 731 also adds a new option "Appointments with no resource report" 
+"BLD",10376,1,23,0)
+[SDEC NO RES APPT REPORT], that operates the same as the "Automatically
+"BLD",10376,1,24,0)
+Fix Appointments with No Resource" [SDEC NO RES APPT AUTO FIX] option
+"BLD",10376,1,25,0)
+except that it only lists the differences.  It makes no changes.  Use the
+"BLD",10376,1,26,0)
+option to review the discrepancies betweenn the patient, location and
+"BLD",10376,1,27,0)
+appointment files.
+"BLD",10376,1,28,0)
+ 
+"BLD",10376,1,29,0)
+  Patch Components:
+"BLD",10376,1,30,0)
+  -----------------
+"BLD",10376,1,31,0)
+   
+"BLD",10376,1,32,0)
+  Files & Fields Associated:
+"BLD",10376,1,33,0)
+   
+"BLD",10376,1,34,0)
+  File Name (Number)         Field Name (Number)  New/Modified/Deleted
+"BLD",10376,1,35,0)
+  ------------------         -------------------  --------------------
+"BLD",10376,1,36,0)
+  N/A
+"BLD",10376,1,37,0)
+   
+"BLD",10376,1,38,0)
+   
+"BLD",10376,1,39,0)
+  Forms Associated:
+"BLD",10376,1,40,0)
+   
+"BLD",10376,1,41,0)
+  Form Name    File #    New/Modified/Deleted
+"BLD",10376,1,42,0)
+  ---------    ------    --------------------
+"BLD",10376,1,43,0)
+  N/A
+"BLD",10376,1,44,0)
+   
+"BLD",10376,1,45,0)
+   
+"BLD",10376,1,46,0)
+  Mail Groups Associated:
+"BLD",10376,1,47,0)
+   
+"BLD",10376,1,48,0)
+  Mail Group Name    New/Modified/Deleted
+"BLD",10376,1,49,0)
+  ---------------    --------------------
+"BLD",10376,1,50,0)
+  N/A
+"BLD",10376,1,51,0)
+   
+"BLD",10376,1,52,0)
+   
+"BLD",10376,1,53,0)
+  Options Associated:
+"BLD",10376,1,54,0)
+                                                                   
+"BLD",10376,1,55,0)
+  Option Name                                    Type       New/Modified/
+"BLD",10376,1,56,0)
+                                                            Deleted    
+"BLD",10376,1,57,0)
+  -----------                                    ----       -------------
+"BLD",10376,1,58,0)
+  Appointments with No Resource Report 
+"BLD",10376,1,59,0)
+      [SDEC NO RES APPT REPORT]                  Routine    NEW
+"BLD",10376,1,60,0)
+ 
+"BLD",10376,1,61,0)
+  Supervisor Menu [SDSUP]                        Menu       MODIFIED
+"BLD",10376,1,62,0)
+   
+"BLD",10376,1,63,0)
+   
+"BLD",10376,1,64,0)
+  Protocols Associated:
+"BLD",10376,1,65,0)
+   
+"BLD",10376,1,66,0)
+  Protocol Name    New/Modified/Deleted
+"BLD",10376,1,67,0)
+  -------------    -------------------- 
+"BLD",10376,1,68,0)
+  N/A
+"BLD",10376,1,69,0)
+   
+"BLD",10376,1,70,0)
+   
+"BLD",10376,1,71,0)
+  Security Keys Associated:
+"BLD",10376,1,72,0)
+   
+"BLD",10376,1,73,0)
+  Security Key Name
+"BLD",10376,1,74,0)
+  -----------------
+"BLD",10376,1,75,0)
+  N/A
+"BLD",10376,1,76,0)
+   
+"BLD",10376,1,77,0)
+   
+"BLD",10376,1,78,0)
+  Templates Associated:
+"BLD",10376,1,79,0)
+   
+"BLD",10376,1,80,0)
+                                                             New/Modified/
+"BLD",10376,1,81,0)
+  Template Name          Type    File Name (Number)             Deleted 
+"BLD",10376,1,82,0)
+  -------------          ----    ------------------          -------------
+"BLD",10376,1,83,0)
+   
+"BLD",10376,1,84,0)
+  Additional Information:
+"BLD",10376,1,85,0)
+  N/A
+"BLD",10376,1,86,0)
+   
+"BLD",10376,1,87,0)
+   
+"BLD",10376,1,88,0)
+  New Service Requests (NSRs):
+"BLD",10376,1,89,0)
+  ----------------------------  
+"BLD",10376,1,90,0)
+  N/A
+"BLD",10376,1,91,0)
+   
+"BLD",10376,1,92,0)
+   
+"BLD",10376,1,93,0)
+  Patient Safety Issues (PSIs):
+"BLD",10376,1,94,0)
+  -----------------------------
+"BLD",10376,1,95,0)
+  HITPS-6559
+"BLD",10376,1,96,0)
+   
+"BLD",10376,1,97,0)
+   
+"BLD",10376,1,98,0)
+  Defect Tracking System Ticket(s) & Overview:
+"BLD",10376,1,99,0)
+  --------------------------------------------
+"BLD",10376,1,100,0)
+  1. RTC 1087933 - Appointment fix options (manual and automatic) do not 
+"BLD",10376,1,101,0)
+     fix appointments that are cancelled in the patient (#2) and location 
+"BLD",10376,1,102,0)
+     (#44) files but not in the appointment file (#409.84).  Also to
+"BLD",10376,1,103,0)
+     activate a cancelled appointment file entry if the patient file entry
+"BLD",10376,1,104,0)
+     is active.
+"BLD",10376,1,105,0)
+ 
+"BLD",10376,1,106,0)
+  Problem:
+"BLD",10376,1,107,0)
+  -------
+"BLD",10376,1,108,0)
+  The appointment fixing routine developed for patch 723 does not repair 
+"BLD",10376,1,109,0)
+  active appointment file (#409.84) entries when the patient file (#2) 
+"BLD",10376,1,110,0)
+  appointment is cancelled and vice versa.  This problem was discovered 
+"BLD",10376,1,111,0)
+  during production IOC testing.
+"BLD",10376,1,112,0)
+   
+"BLD",10376,1,113,0)
+  Resolution:
+"BLD",10376,1,114,0)
+  ----------
+"BLD",10376,1,115,0)
+  The appointment fixing routine was modifed to change appointment data 
+"BLD",10376,1,116,0)
+  from active to cancelled and cancelled to active.
+"BLD",10376,1,117,0)
+ 
+"BLD",10376,1,118,0)
+  The instructions for using the two appointment fixing options are 
+"BLD",10376,1,119,0)
+  described in detail in patch 723.
+"BLD",10376,1,120,0)
+ 
+"BLD",10376,1,121,0)
+  2. INC6787649 - Cancels wrong pt. appointment when original appointment 
+"BLD",10376,1,122,0)
+     was made through self scheduling.
+"BLD",10376,1,123,0)
+ 
+"BLD",10376,1,124,0)
+  Problem:
+"BLD",10376,1,125,0)
+  -------
+"BLD",10376,1,126,0)
+  When a VAOS-created appointment is cancelled in VSE, the appointment 
+"BLD",10376,1,127,0)
+  for the previously scheduled appointment, for another patient, is 
+"BLD",10376,1,128,0)
+  cancelled instead.
+"BLD",10376,1,129,0)
+ 
+"BLD",10376,1,130,0)
+  Resolution:
+"BLD",10376,1,131,0)
+  ----------
+"BLD",10376,1,132,0)
+  Appointment cancellation can be performed from the appointment context 
+"BLD",10376,1,133,0)
+  menu associated with the appointment from either the Pending
+"BLD",10376,1,134,0)
+  Appointments list or the calendar.  A change was made to a MUMPS routine
+"BLD",10376,1,135,0)
+  (SDECEPT) that blocked access to the cancel appointment option on the
+"BLD",10376,1,136,0)
+  calendar.  The block resulted from time being filed along with date in
+"BLD",10376,1,137,0)
+  the CID field by VAOS.  SDECEPT strips off time when it returns data to
+"BLD",10376,1,138,0)
+  VS GUI.  The presence of time resulted in an "unhandled exception" error
+"BLD",10376,1,139,0)
+  in VS GUI blocking access to the cancel appointment option.
+"BLD",10376,1,140,0)
+ 
+"BLD",10376,1,141,0)
+  Note:  This code change does not correct the error in the cancel option 
+"BLD",10376,1,142,0)
+  on the Pending Appointments list.  That correction will require a change
+"BLD",10376,1,143,0)
+  to VS GUI and will appear in a future release of the software.
+"BLD",10376,1,144,0)
+ 
+"BLD",10376,1,145,0)
+==========================================================================
+"BLD",10376,1,146,0)
+ 
+"BLD",10376,1,147,0)
+  Test Sites:
+"BLD",10376,1,148,0)
+  ----------
+"BLD",10376,1,149,0)
+  North Texas
+"BLD",10376,1,150,0)
+  Fayetteville, NC
+"BLD",10376,1,151,0)
+   
+"BLD",10376,1,152,0)
+  Software and Documentation Retrieval Instructions:
+"BLD",10376,1,153,0)
+  ---------------------------------------------------- 
+"BLD",10376,1,154,0)
+  Software being released as a host file and/or documentation describing 
+"BLD",10376,1,155,0)
+  the new functionality introduced by this patch are available.
+"BLD",10376,1,156,0)
+   
+"BLD",10376,1,157,0)
+  The preferred method is to retrieve files from 
+"BLD",10376,1,158,0)
+  download.vista.domain.ext. This transmits the files from the first
+"BLD",10376,1,159,0)
+  available server. Sites may also elect to retrieve files directly from a
+"BLD",10376,1,160,0)
+  specific server. 
+"BLD",10376,1,161,0)
+   
+"BLD",10376,1,162,0)
+  Sites may retrieve the software and/or documentation directly using 
+"BLD",10376,1,163,0)
+  Secure File Transfer Protocol (SFTP) from the ANONYMOUS.SOFTWARE
+"BLD",10376,1,164,0)
+  directory at the following OI Field Offices:
+"BLD",10376,1,165,0)
+   
+"BLD",10376,1,166,0)
+  Hines:    domain.ext  
+"BLD",10376,1,167,0)
+  Salt Lake City:    domain.ext
+"BLD",10376,1,168,0)
+   
+"BLD",10376,1,169,0)
+  Documentation can also be found on the VA Software Documentation 
+"BLD",10376,1,170,0)
+  Library at: http://www4.domain.ext/vdl/
+"BLD",10376,1,171,0)
+   
+"BLD",10376,1,172,0)
+   
+"BLD",10376,1,173,0)
+  Title                                          File Name       FTP Mode
+"BLD",10376,1,174,0)
+--------------------------------------------------------------------------
+"BLD",10376,1,175,0)
+  VistA Scheduling Enhancements User Guide       VSE_UG.PDF         Binary
+"BLD",10376,1,176,0)
+   
+"BLD",10376,1,177,0)
+  Patch Installation:
+"BLD",10376,1,178,0)
+   
+"BLD",10376,1,179,0)
+   
+"BLD",10376,1,180,0)
+  Pre/Post Installation Overview:
+"BLD",10376,1,181,0)
+  -------------------------------
+"BLD",10376,1,182,0)
+ 
+"BLD",10376,1,183,0)
+  Pre-Installation Instructions:
+"BLD",10376,1,184,0)
+ 
+"BLD",10376,1,185,0)
+  This patch may be installed with users on the system although it is
+"BLD",10376,1,186,0)
+  recommended that it be installed during non-peak hours to minimize
+"BLD",10376,1,187,0)
+  potential disruption to users.  This patch should take less than 5
+"BLD",10376,1,188,0)
+  minutes to install.
+"BLD",10376,1,189,0)
+ 
+"BLD",10376,1,190,0)
+  No pre- or post-installation steps are required.
+"BLD",10376,1,191,0)
+   
+"BLD",10376,1,192,0)
+  Installation Instructions:
+"BLD",10376,1,193,0)
+  --------------------------
+"BLD",10376,1,194,0)
+ 
+"BLD",10376,1,195,0)
+  1. Choose the PackMan message containing this patch.
+"BLD",10376,1,196,0)
+   
+"BLD",10376,1,197,0)
+  2. Choose the INSTALL/CHECK MESSAGE PackMan option. 
+"BLD",10376,1,198,0)
+   
+"BLD",10376,1,199,0)
+  3. From the Kernel Installation and Distribution System Menu, select the
+"BLD",10376,1,200,0)
+  Installation Menu.  From this menu, you may elect to use the following
+"BLD",10376,1,201,0)
+  options. When prompted for the INSTALL NAME enter the patch number (ex. 
+"BLD",10376,1,202,0)
+  SD*5.3*731):
+"BLD",10376,1,203,0)
+ 
+"BLD",10376,1,204,0)
+  a. Backup a Transport Global - This option will create a backup message 
+"BLD",10376,1,205,0)
+  of any routines exported with this patch. It will not backup any other
+"BLD",10376,1,206,0)
+  changes such as DDs or templates.
+"BLD",10376,1,207,0)
+ 
+"BLD",10376,1,208,0)
+  b. Compare Transport Global to Current System - This option will (allow 
+"BLD",10376,1,209,0)
+  you to view all changes that will be made when this patch is installed.
+"BLD",10376,1,210,0)
+  It compares all components of this patch routines, DDs, templates,
+"BLD",10376,1,211,0)
+  etc.).
+"BLD",10376,1,212,0)
+ 
+"BLD",10376,1,213,0)
+  c. Verify Checksums in Transport Global - This option will allow you to
+"BLD",10376,1,214,0)
+  ensure the integrity of the routines that are in the transport global.
+"BLD",10376,1,215,0)
+   
+"BLD",10376,1,216,0)
+  4.  From the Installation Menu, select the Install Package(s) option and
+"BLD",10376,1,217,0)
+  choose the patch to install.
+"BLD",10376,1,218,0)
+   
+"BLD",10376,1,219,0)
+  5. When prompted 'Want KIDS to Rebuild Menu Trees Upon Completion of
+"BLD",10376,1,220,0)
+  Install? YES//', respond YES.
+"BLD",10376,1,221,0)
+   
+"BLD",10376,1,222,0)
+  6. When prompted 'Want KIDS to INHIBIT LOGONs during the install? NO//',
+"BLD",10376,1,223,0)
+  respond NO.
+"BLD",10376,1,224,0)
+   
+"BLD",10376,1,225,0)
+  7. When prompted 'Want to DISABLE Scheduled Options, Menu Options, and
+"BLD",10376,1,226,0)
+  Protocols? NO//', respond NO.
+"BLD",10376,1,227,0)
+   
+"BLD",10376,1,228,0)
+  8. If prompted 'Delay Install (Minutes):  (0 - 60): 0//' respond 0.
+"BLD",10376,1,229,0)
+   
+"BLD",10376,1,230,0)
+   
+"BLD",10376,1,231,0)
+  Back-Out Plan:
+"BLD",10376,1,232,0)
+  --------------------
+"BLD",10376,1,233,0)
+  In order to back out this patch, restore the transport global that was 
+"BLD",10376,1,234,0)
+  saved in Step 3.a. of the installation.  Delete the options that  
+"BLD",10376,1,235,0)
+  were included in the patch except SDSUP. Edit the SDSUP option to remove
+"BLD",10376,1,236,0)
+  the new option.
+"BLD",10376,4,0)
+^9.64PA^^0
+"BLD",10376,6.3)
+7
+"BLD",10376,"KRN",0)
+^9.67PA^779.2^20
+"BLD",10376,"KRN",.4,0)
+.4
+"BLD",10376,"KRN",.401,0)
+.401
+"BLD",10376,"KRN",.402,0)
+.402
+"BLD",10376,"KRN",.403,0)
+.403
+"BLD",10376,"KRN",.5,0)
+.5
+"BLD",10376,"KRN",.84,0)
+.84
+"BLD",10376,"KRN",3.6,0)
+3.6
+"BLD",10376,"KRN",3.8,0)
+3.8
+"BLD",10376,"KRN",9.2,0)
+9.2
+"BLD",10376,"KRN",9.8,0)
+9.8
+"BLD",10376,"KRN",9.8,"NM",0)
+^9.68A^2^2
+"BLD",10376,"KRN",9.8,"NM",1,0)
+SDECDATA^^0^B131188343
+"BLD",10376,"KRN",9.8,"NM",2,0)
+SDECEPT^^0^B132582629
+"BLD",10376,"KRN",9.8,"NM","B","SDECDATA",1)
+
+"BLD",10376,"KRN",9.8,"NM","B","SDECEPT",2)
+
+"BLD",10376,"KRN",19,0)
+19
+"BLD",10376,"KRN",19,"NM",0)
+^9.68A^2^2
+"BLD",10376,"KRN",19,"NM",1,0)
+SDEC NO RES APPT REPORT^^0
+"BLD",10376,"KRN",19,"NM",2,0)
+SDSUP^^2
+"BLD",10376,"KRN",19,"NM","B","SDEC NO RES APPT REPORT",1)
+
+"BLD",10376,"KRN",19,"NM","B","SDSUP",2)
+
+"BLD",10376,"KRN",19.1,0)
+19.1
+"BLD",10376,"KRN",101,0)
+101
+"BLD",10376,"KRN",409.61,0)
+409.61
+"BLD",10376,"KRN",771,0)
+771
+"BLD",10376,"KRN",779.2,0)
+779.2
+"BLD",10376,"KRN",870,0)
+870
+"BLD",10376,"KRN",8989.51,0)
+8989.51
+"BLD",10376,"KRN",8989.52,0)
+8989.52
+"BLD",10376,"KRN",8994,0)
+8994
+"BLD",10376,"KRN","B",.4,.4)
+
+"BLD",10376,"KRN","B",.401,.401)
+
+"BLD",10376,"KRN","B",.402,.402)
+
+"BLD",10376,"KRN","B",.403,.403)
+
+"BLD",10376,"KRN","B",.5,.5)
+
+"BLD",10376,"KRN","B",.84,.84)
+
+"BLD",10376,"KRN","B",3.6,3.6)
+
+"BLD",10376,"KRN","B",3.8,3.8)
+
+"BLD",10376,"KRN","B",9.2,9.2)
+
+"BLD",10376,"KRN","B",9.8,9.8)
+
+"BLD",10376,"KRN","B",19,19)
+
+"BLD",10376,"KRN","B",19.1,19.1)
+
+"BLD",10376,"KRN","B",101,101)
+
+"BLD",10376,"KRN","B",409.61,409.61)
+
+"BLD",10376,"KRN","B",771,771)
+
+"BLD",10376,"KRN","B",779.2,779.2)
+
+"BLD",10376,"KRN","B",870,870)
+
+"BLD",10376,"KRN","B",8989.51,8989.51)
+
+"BLD",10376,"KRN","B",8989.52,8989.52)
+
+"BLD",10376,"KRN","B",8994,8994)
+
+"BLD",10376,"QDEF")
+^^^^NO^^^^YES^^NO
+"BLD",10376,"QUES",0)
+^9.62^^
+"BLD",10376,"REQB",0)
+^9.611^1^1
+"BLD",10376,"REQB",1,0)
+SD*5.3*723^2
+"BLD",10376,"REQB","B","SD*5.3*723",1)
+
+"KRN",19,2202,-1)
+2^2
+"KRN",19,2202,0)
+SDSUP^Supervisor Menu^^M^114^^^^^^^48^y
+"KRN",19,2202,10,0)
+^19.01IP^38^38
+"KRN",19,2202,10,28,0)
+11734
+"KRN",19,2202,10,28,"^")
+SDEC NO RES APPT REPORT
+"KRN",19,2202,"U")
+SUPERVISOR MENU
+"KRN",19,11734,-1)
+0^1
+"KRN",19,11734,0)
+SDEC NO RES APPT REPORT^Appointments with no resource report^^R^^^^^^^^SCHEDULING
+"KRN",19,11734,1,0)
+^^5^5^3190729^
+"KRN",19,11734,1,1,0)
+This option scans the SDEC Appointment file (#409.84) and identifies 
+"KRN",19,11734,1,2,0)
+appointments that do not have the resource (#409.831) field populated.  
+"KRN",19,11734,1,3,0)
+This condition occurs when an appointment is made in legacy VistA for a 
+"KRN",19,11734,1,4,0)
+clinic (#44) that does not have a resource of the same name assigned to 
+"KRN",19,11734,1,5,0)
+it.
+"KRN",19,11734,25)
+REPORT^SDECDATA
+"KRN",19,11734,"U")
+APPOINTMENTS WITH NO RESOURCE 
+"MBREQ")
+0
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",48,-1)
+1^1
+"PKG",48,0)
+SCHEDULING^SD^APPOINTMENTS,PROFILES,LETTERS,AMIS REPORTS
+"PKG",48,22,0)
+^9.49I^1^1
+"PKG",48,22,1,0)
+5.3^3051119^2960613
+"PKG",48,22,1,"PAH",1,0)
+731^3190920
+"PKG",48,22,1,"PAH",1,1,0)
+^^236^236^3190920
+"PKG",48,22,1,"PAH",1,1,1,0)
+Patch 731 enhances the appointment fixing routine used by the manual fix
+"PKG",48,22,1,"PAH",1,1,2,0)
+option (SDEC NO RES APPT FIX) and automatic fix option (SDEC NO RES APPT
+"PKG",48,22,1,"PAH",1,1,3,0)
+AUTO FIX).  It also has a tweak to the SDEC EP WAIT LIST RPC code to strip
+"PKG",48,22,1,"PAH",1,1,4,0)
+time from the CID date if it is present.  This tweak allows schedulers to 
+"PKG",48,22,1,"PAH",1,1,5,0)
+cancel VAOS appointments from the VSE calendar without error.
+"PKG",48,22,1,"PAH",1,1,6,0)
+ 
+"PKG",48,22,1,"PAH",1,1,7,0)
+Previously (patch 723), the fixing routine would not repair appointments
+"PKG",48,22,1,"PAH",1,1,8,0)
+(#409.84) where the current state (active or cancelled) was different from
+"PKG",48,22,1,"PAH",1,1,9,0)
+the appointment in the patient file (#2).  This restriction was based on 
+"PKG",48,22,1,"PAH",1,1,10,0)
+test data available to the development team.  The relaxation of these 
+"PKG",48,22,1,"PAH",1,1,11,0)
+restrictions resulted from experience with production data in the IOC 
+"PKG",48,22,1,"PAH",1,1,12,0)
+sites.
+"PKG",48,22,1,"PAH",1,1,13,0)
+ 
+"PKG",48,22,1,"PAH",1,1,14,0)
+The new version can flag an appointment file (#409.84) entry as cancelled
+"PKG",48,22,1,"PAH",1,1,15,0)
+and will copy the corresponding cancellation data into it from the patient
+"PKG",48,22,1,"PAH",1,1,16,0)
+file entry.  It can also change an appointment file (#409.84) entry from
+"PKG",48,22,1,"PAH",1,1,17,0)
+cancelled to active and will remove the cancellation data.  The enhanced 
+"PKG",48,22,1,"PAH",1,1,18,0)
+version also compares appointments in the patient and location file to 
+"PKG",48,22,1,"PAH",1,1,19,0)
+ensure consistency before between them so that VSE and VistA Scheduling 
+"PKG",48,22,1,"PAH",1,1,20,0)
+can function properly.
+"PKG",48,22,1,"PAH",1,1,21,0)
+ 
+"PKG",48,22,1,"PAH",1,1,22,0)
+Patch 731 also adds a new option "Appointments with no resource report" 
+"PKG",48,22,1,"PAH",1,1,23,0)
+[SDEC NO RES APPT REPORT], that operates the same as the "Automatically
+"PKG",48,22,1,"PAH",1,1,24,0)
+Fix Appointments with No Resource" [SDEC NO RES APPT AUTO FIX] option
+"PKG",48,22,1,"PAH",1,1,25,0)
+except that it only lists the differences.  It makes no changes.  Use the
+"PKG",48,22,1,"PAH",1,1,26,0)
+option to review the discrepancies betweenn the patient, location and
+"PKG",48,22,1,"PAH",1,1,27,0)
+appointment files.
+"PKG",48,22,1,"PAH",1,1,28,0)
+ 
+"PKG",48,22,1,"PAH",1,1,29,0)
+  Patch Components:
+"PKG",48,22,1,"PAH",1,1,30,0)
+  -----------------
+"PKG",48,22,1,"PAH",1,1,31,0)
+   
+"PKG",48,22,1,"PAH",1,1,32,0)
+  Files & Fields Associated:
+"PKG",48,22,1,"PAH",1,1,33,0)
+   
+"PKG",48,22,1,"PAH",1,1,34,0)
+  File Name (Number)         Field Name (Number)  New/Modified/Deleted
+"PKG",48,22,1,"PAH",1,1,35,0)
+  ------------------         -------------------  --------------------
+"PKG",48,22,1,"PAH",1,1,36,0)
+  N/A
+"PKG",48,22,1,"PAH",1,1,37,0)
+   
+"PKG",48,22,1,"PAH",1,1,38,0)
+   
+"PKG",48,22,1,"PAH",1,1,39,0)
+  Forms Associated:
+"PKG",48,22,1,"PAH",1,1,40,0)
+   
+"PKG",48,22,1,"PAH",1,1,41,0)
+  Form Name    File #    New/Modified/Deleted
+"PKG",48,22,1,"PAH",1,1,42,0)
+  ---------    ------    --------------------
+"PKG",48,22,1,"PAH",1,1,43,0)
+  N/A
+"PKG",48,22,1,"PAH",1,1,44,0)
+   
+"PKG",48,22,1,"PAH",1,1,45,0)
+   
+"PKG",48,22,1,"PAH",1,1,46,0)
+  Mail Groups Associated:
+"PKG",48,22,1,"PAH",1,1,47,0)
+   
+"PKG",48,22,1,"PAH",1,1,48,0)
+  Mail Group Name    New/Modified/Deleted
+"PKG",48,22,1,"PAH",1,1,49,0)
+  ---------------    --------------------
+"PKG",48,22,1,"PAH",1,1,50,0)
+  N/A
+"PKG",48,22,1,"PAH",1,1,51,0)
+   
+"PKG",48,22,1,"PAH",1,1,52,0)
+   
+"PKG",48,22,1,"PAH",1,1,53,0)
+  Options Associated:
+"PKG",48,22,1,"PAH",1,1,54,0)
+                                                                   
+"PKG",48,22,1,"PAH",1,1,55,0)
+  Option Name                                    Type       New/Modified/
+"PKG",48,22,1,"PAH",1,1,56,0)
+                                                            Deleted    
+"PKG",48,22,1,"PAH",1,1,57,0)
+  -----------                                    ----       -------------
+"PKG",48,22,1,"PAH",1,1,58,0)
+  Appointments with No Resource Report 
+"PKG",48,22,1,"PAH",1,1,59,0)
+      [SDEC NO RES APPT REPORT]                  Routine    NEW
+"PKG",48,22,1,"PAH",1,1,60,0)
+ 
+"PKG",48,22,1,"PAH",1,1,61,0)
+  Supervisor Menu [SDSUP]                        Menu       MODIFIED
+"PKG",48,22,1,"PAH",1,1,62,0)
+   
+"PKG",48,22,1,"PAH",1,1,63,0)
+   
+"PKG",48,22,1,"PAH",1,1,64,0)
+  Protocols Associated:
+"PKG",48,22,1,"PAH",1,1,65,0)
+   
+"PKG",48,22,1,"PAH",1,1,66,0)
+  Protocol Name    New/Modified/Deleted
+"PKG",48,22,1,"PAH",1,1,67,0)
+  -------------    -------------------- 
+"PKG",48,22,1,"PAH",1,1,68,0)
+  N/A
+"PKG",48,22,1,"PAH",1,1,69,0)
+   
+"PKG",48,22,1,"PAH",1,1,70,0)
+   
+"PKG",48,22,1,"PAH",1,1,71,0)
+  Security Keys Associated:
+"PKG",48,22,1,"PAH",1,1,72,0)
+   
+"PKG",48,22,1,"PAH",1,1,73,0)
+  Security Key Name
+"PKG",48,22,1,"PAH",1,1,74,0)
+  -----------------
+"PKG",48,22,1,"PAH",1,1,75,0)
+  N/A
+"PKG",48,22,1,"PAH",1,1,76,0)
+   
+"PKG",48,22,1,"PAH",1,1,77,0)
+   
+"PKG",48,22,1,"PAH",1,1,78,0)
+  Templates Associated:
+"PKG",48,22,1,"PAH",1,1,79,0)
+   
+"PKG",48,22,1,"PAH",1,1,80,0)
+                                                             New/Modified/
+"PKG",48,22,1,"PAH",1,1,81,0)
+  Template Name          Type    File Name (Number)             Deleted 
+"PKG",48,22,1,"PAH",1,1,82,0)
+  -------------          ----    ------------------          -------------
+"PKG",48,22,1,"PAH",1,1,83,0)
+   
+"PKG",48,22,1,"PAH",1,1,84,0)
+  Additional Information:
+"PKG",48,22,1,"PAH",1,1,85,0)
+  N/A
+"PKG",48,22,1,"PAH",1,1,86,0)
+   
+"PKG",48,22,1,"PAH",1,1,87,0)
+   
+"PKG",48,22,1,"PAH",1,1,88,0)
+  New Service Requests (NSRs):
+"PKG",48,22,1,"PAH",1,1,89,0)
+  ----------------------------  
+"PKG",48,22,1,"PAH",1,1,90,0)
+  N/A
+"PKG",48,22,1,"PAH",1,1,91,0)
+   
+"PKG",48,22,1,"PAH",1,1,92,0)
+   
+"PKG",48,22,1,"PAH",1,1,93,0)
+  Patient Safety Issues (PSIs):
+"PKG",48,22,1,"PAH",1,1,94,0)
+  -----------------------------
+"PKG",48,22,1,"PAH",1,1,95,0)
+  HITPS-6559
+"PKG",48,22,1,"PAH",1,1,96,0)
+   
+"PKG",48,22,1,"PAH",1,1,97,0)
+   
+"PKG",48,22,1,"PAH",1,1,98,0)
+  Defect Tracking System Ticket(s) & Overview:
+"PKG",48,22,1,"PAH",1,1,99,0)
+  --------------------------------------------
+"PKG",48,22,1,"PAH",1,1,100,0)
+  1. RTC 1087933 - Appointment fix options (manual and automatic) do not 
+"PKG",48,22,1,"PAH",1,1,101,0)
+     fix appointments that are cancelled in the patient (#2) and location 
+"PKG",48,22,1,"PAH",1,1,102,0)
+     (#44) files but not in the appointment file (#409.84).  Also to
+"PKG",48,22,1,"PAH",1,1,103,0)
+     activate a cancelled appointment file entry if the patient file entry
+"PKG",48,22,1,"PAH",1,1,104,0)
+     is active.
+"PKG",48,22,1,"PAH",1,1,105,0)
+ 
+"PKG",48,22,1,"PAH",1,1,106,0)
+  Problem:
+"PKG",48,22,1,"PAH",1,1,107,0)
+  -------
+"PKG",48,22,1,"PAH",1,1,108,0)
+  The appointment fixing routine developed for patch 723 does not repair 
+"PKG",48,22,1,"PAH",1,1,109,0)
+  active appointment file (#409.84) entries when the patient file (#2) 
+"PKG",48,22,1,"PAH",1,1,110,0)
+  appointment is cancelled and vice versa.  This problem was discovered 
+"PKG",48,22,1,"PAH",1,1,111,0)
+  during production IOC testing.
+"PKG",48,22,1,"PAH",1,1,112,0)
+   
+"PKG",48,22,1,"PAH",1,1,113,0)
+  Resolution:
+"PKG",48,22,1,"PAH",1,1,114,0)
+  ----------
+"PKG",48,22,1,"PAH",1,1,115,0)
+  The appointment fixing routine was modifed to change appointment data 
+"PKG",48,22,1,"PAH",1,1,116,0)
+  from active to cancelled and cancelled to active.
+"PKG",48,22,1,"PAH",1,1,117,0)
+ 
+"PKG",48,22,1,"PAH",1,1,118,0)
+  The instructions for using the two appointment fixing options are 
+"PKG",48,22,1,"PAH",1,1,119,0)
+  described in detail in patch 723.
+"PKG",48,22,1,"PAH",1,1,120,0)
+ 
+"PKG",48,22,1,"PAH",1,1,121,0)
+  2. INC6787649 - Cancels wrong pt. appointment when original appointment 
+"PKG",48,22,1,"PAH",1,1,122,0)
+     was made through self scheduling.
+"PKG",48,22,1,"PAH",1,1,123,0)
+ 
+"PKG",48,22,1,"PAH",1,1,124,0)
+  Problem:
+"PKG",48,22,1,"PAH",1,1,125,0)
+  -------
+"PKG",48,22,1,"PAH",1,1,126,0)
+  When a VAOS-created appointment is cancelled in VSE, the appointment 
+"PKG",48,22,1,"PAH",1,1,127,0)
+  for the previously scheduled appointment, for another patient, is 
+"PKG",48,22,1,"PAH",1,1,128,0)
+  cancelled instead.
+"PKG",48,22,1,"PAH",1,1,129,0)
+ 
+"PKG",48,22,1,"PAH",1,1,130,0)
+  Resolution:
+"PKG",48,22,1,"PAH",1,1,131,0)
+  ----------
+"PKG",48,22,1,"PAH",1,1,132,0)
+  Appointment cancellation can be performed from the appointment context 
+"PKG",48,22,1,"PAH",1,1,133,0)
+  menu associated with the appointment from either the Pending
+"PKG",48,22,1,"PAH",1,1,134,0)
+  Appointments list or the calendar.  A change was made to a MUMPS routine
+"PKG",48,22,1,"PAH",1,1,135,0)
+  (SDECEPT) that blocked access to the cancel appointment option on the
+"PKG",48,22,1,"PAH",1,1,136,0)
+  calendar.  The block resulted from time being filed along with date in
+"PKG",48,22,1,"PAH",1,1,137,0)
+  the CID field by VAOS.  SDECEPT strips off time when it returns data to
+"PKG",48,22,1,"PAH",1,1,138,0)
+  VS GUI.  The presence of time resulted in an "unhandled exception" error
+"PKG",48,22,1,"PAH",1,1,139,0)
+  in VS GUI blocking access to the cancel appointment option.
+"PKG",48,22,1,"PAH",1,1,140,0)
+ 
+"PKG",48,22,1,"PAH",1,1,141,0)
+  Note:  This code change does not correct the error in the cancel option 
+"PKG",48,22,1,"PAH",1,1,142,0)
+  on the Pending Appointments list.  That correction will require a change
+"PKG",48,22,1,"PAH",1,1,143,0)
+  to VS GUI and will appear in a future release of the software.
+"PKG",48,22,1,"PAH",1,1,144,0)
+ 
+"PKG",48,22,1,"PAH",1,1,145,0)
+==========================================================================
+"PKG",48,22,1,"PAH",1,1,146,0)
+ 
+"PKG",48,22,1,"PAH",1,1,147,0)
+  Test Sites:
+"PKG",48,22,1,"PAH",1,1,148,0)
+  ----------
+"PKG",48,22,1,"PAH",1,1,149,0)
+  North Texas
+"PKG",48,22,1,"PAH",1,1,150,0)
+  Fayetteville, NC
+"PKG",48,22,1,"PAH",1,1,151,0)
+   
+"PKG",48,22,1,"PAH",1,1,152,0)
+  Software and Documentation Retrieval Instructions:
+"PKG",48,22,1,"PAH",1,1,153,0)
+  ---------------------------------------------------- 
+"PKG",48,22,1,"PAH",1,1,154,0)
+  Software being released as a host file and/or documentation describing 
+"PKG",48,22,1,"PAH",1,1,155,0)
+  the new functionality introduced by this patch are available.
+"PKG",48,22,1,"PAH",1,1,156,0)
+   
+"PKG",48,22,1,"PAH",1,1,157,0)
+  The preferred method is to retrieve files from 
+"PKG",48,22,1,"PAH",1,1,158,0)
+  download.vista.domain.ext. This transmits the files from the first
+"PKG",48,22,1,"PAH",1,1,159,0)
+  available server. Sites may also elect to retrieve files directly from a
+"PKG",48,22,1,"PAH",1,1,160,0)
+  specific server. 
+"PKG",48,22,1,"PAH",1,1,161,0)
+   
+"PKG",48,22,1,"PAH",1,1,162,0)
+  Sites may retrieve the software and/or documentation directly using 
+"PKG",48,22,1,"PAH",1,1,163,0)
+  Secure File Transfer Protocol (SFTP) from the ANONYMOUS.SOFTWARE
+"PKG",48,22,1,"PAH",1,1,164,0)
+  directory at the following OI Field Offices:
+"PKG",48,22,1,"PAH",1,1,165,0)
+   
+"PKG",48,22,1,"PAH",1,1,166,0)
+  Hines:    domain.ext  
+"PKG",48,22,1,"PAH",1,1,167,0)
+  Salt Lake City:    domain.ext
+"PKG",48,22,1,"PAH",1,1,168,0)
+   
+"PKG",48,22,1,"PAH",1,1,169,0)
+  Documentation can also be found on the VA Software Documentation 
+"PKG",48,22,1,"PAH",1,1,170,0)
+  Library at: http://www4.domain.ext/vdl/
+"PKG",48,22,1,"PAH",1,1,171,0)
+   
+"PKG",48,22,1,"PAH",1,1,172,0)
+   
+"PKG",48,22,1,"PAH",1,1,173,0)
+  Title                                          File Name       FTP Mode
+"PKG",48,22,1,"PAH",1,1,174,0)
+--------------------------------------------------------------------------
+"PKG",48,22,1,"PAH",1,1,175,0)
+  VistA Scheduling Enhancements User Guide       VSE_UG.PDF         Binary
+"PKG",48,22,1,"PAH",1,1,176,0)
+   
+"PKG",48,22,1,"PAH",1,1,177,0)
+  Patch Installation:
+"PKG",48,22,1,"PAH",1,1,178,0)
+   
+"PKG",48,22,1,"PAH",1,1,179,0)
+   
+"PKG",48,22,1,"PAH",1,1,180,0)
+  Pre/Post Installation Overview:
+"PKG",48,22,1,"PAH",1,1,181,0)
+  -------------------------------
+"PKG",48,22,1,"PAH",1,1,182,0)
+ 
+"PKG",48,22,1,"PAH",1,1,183,0)
+  Pre-Installation Instructions:
+"PKG",48,22,1,"PAH",1,1,184,0)
+ 
+"PKG",48,22,1,"PAH",1,1,185,0)
+  This patch may be installed with users on the system although it is
+"PKG",48,22,1,"PAH",1,1,186,0)
+  recommended that it be installed during non-peak hours to minimize
+"PKG",48,22,1,"PAH",1,1,187,0)
+  potential disruption to users.  This patch should take less than 5
+"PKG",48,22,1,"PAH",1,1,188,0)
+  minutes to install.
+"PKG",48,22,1,"PAH",1,1,189,0)
+ 
+"PKG",48,22,1,"PAH",1,1,190,0)
+  No pre- or post-installation steps are required.
+"PKG",48,22,1,"PAH",1,1,191,0)
+   
+"PKG",48,22,1,"PAH",1,1,192,0)
+  Installation Instructions:
+"PKG",48,22,1,"PAH",1,1,193,0)
+  --------------------------
+"PKG",48,22,1,"PAH",1,1,194,0)
+ 
+"PKG",48,22,1,"PAH",1,1,195,0)
+  1. Choose the PackMan message containing this patch.
+"PKG",48,22,1,"PAH",1,1,196,0)
+   
+"PKG",48,22,1,"PAH",1,1,197,0)
+  2. Choose the INSTALL/CHECK MESSAGE PackMan option. 
+"PKG",48,22,1,"PAH",1,1,198,0)
+   
+"PKG",48,22,1,"PAH",1,1,199,0)
+  3. From the Kernel Installation and Distribution System Menu, select the
+"PKG",48,22,1,"PAH",1,1,200,0)
+  Installation Menu.  From this menu, you may elect to use the following
+"PKG",48,22,1,"PAH",1,1,201,0)
+  options. When prompted for the INSTALL NAME enter the patch number (ex. 
+"PKG",48,22,1,"PAH",1,1,202,0)
+  SD*5.3*731):
+"PKG",48,22,1,"PAH",1,1,203,0)
+ 
+"PKG",48,22,1,"PAH",1,1,204,0)
+  a. Backup a Transport Global - This option will create a backup message 
+"PKG",48,22,1,"PAH",1,1,205,0)
+  of any routines exported with this patch. It will not backup any other
+"PKG",48,22,1,"PAH",1,1,206,0)
+  changes such as DDs or templates.
+"PKG",48,22,1,"PAH",1,1,207,0)
+ 
+"PKG",48,22,1,"PAH",1,1,208,0)
+  b. Compare Transport Global to Current System - This option will (allow 
+"PKG",48,22,1,"PAH",1,1,209,0)
+  you to view all changes that will be made when this patch is installed.
+"PKG",48,22,1,"PAH",1,1,210,0)
+  It compares all components of this patch routines, DDs, templates,
+"PKG",48,22,1,"PAH",1,1,211,0)
+  etc.).
+"PKG",48,22,1,"PAH",1,1,212,0)
+ 
+"PKG",48,22,1,"PAH",1,1,213,0)
+  c. Verify Checksums in Transport Global - This option will allow you to
+"PKG",48,22,1,"PAH",1,1,214,0)
+  ensure the integrity of the routines that are in the transport global.
+"PKG",48,22,1,"PAH",1,1,215,0)
+   
+"PKG",48,22,1,"PAH",1,1,216,0)
+  4.  From the Installation Menu, select the Install Package(s) option and
+"PKG",48,22,1,"PAH",1,1,217,0)
+  choose the patch to install.
+"PKG",48,22,1,"PAH",1,1,218,0)
+   
+"PKG",48,22,1,"PAH",1,1,219,0)
+  5. When prompted 'Want KIDS to Rebuild Menu Trees Upon Completion of
+"PKG",48,22,1,"PAH",1,1,220,0)
+  Install? YES//', respond YES.
+"PKG",48,22,1,"PAH",1,1,221,0)
+   
+"PKG",48,22,1,"PAH",1,1,222,0)
+  6. When prompted 'Want KIDS to INHIBIT LOGONs during the install? NO//',
+"PKG",48,22,1,"PAH",1,1,223,0)
+  respond NO.
+"PKG",48,22,1,"PAH",1,1,224,0)
+   
+"PKG",48,22,1,"PAH",1,1,225,0)
+  7. When prompted 'Want to DISABLE Scheduled Options, Menu Options, and
+"PKG",48,22,1,"PAH",1,1,226,0)
+  Protocols? NO//', respond NO.
+"PKG",48,22,1,"PAH",1,1,227,0)
+   
+"PKG",48,22,1,"PAH",1,1,228,0)
+  8. If prompted 'Delay Install (Minutes):  (0 - 60): 0//' respond 0.
+"PKG",48,22,1,"PAH",1,1,229,0)
+   
+"PKG",48,22,1,"PAH",1,1,230,0)
+   
+"PKG",48,22,1,"PAH",1,1,231,0)
+  Back-Out Plan:
+"PKG",48,22,1,"PAH",1,1,232,0)
+  --------------------
+"PKG",48,22,1,"PAH",1,1,233,0)
+  In order to back out this patch, restore the transport global that was 
+"PKG",48,22,1,"PAH",1,1,234,0)
+  saved in Step 3.a. of the installation.  Delete the options that  
+"PKG",48,22,1,"PAH",1,1,235,0)
+  were included in the patch except SDSUP. Edit the SDSUP option to remove
+"PKG",48,22,1,"PAH",1,1,236,0)
+  the new option.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+YES
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","SDECDATA")
+0^1^B131188343^B33222031
+"RTN","SDECDATA",1,0)
+SDECDATA ;ALB/WTC - VISTA SCHEDULING GUI ; 01 May 2019  10:52 AM
+"RTN","SDECDATA",2,0)
+ ;;5.3;Scheduling;**723,731**;;Build 7
+"RTN","SDECDATA",3,0)
+ ;;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","SDECDATA",4,0)
+ Q
+"RTN","SDECDATA",5,0)
+ ;
+"RTN","SDECDATA",6,0)
+ ;  ICR
+"RTN","SDECDATA",7,0)
+ ;  ---
+"RTN","SDECDATA",8,0)
+ ;  7030 - #2 Appointment data
+"RTN","SDECDATA",9,0)
+ ;  10035 - #2 Patient demographics
+"RTN","SDECDATA",10,0)
+ ;
+"RTN","SDECDATA",11,0)
+REPORT ;
+"RTN","SDECDATA",12,0)
+ ;
+"RTN","SDECDATA",13,0)
+ ;  Run report only
+"RTN","SDECDATA",14,0)
+ ;
+"RTN","SDECDATA",15,0)
+ N AUTO,REPORT,POP,IO,%ZIS ;
+"RTN","SDECDATA",16,0)
+ S REPORT="YES",AUTO="NO" ;
+"RTN","SDECDATA",17,0)
+ S %ZIS="Q" D ^%ZIS Q:POP  ;  Added code to output to printer.  wtc 9/12/2019
+"RTN","SDECDATA",18,0)
+ D APPT1 Q  ;
+"RTN","SDECDATA",19,0)
+ ;
+"RTN","SDECDATA",20,0)
+AUTO ;
+"RTN","SDECDATA",21,0)
+ ;
+"RTN","SDECDATA",22,0)
+ ;  Run correction code non-interactively.
+"RTN","SDECDATA",23,0)
+ ;
+"RTN","SDECDATA",24,0)
+ N AUTO,REPORT S REPORT="NO",AUTO="YES" D APPT1 Q  ;
+"RTN","SDECDATA",25,0)
+ ;
+"RTN","SDECDATA",26,0)
+APPT ;
+"RTN","SDECDATA",27,0)
+ ;
+"RTN","SDECDATA",28,0)
+ ;  Scan appointment file (#409.84) for entries without resources.  Identify correct resource using appointment list in patient file (#2).
+"RTN","SDECDATA",29,0)
+ ;
+"RTN","SDECDATA",30,0)
+ N AUTO,REPORT S REPORT="NO",AUTO="NO" ;
+"RTN","SDECDATA",31,0)
+ ;
+"RTN","SDECDATA",32,0)
+APPT1 ;
+"RTN","SDECDATA",33,0)
+ ;
+"RTN","SDECDATA",34,0)
+ N DA,APPTDATA,CNT,STARTTIME,DFN,CANCELLED,APPTMADE,MADEBY,PTDATA,FAILED,CLINICSFND,CLINIC,DA1,RESOURCE,MATCHED,RESPONSE,STOP,FIXED,LOCDATA,D2,%DT,PTR44,Y ;
+"RTN","SDECDATA",35,0)
+ ;
+"RTN","SDECDATA",36,0)
+ ;  DA        = Appointment (#409.84) pointer
+"RTN","SDECDATA",37,0)
+ ;  APPTDATA  = Zero node of appointment file entry (#409.84)
+"RTN","SDECDATA",38,0)
+ ;  CNT       = Number of appointments with missing resources found
+"RTN","SDECDATA",39,0)
+ ;  STARTTIME = Appointment start time
+"RTN","SDECDATA",40,0)
+ ;  DFN       = Patient (#2) pointer
+"RTN","SDECDATA",41,0)
+ ;  CANCELLED = Appointment cancelled flag (from #409.84)
+"RTN","SDECDATA",42,0)
+ ;  APPTMADE  = Date appointment was made (from #409.84)
+"RTN","SDECDATA",43,0)
+ ;  MADEBY    = DUZ of person making appointment (from #409.84)
+"RTN","SDECDATA",44,0)
+ ;  PTDATA    = Appointment data record from patient file (#2)
+"RTN","SDECDATA",45,0)
+ ;  FAILED    = Total number of appointment records that could not be matched
+"RTN","SDECDATA",46,0)
+ ;  CLINICFND = Array indexed by clinic name of appointment records matched with patient appointments
+"RTN","SDECDATA",47,0)
+ ;  CLINIC    = Clinic name (.01 field of file #44)
+"RTN","SDECDATA",48,0)
+ ;  DA1       = Appointment (#409.84) pointer
+"RTN","SDECDATA",49,0)
+ ;  RESOURCE  = Resource (#409.831) pointer
+"RTN","SDECDATA",50,0)
+ ;  MATCHED   = 1 if a second appointment for same patient at same time in the same clinic is found, 0 otherwise
+"RTN","SDECDATA",51,0)
+ ;  RESPONSE  = User response
+"RTN","SDECDATA",52,0)
+ ;  STOP      = 1 if user enters ^ to stop processing or time out occurs
+"RTN","SDECDATA",53,0)
+ ;  FIXED     = Count of number of appointment records updated
+"RTN","SDECDATA",54,0)
+ ;  LOCDATA   = Appointment data record from the location file (#44)
+"RTN","SDECDATA",55,0)
+ ;  D2        = Subscript in appointment multiple in location file (#44)
+"RTN","SDECDATA",56,0)
+ ;  PTR44     = Hospital location (pointer to #44)
+"RTN","SDECDATA",57,0)
+ ;
+"RTN","SDECDATA",58,0)
+ U 0 W !!,"Appointments without resources checker",! ;
+"RTN","SDECDATA",59,0)
+ ;
+"RTN","SDECDATA",60,0)
+ S CNT=0,FAILED=0,STOP=0,FIXED=0 ;
+"RTN","SDECDATA",61,0)
+ ;
+"RTN","SDECDATA",62,0)
+ ;  Scan is in date order starting with the user indicated date.
+"RTN","SDECDATA",63,0)
+ ;
+"RTN","SDECDATA",64,0)
+ U 0 W !,"Select starting date to check",! ;
+"RTN","SDECDATA",65,0)
+ S %DT="AX" D ^%DT Q:Y<0  S STARTTIME=$P(Y,".",1) W ! ;
+"RTN","SDECDATA",66,0)
+ ;
+"RTN","SDECDATA",67,0)
+ ;  If report is queued, set up variables and call Task Manager then quit
+"RTN","SDECDATA",68,0)
+ ;
+"RTN","SDECDATA",69,0)
+ I REPORT="YES",$D(IO("Q")) D  Q  ;
+"RTN","SDECDATA",70,0)
+ . S ZTRTN="APPT2^SDECDATA",ZTDESC="Appointments missing resources starting from "_$$FMTE^XLFDT(STARTTIME) ;
+"RTN","SDECDATA",71,0)
+ . S ZTSAVE("*")="" ;
+"RTN","SDECDATA",72,0)
+ . D ^%ZTLOAD W $S($D(ZTSK):"...Task queued",1:"...Task cancelled"),! ;
+"RTN","SDECDATA",73,0)
+ ;
+"RTN","SDECDATA",74,0)
+APPT2 ;  Entry point for queued report printing
+"RTN","SDECDATA",75,0)
+ ;
+"RTN","SDECDATA",76,0)
+ ;  Scan appointment file in date order.
+"RTN","SDECDATA",77,0)
+ ;
+"RTN","SDECDATA",78,0)
+ F  S STARTTIME=$O(^SDEC(409.84,"B",STARTTIME)) Q:'STARTTIME  Q:STOP  S DA=0  F  S DA=$O(^SDEC(409.84,"B",STARTTIME,DA)) Q:'DA  S APPTDATA=^SDEC(409.84,DA,0) I $P(APPTDATA,U,7)="" S CNT=CNT+1 D  Q:STOP  ;
+"RTN","SDECDATA",79,0)
+ . ;
+"RTN","SDECDATA",80,0)
+ . S DFN=$P(APPTDATA,U,5),CANCELLED=$S($P(APPTDATA,U,12)="":0,1:1),APPTMADE=$P(APPTDATA,U,9),MADEBY=$P(APPTDATA,U,8) ;
+"RTN","SDECDATA",81,0)
+ . U:REPORT="YES" IO W !,CNT,". ",$$FMTE^XLFDT(STARTTIME)," (",DA,") ",$P(^DPT(DFN,0),U,1) ;  ICR 10035
+"RTN","SDECDATA",82,0)
+ . ;
+"RTN","SDECDATA",83,0)
+ . ;  Find appointment in patient file.
+"RTN","SDECDATA",84,0)
+ . ;
+"RTN","SDECDATA",85,0)
+ . I '$D(^DPT(DFN,"S",STARTTIME,0)) W "  *** No matching appointment in Patient file.",! S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",86,0)
+ . S PTDATA=^DPT(DFN,"S",STARTTIME,0),PTR44=$P(PTDATA,U,1),CLINIC=$P(^SC(PTR44,0),U,1) W "  ",CLINIC,! ;  ICR 7030
+"RTN","SDECDATA",87,0)
+ . S CLINICSFND(CLINIC)=$G(CLINICSFND(CLINIC))+1 ;
+"RTN","SDECDATA",88,0)
+ . ;
+"RTN","SDECDATA",89,0)
+ . ;  Find appointment in location file.
+"RTN","SDECDATA",90,0)
+ . ;
+"RTN","SDECDATA",91,0)
+ . S D2=0,LOCDATA="" F  S D2=$O(^SC(PTR44,"S",STARTTIME,1,D2)) Q:'D2  I $P(^(D2,0),U,1)=DFN D  Q:LOCDATA'=""  ;
+"RTN","SDECDATA",92,0)
+ .. S LOCDATA=^SC(PTR44,"S",STARTTIME,1,D2,0) ;
+"RTN","SDECDATA",93,0)
+ .. I $P(LOCDATA,U,6)'=$P(PTDATA,U,18) S LOCDATA="" Q  ;  Appointment made by do not match.  Continue looking.
+"RTN","SDECDATA",94,0)
+ .. I $P(LOCDATA,U,7)'=$P(PTDATA,U,19) S LOCDATA="" Q  ;  Date appointment made do not match.  Continue looking.
+"RTN","SDECDATA",95,0)
+ .. I $P(PTDATA,U,2)="C"!($P(PTDATA,U,2)="PC"),$P(LOCDATA,U,9)="C" Q  ;  Both appointments are cancelled.  Matching appointment found.
+"RTN","SDECDATA",96,0)
+ .. I $P(PTDATA,U,2)'="C",$P(PTDATA,U,2)'="PC",$P(LOCDATA,U,9)'="C" Q  ;  Both appointments are not cancelled.  Matching appointment found.
+"RTN","SDECDATA",97,0)
+ .. S LOCDATA="" ;  Not a match.  Continue looking.
+"RTN","SDECDATA",98,0)
+ . ;
+"RTN","SDECDATA",99,0)
+ . W !,"Source",?15,"Status",?30,"Date Made",?45,"Made by",! ;
+"RTN","SDECDATA",100,0)
+ . W "-----------",?15,"---------",?30,"------------",?45,"-----------------------------",! ;
+"RTN","SDECDATA",101,0)
+ . W "Patient",?15,$S($P(PTDATA,U,2)="C"!($P(PTDATA,U,2)="PC"):"Cancelled",1:"Active"),?30,$$FMTE^XLFDT($P(PTDATA,U,19)),?45,$$GET1^DIQ(200,$P(PTDATA,U,18)_",",.01),! ;
+"RTN","SDECDATA",102,0)
+ . I LOCDATA="" W "Location",?15,"NOT IN FILE",! ;
+"RTN","SDECDATA",103,0)
+ . E  W "Location",?15,$S($P(LOCDATA,U,9)="C":"Cancelled",1:"Active"),?30,$$FMTE^XLFDT($P(LOCDATA,U,7)),?45,$$GET1^DIQ(200,$P(LOCDATA,U,6)_",",.01),! ;
+"RTN","SDECDATA",104,0)
+ . W "Appointment",?15,$S(CANCELLED:"Cancelled",1:"Active"),?30,$$FMTE^XLFDT(APPTMADE),?45,$$GET1^DIQ(200,MADEBY_",",.01),! ;
+"RTN","SDECDATA",105,0)
+ . ;
+"RTN","SDECDATA",106,0)
+ . ;  Stop if patient appointment is active but no matching appointment in Location file.
+"RTN","SDECDATA",107,0)
+ . ;
+"RTN","SDECDATA",108,0)
+ . I $P(PTDATA,U,2)'="C",$P(PTDATA,U,2)'="PC",LOCDATA="" W !,"Active appointment in Patient file not in Location file." S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",109,0)
+ . ;
+"RTN","SDECDATA",110,0)
+ . ;  Determine if another appointment file entry is for the same time
+"RTN","SDECDATA",111,0)
+ . ;
+"RTN","SDECDATA",112,0)
+ . S DA1=0,MATCHED=0 F  S DA1=$O(^SDEC(409.84,"CPAT",DFN,DA1)) Q:'DA1  I DA1'=DA D  Q:MATCHED  ;
+"RTN","SDECDATA",113,0)
+ .. ;
+"RTN","SDECDATA",114,0)
+ .. Q:$P(^SDEC(409.84,DA1,0),U,1)'=STARTTIME  W !,"*** Another appointment exists for the patient at the same time.",! S FAILED=FAILED+1,MATCHED=1 ;
+"RTN","SDECDATA",115,0)
+ .. ;
+"RTN","SDECDATA",116,0)
+ . Q:MATCHED  ;
+"RTN","SDECDATA",117,0)
+ . ;
+"RTN","SDECDATA",118,0)
+ . ;  If patient appointment and location appointment is cancelled but appointment file entry is NOT cancelled, fix the appointment file entry.  731 wtc 7/25/2019
+"RTN","SDECDATA",119,0)
+ . ;
+"RTN","SDECDATA",120,0)
+ . ;I $P(PTDATA,U,2)="C"!($P(PTDATA,U,2)="PC"),$P(LOCDATA,U,9)="C",'CANCELLED S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",121,0)
+ . ;
+"RTN","SDECDATA",122,0)
+ . ;  Do not match appointments if not made by same person on same day.
+"RTN","SDECDATA",123,0)
+ . ;  Do not match appointments if patient and location file do not agree or patient file is active but location file does not exist.
+"RTN","SDECDATA",124,0)
+ . ;
+"RTN","SDECDATA",125,0)
+ . I $P(PTDATA,U,2)'="C",$P(PTDATA,U,2)'="PC",LOCDATA=""!($P(LOCDATA,U,9)="C") S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",126,0)
+ . ;
+"RTN","SDECDATA",127,0)
+ . ;  Do not fail matching due to appointment made by and date appointment made.  731 wtc 8/6/2019
+"RTN","SDECDATA",128,0)
+ . ;
+"RTN","SDECDATA",129,0)
+ . ;I $P(PTDATA,U,19)'=$P(APPTMADE,".",1) S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",130,0)
+ . ;I $P(PTDATA,U,18)'=MADEBY S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",131,0)
+ . ;
+"RTN","SDECDATA",132,0)
+ . ;  OK to correct if patient file is active but appointment file is cancelled.
+"RTN","SDECDATA",133,0)
+ . ;
+"RTN","SDECDATA",134,0)
+ . ;I $P(PTDATA,U,2)'="C",$P(PTDATA,U,2)'="PC",CANCELLED S FAILED=FAILED+1 Q  ;
+"RTN","SDECDATA",135,0)
+ . ;
+"RTN","SDECDATA",136,0)
+ . ;  Stop if report only
+"RTN","SDECDATA",137,0)
+ . ;
+"RTN","SDECDATA",138,0)
+ . I REPORT="YES" Q  ;
+"RTN","SDECDATA",139,0)
+ . ;
+"RTN","SDECDATA",140,0)
+ . ;  Check resource file for entry matching the clinic name.  If one does not exist, notify user but do not process a change for the appointment.
+"RTN","SDECDATA",141,0)
+ . ;
+"RTN","SDECDATA",142,0)
+ . S RESOURCE=$O(^SDEC(409.831,"B",CLINIC,0)) ;
+"RTN","SDECDATA",143,0)
+ . I 'RESOURCE W !,"No resource exists with the name '",CLINIC,"'.",!,"Create the required resource before updating this appointment.",! Q  ;
+"RTN","SDECDATA",144,0)
+ . I $P($G(^SDEC(409.831,RESOURCE,0)),U,4)'=PTR44 W !,"Resource not associated with ",CLINIC,".  Correct this before updating this appointment.",! Q  ;
+"RTN","SDECDATA",145,0)
+ . ;
+"RTN","SDECDATA",146,0)
+ . ;  If automatics option selected, update the appointment.
+"RTN","SDECDATA",147,0)
+ . ;
+"RTN","SDECDATA",148,0)
+ . ;  Added 2 parameters to UPDAPPT call to allow matching if patient file appointment is cancelled but appointment file entry is not.  731 wtc 7/26/2019
+"RTN","SDECDATA",149,0)
+ . ;
+"RTN","SDECDATA",150,0)
+ . I AUTO="YES" D UPDAPPT(DA,RESOURCE,$P(PTDATA,U,2),CANCELLED) W "...updated",! S FIXED=FIXED+1 Q  ;
+"RTN","SDECDATA",151,0)
+ . ;
+"RTN","SDECDATA",152,0)
+ . ;  For manual processing, ask user if he/she wants to update Appointment file with resource of same name as clinic.
+"RTN","SDECDATA",153,0)
+ . ;
+"RTN","SDECDATA",154,0)
+ . W !,"Make '",CLINIC,"' the resource for this appointment?" R " NO// ",RESPONSE:$S($G(DTIME):DTIME,1:180) I '$T!(RESPONSE="^") S STOP=1 Q  ;
+"RTN","SDECDATA",155,0)
+ . ;
+"RTN","SDECDATA",156,0)
+ . ;  Added 2 parameters to UPDAPPT call to allow matching if patient file appointment is cancelled but appointment file entry is not.  731 wtc 7/26/2019
+"RTN","SDECDATA",157,0)
+ . ;
+"RTN","SDECDATA",158,0)
+ . I RESPONSE="YES"!(RESPONSE="Y")!(RESPONSE="yes")!(RESPONSE="y") D UPDAPPT(DA,RESOURCE,$P(PTDATA,U,2),CANCELLED) W "...updated",! S FIXED=FIXED+1 Q  ;
+"RTN","SDECDATA",159,0)
+ . ;
+"RTN","SDECDATA",160,0)
+ . W "... skipped",! Q  ;
+"RTN","SDECDATA",161,0)
+ ;
+"RTN","SDECDATA",162,0)
+ I 'CNT Q:REPORT="NO"  D ^%ZISC K ZTDESC,ZTRTN,ZTSAVE,ZTSK Q  ;  No bad entries found.  Do not output statistics.
+"RTN","SDECDATA",163,0)
+ ;
+"RTN","SDECDATA",164,0)
+ ;  Output statistics.  Show total found, number fixed and number that could not be fixed.
+"RTN","SDECDATA",165,0)
+ ;
+"RTN","SDECDATA",166,0)
+ W !,"TOTAL FOUND: ",CNT,!,"FIXES MADE: ",FIXED,!,"FAILED TO MATCH: ",FAILED,!,"MATCHING PERCENTAGE: ",$J(CNT-FAILED/CNT*100,4,1),"%",! ;
+"RTN","SDECDATA",167,0)
+ W !,"MISSING CLINICS MATCHED TO: " ;
+"RTN","SDECDATA",168,0)
+ S CLINIC="" F  S CLINIC=$O(CLINICSFND(CLINIC)) Q:CLINIC=""  W ?30,CLINIC,?62,$J(CLINICSFND(CLINIC),$L(CNT))," = ",$J(CLINICSFND(CLINIC)/CNT*100,4,1),"%",! ;
+"RTN","SDECDATA",169,0)
+ ;
+"RTN","SDECDATA",170,0)
+ I REPORT="YES" D ^%ZISC K ZTDESC,ZTRTN,ZTSAVE,ZTSK ;
+"RTN","SDECDATA",171,0)
+ Q  ;
+"RTN","SDECDATA",172,0)
+ ;
+"RTN","SDECDATA",173,0)
+UPDAPPT(APPT,RESOURCE,PTCANFLG,APPTCAN) ;  Added last 2 parameters - 731 wtc 7/25/2019
+"RTN","SDECDATA",174,0)
+ ;
+"RTN","SDECDATA",175,0)
+ ;  APPT     = Appointment (pointer to #409.84) [REQUIRED]
+"RTN","SDECDATA",176,0)
+ ;  RESOURCE = Resource (pointer to #409.831) [REQUIRED]
+"RTN","SDECDATA",177,0)
+ ;  PTCANFLG = Patient appointment status (see field #1 in the appointment multiple in the patient file) [REQUIRED]
+"RTN","SDECDATA",178,0)
+ ;  APPTCAN  = Appointment cancelled (1) or active (2). [REQUIRED]
+"RTN","SDECDATA",179,0)
+ ;
+"RTN","SDECDATA",180,0)
+ Q:$G(APPT)=""  Q:$G(RESOURCE)=""  Q:$G(APPTCAN)=""  ;
+"RTN","SDECDATA",181,0)
+ ;  
+"RTN","SDECDATA",182,0)
+ N DIE,DA,DR ;
+"RTN","SDECDATA",183,0)
+ ;
+"RTN","SDECDATA",184,0)
+ ;  Assign resource to appointment file entry
+"RTN","SDECDATA",185,0)
+ ;
+"RTN","SDECDATA",186,0)
+ S DIE=409.84,DA=APPT,DR=".07///"_RESOURCE ;
+"RTN","SDECDATA",187,0)
+ ;
+"RTN","SDECDATA",188,0)
+ ;  If patient appointment cancelled but appointment entry not cancelled, cancel the appointment entry.  731 wtc 7/26/2019
+"RTN","SDECDATA",189,0)
+ ;
+"RTN","SDECDATA",190,0)
+ I PTCANFLG="C"!(PTCANFLG="PC"),'APPTCAN D  ;
+"RTN","SDECDATA",191,0)
+ . ;
+"RTN","SDECDATA",192,0)
+ . ;  Get cancellation data from patient appointment and file in appointment file.  WTC 9/10/2019
+"RTN","SDECDATA",193,0)
+ . ;
+"RTN","SDECDATA",194,0)
+ . N DATA,DFN,DTTM ;
+"RTN","SDECDATA",195,0)
+ . S DATA=^SDEC(409.84,APPT,0),DFN=$P(DATA,U,5),DTTM=$P(DATA,U,1) ;
+"RTN","SDECDATA",196,0)
+ . S DATA=^DPT(DFN,"S",DTTM,0) ;
+"RTN","SDECDATA",197,0)
+ . S DR=DR_";.12///"_$S($P(DATA,U,14):"^S X="_$P(DATA,U,14),1:"NOW")_";.121///^S X="_$S($P(DATA,U,12):$P(DATA,U,12),1:DUZ) ;
+"RTN","SDECDATA",198,0)
+ . S DR=DR_";.122///^S X="_$S($P(DATA,U,15):$P(DATA,U,15),1:11)_";.17///^S X="_$C(34)_PTCANFLG_$C(34) ;
+"RTN","SDECDATA",199,0)
+ ;
+"RTN","SDECDATA",200,0)
+ ;  If patient appointment is active but appointment entry is cancelled, activate the appointment entry.  731 wtc 729/2019
+"RTN","SDECDATA",201,0)
+ ;
+"RTN","SDECDATA",202,0)
+ I PTCANFLG'="C",PTCANFLG'="PC",APPTCAN S DR=DR_";.12///@;.121///@;.122///@;.17///@" ;
+"RTN","SDECDATA",203,0)
+ ;
+"RTN","SDECDATA",204,0)
+ D ^DIE ;
+"RTN","SDECDATA",205,0)
+ Q  ;
+"RTN","SDECDATA",206,0)
+ ;
+"RTN","SDECDATA",207,0)
+PTAPTINQ ;
+"RTN","SDECDATA",208,0)
+ ;
+"RTN","SDECDATA",209,0)
+ ;  Display appointments for a patient and date range
+"RTN","SDECDATA",210,0)
+ ;
+"RTN","SDECDATA",211,0)
+ N DIC,Y,DFN,START,END,%DT ;
+"RTN","SDECDATA",212,0)
+ ;
+"RTN","SDECDATA",213,0)
+ S DIC(0)="AEQM",DIC=2 D ^DIC Q:Y<0  S DFN=+Y ;
+"RTN","SDECDATA",214,0)
+ ;
+"RTN","SDECDATA",215,0)
+ K %DT(0) S %DT="AEP",%DT("A")="Start date: " D ^%DT Q:Y<0  S START=Y ;
+"RTN","SDECDATA",216,0)
+ S %DT="AEP",%DT("A")="End date: ",%DT(0)=START D ^%DT Q:Y<0  S END=Y+1 ;
+"RTN","SDECDATA",217,0)
+ ;
+"RTN","SDECDATA",218,0)
+ W !,"Patient: ",$$GET1^DIQ(2,DFN_",",.01)," (",DFN,")",! ;
+"RTN","SDECDATA",219,0)
+ W "Appt Date/Time",?20,"Location",?50,"Status",!! ;
+"RTN","SDECDATA",220,0)
+ S STARTTIME=START F  S STARTTIME=$O(^DPT(DFN,"S",STARTTIME)) Q:'STARTTIME  Q:STARTTIME>END  S X=^(STARTTIME,0) D  ;  ICR 7030
+"RTN","SDECDATA",221,0)
+ . ;
+"RTN","SDECDATA",222,0)
+ . W $$FMTE^XLFDT(STARTTIME),?20,$$GET1^DIQ(44,$P(X,U,1)_",",.01),?50,$$SETOFCODES(2.98,3,$P(X,U,2)),! ;
+"RTN","SDECDATA",223,0)
+ ;
+"RTN","SDECDATA",224,0)
+ Q  ;
+"RTN","SDECDATA",225,0)
+ ;
+"RTN","SDECDATA",226,0)
+SETOFCODES(FILE,FIELD,VALUE) ;
+"RTN","SDECDATA",227,0)
+ ;
+"RTN","SDECDATA",228,0)
+ N DD,VALUES,RETURN,I ;
+"RTN","SDECDATA",229,0)
+ ;
+"RTN","SDECDATA",230,0)
+ S DD=^DD(FILE,FIELD,0),VALUES=$P(DD,U,3),RETURN="" ;
+"RTN","SDECDATA",231,0)
+ F I=1:1 Q:$P(VALUES,";",I,99)=""  I $P($P(VALUES,";",I),":",1)=VALUE S RETURN=$P($P(VALUES,";",I),":",2) Q  ;
+"RTN","SDECDATA",232,0)
+ Q RETURN ;
+"RTN","SDECDATA",233,0)
+ ;
+"RTN","SDECDATA",234,0)
+MISMATCH ;
+"RTN","SDECDATA",235,0)
+ ;
+"RTN","SDECDATA",236,0)
+ ;  Find encounters whose status does not match with the appointment status.
+"RTN","SDECDATA",237,0)
+ ;
+"RTN","SDECDATA",238,0)
+ N DFN,D1,ENCOUNTER,APPTDATA,ENCDATA,X,Y,START,NAME,COUNT ;
+"RTN","SDECDATA",239,0)
+ ;
+"RTN","SDECDATA",240,0)
+ K %DT S %DT="AEP",%DT("A")="Start date: " D ^%DT Q:Y<0  S START=Y W !! ;
+"RTN","SDECDATA",241,0)
+ ;
+"RTN","SDECDATA",242,0)
+ S NAME="" F  S NAME=$O(^DPT("B",NAME)) Q:NAME=""  S DFN=0 F  S DFN=$O(^DPT("B",NAME,DFN)) Q:'DFN  S D1=START-1 F  S D1=$O(^DPT(DFN,"S",D1)) Q:'D1  S APPTDATA=^(D1,0),ENCOUNTER=$P(APPTDATA,U,20) I ENCOUNTER'="" D  ;  ICR 7030
+"RTN","SDECDATA",243,0)
+ . ;
+"RTN","SDECDATA",244,0)
+ . ;  Compare status
+"RTN","SDECDATA",245,0)
+ . ;
+"RTN","SDECDATA",246,0)
+ . S X=$P(APPTDATA,U,2),Y=$$GET1^DIQ(409.68,ENCOUNTER_",",.12,"I") ;
+"RTN","SDECDATA",247,0)
+ . I X="",Y=1!(Y=2) Q  ;  Checked in or checked out
+"RTN","SDECDATA",248,0)
+ . I X="",Y=12 Q  ;  Non-count
+"RTN","SDECDATA",249,0)
+ . I X="",Y=14 Q  ;  Action required
+"RTN","SDECDATA",250,0)
+ . I X="N",Y=4 Q  ;  No show
+"RTN","SDECDATA",251,0)
+ . I X="C",Y=5 Q  ;  Cancelled by clinic
+"RTN","SDECDATA",252,0)
+ . I X="NA",Y=6 Q  ;  No show and auto-rebook
+"RTN","SDECDATA",253,0)
+ . I X="CA",Y=7 Q  ;  Cancelled by clinic and auto re-book
+"RTN","SDECDATA",254,0)
+ . I X="I",Y=8 Q  ;  Inpatient
+"RTN","SDECDATA",255,0)
+ . I X="PC",Y=9 Q  ;  Cancelled by patient
+"RTN","SDECDATA",256,0)
+ . I X="PCA",Y=10 Q  ;  Cancelled by patient and auto re-book
+"RTN","SDECDATA",257,0)
+ . I X="NT",Y=3 Q  ;  No action taken
+"RTN","SDECDATA",258,0)
+ . ;W $$GET1^DIQ(2,DFN_",",.01),?30,$$FMTE^XLFDT(D1),?50,"APPT: ",$$SETOFCODES(2.98,3,X),! ;
+"RTN","SDECDATA",259,0)
+ . W NAME,?30,$$FMTE^XLFDT(D1),?50,"APPT: " W:X'="" $$SETOFCODES(2.98,3,X) W ! ;
+"RTN","SDECDATA",260,0)
+ . W ?50," ENC: " W:Y'="" $$GET1^DIQ(409.63,Y_",",.01) W !! ;
+"RTN","SDECDATA",261,0)
+ . I X="" S X="NULL" ;
+"RTN","SDECDATA",262,0)
+ . I Y="" S Y="NULL" ;
+"RTN","SDECDATA",263,0)
+ . S COUNT(X,Y)=$G(COUNT(X,Y))+1 ;
+"RTN","SDECDATA",264,0)
+ ;
+"RTN","SDECDATA",265,0)
+TOTALS ;
+"RTN","SDECDATA",266,0)
+ W !!,"APPOINTMENT STATUS",?25,"ENCOUNTER STATUS",?50,"COUNT",! ;
+"RTN","SDECDATA",267,0)
+ W "------------------",?25,"----------------",?50,"-----",! ;
+"RTN","SDECDATA",268,0)
+ S X="" F  S X=$O(COUNT(X)) Q:X=""  W !,$S(X="NULL":X,1:$$SETOFCODES(2.98,3,X)) S Y=0 F  S Y=$O(COUNT(X,Y)) Q:'Y  W ?25,$$GET1^DIQ(409.63,Y_",",.01),?50,COUNT(X,Y),! ;
+"RTN","SDECDATA",269,0)
+ Q  ;
+"RTN","SDECDATA",270,0)
+ ;
+"RTN","SDECEPT")
+0^2^B132582629^B129602604
+"RTN","SDECEPT",1,0)
+SDECEPT ;SPFO/RT SCHEDULING ENHANCEMENTS VSE EP API
+"RTN","SDECEPT",2,0)
+ ;;5.3;Scheduling;**669,671,731**;Aug 13 1993;Build 7
+"RTN","SDECEPT",3,0)
+ ;
+"RTN","SDECEPT",4,0)
+ ;The API provides Extended Profile Appt info the VS Gui.
+"RTN","SDECEPT",5,0)
+ ;INPUT - DFN required
+"RTN","SDECEPT",6,0)
+ ;        APP appointment date/time required
+"RTN","SDECEPT",7,0)
+ Q
+"RTN","SDECEPT",8,0)
+ ;
+"RTN","SDECEPT",9,0)
+INIT ;
+"RTN","SDECEPT",10,0)
+ S (PAT0,PAM0,CLIEN,HLF0,HLAPIEN,HLAP0)=""
+"RTN","SDECEPT",11,0)
+ ;
+"RTN","SDECEPT",12,0)
+ ; PAT0=Global location 0 from Patient file
+"RTN","SDECEPT",13,0)
+ ; PAM0=Global location 0 from Patient Appointment Multiple
+"RTN","SDECEPT",14,0)
+ ; CLIEN=Clinic IEN
+"RTN","SDECEPT",15,0)
+ ; HLF0=Global location 0 from Hospital Location File
+"RTN","SDECEPT",16,0)
+ ; HLAPIEN=Hospital Location Appointment Multiple IEN
+"RTN","SDECEPT",17,0)
+ ; HLAP0=Global location 0 from Hospital Appointment Multiple
+"RTN","SDECEPT",18,0)
+ ;
+"RTN","SDECEPT",19,0)
+ ; SET HELPERS
+"RTN","SDECEPT",20,0)
+ S U="^"
+"RTN","SDECEPT",21,0)
+ ;
+"RTN","SDECEPT",22,0)
+ S PAT0=$G(^DPT(DFN,0))
+"RTN","SDECEPT",23,0)
+ S PAM0=$G(^DPT(DFN,"S",ADT,0)) I PAM0'="" D
+"RTN","SDECEPT",24,0)
+ .S CLIEN=$P($G(PAM0),U,1) I CLIEN'="" D
+"RTN","SDECEPT",25,0)
+ ..S HLF0=$G(^SC(CLIEN,0))
+"RTN","SDECEPT",26,0)
+ ..S HLAPIEN=+$$FIND^SDAM2(DFN,ADT,CLIEN) I HLAPIEN'="" D
+"RTN","SDECEPT",27,0)
+ ...S HLAP0=$G(^SC(CLIEN,"S",ADT,1,HLAPIEN,0))
+"RTN","SDECEPT",28,0)
+ Q
+"RTN","SDECEPT",29,0)
+ ;
+"RTN","SDECEPT",30,0)
+GETDEM(RET,DFN,ADT) ;
+"RTN","SDECEPT",31,0)
+ ; REQUIRE DFN AND APPOINTMENT DATE TIME
+"RTN","SDECEPT",32,0)
+ Q:'$G(DFN)
+"RTN","SDECEPT",33,0)
+ Q:'$G(ADT)
+"RTN","SDECEPT",34,0)
+ ;
+"RTN","SDECEPT",35,0)
+ D INIT
+"RTN","SDECEPT",36,0)
+ ;
+"RTN","SDECEPT",37,0)
+ ; INITIALIZE VARIABLES
+"RTN","SDECEPT",38,0)
+ S (PATN,RSSN,SSN,LAB,XRAY,EKG,PCODE,POV,ATIEN)=""
+"RTN","SDECEPT",39,0)
+ S (PAMAT,CCODE,COLL,CLN,LOA,OTH,ECODE,EGIL,PAMSC)=""
+"RTN","SDECEPT",40,0)
+ S (ENROLC,STAT)=""
+"RTN","SDECEPT",41,0)
+ ;
+"RTN","SDECEPT",42,0)
+ ;PATN=Patient Name - Patient File [0,1]
+"RTN","SDECEPT",43,0)
+ ;RSSN=Raw Social Securty Number  - Patient File [0,9]
+"RTN","SDECEPT",44,0)
+ ;SSN=Formatted Social Security Number
+"RTN","SDECEPT",45,0)
+ ;STAT=Status Patient Appointment Multiple - CURRENT STATUS (2.98,100)
+"RTN","SDECEPT",46,0)
+ ;LAB=Date/Time of Labs - PATIENT/APPOINTMENT MULTIPLE [0,3]
+"RTN","SDECEPT",47,0)
+ ;XRAY=Date/Time of x-ray - PATIENT/APPOINTMENT MULTIPLE [0,4]
+"RTN","SDECEPT",48,0)
+ ;EKG=Date/Time of EKG - PATIENT/APPOINTMENT MULTIPLE [0,5]
+"RTN","SDECEPT",49,0)
+ ;PCODE=Purpose of Visit Code - PATIENT/APPOINTMENT MULTIPLE [0,7]
+"RTN","SDECEPT",50,0)
+ ;POV=Purpose of Visit
+"RTN","SDECEPT",51,0)
+ ;ATIEN=Appointment Type IEN - PATIENT/APPOINTMENT MULTIPLE [0,16]
+"RTN","SDECEPT",52,0)
+ ;PAMAT=Patient Appointment Multiple Appointment Type
+"RTN","SDECEPT",53,0)
+ ;CCODE=Collateral Code - PATIENT/APPOINTMENT MULTIPLE [0,11]
+"RTN","SDECEPT",54,0)
+ ;COLL=Collateral Yes or No
+"RTN","SDECEPT",55,0)
+ ;CLN=Clinic Name - Hospital Location File [0,1]
+"RTN","SDECEPT",56,0)
+ ;LOA=Length of Appointment - Hospital Location Appointment Multiple [0,2]
+"RTN","SDECEPT",57,0)
+ ;ECODE=Eligibility Code - Hospital Location Appointment Multiple [0,10]
+"RTN","SDECEPT",58,0)
+ ;EGIL=Eligibility of Appointment
+"RTN","SDECEPT",59,0)
+ ;OCODE=Overbook Code - Hospital Location Appointment Multiple [QB]
+"RTN","SDECEPT",60,0)
+ ;OVB=Overbook
+"RTN","SDECEPT",61,0)
+ ;PATEN0=Patient Enrollment Clinic - Patient File Enrollment Clinic Multiple [B]
+"RTN","SDECEPT",62,0)
+ ;ENROLC=Enrolled in Clinic Yes/No
+"RTN","SDECEPT",63,0)
+ ;ERCNUM=Enrolled Clinic Number 
+"RTN","SDECEPT",64,0)
+ ;LPNUM=Loop Number 
+"RTN","SDECEPT",65,0)
+ ; 
+"RTN","SDECEPT",66,0)
+ ; -PATIENT FILE GLOBAL LOCATION 0
+"RTN","SDECEPT",67,0)
+ I PAT0'="" D
+"RTN","SDECEPT",68,0)
+ .S PATN=$P($G(PAT0),U,1)
+"RTN","SDECEPT",69,0)
+ .S RSSN=$P($G(PAT0),U,9) I RSSN'="" D
+"RTN","SDECEPT",70,0)
+ ..S SSN=$E(RSSN,1,3)_"-"_$E(RSSN,4,5)_"-"_$E(RSSN,6,9)
+"RTN","SDECEPT",71,0)
+ ;
+"RTN","SDECEPT",72,0)
+ ; -PATIENT/APPOINTMENT MULTIPLE GLOBAL LOCATION 0
+"RTN","SDECEPT",73,0)
+ I PAM0'="" D
+"RTN","SDECEPT",74,0)
+ .S STAT=$$STATUS^SDAM1(DFN,ADT,CLIEN,PAM0) I STAT'="" D
+"RTN","SDECEPT",75,0)
+ ..S STAT=$P(STAT,";",2)
+"RTN","SDECEPT",76,0)
+ .S LAB=$P($G(PAM0),U,3)
+"RTN","SDECEPT",77,0)
+ .S XRAY=$P($G(PAM0),U,4)
+"RTN","SDECEPT",78,0)
+ .S EKG=$P($G(PAM0),U,5)
+"RTN","SDECEPT",79,0)
+ .S PCODE=$P($G(PAM0),U,7) I PCODE'="" D
+"RTN","SDECEPT",80,0)
+ ..S POV=$S(PCODE=1:"C&P",PCODE=2:"10-10",PCODE=3:"SCHEDULED",PCODE=4:"UNSCHEDULED",1:"UNKNOWN")
+"RTN","SDECEPT",81,0)
+ .S ATIEN=$P($G(PAM0),U,16) I ATIEN'="" D
+"RTN","SDECEPT",82,0)
+ ..S PAMAT=$$GET1^DIQ(409.1,ATIEN,.01)
+"RTN","SDECEPT",83,0)
+ .S CCODE=$P($G(PAM0),U,11)
+"RTN","SDECEPT",84,0)
+ .S COLL="No" I CCODE=1 S COLL="Yes"
+"RTN","SDECEPT",85,0)
+ ;
+"RTN","SDECEPT",86,0)
+ ; -HOSPITAL LOCATION FILE GLOBAL LOCATION 0
+"RTN","SDECEPT",87,0)
+ I HLF0'="" D
+"RTN","SDECEPT",88,0)
+ .S CLN=$P($G(HLF0),U,1)
+"RTN","SDECEPT",89,0)
+ ;
+"RTN","SDECEPT",90,0)
+ ; -HOSPITAL LOCATION/APPOINTMENT/PATIENT MULTIPLE GLOBAL LOCATION 0
+"RTN","SDECEPT",91,0)
+ I HLAP0'="" D
+"RTN","SDECEPT",92,0)
+ .S LOA=+$P($G(HLAP0),U,2)
+"RTN","SDECEPT",93,0)
+ .S OTH=$P($G(HLAP0),U,4)
+"RTN","SDECEPT",94,0)
+ .S ECODE=$P($G(HLAP0),U,10) I ECODE'="" D
+"RTN","SDECEPT",95,0)
+ ..S EGIL=$$GET1^DIQ(8,ECODE,.01)
+"RTN","SDECEPT",96,0)
+ .I ECODE="" S EGIL=$P($G(^DIC(8,+$G(^DPT(DFN,.36)),0)),U)
+"RTN","SDECEPT",97,0)
+ ;
+"RTN","SDECEPT",98,0)
+ ; -HOSPITAL LOCATION/APPOINTMENT/PATIENT MULTIPLE GLOBAL LOCATION OB
+"RTN","SDECEPT",99,0)
+ S OCODE=$G(^SC(CLIEN,"S",ADT,1,HLAPIEN,"OB"))
+"RTN","SDECEPT",100,0)
+ S OVB="" I OCODE="O" S OVB="OVERBOOK"
+"RTN","SDECEPT",101,0)
+ ;
+"RTN","SDECEPT",102,0)
+ ; -PATIENT FILE ENROLLMENT CLINIC MULTIPLE
+"RTN","SDECEPT",103,0)
+ S ENROLC="No"
+"RTN","SDECEPT",104,0)
+ S LPNUM=0 F  S LPNUM=$O(^DPT(DFN,"DE",LPNUM)) Q:LPNUM=""  D
+"RTN","SDECEPT",105,0)
+ .S ERCNUM=$P($G(^DPT(DFN,"DE",LPNUM,0)),"^",1)
+"RTN","SDECEPT",106,0)
+ .Q:ERCNUM'=CLIEN
+"RTN","SDECEPT",107,0)
+ .I $P($G(^DPT(DFN,"DE",LPNUM,0)),"^",2)="" D
+"RTN","SDECEPT",108,0)
+ ..S ENROLC="Yes"
+"RTN","SDECEPT",109,0)
+ ..Q
+"RTN","SDECEPT",110,0)
+ ;
+"RTN","SDECEPT",111,0)
+ ; -CONVERT DATES TO EXTERNAL
+"RTN","SDECEPT",112,0)
+ S Y=ADT D D^DIQ S ADT=Y
+"RTN","SDECEPT",113,0)
+ I LAB'="" S Y=LAB D D^DIQ S LAB=Y
+"RTN","SDECEPT",114,0)
+ I XRAY'="" S Y=XRAY D D^DIQ S XRAY=Y
+"RTN","SDECEPT",115,0)
+ I EKG'="" S Y=EKG D D^DIQ S EKG=Y
+"RTN","SDECEPT",116,0)
+ ;
+"RTN","SDECEPT",117,0)
+ S RET=PATN_U_CLN_U_SSN_U_ADT_U_STAT_U_POV_U_LOA_U_PAMAT_U_LAB_U_EGIL_U_XRAY_U_OVB_U_EKG_U_COLL_U_OTH_U_ENROLC
+"RTN","SDECEPT",118,0)
+ ;
+"RTN","SDECEPT",119,0)
+ D EXIT
+"RTN","SDECEPT",120,0)
+ Q
+"RTN","SDECEPT",121,0)
+ ;
+"RTN","SDECEPT",122,0)
+GETEVT(RET,DFN,ADT) ;
+"RTN","SDECEPT",123,0)
+ ; REQUIRE DFN AND APPOINTMENT DATE TIME
+"RTN","SDECEPT",124,0)
+ Q:'$G(DFN)
+"RTN","SDECEPT",125,0)
+ Q:'$G(ADT)
+"RTN","SDECEPT",126,0)
+ ;
+"RTN","SDECEPT",127,0)
+ D INIT
+"RTN","SDECEPT",128,0)
+ ;
+"RTN","SDECEPT",129,0)
+ ; INITIALIZE VARIABLES
+"RTN","SDECEPT",130,0)
+ S (AMUIEN,AMU,AMD,HLAPC,CID,CIUIEN,CIUN,COD,COUIEN,CREAC)=""
+"RTN","SDECEPT",131,0)
+ S (COUN,COED,NCD,NCUIEN,NCUN,CANREA,RBD,CANREM,AMUN)=""
+"RTN","SDECEPT",132,0)
+ ;
+"RTN","SDECEPT",133,0)
+ ;AMUIEN=Appointment Made User IEN - Hospital Location Appointment Multiple [0,6]
+"RTN","SDECEPT",134,0)
+ ;AMUN=Appointment Made User Name - New Person File Field .01
+"RTN","SDECEPT",135,0)
+ ;AMD=Appointment Made Date - Hospital Location Appointment Multiple [0,7]
+"RTN","SDECEPT",136,0)
+ ;HLAPC=Global location C from Hospital Location Appointment Multiple
+"RTN","SDECEPT",137,0)
+ ;CID=Check-in Date - Hospital Location Appointment Multiple [C,1]
+"RTN","SDECEPT",138,0)
+ ;CIUIEN=Check-in User IEN - Hospital Location Appointment Multiple [C,2]
+"RTN","SDECEPT",139,0)
+ ;CIUN=Check-in User Name - New Person File Field .01
+"RTN","SDECEPT",140,0)
+ ;COD=Check Out Date - Hospital Location Appointment Multiple [C,3]
+"RTN","SDECEPT",141,0)
+ ;COUIEN=Check Out User IEN - Hospital Location Appointment Multiple [C,4]
+"RTN","SDECEPT",142,0)
+ ;COUN=Check Out User Name - New Person File Field .01
+"RTN","SDECEPT",143,0)
+ ;COED=Check Out Entered Date - Hospital Location Appointment Multiple [C,3]
+"RTN","SDECEPT",144,0)
+ ;NCD=No-Show/Cancel Date - PATIENT/APPOINTMENT MULTIPLE [0,14]
+"RTN","SDECEPT",145,0)
+ ;NCUIEN=No-Show/Cancel User IEN - PATIENT/APPOINTMENT MULTIPLE [0,12]
+"RTN","SDECEPT",146,0)
+ ;NCUN=No-Show/Cancel User Name - New Person File Field .01
+"RTN","SDECEPT",147,0)
+ ;CREAC=Cancel Reason Code - PATIENT/APPOINTMENT MULTIPLE [0,15]
+"RTN","SDECEPT",148,0)
+ ;CANREA=Cancel Reason - CANCELLATION REASONS [0,1]
+"RTN","SDECEPT",149,0)
+ ;RBD=Rebook Date - PATIENT/APPOINTMENT MULTIPLE [0,10]
+"RTN","SDECEPT",150,0)
+ ;CANREM=Cancel Remarks - PATIENT/APPOINTMENT MULTIPLE [R,1]
+"RTN","SDECEPT",151,0)
+ ;
+"RTN","SDECEPT",152,0)
+ ; -HOSPITAL LOCATION/APPOINTMENT/PATIENT MULTIPLE GLOBAL LOCATION 0
+"RTN","SDECEPT",153,0)
+ I HLAP0'="" D
+"RTN","SDECEPT",154,0)
+ .S AMUIEN=$P($G(HLAP0),U,6) I AMUIEN'="" D
+"RTN","SDECEPT",155,0)
+ ..S AMUN=$$GET1^DIQ(200,AMUIEN,.01,"E")
+"RTN","SDECEPT",156,0)
+ .S AMD=$P($G(HLAP0),U,7)
+"RTN","SDECEPT",157,0)
+ ;
+"RTN","SDECEPT",158,0)
+ ; -HOSPITAL LOCATION/APPOINTMENT/PATIENT MULTIPLE GLOBAL LOCATION C
+"RTN","SDECEPT",159,0)
+ S HLAPC=$G(^SC(CLIEN,"S",ADT,1,HLAPIEN,"C")) I HLAPC'="" D
+"RTN","SDECEPT",160,0)
+ .S CID=$P($G(HLAPC),U,1) I CID'="" D
+"RTN","SDECEPT",161,0)
+ ..S CIUIEN=$P($G(HLAPC),U,2) I CIUIEN'="" D
+"RTN","SDECEPT",162,0)
+ ...S CIUN=$$GET1^DIQ(200,CIUIEN,.01,"E")
+"RTN","SDECEPT",163,0)
+ .S COD=$P($G(HLAPC),U,3) I COD'="" D
+"RTN","SDECEPT",164,0)
+ ..S COUIEN=$P($G(HLAPC),U,4) I COUIEN'="" D
+"RTN","SDECEPT",165,0)
+ ...S COUN=$$GET1^DIQ(200,COUIEN,.01,"E")
+"RTN","SDECEPT",166,0)
+ ..S COED=$P($G(HLAPC),U,6)
+"RTN","SDECEPT",167,0)
+ ;
+"RTN","SDECEPT",168,0)
+ ; -PATIENT/APPOINTMENT MULTIPLE GLOBAL LOCATION 0
+"RTN","SDECEPT",169,0)
+ I PAM0'="" D
+"RTN","SDECEPT",170,0)
+ .S NCD=$P($G(PAM0),U,14) I NCD'="" D
+"RTN","SDECEPT",171,0)
+ ..S NCUIEN=$P($G(PAM0),U,12) I NCUIEN'="" D
+"RTN","SDECEPT",172,0)
+ ...S NCUN=$$GET1^DIQ(200,NCUIEN,.01,"E")
+"RTN","SDECEPT",173,0)
+ .S CREAC=$P($G(PAM0),U,15) I NCUIEN'="" D
+"RTN","SDECEPT",174,0)
+ ..S CANREA=$$GET1^DIQ(409.2,CREAC,.01)
+"RTN","SDECEPT",175,0)
+ .S RBD=$P($G(PAM0),U,10)
+"RTN","SDECEPT",176,0)
+ I AMUN="" D
+"RTN","SDECEPT",177,0)
+ .S AMUIEN=$P($G(PAM0),U,18) I AMUIEN'="" D
+"RTN","SDECEPT",178,0)
+ ..S AMUN=$$GET1^DIQ(200,AMUIEN,.01,"E")
+"RTN","SDECEPT",179,0)
+ I AMD="" D
+"RTN","SDECEPT",180,0)
+ .S AMD=$P($G(PAM0),U,19)
+"RTN","SDECEPT",181,0)
+ ;
+"RTN","SDECEPT",182,0)
+ ; -PATIENT/APPOINTMENT MULTIPLE GLOBAL LOCATION R
+"RTN","SDECEPT",183,0)
+ S PAMR=$G(^DPT(DFN,"S",ADT,"R")) I PAMR'="" D
+"RTN","SDECEPT",184,0)
+ .S CANREM=$P($G(PAMR),U,1)
+"RTN","SDECEPT",185,0)
+ ;
+"RTN","SDECEPT",186,0)
+ ; -CONVERT DATES TO EXTERNAL
+"RTN","SDECEPT",187,0)
+ I AMD'="" S Y=AMD D D^DIQ S AMD=Y
+"RTN","SDECEPT",188,0)
+ I CID'="" S Y=CID D D^DIQ S CID=Y
+"RTN","SDECEPT",189,0)
+ I COD'="" S Y=COD D D^DIQ S COD=Y
+"RTN","SDECEPT",190,0)
+ I COED'="" S Y=COED D D^DIQ S COED=Y
+"RTN","SDECEPT",191,0)
+ I NCD'="" S Y=NCD D D^DIQ S NCD=Y
+"RTN","SDECEPT",192,0)
+ ;
+"RTN","SDECEPT",193,0)
+ S RET=AMD_U_AMUN_U_CID_U_CIUN_U_COD_U_COUN_U_COED_U_NCD_U_NCUN_U_CANREA_U_CANREM_U_RBD
+"RTN","SDECEPT",194,0)
+ ;
+"RTN","SDECEPT",195,0)
+ D EXIT
+"RTN","SDECEPT",196,0)
+ Q
+"RTN","SDECEPT",197,0)
+ ;
+"RTN","SDECEPT",198,0)
+GETWT(RET,DFN,ADT) ;
+"RTN","SDECEPT",199,0)
+ ; REQUIRE DFN AND APPOINTMENT DATE TIME
+"RTN","SDECEPT",200,0)
+ Q:'$G(DFN)
+"RTN","SDECEPT",201,0)
+ Q:'$G(ADT)
+"RTN","SDECEPT",202,0)
+ ;
+"RTN","SDECEPT",203,0)
+ D INIT
+"RTN","SDECEPT",204,0)
+ ;
+"RTN","SDECEPT",205,0)
+ S (REQTC,REQT,NATCODE,NAT,AMD,PAM1,CID,FUVCODE,FUV,CWT1,CWT2)=""
+"RTN","SDECEPT",206,0)
+ ;
+"RTN","SDECEPT",207,0)
+ ;REQTC=Request Type Code - Patient File Appointment Multiple [0,25]
+"RTN","SDECEPT",208,0)
+ ;REQT=Request Type
+"RTN","SDECEPT",209,0)
+ ;NATCODE=Next Available Type Code - Patient File Appointment Multiple [0,26]
+"RTN","SDECEPT",210,0)
+ ;NAT=Next Available Type
+"RTN","SDECEPT",211,0)
+ ;AMD=Appointment Made Date - Patient File Appointment Multiple [0,19]
+"RTN","SDECEPT",212,0)
+ ;PAM1=Global Location 1 of the Patient File Appointment Multiple
+"RTN","SDECEPT",213,0)
+ ;CID=Clinic Indicated Date/Preferred Date - Patient File Appointment Multiple [1,1]
+"RTN","SDECEPT",214,0)
+ ;FUVCODE=Follow-Up Visit Code 1=Yes 0=No - Patient File Appointment Multiple [1,2]
+"RTN","SDECEPT",215,0)
+ ;FUV=Follow-Up Visit
+"RTN","SDECEPT",216,0)
+ ;CWT1=Clinic Wait Time 1
+"RTN","SDECEPT",217,0)
+ ;CWT2=Clinic Wait Time 2
+"RTN","SDECEPT",218,0)
+ ;
+"RTN","SDECEPT",219,0)
+ ; -PATIENT/APPOINTMENT MULTIPLE GLOBAL LOCATION 0
+"RTN","SDECEPT",220,0)
+ I PAM0'="" D
+"RTN","SDECEPT",221,0)
+ .S REQTC=$P($G(PAM0),U,25) I REQTC'="" D
+"RTN","SDECEPT",222,0)
+ ..I REQTC="N" S REQT="'NEXT AVAILABLE' APPT."
+"RTN","SDECEPT",223,0)
+ ..I REQTC="C" S REQT="OTHER THAN 'NEXT AVA.' (CLINICIAN REQ.)"
+"RTN","SDECEPT",224,0)
+ ..I REQTC="P" S REQT="OTHER THAN 'NEXT AVA.' (PATIENT REQ.)"
+"RTN","SDECEPT",225,0)
+ ..I REQTC="W" S REQT="WALKIN APPT."
+"RTN","SDECEPT",226,0)
+ ..I REQTC="M" S REQT="MULTIPLE APPT. BOOKING"
+"RTN","SDECEPT",227,0)
+ ..I REQTC="A" S REQT="AUTO REBOOK"
+"RTN","SDECEPT",228,0)
+ ..I REQTC="O" S REQT="OTHER THAN 'NEXT AVA.' APPT."
+"RTN","SDECEPT",229,0)
+ .S NATCODE=$P($G(PAM0),U,26) I NATCODE'="" D
+"RTN","SDECEPT",230,0)
+ ..I NATCODE=0 S NAT="NOT INDICATED TO BE A 'NEXT AVA.' APPT."
+"RTN","SDECEPT",231,0)
+ ..I NATCODE=1 S NAT="'NEXT AVA.' APPT. INDICATED BY USER"
+"RTN","SDECEPT",232,0)
+ ..I NATCODE=3 S NAT="'NEXT AVA.' APPT. INDICATED BY CALCULATION"
+"RTN","SDECEPT",233,0)
+ ..I NATCODE=4 S NAT="'NEXT AVA.' APPT. INDICATED BY USER & CALCULATION"
+"RTN","SDECEPT",234,0)
+ .S AMD=$P($G(PAM0),U,19)
+"RTN","SDECEPT",235,0)
+ ;
+"RTN","SDECEPT",236,0)
+ ; -PATIENT/APPOINTMENT MULTIPLE GLOBAL LOCATION 1
+"RTN","SDECEPT",237,0)
+ S PAM1=$G(^DPT(DFN,"S",ADT,1)) I PAM1'="" D
+"RTN","SDECEPT",238,0)
+ .S CID=$P($G(PAM1),U,1)
+"RTN","SDECEPT",239,0)
+ .S FUVCODE=$P($G(PAM1),U,2)
+"RTN","SDECEPT",240,0)
+ .S FUV="No" I FUVCODE=1 S FUV="Yes"
+"RTN","SDECEPT",241,0)
+ ;
+"RTN","SDECEPT",242,0)
+ ; CALULATE WAIT TIMES
+"RTN","SDECEPT",243,0)
+ S (X,X1,X2)=""
+"RTN","SDECEPT",244,0)
+ I AMD'="" D
+"RTN","SDECEPT",245,0)
+ .S X1=ADT S X2=AMD D ^%DTC S CWT1=X
+"RTN","SDECEPT",246,0)
+ I CID'="" D
+"RTN","SDECEPT",247,0)
+ .S X1=ADT S X2=CID D ^%DTC S CWT2=X
+"RTN","SDECEPT",248,0)
+ ;
+"RTN","SDECEPT",249,0)
+ ; -CONVERT DATES TO EXTERNAL
+"RTN","SDECEPT",250,0)
+ I CID'="" S Y=$S(CID[".":$P(CID,".",1),1:CID) D D^DIQ S CID=Y ; WTC SD*5.3*731 9/19/2019 - Strip off time from CID if improperly filed in patient file
+"RTN","SDECEPT",251,0)
+ ;
+"RTN","SDECEPT",252,0)
+ S RET=REQT_U_NAT_U_CID_U_FUV_U_CWT1_U_CWT2
+"RTN","SDECEPT",253,0)
+ ;
+"RTN","SDECEPT",254,0)
+ D EXIT
+"RTN","SDECEPT",255,0)
+ Q
+"RTN","SDECEPT",256,0)
+ ;
+"RTN","SDECEPT",257,0)
+ ;STATUS, LAST ADMIT/LODGER DATE, LAST DISCHARGE/LODGER DATE
+"RTN","SDECEPT",258,0)
+INP ;
+"RTN","SDECEPT",259,0)
+ Q:'$G(DFN)
+"RTN","SDECEPT",260,0)
+ ;
+"RTN","SDECEPT",261,0)
+ S (LADMT,LDIS,DNUM,STAT,SDST,SDSTA,REN,A)=""
+"RTN","SDECEPT",262,0)
+ I '$D(^DGPM("C",DFN)) S LSTAT="NO INPT./LOD. ACT." Q
+"RTN","SDECEPT",263,0)
+ ;
+"RTN","SDECEPT",264,0)
+ S VAIP("D")="L",VAIP("L")="" D INP^DGPMV10
+"RTN","SDECEPT",265,0)
+ S A=$S("^3^5^"[("^"_+DGPMVI(2)_"^"):0,1:+DGPMVI(2)),SDST=$S('A:"IN",1:"")_"ACTIVE ",SDSTA=$S("^4^5^"[("^"_+DGPMVI(2)_"^"):"LODGER",1:"INPATIENT")
+"RTN","SDECEPT",266,0)
+ S STAT="" S STAT=SDST_SDSTA
+"RTN","SDECEPT",267,0)
+ S LADMT="" S LADMT=$P($G(DGPMVI(13,1)),"^",2)
+"RTN","SDECEPT",268,0)
+ S DNUM="" S DNUM=$G(DGPMV1(17)) I DNUM'="" D
+"RTN","SDECEPT",269,0)
+ .S LDIS="" S LDIS=$$GET1^DIQ(405,DNUM,.01)
+"RTN","SDECEPT",270,0)
+ Q
+"RTN","SDECEPT",271,0)
+GETPTIN(RET,DFN,ADT) ;
+"RTN","SDECEPT",272,0)
+ ;REQUIRE DFN AND APPOINTMENT DATE TIME
+"RTN","SDECEPT",273,0)
+ Q:'$G(DFN)
+"RTN","SDECEPT",274,0)
+ Q:'$G(ADT)
+"RTN","SDECEPT",275,0)
+ ;
+"RTN","SDECEPT",276,0)
+ D INIT
+"RTN","SDECEPT",277,0)
+ ;
+"RTN","SDECEPT",278,0)
+ S (DOB,RSSN,SSN,SEX,MARSIEN,MARS,RELGP,PAT36,PELIG,POS,SADDR1,SWASIAC)=""
+"RTN","SDECEPT",279,0)
+ S (SADDR2,SADDR3,CITY,STATEN,STATE,CNTY,ADDR,PHN,CPHN,PGER,EMAIL,RADEXC)=""
+"RTN","SDECEPT",280,0)
+ S (RADEX,STAT,POW,LADMT,AOEXLC,AOEXL,LDIS,CMBTVC,CMBTV,CMBTVED,PROJ112)=""
+"RTN","SDECEPT",281,0)
+ S (PROCODE,SWASIA,PAT36,PAT11,PAT13,PAT36,PAT52,PAT321,PAT322,POWCODE)=""
+"RTN","SDECEPT",282,0)
+ S (RELGPN,PELIGN,POSN)=""
+"RTN","SDECEPT",283,0)
+ ;
+"RTN","SDECEPT",284,0)
+ ;DOB=Date Of Birth - Patient File [0,3]
+"RTN","SDECEPT",285,0)
+ ;RSSN=Raw Social Security Number - Patient File [0,9]
+"RTN","SDECEPT",286,0)
+ ;SSN=Formatted Social Security Number
+"RTN","SDECEPT",287,0)
+ ;SEX=Male or Female - Patient File [0,2]
+"RTN","SDECEPT",288,0)
+ ;MARSIEN=Marital Status IEN - Patient File [0,5] 
+"RTN","SDECEPT",289,0)
+ ;MARS=Marital Status - Marital Status File (11) Field .01
+"RTN","SDECEPT",290,0)
+ ;RELGPN=Religious Preference IEN - Patient File [0,8]
+"RTN","SDECEPT",291,0)
+ ;RELGP=Religious Preference - file 13 field .01 (Name)
+"RTN","SDECEPT",292,0)
+ ;PELIGN=Preimary Eligibility IEN - Patient File [.36,1]
+"RTN","SDECEPT",293,0)
+ ;PELIG=Primary Eligibility - File 8 field .01 (name) 
+"RTN","SDECEPT",294,0)
+ ;POSN=Period of Servic IEN
+"RTN","SDECEPT",295,0)
+ ;POS=Period of Service - File 21 Field .01 (Name)
+"RTN","SDECEPT",296,0)
+ ;SADDR1=Street Address 1 - Patient File [.11,1]
+"RTN","SDECEPT",297,0)
+ ;SADDR2=Street Address 2 - Patient File [.11,2]
+"RTN","SDECEPT",298,0)
+ ;SADDR3=Street Address 2 - Patient File [.11,3]
+"RTN","SDECEPT",299,0)
+ ;CITY=City - Patient File [.11,4]
+"RTN","SDECEPT",300,0)
+ ;STATEN=State IEN - Patient File [.11,5]
+"RTN","SDECEPT",301,0)
+ ;STATE=State - State File (5) Field .01
+"RTN","SDECEPT",302,0)
+ ;CNTYIEN=Country IEN - Patient File [.11,10]
+"RTN","SDECEPT",303,0)
+ ;CNTY=Country - Country Code File (779.004) Field .01
+"RTN","SDECEPT",304,0)
+ ;ADDR=Address
+"RTN","SDECEPT",305,0)
+ ;PHN=Phone Number - Patient File [.13,1]
+"RTN","SDECEPT",306,0)
+ ;CPHN=Cell Phone Number - Patient File [.13,4]
+"RTN","SDECEPT",307,0)
+ ;PGER=Pager Number - Patient File [.13,5]
+"RTN","SDECEPT",308,0)
+ ;EMAIL=Email Address - Patient File [.13,3]
+"RTN","SDECEPT",309,0)
+ ;RADEXC=Radiation Exposure CODE Y=Yes N=No U=Unknown - Patient File [.321,3]
+"RTN","SDECEPT",310,0)
+ ;RADEX=Radiation Exposure
+"RTN","SDECEPT",311,0)
+ ;
+"RTN","SDECEPT",312,0)
+ ;STAT=Status ???
+"RTN","SDECEPT",313,0)
+ ;
+"RTN","SDECEPT",314,0)
+ ;POWCODE=Prisoner Of War CODE Y=Yes N=No U=Unknown - Patient File [.52,5]
+"RTN","SDECEPT",315,0)
+ ;POW=Prisoner Of War
+"RTN","SDECEPT",316,0)
+ ;
+"RTN","SDECEPT",317,0)
+ ;LADMT=Last Admit/Lodger Date ???
+"RTN","SDECEPT",318,0)
+ ;
+"RTN","SDECEPT",319,0)
+ ;AOEXLC=Agent Orange Exposure Location CODE K=Korean DMZ V=Vietnam O=Other - Patient File [.321,13]
+"RTN","SDECEPT",320,0)
+ ;AOEXL=Agent Orange Exposure Location
+"RTN","SDECEPT",321,0)
+ ;
+"RTN","SDECEPT",322,0)
+ ;LDIS=Last Discharge/Lodger Date ???
+"RTN","SDECEPT",323,0)
+ ;
+"RTN","SDECEPT",324,0)
+ ;CMBTVC=Combat Veteran CODE Y=Yes N=No - Patient File [.52,11]
+"RTN","SDECEPT",325,0)
+ ;CMBTV=Combat Veteran
+"RTN","SDECEPT",326,0)
+ ;CMBTVED=Combat Veteran End Date - Patient File [.52,14]
+"RTN","SDECEPT",327,0)
+ ;PROCODE=Project 112/SHAD CODE 0=No 1=Yes - Patient File [.321,15]
+"RTN","SDECEPT",328,0)
+ ;PROJ112=Project 112/SHAD
+"RTN","SDECEPT",329,0)
+ ;SWASIAC=SW Asia Conditions Code Y=Yes N=No U=Unknown - Patient File [.322,13]
+"RTN","SDECEPT",330,0)
+ ;SWASIA=SW Asia Conditions
+"RTN","SDECEPT",331,0)
+ ; 
+"RTN","SDECEPT",332,0)
+ ; -PATIENT FILE GLOBAL LOCATION 0
+"RTN","SDECEPT",333,0)
+ I PAT0'="" D
+"RTN","SDECEPT",334,0)
+ .S DOB=$P($G(PAT0),U,3)
+"RTN","SDECEPT",335,0)
+ .S RSSN=$P($G(PAT0),U,9) I RSSN'="" D
+"RTN","SDECEPT",336,0)
+ ..S SSN=$E(RSSN,1,3)_"-"_$E(RSSN,4,5)_"-"_$E(RSSN,6,9)
+"RTN","SDECEPT",337,0)
+ .S SEXCODE=$P($G(PAT0),U,2) I SEXCODE'="" D
+"RTN","SDECEPT",338,0)
+ ..I SEXCODE="M" S SEX="Male"
+"RTN","SDECEPT",339,0)
+ ..I SEXCODE="F" S SEX="Female"
+"RTN","SDECEPT",340,0)
+ .S MARSIEN=$P($G(PAT0),U,5) I MARSIEN'="" D
+"RTN","SDECEPT",341,0)
+ ..S MARS=$$GET1^DIQ(11,MARSIEN,.01)
+"RTN","SDECEPT",342,0)
+ .S RELGPN=$P($G(PAT0),U,8) I RELGPN'="" D
+"RTN","SDECEPT",343,0)
+ ..S RELGP=$$GET1^DIQ(13,RELGPN,.01)
+"RTN","SDECEPT",344,0)
+ ;
+"RTN","SDECEPT",345,0)
+ ; -PATIENT FILE GLOBAL LOCATION .11
+"RTN","SDECEPT",346,0)
+ S PAT11=$G(^DPT(DFN,.11)) I PAT11'="" D
+"RTN","SDECEPT",347,0)
+ .S SADDR1=$P($G(PAT11),U,1)
+"RTN","SDECEPT",348,0)
+ .S SADDR2=$P($G(PAT11),U,2)
+"RTN","SDECEPT",349,0)
+ .S SADDR3=$P($G(PAT11),U,3)
+"RTN","SDECEPT",350,0)
+ .S CITY=$P($G(PAT11),U,4)
+"RTN","SDECEPT",351,0)
+ .S STATEN=$P($G(PAT11),U,5) I STATEN'="" D
+"RTN","SDECEPT",352,0)
+ ..S STATE=$$GET1^DIQ(5,STATEN,.01)
+"RTN","SDECEPT",353,0)
+ .S ZCODE=$P($G(PAT11),U,6)
+"RTN","SDECEPT",354,0)
+ .S CNTYIEN=$P($G(PAT11),U,10) I CNTYIEN'="" D
+"RTN","SDECEPT",355,0)
+ ..S CNTY=$$GET1^DIQ(779.004,CNTYIEN,.01)
+"RTN","SDECEPT",356,0)
+ .S SADDR=SADDR1 I SADDR2'="" D
+"RTN","SDECEPT",357,0)
+ ..S SADDR=SADDR1_" "_SADDR2 I SADDR3'="" D
+"RTN","SDECEPT",358,0)
+ ...S SADDR=SADDR1_" "_SADDR2_" "_SADDR3
+"RTN","SDECEPT",359,0)
+ .S ADDR=SADDR_" "_CITY_", "_STATE_" "_ZCODE_" "_CNTY
+"RTN","SDECEPT",360,0)
+ ;
+"RTN","SDECEPT",361,0)
+ ; -PATIENT FILE GLOBAL LOCATION .13
+"RTN","SDECEPT",362,0)
+ S PAT13=$G(^DPT(DFN,.13)) I PAT13'="" D
+"RTN","SDECEPT",363,0)
+ .S PHN=$P($G(PAT13),U,1)
+"RTN","SDECEPT",364,0)
+ .S CPHN=$P($G(PAT13),U,4)
+"RTN","SDECEPT",365,0)
+ .S PGER=$P($G(PAT13),U,5)
+"RTN","SDECEPT",366,0)
+ .S EMAIL=$P($G(PAT13),U,3)
+"RTN","SDECEPT",367,0)
+ ;
+"RTN","SDECEPT",368,0)
+ ; -PATIENT FILE GLOBAL LOCATION .36
+"RTN","SDECEPT",369,0)
+ S PAT36=$G(^DPT(DFN,.36)) I PAT36'="" D
+"RTN","SDECEPT",370,0)
+ .S PELIGN=$P($G(PAT36),U,1) I PELIGN'="" D
+"RTN","SDECEPT",371,0)
+ ..S PELIG=$$GET1^DIQ(8,PELIGN,.01)
+"RTN","SDECEPT",372,0)
+ ;
+"RTN","SDECEPT",373,0)
+ ; -PATIENT FILE GLOBAL LOCATION .52
+"RTN","SDECEPT",374,0)
+ S PAT52=$G(^DPT(DFN,.52)) I PAT52'="" D
+"RTN","SDECEPT",375,0)
+ .S POWCODE=$P($G(PAT52),U,5) I POWCODE'="" D
+"RTN","SDECEPT",376,0)
+ ..I POWCODE="Y" S POW="Yes"
+"RTN","SDECEPT",377,0)
+ ..I POWCODE="N" S POW="No"
+"RTN","SDECEPT",378,0)
+ ..I POWCODE="U" S POW="Unknown"
+"RTN","SDECEPT",379,0)
+ .S CMBTVC=$P($G(PAT52),U,11) I CMBTVC'="" D
+"RTN","SDECEPT",380,0)
+ ..S CMBTV="No"
+"RTN","SDECEPT",381,0)
+ ..I CMBTVC="Y" S CMBTV="Yes"
+"RTN","SDECEPT",382,0)
+ .S CMBTVED=$P($G(PAT52),U,14) I CMBTV="No" D
+"RTN","SDECEPT",383,0)
+ ..S CMBTVED="N/A"
+"RTN","SDECEPT",384,0)
+ ;
+"RTN","SDECEPT",385,0)
+ ; -PATIENT FILE GLOBAL LOCATION .321
+"RTN","SDECEPT",386,0)
+ S PAT321=$G(^DPT(DFN,.52)) I PAT321'="" D
+"RTN","SDECEPT",387,0)
+ .S RADEXC=$P($G(PAT321),U,3) I RADEXC'="" D
+"RTN","SDECEPT",388,0)
+ ..I RADEXC="Y" S RADEX="Yes"
+"RTN","SDECEPT",389,0)
+ ..I RADEXC="N" S RADEX="No"
+"RTN","SDECEPT",390,0)
+ ..I RADEXC="U" S RADEX="Unknown"
+"RTN","SDECEPT",391,0)
+ .S AOEXLC=$P($G(PAT321),U,13) I AOEXLC'="" D
+"RTN","SDECEPT",392,0)
+ ..I AOEXLC="K" S AOEXL="Korean DMZ"
+"RTN","SDECEPT",393,0)
+ ..I AOEXLC="V" S AOEXL="Vietnam"
+"RTN","SDECEPT",394,0)
+ ..I AOEXLC="O" S AOEXL="Other (Not Korean DMZ or Vietnam)"
+"RTN","SDECEPT",395,0)
+ .S PROCODE=$P($G(PAT321),U,15) I PROCODE'="" D
+"RTN","SDECEPT",396,0)
+ ..I PROCODE=2 S PROJ112="No"
+"RTN","SDECEPT",397,0)
+ ..I PROCODE=1 S PROJ112="Yes"
+"RTN","SDECEPT",398,0)
+ ;
+"RTN","SDECEPT",399,0)
+ ; -PATIENT FILE GLOBAL LOCATION .322
+"RTN","SDECEPT",400,0)
+ S PAT322=$G(^DPT(DFN,.52)) I PAT322'="" D
+"RTN","SDECEPT",401,0)
+ .S SWASIAC=$P($G(PAT322),U,13) I SWASIAC'="" D
+"RTN","SDECEPT",402,0)
+ ..I SWASIAC="Y" S SWASIA="Yes"
+"RTN","SDECEPT",403,0)
+ ..I SWASIAC="N" S SWASIA="No"
+"RTN","SDECEPT",404,0)
+ ..I SWASIAC="U" S SWASIA="Unknown"
+"RTN","SDECEPT",405,0)
+ ;
+"RTN","SDECEPT",406,0)
+ ; -CONVERT DATES TO EXTERNAL
+"RTN","SDECEPT",407,0)
+ I DOB'="" S Y=DOB D D^DIQ S DOB=Y
+"RTN","SDECEPT",408,0)
+ ;
+"RTN","SDECEPT",409,0)
+ ; -PERIOD OF SERVICE
+"RTN","SDECEPT",410,0)
+ S (POSN,POS)="" S POSN=$$GET1^DIQ(2,DFN_",",.323,"I") I POSN'="" S POS=$$GET1^DIQ(21,POSN,.01,"E")
+"RTN","SDECEPT",411,0)
+ ;
+"RTN","SDECEPT",412,0)
+ ; -GET STAT, LADMT, LDIS
+"RTN","SDECEPT",413,0)
+ D INP
+"RTN","SDECEPT",414,0)
+ ; 
+"RTN","SDECEPT",415,0)
+ S RET=DOB_U_SSN_U_SEX_U_MARS_U_RELGP_U_PELIG_U_POS_U_ADDR_U_PHN_U_CPHN_U_PGER_U_EMAIL_U_RADEX_U_STAT_U_POW_U_LADMT_U_AOEXL_U_LDIS_U_CMBTV_U_CMBTVED_U_PROJ112_U_SWASIA
+"RTN","SDECEPT",416,0)
+ ;
+"RTN","SDECEPT",417,0)
+ D EXIT
+"RTN","SDECEPT",418,0)
+ Q
+"RTN","SDECEPT",419,0)
+ ;
+"RTN","SDECEPT",420,0)
+EXIT ;
+"RTN","SDECEPT",421,0)
+ K PAT0,PAM0,CLIEN,HLF0,HLAPIEN,HLAP0,RSSN,PAMS,PCODE,ATIEN,CCODE,ECODE,PAMSC
+"RTN","SDECEPT",422,0)
+ K AMUIEN,AMU,HLAPC,CIUIEN,COUIEN,NCUIEN,PAT36,SADDR1,SWASIAC,SADDR2,SADDR3
+"RTN","SDECEPT",423,0)
+ K CITY,STATEN,STATE,CNTY,RADEXC,AOEXLC,CMBTVC,PROCODE,PAT36,PAT11,PAT13,PAT52
+"RTN","SDECEPT",424,0)
+ K PAT321,PAT322,ENROLC
+"RTN","SDECEPT",425,0)
+ Q
+"VER")
+8.0^22.2
+**END**
+**END**
+
