@@ -1,3 +1,0 @@
-For the build for OR*3*300, please see folder “CPRS FILES” to obtain the build for this patch.
-
-
