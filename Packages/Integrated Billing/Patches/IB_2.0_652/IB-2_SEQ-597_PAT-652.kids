@@ -1,0 +1,2351 @@
+Released IB*2*652 SEQ #597
+Extracted from mail message
+**KIDS**:IB*2.0*652^
+
+**INSTALL NAME**
+IB*2.0*652
+"BLD",11371,0)
+IB*2.0*652^INTEGRATED BILLING^0^3191127^y
+"BLD",11371,4,0)
+^9.64PA^2^1
+"BLD",11371,4,2,0)
+2
+"BLD",11371,4,2,2,0)
+^9.641^2.312^1
+"BLD",11371,4,2,2,2.312,0)
+INSURANCE TYPE  (sub-file)
+"BLD",11371,4,2,2,2.312,1,0)
+^9.6411^7.04^2
+"BLD",11371,4,2,2,2.312,1,7.03,0)
+SUBSCRIBER ID ROLLBACK
+"BLD",11371,4,2,2,2.312,1,7.04,0)
+PATIENT ID ROLLBACK
+"BLD",11371,4,2,222)
+y^n^p^^^^n^^n
+"BLD",11371,4,2,224)
+
+"BLD",11371,4,"APDD",2,2.312)
+
+"BLD",11371,4,"APDD",2,2.312,7.03)
+
+"BLD",11371,4,"APDD",2,2.312,7.04)
+
+"BLD",11371,4,"B",2,2)
+
+"BLD",11371,6)
+9^
+"BLD",11371,6.3)
+23
+"BLD",11371,"ABPKG")
+n
+"BLD",11371,"INI")
+
+"BLD",11371,"INID")
+n^n^
+"BLD",11371,"INIT")
+IBY652P
+"BLD",11371,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11371,"KRN",.4,0)
+.4
+"BLD",11371,"KRN",.401,0)
+.401
+"BLD",11371,"KRN",.402,0)
+.402
+"BLD",11371,"KRN",.403,0)
+.403
+"BLD",11371,"KRN",.5,0)
+.5
+"BLD",11371,"KRN",.84,0)
+.84
+"BLD",11371,"KRN",1.5,0)
+1.5
+"BLD",11371,"KRN",1.6,0)
+1.6
+"BLD",11371,"KRN",1.61,0)
+1.61
+"BLD",11371,"KRN",1.62,0)
+1.62
+"BLD",11371,"KRN",3.6,0)
+3.6
+"BLD",11371,"KRN",3.8,0)
+3.8
+"BLD",11371,"KRN",9.2,0)
+9.2
+"BLD",11371,"KRN",9.8,0)
+9.8
+"BLD",11371,"KRN",9.8,"NM",0)
+^9.68A^3^3
+"BLD",11371,"KRN",9.8,"NM",1,0)
+IBCNSJ3^^0^B22112242
+"BLD",11371,"KRN",9.8,"NM",2,0)
+IBCNSJ5^^0^B37905336
+"BLD",11371,"KRN",9.8,"NM",3,0)
+IBCNCH^^0^B189958105
+"BLD",11371,"KRN",9.8,"NM","B","IBCNCH",3)
+
+"BLD",11371,"KRN",9.8,"NM","B","IBCNSJ3",1)
+
+"BLD",11371,"KRN",9.8,"NM","B","IBCNSJ5",2)
+
+"BLD",11371,"KRN",19,0)
+19
+"BLD",11371,"KRN",19.1,0)
+19.1
+"BLD",11371,"KRN",19.1,"NM",0)
+^9.68A^1^1
+"BLD",11371,"KRN",19.1,"NM",1,0)
+IBCN PT POLICY COMNT DELETE^^0
+"BLD",11371,"KRN",19.1,"NM","B","IBCN PT POLICY COMNT DELETE",1)
+
+"BLD",11371,"KRN",101,0)
+101
+"BLD",11371,"KRN",101,"NM",0)
+^9.68A^7^6
+"BLD",11371,"KRN",101,"NM",2,0)
+IBCNSC PLAN LIST^^0
+"BLD",11371,"KRN",101,"NM",3,0)
+IBCNSJ INS CO NEW PLAN^^0
+"BLD",11371,"KRN",101,"NM",4,0)
+IBCNS QUIT^^4^
+"BLD",11371,"KRN",101,"NM",5,0)
+IBCNSJ INS CO INACTIVATE PLAN^^4^
+"BLD",11371,"KRN",101,"NM",6,0)
+IBCNSJ PLAN VIEW/EDIT^^4^
+"BLD",11371,"KRN",101,"NM",7,0)
+IBCNSJ UPDATE ANNUAL BENEFITS^^4^
+"BLD",11371,"KRN",101,"NM","B","IBCNS QUIT",4)
+
+"BLD",11371,"KRN",101,"NM","B","IBCNSC PLAN LIST",2)
+
+"BLD",11371,"KRN",101,"NM","B","IBCNSJ INS CO INACTIVATE PLAN",5)
+
+"BLD",11371,"KRN",101,"NM","B","IBCNSJ INS CO NEW PLAN",3)
+
+"BLD",11371,"KRN",101,"NM","B","IBCNSJ PLAN VIEW/EDIT",6)
+
+"BLD",11371,"KRN",101,"NM","B","IBCNSJ UPDATE ANNUAL BENEFITS",7)
+
+"BLD",11371,"KRN",409.61,0)
+409.61
+"BLD",11371,"KRN",771,0)
+771
+"BLD",11371,"KRN",779.2,0)
+779.2
+"BLD",11371,"KRN",870,0)
+870
+"BLD",11371,"KRN",8989.51,0)
+8989.51
+"BLD",11371,"KRN",8989.52,0)
+8989.52
+"BLD",11371,"KRN",8994,0)
+8994
+"BLD",11371,"KRN","B",.4,.4)
+
+"BLD",11371,"KRN","B",.401,.401)
+
+"BLD",11371,"KRN","B",.402,.402)
+
+"BLD",11371,"KRN","B",.403,.403)
+
+"BLD",11371,"KRN","B",.5,.5)
+
+"BLD",11371,"KRN","B",.84,.84)
+
+"BLD",11371,"KRN","B",1.5,1.5)
+
+"BLD",11371,"KRN","B",1.6,1.6)
+
+"BLD",11371,"KRN","B",1.61,1.61)
+
+"BLD",11371,"KRN","B",1.62,1.62)
+
+"BLD",11371,"KRN","B",3.6,3.6)
+
+"BLD",11371,"KRN","B",3.8,3.8)
+
+"BLD",11371,"KRN","B",9.2,9.2)
+
+"BLD",11371,"KRN","B",9.8,9.8)
+
+"BLD",11371,"KRN","B",19,19)
+
+"BLD",11371,"KRN","B",19.1,19.1)
+
+"BLD",11371,"KRN","B",101,101)
+
+"BLD",11371,"KRN","B",409.61,409.61)
+
+"BLD",11371,"KRN","B",771,771)
+
+"BLD",11371,"KRN","B",779.2,779.2)
+
+"BLD",11371,"KRN","B",870,870)
+
+"BLD",11371,"KRN","B",8989.51,8989.51)
+
+"BLD",11371,"KRN","B",8989.52,8989.52)
+
+"BLD",11371,"KRN","B",8994,8994)
+
+"BLD",11371,"PRE")
+IBY652E
+"BLD",11371,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",11371,"QUES",0)
+^9.62^^
+"BLD",11371,"REQB",0)
+^9.611^2^2
+"BLD",11371,"REQB",1,0)
+IB*2.0*519^1
+"BLD",11371,"REQB",2,0)
+IB*2.0*582^1
+"BLD",11371,"REQB","B","IB*2.0*519",1)
+
+"BLD",11371,"REQB","B","IB*2.0*582",2)
+
+"FIA",2)
+PATIENT
+"FIA",2,0)
+^DPT(
+"FIA",2,0,0)
+2I
+"FIA",2,0,1)
+y^n^p^^^^n^^n
+"FIA",2,0,10)
+
+"FIA",2,0,11)
+
+"FIA",2,0,"RLRO")
+
+"FIA",2,0,"VR")
+2.0^IB
+"FIA",2,2)
+1
+"FIA",2,2.312)
+1
+"FIA",2,2.312,7.03)
+
+"FIA",2,2.312,7.04)
+
+"INIT")
+IBY652P
+"KRN",19.1,988,-1)
+0^1
+"KRN",19.1,988,0)
+IBCN PT POLICY COMNT DELETE^IBCN PT POLICY COMMENT DELETE
+"KRN",19.1,988,1,0)
+^^4^4^3190806^
+"KRN",19.1,988,1,1,0)
+This key should be allocated to individuals (Managers, Supervisors and
+"KRN",19.1,988,1,2,0)
+Database Managers) who need to be able to delete one or multiple patient
+"KRN",19.1,988,1,3,0)
+policy comments that normally would only be accessible to be deleted by
+"KRN",19.1,988,1,4,0)
+the original creator of the comment.
+"KRN",101,2563,-1)
+4^4
+"KRN",101,2563,0)
+IBCNS QUIT
+"KRN",101,4366,-1)
+0^2
+"KRN",101,4366,0)
+IBCNSC PLAN LIST^Insurance Plan List^^M^^^^^^^^INTEGRATED BILLING
+"KRN",101,4366,4)
+26^4
+"KRN",101,4366,10,0)
+^101.01PA^5^5
+"KRN",101,4366,10,1,0)
+2563^EX^4^
+"KRN",101,4366,10,1,"^")
+IBCNS QUIT
+"KRN",101,4366,10,2,0)
+4369^IP^3^
+"KRN",101,4366,10,2,"^")
+IBCNSJ INS CO INACTIVATE PLAN
+"KRN",101,4366,10,3,0)
+4367^VP^1^^^View/Edit Plan
+"KRN",101,4366,10,3,"^")
+IBCNSJ PLAN VIEW/EDIT
+"KRN",101,4366,10,4,0)
+4368^AB^2^
+"KRN",101,4366,10,4,"^")
+IBCNSJ UPDATE ANNUAL BENEFITS
+"KRN",101,4366,10,5,0)
+8478^NP^5^
+"KRN",101,4366,10,5,"^")
+IBCNSJ INS CO NEW PLAN
+"KRN",101,4366,26)
+D SHOW^VALM
+"KRN",101,4366,28)
+Select Action: 
+"KRN",101,4366,99)
+65276,36106
+"KRN",101,4367,-1)
+4^6
+"KRN",101,4367,0)
+IBCNSJ PLAN VIEW/EDIT
+"KRN",101,4368,-1)
+4^7
+"KRN",101,4368,0)
+IBCNSJ UPDATE ANNUAL BENEFITS
+"KRN",101,4369,-1)
+4^5
+"KRN",101,4369,0)
+IBCNSJ INS CO INACTIVATE PLAN
+"KRN",101,8478,-1)
+0^3
+"KRN",101,8478,0)
+IBCNSJ INS CO NEW PLAN^New Plan^^A^^^^^^^^INTEGRATED BILLING
+"KRN",101,8478,1,0)
+^^2^2^3190529^
+"KRN",101,8478,1,1,0)
+This is the action protocol for adding a new plan without prompting for 
+"KRN",101,8478,1,2,0)
+subscribers.  It is used in the Insurance Company Edit.
+"KRN",101,8478,20)
+D NP^IBCNSJ5
+"KRN",101,8478,99)
+65276,36106
+"MBREQ")
+0
+"ORD",3,19.1)
+19.1;3;;;KEY^XPDTA1;KEYF1^XPDIA1;KEYE1^XPDIA1;KEYF2^XPDIA1;;KEYDEL^XPDIA1
+"ORD",3,19.1,0)
+SECURITY KEY
+"ORD",15,101)
+101;15;;;PRO^XPDTA;PROF1^XPDIA;PROE1^XPDIA;PROF2^XPDIA;;PRODEL^XPDIA
+"ORD",15,101,0)
+PROTOCOL
+"PKG",230,-1)
+1^1
+"PKG",230,0)
+INTEGRATED BILLING^IB^INTEGRATED BILLING
+"PKG",230,22,0)
+^9.49I^1^1
+"PKG",230,22,1,0)
+2.0^2940321^2940525
+"PKG",230,22,1,"PAH",1,0)
+652^3191127^520824649
+"PRE")
+IBY652E
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+5
+"RTN","IBCNCH")
+0^3^B189958105^B89930546
+"RTN","IBCNCH",1,0)
+IBCNCH ;ALB/FA - PATIENT POLICY COMMENT HISTORY ;05-MAR-2015
+"RTN","IBCNCH",2,0)
+ ;;2.0;INTEGRATED BILLING;**549,582,652**;21-MAR-94;Build 23
+"RTN","IBCNCH",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","IBCNCH",4,0)
+ ;
+"RTN","IBCNCH",5,0)
+EN(DFN,IBIIEN,MODE) ;EP 
+"RTN","IBCNCH",6,0)
+ ; Main entry point
+"RTN","IBCNCH",7,0)
+ ; Input:   DFN     - IEN of the patient
+"RTN","IBCNCH",8,0)
+ ;          IBIIEN  - IEN of patient policy multiple (^DPT(DFN,.312,IBIIEN)
+"RTN","IBCNCH",9,0)
+ ;          MODE    - 1 - User is allowed to Add/Edit/Delete/View/Search comments
+"RTN","IBCNCH",10,0)
+ ;                    0 - User is allowed to View/Search comments
+"RTN","IBCNCH",11,0)
+ K VALMQUIT
+"RTN","IBCNCH",12,0)
+ I $G(DFN)="" D  Q
+"RTN","IBCNCH",13,0)
+ . W !!,*7,"Patient is not identified."
+"RTN","IBCNCH",14,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",15,0)
+ I +$G(IBIIEN)<0 D  Q
+"RTN","IBCNCH",16,0)
+ . W !!,*7,"Patient Policy is not identified."
+"RTN","IBCNCH",17,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",18,0)
+ S:'$D(MODE) MODE=0
+"RTN","IBCNCH",19,0)
+ ;
+"RTN","IBCNCH",20,0)
+ I MODE=1 D EN^VALM("IBCNCH POLICY COMMENT HISTORY") Q
+"RTN","IBCNCH",21,0)
+ D EN^VALM("IBCNCH POLICY COMMENT VIEW")
+"RTN","IBCNCH",22,0)
+ Q
+"RTN","IBCNCH",23,0)
+ ;
+"RTN","IBCNCH",24,0)
+HDR ;EP
+"RTN","IBCNCH",25,0)
+ ; Build the listman template header information
+"RTN","IBCNCH",26,0)
+ ; Input:   DFN     - IEN of the patient
+"RTN","IBCNCH",27,0)
+ ;          IBPPOL  - ^DPT(DFN,.312,PIEN,0) Where PIEN is the IEN of the
+"RTN","IBCNCH",28,0)
+ ;                    selected patient policy
+"RTN","IBCNCH",29,0)
+ N WW,XX,YY,ZZ
+"RTN","IBCNCH",30,0)
+ S XX=$E($P(^DPT(DFN,0),"^",1),1,20)_"  "_$P($$PT^IBEFUNC(DFN),"^",2)
+"RTN","IBCNCH",31,0)
+ S ZZ=$$GET1^DIQ(2,DFN_",",.03),XX=XX_"  "_ZZ
+"RTN","IBCNCH",32,0)
+ S VALMHDR(1)="Policy Comment History for: "_XX
+"RTN","IBCNCH",33,0)
+ S ZZ=$G(^DPT(DFN,.312,+$P(IBPPOL,"^",4),0))
+"RTN","IBCNCH",34,0)
+ S WW=$P($G(^IBA(355.3,+$P(ZZ,"^",18),0)),"^",11)
+"RTN","IBCNCH",35,0)
+ S YY=$E($P($G(^DIC(36,+ZZ,0)),"^",1),1,20)_" Insurance Company"
+"RTN","IBCNCH",36,0)
+ S XX="** Plan Currently "_$S(WW:"Ina",1:"A")_"ctive **"
+"RTN","IBCNCH",37,0)
+ S VALMHDR(2)=$$SETSTR^VALM1(XX,YY,48,29)
+"RTN","IBCNCH",38,0)
+ Q
+"RTN","IBCNCH",39,0)
+ ;
+"RTN","IBCNCH",40,0)
+INIT ;EP
+"RTN","IBCNCH",41,0)
+ ; Initialize the listman template
+"RTN","IBCNCH",42,0)
+ ; Input:   DFN                 - IEN of the patient
+"RTN","IBCNCH",43,0)
+ ;          IBIIEN              - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",44,0)
+ ;                                multiple IEN of the selected patient policy
+"RTN","IBCNCH",45,0)
+ ; Output:  ^TMP("IBCNCH",$J)   - Body lines to display for specified template
+"RTN","IBCNCH",46,0)
+ ;          ^TMP($J,"IBCNCHIX") - Index of displayed comments (see GETCOMS)
+"RTN","IBCNCH",47,0)
+ K ^TMP("IBCNCH",$J),^TMP($J,"IBCNCHIX")
+"RTN","IBCNCH",48,0)
+ D BLD^IBCNCH2(DFN,IBIIEN)
+"RTN","IBCNCH",49,0)
+ Q
+"RTN","IBCNCH",50,0)
+ ;
+"RTN","IBCNCH",51,0)
+ADDCOM  ;EP
+"RTN","IBCNCH",52,0)
+ ; Protocol action to Add a new Patient Policy Comment
+"RTN","IBCNCH",53,0)
+ ; Input:   DFN     - IEN of the selected Patient
+"RTN","IBCNCH",54,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",55,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",56,0)
+ N COMDT,COMIEN,DA,DIE,DR,DTOUT,XX
+"RTN","IBCNCH",57,0)
+ D FULL^VALM1
+"RTN","IBCNCH",58,0)
+ S VALMBCK="R"
+"RTN","IBCNCH",59,0)
+ ;
+"RTN","IBCNCH",60,0)
+ ; If last comment entered today by this user, edit it instead of adding
+"RTN","IBCNCH",61,0)
+ ; a new one
+"RTN","IBCNCH",62,0)
+ S COMDT=$O(^DPT(DFN,.312,IBIIEN,13,"B",""),-1)
+"RTN","IBCNCH",63,0)
+ I COMDT'="" D
+"RTN","IBCNCH",64,0)
+ . S COMIEN=$O(^DPT(DFN,.312,IBIIEN,13,"B",COMDT,""))
+"RTN","IBCNCH",65,0)
+ . S XX=$$GET1^DIQ(2.342,COMIEN_","_IBIIEN_","_DFN_",",.02,"I")
+"RTN","IBCNCH",66,0)
+ I COMDT'="",XX=DUZ,$P(COMDT,".",1)=$P($$NOW^XLFDT(),".",1) D  Q
+"RTN","IBCNCH",67,0)
+ . D EDITCOM(DFN,IBIIEN,COMIEN,0)
+"RTN","IBCNCH",68,0)
+ ;
+"RTN","IBCNCH",69,0)
+ ; Lock Adding of comments for this patient and policy
+"RTN","IBCNCH",70,0)
+ I '$$LOCKN(DFN,IBIIEN) D  Q
+"RTN","IBCNCH",71,0)
+ . W !!,*7,"Someone else is adding a comment for this patient and policy."
+"RTN","IBCNCH",72,0)
+ . W !,"Try again later."
+"RTN","IBCNCH",73,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",74,0)
+ S COMIEN=$$NEXTCOM(DFN,IBIIEN)             ; Get next Comment IEN
+"RTN","IBCNCH",75,0)
+ ;
+"RTN","IBCNCH",76,0)
+ ; Let the user add the comment
+"RTN","IBCNCH",77,0)
+ S DIE="^DPT(DFN,.312,IBIIEN,13,"
+"RTN","IBCNCH",78,0)
+ S DA=COMIEN,DA(1)=IBIIEN,DA(2)=DFN
+"RTN","IBCNCH",79,0)
+ S DR=".04Person Contacted;.05Contact Person Phone;.07Contact Method"
+"RTN","IBCNCH",80,0)
+ S DR=DR_";.06Call Reference Number;.08Authorization Number;.03Comment"
+"RTN","IBCNCH",81,0)
+ D ^DIE
+"RTN","IBCNCH",82,0)
+ ;
+"RTN","IBCNCH",83,0)
+ ; Check to make sure a comment was actually entered
+"RTN","IBCNCH",84,0)
+ I $$DELCOM(DFN,IBIIEN,COMIEN) D  Q
+"RTN","IBCNCH",85,0)
+ . W !!,*7,"No Comment was entered.  Nothing Filed"
+"RTN","IBCNCH",86,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",87,0)
+ . D UNLOCKN(DFN,IBIIEN)
+"RTN","IBCNCH",88,0)
+ ;
+"RTN","IBCNCH",89,0)
+ D UNLOCKN(DFN,IBIIEN)
+"RTN","IBCNCH",90,0)
+ D INIT                                     ; Rebuild the list
+"RTN","IBCNCH",91,0)
+ Q
+"RTN","IBCNCH",92,0)
+ ;
+"RTN","IBCNCH",93,0)
+NEXTCOM(DFN,IBIIEN) ; Get the next available Patient Policy Comment IEN for
+"RTN","IBCNCH",94,0)
+ ; the selected Patient and Policy
+"RTN","IBCNCH",95,0)
+ ; Input:   DFN     - IEN of the selected Patient
+"RTN","IBCNCH",96,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",97,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",98,0)
+ ;          DUZ     - IEN of the user creating the comment
+"RTN","IBCNCH",99,0)
+ ; Returns: IEN number of newly created Patient Policy Comment
+"RTN","IBCNCH",100,0)
+ N ERRMSG,FDA,IENS,NOW,RETIEN
+"RTN","IBCNCH",101,0)
+ S NOW=$$NOW^XLFDT()
+"RTN","IBCNCH",102,0)
+ S IENS="+1,"_IBIIEN_","_DFN_","
+"RTN","IBCNCH",103,0)
+ S FDA(2.342,IENS,.01)=NOW                      ; Date/Time of the comment
+"RTN","IBCNCH",104,0)
+ S FDA(2.342,IENS,.02)=DUZ                      ; User adding the comment
+"RTN","IBCNCH",105,0)
+ D UPDATE^DIE("","FDA","RETIEN","ERRMSG")       ; File new policy comment shell
+"RTN","IBCNCH",106,0)
+ Q RETIEN(1)
+"RTN","IBCNCH",107,0)
+ ;
+"RTN","IBCNCH",108,0)
+LOCKN(DFN,IBIIEN) ; Lock Adding of comments for a specified patient
+"RTN","IBCNCH",109,0)
+ ; and policy
+"RTN","IBCNCH",110,0)
+ ; Input:   DFN     - IEN of the Patient a comment will be added for
+"RTN","IBCNCH",111,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",112,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",113,0)
+ ; Returns: 1 - Lock was obtained, 0 otherwise
+"RTN","IBCNCH",114,0)
+ L +^POLCOM(DFN,IBIIEN):3
+"RTN","IBCNCH",115,0)
+ I '$T Q 0
+"RTN","IBCNCH",116,0)
+ Q 1
+"RTN","IBCNCH",117,0)
+ ;
+"RTN","IBCNCH",118,0)
+UNLOCKN(DFN,IBIIEN) ; Unlock Adding of comments for a specified patient
+"RTN","IBCNCH",119,0)
+ ; Input:   DFN     - IEN of the Patient a comment will be added for
+"RTN","IBCNCH",120,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",121,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",122,0)
+ L -^POLCCOM(DFN,IBIIEN)
+"RTN","IBCNCH",123,0)
+ Q
+"RTN","IBCNCH",124,0)
+ ;
+"RTN","IBCNCH",125,0)
+DELETE(COMIN)  ;EP
+"RTN","IBCNCH",126,0)
+ ; Protocol action to Delete a (or multiple) Patient Policy Comment(s)
+"RTN","IBCNCH",127,0)
+ ; Input:   COMIN   - IEN of the selected Patient Policy Comment(s)
+"RTN","IBCNCH",128,0)
+ ;                    Optional - Only sent when called from the expanded
+"RTN","IBCNCH",129,0)
+ ;                               comment listman template.
+"RTN","IBCNCH",130,0)
+ ;          DFN     - IEN of the selected Patient
+"RTN","IBCNCH",131,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",132,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",133,0)
+ N COMIEN,DA,DLTDONE,DIK,FROMEE,MULTI   ; IB*2.0*652-Added DLTDONE & MULTI
+"RTN","IBCNCH",134,0)
+ S VALMBCK="R",MULTI=0
+"RTN","IBCNCH",135,0)
+ D FULL^VALM1
+"RTN","IBCNCH",136,0)
+ S COMIEN=$S($D(COMIN):COMIN,1:"")
+"RTN","IBCNCH",137,0)
+ S FROMEE=$S(COMIEN'="":1,1:0)
+"RTN","IBCNCH",138,0)
+ ;
+"RTN","IBCNCH",139,0)
+ ;/vd-IB*2*652-Beginning of delete comment code 
+"RTN","IBCNCH",140,0)
+ ;Does user have IBCN PT POLICY COMNT DELETE security key to delete any comment?
+"RTN","IBCNCH",141,0)
+ N COMIENS,IBKEY,IBSUP S IBSUP=0
+"RTN","IBCNCH",142,0)
+ D OWNSKEY^XUSRB(.IBKEY,"IBCN PT POLICY COMNT DELETE",DUZ) ; IA 3277
+"RTN","IBCNCH",143,0)
+ S:IBKEY(0)=1 IBSUP=1
+"RTN","IBCNCH",144,0)
+ ; If user has IBCN PT POLICY COMNT DELETE key allow multi-delete. 
+"RTN","IBCNCH",145,0)
+ ; Not allowed from expanded comments.
+"RTN","IBCNCH",146,0)
+ I IBSUP,'COMIEN D  Q
+"RTN","IBCNCH",147,0)
+ . N SELERR S SELERR=0
+"RTN","IBCNCH",148,0)
+ . S MULTI=1
+"RTN","IBCNCH",149,0)
+ . S:COMIEN="" COMIEN=$$MULTCOM^IBCNCH(1,"Select Comment(s) to delete","","IBCNCHIX")
+"RTN","IBCNCH",150,0)
+ . Q:COMIEN=""
+"RTN","IBCNCH",151,0)
+ . ;
+"RTN","IBCNCH",152,0)
+ . ;Loop thru multi-selections & create array of comments to delete.
+"RTN","IBCNCH",153,0)
+ . N ARYCNT,ARYNO,ARYNUMS,IBI,IBI1,IBI2
+"RTN","IBCNCH",154,0)
+ . S COMIEN=$TR(COMIEN,";",",")   ; Translate ";" to "," to easily piece apart line.
+"RTN","IBCNCH",155,0)
+ . S ARYCNT=$L(COMIEN,",") ; Get # of params to delete
+"RTN","IBCNCH",156,0)
+ . F IBI=1:1:ARYCNT D  Q:SELERR
+"RTN","IBCNCH",157,0)
+ .. S ARYNO=$P(COMIEN,",",IBI)
+"RTN","IBCNCH",158,0)
+ .. I ARYNO'["-",$D(^TMP($J,"IBCNCHIX",ARYNO)) S ARYNUMS(ARYNO)="" Q  ; Capture param as a single entry.
+"RTN","IBCNCH",159,0)
+ .. I ARYNO'["-" S SELERR=1 Q   ; Invalid entry
+"RTN","IBCNCH",160,0)
+ .. S IBI1=$P(ARYNO,"-"),IBI2=$P(ARYNO,"-",2)  ; Get a selected range
+"RTN","IBCNCH",161,0)
+ .. I '$D(^TMP($J,"IBCNCHIX",IBI1))!'$D(^TMP($J,"IBCNCHIX",IBI2)) S SELERR=1 Q   ; Invalid entry
+"RTN","IBCNCH",162,0)
+ .. F IBI=IBI1:1:IBI2 S ARYNUMS(IBI)=""        ; Get the range of #s
+"RTN","IBCNCH",163,0)
+ .. Q
+"RTN","IBCNCH",164,0)
+ . I SELERR D  Q  ; If an invalid entry was made display error message. 
+"RTN","IBCNCH",165,0)
+ .. W !,*7,">>>> Invalid selection number"
+"RTN","IBCNCH",166,0)
+ .. K DIR
+"RTN","IBCNCH",167,0)
+ .. D PAUSE^VALM1
+"RTN","IBCNCH",168,0)
+ . ;
+"RTN","IBCNCH",169,0)
+ . I $$ASKYN("Are you sure you want to Delete "_$S(((COMIEN["-")!(COMIEN[",")):"these Comments",1:"this Comment")) D
+"RTN","IBCNCH",170,0)
+ .. ;Loop thru array of comments to delete
+"RTN","IBCNCH",171,0)
+ .. S ARYNO=""
+"RTN","IBCNCH",172,0)
+ .. F  S ARYNO=$O(ARYNUMS(ARYNO)) Q:ARYNO=""  D
+"RTN","IBCNCH",173,0)
+ ... S COMIEN=+$P(^TMP($J,"IBCNCHIX",ARYNO),U,9) Q:'COMIEN
+"RTN","IBCNCH",174,0)
+ ... S DLTDONE=0 D DELETIT(COMIEN,MULTI,DLTDONE)
+"RTN","IBCNCH",175,0)
+ .. ;
+"RTN","IBCNCH",176,0)
+ . I FROMEE=1 S VALMBCK="Q" Q
+"RTN","IBCNCH",177,0)
+ . D INIT
+"RTN","IBCNCH",178,0)
+ . Q
+"RTN","IBCNCH",179,0)
+ ;/vd-IB*2*652-End of delete comment code
+"RTN","IBCNCH",180,0)
+ ;
+"RTN","IBCNCH",181,0)
+ S:COMIEN="" COMIEN=$$SELCOM(1,"Select Comment to delete","","IBCNCHIX")
+"RTN","IBCNCH",182,0)
+ Q:COMIEN=""
+"RTN","IBCNCH",183,0)
+ ;
+"RTN","IBCNCH",184,0)
+ ;/vd-IB*2.0*652-The following is if the user doesn't have the IBCN PT POLICY COMMNT DELETE key...MULTI=0.
+"RTN","IBCNCH",185,0)
+ S DLTDONE=0 D DELETIT(COMIEN,MULTI,.DLTDONE)
+"RTN","IBCNCH",186,0)
+ ;
+"RTN","IBCNCH",187,0)
+ ;I FROMEE=1 S VALMBCK="Q" Q   ;/vd-IB*2.0*652-Replaced this line of code with the following.
+"RTN","IBCNCH",188,0)
+ I FROMEE=1 D  Q 
+"RTN","IBCNCH",189,0)
+ . I 'DLTDONE S VALMBCK="R" Q  ; If in 'EE' & didn't delete a comment, stay in 'EE'.
+"RTN","IBCNCH",190,0)
+ . I DLTDONE=1 S VALMBCK="Q"   ; If in 'EE' & the comment is deleted, exit 'EE' & return to list of comments.
+"RTN","IBCNCH",191,0)
+ ;
+"RTN","IBCNCH",192,0)
+ D INIT                                     ; Rebuild the list
+"RTN","IBCNCH",193,0)
+ Q
+"RTN","IBCNCH",194,0)
+ ;
+"RTN","IBCNCH",195,0)
+DELETIT(COMIEN,MULTI,DLTDONE) ; Lock Deletion of this patient policy comment
+"RTN","IBCNCH",196,0)
+ ;  COMIEN = comment to be deleted.
+"RTN","IBCNCH",197,0)
+ ;  MULTI  = 0 - display OK TO DELETE question per normal.
+"RTN","IBCNCH",198,0)
+ ;         = 1 - display OK TO DELETE question once for all selected comments.
+"RTN","IBCNCH",199,0)
+ ;  DLTDONE = 0 - selection not deleted.
+"RTN","IBCNCH",200,0)
+ ;          = 1 - selection deleted.
+"RTN","IBCNCH",201,0)
+ N XX S XX=0
+"RTN","IBCNCH",202,0)
+ I '$$LOCKC(DFN,IBIIEN,COMIEN) D  Q
+"RTN","IBCNCH",203,0)
+ . W !!,*7,"Someone is editing or deleting this Patient Policy Comment."
+"RTN","IBCNCH",204,0)
+ . W !,"Try again later."
+"RTN","IBCNCH",205,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",206,0)
+ ;
+"RTN","IBCNCH",207,0)
+ ; Ok to delete this comment?
+"RTN","IBCNCH",208,0)
+ I 'MULTI S XX=$$OK2EDIT(DFN,IBIIEN,COMIEN,"Delete")
+"RTN","IBCNCH",209,0)
+ I +XX=-1 D  Q                              ; Unable to delete
+"RTN","IBCNCH",210,0)
+ . D UNLOCKC(DFN,IBIIEN,COMIEN)
+"RTN","IBCNCH",211,0)
+ . N IL,IMX
+"RTN","IBCNCH",212,0)
+ . S IMX=$l(XX,"^")  ; Determine the max # of lines that are to be printed.
+"RTN","IBCNCH",213,0)
+ . W *7
+"RTN","IBCNCH",214,0)
+ . S IL=2 F IL=IL:1:IMX D   ; Since the 1st piece is not part of the comment, start w/the 2nd piece & display up to the max.
+"RTN","IBCNCH",215,0)
+ . . W !,$P(XX,"^",IL)
+"RTN","IBCNCH",216,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",217,0)
+ ;
+"RTN","IBCNCH",218,0)
+ ; Give final Warning
+"RTN","IBCNCH",219,0)
+ I 'MULTI,'$$ASKYN("Are you sure you want to Delete this Comment") D  Q
+"RTN","IBCNCH",220,0)
+ . D UNLOCKC(DFN,IBIIEN,COMIEN)
+"RTN","IBCNCH",221,0)
+ ;
+"RTN","IBCNCH",222,0)
+ S DA=COMIEN,DA(1)=IBIIEN,DA(2)=DFN
+"RTN","IBCNCH",223,0)
+ S DIK="^DPT(DA(2),.312,DA(1),13,"
+"RTN","IBCNCH",224,0)
+ D ^DIK ; Delete the Patient Policy Comment
+"RTN","IBCNCH",225,0)
+ D UNLOCKC(DFN,IBIIEN,COMIEN)
+"RTN","IBCNCH",226,0)
+ S DLTDONE=1
+"RTN","IBCNCH",227,0)
+ Q
+"RTN","IBCNCH",228,0)
+ ;/vd-IB*2.0*652-End of new code for enhanced deleting of Patient Policy Comments
+"RTN","IBCNCH",229,0)
+ ;
+"RTN","IBCNCH",230,0)
+ASKYN(PROMPT,DEFAULT)   ; Ask a yes/no question
+"RTN","IBCNCH",231,0)
+ ; Input:   PROMPT      - Question to be asked
+"RTN","IBCNCH",232,0)
+ ;          DEFAULT     - Default Answer
+"RTN","IBCNCH",233,0)
+ ;                        1 - YES, 0 - NO
+"RTN","IBCNCH",234,0)
+ ;                        Optional, defaults to 0
+"RTN","IBCNCH",235,0)
+ ; Returns: 1 - User answered YES, 0 otherwise
+"RTN","IBCNCH",236,0)
+ N DIR,DIROUT,DIRUT,DTOUT,DUOUT,X,Y
+"RTN","IBCNCH",237,0)
+ S:$G(DEFAULT)'=1 DEFAULT=0
+"RTN","IBCNCH",238,0)
+ S DIR(0)="Y",DIR("A")=PROMPT
+"RTN","IBCNCH",239,0)
+ S DIR("B")=$S(DEFAULT:"YES",1:"NO")
+"RTN","IBCNCH",240,0)
+ D ^DIR
+"RTN","IBCNCH",241,0)
+ Q Y
+"RTN","IBCNCH",242,0)
+ ;  
+"RTN","IBCNCH",243,0)
+EDIT(COMIN)  ;EP
+"RTN","IBCNCH",244,0)
+ ; Protocol action to Edit a Patient Policy Comment Fields
+"RTN","IBCNCH",245,0)
+ ; Input:   COMIN   - IEN of the selected Patient Policy Comment
+"RTN","IBCNCH",246,0)
+ ;                    Optional - Only sent when called from the expanded
+"RTN","IBCNCH",247,0)
+ ;                               comment listman template.
+"RTN","IBCNCH",248,0)
+ ;          DFN     - IEN of the selected Patient
+"RTN","IBCNCH",249,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",250,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",251,0)
+ N COMCNT,COMIEN,DA,DIC,DIE,DO,DR,DTOUT,EDT,FROMEE,LINE,SRCHTXT,X,XX,Y
+"RTN","IBCNCH",252,0)
+ S COMIEN=$S($D(COMIN):COMIN,1:"")
+"RTN","IBCNCH",253,0)
+ S FROMEE=$S(COMIEN'="":1,1:0)
+"RTN","IBCNCH",254,0)
+ S VALMBCK="R"
+"RTN","IBCNCH",255,0)
+ D FULL^VALM1
+"RTN","IBCNCH",256,0)
+ S:COMIEN="" COMIEN=$$SELCOM(1,"Select Comment to edit",.COMCNT,"IBCNCHIX")
+"RTN","IBCNCH",257,0)
+ Q:COMIEN=""
+"RTN","IBCNCH",258,0)
+ D EDITCOM(DFN,IBIIEN,COMIEN,FROMEE)
+"RTN","IBCNCH",259,0)
+ Q
+"RTN","IBCNCH",260,0)
+ ;
+"RTN","IBCNCH",261,0)
+EDITCOM(DFN,IBIIEN,COMIEN,FROMEE) ; Edit the selected comment
+"RTN","IBCNCH",262,0)
+ ; Called from EDIT and ADDCOM
+"RTN","IBCNCH",263,0)
+ ; Input:   DFN     - IEN of the selected Patient
+"RTN","IBCNCH",264,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",265,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",266,0)
+ ;          COMIEN  - IEN of the comment being edited
+"RTN","IBCNCH",267,0)
+ ;          FROMEE  - 1 edit from Expand Entry, 0 otherwise
+"RTN","IBCNCH",268,0)
+ ;                    Optional, defaults to 0
+"RTN","IBCNCH",269,0)
+ S:'$D(FROMEE) FROMEE=0
+"RTN","IBCNCH",270,0)
+ ;
+"RTN","IBCNCH",271,0)
+ ; Lock Editing of this patient policy comment
+"RTN","IBCNCH",272,0)
+ I '$$LOCKC(DFN,IBIIEN,COMIEN) D  Q
+"RTN","IBCNCH",273,0)
+ . W !!,*7,"Someone else is editing or deleting this Patient Policy Comment."
+"RTN","IBCNCH",274,0)
+ . W !,"Try again later."
+"RTN","IBCNCH",275,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",276,0)
+ ;
+"RTN","IBCNCH",277,0)
+ ; Ok to edit this comment?
+"RTN","IBCNCH",278,0)
+ S XX=$$OK2EDIT(DFN,IBIIEN,COMIEN,"Edit")
+"RTN","IBCNCH",279,0)
+ I +XX=-1 D  Q                              ; Unable to edit
+"RTN","IBCNCH",280,0)
+ . D UNLOCKC(DFN,IBIIEN,COMIEN)
+"RTN","IBCNCH",281,0)
+ . W !,*7,$P(XX,"^",2)
+"RTN","IBCNCH",282,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",283,0)
+ ;
+"RTN","IBCNCH",284,0)
+ ; Let the user edit the comment
+"RTN","IBCNCH",285,0)
+ S EDT=$$NOW^XLFDT()
+"RTN","IBCNCH",286,0)
+ S DIE="^DPT(DFN,.312,IBIIEN,13,"
+"RTN","IBCNCH",287,0)
+ S DA=COMIEN,DA(1)=IBIIEN,DA(2)=DFN
+"RTN","IBCNCH",288,0)
+ ;/vd-IB*2*652 - Added 4th dashes to prevent re-validating problem from occuring in ^DIE.
+"RTN","IBCNCH",289,0)
+ S DR=".01////"_EDT_";.02////"_DUZ_";.04Person Contacted;.05Contact Person Phone"
+"RTN","IBCNCH",290,0)
+ S DR=DR_";.07Contact Method;.06Call Reference Number;.08Authorization Number"
+"RTN","IBCNCH",291,0)
+ S DR=DR_";.03Comment"
+"RTN","IBCNCH",292,0)
+ D ^DIE
+"RTN","IBCNCH",293,0)
+ D UNLOCKC(DFN,IBIIEN,COMIEN)
+"RTN","IBCNCH",294,0)
+ I FROMEE D INIT^IBCNCH3 Q
+"RTN","IBCNCH",295,0)
+ D INIT                                     ; Rebuild the list
+"RTN","IBCNCH",296,0)
+ Q
+"RTN","IBCNCH",297,0)
+ ;
+"RTN","IBCNCH",298,0)
+OK2EDIT(DFN,IBIIEN,COMIEN,WHICH) ; Check to see if it's ok to Edit/Delete the
+"RTN","IBCNCH",299,0)
+ ; selected Patient Policy Comment
+"RTN","IBCNCH",300,0)
+ ; Input:   DFN     - IEN of the selected Patient
+"RTN","IBCNCH",301,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",302,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",303,0)
+ ;          COMIEN  - IEN of the selected Patient Policy comment
+"RTN","IBCNCH",304,0)
+ ;          WHICH   - 'Delete' when called from DELETE
+"RTN","IBCNCH",305,0)
+ ;                    'Edit' whe called fomr EDIT
+"RTN","IBCNCH",306,0)
+ ; Returns: 1 - OK to edit or delete, -1^Error Message otherwise
+"RTN","IBCNCH",307,0)
+ N COMDT,OK,TDT,XX
+"RTN","IBCNCH",308,0)
+ S OK=1                                         ; Assume it's OK
+"RTN","IBCNCH",309,0)
+ ;
+"RTN","IBCNCH",310,0)
+ ; Make sure the selected comment is the latest comment
+"RTN","IBCNCH",311,0)
+ S COMDT=$O(^DPT(DFN,.312,IBIIEN,13,"B",""),-1)
+"RTN","IBCNCH",312,0)
+ S XX=$O(^DPT(DFN,.312,IBIIEN,13,"B",COMDT,""))
+"RTN","IBCNCH",313,0)
+ I COMIEN'=XX D  Q OK
+"RTN","IBCNCH",314,0)
+ . I WHICH="Delete",+$G(IBSUP) Q   ;\vd - IB*2*652 - If in DELETE mode need to have proper Security Key to delete.
+"RTN","IBCNCH",315,0)
+ . S OK="-1^Unable to "_WHICH_". Selected comment is not the latest comment."
+"RTN","IBCNCH",316,0)
+ . I WHICH="Delete" S OK=OK_"^Contact your supervisor for assistance. "   ;/vd - IB*2.0*652 - Added the part about contacting your super.
+"RTN","IBCNCH",317,0)
+ ;
+"RTN","IBCNCH",318,0)
+ ; Make sure the user trying to edit or delete is the user who entered the
+"RTN","IBCNCH",319,0)
+ ; comment
+"RTN","IBCNCH",320,0)
+ S XX=$$GET1^DIQ(2.342,COMIEN_","_IBIIEN_","_DFN_",",.02,"I")
+"RTN","IBCNCH",321,0)
+ I XX'=DUZ D  Q OK
+"RTN","IBCNCH",322,0)
+ . I WHICH="Delete",+$G(IBSUP) Q   ;\vd - IB*2*652 - If in DELETE mode need to have proper Security Key to delete.
+"RTN","IBCNCH",323,0)
+ . S OK="-1^Unable to "_WHICH_". Selected comment was entered by a different user."
+"RTN","IBCNCH",324,0)
+ . I WHICH="Delete" S OK=OK_"^Contact your supervisor for assistance. "   ;/vd - IB*2.0*652 - Added the part about contacting your super.
+"RTN","IBCNCH",325,0)
+ ;
+"RTN","IBCNCH",326,0)
+ ; Make sure today's date is the same as when the comment was last edited
+"RTN","IBCNCH",327,0)
+ ; comment
+"RTN","IBCNCH",328,0)
+ S XX=$$GET1^DIQ(2.342,COMIEN_","_IBIIEN_","_DFN_",",.01,"I")
+"RTN","IBCNCH",329,0)
+ S XX=$P(XX,".",1)
+"RTN","IBCNCH",330,0)
+ S TDT=$$NOW^XLFDT(),TDT=$P(TDT,".",1)
+"RTN","IBCNCH",331,0)
+ I XX'=TDT D  Q OK
+"RTN","IBCNCH",332,0)
+ . I WHICH="Delete",+$G(IBSUP) Q   ;\vd - IB*2*652 - If in DELETE mode need to have proper Security Key to delete.
+"RTN","IBCNCH",333,0)
+ . S OK="-1^Unable to "_WHICH_". Selected comment is outside the "_WHICH_" window."
+"RTN","IBCNCH",334,0)
+ . I WHICH="Delete" S OK=OK_"^Contact your supervisor for assistance. "   ;/vd - IB*2.0*652 - Added the part about contacting your super.
+"RTN","IBCNCH",335,0)
+ Q OK
+"RTN","IBCNCH",336,0)
+ ;
+"RTN","IBCNCH",337,0)
+LOCKC(DFN,IBIIEN,COMIEN) ; Lock Editing of a selected Patient Policy Comment
+"RTN","IBCNCH",338,0)
+ ; Input:   DFN     - IEN of the Patient a comment will be added for
+"RTN","IBCNCH",339,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",340,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",341,0)
+ ;          COMIEN  - IEN of the Patient Policy comment being edited
+"RTN","IBCNCH",342,0)
+ ; Returns: 1 - Lock was obtained, 0 otherwise
+"RTN","IBCNCH",343,0)
+ L +^POLCOM(DFN,IBIIEN,COMIEN):3
+"RTN","IBCNCH",344,0)
+ I '$T Q 0
+"RTN","IBCNCH",345,0)
+ Q 1
+"RTN","IBCNCH",346,0)
+ ;
+"RTN","IBCNCH",347,0)
+UNLOCKC(DFN,IBIIEN,COMIEN) ; Unlock Editing of a selected Patient Policy Comment
+"RTN","IBCNCH",348,0)
+ ; Input:   DFN     - IEN of the Patient a comment will be added for
+"RTN","IBCNCH",349,0)
+ ;          IBIIEN  - ^DPT(DFN,.312,IBIIEN,0) Where IBIIEN is the
+"RTN","IBCNCH",350,0)
+ ;                    multiple IEN of the selected patient policy
+"RTN","IBCNCH",351,0)
+ ;          COMIEN  - IEN of the Patient Policy comment being edited
+"RTN","IBCNCH",352,0)
+ L -^POLCCOM(DFN,IBIIEN,COMIEN)
+"RTN","IBCNCH",353,0)
+ Q
+"RTN","IBCNCH",354,0)
+ ;
+"RTN","IBCNCH",355,0)
+HELP ;EP
+"RTN","IBCNCH",356,0)
+ ; Display the listman template help
+"RTN","IBCNCH",357,0)
+ N X
+"RTN","IBCNCH",358,0)
+ S X="?"
+"RTN","IBCNCH",359,0)
+ D DISP^XQORM1
+"RTN","IBCNCH",360,0)
+ W !!
+"RTN","IBCNCH",361,0)
+ Q
+"RTN","IBCNCH",362,0)
+ ;
+"RTN","IBCNCH",363,0)
+ ;/vd - IB*2*652 - Beginning of code (delete comment)
+"RTN","IBCNCH",364,0)
+ ;-------------------------------------------------
+"RTN","IBCNCH",365,0)
+MULTCOM(FULL,PROMPT,COMCNT,WLIST) ;Allow selection of multiple comments to be deleted
+"RTN","IBCNCH",366,0)
+ ; Select Entry(s) to perform an action upon
+"RTN","IBCNCH",367,0)
+ ; Input: FULL - 1 - full screen mode, 0 otherwise
+"RTN","IBCNCH",368,0)
+ ; PROMPT - Prompt to be displayed to the user
+"RTN","IBCNCH",369,0)
+ ; WLIST - Worklist, the user is selecting from
+"RTN","IBCNCH",370,0)
+ ; ^TMP($J,"IBCNCHIX") - Index of displayed lines of the Comment 
+"RTN","IBCNCH",371,0)
+ ; History Worklist
+"RTN","IBCNCH",372,0)
+ ; Output: COMCNT - Comment Number of the selected Comment
+"RTN","IBCNCH",373,0)
+ ; Returns: Select Comment IEN
+"RTN","IBCNCH",374,0)
+ ; Error message if invalid selection
+"RTN","IBCNCH",375,0)
+ N COMIEN,DIROUT,DIRUT,DLINE,DTOUT,DUOUT,END,START,X,Y
+"RTN","IBCNCH",376,0)
+ S:'$D(WLIST) WLIST="IBCNCHIX"
+"RTN","IBCNCH",377,0)
+ S START=1,END=$O(^TMP($J,WLIST,""),-1)+0
+"RTN","IBCNCH",378,0)
+ D:FULL FULL^VALM1
+"RTN","IBCNCH",379,0)
+ S COMCNT=$P($P($G(XQORNOD(0)),"^",4),"=",2) ; User selection with action
+"RTN","IBCNCH",380,0)
+ S COMCNT=$TR(COMCNT,"/\; .",",,,,,") ; Check for multi-selection
+"RTN","IBCNCH",381,0)
+ ;
+"RTN","IBCNCH",382,0)
+ I '+$G(MULTI),COMCNT["," D  Q ""      ; /vd - IB-2-652 - MULTI is used to allow for multi-selection for supervisors.
+"RTN","IBCNCH",383,0)
+ . W !,*7,">>>> Only single entry selection is allowed"
+"RTN","IBCNCH",384,0)
+ . K DIR
+"RTN","IBCNCH",385,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",386,0)
+ ;
+"RTN","IBCNCH",387,0)
+ I $O(^TMP($J,"IBCNCHIX",""))="" D  Q ""
+"RTN","IBCNCH",388,0)
+ . S X=$P(PROMPT," ",$L(PROMPT," "))
+"RTN","IBCNCH",389,0)
+ . W !,*7,">>>> No comments to "_X
+"RTN","IBCNCH",390,0)
+ . K DIR
+"RTN","IBCNCH",391,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",392,0)
+ ;
+"RTN","IBCNCH",393,0)
+ S:COMCNT="" COMCNT=$$MLTENTRY(PROMPT,START,END)
+"RTN","IBCNCH",394,0)
+ Q:((COMCNT="")!(COMCNT="^")) ""
+"RTN","IBCNCH",395,0)
+ Q COMCNT
+"RTN","IBCNCH",396,0)
+ ;
+"RTN","IBCNCH",397,0)
+MLTENTRY(PROMPT,START,END) ; select a comment
+"RTN","IBCNCH",398,0)
+ ; Input: PROMPT - Prompt to be displayed to the user
+"RTN","IBCNCH",399,0)
+ ; START - Start comment # that can be selected
+"RTN","IBCNCH",400,0)
+ ; END - Ending comment # that can be selected
+"RTN","IBCNCH",401,0)
+ ; Returns: Selected Comment # or "" if not selected
+"RTN","IBCNCH",402,0)
+ N DIR,DIROUT,DIRUT,DTOUT,DUOUT,X,Y
+"RTN","IBCNCH",403,0)
+ S DIR(0)="LC^"_START_":"_END_":0"
+"RTN","IBCNCH",404,0)
+ S DIR("A")=PROMPT
+"RTN","IBCNCH",405,0)
+ D ^DIR K DIR
+"RTN","IBCNCH",406,0)
+ Q X
+"RTN","IBCNCH",407,0)
+ ;-------------------------------------------------
+"RTN","IBCNCH",408,0)
+ ;/vd - IB*2*652 - End of code (delete comment)
+"RTN","IBCNCH",409,0)
+ ;
+"RTN","IBCNCH",410,0)
+SELCOM(FULL,PROMPT,COMCNT,WLIST)    ;EP
+"RTN","IBCNCH",411,0)
+ ; Select Entry(s) to perform an action upon
+"RTN","IBCNCH",412,0)
+ ; Input:   FULL                - 1 - full screen mode, 0 otherwise
+"RTN","IBCNCH",413,0)
+ ;          PROMPT              - Prompt to be displayed to the user
+"RTN","IBCNCH",414,0)
+ ;          WLIST               - Worklist, the user is selecting from
+"RTN","IBCNCH",415,0)
+ ;          ^TMP($J,"IBCNCHIX") - Index of displayed lines of the Comment 
+"RTN","IBCNCH",416,0)
+ ;                                History Worklist
+"RTN","IBCNCH",417,0)
+ ; Output:  COMCNT              - Comment Number of the selected Comment
+"RTN","IBCNCH",418,0)
+ ; Returns: Select Comment IEN
+"RTN","IBCNCH",419,0)
+ ;          Error message if invalid selection
+"RTN","IBCNCH",420,0)
+ N COMIEN,DIROUT,DIRUT,DLINE,DTOUT,DUOUT,END,START,X,Y
+"RTN","IBCNCH",421,0)
+ S:'$D(WLIST) WLIST="IBCNCHIX"
+"RTN","IBCNCH",422,0)
+ S START=1,END=$O(^TMP($J,WLIST,""),-1)+0
+"RTN","IBCNCH",423,0)
+ D:FULL FULL^VALM1
+"RTN","IBCNCH",424,0)
+ S COMCNT=$P($P($G(XQORNOD(0)),"^",4),"=",2)    ; User selection with action
+"RTN","IBCNCH",425,0)
+ S COMCNT=$TR(COMCNT,"/\; .",",,,,,")           ; Check for multi-selection
+"RTN","IBCNCH",426,0)
+ ;
+"RTN","IBCNCH",427,0)
+ I COMCNT["," D  Q ""                           ; Invalid multi-selection
+"RTN","IBCNCH",428,0)
+ . W !,*7,">>>> Only single entry selection is allowed"
+"RTN","IBCNCH",429,0)
+ . K DIR
+"RTN","IBCNCH",430,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",431,0)
+ ;
+"RTN","IBCNCH",432,0)
+ I $O(^TMP($J,"IBCNCHIX",""))="" D  Q ""
+"RTN","IBCNCH",433,0)
+ . S X=$P(PROMPT," ",$L(PROMPT," "))
+"RTN","IBCNCH",434,0)
+ . W !,*7,">>>> No comments to "_X
+"RTN","IBCNCH",435,0)
+ . K DIR
+"RTN","IBCNCH",436,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",437,0)
+ ;
+"RTN","IBCNCH",438,0)
+ S:COMCNT="" COMCNT=$$SELENTRY(PROMPT,START,END)
+"RTN","IBCNCH",439,0)
+ Q:COMCNT="" ""
+"RTN","IBCNCH",440,0)
+ S COMIEN=$P($G(^TMP($J,"IBCNCHIX",COMCNT)),"^",9)
+"RTN","IBCNCH",441,0)
+ I COMIEN="" D  Q ""
+"RTN","IBCNCH",442,0)
+ . W !,*7,">>>> Invalid selection number"
+"RTN","IBCNCH",443,0)
+ . K DIR
+"RTN","IBCNCH",444,0)
+ . D PAUSE^VALM1
+"RTN","IBCNCH",445,0)
+ Q COMIEN
+"RTN","IBCNCH",446,0)
+ ;
+"RTN","IBCNCH",447,0)
+DELCOM(DFN,IBIIEN,COMIEN) ; Checks to see if the user was attempting to
+"RTN","IBCNCH",448,0)
+ ; create new Patient Policy comment but didn't enter a comment. If so,
+"RTN","IBCNCH",449,0)
+ ; If so, the new Patient Policy Comment is deleted
+"RTN","IBCNCH",450,0)
+ ; Input:   DFN     - IEN of the Patient a policy comment is being added for
+"RTN","IBCNCH",451,0)
+ ;          IBIIEN  - IEN of the Policy a policy comment is being added for
+"RTN","IBCNCH",452,0)
+ ;          COMIEN  - IEN of the new Policy Comment being added
+"RTN","IBCNCH",453,0)
+ ; Returns: 1 - New Patient Policy Comment was deleted, 0 otherwise
+"RTN","IBCNCH",454,0)
+ ;          
+"RTN","IBCNCH",455,0)
+ N DA,DIK,IENS,X,XX,Y
+"RTN","IBCNCH",456,0)
+ S IENS=COMIEN_","_IBIIEN_","_DFN_","
+"RTN","IBCNCH",457,0)
+ S XX=$$GET1^DIQ(2.342,IENS,.03)                    ; Check the comment field
+"RTN","IBCNCH",458,0)
+ Q:XX'="" 0
+"RTN","IBCNCH",459,0)
+ S DA=COMIEN,DA(1)=IBIIEN,DA(2)=DFN
+"RTN","IBCNCH",460,0)
+ S DIK="^DPT(DA(2),.312,DA(1),13,"
+"RTN","IBCNCH",461,0)
+ D ^DIK                                             ; Delete the multiple
+"RTN","IBCNCH",462,0)
+ Q 1
+"RTN","IBCNCH",463,0)
+ ;
+"RTN","IBCNCH",464,0)
+SELENTRY(PROMPT,START,END)    ; select a comment
+"RTN","IBCNCH",465,0)
+ ; Input:   PROMPT  - Prompt to be displayed to the user
+"RTN","IBCNCH",466,0)
+ ;          START   - Start comment # that can be selected
+"RTN","IBCNCH",467,0)
+ ;          END     - Ending comment # that can be selected
+"RTN","IBCNCH",468,0)
+ ; Returns: Selected Comment # or "" if not selected
+"RTN","IBCNCH",469,0)
+ N DIR,DIROUT,DIRUT,DTOUT,DUOUT,X,Y
+"RTN","IBCNCH",470,0)
+ S DIR(0)="NO^"_START_":"_END_":0"
+"RTN","IBCNCH",471,0)
+ S DIR("A")=PROMPT
+"RTN","IBCNCH",472,0)
+ D ^DIR K DIR
+"RTN","IBCNCH",473,0)
+ Q X
+"RTN","IBCNCH",474,0)
+ ;
+"RTN","IBCNCH",475,0)
+EXIT ;EP
+"RTN","IBCNCH",476,0)
+ ; Exit the listman template
+"RTN","IBCNCH",477,0)
+ K ^TMP("IBCNCH",$J),^TMP($J,"IBCNCHIX")
+"RTN","IBCNCH",478,0)
+ D CLEAR^VALM1
+"RTN","IBCNCH",479,0)
+ Q
+"RTN","IBCNSJ3")
+0^1^B22112242^B20256950
+"RTN","IBCNSJ3",1,0)
+IBCNSJ3 ;ALB/CPM - ADD NEW INSURANCE PLAN ; 11-JAN-95
+"RTN","IBCNSJ3",2,0)
+ ;;2.0;INTEGRATED BILLING;**28,497,506,519,652**;21-MAR-94;Build 23
+"RTN","IBCNSJ3",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","IBCNSJ3",4,0)
+ ;
+"RTN","IBCNSJ3",5,0)
+NEW(IBCNS,IBCPOL,IBFG,IBKEY,BYPASS) ; Add a new insurance plan
+"RTN","IBCNSJ3",6,0)
+ ;  Input:   IBCNS  --  Pointer to an insurance company in file #36
+"RTN","IBCNSJ3",7,0)
+ ;            IBFG  --  [Optional] -> Set to 1 to force creation
+"RTN","IBCNSJ3",8,0)
+ ;                      of a group plan
+"RTN","IBCNSJ3",9,0)
+ ;           IBKEY  --  [Optional] -> Set to 1 to check for security key
+"RTN","IBCNSJ3",10,0)
+ ;           BYPASS --  Bypass new insurance plan
+"RTN","IBCNSJ3",11,0)
+ ; Output:  IBCPOL  --  0, if a new plan was not added, or
+"RTN","IBCNSJ3",12,0)
+ ;                      >0 => pointer to the new plan in file #355.3
+"RTN","IBCNSJ3",13,0)
+ ;
+"RTN","IBCNSJ3",14,0)
+ N DA,DIR,DIRUT,DIROUT,DTOUT,DUOUT,IBTL,IBGRP,IBGNA,IBGNU,X,Y
+"RTN","IBCNSJ3",15,0)
+ S IBCPOL=0
+"RTN","IBCNSJ3",16,0)
+ I '$G(IBCNS) G NEWQ
+"RTN","IBCNSJ3",17,0)
+ ;
+"RTN","IBCNSJ3",18,0)
+ ;IB*2.0*652/TAZ - Moved so user exits before being prompted for a new policy if they don't have the key.
+"RTN","IBCNSJ3",19,0)
+ ; IB*2.0*506 Added the following line.
+"RTN","IBCNSJ3",20,0)
+ I $G(IBKEY),'$D(^XUSEC("IB GROUP PLAN EDIT",DUZ)) W !!,"Sorry, you are not authorized to create a new Insurance Plan" D WAIT^IBCNBAA G NEWQ
+"RTN","IBCNSJ3",21,0)
+ ;
+"RTN","IBCNSJ3",22,0)
+ ;IB*2.0*652/TAZ - Bypass prompt for Insurance Company New Policy Action
+"RTN","IBCNSJ3",23,0)
+ I '$G(BYPASS) D  G:(Y<1!$D(DIRUT)) NEWQ G NEW1
+"RTN","IBCNSJ3",24,0)
+ . S DIR(0)="Y",DIR("B")="NO",DIR("A")="Do you wish to add a new Insurance Plan"
+"RTN","IBCNSJ3",25,0)
+ . S DIR("?")="If you have identified a new plan that has not been previously entered, and you wish to add it, answer 'YES'.  If you do not wish to add a new plan, enter 'NO'."
+"RTN","IBCNSJ3",26,0)
+ . D ^DIR K DIR
+"RTN","IBCNSJ3",27,0)
+ ;
+"RTN","IBCNSJ3",28,0)
+ W !!,"You are about to add a new Insurance Plan."
+"RTN","IBCNSJ3",29,0)
+ ;
+"RTN","IBCNSJ3",30,0)
+NEW1 ;
+"RTN","IBCNSJ3",31,0)
+ ; - collect plan characteristics
+"RTN","IBCNSJ3",32,0)
+ I $G(IBFG) S IBGRP=1 G MORE
+"RTN","IBCNSJ3",33,0)
+ ;IB*2.0*652/TAZ Added default response
+"RTN","IBCNSJ3",34,0)
+ S DIR(0)="355.3,.02",DIR("A")="  IS THIS A GROUP PLAN",DIR("B")="YES" D ^DIR K DIR S IBGRP=Y
+"RTN","IBCNSJ3",35,0)
+ I $D(DIRUT) G NEWQ
+"RTN","IBCNSJ3",36,0)
+ ;
+"RTN","IBCNSJ3",37,0)
+MORE S IBTL="  "_$S(IBGRP:"GROUP",1:"INDIVIDUAL")_" PLAN "
+"RTN","IBCNSJ3",38,0)
+ S DIR(0)="355.3,2.01",DIR("A")=IBTL_"NAME" D ^DIR K DIR G NEWQ:$D(DUOUT)!$D(DTOUT) S IBGNA=Y
+"RTN","IBCNSJ3",39,0)
+ S DIR(0)="355.3,2.02",DIR("A")=IBTL_"NUMBER" D ^DIR K DIR G NEWQ:$D(DUOUT)!$D(DTOUT) S IBGNU=Y
+"RTN","IBCNSJ3",40,0)
+ ;
+"RTN","IBCNSJ3",41,0)
+ ; - check for duplicates and file the plan
+"RTN","IBCNSJ3",42,0)
+ I $$CHECK(IBCNS,IBGNA,IBGNU) S IBCPOL=$$ADDH^IBCNSU(IBCNS,IBGRP,IBGNA,IBGNU)
+"RTN","IBCNSJ3",43,0)
+ ; IB*2.0*519: If new group added, check to see if we already have a NIF ID for this insurance company.
+"RTN","IBCNSJ3",44,0)
+ Q:IBCPOL<1
+"RTN","IBCNSJ3",45,0)
+ Q:$$NIF^IBCNHUT1(IBCNS)
+"RTN","IBCNSJ3",46,0)
+ ; if no NIF and we have not yet requested one, send an HL7
+"RTN","IBCNSJ3",47,0)
+ I '$D(^IBCNH(367.1,"INS",IBCNS)) D SEND^IBCNHHLO(IBCNS)
+"RTN","IBCNSJ3",48,0)
+NEWQ Q
+"RTN","IBCNSJ3",49,0)
+ ;
+"RTN","IBCNSJ3",50,0)
+ ;
+"RTN","IBCNSJ3",51,0)
+CHECK(IBCNS,IBGNA,IBGNU) ; Check for potential duplicate plans
+"RTN","IBCNSJ3",52,0)
+ ;  Input:   IBCNS  --  Pointer to an insurance company in file #36
+"RTN","IBCNSJ3",53,0)
+ ;           IBGNA  --  Plan Name for potential new plan
+"RTN","IBCNSJ3",54,0)
+ ;           IBGNU  --  Plan Number for potential new plan
+"RTN","IBCNSJ3",55,0)
+ ; Output:   IBANS  --  1 ->  Okay to add the new plan
+"RTN","IBCNSJ3",56,0)
+ ;                      0 ->  Don't add the new plan.
+"RTN","IBCNSJ3",57,0)
+ ;
+"RTN","IBCNSJ3",58,0)
+ N IBANS,IBCT,IBCNSD
+"RTN","IBCNSJ3",59,0)
+ S (IBANS,IBCT)=1
+"RTN","IBCNSJ3",60,0)
+ S IBCNSD=$G(^DIC(36,+$G(IBCNS),0)) I IBCNSD="" G CHECKQ
+"RTN","IBCNSJ3",61,0)
+ K ^TMP($J,"DUP"),^TMP($J,"DUP1")
+"RTN","IBCNSJ3",62,0)
+ W !!,"  Searching for potential duplicate plans offered by ",$E($P(IBCNSD,"^"),1,20),"..."
+"RTN","IBCNSJ3",63,0)
+ I '$D(^IBA(355.3,"B",IBCNS)) G CHECKQ
+"RTN","IBCNSJ3",64,0)
+ ;
+"RTN","IBCNSJ3",65,0)
+ ; - look for potential duplicate plans
+"RTN","IBCNSJ3",66,0)
+ D:$G(IBGNA)]"" FIND(IBCNS,IBGNA)
+"RTN","IBCNSJ3",67,0)
+ D:$G(IBGNU)]"" FIND(IBCNS,IBGNU)
+"RTN","IBCNSJ3",68,0)
+ ;
+"RTN","IBCNSJ3",69,0)
+ ; - display potential duplicates and see if plan should be filed
+"RTN","IBCNSJ3",70,0)
+ I $D(^TMP($J,"DUP")) D LIST
+"RTN","IBCNSJ3",71,0)
+ ;
+"RTN","IBCNSJ3",72,0)
+CHECKQ I '$D(^TMP($J,"DUP")) W !!,"  No potential duplicate plans have been identified."
+"RTN","IBCNSJ3",73,0)
+ K ^TMP($J,"DUP"),^TMP($J,"DUP1")
+"RTN","IBCNSJ3",74,0)
+ Q IBANS
+"RTN","IBCNSJ3",75,0)
+ ;
+"RTN","IBCNSJ3",76,0)
+ ;
+"RTN","IBCNSJ3",77,0)
+FIND(IBCNS,IBGN) ; Check cross-references for duplicate plans
+"RTN","IBCNSJ3",78,0)
+ ;  Input:  IBCNS  --  Pointer to the insurance company in file #36
+"RTN","IBCNSJ3",79,0)
+ ;           IBGN  --  value to use to find duplicates
+"RTN","IBCNSJ3",80,0)
+ ;
+"RTN","IBCNSJ3",81,0)
+ N INP,LEN,SUB,TYPE
+"RTN","IBCNSJ3",82,0)
+ F SUB="AGNA","AGNU","ACCP" D
+"RTN","IBCNSJ3",83,0)
+ .I SUB="ACCP" S IBGN=$$COMP^IBCNSJ(IBGN)
+"RTN","IBCNSJ3",84,0)
+ .S INP=IBGN,LEN=$L(INP) Q:LEN<2!(LEN>20)
+"RTN","IBCNSJ3",85,0)
+ .S TYPE=$S(IBGN?1N.N:"NUM",1:"STR")
+"RTN","IBCNSJ3",86,0)
+ .I $D(^IBA(355.3,SUB,IBCNS,INP)) D GDATA
+"RTN","IBCNSJ3",87,0)
+ .I TYPE="STR" F  S INP=$O(^IBA(355.3,SUB,IBCNS,INP)) Q:$E(INP,1,LEN)'=IBGN  D GDATA
+"RTN","IBCNSJ3",88,0)
+ .I TYPE="NUM" F  S INP=$O(^IBA(355.3,SUB,IBCNS,INP)) Q:INP=""  I $E(INP,1,LEN)=IBGN D GDATA
+"RTN","IBCNSJ3",89,0)
+ Q
+"RTN","IBCNSJ3",90,0)
+ ;
+"RTN","IBCNSJ3",91,0)
+GDATA ; Place potential duplicate plan into an array.
+"RTN","IBCNSJ3",92,0)
+ N X,Y,Y2 S X=0       ; IB*2.0*497 (vd)
+"RTN","IBCNSJ3",93,0)
+ F  S X=$O(^IBA(355.3,SUB,IBCNS,INP,X)) Q:'X  I '$D(^TMP($J,"DUP",X)) D
+"RTN","IBCNSJ3",94,0)
+ .S Y=$G(^IBA(355.3,X,0)),Y2=$G(^IBA(355.3,X,2)),IBCT=IBCT+1    ; IB*2.0*497 (vd)
+"RTN","IBCNSJ3",95,0)
+ .S ^TMP($J,"DUP",X)="",^TMP($J,"DUP1",IBCT)=$P(Y2,"^",2)_U_$P(Y2,"^",1)_U_$P(Y,"^",2)_U_$P(Y,"^",11)  ; IB*2.0*497 (vd)
+"RTN","IBCNSJ3",96,0)
+ Q
+"RTN","IBCNSJ3",97,0)
+ ;
+"RTN","IBCNSJ3",98,0)
+LIST ; List potential duplicates to screen and prompt to add plan.
+"RTN","IBCNSJ3",99,0)
+ W !!,"  The following plans have been identified as potential duplicates:"
+"RTN","IBCNSJ3",100,0)
+ W !!,?3,"PLAN",?22,"PLAN",?45,"GROUP",?55,"ACTIVE",!,?2,"NUMBER",?22,"NAME",?45,"PLAN?",?55,"PLAN?",!
+"RTN","IBCNSJ3",101,0)
+ S IBCT=0 F  S IBCT=$O(^TMP($J,"DUP1",IBCT)) Q:'IBCT  D
+"RTN","IBCNSJ3",102,0)
+ .S IBST=$G(^TMP($J,"DUP1",IBCT))
+"RTN","IBCNSJ3",103,0)
+ .W !?2,$S($P(IBST,"^")'="":$P(IBST,"^"),1:"<NO PLAN NUM>"),?22,$S($P(IBST,"^",2)'="":$P(IBST,"^",2),1:"<NO PLAN NAME>")
+"RTN","IBCNSJ3",104,0)
+ .W ?45,$S($P(IBST,"^",3)'="":$$EXPAND^IBTRE(355.3,.02,$P(IBST,"^",3)),1:"<UNK>"),?55,$S($P(IBST,"^",4):"NO",1:"YES")
+"RTN","IBCNSJ3",105,0)
+ ;
+"RTN","IBCNSJ3",106,0)
+ ; - see if it is okay to add the plan
+"RTN","IBCNSJ3",107,0)
+ S DIR(0)="Y",DIR("A",1)="Do you still want to add a new plan with Plan Name "_$S(IBGNA'="":IBGNA,1:"<NO PLAN NAME>")
+"RTN","IBCNSJ3",108,0)
+ S DIR("A")="and Plan Number "_$S(IBGNU'="":IBGNU,1:"<NO PLAN NUMBER>")
+"RTN","IBCNSJ3",109,0)
+ S DIR("B")="NO"
+"RTN","IBCNSJ3",110,0)
+ W ! D ^DIR K DIR S IBANS=Y
+"RTN","IBCNSJ3",111,0)
+ Q
+"RTN","IBCNSJ5")
+0^2^B37905336^B31714664
+"RTN","IBCNSJ5",1,0)
+IBCNSJ5 ;ALB/TMP - INSURANCE PLAN MAINTENANCE ACTION PROCESSING ; 09-AUG-95
+"RTN","IBCNSJ5",2,0)
+ ;;2.0;INTEGRATED BILLING;**43,516,549,652**;21-MAR-94;Build 23
+"RTN","IBCNSJ5",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","IBCNSJ5",4,0)
+ ;
+"RTN","IBCNSJ5",5,0)
+PL ; -- Insurance Company Plan List
+"RTN","IBCNSJ5",6,0)
+ D FULL^VALM1 W !!
+"RTN","IBCNSJ5",7,0)
+ N VALMY,VALMHDR,IBIND,IBMULT,IBW,IBSEL
+"RTN","IBCNSJ5",8,0)
+ S (IBIND,IBMULT)=1,IBW=1,IBSEL=0
+"RTN","IBCNSJ5",9,0)
+ D EN^VALM("IBCNS PLAN LIST")
+"RTN","IBCNSJ5",10,0)
+ Q
+"RTN","IBCNSJ5",11,0)
+ ;
+"RTN","IBCNSJ5",12,0)
+AB ; -- Edit Annual Benefits from insurance company edit OR plan detail edit
+"RTN","IBCNSJ5",13,0)
+ ;IB*2.0*549 - Added Security Key check
+"RTN","IBCNSJ5",14,0)
+ I '$D(^XUSEC("IB GROUP PLAN EDIT",DUZ)) D  Q
+"RTN","IBCNSJ5",15,0)
+ . W !!,*7,"Sorry, but you do not have the required privileges to edit Annual Benefits."
+"RTN","IBCNSJ5",16,0)
+ . K DIR
+"RTN","IBCNSJ5",17,0)
+ . D PAUSE^VALM1
+"RTN","IBCNSJ5",18,0)
+ . D ABQ
+"RTN","IBCNSJ5",19,0)
+ ;
+"RTN","IBCNSJ5",20,0)
+ I $D(IBCPOL) D FULL^VALM1,EN^VALM("IBCNS ANNUAL BENEFITS") S VALMBCK="R" G ABQ
+"RTN","IBCNSJ5",21,0)
+ D FULL^VALM1
+"RTN","IBCNSJ5",22,0)
+ N I,J,IBXX,VALMY,IBCDFN
+"RTN","IBCNSJ5",23,0)
+ D EN^VALM2($G(XQORNOD(0)))
+"RTN","IBCNSJ5",24,0)
+ I $D(VALMY) S IBXX=0 F  S IBXX=$O(VALMY(IBXX)) Q:'IBXX  D
+"RTN","IBCNSJ5",25,0)
+ .N IBCPOL
+"RTN","IBCNSJ5",26,0)
+ .S IBCPOL=$G(^TMP("IBCNSJ",$J,"IDX",IBXX,+$O(^TMP("IBCNSJ",$J,"IDX",IBXX,0))))
+"RTN","IBCNSJ5",27,0)
+ .Q:IBCPOL=""
+"RTN","IBCNSJ5",28,0)
+ .D FULL^VALM1
+"RTN","IBCNSJ5",29,0)
+ .W !!,"Plan Name: ",$$GET1^DIQ(355.3,IBCPOL,2.01),"   Number: ",$$GET1^DIQ(355.3,IBCPOL,2.02)  ;Get new HIPAA fields - IB*2*516
+"RTN","IBCNSJ5",30,0)
+ .K IBCDFN
+"RTN","IBCNSJ5",31,0)
+ .D EN^VALM("IBCNS ANNUAL BENEFITS")
+"RTN","IBCNSJ5",32,0)
+ .Q
+"RTN","IBCNSJ5",33,0)
+ABQ ; Annual Benefits exit
+"RTN","IBCNSJ5",34,0)
+ I $D(IBCPOL) D INIT^IBCNSC4
+"RTN","IBCNSJ5",35,0)
+ S VALMBCK=$S($D(IBFASTXT):"Q",1:"R")
+"RTN","IBCNSJ5",36,0)
+ K IBFASTXT
+"RTN","IBCNSJ5",37,0)
+ Q
+"RTN","IBCNSJ5",38,0)
+ ;
+"RTN","IBCNSJ5",39,0)
+IA ; -- (In)activate plan from insurance company edit OR plan detail edit
+"RTN","IBCNSJ5",40,0)
+ I '$D(^XUSEC("IB INSURANCE SUPERVISOR",DUZ)) D  G IAQ
+"RTN","IBCNSJ5",41,0)
+ . W !!,"Sorry, but you do not have the required privileges to inactivate plans."
+"RTN","IBCNSJ5",42,0)
+ . D PAUSE^VALM1
+"RTN","IBCNSJ5",43,0)
+ ;
+"RTN","IBCNSJ5",44,0)
+ ;IB*2.0*549 - Added Security Key check
+"RTN","IBCNSJ5",45,0)
+ I '$D(^XUSEC("IB GROUP PLAN EDIT",DUZ)) D  Q
+"RTN","IBCNSJ5",46,0)
+ . W !!,*7,"Sorry, but you do not have the required privileges to inactivate plans."
+"RTN","IBCNSJ5",47,0)
+ . K DIR
+"RTN","IBCNSJ5",48,0)
+ . D PAUSE^VALM1
+"RTN","IBCNSJ5",49,0)
+ . D IAQ
+"RTN","IBCNSJ5",50,0)
+ ;
+"RTN","IBCNSJ5",51,0)
+ D FULL^VALM1
+"RTN","IBCNSJ5",52,0)
+ I $D(IBCPOL) D INACT^IBCNSJ1(+$P($G(^IBA(355.3,IBCPOL,0)),U),IBCPOL) G IAQ
+"RTN","IBCNSJ5",53,0)
+ N I,J,IBXX,VALMY,IBCDFN
+"RTN","IBCNSJ5",54,0)
+ D EN^VALM2($G(XQORNOD(0)))
+"RTN","IBCNSJ5",55,0)
+ I $D(VALMY) S IBXX=0 F  S IBXX=$O(VALMY(IBXX)) Q:'IBXX  D
+"RTN","IBCNSJ5",56,0)
+ . N IBCPOL,IBCPND,IBCPND1
+"RTN","IBCNSJ5",57,0)
+ . S IBCPOL=$G(^TMP("IBCNSJ",$J,"IDX",IBXX,+$O(^TMP("IBCNSJ",$J,"IDX",IBXX,0))))
+"RTN","IBCNSJ5",58,0)
+ . Q:IBCPOL=""
+"RTN","IBCNSJ5",59,0)
+ . D FULL^VALM1
+"RTN","IBCNSJ5",60,0)
+ . S IBCPND=$G(^IBA(355.3,IBCPOL,0))
+"RTN","IBCNSJ5",61,0)
+ . I '$P(IBCPND,U,2) W !,"You cannot inactivate an individual plan." D PAUSE^VALM1 Q
+"RTN","IBCNSJ5",62,0)
+ . K IBCDFN
+"RTN","IBCNSJ5",63,0)
+ . D INACT^IBCNSJ1(+$P($G(^IBA(355.3,IBCPOL,0)),U),IBCPOL),PAUSE^VALM1
+"RTN","IBCNSJ5",64,0)
+ . S IBCPND1=$G(^IBA(355.3,IBCPOL,0))
+"RTN","IBCNSJ5",65,0)
+ . I $P(IBCPND1,U,11)'=$P(IBCPND,U,11)!(IBCPND1="") D
+"RTN","IBCNSJ5",66,0)
+ . . D INIT^IBCNSU2 ;Rebuild list if plan changed or deleted
+"RTN","IBCNSJ5",67,0)
+ . . N IBCPOLD S IBCPOLD=$G(^IBA(355.3,+$G(IBCPOL),0))
+"RTN","IBCNSJ5",68,0)
+ . . I IBCPOLD'="" D HDR^IBCNSC41
+"RTN","IBCNSJ5",69,0)
+IAQ ; Inactivate Plans exit
+"RTN","IBCNSJ5",70,0)
+ I $G(IBCPOL) D  ;Rebuild header
+"RTN","IBCNSJ5",71,0)
+ . N IBCPOLD
+"RTN","IBCNSJ5",72,0)
+ . S IBCPOLD=$G(^IBA(355.3,+$G(IBCPOL),0))
+"RTN","IBCNSJ5",73,0)
+ . I IBCPOLD'="" D HDR^IBCNSC41
+"RTN","IBCNSJ5",74,0)
+ S VALMBCK="R"
+"RTN","IBCNSJ5",75,0)
+ Q
+"RTN","IBCNSJ5",76,0)
+ ;
+"RTN","IBCNSJ5",77,0)
+VP ; -- Edit/View Plan
+"RTN","IBCNSJ5",78,0)
+ D FULL^VALM1
+"RTN","IBCNSJ5",79,0)
+ N IBCND1,IBCDFND,IBCPOL,IBCPOLD,IBXX,VALMY,IBCDFN
+"RTN","IBCNSJ5",80,0)
+ D EN^VALM2($G(XQORNOD(0)))
+"RTN","IBCNSJ5",81,0)
+ I $D(VALMY) S IBXX=0 F  S IBXX=$O(VALMY(IBXX)) Q:'IBXX  D
+"RTN","IBCNSJ5",82,0)
+ .S IBCPOL=$G(^TMP("IBCNSJ",$J,"IDX",IBXX,+$O(^TMP("IBCNSJ",$J,"IDX",IBXX,0))))
+"RTN","IBCNSJ5",83,0)
+ .Q:IBCPOL=""
+"RTN","IBCNSJ5",84,0)
+ .D FULL^VALM1
+"RTN","IBCNSJ5",85,0)
+ .K IBCDFN
+"RTN","IBCNSJ5",86,0)
+ .D EN^VALM("IBCNS INS CO PLAN DETAIL")
+"RTN","IBCNSJ5",87,0)
+ .Q
+"RTN","IBCNSJ5",88,0)
+ I '$D(IBFASTXT) D INIT^IBCNSU2
+"RTN","IBCNSJ5",89,0)
+ S VALMBCK="R"
+"RTN","IBCNSJ5",90,0)
+ Q
+"RTN","IBCNSJ5",91,0)
+ ;
+"RTN","IBCNSJ5",92,0)
+PC ; Plan comments
+"RTN","IBCNSJ5",93,0)
+ ;IB*2.0*549 - Added Security Key check
+"RTN","IBCNSJ5",94,0)
+ I '$D(^XUSEC("IB GROUP PLAN EDIT",DUZ)) D  Q
+"RTN","IBCNSJ5",95,0)
+ . W !!,*7,"Sorry, you do not have the required privileges enter comments"
+"RTN","IBCNSJ5",96,0)
+ . W " about this plan."
+"RTN","IBCNSJ5",97,0)
+ . K DIR
+"RTN","IBCNSJ5",98,0)
+ . D PAUSE^VALM1
+"RTN","IBCNSJ5",99,0)
+ . D PCQ
+"RTN","IBCNSJ5",100,0)
+ ;
+"RTN","IBCNSJ5",101,0)
+ W !!,"You may now enter comments about this plan."
+"RTN","IBCNSJ5",102,0)
+ L +^IBA(355.3,+IBCPOL):5 I '$T D LOCKED^IBTRCD1 G PCQ
+"RTN","IBCNSJ5",103,0)
+ S DIE="^IBA(355.3,",DA=IBCPOL,DR="11" D ^DIE
+"RTN","IBCNSJ5",104,0)
+ D INIT^IBCNSC4
+"RTN","IBCNSJ5",105,0)
+ L -^IBA(355.3,+IBCPOL)
+"RTN","IBCNSJ5",106,0)
+PCQ ; Exit Enter plan comments
+"RTN","IBCNSJ5",107,0)
+ S VALMBCK="R"
+"RTN","IBCNSJ5",108,0)
+ Q
+"RTN","IBCNSJ5",109,0)
+ ;
+"RTN","IBCNSJ5",110,0)
+CP ;Change insurance plans
+"RTN","IBCNSJ5",111,0)
+ D FULL^VALM1
+"RTN","IBCNSJ5",112,0)
+ S DIR(0)="Y",DIR("A")="Do you want to see the list of plans for this insurance company"
+"RTN","IBCNSJ5",113,0)
+ S DIR("?")="Enter 'YES' if you want to use the LIST MANAGER lookup facility on the previous screen to select a plan.  Enter 'NO' to select a plan using the standard Fileman lookup."
+"RTN","IBCNSJ5",114,0)
+ S VALMBCK="R"
+"RTN","IBCNSJ5",115,0)
+ D ^DIR K DIR I $D(DIRUT) G CPEX
+"RTN","IBCNSJ5",116,0)
+ I Y S VALMBCK="Q" G CPEX
+"RTN","IBCNSJ5",117,0)
+ ; MRD;IB*2.0*516 - Display new Group Name and Number fields.
+"RTN","IBCNSJ5",118,0)
+ S DIC("S")="I $P(^(0),U)=$G(IBCNS)",DIC="^IBA(355.3,",DIC(0)="AEMQ"
+"RTN","IBCNSJ5",119,0)
+ ;S DIC("W")="N IBX S IBX=$G(^(0)) W ""  Name: "",$E($S($P(IBX,U,3)'="""":$P(IBX,U,3),1:""<none>"")_$J("""",20),1,20),""  Number: "",$S($P(IBX,U,4)'="""":$P(IBX,U,4),1:""<none>"")"
+"RTN","IBCNSJ5",120,0)
+ S DIC("W")="N IBX,IBX2 S IBX=$G(^(0)),IBX2=$G(^(2)) W ""  Name: "",$E($S($P(IBX2,U,1)'="""":$P(IBX2,U,1),1:""<none>"")_$J("""",20),1,20),""  Number: "",$E($S($P(IBX2,U,2)'="""":$P(IBX2,U,2),1:""<none>""),1,14)"
+"RTN","IBCNSJ5",121,0)
+ S DIC("W")=DIC("W")_",""  "",$S($P(IBX,U,2):""GROUP"",1:""INDIVIDUAL""),""  "",$S($P(IBX,U,11):""IN"",1:""""),""ACTIVE"""
+"RTN","IBCNSJ5",122,0)
+ S DIC("A")="Select "_$P($G(^DIC(36,+$G(IBCNS),0)),U)_" PLAN: "
+"RTN","IBCNSJ5",123,0)
+ D ^DIC K DIC
+"RTN","IBCNSJ5",124,0)
+ G:Y<0 CPEX S IBCPOL=+Y
+"RTN","IBCNSJ5",125,0)
+ D INIT^IBCNSC4
+"RTN","IBCNSJ5",126,0)
+CPEX Q
+"RTN","IBCNSJ5",127,0)
+ ;
+"RTN","IBCNSJ5",128,0)
+CV ;Edit coverage limitations from edit patient policy
+"RTN","IBCNSJ5",129,0)
+ ;IB*2.0*549 - Added Security Key check
+"RTN","IBCNSJ5",130,0)
+ I '$D(^XUSEC("IB GROUP PLAN EDIT",DUZ)) D  Q
+"RTN","IBCNSJ5",131,0)
+ . W !!,*7,"Sorry, but you do not have the required privileges edit Coverage Limitations."
+"RTN","IBCNSJ5",132,0)
+ . K DIR
+"RTN","IBCNSJ5",133,0)
+ . D PAUSE^VALM1
+"RTN","IBCNSJ5",134,0)
+ . S VALMBCK="R"
+"RTN","IBCNSJ5",135,0)
+ D EDCOV^IBCNSJ51
+"RTN","IBCNSJ5",136,0)
+ D BLD^IBCNSP
+"RTN","IBCNSJ5",137,0)
+ Q
+"RTN","IBCNSJ5",138,0)
+ ;
+"RTN","IBCNSJ5",139,0)
+CV1 ;Edit coverage limitations from edit plan
+"RTN","IBCNSJ5",140,0)
+ ;IB*2.0*549 - Added Security Key check
+"RTN","IBCNSJ5",141,0)
+ I '$D(^XUSEC("IB GROUP PLAN EDIT",DUZ)) D  Q
+"RTN","IBCNSJ5",142,0)
+ . W !!,*7,"Sorry, but you do not have the required privileges edit Coverage Limitations."
+"RTN","IBCNSJ5",143,0)
+ . K DIR
+"RTN","IBCNSJ5",144,0)
+ . D PAUSE^VALM1
+"RTN","IBCNSJ5",145,0)
+ . S VALMBCK="R"
+"RTN","IBCNSJ5",146,0)
+ D EDCOV^IBCNSJ51
+"RTN","IBCNSJ5",147,0)
+ D INIT^IBCNSC4
+"RTN","IBCNSJ5",148,0)
+ Q
+"RTN","IBCNSJ5",149,0)
+ ;
+"RTN","IBCNSJ5",150,0)
+ ;IB*2.0*652/TAZ - Add logic for New Plan
+"RTN","IBCNSJ5",151,0)
+NP ;Add a New Plan without subscribers
+"RTN","IBCNSJ5",152,0)
+ N DA,DIE,DR,IBCPOL
+"RTN","IBCNSJ5",153,0)
+ D FULL^VALM1 W !!
+"RTN","IBCNSJ5",154,0)
+ ; Add plan and check for duplicates
+"RTN","IBCNSJ5",155,0)
+ D NEW^IBCNSJ3(IBCNS,.IBCPOL,,1,1)
+"RTN","IBCNSJ5",156,0)
+ ; If plan not added go to exit
+"RTN","IBCNSJ5",157,0)
+ I IBCPOL<1 G NPQ
+"RTN","IBCNSJ5",158,0)
+ ;
+"RTN","IBCNSJ5",159,0)
+ W !!,"Now you may enter the plan information.",!
+"RTN","IBCNSJ5",160,0)
+ ;Edit fields of New Policy
+"RTN","IBCNSJ5",161,0)
+ S DIE="^IBA(355.3,",DA=IBCPOL
+"RTN","IBCNSJ5",162,0)
+ S DR="S IBAD=$P($G(^IBA(355.3,DA,0)),U,2),Y=$S(IBAD=0:""@55"",IBAD="""":""@1"",1:""@25"");"
+"RTN","IBCNSJ5",163,0)
+ S DR=DR_"@1;.02;@25;2.01;2.02;@55;6.02;6.03;.09;.15;S Y=$S($$CATOK^IBCEMRA($P(^(0),U,14)):""@60"",1:""@65"");"
+"RTN","IBCNSJ5",164,0)
+ S DR=DR_"@60;.14;@65;.16;I '$$FTFV^IBCNSU31(X) S Y=""@66"";.17;@66;.13;.05;.12;.06;.07;.08//YES;"
+"RTN","IBCNSJ5",165,0)
+ D ^DIE
+"RTN","IBCNSJ5",166,0)
+ ;
+"RTN","IBCNSJ5",167,0)
+NPQ ;
+"RTN","IBCNSJ5",168,0)
+ I '$D(IBFASTXT) D INIT^IBCNSU2
+"RTN","IBCNSJ5",169,0)
+ S VALMBCK="R"
+"RTN","IBCNSJ5",170,0)
+ Q
+"RTN","IBCNSJ5",171,0)
+ ;
+"RTN","IBY652E")
+0^^B10035174^n/a
+"RTN","IBY652E",1,0)
+IBY652E ;AITC/TAZ-Environment Check Routine for Patch 652;10 Jun 19
+"RTN","IBY652E",2,0)
+ ;;2.0;INTEGRATED BILLING;**652**;21-MAR-94;Build 23
+"RTN","IBY652E",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","IBY652E",4,0)
+ ;
+"RTN","IBY652E",5,0)
+ N DIR,DIROUT,DIRUT,DLAYGO,DR,DTOUT,DUOUT,FILENAME,INSTCMP,IOCSITE,OK,POP,PROD,SITE,SITESYS,X,Y
+"RTN","IBY652E",6,0)
+ ;
+"RTN","IBY652E",7,0)
+ S XPDQUIT=0  ; Default to OK to install
+"RTN","IBY652E",8,0)
+ ;
+"RTN","IBY652E",9,0)
+ S XPDNOQUE=1   ; Do NOT allow Queueing
+"RTN","IBY652E",10,0)
+ ;
+"RTN","IBY652E",11,0)
+ S SITESYS=$P($$SITE^VASITE,U,3)
+"RTN","IBY652E",12,0)
+ ;
+"RTN","IBY652E",13,0)
+ I (DT>3200131) G EXIT                 ;Past the compliance date, no longer processing files.
+"RTN","IBY652E",14,0)
+ ;
+"RTN","IBY652E",15,0)
+ ;If site is Manila, skip environment checking.
+"RTN","IBY652E",16,0)
+ I SITESYS=358 G EXIT
+"RTN","IBY652E",17,0)
+ ;
+"RTN","IBY652E",18,0)
+ S PROD=$$PROD^XUPROD(1)
+"RTN","IBY652E",19,0)
+ S INSTCMP=$$GET1^DIQ(9.7,$O(^XPD(9.7,"B","IB*2.0*652",""),-1)_",",.02,"I")=3
+"RTN","IBY652E",20,0)
+ F SITE=405,515,518,585,662 S IOCSITE(SITE)=""
+"RTN","IBY652E",21,0)
+ ;
+"RTN","IBY652E",22,0)
+ I 'PROD,'$D(IOCSITE(SITESYS)) G EXIT      ;Test account and not an IOC site
+"RTN","IBY652E",23,0)
+ ; Only IOC TEST sites and all PROD sites get here
+"RTN","IBY652E",24,0)
+ I INSTCMP,'$D(IOCSITE(SITESYS)) G EXIT    ;Already installed once and not an IOC site
+"RTN","IBY652E",25,0)
+ ;
+"RTN","IBY652E",26,0)
+ S DIR(0)="FA",DIR("A")="Enter the path to the file you downloaded: "
+"RTN","IBY652E",27,0)
+ S DIR("A",1)="Enter the directory where you placed the downloaded file."
+"RTN","IBY652E",28,0)
+ S DIR("A",2)="Example: /home/directory A/directory B/"
+"RTN","IBY652E",29,0)
+ S DIR("A",3)="Do NOT include the filename."
+"RTN","IBY652E",30,0)
+ S DIR("A",4)=" "
+"RTN","IBY652E",31,0)
+ S DIR("?")="This is the directory where you downloaded the file required for patch IB*2.0*652."
+"RTN","IBY652E",32,0)
+ W ! D ^DIR K DIR I $D(DIRUT)!$D(DIROUT)!$D(DUOUT)!$D(DTOUT) S XPDQUIT=1 G EXIT
+"RTN","IBY652E",33,0)
+ S PATH=Y I $E(PATH,$L(PATH))'="/" S PATH=PATH_"/"
+"RTN","IBY652E",34,0)
+ ;
+"RTN","IBY652E",35,0)
+ S FILENAME="va"_SITESYS_".txt"
+"RTN","IBY652E",36,0)
+ ;
+"RTN","IBY652E",37,0)
+ ; Does the file exist & can I read it?
+"RTN","IBY652E",38,0)
+ D OPEN^%ZISH("INPUT",PATH,FILENAME,"R")
+"RTN","IBY652E",39,0)
+ I POP D   G EXIT
+"RTN","IBY652E",40,0)
+ . S XPDQUIT=1  ;Don't load patch
+"RTN","IBY652E",41,0)
+ . W !,"Can't open File. Please check that you have the file in the "
+"RTN","IBY652E",42,0)
+ . W !,"proper directory and re-install the patch."
+"RTN","IBY652E",43,0)
+ U IO R X:5
+"RTN","IBY652E",44,0)
+ I ($P($P(X,":",2),U)'=SITESYS) D
+"RTN","IBY652E",45,0)
+ . S XPDQUIT=1  ;Don't load patch
+"RTN","IBY652E",46,0)
+ . U 0 W !,"File is for a different site.  Retrieve proper file and re-install patch."
+"RTN","IBY652E",47,0)
+ D CLOSE^%ZISH("INPUT")
+"RTN","IBY652E",48,0)
+ I XPDQUIT=1 G EXIT
+"RTN","IBY652E",49,0)
+ W !,"File exists and can be read."
+"RTN","IBY652E",50,0)
+ ;
+"RTN","IBY652E",51,0)
+ S FILENAME="va"_SITESYS_"-results.txt"
+"RTN","IBY652E",52,0)
+ D OPEN^%ZISH("OUTPUT",PATH,FILENAME,"W")
+"RTN","IBY652E",53,0)
+ I POP D
+"RTN","IBY652E",54,0)
+ . S XPDQUIT=1 W !,"Could not create file. Please check that the path has proper settings to write a file then re-install patch." G EXIT
+"RTN","IBY652E",55,0)
+ U IO W "Site:"_SITESYS_"^Results of IB*2.0*652 installed on "_$$FMTE^XLFDT(DT),!
+"RTN","IBY652E",56,0)
+ D CLOSE^%ZISH("OUTPUT")
+"RTN","IBY652E",57,0)
+ ;
+"RTN","IBY652E",58,0)
+EXIT ;End of routine.
+"RTN","IBY652E",59,0)
+ Q
+"RTN","IBY652P")
+0^^B25343612^n/a
+"RTN","IBY652P",1,0)
+IBY652P ;AITC/TAZ-Post Install Routine for Patch 652;10 Jun 19
+"RTN","IBY652P",2,0)
+ ;;2.0;INTEGRATED BILLING;**652**;21-MAR-94;Build 23
+"RTN","IBY652P",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","IBY652P",4,0)
+ ;
+"RTN","IBY652P",5,0)
+ N IBXPD,XPDIDTOT
+"RTN","IBY652P",6,0)
+ S XPDIDTOT=1
+"RTN","IBY652P",7,0)
+ ;
+"RTN","IBY652P",8,0)
+ ;
+"RTN","IBY652P",9,0)
+ ; Task PROC  
+"RTN","IBY652P",10,0)
+ D PROC(1)
+"RTN","IBY652P",11,0)
+ ;
+"RTN","IBY652P",12,0)
+ ; Done...
+"RTN","IBY652P",13,0)
+ D MES^XPDUTL("")
+"RTN","IBY652P",14,0)
+ D MES^XPDUTL("POST-Install Completed.")
+"RTN","IBY652P",15,0)
+ Q
+"RTN","IBY652P",16,0)
+ ;
+"RTN","IBY652P",17,0)
+PROC(IBXPD) ;Process the MBI File
+"RTN","IBY652P",18,0)
+ ;Read File into the ^TMP($J) global
+"RTN","IBY652P",19,0)
+ N CNT,CCNT,FILENAME,INSTCMP,IOC,GREF,PROD,RCNT,SCNT,SITE,SITESYS,SUB,TCNT
+"RTN","IBY652P",20,0)
+ ;
+"RTN","IBY652P",21,0)
+ D BMES^XPDUTL(" STEP "_IBXPD_" of "_XPDIDTOT)
+"RTN","IBY652P",22,0)
+ D MES^XPDUTL("-------------")
+"RTN","IBY652P",23,0)
+ D MES^XPDUTL("Processing MBI Crosswalk ... ")
+"RTN","IBY652P",24,0)
+ ;
+"RTN","IBY652P",25,0)
+ K ^TMP($J)
+"RTN","IBY652P",26,0)
+ ;
+"RTN","IBY652P",27,0)
+ S SITESYS=$$SITE^VASITE
+"RTN","IBY652P",28,0)
+ ;
+"RTN","IBY652P",29,0)
+ I (DT>3200131) G PROCQ                ;Past the compliance date, no longer processing files.
+"RTN","IBY652P",30,0)
+ ;
+"RTN","IBY652P",31,0)
+ I $P(SITESYS,U,3)=358 G PROCQ           ;If site is Manila, DO NOT process
+"RTN","IBY652P",32,0)
+ ;
+"RTN","IBY652P",33,0)
+ S PROD=$$PROD^XUPROD(1)
+"RTN","IBY652P",34,0)
+ S INSTCMP=$$GET1^DIQ(9.7,$O(^XPD(9.7,"B","IB*2.0*652",""),-1)_",",.02,"I")=3
+"RTN","IBY652P",35,0)
+ F SITE=405,515,518,585,662 S IOC(SITE)=""
+"RTN","IBY652P",36,0)
+ ;
+"RTN","IBY652P",37,0)
+ I 'PROD,'$D(IOC($P(SITESYS,U,3))) G PROCQ      ;Test account and not an IOC site
+"RTN","IBY652P",38,0)
+ ; Only IOC TEST sites and all PROD sites get here
+"RTN","IBY652P",39,0)
+ I INSTCMP,'$D(IOC($P(SITESYS,U,3))) G PROCQ    ;Already installed once and not an IOC site
+"RTN","IBY652P",40,0)
+ ;
+"RTN","IBY652P",41,0)
+ S GREF=$NA(^TMP($J,"IN",1,0))
+"RTN","IBY652P",42,0)
+ S SUB=3
+"RTN","IBY652P",43,0)
+ ;Note:  PATH is set up in IBY652E and killed in PROCQ
+"RTN","IBY652P",44,0)
+ S FILENAME="va"_$P(SITESYS,U,3)_".txt"
+"RTN","IBY652P",45,0)
+ I '$$FTG^%ZISH(PATH,FILENAME,GREF,SUB) G PROCQ
+"RTN","IBY652P",46,0)
+ ;
+"RTN","IBY652P",47,0)
+ ;Process MBI Data
+"RTN","IBY652P",48,0)
+ S CNT=1,(CCNT,RCNT,SCNT,TCNT)=0
+"RTN","IBY652P",49,0)
+ S RCNT=RCNT+1,^TMP($J,"OUT",RCNT,0)="Site:"_$P(SITESYS,U,3)_U_$P(SITESYS,U,2,3)_"^Results of IB*2.0*652 installed on "_$$FMTE^XLFDT(DT)
+"RTN","IBY652P",50,0)
+ F  S CNT=$O(^TMP($J,"IN",CNT)) Q:'CNT  S DATA=^(CNT,0) D
+"RTN","IBY652P",51,0)
+ . I '$L(DATA) Q  ; blank line at end of file.
+"RTN","IBY652P",52,0)
+ . S TCNT=TCNT+1 I '(TCNT#100) U 0 W "."
+"RTN","IBY652P",53,0)
+ . N DFN,DOB,ERROR,ICN,ICNT,IEN,INSIEN,MBI,MCNT,SKIP,SSN
+"RTN","IBY652P",54,0)
+ . S ICN=$P(DATA,U,1),SSN=$$NOPUNCT^IBCEF($P(DATA,U,2),1),DOB=$$HL7TFM^XLFDT($P(DATA,U,3)),MBI=$P(DATA,U,6)
+"RTN","IBY652P",55,0)
+ . S (IEN,MCNT,SKIP)=0
+"RTN","IBY652P",56,0)
+ . I MBI']"" D ERROR(DATA,"Patient Not Found") Q
+"RTN","IBY652P",57,0)
+ . ;Match on ICN
+"RTN","IBY652P",58,0)
+ . I '$D(^DPT("AICN",ICN)) D ERROR(DATA,"Patient Not Found") Q
+"RTN","IBY652P",59,0)
+ . S DFN="" F ICNT=0:1 S DFN=$O(^DPT("AICN",ICN,DFN)) I DFN="" Q
+"RTN","IBY652P",60,0)
+ . I ICNT'=1 D ERROR(DATA,"Patient Not Found") Q
+"RTN","IBY652P",61,0)
+ . S DFN=$O(^DPT("AICN",ICN,""))
+"RTN","IBY652P",62,0)
+ . L +^DPT(DFN,.312,0):DILOCKTM E  D ERROR(DATA,"Record Locked") Q
+"RTN","IBY652P",63,0)
+ . ; Match on SSN
+"RTN","IBY652P",64,0)
+ . I $$NOPUNCT^IBCEF($$GET1^DIQ(2,DFN_",",.09),1)'=SSN D ERROR(DATA,"Patient Not Found",1) Q
+"RTN","IBY652P",65,0)
+ . ; Match on DOB
+"RTN","IBY652P",66,0)
+ . I $$GET1^DIQ(2,DFN_",",.03,"I")'=DOB D ERROR(DATA,"Patient Not Found",1) Q
+"RTN","IBY652P",67,0)
+ . ; Check for Medicare policies
+"RTN","IBY652P",68,0)
+ . S INSIEN=0
+"RTN","IBY652P",69,0)
+ . F  S INSIEN=$O(^DPT(DFN,.312,INSIEN)) Q:'INSIEN  D
+"RTN","IBY652P",70,0)
+ .. N FDA,IENS,INSNM,PATID,SUBID
+"RTN","IBY652P",71,0)
+ .. S IENS=INSIEN_","_DFN_","
+"RTN","IBY652P",72,0)
+ .. S INSNM=$TR($$GET1^DIQ(2.312,IENS,.01)," ")
+"RTN","IBY652P",73,0)
+ .. I ",MEDICARE(WNR),MEDICAREPARTD(WNR),"'[(","_INSNM_",") Q
+"RTN","IBY652P",74,0)
+ .. S MCNT=MCNT+1
+"RTN","IBY652P",75,0)
+ .. S SUBID=$$GET1^DIQ(2.312,IENS,7.02)
+"RTN","IBY652P",76,0)
+ .. S PATID=$$GET1^DIQ(2.312,IENS,5.01)
+"RTN","IBY652P",77,0)
+ .. I SUBID=MBI S SKIP=1 Q  ;No need to update
+"RTN","IBY652P",78,0)
+ .. S SKIP=0
+"RTN","IBY652P",79,0)
+ .. ;Set Subscriber ID and Patient ID to MBI,Rollback fields to SUBID AND PATID
+"RTN","IBY652P",80,0)
+ .. S FDA(2.312,IENS,5.01)=MBI
+"RTN","IBY652P",81,0)
+ .. S FDA(2.312,IENS,7.02)=MBI
+"RTN","IBY652P",82,0)
+ .. S FDA(2.312,IENS,7.03)=SUBID
+"RTN","IBY652P",83,0)
+ .. S FDA(2.312,IENS,7.04)=PATID
+"RTN","IBY652P",84,0)
+ .. S FDA(2.312,IENS,1.05)=DT
+"RTN","IBY652P",85,0)
+ .. S FDA(2.312,IENS,1.06)=.5
+"RTN","IBY652P",86,0)
+ .. D FILE^DIE(,"FDA","ERROR") I $D(ERROR) D ERROR(DATA,$G(ERROR)) Q
+"RTN","IBY652P",87,0)
+ . I SKIP S SCNT=SCNT+1
+"RTN","IBY652P",88,0)
+ . I 'MCNT D ERROR(DATA,"No Medicare Found")
+"RTN","IBY652P",89,0)
+ . I 'SKIP,MCNT S CCNT=CCNT+1
+"RTN","IBY652P",90,0)
+ . L -^DPT(DFN,.312,0)
+"RTN","IBY652P",91,0)
+ ;
+"RTN","IBY652P",92,0)
+ ;Write Result file to HMS Directory
+"RTN","IBY652P",93,0)
+ S GREF=$NA(^TMP($J,"OUT",1,0))
+"RTN","IBY652P",94,0)
+ S FILENAME="va"_$P(SITESYS,U,3)_"-results.txt"
+"RTN","IBY652P",95,0)
+ I '$$GTF^%ZISH(GREF,SUB,PATH,FILENAME) G PROCQ
+"RTN","IBY652P",96,0)
+ ;
+"RTN","IBY652P",97,0)
+ N MSG,SUB,XMY
+"RTN","IBY652P",98,0)
+ S MSG(1)="On "_$$FMTE^XLFDT(DT)_" the MBI Crosswalk was run at site "_$P(SITESYS,U,3)_" - "_$P(SITESYS,U,2)
+"RTN","IBY652P",99,0)
+ S MSG(2)=""
+"RTN","IBY652P",100,0)
+ S MSG(3)="Total Records: "_TCNT
+"RTN","IBY652P",101,0)
+ S MSG(4)=""
+"RTN","IBY652P",102,0)
+ S MSG(5)="Successful Patient Update Records: "_CCNT
+"RTN","IBY652P",103,0)
+ S MSG(6)=""
+"RTN","IBY652P",104,0)
+ S MSG(7)="Patient Error Records: "_(RCNT-1)  ;subtract 1 to account for the header record.
+"RTN","IBY652P",105,0)
+ S MSG(8)=""
+"RTN","IBY652P",106,0)
+ S MSG(9)="Patient Skipped (MBI correct on file) Records: "_SCNT
+"RTN","IBY652P",107,0)
+ S MSG(10)=""
+"RTN","IBY652P",108,0)
+ S MSG(11)="File "_FILENAME_" was created in the "_PATH_" directory by user "_$$GET1^DIQ(200,DUZ_",",.01)_"."
+"RTN","IBY652P",109,0)
+ ;
+"RTN","IBY652P",110,0)
+ S SUB="MBI CROSSWALK ("_$P(SITESYS,U,3)_" - "_$P(SITESYS,U,2)_")"
+"RTN","IBY652P",111,0)
+ ;
+"RTN","IBY652P",112,0)
+ S XMY("VHAeInsuranceRapidResponse@domain.ext")=""
+"RTN","IBY652P",113,0)
+ ;
+"RTN","IBY652P",114,0)
+ D MSG^IBCNEUT5(,SUB,"MSG(",1,.XMY)
+"RTN","IBY652P",115,0)
+ ;
+"RTN","IBY652P",116,0)
+PROCQ ;End of routine.
+"RTN","IBY652P",117,0)
+ K PATH,XPDQUIT
+"RTN","IBY652P",118,0)
+ Q
+"RTN","IBY652P",119,0)
+ ;
+"RTN","IBY652P",120,0)
+ERROR(DATA,ERROR,UNLOCK) ;Set the Error in the results file
+"RTN","IBY652P",121,0)
+ S RCNT=RCNT+1
+"RTN","IBY652P",122,0)
+ S ^TMP($J,"OUT",RCNT,0)=DATA_U_ERROR
+"RTN","IBY652P",123,0)
+ I $G(UNLOCK) L -^DPT(DFN,.312,0)
+"RTN","IBY652P",124,0)
+ Q
+"UP",2,2.312,-1)
+2^.312
+"UP",2,2.312,0)
+2.312
+"VER")
+8.0^22.2
+"^DD",2,2.312,7.03,0)
+SUBSCRIBER ID ROLLBACK^FJ80^^7;3^K:$L(X)>80!($L(X)<1) X
+"^DD",2,2.312,7.03,3)
+Answer must be 1-80 characters in length.
+"^DD",2,2.312,7.03,21,0)
+^^2^2^3190821^
+"^DD",2,2.312,7.03,21,1,0)
+This field is used to store the original data from the SUBSCRIBER ID 
+"^DD",2,2.312,7.03,21,2,0)
+(#7.02) field.
+"^DD",2,2.312,7.03,23,0)
+^.001^3^3^3190821^^
+"^DD",2,2.312,7.03,23,1,0)
+This field is only used as a rollback data for patch IB*2.0*652.  It will
+"^DD",2,2.312,7.03,23,2,0)
+be used in case a problem with the Subscriber ID needs to be rolled back
+"^DD",2,2.312,7.03,23,3,0)
+to the original data.  
+"^DD",2,2.312,7.03,"DT")
+3190619
+"^DD",2,2.312,7.04,0)
+PATIENT ID ROLLBACK^FJ30^^7;4^K:$L(X)>30!($L(X)<1) X
+"^DD",2,2.312,7.04,3)
+Answer must be 1-30 characters in length.
+"^DD",2,2.312,7.04,21,0)
+^^1^1^3190821^
+"^DD",2,2.312,7.04,21,1,0)
+This field contains the original data from the PATIENT ID (#5.01) field.
+"^DD",2,2.312,7.04,23,0)
+^.001^3^3^3190821^^
+"^DD",2,2.312,7.04,23,1,0)
+This field is only used as a rollback data for patch IB*2.0*652.  It will
+"^DD",2,2.312,7.04,23,2,0)
+be used in case a problem with the PATIENT ID needs to be rolled back to
+"^DD",2,2.312,7.04,23,3,0)
+the original data.
+"^DD",2,2.312,7.04,"DT")
+3190620
+"BLD",11371,6)
+^597
+**END**
+**END**
+

@@ -1,0 +1,1903 @@
+Released VPR*1*19 SEQ #16
+Extracted from mail message
+**KIDS**:VPR*1.0*19^
+
+**INSTALL NAME**
+VPR*1.0*19
+"BLD",9487,0)
+VPR*1.0*19^VIRTUAL PATIENT RECORD^0^3191213^y
+"BLD",9487,4,0)
+^9.64PA^^
+"BLD",9487,6.3)
+5
+"BLD",9487,"KRN",0)
+^9.67PA^1.5^24
+"BLD",9487,"KRN",.4,0)
+.4
+"BLD",9487,"KRN",.401,0)
+.401
+"BLD",9487,"KRN",.402,0)
+.402
+"BLD",9487,"KRN",.403,0)
+.403
+"BLD",9487,"KRN",.5,0)
+.5
+"BLD",9487,"KRN",.84,0)
+.84
+"BLD",9487,"KRN",1.5,0)
+1.5
+"BLD",9487,"KRN",1.6,0)
+1.6
+"BLD",9487,"KRN",1.61,0)
+1.61
+"BLD",9487,"KRN",1.62,0)
+1.62
+"BLD",9487,"KRN",3.6,0)
+3.6
+"BLD",9487,"KRN",3.8,0)
+3.8
+"BLD",9487,"KRN",9.2,0)
+9.2
+"BLD",9487,"KRN",9.8,0)
+9.8
+"BLD",9487,"KRN",9.8,"NM",0)
+^9.68A^3^3
+"BLD",9487,"KRN",9.8,"NM",1,0)
+VPRENC^^0^B55221135
+"BLD",9487,"KRN",9.8,"NM",2,0)
+VPREVNT^^0^B120515239
+"BLD",9487,"KRN",9.8,"NM",3,0)
+VPRHS^^0^B80745038
+"BLD",9487,"KRN",9.8,"NM","B","VPRENC",1)
+
+"BLD",9487,"KRN",9.8,"NM","B","VPREVNT",2)
+
+"BLD",9487,"KRN",9.8,"NM","B","VPRHS",3)
+
+"BLD",9487,"KRN",19,0)
+19
+"BLD",9487,"KRN",19,"NM",0)
+^9.68A^^
+"BLD",9487,"KRN",19.1,0)
+19.1
+"BLD",9487,"KRN",101,0)
+101
+"BLD",9487,"KRN",101,"NM",0)
+^9.68A^1^1
+"BLD",9487,"KRN",101,"NM",1,0)
+VPR PCE EVENTS^^0
+"BLD",9487,"KRN",101,"NM","B","VPR PCE EVENTS",1)
+
+"BLD",9487,"KRN",409.61,0)
+409.61
+"BLD",9487,"KRN",771,0)
+771
+"BLD",9487,"KRN",779.2,0)
+779.2
+"BLD",9487,"KRN",870,0)
+870
+"BLD",9487,"KRN",8989.51,0)
+8989.51
+"BLD",9487,"KRN",8989.52,0)
+8989.52
+"BLD",9487,"KRN",8994,0)
+8994
+"BLD",9487,"KRN","B",.4,.4)
+
+"BLD",9487,"KRN","B",.401,.401)
+
+"BLD",9487,"KRN","B",.402,.402)
+
+"BLD",9487,"KRN","B",.403,.403)
+
+"BLD",9487,"KRN","B",.5,.5)
+
+"BLD",9487,"KRN","B",.84,.84)
+
+"BLD",9487,"KRN","B",1.5,1.5)
+
+"BLD",9487,"KRN","B",1.6,1.6)
+
+"BLD",9487,"KRN","B",1.61,1.61)
+
+"BLD",9487,"KRN","B",1.62,1.62)
+
+"BLD",9487,"KRN","B",3.6,3.6)
+
+"BLD",9487,"KRN","B",3.8,3.8)
+
+"BLD",9487,"KRN","B",9.2,9.2)
+
+"BLD",9487,"KRN","B",9.8,9.8)
+
+"BLD",9487,"KRN","B",19,19)
+
+"BLD",9487,"KRN","B",19.1,19.1)
+
+"BLD",9487,"KRN","B",101,101)
+
+"BLD",9487,"KRN","B",409.61,409.61)
+
+"BLD",9487,"KRN","B",771,771)
+
+"BLD",9487,"KRN","B",779.2,779.2)
+
+"BLD",9487,"KRN","B",870,870)
+
+"BLD",9487,"KRN","B",8989.51,8989.51)
+
+"BLD",9487,"KRN","B",8989.52,8989.52)
+
+"BLD",9487,"KRN","B",8994,8994)
+
+"BLD",9487,"QUES",0)
+^9.62^^
+"BLD",9487,"REQB",0)
+^9.611^1^1
+"BLD",9487,"REQB",1,0)
+VPR*1.0*17^2
+"BLD",9487,"REQB","B","VPR*1.0*17",1)
+
+"KRN",101,6191,-1)
+0^1
+"KRN",101,6191,0)
+VPR PCE EVENTS^PCE events for VPR^^A^^^^^^^^
+"KRN",101,6191,1,0)
+^101.06^1^1^3101129^^^
+"KRN",101,6191,1,1,0)
+This protocol will track PCE visit data for VPR.
+"KRN",101,6191,20)
+D PX^VPRENC
+"KRN",101,6191,99)
+65209,36798
+"MBREQ")
+0
+"ORD",15,101)
+101;15;;;PRO^XPDTA;PROF1^XPDIA;PROE1^XPDIA;PROF2^XPDIA;;PRODEL^XPDIA
+"ORD",15,101,0)
+PROTOCOL
+"PKG",571,-1)
+1^1
+"PKG",571,0)
+VIRTUAL PATIENT RECORD^VPR^Utilities to manage a virtual copy of the patient record
+"PKG",571,22,0)
+^9.49I^1^1
+"PKG",571,22,1,0)
+1.0^3110804^3110901^1
+"PKG",571,22,1,"PAH",1,0)
+19^3191213
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+3
+"RTN","VPRENC")
+0^1^B55221135^n/a
+"RTN","VPRENC",1,0)
+VPRENC ;SLC/MKB -- VistA Encounter updates ;10/25/18  15:29
+"RTN","VPRENC",2,0)
+ ;;1.0;VIRTUAL PATIENT RECORD;**19**;Sep 01, 2011;Build 5
+"RTN","VPRENC",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","VPRENC",4,0)
+ ;
+"RTN","VPRENC",5,0)
+ ; Collect all visit changes in (NOW = time last modified):
+"RTN","VPRENC",6,0)
+ ;^XTMP("VPRPX",0) = DT+2 ^ DT ^ VPR ENCOUNTERS
+"RTN","VPRENC",7,0)
+ ;^XTMP("VPRPX", visit~dfn) =  NOW ^ id ^ 1 if new during session
+"RTN","VPRENC",8,0)
+ ;^XTMP("VPRPX", visit~dfn, "SUB", ien) = 1 if new during session
+"RTN","VPRENC",9,0)
+ ;^XTMP("VPRPX", "DOC", ien) = NOW ^ id ^ @ if removed
+"RTN","VPRENC",10,0)
+ ;^XTMP("VPRPX", "AVST"/"ADOC", NOW, ien) = ""
+"RTN","VPRENC",11,0)
+ ;
+"RTN","VPRENC",12,0)
+PX ; -- PXK VISIT DATA EVENT protocol listener
+"RTN","VPRENC",13,0)
+ Q:'$P($G(^VPR(1,0)),U,2)  ;monitoring disabled
+"RTN","VPRENC",14,0)
+ N VST,PX0A,PX0B,DFN,VSTX,X,NOW,NEW,ID,SUB,DA,VADMVT
+"RTN","VPRENC",15,0)
+ S VST=+$O(^TMP("PXKCO",$J,0)) Q:VST<1
+"RTN","VPRENC",16,0)
+ S PX0A=$G(^TMP("PXKCO",$J,VST,"VST",VST,0,"AFTER")),PX0B=$G(^("BEFORE"))
+"RTN","VPRENC",17,0)
+ S DFN=$S($L(PX0A):+$P(PX0A,U,5),1:+$P(PX0B,U,5))
+"RTN","VPRENC",18,0)
+ Q:DFN<1  ;Q:'$$VALID^VPRHS(DFN)
+"RTN","VPRENC",19,0)
+ S VSTX=VST_"~"_DFN ;visit id for XTMP
+"RTN","VPRENC",20,0)
+ ;
+"RTN","VPRENC",21,0)
+ ; get or set up ^XTMP
+"RTN","VPRENC",22,0)
+ S VPRPX=$NA(^XTMP("VPRPX"))
+"RTN","VPRENC",23,0)
+ L +@VPRPX@(VSTX):5 ;I'$T
+"RTN","VPRENC",24,0)
+ ;
+"RTN","VPRENC",25,0)
+ ; Visit file
+"RTN","VPRENC",26,0)
+ S X=$G(@VPRPX@(VSTX)),NOW=+X,ID=$P(X,U,2),NEW=$P(X,U,3)
+"RTN","VPRENC",27,0)
+ K:NOW @VPRPX@("AVST",NOW,VSTX) ;reset clock
+"RTN","VPRENC",28,0)
+ I X="" D  ;new visit - get ID
+"RTN","VPRENC",29,0)
+ . I $P(PX0A,U,7)="H" D  ;find admission movement
+"RTN","VPRENC",30,0)
+ .. N VAINDT S VAINDT=+PX0A D ADM^VADPT2
+"RTN","VPRENC",31,0)
+ . S ID=$S($G(VADMVT):VADMVT_"~"_VST_";405",1:VST_";9000010")
+"RTN","VPRENC",32,0)
+ S NOW=$$NOW^XLFDT,@VPRPX@("AVST",NOW,VSTX)=""
+"RTN","VPRENC",33,0)
+ S:PX0B="" NEW=1
+"RTN","VPRENC",34,0)
+ S @VPRPX@(VSTX)=NOW_U_ID_U_NEW
+"RTN","VPRENC",35,0)
+ ;
+"RTN","VPRENC",36,0)
+ ; V-files
+"RTN","VPRENC",37,0)
+ F SUB="IMM","XAM","POV","HF" D  ;"PED","SK","CPT"
+"RTN","VPRENC",38,0)
+ . S DA=0 F  S DA=$O(^TMP("PXKCO",$J,VST,SUB,DA)) Q:DA<1  D
+"RTN","VPRENC",39,0)
+ .. Q:'$$DIFF(.NEW)                 ;not changed
+"RTN","VPRENC",40,0)
+ .. I SUB="HF" Q:$$NAME(SUB,DA)=""  ;not Hx
+"RTN","VPRENC",41,0)
+ .. S @VPRPX@(VSTX,SUB,DA)=$G(NEW)
+"RTN","VPRENC",42,0)
+PXQ ; done
+"RTN","VPRENC",43,0)
+ L -@VPRPX@(VSTX)
+"RTN","VPRENC",44,0)
+ I '$G(@VPRPX@("ZTSK")) D QUE(12)
+"RTN","VPRENC",45,0)
+ Q
+"RTN","VPRENC",46,0)
+ ;
+"RTN","VPRENC",47,0)
+DIFF(ACT) ; -- returns 1 or 0 if changed, ACT=1 if new
+"RTN","VPRENC",48,0)
+ N NODE,AFTER,BEFORE,DIFF
+"RTN","VPRENC",49,0)
+ S DIFF=0,ACT=$G(@VPRPX@(VSTX,SUB,DA))
+"RTN","VPRENC",50,0)
+ F NODE=0,12,13,811 D  Q:DIFF
+"RTN","VPRENC",51,0)
+ . S AFTER=$G(^TMP("PXKCO",$J,VST,SUB,DA,NODE,"AFTER")),BEFORE=$G(^("BEFORE"))
+"RTN","VPRENC",52,0)
+ . I BEFORE'=AFTER S DIFF=1 S:(NODE=0)&(BEFORE="") ACT=1 ;new
+"RTN","VPRENC",53,0)
+ Q DIFF
+"RTN","VPRENC",54,0)
+ ;
+"RTN","VPRENC",55,0)
+QUE(M) ; -- begin tasking to post encounters, documents
+"RTN","VPRENC",56,0)
+ N ZTRTN,ZTDTH,ZTDESC,ZTIO,ZTSAVE,ZTUCI,ZTCPU,ZTPRI,ZTKIL,ZTSYNC,ZTSK
+"RTN","VPRENC",57,0)
+ S ZTRTN="TASK^VPRENC",ZTDTH=$$FMADD^XLFDT($$NOW^XLFDT,,,M)
+"RTN","VPRENC",58,0)
+ S ZTDESC="VPR Encounters",ZTIO=""
+"RTN","VPRENC",59,0)
+ S ^XTMP("VPRPX",0)=$$FMADD^XLFDT(DT,2)_U_DT_"^Encounters for HealthShare"
+"RTN","VPRENC",60,0)
+ D ^%ZTLOAD
+"RTN","VPRENC",61,0)
+ S ^XTMP("VPRPX","ZTSK")=$G(ZTSK)
+"RTN","VPRENC",62,0)
+ Q
+"RTN","VPRENC",63,0)
+ ;
+"RTN","VPRENC",64,0)
+SDAM ; -- SDAM APPOINTMENT EVENTS protocol listener
+"RTN","VPRENC",65,0)
+ N DFN,DATE,ACT,SDOE,VST,VSTX Q:'$G(SDATA)
+"RTN","VPRENC",66,0)
+ Q:$G(SDAMEVT)>5  ;only track make, cancel, no show, check in/out
+"RTN","VPRENC",67,0)
+ ; quit if status has not changed
+"RTN","VPRENC",68,0)
+ Q:$G(SDATA("BEFORE","STATUS"))=$G(SDATA("AFTER","STATUS"))
+"RTN","VPRENC",69,0)
+ S DFN=+$P(SDATA,U,2) Q:DFN<1
+"RTN","VPRENC",70,0)
+ S DATE=+$P(SDATA,U,3),ACT=$S(SDAMEVT=2:"@",1:"")
+"RTN","VPRENC",71,0)
+ I SDAMEVT<5 D POST^VPRHS(DFN,"Appointment",(DATE_","_DFN_";2.98"),ACT) Q
+"RTN","VPRENC",72,0)
+ ; 5 = Check-out:
+"RTN","VPRENC",73,0)
+ S SDOE=$P($G(^TMP("SDEVT",$J,+$G(SDHDL),1,"DPT",0,"AFTER")),U,20)
+"RTN","VPRENC",74,0)
+ S VST=$P($G(^TMP("SDEVT",$J,+$G(SDHDL),1,"SDOE",+SDOE,0,"AFTER")),U,5)
+"RTN","VPRENC",75,0)
+ I VST D  Q  ; delete first, if adding encounter#
+"RTN","VPRENC",76,0)
+ . N VPRPX,NOW,ID S ID=DATE_","_DFN
+"RTN","VPRENC",77,0)
+ . D POST^VPRHS(DFN,"Appointment",(ID_";2.98"),"@")
+"RTN","VPRENC",78,0)
+ . S VPRPX=$NA(^XTMP("VPRPX")),NOW=$$NOW^XLFDT,VSTX=VST_"~"_DFN
+"RTN","VPRENC",79,0)
+ . L +@VPRPX@(VSTX):5 ;I'$T
+"RTN","VPRENC",80,0)
+ . I '$G(@VPRPX@(VSTX)) S @VPRPX@(VSTX)=NOW_U_VST_";9000010",@VPRPX@("AVST",NOW,VSTX)=""
+"RTN","VPRENC",81,0)
+ . S @VPRPX@(VSTX,"APT",ID)=""
+"RTN","VPRENC",82,0)
+ . L -@VPRPX@(VSTX)
+"RTN","VPRENC",83,0)
+ . I '$G(@VPRPX@("ZTSK")) D QUE(12)
+"RTN","VPRENC",84,0)
+ D POST^VPRHS(DFN,"Appointment",(DATE_","_DFN_";2.98"))
+"RTN","VPRENC",85,0)
+ Q
+"RTN","VPRENC",86,0)
+ ;
+"RTN","VPRENC",87,0)
+TIU(IEN,ACT) ; -- TIU Document file #8925 [from TIU^VPREVNT]
+"RTN","VPRENC",88,0)
+ ; add to ^XTMP("VPRPX") list w/encounters
+"RTN","VPRENC",89,0)
+ N VPRPX,NOW
+"RTN","VPRENC",90,0)
+ S VPRPX=$NA(^XTMP("VPRPX")),IEN=+$G(IEN),ACT=$G(ACT)
+"RTN","VPRENC",91,0)
+ L +@VPRPX@("DOC",IEN):5 ;I'$T
+"RTN","VPRENC",92,0)
+ ;
+"RTN","VPRENC",93,0)
+ S NOW=+$G(@VPRPX@("DOC",IEN)) K:NOW @VPRPX@("ADOC",NOW,IEN)
+"RTN","VPRENC",94,0)
+ I NOW,ACT="@" K @VPRPX@("DOC",IEN) L -@VPRPX@("DOC",IEN) Q
+"RTN","VPRENC",95,0)
+ ;
+"RTN","VPRENC",96,0)
+ S NOW=$$NOW^XLFDT,@VPRPX@("ADOC",NOW,IEN)=""
+"RTN","VPRENC",97,0)
+ S @VPRPX@("DOC",IEN)=NOW_U_IEN_";8925"_U_ACT
+"RTN","VPRENC",98,0)
+ L -@VPRPX@("DOC",IEN)
+"RTN","VPRENC",99,0)
+ I '$G(@VPRPX@("ZTSK")) D QUE(12)
+"RTN","VPRENC",100,0)
+ Q
+"RTN","VPRENC",101,0)
+ ;
+"RTN","VPRENC",102,0)
+ ;
+"RTN","VPRENC",103,0)
+TASK ; -- post an encounter update
+"RTN","VPRENC",104,0)
+ N VPRPX,VPRDT,VPRI,VSTX,VST,X0,DFN,V0,X,VFL,VDA,ACT S ZTREQ="@"
+"RTN","VPRENC",105,0)
+ Q:'$P($G(^VPR(1,0)),U,2)  ;monitoring disabled
+"RTN","VPRENC",106,0)
+ S VPRPX=$NA(^XTMP("VPRPX")),VPRDT=$$FMADD^XLFDT($$NOW^XLFDT,,,-10)
+"RTN","VPRENC",107,0)
+ ; post visits that have been stable for at least 10 minutes
+"RTN","VPRENC",108,0)
+ S VPRI=0 F  S VPRI=$O(@VPRPX@("AVST",VPRI)) Q:VPRI<1  Q:VPRI>VPRDT  D
+"RTN","VPRENC",109,0)
+ . S VSTX="" F  S VSTX=$O(@VPRPX@("AVST",VPRI,VSTX)) Q:VSTX=""  D
+"RTN","VPRENC",110,0)
+ .. L +@VPRPX@(VSTX):5 Q:'$T                ;will requeue
+"RTN","VPRENC",111,0)
+ .. S X0=$G(@VPRPX@(VSTX)),VST=+VSTX,DFN=+$P(VSTX,"~",2)
+"RTN","VPRENC",112,0)
+ .. S V0=$G(^AUPNVSIT(VST,0)) I V0="" D  Q  ;deleted
+"RTN","VPRENC",113,0)
+ ... I '$P(X0,U,3) D DELALL Q
+"RTN","VPRENC",114,0)
+ ... K @VPRPX@(VSTX) L -@VPRPX@(VSTX)
+"RTN","VPRENC",115,0)
+ .. I $P(V0,U,5)'=DFN D DELALL Q            ;replaced
+"RTN","VPRENC",116,0)
+ .. D POST^VPRHS(DFN,"Encounter",$P(X0,U,2))
+"RTN","VPRENC",117,0)
+TV .. ; post related v-file records next
+"RTN","VPRENC",118,0)
+ .. S VFL="" F  S VFL=$O(@VPRPX@(VSTX,VFL)) Q:VFL=""  D
+"RTN","VPRENC",119,0)
+ ... S VDA=0 F  S VDA=$O(@VPRPX@(VSTX,VFL,VDA)) Q:VDA<1  D
+"RTN","VPRENC",120,0)
+ .... S X=$$NAME(VFL,VDA) Q:X=""            ;not tracked
+"RTN","VPRENC",121,0)
+ .... I VFL="APT" D POST^VPRHS(DFN,$P(X,U),(VDA_";"_$P(X,U,2)),,VST) Q
+"RTN","VPRENC",122,0)
+ .... S V0=$$ZERO(VFL,VDA)                  ;"" if deleted
+"RTN","VPRENC",123,0)
+ .... I V0="",$G(@VPRPX@(VSTX,VFL,VDA)) Q   ;new item (don't send)
+"RTN","VPRENC",124,0)
+ .... ; update if exists for patient/visit, else delete (send)
+"RTN","VPRENC",125,0)
+ .... S ACT="@" I V0,$P(V0,U,2)=DFN,$P(V0,U,3)=VST S ACT=""
+"RTN","VPRENC",126,0)
+ .... D POST^VPRHS(DFN,$P(X,U),(VDA_";"_$P(X,U,2)),ACT,VST)
+"RTN","VPRENC",127,0)
+ .. K @VPRPX@(VSTX),@VPRPX@("AVST",VPRI,VSTX)
+"RTN","VPRENC",128,0)
+ .. L -@VPRPX@(VSTX)
+"RTN","VPRENC",129,0)
+ .. ; post related documents
+"RTN","VPRENC",130,0)
+ .. S VDA=0 F  S VDA=$O(^TIU(8925,"V",+VST,VDA)) Q:VDA<1  D
+"RTN","VPRENC",131,0)
+ ... S X0=$G(@VPRPX@("DOC",VDA)) Q:X0=""
+"RTN","VPRENC",132,0)
+ ... D POST^VPRHS(DFN,"Document",$P(X0,U,2),$P(X0,U,3),+VST)
+"RTN","VPRENC",133,0)
+ ... K @VPRPX@("DOC",VDA),@VPRPX@("ADOC",+X0,VDA)
+"RTN","VPRENC",134,0)
+ ... D PROC
+"RTN","VPRENC",135,0)
+TD ; look for waiting documents w/o visit
+"RTN","VPRENC",136,0)
+ S VPRI=0 F  S VPRI=$O(@VPRPX@("ADOC",VPRI)) Q:VPRI<1  Q:VPRI>VPRDT  D
+"RTN","VPRENC",137,0)
+ . S VDA=0 F  S VDA=$O(@VPRPX@("ADOC",VPRI,VDA)) Q:VDA<1  D
+"RTN","VPRENC",138,0)
+ .. L +@VPRPX@("DOC",VDA):5 Q:'$T  ;will requeue
+"RTN","VPRENC",139,0)
+ .. N VPRTIU
+"RTN","VPRENC",140,0)
+ .. S ACT=$G(@VPRPX@("DOC",VDA))
+"RTN","VPRENC",141,0)
+ .. D EXTRACT^TIULQ(VDA,"VPRTIU",,".02;.03",,1,"I")
+"RTN","VPRENC",142,0)
+ .. S VST=$G(VPRTIU(VDA,.03,"I")),DFN=$G(VPRTIU(VDA,.02,"I"))
+"RTN","VPRENC",143,0)
+ .. ; quit if has visit, still in ^XTMP (send w/visit)
+"RTN","VPRENC",144,0)
+ .. I VST,$G(@VPRPX@(VST_"~"_DFN)) L -@VPRPX@("DOC",VDA) Q
+"RTN","VPRENC",145,0)
+ .. ; else post to HS
+"RTN","VPRENC",146,0)
+ .. D POST^VPRHS(DFN,"Document",$P(ACT,U,2),$P(ACT,U,3),VST)
+"RTN","VPRENC",147,0)
+ .. K @VPRPX@("DOC",VDA),@VPRPX@("ADOC",VPRI,VDA)
+"RTN","VPRENC",148,0)
+ .. L -@VPRPX@("DOC",VDA)
+"RTN","VPRENC",149,0)
+ .. D:VST PROC
+"RTN","VPRENC",150,0)
+TQ ; re-task if more data
+"RTN","VPRENC",151,0)
+ S X=$O(@VPRPX@(0)) I $L(X),X'="ZTSK" D QUE(12) Q
+"RTN","VPRENC",152,0)
+ K @VPRPX
+"RTN","VPRENC",153,0)
+ Q
+"RTN","VPRENC",154,0)
+ ;
+"RTN","VPRENC",155,0)
+DELALL ; -- delete visit + vfiles from HS [from TASK]
+"RTN","VPRENC",156,0)
+ D POST^VPRHS(DFN,"Encounter",VST_";9000010","@")
+"RTN","VPRENC",157,0)
+ S VFL="" F  S VFL=$O(@VPRPX@(VSTX,VFL)) Q:VFL=""  D
+"RTN","VPRENC",158,0)
+ . S VDA=0 F  S VDA=$O(@VPRPX@(VSTX,VFL,VDA)) Q:VDA<1  D
+"RTN","VPRENC",159,0)
+ .. S X=$$NAME(VFL,VDA) I X="" K @VPRPX@(VSTX,VFL,VDA) Q  ;not tracked
+"RTN","VPRENC",160,0)
+ .. I $G(@VPRPX@(VSTX)) K @VPRPX@(VSTX,VFL,VDA) Q         ;new item
+"RTN","VPRENC",161,0)
+ .. D POST^VPRHS(DFN,$P(X,U),(VDA_";"_$P(X,U,2)),"@",VST)
+"RTN","VPRENC",162,0)
+ ; clean up
+"RTN","VPRENC",163,0)
+ K @VPRPX@(VSTX),@VPRPX@("AVST",VPRI,VSTX)
+"RTN","VPRENC",164,0)
+ L -@VPRPX@(VSTX)
+"RTN","VPRENC",165,0)
+ Q
+"RTN","VPRENC",166,0)
+ ;
+"RTN","VPRENC",167,0)
+PROC ; -- look for consult/procedure [from TASK]
+"RTN","VPRENC",168,0)
+ N PROC,I
+"RTN","VPRENC",169,0)
+ D EXTRACT^TIULQ(VDA,"VPRTIU",,1405,,1,"I")
+"RTN","VPRENC",170,0)
+ S PROC=$G(VPRTIU(VDA,1405,"I")) Q:'PROC  Q:'VST
+"RTN","VPRENC",171,0)
+ I PROC["SRF" D POST^VPRHS(DFN,"Procedure",+PROC_";130",,VST) Q
+"RTN","VPRENC",172,0)
+ I PROC["GMR",$$GET1^DIQ(123,+PROC,1.01,"I") D  ;CP
+"RTN","VPRENC",173,0)
+ . N VPRC,ID D FIND^DIC(702,,"@","Q",+PROC,,"ACON",,,"VPRC")
+"RTN","VPRENC",174,0)
+ . S I=0 F  S I=$O(VPRC("DILIST",2,I)) Q:I<1  D
+"RTN","VPRENC",175,0)
+ .. S ID=+$G(VPRC("DILIST",2,I))
+"RTN","VPRENC",176,0)
+ .. D POST^VPRHS(DFN,"Procedure",ID_";702",,VST)
+"RTN","VPRENC",177,0)
+ Q
+"RTN","VPRENC",178,0)
+ ;
+"RTN","VPRENC",179,0)
+NAME(X,DA) ; -- return container name for V-files
+"RTN","VPRENC",180,0)
+ N Y S Y=""
+"RTN","VPRENC",181,0)
+ I X="HF" D
+"RTN","VPRENC",182,0)
+ . N NM S NM=$$GET1^DIQ(9000010.23,+$G(DA),.01)
+"RTN","VPRENC",183,0)
+ . I $$FHX(NM) S Y="FamilyHistory^9000010.23" Q
+"RTN","VPRENC",184,0)
+ . I $$SHX(NM) S Y="SocialHistory^9000010.23" Q
+"RTN","VPRENC",185,0)
+ . ;S Y="HealthConcern^9000010.23"
+"RTN","VPRENC",186,0)
+ I X="IMM" S Y="Vaccination^9000010.11"
+"RTN","VPRENC",187,0)
+ I X="XAM" S Y="PhysicalExam^9000010.13"
+"RTN","VPRENC",188,0)
+ I X="POV" S Y="Diagnosis^9000010.07"
+"RTN","VPRENC",189,0)
+ ; X="CPT" S Y="Procedure^9000010.18"
+"RTN","VPRENC",190,0)
+ ; X="PED" S Y="education^9000010.16"
+"RTN","VPRENC",191,0)
+ ; X="SK"  S Y="Procedure^9000010.12"
+"RTN","VPRENC",192,0)
+ I X="APT" S Y="Appointment^2.98"
+"RTN","VPRENC",193,0)
+ I X="DOC" S Y="Document^8925"
+"RTN","VPRENC",194,0)
+ Q Y
+"RTN","VPRENC",195,0)
+ ;
+"RTN","VPRENC",196,0)
+FHX(X) ; -- return 1 or 0, if HF name is for FamilyHistory
+"RTN","VPRENC",197,0)
+ I X["FAMILY HISTORY" Q 1
+"RTN","VPRENC",198,0)
+ I X["FAMILY HX" Q 1
+"RTN","VPRENC",199,0)
+ Q 0
+"RTN","VPRENC",200,0)
+ ;
+"RTN","VPRENC",201,0)
+SHX(X) ; -- return 1 or 0, if HF name is for SocialHistory
+"RTN","VPRENC",202,0)
+ I (X["TOBACCO")!(X["SMOK") Q 1
+"RTN","VPRENC",203,0)
+ ; (X["LIVES")!(X["LIVING") Q 1
+"RTN","VPRENC",204,0)
+ ; (X["RELIGIO")!(X["SPIRIT") Q 1
+"RTN","VPRENC",205,0)
+ Q 0
+"RTN","VPRENC",206,0)
+ ;
+"RTN","VPRENC",207,0)
+ZERO(X,DA) ; -- return zero node
+"RTN","VPRENC",208,0)
+ N GBL,Y S Y=""
+"RTN","VPRENC",209,0)
+ S GBL="^AUPNV"_X,Y=$G(@GBL@(DA,0))
+"RTN","VPRENC",210,0)
+ Q Y
+"RTN","VPREVNT")
+0^2^B120515239^B123819975
+"RTN","VPREVNT",1,0)
+VPREVNT ;SLC/MKB -- VistA event listeners ;10/25/18  15:29
+"RTN","VPREVNT",2,0)
+ ;;1.0;VIRTUAL PATIENT RECORD;**8,10,15,17,19**;Sep 01, 2011;Build 5
+"RTN","VPREVNT",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","VPREVNT",4,0)
+ ;
+"RTN","VPREVNT",5,0)
+ ; External References          DBIA#
+"RTN","VPREVNT",6,0)
+ ; -------------------          -----
+"RTN","VPREVNT",7,0)
+ ; DG FIELD MONITOR              3344
+"RTN","VPREVNT",8,0)
+ ; DGPM MOVEMENT EVENTS          1181
+"RTN","VPREVNT",9,0)
+ ; FH EVSEND OR                  6097
+"RTN","VPREVNT",10,0)
+ ; GMPL EVENT                    6065
+"RTN","VPREVNT",11,0)
+ ; GMRA ENTERED IN ERROR         1467
+"RTN","VPREVNT",12,0)
+ ; GMRA SIGN-OFF ON DATA         1469
+"RTN","VPREVNT",13,0)
+ ; GMRC EVSEND OR                3140
+"RTN","VPREVNT",14,0)
+ ; IBCN NEW INSURANCE            7010
+"RTN","VPREVNT",15,0)
+ ; LR7O AP EVSEND OR             7011
+"RTN","VPREVNT",16,0)
+ ; LR70 CH EVSEND OR             6087
+"RTN","VPREVNT",17,0)
+ ; MDC OBSERVATION UPDATE        6084
+"RTN","VPREVNT",18,0)
+ ; OR EVSEND FH                  6090
+"RTN","VPREVNT",19,0)
+ ; OR EVSEND GMRC                3135
+"RTN","VPREVNT",20,0)
+ ; OR EVSEND LRCH                6091
+"RTN","VPREVNT",21,0)
+ ; OR EVSEND ORG                 6092
+"RTN","VPREVNT",22,0)
+ ; OR EVSEND PS                  6093
+"RTN","VPREVNT",23,0)
+ ; OR EVSEND RA                  6094
+"RTN","VPREVNT",24,0)
+ ; OR EVSEND VPR                 6095
+"RTN","VPREVNT",25,0)
+ ; PS EVSEND OR                  2415
+"RTN","VPREVNT",26,0)
+ ; PSB EVSEND VPR                6085
+"RTN","VPREVNT",27,0)
+ ; PXK VISIT DATA EVENT          1298
+"RTN","VPREVNT",28,0)
+ ; RA EVSEND OR                  6086
+"RTN","VPREVNT",29,0)
+ ; SCMC PATIENT TEAM CHANGES     7012
+"RTN","VPREVNT",30,0)
+ ; SCMC PATIENT TEAM POSITION    7013
+"RTN","VPREVNT",31,0)
+ ; SDAM APPOINTMENT EVENTS       1320
+"RTN","VPREVNT",32,0)
+ ; ^AUPNPROB                     5703
+"RTN","VPREVNT",33,0)
+ ; ^AUPNVSIT                     2028
+"RTN","VPREVNT",34,0)
+ ; ^DGPM                         1865
+"RTN","VPREVNT",35,0)
+ ; ^DPT                         10035
+"RTN","VPREVNT",36,0)
+ ; ^GMR(120.8                    6973
+"RTN","VPREVNT",37,0)
+ ; ^GMR(120.86                   3449
+"RTN","VPREVNT",38,0)
+ ; ^LR                            525
+"RTN","VPREVNT",39,0)
+ ; ^OR(100                       5771
+"RTN","VPREVNT",40,0)
+ ; ^PSB(53.79                    5909
+"RTN","VPREVNT",41,0)
+ ; ^RADPT                        2480
+"RTN","VPREVNT",42,0)
+ ; ^TIU(8925.1                   5677
+"RTN","VPREVNT",43,0)
+ ; %ZTLOAD                      10063
+"RTN","VPREVNT",44,0)
+ ; DIC                           2051
+"RTN","VPREVNT",45,0)
+ ; DIQ                           2056
+"RTN","VPREVNT",46,0)
+ ; PSSUTLA1                      3373
+"RTN","VPREVNT",47,0)
+ ; TIULX                         3058
+"RTN","VPREVNT",48,0)
+ ; VADPT2                         325
+"RTN","VPREVNT",49,0)
+ ; XLFDT                        10103
+"RTN","VPREVNT",50,0)
+ ;
+"RTN","VPREVNT",51,0)
+DG ; -- DG FIELD MONITOR protocol listener
+"RTN","VPREVNT",52,0)
+ N VPRFN S VPRFN=$G(DGFILE)
+"RTN","VPREVNT",53,0)
+ I "^2^2.01^2.02^2.06^38.1^"'[(U_VPRFN_U) Q
+"RTN","VPREVNT",54,0)
+ N DFN S DFN=+$G(DGDA)
+"RTN","VPREVNT",55,0)
+ ; collect individual fields into single tasked update if possible
+"RTN","VPREVNT",56,0)
+ D QUE^VPRHS(DFN) Q  ;skip fld check
+"RTN","VPREVNT",57,0)
+ I VPRFN=2 D:$$FLD(+$G(DGFIELD)) QUE^VPRHS(DFN) Q
+"RTN","VPREVNT",58,0)
+ D POST^VPRHS(DFN,"Patient",DFN_";2")
+"RTN","VPREVNT",59,0)
+ Q
+"RTN","VPREVNT",60,0)
+ ;
+"RTN","VPREVNT",61,0)
+FLD(X) ; -- Return 1 or 0, if X is a field tracked by VPR
+"RTN","VPREVNT",62,0)
+ ;    via DG FIELD MONITOR
+"RTN","VPREVNT",63,0)
+ S X=U_+$G(X)_U
+"RTN","VPREVNT",64,0)
+ I "^.01^.02^.03^.05^.07^.08^.09^.092^.093^.351^"[X Q 1     ;demographic
+"RTN","VPREVNT",65,0)
+ I "^.111^.1112^.112^.113^.114^.115^.131^.132^.134^"[X Q 1  ;addr/phone
+"RTN","VPREVNT",66,0)
+ I "^.211^.212^.213^.214^.216^.217^.218^.219^.21011^"[X Q 1 ;NOK
+"RTN","VPREVNT",67,0)
+ I "^.331^.332^.333^.334^.335^.336^.337^.338^.339^"[X Q 1   ;ECON
+"RTN","VPREVNT",68,0)
+ I "^.301^.302^.32102^.32103^.3215^.32201^.5295^"[X Q 1     ;serv conn
+"RTN","VPREVNT",69,0)
+ I "^.14^.323^.361^1901^"[X Q 1
+"RTN","VPREVNT",70,0)
+ Q 0
+"RTN","VPREVNT",71,0)
+ ;
+"RTN","VPREVNT",72,0)
+DGPM ; -- DGPM MOVEMENT EVENTS protocol listener
+"RTN","VPREVNT",73,0)
+ ;    [expects DFN,DGPM* variables]
+"RTN","VPREVNT",74,0)
+ I $$NEWINPT,$$ON^VPRHS,'$$SUBS^VPRHS(DFN) D NEW^VPRHS(DFN) Q
+"RTN","VPREVNT",75,0)
+ N ADM S ADM=DGPMDA
+"RTN","VPREVNT",76,0)
+ I DGPMT'=1 S ADM=$S(DGPMA:$P(DGPMA,U,14),1:$P(DGPMP,U,14)) Q:ADM<1
+"RTN","VPREVNT",77,0)
+ ; loop to find all Visits (have seen >1 per admission)
+"RTN","VPREVNT",78,0)
+ ; if no visit# yet, will be updated when assigned in PCE section
+"RTN","VPREVNT",79,0)
+ N ADM0,VAINDT,X,VPRI,PTF,DXLS
+"RTN","VPREVNT",80,0)
+ S ADM0=$G(^DGPM(+$G(ADM),0)),X=+ADM0
+"RTN","VPREVNT",81,0)
+ S VAINDT=(9999999-$P(X,"."))_"."_$P(X,".",2)
+"RTN","VPREVNT",82,0)
+ S VPRI=0 F  S VPRI=$O(^AUPNVSIT("AAH",DFN,VAINDT,VPRI)) Q:VPRI<1  D
+"RTN","VPREVNT",83,0)
+ . ; If Admission is deleted, update as Visit; else update as Admission
+"RTN","VPREVNT",84,0)
+ . I DGPMT=1,'DGPMA D POST^VPRHS(DFN,"Encounter",VPRI_";9000010") Q
+"RTN","VPREVNT",85,0)
+ . D POST^VPRHS(DFN,"Encounter",ADM_"~"_VPRI_";405")
+"RTN","VPREVNT",86,0)
+ . S PTF=$P(ADM0,U,16) Q:PTF<1
+"RTN","VPREVNT",87,0)
+ . S DXLS=$$GET1^DIQ(45,PTF,79,"I") Q:'DXLS
+"RTN","VPREVNT",88,0)
+ . D POST^VPRHS(DFN,"Diagnosis",PTF_U_DXLS_";45",,VPRI)
+"RTN","VPREVNT",89,0)
+ Q
+"RTN","VPREVNT",90,0)
+ ;
+"RTN","VPREVNT",91,0)
+NEWINPT() ; -- is DFN newly admitted?
+"RTN","VPREVNT",92,0)
+ N Y S Y=0
+"RTN","VPREVNT",93,0)
+ I DGPMT=1,DGPMA,'DGPMP,+$G(^DPT(DFN,.105))=DGPMDA S Y=1 ;new admission
+"RTN","VPREVNT",94,0)
+ Q Y
+"RTN","VPREVNT",95,0)
+ ;
+"RTN","VPREVNT",96,0)
+SDAM ; -- SDAM APPOINTMENT EVENTS protocol listener
+"RTN","VPREVNT",97,0)
+ N DFN,DATE,ACT Q:'$G(SDATA)
+"RTN","VPREVNT",98,0)
+ Q:$G(SDAMEVT)>5  ;only track make, cancel, no show, check in/out
+"RTN","VPREVNT",99,0)
+ ; quit if status has not changed
+"RTN","VPREVNT",100,0)
+ Q:$G(SDATA("BEFORE","STATUS"))=$G(SDATA("AFTER","STATUS"))
+"RTN","VPREVNT",101,0)
+ S DFN=+$P(SDATA,U,2) Q:DFN<1
+"RTN","VPREVNT",102,0)
+ S DATE=+$P(SDATA,U,3),ACT=$S($G(SDAMEVT)=2:"@",1:"")
+"RTN","VPREVNT",103,0)
+ D POST^VPRHS(DFN,"Appointment",(DATE_","_DFN_";2.98"),ACT)
+"RTN","VPREVNT",104,0)
+ Q
+"RTN","VPREVNT",105,0)
+ ;
+"RTN","VPREVNT",106,0)
+PCE ; -- PXK VISIT DATA EVENT protocol listener [moved to PX^VPRENC]
+"RTN","VPREVNT",107,0)
+ Q:'$P($G(^VPR(1,0)),U,2)  ;monitoring disabled
+"RTN","VPREVNT",108,0)
+ N VST,PX0A,PX0B,DFN,SUB,DA,ACT,X,VADMVT
+"RTN","VPREVNT",109,0)
+ S VST=+$O(^TMP("PXKCO",$J,0)) Q:VST<1
+"RTN","VPREVNT",110,0)
+ S PX0A=$G(^TMP("PXKCO",$J,VST,"VST",VST,0,"AFTER")),PX0B=$G(^("BEFORE"))
+"RTN","VPREVNT",111,0)
+ S DFN=$S($L(PX0A):+$P(PX0A,U,5),1:+$P(PX0B,U,5))
+"RTN","VPREVNT",112,0)
+ Q:DFN<1  Q:'$$VALID^VPRHS(DFN)
+"RTN","VPREVNT",113,0)
+ ; get or set up ^XTMP
+"RTN","VPREVNT",114,0)
+ S VPRPX=$NA(^XTMP("VPRPX"_DFN))
+"RTN","VPREVNT",115,0)
+ L +@VPRPX@(0):5 ;I'$T
+"RTN","VPREVNT",116,0)
+ ; if deleted within current session, kill VPRPX and Quit
+"RTN","VPREVNT",117,0)
+ I PX0A="",$G(@VPRPX@(VST)) K @VPRPX@(VST) L -@VPRPX@(0) Q
+"RTN","VPREVNT",118,0)
+ ; Visit file
+"RTN","VPREVNT",119,0)
+ I PX0A="" S @VPRPX@(VST)=$$NOW^XLFDT_U_VST_";9000010^@"
+"RTN","VPREVNT",120,0)
+ I PX0A D  ;new or updated visit
+"RTN","VPREVNT",121,0)
+ . I $P(PX0A,U,7)="H" D  ;find admission movement
+"RTN","VPREVNT",122,0)
+ .. N VAINDT S VAINDT=+PX0A D ADM^VADPT2
+"RTN","VPREVNT",123,0)
+ . S ID=$S($G(VADMVT):VADMVT_"~"_VST_";405",1:VST_";9000010")
+"RTN","VPREVNT",124,0)
+ . S @VPRPX@(VST)=$$NOW^XLFDT_U_ID
+"RTN","VPREVNT",125,0)
+ ; V-files
+"RTN","VPREVNT",126,0)
+ F SUB="IMM","XAM","POV","HF" D  ;"PED","SK","CPT"
+"RTN","VPREVNT",127,0)
+ . S DA=0 F  S DA=$O(^TMP("PXKCO",$J,VST,SUB,DA)) Q:DA<1  D
+"RTN","VPREVNT",128,0)
+ .. S ACT=$S($G(^TMP("PXKCO",$J,VST,SUB,DA,0,"AFTER")):"",1:"@")
+"RTN","VPREVNT",129,0)
+ .. S @VPRPX@(VST,SUB,DA)=ACT
+"RTN","VPREVNT",130,0)
+PCEQ ; task?
+"RTN","VPREVNT",131,0)
+ I '$G(@VPRPX@(0)) D QUE(DFN,10)
+"RTN","VPREVNT",132,0)
+ L -@VPRPX@(0)
+"RTN","VPREVNT",133,0)
+ Q
+"RTN","VPREVNT",134,0)
+ ;
+"RTN","VPREVNT",135,0)
+QUE(DFN,M) ; -- begin tasking to post encounters, documents
+"RTN","VPREVNT",136,0)
+ N ZTRTN,ZTDTH,ZTDESC,ZTIO,ZTSAVE,ZTUCI,ZTCPU,ZTPRI,ZTKIL,ZTSYNC,ZTSK
+"RTN","VPREVNT",137,0)
+ S ZTRTN="PX^VPRHS",ZTDTH=$$FMADD^XLFDT($$NOW^XLFDT,,,M)
+"RTN","VPREVNT",138,0)
+ S ZTDESC="VPR Encounter Session",ZTIO="",ZTSAVE("DFN")=""
+"RTN","VPREVNT",139,0)
+ S ^XTMP("VPRPX"_DFN,0)=$$FMADD^XLFDT(DT,1)_U_DT_"^Encounters for HealthShare"
+"RTN","VPREVNT",140,0)
+ D ^%ZTLOAD
+"RTN","VPREVNT",141,0)
+ Q
+"RTN","VPREVNT",142,0)
+ ;
+"RTN","VPREVNT",143,0)
+XQOR(MSG,FD) ; -- CPRS protocol event listener
+"RTN","VPREVNT",144,0)
+ ; FD   = frontdoor msg from CPRS (get ORIFN for new backdoor orders)
+"RTN","VPREVNT",145,0)
+ ; else = backdoor msg/ack from Pharmacy, Lab, Radiology, etc.
+"RTN","VPREVNT",146,0)
+ N VPRMSG,VPRPKG,VPRSDA,DFN,ORC,ACT
+"RTN","VPREVNT",147,0)
+ S VPRMSG=$S($L($G(MSG)):MSG,1:"MSG") Q:'$O(@VPRMSG@(0))
+"RTN","VPREVNT",148,0)
+ S DFN=$$PID Q:DFN<1
+"RTN","VPREVNT",149,0)
+ S ORC=0 F  S ORC=$O(@VPRMSG@(+ORC)) Q:ORC'>0  I $E($G(@VPRMSG@(ORC)),1,3)="ORC" D
+"RTN","VPREVNT",150,0)
+ . N ORDCNTRL,PKGIFN,ORIFN,STS
+"RTN","VPREVNT",151,0)
+ . S ORC=ORC_U_@VPRMSG@(ORC),ORDCNTRL=$TR($P(ORC,"|",2),"@","P")
+"RTN","VPREVNT",152,0)
+ . ; QUIT if action failed, conversion, purge, or backdoor verify/new
+"RTN","VPREVNT",153,0)
+ . I ORDCNTRL["U"!("DE^ZC^ZP^ZR^ZV^SN"[ORDCNTRL) Q
+"RTN","VPREVNT",154,0)
+ . I $G(FD),ORDCNTRL'="NA" Q  ;only want NA msg, from CPRS
+"RTN","VPREVNT",155,0)
+ . S ACT=$S(ORDCNTRL="OC":"@",1:"")
+"RTN","VPREVNT",156,0)
+ . ; Update *Order containers
+"RTN","VPREVNT",157,0)
+ . S ORIFN=+$P($P(ORC,"|",3),U),PKGIFN=$G(^OR(100,ORIFN,4))
+"RTN","VPREVNT",158,0)
+ . Q:$O(^OR(100,ORIFN,2,0))  ;should not be getting parent orders
+"RTN","VPREVNT",159,0)
+ . S STS=$P($G(^OR(100,ORIFN,3)),U,3) Q:STS=10  Q:STS=11
+"RTN","VPREVNT",160,0)
+ . S VPRPKG=$$NMSP(ORIFN),VPRSDA=$$ORDCONT(VPRPKG)
+"RTN","VPREVNT",161,0)
+ . D POST^VPRHS(DFN,VPRSDA,ORIFN_";100",ACT)
+"RTN","VPREVNT",162,0)
+ . I ORIFN D  ;update replaced order
+"RTN","VPREVNT",163,0)
+ .. N ORIG S ORIG=+$P($G(^OR(100,ORIFN,3)),U,5)
+"RTN","VPREVNT",164,0)
+ .. I ORIG D POST^VPRHS(DFN,VPRSDA,ORIG_";100")
+"RTN","VPREVNT",165,0)
+ . ; Update Referral or Document containers
+"RTN","VPREVNT",166,0)
+ . I VPRPKG="GMRC",PKGIFN D POST^VPRHS(DFN,"Referral",+PKGIFN_";123") Q
+"RTN","VPREVNT",167,0)
+ . Q:ORDCNTRL'="RE"
+"RTN","VPREVNT",168,0)
+ . I $E(VPRPKG,1,2)="RA" D RAD Q
+"RTN","VPREVNT",169,0)
+ . I $E(VPRPKG,1,2)="LR" D LRD Q
+"RTN","VPREVNT",170,0)
+ Q
+"RTN","VPREVNT",171,0)
+ ;
+"RTN","VPREVNT",172,0)
+NMSP(IFN) ; -- Returns package namespace from pointer
+"RTN","VPREVNT",173,0)
+ N X,Y S X=$P($G(^OR(100,+$G(IFN),0)),U,14)
+"RTN","VPREVNT",174,0)
+ S Y=$$GET1^DIQ(9.4,+X_",",1)
+"RTN","VPREVNT",175,0)
+ Q Y
+"RTN","VPREVNT",176,0)
+ ;
+"RTN","VPREVNT",177,0)
+ORDCONT(NMSP) ; -- Returns SDA Order container name
+"RTN","VPREVNT",178,0)
+ S NMSP=$G(NMSP)
+"RTN","VPREVNT",179,0)
+ I $E(NMSP,1,2)="LR"  Q "LabOrder"
+"RTN","VPREVNT",180,0)
+ I $E(NMSP,1,2)="PS"  Q "Medication"
+"RTN","VPREVNT",181,0)
+ I $E(NMSP,1,2)="RA"  Q "RadOrder"
+"RTN","VPREVNT",182,0)
+ Q "OtherOrder"
+"RTN","VPREVNT",183,0)
+ ;
+"RTN","VPREVNT",184,0)
+GMRC ; -- Referrals [from XQOR: no longer used]
+"RTN","VPREVNT",185,0)
+ N VST S VST=$$GET1^DIQ(123,+PKGIFN,"16:.03","I")
+"RTN","VPREVNT",186,0)
+ D POST^VPRHS(DFN,"Referral",+PKGIFN_";123",,VST)
+"RTN","VPREVNT",187,0)
+ ; update CP in Procedures?
+"RTN","VPREVNT",188,0)
+ I ORDCNTRL="RE",$$GET1^DIQ(123,+PKGIFN,1.01,"I") D  ;CP
+"RTN","VPREVNT",189,0)
+ . N VPRC,ID D FIND^DIC(702,,"@","Q",+PKGIFN,,"ACON",,,"VPRC")
+"RTN","VPREVNT",190,0)
+ . S I=0 F  S I=$O(VPRC("DILIST",2,I)) Q:I<1  D
+"RTN","VPREVNT",191,0)
+ .. S ID=+$G(VPRC("DILIST",2,I))
+"RTN","VPREVNT",192,0)
+ .. D POST^VPRHS(DFN,"Procedure",ID_";702",,VST)
+"RTN","VPREVNT",193,0)
+ Q
+"RTN","VPREVNT",194,0)
+ ;
+"RTN","VPREVNT",195,0)
+RAD ; -- Radiology documents
+"RTN","VPREVNT",196,0)
+ N IDT,RPT,I,X,STS,ACT
+"RTN","VPREVNT",197,0)
+ S IDT=+$O(^RADPT("AO",+PKGIFN,DFN,0)),I=0
+"RTN","VPREVNT",198,0)
+ ; find report(s) for order
+"RTN","VPREVNT",199,0)
+ F  S I=$O(^RADPT("AO",+PKGIFN,DFN,IDT,I)) Q:I<1  D
+"RTN","VPREVNT",200,0)
+ . S X=+$P($G(^RADPT(DFN,"DT",IDT,"P",I,0)),U,17) ;,VST=$P($G(^(0)),U,27)
+"RTN","VPREVNT",201,0)
+ . Q:'X  S STS=$$GET1^DIQ(74,X_",",5,"I"),ACT=""
+"RTN","VPREVNT",202,0)
+ . Q:STS'="V"&(STS'="EF")&(STS'="X")  I STS="X" S ACT="@"
+"RTN","VPREVNT",203,0)
+ . S:'$D(RPT(X)) RPT(X)=IDT_"-"_I ;S:VST VST(X)=VST
+"RTN","VPREVNT",204,0)
+ ; update Document container
+"RTN","VPREVNT",205,0)
+ S X=0 F  S X=$O(RPT(X)) Q:X<1  D POST^VPRHS(DFN,"Document",X_"~"_RPT(X)_";74",ACT)
+"RTN","VPREVNT",206,0)
+ Q
+"RTN","VPREVNT",207,0)
+ ;
+"RTN","VPREVNT",208,0)
+LRAP(MSG) ; -- LR7O AP EVSEND OR protocol listener
+"RTN","VPREVNT",209,0)
+ N VPRMSG,DFN,ORC
+"RTN","VPREVNT",210,0)
+ S VPRMSG=$S($L($G(MSG)):MSG,1:"MSG") Q:'$O(@VPRMSG@(0))
+"RTN","VPREVNT",211,0)
+ S DFN=$$PID Q:DFN<1
+"RTN","VPREVNT",212,0)
+ S ORC=0 F  S ORC=$O(@VPRMSG@(+ORC)) Q:ORC'>0  I $E($G(@VPRMSG@(ORC)),1,3)="ORC" D
+"RTN","VPREVNT",213,0)
+ . N ORDCNTRL,PKGIFN
+"RTN","VPREVNT",214,0)
+ . S ORC=ORC_U_@VPRMSG@(ORC),ORDCNTRL=$TR($P(ORC,"|",2),"@","P")
+"RTN","VPREVNT",215,0)
+ . Q:ORDCNTRL'="RE"  S PKGIFN=$P($P(ORC,"|",4),U)
+"RTN","VPREVNT",216,0)
+ . D LRD
+"RTN","VPREVNT",217,0)
+ Q
+"RTN","VPREVNT",218,0)
+ ;
+"RTN","VPREVNT",219,0)
+LRD ; -- AP/MI documents [from XQOR, LRAP: expects PKGIFN]
+"RTN","VPREVNT",220,0)
+ N SUB,IDT,LRDFN,X
+"RTN","VPREVNT",221,0)
+ S SUB=$P($G(PKGIFN),";",4),IDT=$P($G(PKGIFN),";",5)
+"RTN","VPREVNT",222,0)
+ Q:'IDT  Q:SUB=""  Q:SUB="CH"
+"RTN","VPREVNT",223,0)
+ S LRDFN=+$G(^DPT(DFN,"LR"))
+"RTN","VPREVNT",224,0)
+ I SUB'="MI" Q:$O(^LR(LRDFN,SUB,IDT,.05,0))  ;report in TIU
+"RTN","VPREVNT",225,0)
+ Q:'$P($G(^LR(LRDFN,SUB,IDT,0)),U,3)         ;report not complete
+"RTN","VPREVNT",226,0)
+ S X=IDT_","_LRDFN_"~"_SUB_";"_$S(SUB="MI":63.05,1:63.08)
+"RTN","VPREVNT",227,0)
+ D POST^VPRHS(DFN,"Document",X)
+"RTN","VPREVNT",228,0)
+ Q
+"RTN","VPREVNT",229,0)
+ ;
+"RTN","VPREVNT",230,0)
+PID() ; -- Returns patient from PID segment in current msg
+"RTN","VPREVNT",231,0)
+ N I,SEG,Y S I=0
+"RTN","VPREVNT",232,0)
+ F  S I=$O(@VPRMSG@(I)) Q:I'>0  S SEG=$E($G(@VPRMSG@(I)),1,3) Q:SEG="ORC"  I SEG="PID" D  Q
+"RTN","VPREVNT",233,0)
+ . S Y=+$P(@VPRMSG@(I),"|",4)
+"RTN","VPREVNT",234,0)
+ .;I '$D(^DPT(Y,0)) S:$L($P(@VPRMSG@(I),"|",5)) Y=+$P(@VPRMSG@(I),"|",5) ;alt ID for Lab
+"RTN","VPREVNT",235,0)
+ Q Y
+"RTN","VPREVNT",236,0)
+ ;
+"RTN","VPREVNT",237,0)
+PSB ; -- VPR PSB EVENTS protocol listener (BCMA)
+"RTN","VPREVNT",238,0)
+ N IEN,DFN,ORPK,ORIFN
+"RTN","VPREVNT",239,0)
+ S IEN=$S($P($G(PSBIEN),",",2)'="":+$P(PSBIEN,",",2),$G(PSBIEN)="+1":+$G(PSBIEN(1)),1:+$G(PSBIEN))
+"RTN","VPREVNT",240,0)
+ S DFN=+$G(^PSB(53.79,IEN,0)),ORPK=$P($G(^(.1)),U)
+"RTN","VPREVNT",241,0)
+ Q:DFN<1  Q:ORPK<1
+"RTN","VPREVNT",242,0)
+ S ORIFN=$S($L($T(PLACER^PSSUTLA1)):$$PLACER^PSSUTLA1(DFN,ORPK),1:0)
+"RTN","VPREVNT",243,0)
+ D:ORIFN POST^VPRHS(DFN,"Medication",ORIFN_";100")
+"RTN","VPREVNT",244,0)
+ Q
+"RTN","VPREVNT",245,0)
+ ;
+"RTN","VPREVNT",246,0)
+GMRA(ACT) ; -- GMRA SIGN-OFF ON DATA protocol listener
+"RTN","VPREVNT",247,0)
+ ;   also GMRA ENTERED IN ERROR [ACT=@]
+"RTN","VPREVNT",248,0)
+ N DFN,IEN,NEW,I
+"RTN","VPREVNT",249,0)
+ S DFN=+$G(GMRAPA(0)),IEN=+$G(GMRAPA)
+"RTN","VPREVNT",250,0)
+ D POST^VPRHS(DFN,"Allergy",IEN_";120.8") ;,$G(ACT))
+"RTN","VPREVNT",251,0)
+ ; update assessment?
+"RTN","VPREVNT",252,0)
+ I $G(ACT)="@" D:'$P($G(^GMR(120.86,DFN,0)),U,2) POST^VPRHS(DFN,"Allergy",DFN_";120.86")
+"RTN","VPREVNT",253,0)
+ I $G(ACT)="" D  D:NEW POST^VPRHS(DFN,"Allergy",DFN_";120.86","@")
+"RTN","VPREVNT",254,0)
+ . S NEW=1,I=0 ;is the current allergy the first, only active one?
+"RTN","VPREVNT",255,0)
+ . F  S I=$O(^GMR(120.8,"B",DFN,I)) Q:I<1  I I'=IEN,'$G(^GMR(120.8,I,"ER")) S NEW=0 Q
+"RTN","VPREVNT",256,0)
+ Q
+"RTN","VPREVNT",257,0)
+ ;
+"RTN","VPREVNT",258,0)
+GMRASMT(DFN) ; -- GMRAHDR Allergy Assessment listener
+"RTN","VPREVNT",259,0)
+ N ACT S ACT=$S($P($G(^GMR(120.86,DFN,0)),U,2):"@",1:"")
+"RTN","VPREVNT",260,0)
+ D POST^VPRHS(DFN,"Allergy",DFN_";120.86",ACT)
+"RTN","VPREVNT",261,0)
+ Q
+"RTN","VPREVNT",262,0)
+ ;
+"RTN","VPREVNT",263,0)
+GMPL(DFN,IEN) ; -- GMPL EVENT protocol listener
+"RTN","VPREVNT",264,0)
+ S DFN=+$G(DFN),IEN=+$G(IEN)
+"RTN","VPREVNT",265,0)
+ N ACT S ACT=$S($P($G(^AUPNPROB(IEN,1)),U,2)="H":"@",1:"")
+"RTN","VPREVNT",266,0)
+ D POST^VPRHS(DFN,"Problem",IEN_";9000011",ACT)
+"RTN","VPREVNT",267,0)
+ Q
+"RTN","VPREVNT",268,0)
+ ;
+"RTN","VPREVNT",269,0)
+GMRV(DFN,IEN,ERR) ; -- Vital Measurement file #120.5 AVPR index
+"RTN","VPREVNT",270,0)
+ S DFN=+$G(DFN),IEN=+$G(IEN)
+"RTN","VPREVNT",271,0)
+ N ACT S ACT=$S($G(ERR):"@",1:"")
+"RTN","VPREVNT",272,0)
+ D POST^VPRHS(DFN,"Observation",IEN_";120.5",ACT)
+"RTN","VPREVNT",273,0)
+ Q
+"RTN","VPREVNT",274,0)
+ ;
+"RTN","VPREVNT",275,0)
+MDC(OBS) ; -- MDC OBSERVATION UPDATE protocol listener [not in use]
+"RTN","VPREVNT",276,0)
+ N DFN,ID,ACT
+"RTN","VPREVNT",277,0)
+ S DFN=+$G(OBS("PATIENT_ID","I")) Q:DFN<1
+"RTN","VPREVNT",278,0)
+ S ID=$G(OBS("OBS_ID","I")) Q:'$L(ID)
+"RTN","VPREVNT",279,0)
+ S ACT=$S('$G(OBS("STATUS","I")):"@",1:"")
+"RTN","VPREVNT",280,0)
+ D POST^VPRHS(DFN,"Observation",ID_";704.117",ACT)
+"RTN","VPREVNT",281,0)
+ ;I $G(OBS("DOMAIN","VITALS")) D POST^VPRHS(DFN,"Observation",ID,ACT)
+"RTN","VPREVNT",282,0)
+ Q
+"RTN","VPREVNT",283,0)
+ ;
+"RTN","VPREVNT",284,0)
+CP(DFN,ID,ACT) ; -- CP Transaction file #702 AVPR index
+"RTN","VPREVNT",285,0)
+ ; via VPRPROC [not in use]
+"RTN","VPREVNT",286,0)
+ S DFN=+$G(DFN),ID=+$G(ID)
+"RTN","VPREVNT",287,0)
+ N VST S VST=$$GET1^DIQ(702,ID,".06:.03","I")
+"RTN","VPREVNT",288,0)
+ D POST^VPRHS(DFN,"Procedure",ID_";702",$G(ACT),VST)
+"RTN","VPREVNT",289,0)
+ Q
+"RTN","VPREVNT",290,0)
+ ;
+"RTN","VPREVNT",291,0)
+TIU(DFN,IEN) ; -- TIU Document file #8925 AEVT index
+"RTN","VPREVNT",292,0)
+ N ACT,STS,DAD
+"RTN","VPREVNT",293,0)
+ S DFN=+$G(DFN),IEN=+$G(IEN),ACT="" Q:IEN<1
+"RTN","VPREVNT",294,0)
+ Q:DFN<1  Q:'$$VALID^VPRHS(DFN)  ;not subscribed
+"RTN","VPREVNT",295,0)
+ S STS=$G(X(2)),DAD=$G(X(3))     ;X = FM data array for index
+"RTN","VPREVNT",296,0)
+ I STS<7 Q                       ;not complete
+"RTN","VPREVNT",297,0)
+ I STS=9 Q                       ;archived, leave in cache
+"RTN","VPREVNT",298,0)
+ S:DAD IEN=DAD I 'DAD D          ;if addendum, repull entire note
+"RTN","VPREVNT",299,0)
+ . I STS>13 S ACT="@"            ;deleted or retracted
+"RTN","VPREVNT",300,0)
+ . I $G(X2(1))="" S ACT="@"      ;deleted (new title = null)
+"RTN","VPREVNT",301,0)
+ ;
+"RTN","VPREVNT",302,0)
+ ; add to ^XTMP("VPRPX") temporary list w/encounters
+"RTN","VPREVNT",303,0)
+ D TIU^VPRENC(IEN,ACT)
+"RTN","VPREVNT",304,0)
+ ;
+"RTN","VPREVNT",305,0)
+ ; update alert containers if CWD
+"RTN","VPREVNT",306,0)
+ I $$ISA^TIULX(IEN,27) D POST^VPRHS(DFN,"AdvanceDirective") Q  ;rebuild
+"RTN","VPREVNT",307,0)
+ I $$ISA^TIULX(IEN,30) D POST^VPRHS(DFN,"Alert",IEN_"^C;8925",ACT) Q
+"RTN","VPREVNT",308,0)
+ I $$ISA^TIULX(IEN,31) D POST^VPRHS(DFN,"Alert",IEN_"^W;8925",ACT)
+"RTN","VPREVNT",309,0)
+ Q
+"RTN","VPREVNT",310,0)
+ ;
+"RTN","VPREVNT",311,0)
+LR() ; -- Return ien of Lab class
+"RTN","VPREVNT",312,0)
+ N Y S Y=+$O(^TIU(8925.1,"B","LR LABORATORY REPORTS",0))
+"RTN","VPREVNT",313,0)
+ I Y>0,$S($P($G(^TIU(8925.1,Y,0)),U,4)="CL":0,$P($G(^(0)),U,4)="DC":0,1:1) S Y=0
+"RTN","VPREVNT",314,0)
+ Q Y
+"RTN","VPREVNT",315,0)
+ ;
+"RTN","VPREVNT",316,0)
+IBCN ; -- IBCN NEW INSURANCE EVENTS listener
+"RTN","VPREVNT",317,0)
+ I $G(DFN) D POST^VPRHS(DFN,"MemberEnrollment") ;rebuild container
+"RTN","VPREVNT",318,0)
+ Q
+"RTN","VPREVNT",319,0)
+ ;
+"RTN","VPREVNT",320,0)
+PCMMT ; -- SCMC PATIENT TEAM CHANGES protocol listener
+"RTN","VPREVNT",321,0)
+ I '$G(SCPCTM) Q  ;not pc change
+"RTN","VPREVNT",322,0)
+ N DFN S DFN=$S($G(SCPTTMAF):+SCPTTMAF,1:+$G(SCPTTMB4)) Q:'DFN
+"RTN","VPREVNT",323,0)
+ D POST^VPRHS(DFN,"Patient",DFN_";2")
+"RTN","VPREVNT",324,0)
+ Q
+"RTN","VPREVNT",325,0)
+ ;
+"RTN","VPREVNT",326,0)
+PCMMTP ; -- SCMC PATIENT TEAM POSITION CHANGES protocol listener
+"RTN","VPREVNT",327,0)
+ I '$G(SCPCTP) Q  ;not pc change
+"RTN","VPREVNT",328,0)
+ N TM,DFN
+"RTN","VPREVNT",329,0)
+ S TM=$S($G(SCPTTPAF):+SCPTTPAF,1:+$G(SCPTTPB4)) Q:'TM
+"RTN","VPREVNT",330,0)
+ S DFN=+$$GET1^DIQ(404.42,TM_",",.01,"I")
+"RTN","VPREVNT",331,0)
+ D POST^VPRHS(DFN,"Patient",DFN_";2")
+"RTN","VPREVNT",332,0)
+ Q
+"RTN","VPREVNT",333,0)
+ ;
+"RTN","VPREVNT",334,0)
+ ; Deprecated calls:
+"RTN","VPREVNT",335,0)
+ ;
+"RTN","VPREVNT",336,0)
+DOCDEF(IEN) ; -- TIU Document Definition file #8925.1 AVPR index
+"RTN","VPREVNT",337,0)
+ Q
+"RTN","VPREVNT",338,0)
+ ;
+"RTN","VPREVNT",339,0)
+DOCITM(DAD) ; -- TIU Document Def'n Items subfile #8925.14 AVPR1 index
+"RTN","VPREVNT",340,0)
+ Q
+"RTN","VPREVNT",341,0)
+ ;
+"RTN","VPREVNT",342,0)
+USR(IEN) ; -- USR Authorization/Subscription file #8930.1 AVPR index
+"RTN","VPREVNT",343,0)
+ Q
+"RTN","VPREVNT",344,0)
+ ;
+"RTN","VPREVNT",345,0)
+XU(IEN,ACT) ; -- XU USER ADD/CHANGE/TERMINATE option listener
+"RTN","VPREVNT",346,0)
+ Q
+"RTN","VPRHS")
+0^3^B80745038^B80485929
+"RTN","VPRHS",1,0)
+VPRHS ;SLC/MKB -- HealthShare utilities ;10/25/18  15:29
+"RTN","VPRHS",2,0)
+ ;;1.0;VIRTUAL PATIENT RECORD;**8,10,15,16,17,19**;Sep 01, 2011;Build 5
+"RTN","VPRHS",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","VPRHS",4,0)
+ ;
+"RTN","VPRHS",5,0)
+ ; External References          DBIA#
+"RTN","VPRHS",6,0)
+ ; -------------------          -----
+"RTN","VPRHS",7,0)
+ ; ^DDE                          7014
+"RTN","VPRHS",8,0)
+ ; ^DGS(41.1                     3796
+"RTN","VPRHS",9,0)
+ ; ^DPT                         10035
+"RTN","VPRHS",10,0)
+ ; %ZTLOAD                      10063
+"RTN","VPRHS",11,0)
+ ; DDE                           7008
+"RTN","VPRHS",12,0)
+ ; DIC                           2051
+"RTN","VPRHS",13,0)
+ ; DIQ                           2056
+"RTN","VPRHS",14,0)
+ ; MPIF001                       2701
+"RTN","VPRHS",15,0)
+ ; SDAMA301                      4433
+"RTN","VPRHS",16,0)
+ ; TIULQ                         2693
+"RTN","VPRHS",17,0)
+ ; VADPT                         3744
+"RTN","VPRHS",18,0)
+ ; XLFDT                        10103
+"RTN","VPRHS",19,0)
+ ; XUPROD                        4440
+"RTN","VPRHS",20,0)
+ ;
+"RTN","VPRHS",21,0)
+ Q
+"RTN","VPRHS",22,0)
+ ;
+"RTN","VPRHS",23,0)
+ON() ; -- return 1 or 0, if monitoring is on
+"RTN","VPRHS",24,0)
+ Q $P($G(^VPR(1,0)),U,2)
+"RTN","VPRHS",25,0)
+ ;
+"RTN","VPRHS",26,0)
+EN(DFN) ; -- subscribe a patient for data event monitoring
+"RTN","VPRHS",27,0)
+ Q:'$G(DFN)  Q:$D(^VPR(1,2,+DFN,0))
+"RTN","VPRHS",28,0)
+ S ^VPR(1,2,+DFN,0)=+DFN,^VPR(1,2,"B",+DFN,+DFN)=""
+"RTN","VPRHS",29,0)
+ Q
+"RTN","VPRHS",30,0)
+ ;
+"RTN","VPRHS",31,0)
+UN(DFN) ; -- unsubscribe
+"RTN","VPRHS",32,0)
+ Q:'$G(DFN)  Q:'$D(^VPR(1,2,+DFN,0))
+"RTN","VPRHS",33,0)
+ K ^VPR(1,2,+DFN,0),^VPR(1,2,"B",+DFN,+DFN)
+"RTN","VPRHS",34,0)
+ Q
+"RTN","VPRHS",35,0)
+ ;
+"RTN","VPRHS",36,0)
+SUBS(DFN) ; -- return 1 or 0, if patient is subscribed or not
+"RTN","VPRHS",37,0)
+ Q $D(^VPR(1,2,+$G(DFN),0))
+"RTN","VPRHS",38,0)
+ ;
+"RTN","VPRHS",39,0)
+QUE(DFN) ; -- create task to POST a Patient update
+"RTN","VPRHS",40,0)
+ Q:'$P($G(^VPR(1,0)),U,2)       ;monitoring disabled
+"RTN","VPRHS",41,0)
+ Q:DFN<1  Q:'$$SUBS(DFN)        ;not subscribed
+"RTN","VPRHS",42,0)
+ Q:$P($G(^VPR(1,2,DFN,0)),U,2)  ;task exists
+"RTN","VPRHS",43,0)
+ ; create task
+"RTN","VPRHS",44,0)
+ N ZTRTN,ZTDTH,ZTDESC,ZTIO,ZTSAVE,ZTUCI,ZTCPU,ZTPRI,ZTKIL,ZTSYNC,ZTSK
+"RTN","VPRHS",45,0)
+ S ZTRTN="PAT^VPRHS",ZTDTH=$$FMADD^XLFDT($$NOW^XLFDT,,,10)
+"RTN","VPRHS",46,0)
+ S ZTDESC="Task single VPR SDA Patient Container update"
+"RTN","VPRHS",47,0)
+ S ZTIO="",ZTSAVE("DFN")="" D ^%ZTLOAD
+"RTN","VPRHS",48,0)
+ S:$G(ZTSK)>0 $P(^VPR(1,2,DFN,0),U,2)=ZTSK
+"RTN","VPRHS",49,0)
+ Q
+"RTN","VPRHS",50,0)
+ ;
+"RTN","VPRHS",51,0)
+PAT ; -- post Patient update [TASK]
+"RTN","VPRHS",52,0)
+ Q:'$P($G(^VPR(1,0)),U,2)                ;monitoring disabled
+"RTN","VPRHS",53,0)
+ S DFN=+$G(DFN) Q:DFN<1  Q:'$$SUBS(DFN)  ;not subscribed
+"RTN","VPRHS",54,0)
+ D POST(DFN,"Patient",DFN_";2")
+"RTN","VPRHS",55,0)
+ S $P(^VPR(1,2,DFN,0),U,2)="",ZTREQ="@"  ;clear task
+"RTN","VPRHS",56,0)
+ Q
+"RTN","VPRHS",57,0)
+ ;
+"RTN","VPRHS",58,0)
+PX ; -- post an encounter update [TASK - moving to HS^VPRENC]
+"RTN","VPRHS",59,0)
+ N VST,VPRPX,VPRDT,X0,X,VFL,VDA S ZTREQ="@"
+"RTN","VPRHS",60,0)
+ Q:'$P($G(^VPR(1,0)),U,2)  ;monitoring disabled
+"RTN","VPRHS",61,0)
+ S DFN=+$G(DFN) Q:DFN<1
+"RTN","VPRHS",62,0)
+ S VPRPX=$NA(^XTMP("VPRPX"_DFN)),VPRDT=$$FMADD^XLFDT($$NOW^XLFDT,,,-10)
+"RTN","VPRHS",63,0)
+ L +@VPRPX@(0):5 I '$T G PXQ
+"RTN","VPRHS",64,0)
+ ; post visits that have been stable for at least 10 minutes
+"RTN","VPRHS",65,0)
+ S VST=0 F  S VST=$O(@VPRPX@(VST)) Q:VST<1  D
+"RTN","VPRHS",66,0)
+ . S X0=$G(@VPRPX@(VST)) Q:+X0>VPRDT   ;still waiting
+"RTN","VPRHS",67,0)
+ . D POST(DFN,"Encounter",$P(X0,U,2),$P(X0,U,3))
+"RTN","VPRHS",68,0)
+ . ; post related v-file records next
+"RTN","VPRHS",69,0)
+ . S VFL="" F  S VFL=$O(@VPRPX@(VST,VFL)) Q:VFL=""  D
+"RTN","VPRHS",70,0)
+ .. S VDA=0 F  S VDA=$O(@VPRPX@(VST,VFL,VDA)) Q:VDA<1  D
+"RTN","VPRHS",71,0)
+ ... S X=$$NAME(VFL,VDA) I X="" K @VPRPX@(VST,VFL) Q
+"RTN","VPRHS",72,0)
+ ... S ACT=$G(@VPRPX@(VST,VFL,VDA))
+"RTN","VPRHS",73,0)
+ ... D POST(DFN,$P(X,U),(VDA_";"_$P(X,U,2)),ACT,VST)
+"RTN","VPRHS",74,0)
+ ... ;I VFL="HF",X["History" D POST(DFN,"HealthConcern",(VDA_";9000010.23"),ACT,VST)
+"RTN","VPRHS",75,0)
+ . K @VPRPX@(VST)
+"RTN","VPRHS",76,0)
+PXD ; look for waiting documents
+"RTN","VPRHS",77,0)
+ S VDA=0 F  S VDA=$O(@VPRPX@("DOC",VDA)) Q:VDA<1  D
+"RTN","VPRHS",78,0)
+ . N VPRTIU,PROC,I
+"RTN","VPRHS",79,0)
+ . S ACT=$G(@VPRPX@("DOC",VDA))        ;ACT=#tries[^@]
+"RTN","VPRHS",80,0)
+ . D EXTRACT^TIULQ(VDA,"VPRTIU",,".03;1405",,1,"I")
+"RTN","VPRHS",81,0)
+ . S VST=$G(VPRTIU(VDA,.03,"I"))
+"RTN","VPRHS",82,0)
+ . ; Quit if no visit yet, or still in ^XTMP
+"RTN","VPRHS",83,0)
+ . I (VST&$G(@VPRPX@(+VST)))!((VST<1)&(+ACT<5)) D  Q
+"RTN","VPRHS",84,0)
+ .. N X S X=+ACT,$P(ACT,U)=(X+1)
+"RTN","VPRHS",85,0)
+ .. S @VPRPX@("DOC",VDA)=ACT
+"RTN","VPRHS",86,0)
+ . D POST(DFN,"Document",VDA_";8925",$P(ACT,U,2),VST)
+"RTN","VPRHS",87,0)
+ . K @VPRPX@("DOC",VDA)
+"RTN","VPRHS",88,0)
+ . S PROC=$G(VPRTIU(VDA,1405,"I")) Q:'PROC  Q:'VST
+"RTN","VPRHS",89,0)
+ . I PROC["SRF" D POST(DFN,"Procedure",+PROC_";130",,VST) Q
+"RTN","VPRHS",90,0)
+ . I PROC["GMR",$$GET1^DIQ(123,+PROC,1.01,"I") D  ;CP
+"RTN","VPRHS",91,0)
+ .. N VPRC,ID D FIND^DIC(702,,"@","Q",+PROC,,"ACON",,,"VPRC")
+"RTN","VPRHS",92,0)
+ .. S I=0 F  S I=$O(VPRC("DILIST",2,I)) Q:I<1  D
+"RTN","VPRHS",93,0)
+ ... S ID=+$G(VPRC("DILIST",2,I))
+"RTN","VPRHS",94,0)
+ ... D POST(DFN,"Procedure",ID_";702",,VST)
+"RTN","VPRHS",95,0)
+ L -@VPRPX@(0)
+"RTN","VPRHS",96,0)
+PXQ ; re-task if not done
+"RTN","VPRHS",97,0)
+ I $O(@VPRPX@(0))="" K @VPRPX Q
+"RTN","VPRHS",98,0)
+ D QUE^VPREVNT(DFN,5)
+"RTN","VPRHS",99,0)
+ Q
+"RTN","VPRHS",100,0)
+ ;
+"RTN","VPRHS",101,0)
+NAME(X,DA) ; -- return container name for V-files
+"RTN","VPRHS",102,0)
+ N Y S Y=""
+"RTN","VPRHS",103,0)
+ I X="HF" D
+"RTN","VPRHS",104,0)
+ . N NM S NM=$$GET1^DIQ(9000010.23,+$G(DA),.01)
+"RTN","VPRHS",105,0)
+ . I $$FHX(NM) S Y="FamilyHistory^9000010.23" Q
+"RTN","VPRHS",106,0)
+ . I $$SHX(NM) S Y="SocialHistory^9000010.23" Q
+"RTN","VPRHS",107,0)
+ . ;S Y="HealthConcern^9000010.23"
+"RTN","VPRHS",108,0)
+ I X="IMM" S Y="Vaccination^9000010.11"
+"RTN","VPRHS",109,0)
+ I X="XAM" S Y="PhysicalExam^9000010.13"
+"RTN","VPRHS",110,0)
+ I X="POV" S Y="Diagnosis^9000010.07"
+"RTN","VPRHS",111,0)
+ ; X="CPT" S Y="Procedure^9000010.18"
+"RTN","VPRHS",112,0)
+ ; X="PED" S Y="education^9000010.16"
+"RTN","VPRHS",113,0)
+ ; X="SK"  S Y="Procedure^9000010.12"
+"RTN","VPRHS",114,0)
+ Q Y
+"RTN","VPRHS",115,0)
+ ;
+"RTN","VPRHS",116,0)
+FHX(X) ; -- return 1 or 0, if HF name is for FamilyHistory
+"RTN","VPRHS",117,0)
+ I X["FAMILY HISTORY" Q 1
+"RTN","VPRHS",118,0)
+ I X["FAMILY HX" Q 1
+"RTN","VPRHS",119,0)
+ Q 0
+"RTN","VPRHS",120,0)
+ ;
+"RTN","VPRHS",121,0)
+SHX(X) ; -- return 1 or 0, if HF name is for SocialHistory
+"RTN","VPRHS",122,0)
+ I (X["TOBACCO")!(X["SMOK") Q 1
+"RTN","VPRHS",123,0)
+ ; (X["LIVES")!(X["LIVING") Q 1
+"RTN","VPRHS",124,0)
+ ; (X["RELIGIO")!(X["SPIRIT") Q 1
+"RTN","VPRHS",125,0)
+ Q 0
+"RTN","VPRHS",126,0)
+ ;
+"RTN","VPRHS",127,0)
+VALID(PAT) ; -- return 1 or 0, if valid patient for HealthShare
+"RTN","VPRHS",128,0)
+ I $G(^DPT(PAT,.35)) Q 0                   ;death date
+"RTN","VPRHS",129,0)
+ I $$TESTPAT^VADPT(PAT),$$PROD^XUPROD Q 0  ;no test pats in prod
+"RTN","VPRHS",130,0)
+ I $$MERGED(PAT) Q 0                       ;no merged-from pats
+"RTN","VPRHS",131,0)
+ I '$G(^DPT(DFN,"MPI")) Q 0                ;no ICN
+"RTN","VPRHS",132,0)
+ Q 1
+"RTN","VPRHS",133,0)
+ ;
+"RTN","VPRHS",134,0)
+POST(DFN,TYPE,ID,ACT,VST) ; -- post an update to
+"RTN","VPRHS",135,0)
+ ;  ^VPR(1,2,DFN,"AVPR",TYPE,ID) = seq# ^ U/D ^ VISIT#
+"RTN","VPRHS",136,0)
+ ;  ^VPR("AVPR",seq#,DFN) = ICN ^ TYPE ^ ID ^ U/D ^ VISIT#
+"RTN","VPRHS",137,0)
+ Q:'$P($G(^VPR(1,0)),U,2)                   ;monitoring disabled
+"RTN","VPRHS",138,0)
+ S DFN=+$G(DFN),TYPE=$G(TYPE),ID=$G(ID)
+"RTN","VPRHS",139,0)
+ Q:DFN<1  Q:TYPE=""                         ;incomplete request
+"RTN","VPRHS",140,0)
+ I $$TESTPAT^VADPT(DFN),$$PROD^XUPROD Q     ;no test pats in prod
+"RTN","VPRHS",141,0)
+ I $$MERGED(DFN) Q                          ;no merged-from pats
+"RTN","VPRHS",142,0)
+ N ICN S ICN=$$GETICN^MPIF001(DFN) Q:ICN<0  ;ICN required
+"RTN","VPRHS",143,0)
+ ; add to ^VPR if not subscribed, not dead
+"RTN","VPRHS",144,0)
+ I '$$SUBS(DFN),'$G(^DPT(DFN,.35)) D NEW(DFN,ICN) Q
+"RTN","VPRHS",145,0)
+ S ACT=$S($G(ACT)="@":"D",1:"U")
+"RTN","VPRHS",146,0)
+P1 ;may enter here from VPRHSX manual update option
+"RTN","VPRHS",147,0)
+ N SEQ S SEQ=$$NUM
+"RTN","VPRHS",148,0)
+ S ^VPR("AVPR",SEQ,DFN)=ICN_U_$G(TYPE)_U_$G(ID)_U_$G(ACT)_U_$G(VST)
+"RTN","VPRHS",149,0)
+ ; use * for subscript (whole container) if ID is null
+"RTN","VPRHS",150,0)
+ S ^VPR(1,2,DFN,"AVPR",TYPE,$S($G(ID)="":"*",1:ID))=SEQ_U_$G(ACT)_U_$G(VST)
+"RTN","VPRHS",151,0)
+ Q
+"RTN","VPRHS",152,0)
+ ;
+"RTN","VPRHS",153,0)
+NUM() ; -- return existing SEQ of record, or increment
+"RTN","VPRHS",154,0)
+ ; SAC EXEMPTION 2019-04-29 : Use of $I
+"RTN","VPRHS",155,0)
+ N X,Y S X=$S(ID="":"*",1:ID)
+"RTN","VPRHS",156,0)
+ S Y=+$G(^VPR(1,2,DFN,"AVPR",TYPE,X)) I '$D(^VPR("AVPR",Y,DFN)) S Y=0
+"RTN","VPRHS",157,0)
+ I Y'>0 S Y=$I(^VPR(1,1))
+"RTN","VPRHS",158,0)
+ Q Y
+"RTN","VPRHS",159,0)
+ ;
+"RTN","VPRHS",160,0)
+NEW(DFN,ICN) ; -- post a new patient to 
+"RTN","VPRHS",161,0)
+ ; ^VPR(1,2,DFN,"ANEW")  = seq#
+"RTN","VPRHS",162,0)
+ ; ^VPR("ANEW",seq#,DFN) = ICN
+"RTN","VPRHS",163,0)
+ Q:$G(DFN)<1  Q:$G(^VPR(1,2,DFN,"ANEW"))
+"RTN","VPRHS",164,0)
+ I $G(ICN)<1 S ICN=$$GETICN^MPIF001(DFN) Q:ICN<0
+"RTN","VPRHS",165,0)
+ N SEQ S SEQ=$I(^VPR(1,1))
+"RTN","VPRHS",166,0)
+ S ^VPR("ANEW",SEQ,DFN)=ICN,^VPR(1,2,DFN,"ANEW")=SEQ
+"RTN","VPRHS",167,0)
+ Q
+"RTN","VPRHS",168,0)
+ ;
+"RTN","VPRHS",169,0)
+DEL(LIST,SEQ) ; -- remove ^VPR(LIST,SEQ) nodes
+"RTN","VPRHS",170,0)
+ N DFN,DATA,TYPE,ID
+"RTN","VPRHS",171,0)
+ S LIST=$G(LIST),SEQ=+$G(SEQ) Q:LIST=""  Q:SEQ<1
+"RTN","VPRHS",172,0)
+ S DFN=+$O(^VPR(LIST,SEQ,0)) I DFN<1 Q
+"RTN","VPRHS",173,0)
+ I LIST="ANEW" K ^VPR("ANEW",SEQ,DFN),^VPR(1,2,DFN,"ANEW") Q
+"RTN","VPRHS",174,0)
+ S DATA=$G(^VPR(LIST,SEQ,DFN)) K ^VPR("AVPR",SEQ,DFN)
+"RTN","VPRHS",175,0)
+ S TYPE=$P(DATA,U,2) Q:TYPE=""  ;error
+"RTN","VPRHS",176,0)
+ S ID=$P(DATA,U,3) S:ID="" ID="*"
+"RTN","VPRHS",177,0)
+ K ^VPR(1,2,DFN,"AVPR",TYPE,ID)
+"RTN","VPRHS",178,0)
+ Q
+"RTN","VPRHS",179,0)
+ ;
+"RTN","VPRHS",180,0)
+MERGED(DFN) ; -- return 1 or 0, if patient is being merged
+"RTN","VPRHS",181,0)
+ I $P($G(^DPT(+$G(DFN),0)),U)["MERGING INTO" Q 1
+"RTN","VPRHS",182,0)
+ I $G(^DPT(+$G(DFN),-9)) Q 1
+"RTN","VPRHS",183,0)
+ Q 0
+"RTN","VPRHS",184,0)
+ ;
+"RTN","VPRHS",185,0)
+GET(DFN,NAME,ID,VPRQ,MTYPE,VPRY,VPRR) ; -- return VistA data in @VPRY@(#)
+"RTN","VPRHS",186,0)
+ N ICN,VPRNM,VPRFN,VPRE,VPRI,VPRJ,VPRN,VPRX,VPRZ,VPRMAX
+"RTN","VPRHS",187,0)
+ ;
+"RTN","VPRHS",188,0)
+ ; define default return arrays
+"RTN","VPRHS",189,0)
+ S VPRY=$G(VPRY,$NA(^TMP("VPR GET",$J))),VPRI=0 K @VPRY
+"RTN","VPRHS",190,0)
+ S VPRR=$G(VPRR,$NA(^TMP("VPR ERR",$J))),VPRJ=0 K @VPRR
+"RTN","VPRHS",191,0)
+ ;
+"RTN","VPRHS",192,0)
+ ; validate/set up input parameters
+"RTN","VPRHS",193,0)
+ S DFN=$G(DFN),ICN=$P(DFN,";",2),DFN=+DFN
+"RTN","VPRHS",194,0)
+ I DFN<1!'$D(^DPT(DFN)) D ERROR("Invalid patient DFN") G GTQ
+"RTN","VPRHS",195,0)
+ I $P($G(^DPT(DFN,0)),U)["MERGING INTO" D ERROR($P($G(^DPT(DFN,0)),U)) G GTQ
+"RTN","VPRHS",196,0)
+ I $G(^DPT(DFN,-9)) D ERROR("MERGED INTO `"_$G(^DPT(DFN,-9))) G GTQ
+"RTN","VPRHS",197,0)
+ S VPRQ("patient")=DFN
+"RTN","VPRHS",198,0)
+ ;
+"RTN","VPRHS",199,0)
+ S VPRNM=$G(NAME) I VPRNM="" D ERROR("Undefined container") G GTQ
+"RTN","VPRHS",200,0)
+ S ID=$G(ID),MTYPE=$G(MTYPE,1) ;XML
+"RTN","VPRHS",201,0)
+ I VPRNM="Patient",'ID&DFN S ID=DFN_";2"
+"RTN","VPRHS",202,0)
+ I VPRNM'="Patient",$G(VPRQ("patch"))'="" S VPRNM=VPRNM_VPRQ("patch")
+"RTN","VPRHS",203,0)
+ I $G(VPRQ("max")) S VPRMAX=VPRQ("max")
+"RTN","VPRHS",204,0)
+ ;
+"RTN","VPRHS",205,0)
+GT1 ; update one record for ECR
+"RTN","VPRHS",206,0)
+ I ID'="" D  G GTQ
+"RTN","VPRHS",207,0)
+ . S VPRFN=$P(ID,";",2),ID=$P(ID,";")
+"RTN","VPRHS",208,0)
+ . S VPRE=+$O(^DDE("SDA",VPRNM,VPRFN,0))
+"RTN","VPRHS",209,0)
+ . I 'VPRE D ERROR("Missing Entity for "_VPRNM_" file #"_VPRFN) Q
+"RTN","VPRHS",210,0)
+ . S VPRI=VPRI+1,@VPRY@(VPRI)=$$GET1^DDE(VPRE,ID,.VPRQ,MTYPE,.VPRR)
+"RTN","VPRHS",211,0)
+ . S VPRJ=+$O(@VPRR@("A"),-1) ;#errors
+"RTN","VPRHS",212,0)
+ ;
+"RTN","VPRHS",213,0)
+ ; pre-load of whole container for patient
+"RTN","VPRHS",214,0)
+ S VPRX=$NA(^TMP("VPRHS",$J)),VPRZ=$NA(^TMP("VPRHS ERR",$J))
+"RTN","VPRHS",215,0)
+ S VPRFN=0 F  S VPRFN=$O(^DDE("SDA",VPRNM,VPRFN)) Q:VPRFN<1  D
+"RTN","VPRHS",216,0)
+ . S VPRE=$O(^DDE("SDA",VPRNM,VPRFN,0)) K @VPRX,@VPRZ
+"RTN","VPRHS",217,0)
+ . I 'VPRE D ERROR("Missing Entity for "_VPRNM_" file #"_VPRFN) Q
+"RTN","VPRHS",218,0)
+ . D GET^DDE(VPRE,,.VPRQ,MTYPE,.VPRMAX,.VPRX,.VPRZ)
+"RTN","VPRHS",219,0)
+ . S VPRN=0 F  S VPRN=$O(@VPRX@(VPRN)) Q:VPRN<1  S VPRI=VPRI+1,@VPRY@(VPRI)=@VPRX@(VPRN)
+"RTN","VPRHS",220,0)
+ . S VPRN=0 F  S VPRN=$O(@VPRZ@(VPRN)) Q:VPRN<1  S VPRJ=VPRJ+1,@VPRR@(VPRJ)=@VPRZ@(VPRN)
+"RTN","VPRHS",221,0)
+ K @VPRX,@VPRZ
+"RTN","VPRHS",222,0)
+ ;
+"RTN","VPRHS",223,0)
+GTQ ; return data and exit
+"RTN","VPRHS",224,0)
+ S @VPRY@(0)=VPRI,@VPRR@(0)=VPRJ
+"RTN","VPRHS",225,0)
+ Q
+"RTN","VPRHS",226,0)
+ ;
+"RTN","VPRHS",227,0)
+ERROR(MSG) ; -- return error MSG
+"RTN","VPRHS",228,0)
+ S VPRJ=+$G(VPRJ)+1
+"RTN","VPRHS",229,0)
+ S @VPRR@(VPRJ)=$G(MSG)
+"RTN","VPRHS",230,0)
+ Q
+"RTN","VPRHS",231,0)
+ ;
+"RTN","VPRHS",232,0)
+ ;
+"RTN","VPRHS",233,0)
+ACTIVE ; -- find currently non-deceased, active patients
+"RTN","VPRHS",234,0)
+ N DFN S DFN=0
+"RTN","VPRHS",235,0)
+ F  S DFN=$O(^DPT(DFN)) Q:DFN<1  I '$G(^DPT(DFN,.35)) D
+"RTN","VPRHS",236,0)
+ . I $G(^DPT(DFN,.105)) D POST(DFN,"*") Q
+"RTN","VPRHS",237,0)
+ . I $O(^DPT(DFN,"S",DT)) D POST(DFN,"*")
+"RTN","VPRHS",238,0)
+ Q
+"RTN","VPRHS",239,0)
+ ;
+"RTN","VPRHS",240,0)
+APPTS(BEG,END,VPRY) ; -- return patients w/appointments
+"RTN","VPRHS",241,0)
+ N VPRX,VPRN,DFN,VPRDT,VPRI,VPRA
+"RTN","VPRHS",242,0)
+ S VPRY=$G(VPRY,$NA(^TMP("VPR PATS",$J))) K @VPRY
+"RTN","VPRHS",243,0)
+ I '$G(BEG) D   ;default = tomorrow, if not passed in
+"RTN","VPRHS",244,0)
+ . S BEG=$$FMADD^XLFDT(DT,1),END=BEG
+"RTN","VPRHS",245,0)
+ ; find patients with appointments
+"RTN","VPRHS",246,0)
+ S END=$G(END,BEG),VPRX(1)=BEG_";"_END
+"RTN","VPRHS",247,0)
+ S VPRX("SORT")="P",VPRX("FLDS")=1,VPRX(3)="R;I;NT"
+"RTN","VPRHS",248,0)
+ S VPRI=$$SDAPI^SDAMA301(.VPRX),VPRN=0 K VPRX
+"RTN","VPRHS",249,0)
+ S DFN=0 F  S DFN=$O(^TMP($J,"SDAMA301",DFN)) Q:DFN<1  S VPRX(DFN)=""
+"RTN","VPRHS",250,0)
+ ; find patients scheduled for admission
+"RTN","VPRHS",251,0)
+ S VPRDT=0 F  S VPRDT=$O(^DGS(41.1,"C",VPRDT)) Q:VPRDT<1!(VPRDT>END)  D
+"RTN","VPRHS",252,0)
+ . S VPRI=0 F  S VPRI=$O(^DGS(41.1,"C",VPRDT,VPRI)) Q:VPRI<1  D
+"RTN","VPRHS",253,0)
+ .. S VPRA=$G(^DGS(41.1,VPRI))
+"RTN","VPRHS",254,0)
+ .. Q:$P(VPRA,U,13)  Q:$P(VPRA,U,17)  ;cancelled or admitted
+"RTN","VPRHS",255,0)
+ .. S DFN=+VPRA S:DFN VPRX(DFN)=""
+"RTN","VPRHS",256,0)
+ ; build return array
+"RTN","VPRHS",257,0)
+ S (DFN,VPRN)=0
+"RTN","VPRHS",258,0)
+ F  S DFN=$O(VPRX(DFN)) Q:DFN<1  S VPRN=VPRN+1,@VPRY@(VPRN)=DFN
+"RTN","VPRHS",259,0)
+ S @VPRY@(0)=VPRN
+"RTN","VPRHS",260,0)
+ K ^TMP($J,"SDAMA301")
+"RTN","VPRHS",261,0)
+ Q
+"RTN","VPRHS",262,0)
+ ;
+"RTN","VPRHS",263,0)
+INPTS(VPRY) ; -- return current inpatients
+"RTN","VPRHS",264,0)
+ N DGPM,DFN,VPRN
+"RTN","VPRHS",265,0)
+ S VPRY=$G(VPRY,$NA(^TMP("VPR PATS",$J))),VPRN=0 K @VPRY
+"RTN","VPRHS",266,0)
+ S DGPM=0 F  S DGPM=$O(^DPT("ACA",DGPM)) Q:DGPM<1  D
+"RTN","VPRHS",267,0)
+ . S DFN=0 F  S DFN=$O(^DPT("ACA",DGPM,DFN)) Q:DFN<1  S VPRN=VPRN+1,@VPRY@(VPRN)=DFN
+"RTN","VPRHS",268,0)
+ S @VPRY@(0)=VPRN
+"RTN","VPRHS",269,0)
+ Q
+"VER")
+8.0^22.2
+"BLD",9487,6)
+^16
+**END**
+**END**
+

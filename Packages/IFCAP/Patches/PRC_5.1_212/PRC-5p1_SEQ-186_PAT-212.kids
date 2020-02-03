@@ -1,0 +1,681 @@
+Released PRC*5.1*212 SEQ #186
+Extracted from mail message
+**KIDS**:PRC*5.1*212^
+
+**INSTALL NAME**
+PRC*5.1*212
+"BLD",11505,0)
+PRC*5.1*212^IFCAP^0^3190808^y
+"BLD",11505,1,0)
+^^2^2^3190808^
+"BLD",11505,1,1,0)
+This patch adds the national option IFCAP USERS BY ROLES COUNTS [PRCHUSER 
+"BLD",11505,1,2,0)
+ROLE COUNTS], which can be scheduled to run quarterly. 
+"BLD",11505,4,0)
+^9.64PA^^
+"BLD",11505,6.3)
+5
+"BLD",11505,"INID")
+^n
+"BLD",11505,"INIT")
+
+"BLD",11505,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11505,"KRN",.4,0)
+.4
+"BLD",11505,"KRN",.401,0)
+.401
+"BLD",11505,"KRN",.402,0)
+.402
+"BLD",11505,"KRN",.403,0)
+.403
+"BLD",11505,"KRN",.5,0)
+.5
+"BLD",11505,"KRN",.84,0)
+.84
+"BLD",11505,"KRN",1.5,0)
+1.5
+"BLD",11505,"KRN",1.6,0)
+1.6
+"BLD",11505,"KRN",1.61,0)
+1.61
+"BLD",11505,"KRN",1.62,0)
+1.62
+"BLD",11505,"KRN",3.6,0)
+3.6
+"BLD",11505,"KRN",3.8,0)
+3.8
+"BLD",11505,"KRN",9.2,0)
+9.2
+"BLD",11505,"KRN",9.8,0)
+9.8
+"BLD",11505,"KRN",9.8,"NM",0)
+^9.68A^2^1
+"BLD",11505,"KRN",9.8,"NM",2,0)
+PRC5129^^0^B62441943
+"BLD",11505,"KRN",9.8,"NM","B","PRC5129",2)
+
+"BLD",11505,"KRN",19,0)
+19
+"BLD",11505,"KRN",19,"NM",0)
+^9.68A^1^1
+"BLD",11505,"KRN",19,"NM",1,0)
+PRCHUSER ROLE COUNTS^^0
+"BLD",11505,"KRN",19,"NM","B","PRCHUSER ROLE COUNTS",1)
+
+"BLD",11505,"KRN",19.1,0)
+19.1
+"BLD",11505,"KRN",101,0)
+101
+"BLD",11505,"KRN",409.61,0)
+409.61
+"BLD",11505,"KRN",771,0)
+771
+"BLD",11505,"KRN",779.2,0)
+779.2
+"BLD",11505,"KRN",870,0)
+870
+"BLD",11505,"KRN",8989.51,0)
+8989.51
+"BLD",11505,"KRN",8989.52,0)
+8989.52
+"BLD",11505,"KRN",8994,0)
+8994
+"BLD",11505,"KRN","B",.4,.4)
+
+"BLD",11505,"KRN","B",.401,.401)
+
+"BLD",11505,"KRN","B",.402,.402)
+
+"BLD",11505,"KRN","B",.403,.403)
+
+"BLD",11505,"KRN","B",.5,.5)
+
+"BLD",11505,"KRN","B",.84,.84)
+
+"BLD",11505,"KRN","B",1.5,1.5)
+
+"BLD",11505,"KRN","B",1.6,1.6)
+
+"BLD",11505,"KRN","B",1.61,1.61)
+
+"BLD",11505,"KRN","B",1.62,1.62)
+
+"BLD",11505,"KRN","B",3.6,3.6)
+
+"BLD",11505,"KRN","B",3.8,3.8)
+
+"BLD",11505,"KRN","B",9.2,9.2)
+
+"BLD",11505,"KRN","B",9.8,9.8)
+
+"BLD",11505,"KRN","B",19,19)
+
+"BLD",11505,"KRN","B",19.1,19.1)
+
+"BLD",11505,"KRN","B",101,101)
+
+"BLD",11505,"KRN","B",409.61,409.61)
+
+"BLD",11505,"KRN","B",771,771)
+
+"BLD",11505,"KRN","B",779.2,779.2)
+
+"BLD",11505,"KRN","B",870,870)
+
+"BLD",11505,"KRN","B",8989.51,8989.51)
+
+"BLD",11505,"KRN","B",8989.52,8989.52)
+
+"BLD",11505,"KRN","B",8994,8994)
+
+"BLD",11505,"QUES",0)
+^9.62^^
+"BLD",11505,"REQB",0)
+^9.611^1^1
+"BLD",11505,"REQB",1,0)
+PRC*5.1*29^1
+"BLD",11505,"REQB","B","PRC*5.1*29",1)
+
+"KRN",19,14408,-1)
+0^1
+"KRN",19,14408,0)
+PRCHUSER ROLE COUNTS^IFCAP Users by Roles Counts^^R^^^^^^^^IFCAP
+"KRN",19,14408,1,0)
+^19.06^2^2^3190507^^^
+"KRN",19,14408,1,1,0)
+This option produces a report and data on the number of IFCAP users
+"KRN",19,14408,1,2,0)
+by role within station.
+"KRN",19,14408,25)
+POST^PRC5129
+"KRN",19,14408,200.9)
+y
+"KRN",19,14408,"U")
+IFCAP USERS BY ROLES COUNTS
+"MBREQ")
+0
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",455,-1)
+1^1
+"PKG",455,0)
+IFCAP^PRC^IFCAP System Files
+"PKG",455,22,0)
+^9.49I^1^1
+"PKG",455,22,1,0)
+5.1
+"PKG",455,22,1,"PAH",1,0)
+212^3190808
+"PKG",455,22,1,"PAH",1,1,0)
+^^2^2^3190808
+"PKG",455,22,1,"PAH",1,1,1,0)
+This patch adds the national option IFCAP USERS BY ROLES COUNTS [PRCHUSER 
+"PKG",455,22,1,"PAH",1,1,2,0)
+ROLE COUNTS], which can be scheduled to run quarterly. 
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","PRC5129")
+0^2^B62441943^n/a
+"RTN","PRC5129",1,0)
+PRC5129 ;(WOIFO)/SU-Extract IFCAP user counts ; 04/09/2001  03:30 PM
+"RTN","PRC5129",2,0)
+V ;;5.1;IFCAP;**29,212**;Oct 20, 2000;Build 5
+"RTN","PRC5129",3,0)
+ ;Per VA Directive 6402, this routine should not be modified.
+"RTN","PRC5129",4,0)
+ ;
+"RTN","PRC5129",5,0)
+POST ;
+"RTN","PRC5129",6,0)
+ ;
+"RTN","PRC5129",7,0)
+ ;Patch PRC*5.1*212 is converting this to a national option
+"RTN","PRC5129",8,0)
+ ;
+"RTN","PRC5129",9,0)
+ NEW PRCI,PRCJ,PRCK,PRCIE,PRCFCP,PRCDONE,PRCSTA,PRCESTA,PRCIVP,PRCLOA,PRCLC,PRCFDT,PRCMGR,XMSUB,XMTEXT,XMY
+"RTN","PRC5129",10,0)
+ NEW DIFROM
+"RTN","PRC5129",11,0)
+ S U="^",DT=$$DT^XLFDT
+"RTN","PRC5129",12,0)
+ K ^TMP("PRC5129")
+"RTN","PRC5129",13,0)
+FCP ;
+"RTN","PRC5129",14,0)
+ ;     Control Point
+"RTN","PRC5129",15,0)
+ S PRCI=0 F  S PRCI=$O(^PRC(420,"C",PRCI)) Q:'PRCI  D
+"RTN","PRC5129",16,0)
+ . S PRCSTA=0 F  S PRCSTA=$O(^PRC(420,"C",PRCI,PRCSTA)) Q:'PRCSTA  D
+"RTN","PRC5129",17,0)
+ .. S PRCFCP=0,PRCK=4,PRCDONE=0
+"RTN","PRC5129",18,0)
+ .. F  S PRCFCP=$O(^PRC(420,"C",PRCI,PRCSTA,PRCFCP)) Q:'PRCFCP!PRCDONE  D
+"RTN","PRC5129",19,0)
+ ... ;  skip Inactive Fund
+"RTN","PRC5129",20,0)
+ ... I $P(^PRC(420,PRCSTA,1,PRCFCP,0),"^",19) Q
+"RTN","PRC5129",21,0)
+ ... ;  get control point Level Of Access
+"RTN","PRC5129",22,0)
+ ... S PRCLOA=$P($G(^PRC(420,PRCSTA,1,PRCFCP,1,PRCI,0)),"^",2)
+"RTN","PRC5129",23,0)
+ ... I PRCLOA>3!'PRCLOA Q
+"RTN","PRC5129",24,0)
+ ... I PRCK>PRCLOA S PRCK=PRCLOA   ; PRCK only keep the highest level of access
+"RTN","PRC5129",25,0)
+ ... I PRCLOA=1 S PRCDONE=1   ; Stop here if find official level
+"RTN","PRC5129",26,0)
+ .. I PRCK'=4 D SETP(PRCK)
+"RTN","PRC5129",27,0)
+ ;
+"RTN","PRC5129",28,0)
+INV ;
+"RTN","PRC5129",29,0)
+ ;      Inventory
+"RTN","PRC5129",30,0)
+ ;
+"RTN","PRC5129",31,0)
+ ;   sort user by station # through "AD",DUZ x-ref
+"RTN","PRC5129",32,0)
+ S PRCI=0 F  S PRCI=$O(^PRCP(445,"AD",PRCI)) Q:'PRCI  D
+"RTN","PRC5129",33,0)
+ . S PRCIVP=0 K PRCMGR              ;get inv pointer
+"RTN","PRC5129",34,0)
+ . F  S PRCIVP=$O(^PRCP(445,"AD",PRCI,PRCIVP)) Q:'PRCIVP  D
+"RTN","PRC5129",35,0)
+ .. S PRCJ=$P($G(^PRCP(445,PRCIVP,0)),"^",3) Q:PRCJ=""        ; get Inv type PRC*5.1*212 ADD $G
+"RTN","PRC5129",36,0)
+ .. S PRCSTA=+$G(^PRCP(445,PRCIVP,0)) Q:PRCSTA=""             ; get station number PRC*5.1*212 ADD $G
+"RTN","PRC5129",37,0)
+ .. S ^TMP("PRC5129",$J,"INV",PRCSTA,PRCI,PRCJ)=""
+"RTN","PRC5129",38,0)
+ ;
+"RTN","PRC5129",39,0)
+ S PRCSTA=0 F  S PRCSTA=$O(^TMP("PRC5129",$J,"INV",PRCSTA)) Q:'PRCSTA  D
+"RTN","PRC5129",40,0)
+ . S PRCI=0 F  S PRCI=$O(^TMP("PRC5129",$J,"INV",PRCSTA,PRCI)) Q:'PRCI  D
+"RTN","PRC5129",41,0)
+ .. S PRCJ="" F  S PRCJ=$O(^TMP("PRC5129",$J,"INV",PRCSTA,PRCI,PRCJ)) Q:PRCJ=""  D
+"RTN","PRC5129",42,0)
+ ... I PRCJ="W" D                                  ; Warehouse
+"RTN","PRC5129",43,0)
+ .... D SETP(7)                                 ;   user
+"RTN","PRC5129",44,0)
+ .... I $D(^XUSEC("PRCPW MGRKEY",PRCI)) D SETP(4)  ;   manager
+"RTN","PRC5129",45,0)
+ ... I PRCJ="P" D                                  ; Primary
+"RTN","PRC5129",46,0)
+ .... D SETP(8)                                 ;   user
+"RTN","PRC5129",47,0)
+ .... I $D(^XUSEC("PRCP MGRKEY",PRCI)) D SETP(5)   ;   manager
+"RTN","PRC5129",48,0)
+ ... I PRCJ="S" D                                  ; Secondary
+"RTN","PRC5129",49,0)
+ .... D SETP(9)                                 ;   user
+"RTN","PRC5129",50,0)
+ .... I $D(^XUSEC("PRCP2 MGRKEY",PRCI)) D SETP(6)  ;   manager
+"RTN","PRC5129",51,0)
+ ;
+"RTN","PRC5129",52,0)
+PRCH ;
+"RTN","PRC5129",53,0)
+ ;    purchasing
+"RTN","PRC5129",54,0)
+ ;
+"RTN","PRC5129",55,0)
+ ;  get IFCAP primary station number   (assume only one primary)
+"RTN","PRC5129",56,0)
+ S PRCSTA=+$O(^PRC(411,"AC","Y",0))
+"RTN","PRC5129",57,0)
+ ;
+"RTN","PRC5129",58,0)
+ ;  get default station for Engineering (piece 17, ^XTV(8989.3,1,"XUS"))
+"RTN","PRC5129",59,0)
+ S PRCESTA=$$GET1^DIQ(4,$$KSP^XUPARAM("INST")_",",99)
+"RTN","PRC5129",60,0)
+ ;
+"RTN","PRC5129",61,0)
+ S PRCI=0 F  S PRCI=$O(^VA(200,PRCI)) Q:'PRCI  D
+"RTN","PRC5129",62,0)
+ . ;  Purchasing
+"RTN","PRC5129",63,0)
+ . S PRCJ=+$G(^VA(200,PRCI,400))
+"RTN","PRC5129",64,0)
+ . I PRCJ,PRCJ<5 D
+"RTN","PRC5129",65,0)
+ .. I PRCJ=1 D SETP(13)           ; Warehouse Employee
+"RTN","PRC5129",66,0)
+ .. I PRCJ=2 D SETP(10)           ; PPM Accountable Officer
+"RTN","PRC5129",67,0)
+ .. I PRCJ=3 D SETP(11)           ; Purchasing Agent
+"RTN","PRC5129",68,0)
+ .. I PRCJ=4 D SETP(12)           ; Supply Manager
+"RTN","PRC5129",69,0)
+ . ;   Engineering
+"RTN","PRC5129",70,0)
+ . ;                Logic copied from ENZACC2 by Scott Baumann
+"RTN","PRC5129",71,0)
+ . S PRCK=0 I $$ACCESS^XQCHK(PRCI,"ENINVNEW")>0 D SETE(1) S PRCK=1
+"RTN","PRC5129",72,0)
+ . I 'PRCK,$$ACCESS^XQCHK(PRCI,"ENINVINV")>0 D SETE(2) S PRCK=1
+"RTN","PRC5129",73,0)
+ . I $$ACCESS^XQCHK(PRCI,"ENSPROOM")>0 D SETE(4) S PRCK=1
+"RTN","PRC5129",74,0)
+ . I $$ACCESS^XQCHK(PRCI,"ENWONEW")>0 D SETE(3) S $E(PRCK,2)=1
+"RTN","PRC5129",75,0)
+ . I '$E(PRCK,2),$$ACCESS^XQCHK(PRCI,"ENWOCLOSE")>0 D SETE(3) S $E(PRCK,2)=1
+"RTN","PRC5129",76,0)
+ . I +PRCK D SETE(5)
+"RTN","PRC5129",77,0)
+ .  ; if none of the first 5 case is true or
+"RTN","PRC5129",78,0)
+ .  ; case SETE(3) is not true but other case is true
+"RTN","PRC5129",79,0)
+ . I ($E(PRCK,2)'=1&+PRCK)!'PRCK I $$ACCESS^XQCHK(PRCI,"ENWONEW-WARD")>0 D SETE(6)
+"RTN","PRC5129",80,0)
+ . ; count Accounting Staff 1 time only per station
+"RTN","PRC5129",81,0)
+ . I $D(^XUSEC("PRCFA SUPERVISOR",PRCI)) D SETP(15) Q
+"RTN","PRC5129",82,0)
+ . I $D(^XUSEC("PRCFA TRANSMIT",PRCI)) D SETP(15) Q
+"RTN","PRC5129",83,0)
+ . I $D(^XUSEC("PRCFA VENDOR EDIT",PRCI)) D SETP(15) Q
+"RTN","PRC5129",84,0)
+ . I $D(^XUSEC("PRCFA PURGE CODE SHEETS",PRCI)) D SETP(15) Q
+"RTN","PRC5129",85,0)
+ ;
+"RTN","PRC5129",86,0)
+ ;
+"RTN","PRC5129",87,0)
+BUDGET ;
+"RTN","PRC5129",88,0)
+ S PRCSTA=0 F  S PRCSTA=$O(^PRC(420,PRCSTA)) Q:'PRCSTA  D
+"RTN","PRC5129",89,0)
+ . S PRCI=0 F  S PRCI=$O(^PRC(420,PRCSTA,2,PRCI)) Q:'PRCI  D SETP(14)
+"RTN","PRC5129",90,0)
+ ;
+"RTN","PRC5129",91,0)
+ACNT ;
+"RTN","PRC5129",92,0)
+ ;   Accounting
+"RTN","PRC5129",93,0)
+ S PRCSTA=0 F  S PRCSTA=$O(^PRC(411,"AE",1,PRCSTA)) Q:'PRCSTA!(PRCSTA>999)  D
+"RTN","PRC5129",94,0)
+ . S PRCI=0 F  S PRCI=$O(^PRC(411,PRCSTA,6,PRCI)) Q:'PRCI  D SETP(15)
+"RTN","PRC5129",95,0)
+ ;
+"RTN","PRC5129",96,0)
+PCARD ;
+"RTN","PRC5129",97,0)
+ ;   Purchase Card
+"RTN","PRC5129",98,0)
+ S PRCJ=0 F  S PRCJ=$O(^PRC(440.5,PRCJ)) Q:'PRCJ  S PRCK=$G(^(PRCJ,0)) D 
+"RTN","PRC5129",99,0)
+ . S PRCSTA=$P($G(^PRC(440.5,PRCJ,2)),"^",3) Q:'PRCSTA
+"RTN","PRC5129",100,0)
+ . I $P(^PRC(440.5,PRCJ,2),"^",2)="Y" Q    ; if Inactive flag set to 'Y'
+"RTN","PRC5129",101,0)
+ . S PRCI=$P(PRCK,"^",8) I PRCI D SETP(16)       ; Purchase card holder
+"RTN","PRC5129",102,0)
+ . S PRCI=$P(PRCK,"^",9) I PRCI D SETP(18)       ; P card approving officer
+"RTN","PRC5129",103,0)
+ . S PRCI=$P(PRCK,"^",10) I PRCI D SETP(19)      ; Alt. P card approving officer
+"RTN","PRC5129",104,0)
+ . ;   Get surrogate user which is not the card holder
+"RTN","PRC5129",105,0)
+ . S PRCI=0 F  S PRCI=$O(^PRC(440.5,PRCJ,1,PRCI)) Q:'PRCI  D:$P(PRCK,"^",8)'=PRCI SETP(17)
+"RTN","PRC5129",106,0)
+ ;
+"RTN","PRC5129",107,0)
+ D RPT
+"RTN","PRC5129",108,0)
+EXIT ;
+"RTN","PRC5129",109,0)
+ K ^TMP("PRC5129")
+"RTN","PRC5129",110,0)
+ Q
+"RTN","PRC5129",111,0)
+ ;
+"RTN","PRC5129",112,0)
+RPT ;
+"RTN","PRC5129",113,0)
+ ;   Generate report from ^TMP("PRC5129")
+"RTN","PRC5129",114,0)
+ ;     1. count from ^TMP
+"RTN","PRC5129",115,0)
+ F PRCIE="I","E" D
+"RTN","PRC5129",116,0)
+ . S PRCSTA=0 F  S PRCSTA=$O(^TMP("PRC5129",$J,PRCIE,PRCSTA)) Q:'PRCSTA  D
+"RTN","PRC5129",117,0)
+ .. K PRCFDT S (PRCFDT,PRCI)=0
+"RTN","PRC5129",118,0)
+ .. F  S PRCI=$O(^TMP("PRC5129",$J,PRCIE,PRCSTA,PRCI)) Q:'PRCI  S PRCJ=$G(^(PRCI)) D
+"RTN","PRC5129",119,0)
+ ... F PRCK=1:1:$S(PRCIE="I":19,1:6) I $P(PRCJ,"^",PRCK) S PRCFDT(PRCK)=$G(PRCFDT(PRCK))+1
+"RTN","PRC5129",120,0)
+ ... S:PRCIE="I" PRCFDT=PRCFDT+1
+"RTN","PRC5129",121,0)
+ .. F PRCK=1:1:$S(PRCIE="I":19,1:6) D
+"RTN","PRC5129",122,0)
+ ... S $P(^TMP("PRC5129",$J,PRCIE,PRCSTA),"^",PRCK)=$G(PRCFDT(PRCK))
+"RTN","PRC5129",123,0)
+ .. I PRCIE="I" S $P(^TMP("PRC5129",$J,"I",PRCSTA),"^",20)=PRCFDT
+"RTN","PRC5129",124,0)
+ ;     2. format report using local array
+"RTN","PRC5129",125,0)
+ K PRCFDT S PRCLC=1,PRCFDT(PRCLC)="$REPORT"
+"RTN","PRC5129",126,0)
+ F PRCIE="I","E" D
+"RTN","PRC5129",127,0)
+ . S PRCSTA=0 F  S PRCSTA=$O(^TMP("PRC5129",$J,PRCIE,PRCSTA)) Q:'PRCSTA  S PRCI=$G(^(PRCSTA)) D
+"RTN","PRC5129",128,0)
+ .. I PRCLC>1 F PRCJ=1:1:3 S PRCLC=PRCLC+1,PRCFDT(PRCLC)=""
+"RTN","PRC5129",129,0)
+ .. S PRCLC=PRCLC+1,PRCFDT(PRCLC)="   "_$S(PRCIE="I":"IFCAP",1:"ENGINEERING")_" USERS BY ROLE"
+"RTN","PRC5129",130,0)
+ .. S PRCLC=PRCLC+1,PRCFDT(PRCLC)="   STATION #: "_PRCSTA
+"RTN","PRC5129",131,0)
+ .. S PRCLC=PRCLC+1,PRCFDT(PRCLC)="       Role"_$J("Count",38)
+"RTN","PRC5129",132,0)
+ .. F PRCK=1:1:$S(PRCIE="I":19,1:4) D 
+"RTN","PRC5129",133,0)
+ ... S:PRCIE="I" PRCJ=$P($T(FORMAT+PRCK),";;",2)
+"RTN","PRC5129",134,0)
+ ... S:PRCIE="E" PRCJ=$P($T(ENGFMT+PRCK),";;",2)
+"RTN","PRC5129",135,0)
+ ... S PRCLC=PRCLC+1,PRCFDT(PRCLC)="       "_PRCJ_$J(+$P(PRCI,"^",PRCK),42-$L(PRCJ))
+"RTN","PRC5129",136,0)
+ .. S PRCLC=PRCLC+1,PRCJ="Total Unique "_$S(PRCIE="I":"IFCAP",1:"ENGINEERING")_" Users"
+"RTN","PRC5129",137,0)
+ .. S PRCFDT(PRCLC)="   "_PRCJ_$J(+$P(PRCI,"^",$S(PRCIE="I":20,1:5)),46-$L(PRCJ))
+"RTN","PRC5129",138,0)
+ .. I PRCIE="E" D
+"RTN","PRC5129",139,0)
+ ... S PRCLC=PRCLC+1,PRCJ="Electronic Work Order Requesters"
+"RTN","PRC5129",140,0)
+ ... S PRCFDT(PRCLC)="   "_PRCJ_$J(+$P(PRCI,"^",6),46-$L(PRCJ))
+"RTN","PRC5129",141,0)
+ ;
+"RTN","PRC5129",142,0)
+ ;   $DATA
+"RTN","PRC5129",143,0)
+ ;    IFCAP data
+"RTN","PRC5129",144,0)
+ S PRCLC=PRCLC+1,PRCFDT(PRCLC)="$DATA(IFCAP)"
+"RTN","PRC5129",145,0)
+ S PRCSTA=0 F  S PRCSTA=$O(^TMP("PRC5129",$J,"I",PRCSTA)) Q:'PRCSTA  S PRCJ=^(PRCSTA) D
+"RTN","PRC5129",146,0)
+ . S PRCK="" F PRCI=1:1:19 S PRCK=PRCK_+$P(PRCJ,"^",PRCI)_","
+"RTN","PRC5129",147,0)
+ . S PRCLC=PRCLC+1,PRCFDT(PRCLC)="Station"_PRCSTA_","_PRCK_+$P(PRCJ,"^",20)
+"RTN","PRC5129",148,0)
+ ;    Engineering data
+"RTN","PRC5129",149,0)
+ S PRCLC=PRCLC+1,PRCFDT(PRCLC)="$DATA(ENGINEERING)"
+"RTN","PRC5129",150,0)
+ S PRCSTA=$O(^TMP("PRC5129",$J,"E",0)) I PRCSTA  S PRCJ=^(PRCSTA) D
+"RTN","PRC5129",151,0)
+ . S PRCK="" F PRCI=1:1:5 S PRCK=PRCK_+$P(PRCJ,"^",PRCI)_","
+"RTN","PRC5129",152,0)
+ . S PRCLC=PRCLC+1,PRCFDT(PRCLC)="Station"_PRCSTA_","_PRCK_+$P(PRCJ,"^",6)
+"RTN","PRC5129",153,0)
+ S PRCLC=PRCLC+1,PRCFDT(PRCLC)="$END"
+"RTN","PRC5129",154,0)
+ ;
+"RTN","PRC5129",155,0)
+MAIL ;
+"RTN","PRC5129",156,0)
+ ;   get mail group member
+"RTN","PRC5129",157,0)
+ ;PRC*5.1*212 CHECK IF PROD ACCOUNT
+"RTN","PRC5129",158,0)
+ I $$PROD^XUPROD() D
+"RTN","PRC5129",159,0)
+ . F PRCI=1:1 S PRCJ=$T(MAILGRP+PRCI),PRCJ=$P(PRCJ,";;",2) Q:PRCJ=""  S XMY(PRCJ)=""
+"RTN","PRC5129",160,0)
+ ;   mail to user who install patch 29
+"RTN","PRC5129",161,0)
+ I $G(DUZ),$D(^VA(200,DUZ)) S XMY(DUZ)=""
+"RTN","PRC5129",162,0)
+ S PRCSTA=$$GET1^DIQ(4,$$KSP^XUPARAM("INST")_",",.01)
+"RTN","PRC5129",163,0)
+ I PRCSTA="" S PRCSTA="UNKNOWN"
+"RTN","PRC5129",164,0)
+ S XMSUB="Extract IFCAP Users by Role ("_PRCSTA_")"
+"RTN","PRC5129",165,0)
+ S XMTEXT="PRCFDT("
+"RTN","PRC5129",166,0)
+ D ^XMD
+"RTN","PRC5129",167,0)
+ Q
+"RTN","PRC5129",168,0)
+MAILGRP ;
+"RTN","PRC5129",169,0)
+ ;;G.coreFLS VistA Stats@FORUM.DOMAIN.EXT
+"RTN","PRC5129",170,0)
+ ;;
+"RTN","PRC5129",171,0)
+ Q
+"RTN","PRC5129",172,0)
+FORMAT ;
+"RTN","PRC5129",173,0)
+ ;;FCP Official
+"RTN","PRC5129",174,0)
+ ;;FCP Clerk
+"RTN","PRC5129",175,0)
+ ;;FCP Requestor
+"RTN","PRC5129",176,0)
+ ;;Warehouse Inv Manager
+"RTN","PRC5129",177,0)
+ ;;Primary Inv Manager
+"RTN","PRC5129",178,0)
+ ;;Secondary Inv Manager
+"RTN","PRC5129",179,0)
+ ;;Warehouse Inv User
+"RTN","PRC5129",180,0)
+ ;;Primary Inv User
+"RTN","PRC5129",181,0)
+ ;;Secondary Inv User
+"RTN","PRC5129",182,0)
+ ;;PPM Accountable Officer
+"RTN","PRC5129",183,0)
+ ;;Purchasing Agent
+"RTN","PRC5129",184,0)
+ ;;Supply Manager
+"RTN","PRC5129",185,0)
+ ;;Warehouse Employee
+"RTN","PRC5129",186,0)
+ ;;Budget Releasing Official
+"RTN","PRC5129",187,0)
+ ;;Accounting Staff
+"RTN","PRC5129",188,0)
+ ;;Purchase Card Holder
+"RTN","PRC5129",189,0)
+ ;;Purchase Card Surrogate
+"RTN","PRC5129",190,0)
+ ;;Purchase Card Approving Official
+"RTN","PRC5129",191,0)
+ ;;Alt PC Approving Official
+"RTN","PRC5129",192,0)
+ ;;
+"RTN","PRC5129",193,0)
+ENGFMT ;
+"RTN","PRC5129",194,0)
+ ;;Asset Update
+"RTN","PRC5129",195,0)
+ ;;Asset View Only
+"RTN","PRC5129",196,0)
+ ;;Engr. Work Order
+"RTN","PRC5129",197,0)
+ ;;Update Location
+"RTN","PRC5129",198,0)
+ ;;
+"RTN","PRC5129",199,0)
+SETP(PRCPC) ;
+"RTN","PRC5129",200,0)
+ ; set value into ^TMP,    STA -- station number,    I -- DUZ
+"RTN","PRC5129",201,0)
+ ;   If termination date is smaller than today's date
+"RTN","PRC5129",202,0)
+ I $P($G(^VA(200,PRCI,0)),"^",11),DT>$P(^(0),"^",11) Q
+"RTN","PRC5129",203,0)
+ I '$P($G(^TMP("PRC5129",$J,"I",PRCSTA,PRCI)),"^",PRCPC) S $P(^(PRCI),"^",PRCPC)=1
+"RTN","PRC5129",204,0)
+ Q
+"RTN","PRC5129",205,0)
+ ;
+"RTN","PRC5129",206,0)
+SETE(PRCPC) ;
+"RTN","PRC5129",207,0)
+ ; set value into ^TMP,    PRCESTA -- engineer station number,    I -- DUZ
+"RTN","PRC5129",208,0)
+ ;   If termination date is smaller than today's date
+"RTN","PRC5129",209,0)
+ I $P($G(^VA(200,PRCI,0)),"^",11),DT>$P(^(0),"^",11) Q
+"RTN","PRC5129",210,0)
+ I '$P($G(^TMP("PRC5129",$J,"E",PRCESTA,PRCI)),"^",PRCPC) S $P(^(PRCI),"^",PRCPC)=1
+"RTN","PRC5129",211,0)
+ Q
+"VER")
+8.0^22.2
+"BLD",11505,6)
+^186
+**END**
+**END**
+

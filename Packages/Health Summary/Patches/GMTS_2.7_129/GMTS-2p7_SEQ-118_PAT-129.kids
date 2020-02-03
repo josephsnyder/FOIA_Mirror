@@ -1,0 +1,869 @@
+Released GMTS*2.7*129 SEQ #118
+Extracted from mail message
+**KIDS**:GMTS*2.7*129^
+
+**INSTALL NAME**
+GMTS*2.7*129
+"BLD",11169,0)
+GMTS*2.7*129^HEALTH SUMMARY^0^3191101^y
+"BLD",11169,1,0)
+^^3^3^3190607^
+"BLD",11169,1,1,0)
+The purpose of this patch is to support patch SOW*3.0*65 (which will 
+"BLD",11169,1,2,0)
+completely decommission the Social Work (SOW) package from VistA) and 
+"BLD",11169,1,3,0)
+remove all Social Work GMTS code and components.
+"BLD",11169,4,0)
+^9.64PA^^0
+"BLD",11169,6.3)
+8
+"BLD",11169,"ABPKG")
+n
+"BLD",11169,"INID")
+^y
+"BLD",11169,"INIT")
+EN^GMTSP129
+"BLD",11169,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11169,"KRN",.4,0)
+.4
+"BLD",11169,"KRN",.401,0)
+.401
+"BLD",11169,"KRN",.402,0)
+.402
+"BLD",11169,"KRN",.403,0)
+.403
+"BLD",11169,"KRN",.5,0)
+.5
+"BLD",11169,"KRN",.84,0)
+.84
+"BLD",11169,"KRN",1.5,0)
+1.5
+"BLD",11169,"KRN",1.6,0)
+1.6
+"BLD",11169,"KRN",1.61,0)
+1.61
+"BLD",11169,"KRN",1.62,0)
+1.62
+"BLD",11169,"KRN",3.6,0)
+3.6
+"BLD",11169,"KRN",3.8,0)
+3.8
+"BLD",11169,"KRN",9.2,0)
+9.2
+"BLD",11169,"KRN",9.8,0)
+9.8
+"BLD",11169,"KRN",9.8,"NM",0)
+^9.68A^4^4
+"BLD",11169,"KRN",9.8,"NM",1,0)
+GMTSSOWK^^1^
+"BLD",11169,"KRN",9.8,"NM",2,0)
+GMTSSOWZ^^1^
+"BLD",11169,"KRN",9.8,"NM",3,0)
+GMTSPOS1^^0^B10860809
+"BLD",11169,"KRN",9.8,"NM",4,0)
+GMTSPOST^^0^B42236874
+"BLD",11169,"KRN",9.8,"NM","B","GMTSPOS1",3)
+
+"BLD",11169,"KRN",9.8,"NM","B","GMTSPOST",4)
+
+"BLD",11169,"KRN",9.8,"NM","B","GMTSSOWK",1)
+
+"BLD",11169,"KRN",9.8,"NM","B","GMTSSOWZ",2)
+
+"BLD",11169,"KRN",19,0)
+19
+"BLD",11169,"KRN",19.1,0)
+19.1
+"BLD",11169,"KRN",101,0)
+101
+"BLD",11169,"KRN",101,"NM",0)
+^9.68A^1^1
+"BLD",11169,"KRN",101,"NM",1,0)
+GMTS SW^^1^
+"BLD",11169,"KRN",101,"NM","B","GMTS SW",1)
+
+"BLD",11169,"KRN",409.61,0)
+409.61
+"BLD",11169,"KRN",771,0)
+771
+"BLD",11169,"KRN",779.2,0)
+779.2
+"BLD",11169,"KRN",870,0)
+870
+"BLD",11169,"KRN",8989.51,0)
+8989.51
+"BLD",11169,"KRN",8989.52,0)
+8989.52
+"BLD",11169,"KRN",8994,0)
+8994
+"BLD",11169,"KRN","B",.4,.4)
+
+"BLD",11169,"KRN","B",.401,.401)
+
+"BLD",11169,"KRN","B",.402,.402)
+
+"BLD",11169,"KRN","B",.403,.403)
+
+"BLD",11169,"KRN","B",.5,.5)
+
+"BLD",11169,"KRN","B",.84,.84)
+
+"BLD",11169,"KRN","B",1.5,1.5)
+
+"BLD",11169,"KRN","B",1.6,1.6)
+
+"BLD",11169,"KRN","B",1.61,1.61)
+
+"BLD",11169,"KRN","B",1.62,1.62)
+
+"BLD",11169,"KRN","B",3.6,3.6)
+
+"BLD",11169,"KRN","B",3.8,3.8)
+
+"BLD",11169,"KRN","B",9.2,9.2)
+
+"BLD",11169,"KRN","B",9.8,9.8)
+
+"BLD",11169,"KRN","B",19,19)
+
+"BLD",11169,"KRN","B",19.1,19.1)
+
+"BLD",11169,"KRN","B",101,101)
+
+"BLD",11169,"KRN","B",409.61,409.61)
+
+"BLD",11169,"KRN","B",771,771)
+
+"BLD",11169,"KRN","B",779.2,779.2)
+
+"BLD",11169,"KRN","B",870,870)
+
+"BLD",11169,"KRN","B",8989.51,8989.51)
+
+"BLD",11169,"KRN","B",8989.52,8989.52)
+
+"BLD",11169,"KRN","B",8994,8994)
+
+"BLD",11169,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",11169,"QUES",0)
+^9.62^^
+"BLD",11169,"REQB",0)
+^9.611^^
+"INIT")
+EN^GMTSP129
+"KRN",101,8371,-1)
+1^1
+"KRN",101,8371,0)
+GMTS SW
+"MBREQ")
+0
+"ORD",0,9.8)
+9.8;;1;RTNF^XPDTA;RTNE^XPDTA
+"ORD",0,9.8,0)
+ROUTINE
+"ORD",15,101)
+101;15;;;PRO^XPDTA;PROF1^XPDIA;PROE1^XPDIA;PROF2^XPDIA;;PRODEL^XPDIA
+"ORD",15,101,0)
+PROTOCOL
+"PKG",240,-1)
+1^1
+"PKG",240,0)
+HEALTH SUMMARY^GMTS^Integrated Health Summary Tools
+"PKG",240,22,0)
+^9.49I^1^1
+"PKG",240,22,1,0)
+2.7^2951020^2960313
+"PKG",240,22,1,"PAH",1,0)
+129^3191101
+"PKG",240,22,1,"PAH",1,1,0)
+^^3^3^3191101
+"PKG",240,22,1,"PAH",1,1,1,0)
+The purpose of this patch is to support patch SOW*3.0*65 (which will 
+"PKG",240,22,1,"PAH",1,1,2,0)
+completely decommission the Social Work (SOW) package from VistA) and 
+"PKG",240,22,1,"PAH",1,1,3,0)
+remove all Social Work GMTS code and components.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+5
+"RTN","GMTSP129")
+0^^B14677530^n/a
+"RTN","GMTSP129",1,0)
+GMTSP129 ; SLC/DJH - Patch 129 post-install routine ;6/6/19 4:00pm
+"RTN","GMTSP129",2,0)
+ ;;2.7;Health Summary;**129**;Oct 20, 1995;Build 8
+"RTN","GMTSP129",3,0)
+ ;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","GMTSP129",4,0)
+ Q
+"RTN","GMTSP129",5,0)
+ ; This routine is a part of patch GMTS*2.7*129 that is supporting patch SOW*3.0*65 (which will completely
+"RTN","GMTSP129",6,0)
+ ; decommission the Social Work (SOW) package from VistA) and remove all Social Work GMTS code and components
+"RTN","GMTSP129",7,0)
+ ; This routine is marking Health Summary Components for Social Work as inactive by setting the DISABLE FLAG 
+"RTN","GMTSP129",8,0)
+ ; field to P (Permanent).  This will make the component non-selectable for use, and prevents the component 
+"RTN","GMTSP129",9,0)
+ ; from being printed in any Health Summary in which it is included.
+"RTN","GMTSP129",10,0)
+ ;
+"RTN","GMTSP129",11,0)
+ ; DBIA#   SUPPORTED
+"RTN","GMTSP129",12,0)
+ ; -----   --------------------------------------
+"RTN","GMTSP129",13,0)
+ ; 10013   ^DIK
+"RTN","GMTSP129",14,0)
+ ;
+"RTN","GMTSP129",15,0)
+EN ; Entry point
+"RTN","GMTSP129",16,0)
+ ;
+"RTN","GMTSP129",17,0)
+ROUT ; remove routines from ^DIC(9.8
+"RTN","GMTSP129",18,0)
+ N SPNI,DA,DIK
+"RTN","GMTSP129",19,0)
+ S SPNI=0 S SPNI=$O(^DIC(9.8,"B","GMTSSOWZ",SPNI)) D
+"RTN","GMTSP129",20,0)
+ . Q:'SPNI  S DA=SPNI,DIK="^DIC(9.8," D ^DIK K DA,DIK
+"RTN","GMTSP129",21,0)
+ S SPNI=0 S SPNI=$O(^DIC(9.8,"B","GMTSSOWK",SPNI)) D
+"RTN","GMTSP129",22,0)
+ . Q:'SPNI  S DA=SPNI,DIK="^DIC(9.8," D ^DIK K DA,DIK
+"RTN","GMTSP129",23,0)
+ ;
+"RTN","GMTSP129",24,0)
+ ;keep record of deleted records for 60 days
+"RTN","GMTSP129",25,0)
+ S ^XTMP("GMTSP129",0)=$$FMADD^XLFDT($$NOW^XLFDT,60)_U_$$NOW^XLFDT
+"RTN","GMTSP129",26,0)
+ ;
+"RTN","GMTSP129",27,0)
+ ; Find all HS Component that contain GMTSSOW* in the PRINT ROUTINE
+"RTN","GMTSP129",28,0)
+COMP N GMTIEN,CNT,GMTCMP,GMTIEN2
+"RTN","GMTSP129",29,0)
+ S GMTIEN=0 F  S GMTIEN=$O(^GMT(142.1,GMTIEN)) Q:'GMTIEN  D
+"RTN","GMTSP129",30,0)
+ . Q:$G(^GMT(142.1,GMTIEN,0))']""
+"RTN","GMTSP129",31,0)
+ . Q:($P(^GMT(142.1,GMTIEN,0),U,2)'["GMTSSOW")
+"RTN","GMTSP129",32,0)
+ . S GMTCMP(GMTIEN)=$P(^GMT(142.1,GMTIEN,0),U)
+"RTN","GMTSP129",33,0)
+ . M ^XTMP("GMTSP129",142.1,GMTIEN)=^GMT(142.1,GMTIEN)
+"RTN","GMTSP129",34,0)
+ ;
+"RTN","GMTSP129",35,0)
+ ; Generate 0 found msg and quit
+"RTN","GMTSP129",36,0)
+ I '$O(GMTCMP(0)) D  Q
+"RTN","GMTSP129",37,0)
+ . S CNT=1
+"RTN","GMTSP129",38,0)
+ . S MSG(CNT)="",CNT=CNT+1
+"RTN","GMTSP129",39,0)
+ . S MSG(CNT)="PATCH GMTS*2.7*129 completed processing successfully.",CNT=CNT+1
+"RTN","GMTSP129",40,0)
+ . S MSG(CNT)="",CNT=CNT+1
+"RTN","GMTSP129",41,0)
+ . S MSG(CNT)="This patch found 0 Health Summary components with field PRINT ROUTINE ",CNT=CNT+1
+"RTN","GMTSP129",42,0)
+ . S MSG(CNT)="containing GMTSSOWK.",CNT=CNT+1
+"RTN","GMTSP129",43,0)
+ . S MSG(CNT)=""
+"RTN","GMTSP129",44,0)
+ . S XMSUB="PATCH GMTS*2.7*129 INSTALL",XMTEXT="MSG(",XMDUZ="Patch GMTS*2.7*129"
+"RTN","GMTSP129",45,0)
+ . S XMY(DUZ)=""
+"RTN","GMTSP129",46,0)
+ . D ^XMD
+"RTN","GMTSP129",47,0)
+ ;
+"RTN","GMTSP129",48,0)
+ S GMTCMP=0 F  S GMTCMP=$O(GMTCMP(GMTCMP)) Q:'GMTCMP  D
+"RTN","GMTSP129",49,0)
+ . S GMTIEN=0 F  S GMTIEN=$O(^GMT(142,"AE",GMTCMP,GMTIEN)) Q:'GMTIEN  D
+"RTN","GMTSP129",50,0)
+ . . S GMTCMP(GMTCMP,GMTIEN)=$P(^GMT(142,GMTIEN,0),U)
+"RTN","GMTSP129",51,0)
+ . . S GMTIEN2=0 F  S GMTIEN2=$O(^GMT(142,"AE",GMTCMP,GMTIEN,GMTIEN2)) Q:'GMTIEN2  D
+"RTN","GMTSP129",52,0)
+ . . . S GMTCMP(GMTCMP,GMTIEN,GMTIEN2)=""
+"RTN","GMTSP129",53,0)
+ . . . M ^XTMP("GMTSP129",142,GMTIEN,GMTIEN2)=^GMT(142,GMTIEN,1,GMTIEN2)
+"RTN","GMTSP129",54,0)
+ ;
+"RTN","GMTSP129",55,0)
+ ; set disabled field
+"RTN","GMTSP129",56,0)
+ S GMTCMP=0 F  S GMTCMP=$O(GMTCMP(GMTCMP)) Q:'GMTCMP  D
+"RTN","GMTSP129",57,0)
+ . N DA,DIE
+"RTN","GMTSP129",58,0)
+ . S DA=GMTCMP,DIE="^GMT(142.1," S DR="5////P" D ^DIE K DIE
+"RTN","GMTSP129",59,0)
+ . ; remove from health summary type
+"RTN","GMTSP129",60,0)
+ . S GMTIEN=0 F  S GMTIEN=$O(GMTCMP(GMTCMP,GMTIEN)) Q:'GMTIEN  D
+"RTN","GMTSP129",61,0)
+ . . S GMTIEN2=0 F  S GMTIEN2=$O(GMTCMP(GMTCMP,GMTIEN,GMTIEN2)) Q:'GMTIEN2  D
+"RTN","GMTSP129",62,0)
+ . . . ; GMTCMP = IEN IN #142.1, GMTIEN = IEN IN #142, GMTIEN2 = SUB IEN IN 1 RECORD OF #142
+"RTN","GMTSP129",63,0)
+ . . . ; DELETE  FROM #142
+"RTN","GMTSP129",64,0)
+ . . . S DA(2)=142,DA(1)=GMTIEN,DA=GMTIEN2,DIK="^GMT("_DA(2)_","_DA(1)_",1," D ^DIK
+"RTN","GMTSP129",65,0)
+ ;
+"RTN","GMTSP129",66,0)
+MAIL ;
+"RTN","GMTSP129",67,0)
+ N XMY,XMDUZ,XMSUB,XMTEXT,DIE,DA,DR,MSG
+"RTN","GMTSP129",68,0)
+ S CNT=1
+"RTN","GMTSP129",69,0)
+ S XMY(DUZ)=""
+"RTN","GMTSP129",70,0)
+ S XMSUB="PATCH GMTS*2.7*129 INSTALL",XMTEXT="MSG(",XMDUZ="Patch GMTS*2.7*129"
+"RTN","GMTSP129",71,0)
+ S MSG(CNT)="",CNT=CNT+1
+"RTN","GMTSP129",72,0)
+ S MSG(CNT)="PATCH GMTS*2.7*129 completed processing successfully.",CNT=CNT+1
+"RTN","GMTSP129",73,0)
+ S MSG(CNT)="",CNT=CNT+1
+"RTN","GMTSP129",74,0)
+ S MSG(CNT)="These Health Summary Component(s) were marked permanently disabled",CNT=CNT+1
+"RTN","GMTSP129",75,0)
+ S GMTCMP=0 F  S GMTCMP=$O(GMTCMP(GMTCMP)) Q:'GMTCMP  D
+"RTN","GMTSP129",76,0)
+ . S MSG(CNT)=GMTCMP(GMTCMP),CNT=CNT+1
+"RTN","GMTSP129",77,0)
+ S MSG(CNT)="",CNT=CNT+1
+"RTN","GMTSP129",78,0)
+ S MSG(CNT)="The above Components were deleted from these Health Summary Types:",CNT=CNT+1
+"RTN","GMTSP129",79,0)
+ ;
+"RTN","GMTSP129",80,0)
+ S GMTCMP=0 F  S GMTCMP=$O(GMTCMP(GMTCMP)) Q:'GMTCMP  D
+"RTN","GMTSP129",81,0)
+ . S GMTIEN=0 F  S GMTIEN=$O(GMTCMP(GMTCMP,GMTIEN)) Q:'GMTIEN  D
+"RTN","GMTSP129",82,0)
+ . . S MSG(CNT)=GMTCMP(GMTCMP,GMTIEN),CNT=CNT+1
+"RTN","GMTSP129",83,0)
+ ;SEND MAIL MSG
+"RTN","GMTSP129",84,0)
+ D ^XMD
+"RTN","GMTSP129",85,0)
+ Q
+"RTN","GMTSPOS1")
+0^3^B10860809^B15319194
+"RTN","GMTSPOS1",1,0)
+GMTSPOS1 ;SLC/SBW - Smart routine installer and Comp. Disabler ;22/MAR/95
+"RTN","GMTSPOS1",2,0)
+ ;;2.7;Health Summary;**129**;Oct 20, 1995;Build 8
+"RTN","GMTSPOS1",3,0)
+ ;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","GMTSPOS1",4,0)
+PSO ; Controls Outpatient Pharmacy install
+"RTN","GMTSPOS1",5,0)
+ N GMPSOVER
+"RTN","GMTSPOS1",6,0)
+ ;If Health Summary is absent, then quit
+"RTN","GMTSPOS1",7,0)
+ I '$L($T(^PSOHCSUM)) Q
+"RTN","GMTSPOS1",8,0)
+ S GMPSOVER=$$VERSION^XPDUTL("PSO")
+"RTN","GMTSPOS1",9,0)
+ D PSOINST(GMPSOVER)
+"RTN","GMTSPOS1",10,0)
+ Q
+"RTN","GMTSPOS1",11,0)
+PSOINST(VERSION) ; Install routine corresponding to HS version in
+"RTN","GMTSPOS1",12,0)
+ ;                 target account
+"RTN","GMTSPOS1",13,0)
+ ; If the patch is already installed, then quit w/o overwriting
+"RTN","GMTSPOS1",14,0)
+ N DIE,DIF,GMMSG,X,XCN,XCNP
+"RTN","GMTSPOS1",15,0)
+ I VERSION'<6.0 Q
+"RTN","GMTSPOS1",16,0)
+ W !,"** Installing GMTSPSO routine for Outpatient Pharmacy component. **"
+"RTN","GMTSPOS1",17,0)
+ W !,"   Outpatient Pharmacy version ",VERSION," is installed in this account.",!
+"RTN","GMTSPOS1",18,0)
+ S X="GMTSPSZO",XCNP=0,DIF="^UTILITY(""GMTSPSZO""," X ^%ZOSF("LOAD") W !,"Renaming GMTSPSZO as GMTSPSO."
+"RTN","GMTSPOS1",19,0)
+ S X="GMTSPSO",XCN=2,DIE="^UTILITY(""GMTSPSZO""," X ^%ZOSF("SAVE") K ^UTILITY("GMTSPSZO") W "  Done.",!
+"RTN","GMTSPOS1",20,0)
+ Q
+"RTN","GMTSPOS1",21,0)
+ ;******************************************************
+"RTN","GMTSPOS1",22,0)
+ ; Entry points for SOWK & SOWKINST removed with patch GMTS*2.7*129
+"RTN","GMTSPOS1",23,0)
+ ;******************************************************
+"RTN","GMTSPOS1",24,0)
+MED ; Controls Medicine 2.0 install and disable 2.2 components
+"RTN","GMTSPOS1",25,0)
+ N X,GMMSG
+"RTN","GMTSPOS1",26,0)
+ ;Checks conditions for auto-disable of Medicine 2.2 components
+"RTN","GMTSPOS1",27,0)
+ I $$VERSION^XPDUTL("MC")<2.2 D
+"RTN","GMTSPOS1",28,0)
+ . S GMMSG="Medicine 2.2 Package not yet installed or available"
+"RTN","GMTSPOS1",29,0)
+ . F X="MEDICINE ABNORMAL BRIEF","MEDICINE BRIEF REPORT","MEDICINE FULL CAPTIONED","MEDICINE FULL REPORT" D DISABLE^GMTSPOST
+"RTN","GMTSPOS1",30,0)
+ . ;If Medicine 2.2 not installed, restore 2.0 medicine routines
+"RTN","GMTSPOS1",31,0)
+ . W !,"** Installing GMTSMCPS routine for Medicine 2.0 component. **"
+"RTN","GMTSPOS1",32,0)
+ . D MED2INST
+"RTN","GMTSPOS1",33,0)
+ I $$VERSION^XPDUTL("MC")>2.19 D M22INST
+"RTN","GMTSPOS1",34,0)
+ Q
+"RTN","GMTSPOS1",35,0)
+MED2INST ; Install GMTSMCPS routine for med 2.0
+"RTN","GMTSPOS1",36,0)
+ N DIE,DIF,GMMSG,X,XCN,XCNP
+"RTN","GMTSPOS1",37,0)
+ S X="GMTSMCPZ",XCNP=0,DIF="^UTILITY(""GMTSMCPZ""," X ^%ZOSF("LOAD") W !,"Renaming GMTSMCPZ as GMTSMCPS."
+"RTN","GMTSPOS1",38,0)
+ S X="GMTSMCPS",XCN=2,DIE="^UTILITY(""GMTSMCPZ""," X ^%ZOSF("SAVE") K ^UTILITY("GMTSMCPZ") W "  Done.",!
+"RTN","GMTSPOS1",39,0)
+ Q
+"RTN","GMTSPOS1",40,0)
+M22INST ; Install GMTSMCPS routine for med 2.2
+"RTN","GMTSPOS1",41,0)
+ W !,"** Installing GMTSMCPS routine for Medicine 2.2 components. **"
+"RTN","GMTSPOS1",42,0)
+ N DIE,DIF,GMMSG,X,XCN,XCNP
+"RTN","GMTSPOS1",43,0)
+ S X="GMTSMCZZ",XCNP=0,DIF="^UTILITY(""GMTSMCZZ""," X ^%ZOSF("LOAD") W !,"Renaming GMTSMCZZ as GMTSMCPS."
+"RTN","GMTSPOS1",44,0)
+ S X="GMTSMCPS",XCN=2,DIE="^UTILITY(""GMTSMCZZ""," X ^%ZOSF("SAVE") K ^UTILITY("GMTSMCZZ") W "  Done.",!
+"RTN","GMTSPOS1",45,0)
+ Q
+"RTN","GMTSPOS1",46,0)
+ ;******************************************************
+"RTN","GMTSPOS1",47,0)
+PL ; Controls Problem List 2.0 install
+"RTN","GMTSPOS1",48,0)
+ ; Checks conditions for auto-disable of Problem List components
+"RTN","GMTSPOS1",49,0)
+ N X,GMMSG
+"RTN","GMTSPOS1",50,0)
+ I $$VERSION^XPDUTL("GMPL")<2 D
+"RTN","GMTSPOS1",51,0)
+ . S GMMSG="Problem List 2.0 Package not yet installed or available"
+"RTN","GMTSPOS1",52,0)
+ . F X="PROBLEM LIST ACTIVE","PROBLEM LIST INACTIVE","PROBLEM LIST ALL" D DISABLE^GMTSPOST
+"RTN","GMTSPOS1",53,0)
+ I $$VERSION^XPDUTL("GMPL")>1.99 D
+"RTN","GMTSPOS1",54,0)
+ . W !,"** Installing GMPLHS routine for Problem List components. **"
+"RTN","GMTSPOS1",55,0)
+ . D PLINST
+"RTN","GMTSPOS1",56,0)
+ Q
+"RTN","GMTSPOS1",57,0)
+PLINST ; Install GMPLHS routine
+"RTN","GMTSPOS1",58,0)
+ N DIE,DIF,GMMSG,X,XCN,XCNP
+"RTN","GMTSPOS1",59,0)
+ W !,"Renaming GMTSPLSZ as GMPLHS."
+"RTN","GMTSPOS1",60,0)
+ S X="GMTSPLSZ",XCNP=0,DIF="^UTILITY(""GMTSPLSZ""," X ^%ZOSF("LOAD") W "."
+"RTN","GMTSPOS1",61,0)
+ S X="GMPLHS",XCN=2,DIE="^UTILITY(""GMTSPLSZ""," X ^%ZOSF("SAVE") K ^UTILITY("GMTSPLSZ") W "  Done."
+"RTN","GMTSPOS1",62,0)
+ Q
+"RTN","GMTSPOST")
+0^4^B42236874^B42033450
+"RTN","GMTSPOST",1,0)
+GMTSPOST ;SLC/JER - Post-init for Health Summary ;10/4/19 9:39am
+"RTN","GMTSPOST",2,0)
+ ;;2.7;Health Summary;**129**;Oct 20, 1995;Build 8
+"RTN","GMTSPOST",3,0)
+MAIN ; Controls branching and execution
+"RTN","GMTSPOST",4,0)
+ N GMI,INCLUDE,GMTSEG,GMTSI,GMTSIFN,GMTJ,GMTSNM
+"RTN","GMTSPOST",5,0)
+ W !!,"Starting post-init action now...."
+"RTN","GMTSPOST",6,0)
+ D SPOOL,PARAM
+"RTN","GMTSPOST",7,0)
+ ;GMTS*2.7*129 remove call to SOWK^GMTSPOS1
+"RTN","GMTSPOST",8,0)
+ D INPHAR,DIET,OERR,VITALS,LAB,RAD,MHPE,PRGNOTE,SURG,DCS,CP,PL^GMTSPOS1,PCE,MED^GMTSPOS1,PSO^GMTSPOS1,OUTPHAR
+"RTN","GMTSPOST",9,0)
+ D EN^GMTSPOS2
+"RTN","GMTSPOST",10,0)
+ K ^GMT(142,12,1,"C") ;Get rid of "C" xref in case there are duplicate entries
+"RTN","GMTSPOST",11,0)
+ W !!,"'C' cross-reference on the GMTS AD HOC OPTION type in file 142 deleted."
+"RTN","GMTSPOST",12,0)
+ W !,"It will be rebuilt"
+"RTN","GMTSPOST",13,0)
+ S INCLUDE=0 D ENPOST^GMTSLOAD
+"RTN","GMTSPOST",14,0)
+ D ^GMTSONIT
+"RTN","GMTSPOST",15,0)
+ W !!,"Post-init successfully completed."
+"RTN","GMTSPOST",16,0)
+ D FINITO
+"RTN","GMTSPOST",17,0)
+ K GMTSIST
+"RTN","GMTSPOST",18,0)
+ Q
+"RTN","GMTSPOST",19,0)
+SPOOL ; Convert spool name to pointer value
+"RTN","GMTSPOST",20,0)
+ N DIC,DIE,DA,X
+"RTN","GMTSPOST",21,0)
+ S X=$P($G(^GMT(142.99,1,0)),U,4)
+"RTN","GMTSPOST",22,0)
+ Q:+X!(X']"")  ;Quit is Spool Device is null or a numeric value
+"RTN","GMTSPOST",23,0)
+ S DIC=3.5,DIC(0)="X"
+"RTN","GMTSPOST",24,0)
+ D ^DIC
+"RTN","GMTSPOST",25,0)
+ W !!,"Converting "_X_" to a pointer value for Spool Device in Site Parameter file."
+"RTN","GMTSPOST",26,0)
+ I +Y'>0 D  Q
+"RTN","GMTSPOST",27,0)
+ . W !,"** Can't converted "_X_" to a pointer value. **"
+"RTN","GMTSPOST",28,0)
+ . W !,"Enter a Valid Spool Device using 'Edit Health Summary Site Parameters' option."
+"RTN","GMTSPOST",29,0)
+ S $P(^GMT(142.99,1,0),U,4)=+Y
+"RTN","GMTSPOST",30,0)
+ W !,X," converted successfully."
+"RTN","GMTSPOST",31,0)
+ Q
+"RTN","GMTSPOST",32,0)
+PARAM ; Convert YES/NO codes from 1/0 to Y/N
+"RTN","GMTSPOST",33,0)
+ N GMNUM,X
+"RTN","GMTSPOST",34,0)
+ F GMNUM=2,3,5 D
+"RTN","GMTSPOST",35,0)
+ . S X=$P($G(^GMT(142.99,1,0)),U,GMNUM)
+"RTN","GMTSPOST",36,0)
+ . Q:X']""!(X="Y")!(X="N")  ;Quit there is not entry or it is "Y" or "N"
+"RTN","GMTSPOST",37,0)
+ . I X=0 S $P(^GMT(142.99,1,0),U,GMNUM)=""
+"RTN","GMTSPOST",38,0)
+ . I X=1 S $P(^GMT(142.99,1,0),U,GMNUM)="Y"
+"RTN","GMTSPOST",39,0)
+ Q
+"RTN","GMTSPOST",40,0)
+INPHAR ; Checks conditions auto-disable of Inpatient Pharmacy components
+"RTN","GMTSPOST",41,0)
+ N GMMSG,X
+"RTN","GMTSPOST",42,0)
+ S X="PSJEEU0"
+"RTN","GMTSPOST",43,0)
+ X ^%ZOSF("TEST")
+"RTN","GMTSPOST",44,0)
+ Q:$T
+"RTN","GMTSPOST",45,0)
+ F X="PHARMACY INTRAVENOUS","PHARMACY UNIT DOSE" S GMMSG="Inpatient Medications not yet available" D DISABLE
+"RTN","GMTSPOST",46,0)
+ Q
+"RTN","GMTSPOST",47,0)
+OUTPHAR ; Checks conditions auto-disable of Outpatient Pharmacy components
+"RTN","GMTSPOST",48,0)
+ N GMMSG,X
+"RTN","GMTSPOST",49,0)
+ S X="PSOHCSUM"
+"RTN","GMTSPOST",50,0)
+ X ^%ZOSF("TEST")
+"RTN","GMTSPOST",51,0)
+ Q:$T
+"RTN","GMTSPOST",52,0)
+ F X="PHARMACY OUTPATIENT" S GMMSG="Outpatient Pharmacy not yet available" D DISABLE
+"RTN","GMTSPOST",53,0)
+ Q
+"RTN","GMTSPOST",54,0)
+DIET ; Checks conditions auto-disable of Dietetics
+"RTN","GMTSPOST",55,0)
+ N GMMSG,X
+"RTN","GMTSPOST",56,0)
+ S X="FHWHEA"
+"RTN","GMTSPOST",57,0)
+ X ^%ZOSF("TEST")
+"RTN","GMTSPOST",58,0)
+ Q:$T
+"RTN","GMTSPOST",59,0)
+ F X="DIETETICS" S GMMSG="Dietetics not yet available" D DISABLE
+"RTN","GMTSPOST",60,0)
+ Q
+"RTN","GMTSPOST",61,0)
+OERR ; Checks conditions auto-disable of OERR Orders
+"RTN","GMTSPOST",62,0)
+ N GMMSG,X
+"RTN","GMTSPOST",63,0)
+ S X="ORF4"
+"RTN","GMTSPOST",64,0)
+ X ^%ZOSF("TEST")
+"RTN","GMTSPOST",65,0)
+ Q:$T
+"RTN","GMTSPOST",66,0)
+ F X="ORDERS CURRENT" S GMMSG="OE/RR Orders not yet available" D DISABLE
+"RTN","GMTSPOST",67,0)
+ Q
+"RTN","GMTSPOST",68,0)
+VITALS ; Checks conditions auto-disable of Vitals
+"RTN","GMTSPOST",69,0)
+ N GMMSG,X
+"RTN","GMTSPOST",70,0)
+ S X="GMRVUT0"
+"RTN","GMTSPOST",71,0)
+ X ^%ZOSF("TEST")
+"RTN","GMTSPOST",72,0)
+ Q:$T
+"RTN","GMTSPOST",73,0)
+ F X="VITAL SIGNS","VITAL SIGNS SELECTED" S GMMSG="Vital Signs not yet available" D DISABLE
+"RTN","GMTSPOST",74,0)
+ Q
+"RTN","GMTSPOST",75,0)
+PRGNOTE ; Checks conditions auto-disable of Progress Note components
+"RTN","GMTSPOST",76,0)
+ N GMMSG,X
+"RTN","GMTSPOST",77,0)
+ I ($D(^YSP(606))<10),($D(^GMR(121))<10) F X="PROGRESS NOTES","PROGRESS NOTES BRIEF" S GMMSG="Progress Notes not yet available" D DISABLE
+"RTN","GMTSPOST",78,0)
+ I $D(^GMR(121))<10 F X="ADVANCE DIRECTIVE","CLINICAL WARNINGS","CRISIS NOTES" S GMMSG=X_" not yet available" D DISABLE
+"RTN","GMTSPOST",79,0)
+ Q
+"RTN","GMTSPOST",80,0)
+SURG ; Checks conditions for auto-disable of Surgery component
+"RTN","GMTSPOST",81,0)
+ N X,GMMSG
+"RTN","GMTSPOST",82,0)
+ I $D(^SRF)<10 F X="SURGERY REPORTS","SURGERY REPORTS BRIEF" S GMMSG="Surgery Package not yet installed" D DISABLE
+"RTN","GMTSPOST",83,0)
+ Q
+"RTN","GMTSPOST",84,0)
+DCS ; Checks conditions for auto-disable of Discharge Summary components
+"RTN","GMTSPOST",85,0)
+ N X,GMMSG
+"RTN","GMTSPOST",86,0)
+ I $D(^GMR(128))<10 D
+"RTN","GMTSPOST",87,0)
+ . S GMMSG="Discharge Summary Package not yet installed or available"
+"RTN","GMTSPOST",88,0)
+ . F X="DISCHARGE SUMMARY","DISCHARGE SUMMARY BRIEF"  D DISABLE
+"RTN","GMTSPOST",89,0)
+ Q
+"RTN","GMTSPOST",90,0)
+CP ; Checks conditions for auto-disable of Compensation and Pension component
+"RTN","GMTSPOST",91,0)
+ N X,GMMSG
+"RTN","GMTSPOST",92,0)
+ ; Checks conditions for auto-disable of Comp & Pen component
+"RTN","GMTSPOST",93,0)
+ I +$$VERSION^XPDUTL("DVBA")<2.7 D
+"RTN","GMTSPOST",94,0)
+ . S GMMSG="Requires AMIE version 2.7"
+"RTN","GMTSPOST",95,0)
+ . S X="COMPENSATION AND PENSION EXAMS" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",96,0)
+ Q
+"RTN","GMTSPOST",97,0)
+LAB ; Checks condition for auto-disable of Lab components
+"RTN","GMTSPOST",98,0)
+ N GMMSG,X
+"RTN","GMTSPOST",99,0)
+ I $$VERSION^XPDUTL("LR")<5.1 D
+"RTN","GMTSPOST",100,0)
+ . S GMMSG="Requires Lab version 5.1 or later"
+"RTN","GMTSPOST",101,0)
+ . F X="LAB BLOOD AVAILABILITY","LAB BLOOD TRANSFUSIONS","LAB CHEMISTRY & HEMATOLOGY","LAB CUMULATIVE SELECTED","LAB CUMULATIVE SELECTED 1" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",102,0)
+ . F X="LAB CUMULATIVE SELECTED 2","LAB CUMULATIVE SELECTED 3","LAB CUMULATIVE SELECTED 4","LAB CYTOPATHOLOGY","LAB ELECTRON MICROSCOPY","LAB MICROBIOLOGY" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",103,0)
+ . F X="LAB MICROBIOLOGY BRIEF","LAB ORDERS","LAB ORDERS BRIEF","LAB SURGICAL PATHOLOGY","LAB TESTS SELECTED" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",104,0)
+ Q
+"RTN","GMTSPOST",105,0)
+RAD ; Checks condition for auto-disable of Radiology
+"RTN","GMTSPOST",106,0)
+ N GMMSG,X
+"RTN","GMTSPOST",107,0)
+ I $$VERSION^XPDUTL("RA")<3 D
+"RTN","GMTSPOST",108,0)
+ . S GMMSG="Requires Radiology version 3 or later"
+"RTN","GMTSPOST",109,0)
+ . F X="RADIOLOGY IMPRESSION","RADIOLOGY IMPRESSION SELECTED","RADIOLOGY PROFILE","RADIOLOGY STATUS" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",110,0)
+ Q
+"RTN","GMTSPOST",111,0)
+MHPE ; Checks condition for auto-disable of Mental Health
+"RTN","GMTSPOST",112,0)
+ N GMMSG,X
+"RTN","GMTSPOST",113,0)
+ I $$VERSION^XPDUTL("YS")<5 D
+"RTN","GMTSPOST",114,0)
+ . S GMMSG="Requires Mental Health version 5 or later"
+"RTN","GMTSPOST",115,0)
+ . F X="MENTAL HEALTH PHYSICAL EXAM" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",116,0)
+ Q
+"RTN","GMTSPOST",117,0)
+PCE ; Checks for existence of PCE package...Disables components if absents
+"RTN","GMTSPOST",118,0)
+ N GMMSG,X
+"RTN","GMTSPOST",119,0)
+ I $$VERSION^XPDUTL("PX")'>0 D  ;Disable PCE components if PCE not installed nor available 
+"RTN","GMTSPOST",120,0)
+ . S GMMSG="Patient Care Encounter Package not yet installed"
+"RTN","GMTSPOST",121,0)
+ . F X="PCE LOCATION OF HOME","PCE CLINICAL REMINDERS","PCE HEALTH FACTORS SELECTED","PCE HEALTH FACTORS ALL","PCE OUTPATIENT ENCOUNTERS","PCE MEASUREMENTS NON-TABULAR","PCE IMMUNIZATIONS","PCE SKIN TESTS" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",122,0)
+ . F X="PCE MEASUREMENTS SELECTED","PCE EDUCATION","PCE EDUCATION LATEST","PCE OUTPATIENT DIAGNOSIS","PCE EXAMS LATEST","PCE TREATMENTS PROVIDED" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",123,0)
+ . F X="PCE CLINICAL MAINTENANCE" D DISABLE^GMTSPOST
+"RTN","GMTSPOST",124,0)
+ Q
+"RTN","GMTSPOST",125,0)
+DISABLE ; Disable components if auto-disable conditions are met
+"RTN","GMTSPOST",126,0)
+ N DA,DIC,DIE,DR,Y
+"RTN","GMTSPOST",127,0)
+ S DIC="^GMT(142.1,",DIC(0)="X" D ^DIC
+"RTN","GMTSPOST",128,0)
+ I +Y>0 D
+"RTN","GMTSPOST",129,0)
+ . W !,X," Health Summary Component disabled"
+"RTN","GMTSPOST",130,0)
+ . S DA=+Y,DR="5///"_"P"_";8///"_GMMSG,DIE=DIC D ^DIE
+"RTN","GMTSPOST",131,0)
+ Q
+"RTN","GMTSPOST",132,0)
+FINITO ; Finish initialization, inform user
+"RTN","GMTSPOST",133,0)
+ N GMTSIFT,GMTSITD,X
+"RTN","GMTSPOST",134,0)
+ S GMTSIFT=$$NOW^GMTSPREI,GMTSITD=$$DIFF(GMTSIFT,+$G(GMTSIST))
+"RTN","GMTSPOST",135,0)
+ W !!,"HEALTH SUMMARY VERSION 2.7 INITIALIZATION COMPLETE!"
+"RTN","GMTSPOST",136,0)
+ Q:'$L($T(FMDIFF^XLFDT))
+"RTN","GMTSPOST",137,0)
+ S X=$G(GMTSIST) D REGDTM^GMTSU
+"RTN","GMTSPOST",138,0)
+ W !!?9,"Initialization began at: ",X
+"RTN","GMTSPOST",139,0)
+ S X=GMTSIFT D REGDTM^GMTSU
+"RTN","GMTSPOST",140,0)
+ W !!?5,"Initialization completed at: ",X
+"RTN","GMTSPOST",141,0)
+ W !!?7,"TOTAL Initialization Time: ",GMTSITD
+"RTN","GMTSPOST",142,0)
+ Q
+"RTN","GMTSPOST",143,0)
+DIFF(END,BEGIN) ; Converts time difference to external format
+"RTN","GMTSPOST",144,0)
+ N DIFF,HR,MIN,SEC,Y
+"RTN","GMTSPOST",145,0)
+ S DIFF=$$FMDIFF^XLFDT(END,BEGIN,2),HR=DIFF\3600
+"RTN","GMTSPOST",146,0)
+ S MIN=DIFF\60,SEC=DIFF#60
+"RTN","GMTSPOST",147,0)
+ S HR=$E("00",0,2-$L(HR))_HR,MIN=$E("00",0,2-$L(MIN))_MIN,SEC=$E("00",0,2-$L(SEC))_SEC
+"RTN","GMTSPOST",148,0)
+ S Y=HR_":"_MIN_":"_SEC
+"RTN","GMTSPOST",149,0)
+ Q Y
+"RTN","GMTSSOWK")
+1^1^^B662018
+"RTN","GMTSSOWZ")
+1^2^^B12374658
+"VER")
+8.0^22.2
+"BLD",11169,6)
+^118
+**END**
+**END**
+

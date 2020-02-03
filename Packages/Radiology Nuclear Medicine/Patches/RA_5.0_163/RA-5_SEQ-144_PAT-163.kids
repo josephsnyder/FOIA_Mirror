@@ -1,0 +1,1735 @@
+Released RA*5*163 SEQ #144
+Extracted from mail message
+**KIDS**:RA*5.0*163^
+
+**INSTALL NAME**
+RA*5.0*163
+"BLD",10947,0)
+RA*5.0*163^RADIOLOGY/NUCLEAR MEDICINE^0^3191029^y
+"BLD",10947,1,0)
+^^3^3^3191010^
+"BLD",10947,1,1,0)
+Patch one hundred and sixty-three for the VistA Radiology/Nuclear Medicine
+"BLD",10947,1,2,0)
+5.0 application. Please review FORUM's Patch Module description and
+"BLD",10947,1,3,0)
+installation instructions for RA*5.0*163 before installing this patch.
+"BLD",10947,4,0)
+^9.64PA^^
+"BLD",10947,6.3)
+1
+"BLD",10947,"INID")
+^n
+"BLD",10947,"INIT")
+EN^RAIPS163
+"BLD",10947,"KRN",0)
+^9.67PA^1.5^24
+"BLD",10947,"KRN",.4,0)
+.4
+"BLD",10947,"KRN",.401,0)
+.401
+"BLD",10947,"KRN",.402,0)
+.402
+"BLD",10947,"KRN",.403,0)
+.403
+"BLD",10947,"KRN",.5,0)
+.5
+"BLD",10947,"KRN",.84,0)
+.84
+"BLD",10947,"KRN",1.5,0)
+1.5
+"BLD",10947,"KRN",1.6,0)
+1.6
+"BLD",10947,"KRN",1.61,0)
+1.61
+"BLD",10947,"KRN",1.62,0)
+1.62
+"BLD",10947,"KRN",3.6,0)
+3.6
+"BLD",10947,"KRN",3.8,0)
+3.8
+"BLD",10947,"KRN",9.2,0)
+9.2
+"BLD",10947,"KRN",9.8,0)
+9.8
+"BLD",10947,"KRN",9.8,"NM",0)
+^9.68A^5^5
+"BLD",10947,"KRN",9.8,"NM",1,0)
+RARTE6^^0^B138930014
+"BLD",10947,"KRN",9.8,"NM",2,0)
+RAUTL12^^0^B14003063
+"BLD",10947,"KRN",9.8,"NM",3,0)
+RARTE1^^0^B66967610
+"BLD",10947,"KRN",9.8,"NM",4,0)
+RAPCE2^^0^B12403132
+"BLD",10947,"KRN",9.8,"NM",5,0)
+RAIPS163^^0^B3362579
+"BLD",10947,"KRN",9.8,"NM","B","RAIPS163",5)
+
+"BLD",10947,"KRN",9.8,"NM","B","RAPCE2",4)
+
+"BLD",10947,"KRN",9.8,"NM","B","RARTE1",3)
+
+"BLD",10947,"KRN",9.8,"NM","B","RARTE6",1)
+
+"BLD",10947,"KRN",9.8,"NM","B","RAUTL12",2)
+
+"BLD",10947,"KRN",19,0)
+19
+"BLD",10947,"KRN",19.1,0)
+19.1
+"BLD",10947,"KRN",101,0)
+101
+"BLD",10947,"KRN",409.61,0)
+409.61
+"BLD",10947,"KRN",771,0)
+771
+"BLD",10947,"KRN",779.2,0)
+779.2
+"BLD",10947,"KRN",870,0)
+870
+"BLD",10947,"KRN",8989.51,0)
+8989.51
+"BLD",10947,"KRN",8989.52,0)
+8989.52
+"BLD",10947,"KRN",8994,0)
+8994
+"BLD",10947,"KRN","B",.4,.4)
+
+"BLD",10947,"KRN","B",.401,.401)
+
+"BLD",10947,"KRN","B",.402,.402)
+
+"BLD",10947,"KRN","B",.403,.403)
+
+"BLD",10947,"KRN","B",.5,.5)
+
+"BLD",10947,"KRN","B",.84,.84)
+
+"BLD",10947,"KRN","B",1.5,1.5)
+
+"BLD",10947,"KRN","B",1.6,1.6)
+
+"BLD",10947,"KRN","B",1.61,1.61)
+
+"BLD",10947,"KRN","B",1.62,1.62)
+
+"BLD",10947,"KRN","B",3.6,3.6)
+
+"BLD",10947,"KRN","B",3.8,3.8)
+
+"BLD",10947,"KRN","B",9.2,9.2)
+
+"BLD",10947,"KRN","B",9.8,9.8)
+
+"BLD",10947,"KRN","B",19,19)
+
+"BLD",10947,"KRN","B",19.1,19.1)
+
+"BLD",10947,"KRN","B",101,101)
+
+"BLD",10947,"KRN","B",409.61,409.61)
+
+"BLD",10947,"KRN","B",771,771)
+
+"BLD",10947,"KRN","B",779.2,779.2)
+
+"BLD",10947,"KRN","B",870,870)
+
+"BLD",10947,"KRN","B",8989.51,8989.51)
+
+"BLD",10947,"KRN","B",8989.52,8989.52)
+
+"BLD",10947,"KRN","B",8994,8994)
+
+"BLD",10947,"QUES",0)
+^9.62^^
+"BLD",10947,"REQB",0)
+^9.611^4^4
+"BLD",10947,"REQB",1,0)
+RA*5.0*75^2
+"BLD",10947,"REQB",2,0)
+RA*5.0*124^2
+"BLD",10947,"REQB",3,0)
+RA*5.0*21^2
+"BLD",10947,"REQB",4,0)
+RA*5.0*133^2
+"BLD",10947,"REQB","B","RA*5.0*124",2)
+
+"BLD",10947,"REQB","B","RA*5.0*133",4)
+
+"BLD",10947,"REQB","B","RA*5.0*21",3)
+
+"BLD",10947,"REQB","B","RA*5.0*75",1)
+
+"INIT")
+EN^RAIPS163
+"MBREQ")
+0
+"PKG",18,-1)
+1^1
+"PKG",18,0)
+RADIOLOGY/NUCLEAR MEDICINE^RA^REGISTERS PATIENTS,RECORDS EXAMS,PROFILES,AMIS REPORTS
+"PKG",18,22,0)
+^9.49I^1^1
+"PKG",18,22,1,0)
+5.0^3051109^2980407^50
+"PKG",18,22,1,"PAH",1,0)
+163^3191029
+"PKG",18,22,1,"PAH",1,1,0)
+^^3^3^3191029
+"PKG",18,22,1,"PAH",1,1,1,0)
+Patch one hundred and sixty-three for the VistA Radiology/Nuclear Medicine
+"PKG",18,22,1,"PAH",1,1,2,0)
+5.0 application. Please review FORUM's Patch Module description and
+"PKG",18,22,1,"PAH",1,1,3,0)
+installation instructions for RA*5.0*163 before installing this patch.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+5
+"RTN","RAIPS163")
+0^5^B3362579^n/a
+"RTN","RAIPS163",1,0)
+RAIPS163 ;WOIFO/KLM-Rad/NM Post-init Driver, patch 163; Oct 10, 2019@09:30:04
+"RTN","RAIPS163",2,0)
+ ;;5.0;Radiology/Nuclear Medicine;**163**;Mar 16, 1998;Build 1
+"RTN","RAIPS163",3,0)
+ ;New standardized Cancel/Hold reasons
+"RTN","RAIPS163",4,0)
+ ;
+"RTN","RAIPS163",5,0)
+EN      ;Entry pt for post-install
+"RTN","RAIPS163",6,0)
+ N RAI,RAREA,RAMSG
+"RTN","RAIPS163",7,0)
+ F RAI=1:1 S RAREA=$T(REA+RAI) Q:RAREA=""  D
+"RTN","RAIPS163",8,0)
+ .S RA01=$P(RAREA,";",3),RA3=$P(RAREA,";",4),RA2=$P(RAREA,";",5)
+"RTN","RAIPS163",9,0)
+ .N RAFDA,RAR S RAR="RAFDA(75.2,""?+1,"")" ;FDA root -Check for existing entry
+"RTN","RAIPS163",10,0)
+ .S @RAR@(.01)=RA01 ;Reason
+"RTN","RAIPS163",11,0)
+ .S @RAR@(2)=RA2    ;Type of reason (1=cancel,3=hold,9=general)
+"RTN","RAIPS163",12,0)
+ .S @RAR@(3)=RA3    ;Synonym
+"RTN","RAIPS163",13,0)
+ .S @RAR@(4)="i"    ;Nature of order activity=Policy
+"RTN","RAIPS163",14,0)
+ .S @RAR@(5)="Y"    ;NATIONAL flag = YES prevents local modifications
+"RTN","RAIPS163",15,0)
+ .D UPDATE^DIE(,"RAFDA","","RAMSG(1)") K RAFDA
+"RTN","RAIPS163",16,0)
+ .I $D(RAMSG(1,"DIERR"))#2 S RATXT="An error occured filing data for "_RA01
+"RTN","RAIPS163",17,0)
+ .E  S RATXT=RA01_" filed"
+"RTN","RAIPS163",18,0)
+ .D MES^XPDUTL(RATXT)  K RATXT,RAMSG
+"RTN","RAIPS163",19,0)
+ Q
+"RTN","RAIPS163",20,0)
+REA     ;REASON;SYNONYM;TYPE OF REASON
+"RTN","RAIPS163",21,0)
+ ;;PATIENT DECEASED;DECEASED;1
+"RTN","RAIPS163",22,0)
+ ;;REQUESTING PHYSICIAN CANCELLED;REQ MD CX'D;1
+"RTN","RAIPS163",23,0)
+ ;;CONTRAINDICATION;CONTRAINDICATED;1
+"RTN","RAIPS163",24,0)
+ ;;PATIENT DECLINED TO SCHEDULE;DECLINED TO SCHED;1
+"RTN","RAIPS163",25,0)
+ ;;INCORRECT PATIENT CONTACT INFORMATION;INCORRECT CONTACT;1
+"RTN","RAIPS163",26,0)
+ ;;CANCELLED BY PATIENT;CX'D BY PT;1
+"RTN","RAIPS163",27,0)
+ ;;INCLEMENT WEATHER;WEATHER;3
+"RTN","RAIPS163",28,0)
+ ;;NEEDS TO CONSULT WITH PROVIDER;CONSULT W/PROVIDER;3
+"RTN","RAIPS163",29,0)
+ ;;CANCELLED BY CLINIC;CX'D BY CLIN;3
+"RTN","RAIPS163",30,0)
+ ;;OTHER;OTHER;9
+"RTN","RAPCE2")
+0^4^B12403132^B12159933
+"RTN","RAPCE2",1,0)
+RAPCE2 ;HIRMFO/GJC-Interface with PCE APIs for wrkload, visits ; Oct 10, 2019@09:52:21
+"RTN","RAPCE2",2,0)
+ ;;5.0;Radiology/Nuclear Medicine;**10,17,21,163**;Mar 16, 1998;Build 1
+"RTN","RAPCE2",3,0)
+ Q
+"RTN","RAPCE2",4,0)
+FAILBUL(RADFN,RADTI,RACNI,RADUZ) ; 'Rad/Nuc Med Credit Failure' bulletin
+"RTN","RAPCE2",5,0)
+ K XMB,XMB0,XMC0,XMDT,XMM,XMMG
+"RTN","RAPCE2",6,0)
+ N RA407,RA44,RA7002,RA7003,RA71,RA791,RA81,RACPT,RACSE,RAIMGLOC
+"RTN","RAPCE2",7,0)
+ N RAINTPTR,RAPAT,RAPCSTOP,RAPRC,RASSN,RATEXT,RAUSER,RAXAMDT,RAWHO
+"RTN","RAPCE2",8,0)
+ N RAXSET,Y
+"RTN","RAPCE2",9,0)
+ S:$G(RADUZ)<.5 RADUZ=.5 ;KLM/163 - INC7656335
+"RTN","RAPCE2",10,0)
+ S RAWHO=$S($D(RAWHOERR):"Data rejected by PCE.",1:"")
+"RTN","RAPCE2",11,0)
+ S RAUSER=$P(^VA(200,RADUZ,0),"^"),RAPAT=$P($G(^DPT(RADFN,0)),"^")
+"RTN","RAPCE2",12,0)
+ S RASSN=$$SSN^RAUTL(),RA7002=$G(^RADPT(RADFN,"DT",RADTI,0))
+"RTN","RAPCE2",13,0)
+ S RA7003=$G(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0))
+"RTN","RAPCE2",14,0)
+ S RAXSET=$S(+$P(RA7002,"^",5):"This case is part of an exam set.",1:"")
+"RTN","RAPCE2",15,0)
+ S RA791(0)=$G(^RA(79.1,+$P(RA7002,"^",4),0))
+"RTN","RAPCE2",16,0)
+ S RAIMGLOC=+$P(RA791(0),"^")
+"RTN","RAPCE2",17,0)
+ S RAXAMDT=$$FMTE^XLFDT($P(RA7002,"^"),"1P"),RACSE=$P(RA7003,"^")
+"RTN","RAPCE2",18,0)
+ S RA71=$G(^RAMIS(71,+$P(RA7003,"^",2),0)),RAPRC=$E($P(RA71,"^"),1,45)
+"RTN","RAPCE2",19,0)
+ ; cpt string (#.01 and #2 flds)
+"RTN","RAPCE2",20,0)
+ S RA81=$$NAMCODE^RACPTMSC(+$P(RA71,"^",9),DT)
+"RTN","RAPCE2",21,0)
+ ; cpt code and active status
+"RTN","RAPCE2",22,0)
+ S RACPT=$P(RA81,"^")_$S($$ACTCODE^RACPTMSC(+$P(RA71,"^",9),$P(RA7002,"^")):"",1:" (inactive)")
+"RTN","RAPCE2",23,0)
+ S RAIMGLOC=$$GET1^DIQ(44,RAIMGLOC_",",.01)
+"RTN","RAPCE2",24,0)
+ S RAIMGLOC=$S(RAIMGLOC]"":RAIMGLOC,1:"Unknown")
+"RTN","RAPCE2",25,0)
+ S RA407=+$P(RA791(0),"^",22)
+"RTN","RAPCE2",26,0)
+ S RA407(0)=$G(^DIC(40.7,RA407,0)),RAPCSTOP=$P(RA407(0),"^")
+"RTN","RAPCE2",27,0)
+ S:RAPCSTOP]"" RAPCSTOP=$P(RA407(0),"^",2)_" "_RAPCSTOP
+"RTN","RAPCE2",28,0)
+ S:RAPCSTOP']"" RAPCSTOP="Unknown"
+"RTN","RAPCE2",29,0)
+ I $P(RA7003,"^",15) S RAINTPTR=$P($G(^VA(200,+$P(RA7003,"^",15),0)),"^")
+"RTN","RAPCE2",30,0)
+ I '$D(RAINTPTR),($P(RA7003,"^",12)) D  ; grab Pri. Int Res
+"RTN","RAPCE2",31,0)
+ . S RAINTPTR=$P($G(^VA(200,+$P(RA7003,"^",12),0)),"^")
+"RTN","RAPCE2",32,0)
+ . Q
+"RTN","RAPCE2",33,0)
+ I '$D(RAINTPTR) S RAINTPTR="Unknown"
+"RTN","RAPCE2",34,0)
+ D:$D(@(RAEARRY)) XMTXT
+"RTN","RAPCE2",35,0)
+ ;
+"RTN","RAPCE2",36,0)
+ ; XMB(1) -> Patient Name         XMB(2) -> Patient SSN
+"RTN","RAPCE2",37,0)
+ ; XMB(3) -> Exam D/t             XMB(4) -> Case Number
+"RTN","RAPCE2",38,0)
+ ; XMB(5) -> Procedure            XMB(6) -> Proc. CPT
+"RTN","RAPCE2",39,0)
+ ; XMB(7) -> CPT Modifiers        XMB(8) -> Imag'g Loc Stop Code
+"RTN","RAPCE2",40,0)
+ ; XMB(9) -> Interpreter          XMB(10)-> Imag'g Location
+"RTN","RAPCE2",41,0)
+ ; XMB(11)-> part of an exam set? XMB(12)-> Did PCE pass back an error?
+"RTN","RAPCE2",42,0)
+ ; XMB(13)-> Rad/Nuc Med User     XMB(14)-> 1 line text comment
+"RTN","RAPCE2",43,0)
+ ;
+"RTN","RAPCE2",44,0)
+ S XMB(1)=RAPAT,XMB(2)=RASSN,XMB(3)=RAXAMDT,XMB(4)=RACSE,XMB(5)=RAPRC
+"RTN","RAPCE2",45,0)
+ S XMB(6)=RACPT
+"RTN","RAPCE2",46,0)
+ S XMB(8)=RAPCSTOP,XMB(9)=RAINTPTR,XMB(10)=RAIMGLOC
+"RTN","RAPCE2",47,0)
+ S XMB(11)=RAXSET,XMB(12)=RAWHO,XMB(13)=RAUSER,XMB(14)=""
+"RTN","RAPCE2",48,0)
+ I $G(RALCKFAL) D
+"RTN","RAPCE2",49,0)
+ . S:$G(RALCKFAL)<3 XMB(14)="Crediting for this exam failed due to lock failure while completing an exam"_$S($G(RALCKFAL)=2:" for duplicate procedures",1:"")_"."
+"RTN","RAPCE2",50,0)
+ . S:$G(RALCKFAL)=3 XMB(14)="Credit cannot be deleted for this exam due to lock failure for this exam date."
+"RTN","RAPCE2",51,0)
+ D MODS^RAUTL2 S XMB(7)=Y(1)
+"RTN","RAPCE2",52,0)
+ ;
+"RTN","RAPCE2",53,0)
+ S XMB="RAD/NUC MED CREDIT FAILURE"
+"RTN","RAPCE2",54,0)
+ D ^XMB:$D(^XMB(3.6,"B",XMB))
+"RTN","RAPCE2",55,0)
+ K XMB,XMB0,XMC0,XMDT,XMM,XMMG
+"RTN","RAPCE2",56,0)
+ Q
+"RTN","RAPCE2",57,0)
+XMTXT ; Set XMTEXT to local array which captures error text from the
+"RTN","RAPCE2",58,0)
+ ; 'Local variable name'($J).  XMTEXT will only be set
+"RTN","RAPCE2",59,0)
+ ; conditionally and will only be set in this subroutine!
+"RTN","RAPCE2",60,0)
+ N RACNT,RADTYP,RAETYP,RAPROB,RASUB1,RASUB2,RATXT S RACNT=1,RASUB1=0
+"RTN","RAPCE2",61,0)
+ F  S RASUB1=$O(@RAEARRY@($J,RASUB1)) Q:RASUB1'>0  D
+"RTN","RAPCE2",62,0)
+ . S RAPROB="" F  S RAPROB=$O(@RAEARRY@($J,RASUB1,RAPROB)) Q:RAPROB=""  D
+"RTN","RAPCE2",63,0)
+ .. S RAETYP=""
+"RTN","RAPCE2",64,0)
+ .. F  S RAETYP=$O(@RAEARRY@($J,RASUB1,RAPROB,RAETYP)) Q:RAETYP=""  D
+"RTN","RAPCE2",65,0)
+ ... S RADTYP=""
+"RTN","RAPCE2",66,0)
+ ... F  S RADTYP=$O(@RAEARRY@($J,RASUB1,RAPROB,RAETYP,RADTYP)) Q:RADTYP=""  D
+"RTN","RAPCE2",67,0)
+ .... S RASUB2=0
+"RTN","RAPCE2",68,0)
+ .... F  S RASUB2=$O(@RAEARRY@($J,RASUB1,RAPROB,RAETYP,RADTYP,RASUB2)) Q:RASUB2'>0  D
+"RTN","RAPCE2",69,0)
+ ..... S RATXT=$G(@RAEARRY@($J,RASUB1,RAPROB,RAETYP,RADTYP,RASUB2))
+"RTN","RAPCE2",70,0)
+ ..... S:RATXT]"" RATEXT(RACNT)=RATXT,RACNT=RACNT+1
+"RTN","RAPCE2",71,0)
+ ..... Q
+"RTN","RAPCE2",72,0)
+ .... Q
+"RTN","RAPCE2",73,0)
+ ... Q
+"RTN","RAPCE2",74,0)
+ .. Q
+"RTN","RAPCE2",75,0)
+ . Q
+"RTN","RAPCE2",76,0)
+ S:$D(RATEXT) XMTEXT="RATEXT("
+"RTN","RAPCE2",77,0)
+ Q
+"RTN","RARTE1")
+0^3^B66967610^B66328918
+"RTN","RARTE1",1,0)
+RARTE1 ;HISC/CAH,FPT,GJC AISC/MJK,RMO-Edit/Delete a Report ; Oct 17, 2019@10:43:38
+"RTN","RARTE1",2,0)
+ ;;5.0;Radiology/Nuclear Medicine;**2,15,17,23,31,68,56,47,124,163**;Mar 16, 1998;Build 1
+"RTN","RARTE1",3,0)
+ ;Private IA #4793 DELETE^WVRALINK, CREATE^WVRALINK 
+"RTN","RARTE1",4,0)
+ ;Supported IA #10035
+"RTN","RARTE1",5,0)
+ ;Supported IA #10007
+"RTN","RARTE1",6,0)
+ ;11/07/2005 KAM/BAY 110020 - Correct DUZ ID from Talk Technology
+"RTN","RARTE1",7,0)
+ ;                            During the Unverify process
+"RTN","RARTE1",8,0)
+DEL D SET^RAPSET1 I $D(XQUIT) K XQUIT Q
+"RTN","RARTE1",9,0)
+ S (RAPRG74,RAXIT)=0
+"RTN","RARTE1",10,0)
+ S DIC("A")="Select Report Day-Case#: "
+"RTN","RARTE1",11,0)
+ S DIC("W")="S RA0=^(0) W ""   "",$S($D(^DPT(+$P(RA0,""^"",2),0)):$P(^(0),""^""),1:""Unknown"") K RA0 W ""   "",$$FLD^RARTFLDS(+Y,""PROC"")"
+"RTN","RARTE1",12,0)
+ S DIC("S")="I $P(^(0),U,5)'=""X""" ;select only non-deleted reports
+"RTN","RARTE1",13,0)
+ S DIC="^RARPT(",DIC(0)="AEMQZ" D ^DIC K DIC G END:Y<0
+"RTN","RARTE1",14,0)
+ S RA0=Y(0),(DA,RAIEN)=+Y
+"RTN","RARTE1",15,0)
+ I $O(^RARPT(RAIEN,2005,0)) D  D END Q
+"RTN","RARTE1",16,0)
+ . W !!?5,"Cannot delete a report that is associated with an image."
+"RTN","RARTE1",17,0)
+ . W !?5,"Contact your Imaging Coordinator for further assistance.",!
+"RTN","RARTE1",18,0)
+ . S DIR(0)="E",DIR("A")="Press RETURN to continue"
+"RTN","RARTE1",19,0)
+ . D ^DIR K DIR,DIRUT,DUOUT
+"RTN","RARTE1",20,0)
+ . Q  ;08/23/00
+"RTN","RARTE1",21,0)
+ D CHK17^RARTE3 ;see this subroutine for values of RAOK
+"RTN","RARTE1",22,0)
+ G:RAOK=1 END ;can't del rpt w/o RACN or RACNI so avoid err at UP1^RAUTL1
+"RTN","RARTE1",23,0)
+ S RAXIT=$$LOCK^RAUTL12("^RARPT(",RAIEN)
+"RTN","RARTE1",24,0)
+ I RAXIT K RAXIT D END Q  ; record locked by another
+"RTN","RARTE1",25,0)
+ASKDEL ; ask if deletion is appropriate
+"RTN","RARTE1",26,0)
+ R !!,"Do you wish to delete this report? NO// ",X:DTIME
+"RTN","RARTE1",27,0)
+ S:'$T!(X="")!(X["^") X="N"
+"RTN","RARTE1",28,0)
+ I "Nn"[$E(X) D UNLOCK^RAUTL12("^RARPT(",RAIEN) G DEL
+"RTN","RARTE1",29,0)
+ I "Yy"'[$E(X) D  G ASKDEL
+"RTN","RARTE1",30,0)
+ . W:X'["?" $C(7)
+"RTN","RARTE1",31,0)
+ . W !!?3,"Enter 'YES' to delete this report, or 'NO' not to."
+"RTN","RARTE1",32,0)
+ . Q
+"RTN","RARTE1",33,0)
+ ; comment out next line, these 3 vars are already set by CHK17^RARTE3
+"RTN","RARTE1",34,0)
+ ;S RADFN=+$P(RA0,"^",2),RADTI=9999999.9999-$P(RA0,"^",3),RACN=$P(RA0,"^",4)
+"RTN","RARTE1",35,0)
+ G:RAOK=2 AD2 ;don't remove piece 17 if rpt doesn't match exm's rpt ptr
+"RTN","RARTE1",36,0)
+ ; del other member's REPORT TEXT xrefs, and set pointer to #74 as null
+"RTN","RARTE1",37,0)
+ D DEL17^RARTE2(RAIEN) ;del ptrs to file 74 excluding lead case of prtset
+"RTN","RARTE1",38,0)
+ S RACNI=$O(^RADPT(RADFN,"DT",RADTI,"P","B",RACN,0))
+"RTN","RARTE1",39,0)
+ G:'$D(^RADPT(RADFN,"DT",RADTI,"P",+RACNI,0))#2 AD2
+"RTN","RARTE1",40,0)
+ ; kill any xrefs for file #70's REPORT TEXT
+"RTN","RARTE1",41,0)
+ S DA(2)=RADFN,DA(1)=RADTI,DA=RACNI D ENKILL^RAXREF(70.03,17,RAIEN,.DA)
+"RTN","RARTE1",42,0)
+ ; set REPORT TEXT to null
+"RTN","RARTE1",43,0)
+ S $P(^RADPT(RADFN,"DT",RADTI,"P",+RACNI,0),"^",17)=""
+"RTN","RARTE1",44,0)
+AD2 K RAXIT S RAPRG74=1 ;RAPRG74 used in kill logic file 74 fld .01
+"RTN","RARTE1",45,0)
+ D MARKDEL^RARTE7 ; mark report deleted, save DXs, remov DXs fm case(s)
+"RTN","RARTE1",46,0)
+ W !?10,"...report deletion complete."
+"RTN","RARTE1",47,0)
+ D:RAOK'=2 UP1^RAUTL1 ;skip update status if report doesn't belong to exm
+"RTN","RARTE1",48,0)
+ D UPDTPNT^RAUTL9(RAIEN) ; Update pointers in 74.2, and 74.4!
+"RTN","RARTE1",49,0)
+ D UNLOCK^RAUTL12("^RARPT(",RAIEN) ; unlock report
+"RTN","RARTE1",50,0)
+ I RAOK'=2,$T(DELETE^WVRALINK)]"" D DELETE^WVRALINK(RADFN,RADTI,RACNI) ; women's health, skip if report doesn't belong to exm
+"RTN","RARTE1",51,0)
+END K %,%Y,D0,DA,DIC,DIE,RAJ1,DIK,RADFN,RADTI,RACN,RACNI,RA0,RAIEN,RAOR
+"RTN","RARTE1",52,0)
+ K RAORDIFN,RAPRG74,RASN,RASTI,Y ;KLM/163 - removed RADUZ from kill
+"RTN","RARTE1",53,0)
+ K RADATE,RADTE,X
+"RTN","RARTE1",54,0)
+ K RA791,RACANC,RACN0,RACPT,RACPTNDE,RAI,RAN,RAOBR4,RAPKG,RAPRCNDE,RAPROC,RAPROCIT,RAPRV,RASULT,RAXIT
+"RTN","RARTE1",55,0)
+ K C,D,D1,DDER,DDH,DFN,DI,DISYS,DIWF,DIWL,DIWR,DQ,DR,GMRAL,HLN,HLRESLT,HLSAN,I,VA,VADM,VAERR,X0
+"RTN","RARTE1",56,0)
+ Q
+"RTN","RARTE1",57,0)
+ ;
+"RTN","RARTE1",58,0)
+UNVER(RAXRPT) ; unverify a report
+"RTN","RARTE1",59,0)
+ ; Input: if RAXRPT>0 then we know the report we wish to delete
+"RTN","RARTE1",60,0)
+ ;                    this requires no user interaction.
+"RTN","RARTE1",61,0)
+ ;           RAXRPT=0 user is prompted for the report they wish to
+"RTN","RARTE1",62,0)
+ ;                    delete (interactive)
+"RTN","RARTE1",63,0)
+ ;
+"RTN","RARTE1",64,0)
+ I 'RAXRPT D SET^RAPSET1 G Q:$D(XQUIT)
+"RTN","RARTE1",65,0)
+ I RAXRPT N X S X=RAXRPT
+"RTN","RARTE1",66,0)
+ S RAXIT=0,DIC="^RARPT(",DIC("S")="I $P(^(0),U,5)=""V"""
+"RTN","RARTE1",67,0)
+ S DIC(0)=$S('RAXRPT:"AEMQZ",1:"NZ")
+"RTN","RARTE1",68,0)
+ D DICW,^DIC K DIC I Y<0 D Q Q
+"RTN","RARTE1",69,0)
+ S RA74B4=$G(Y(0))
+"RTN","RARTE1",70,0)
+ S (RARPT,DA)=+Y,RADFN=$P(Y(0),U,2)
+"RTN","RARTE1",71,0)
+ S RADTI=9999999.9999-$P(Y(0),"^",3),RACN=$P(Y(0),"^",4)
+"RTN","RARTE1",72,0)
+ I 'RAXRPT S DR="D EN1^RAUTL9 I $D(DIRUT) S Y=""@99"";S:RASTATX'=""PD"" Y=""@10"";25;@10;5////^S X=RASTATX;S:X=""V"" Y=""@99"";9///@;17///@;100///NOW;@99"
+"RTN","RARTE1",73,0)
+ S:RAXRPT DR="5////^S X=""D"";9///@;17///@;100///NOW"
+"RTN","RARTE1",74,0)
+ ;11/07/2005 KAM/BAY 110020 Modified next line to look for voice recognition
+"RTN","RARTE1",75,0)
+ S DIE="^RARPT(",DR(2,74.01)="2////U;3////"_$S(($D(RAQUIET)#2)&($D(RASUB)#2):$G(^TMP("RARPT-REC",$J,RASUB,"RAVERF")),1:DUZ)
+"RTN","RARTE1",76,0)
+ S RAXIT=$$LOCK^RAUTL12("^RARPT(",RARPT)
+"RTN","RARTE1",77,0)
+ I RAXIT D Q QUIT
+"RTN","RARTE1",78,0)
+ D ^DIE K DE,DQ,DIE,DR D UNLOCK^RAUTL12("^RARPT(",RARPT)
+"RTN","RARTE1",79,0)
+ N RA1,RA2,RA3,RA4 S RA1=RADFN,RA2=RADTI,RA3=RACN,RA4=RARPT
+"RTN","RARTE1",80,0)
+ S RA(0)=$G(^RARPT(RARPT,0)),RA(5)=$P(^RARPT(RARPT,0),"^",5)
+"RTN","RARTE1",81,0)
+ S RA(7)=$P(^RARPT(RARPT,0),"^",7),RA(10)=$P(^RARPT(RARPT,0),"^",10)
+"RTN","RARTE1",82,0)
+ I RA(5)'="V" D
+"RTN","RARTE1",83,0)
+ . I RA(7)]"" D ENKILL^RAXREF(74,7,RA(7),RARPT) S $P(^RARPT(RARPT,0),"^",7)=""
+"RTN","RARTE1",84,0)
+ . I RA(10)]"" D ENKILL^RAXREF(74,10,RA(10),RARPT) S $P(^RARPT(RARPT,0),"^",10)=""
+"RTN","RARTE1",85,0)
+ . N RADDEN,RAUTOE S (RADDEN,RAUTOE)="" D ^RARTR,EN1^RARTE3(RA4)
+"RTN","RARTE1",86,0)
+ . Q
+"RTN","RARTE1",87,0)
+ S RADFN=RA1,RADTI=RA2,RACN=RA3,RARPT=RA4
+"RTN","RARTE1",88,0)
+ S RACNI=$O(^RADPT(RADFN,"DT",RADTI,"P","B",RACN,0)) I $D(^RADPT(RADFN,"DT",RADTI,"P",+RACNI,0)) D UP1^RAUTL1 I $D(^RABTCH(74.4,"B",RARPT)) D
+"RTN","RARTE1",89,0)
+ .S DA=0 F  S DA=$O(^RABTCH(74.4,"B",RARPT,DA)) Q:'DA  D
+"RTN","RARTE1",90,0)
+ ..S DIK="^RABTCH(74.4," D ^DIK
+"RTN","RARTE1",91,0)
+ ..Q
+"RTN","RARTE1",92,0)
+ .Q
+"RTN","RARTE1",93,0)
+ I "^V^EF^"'[("^"_$P($G(^RARPT(RARPT,0)),"^",5)_"^"),$T(DELETE^WVRALINK)]"" D DELETE^WVRALINK(RADFN,RADTI,RACNI) ; women's health
+"RTN","RARTE1",94,0)
+ ;
+"RTN","RARTE1",95,0)
+Q ; Kill and quit
+"RTN","RARTE1",96,0)
+ K DFN,DI,DIW,DIWF,DIWI,DIWL,DIWT,DIWTC,DIWX,RAACNT,RANUM,RAST,RAWHOVER
+"RTN","RARTE1",97,0)
+ K %,%DT,%W,%Y,%Y1,C,D,D0,D1,DA,DIC,DIE,DIK,DR,RA,RACN,RACNI,RADATE
+"RTN","RARTE1",98,0)
+ K RADFN,RADIV,RADTE,RADTI,RAJ,RAOR,RAORDIFN,RARPT,RASET,RASN,RASTATX
+"RTN","RARTE1",99,0)
+ K RASTI,RAXIT,X,XQUIT,Y,RA74B4,DDH,DIPGM,DISYS,I ;KLM/163 - removed RADUZ from kill
+"RTN","RARTE1",100,0)
+ Q
+"RTN","RARTE1",101,0)
+ ;
+"RTN","RARTE1",102,0)
+STD S (RALR,RALI)=1
+"RTN","RARTE1",103,0)
+STD1 S DIC="^RA(74.1,",DIC("A")="Select 'Standard' Report to Copy: ",DIC(0)="AEMQ" D ^DIC K DIC("A") Q:Y<0
+"RTN","RARTE1",104,0)
+ASKSEL W:$$IMPRPT(RARPT) !!,"Report already exists.  This will over-write it."
+"RTN","RARTE1",105,0)
+ W !,"Are you sure you want the '",$P(Y,"^",2),"' standard report? No// " R X:DTIME G STD1:'$T!(X="")!(X["^")!("Nn"[$E(X))
+"RTN","RARTE1",106,0)
+ I "Yy"'[$E(X) W:X'["?" $C(7) W !!?3,"Enter 'YES' to select the '",$P(Y,"^",2),"' standard report, or 'NO' not to." G ASKSEL
+"RTN","RARTE1",107,0)
+ I RALR=1,RALI=1 K ^RARPT(RARPT,"R"),^("I")
+"RTN","RARTE1",108,0)
+ F I=1:1 Q:'$D(^RA(74.1,+Y,"R",I,0))  S ^RARPT(RARPT,"R",RALR,0)=^(0),RALR=RALR+1
+"RTN","RARTE1",109,0)
+ F I=1:1 Q:'$D(^RA(74.1,+Y,"I",I,0))  S ^RARPT(RARPT,"I",RALI,0)=^(0),RALI=RALI+1
+"RTN","RARTE1",110,0)
+ASKADD R !!,"Do you want to add another standard to this report? No// ",X:DTIME Q:'$T!(X="")!(X["^")!("Nn"[$E(X))  I "Yy"'[$E(X) W:X'["?" $C(7) W !!?3,"Enter 'YES' to add another standard to this report, or 'NO' not to." G ASKADD
+"RTN","RARTE1",111,0)
+ S (^RARPT(RARPT,"R",RALR,0),^RARPT(RARPT,"I",RALI,0))="",RALR=RALR+1,RALI=RALI+1 W ! G STD1
+"RTN","RARTE1",112,0)
+ ;
+"RTN","RARTE1",113,0)
+EDTRPT ; Called from 'RARTE4' and 'RARTVER'.
+"RTN","RARTE1",114,0)
+ N RAXIT S RACT=$S('+$G(^RARPT(RARPT,"T")):"I",1:"E")
+"RTN","RARTE1",115,0)
+ S:'$D(^RARPT(RARPT,"T")) ^("T")=""
+"RTN","RARTE1",116,0)
+ S DA=RARPT,DR="[RA REPORT EDIT]",DIE="^RARPT(" D ^DIE K DE,DQ ;,RAFLAGK
+"RTN","RARTE1",117,0)
+ I $D(Y),RACT="V",'$P(^RARPT(RARPT,0),"^",9) W !,$C(7),"You must enter a verifying Interpreting Physician to 'VERIFY' a report.",!?3,"...report status will now be changed to 'DRAFT'." S DA=RARPT,DR="5///D" D ^DIE K DE,DQ ;Q
+"RTN","RARTE1",118,0)
+ Q:$D(RAONLINE)&($G(RARDX)="E")
+"RTN","RARTE1",119,0)
+ ; move PACS line to its own subroutine
+"RTN","RARTE1",120,0)
+ ;I $D(RAFLAGK) K RAFLAGK Q
+"RTN","RARTE1",121,0)
+ G:$D(Y) PACS
+"RTN","RARTE1",122,0)
+ ;Since report editing is not necessarily screened by sign-on imaging
+"RTN","RARTE1",123,0)
+ ;type, use the imaging type on the exam record   ;ch
+"RTN","RARTE1",124,0)
+ S RAIMGTYI=$P($G(^RADPT(RADFN,"DT",RADTI,0)),U,2),RAIMGTYJ=$P($G(^RA(79.2,+RAIMGTYI,0)),U)
+"RTN","RARTE1",125,0)
+ S X=+$O(^RA(72,"AA",RAIMGTYJ,9,0)),DA(2)=RADFN,DA(1)=RADTI,DA=RACNI,DIE="^RADPT("_DA(2)_",""DT"","_DA(1)_",""P""," K RAIMGTYI,RAIMGTYJ
+"RTN","RARTE1",126,0)
+ S DR=13_$S(RACT'="V":"",'$D(^RA(72,X,.1)):"",$P(^(.1),"^",5)'="Y":"",1:"R")_";I $D(^RA(78.3,+X,0)),$P(^(0),""^"",4)=""y"" S RAAB=1"
+"RTN","RARTE1",127,0)
+ ;
+"RTN","RARTE1",128,0)
+ ;lock the correct sub-file (pset?)
+"RTN","RARTE1",129,0)
+ D DXLOC
+"RTN","RARTE1",130,0)
+ ;
+"RTN","RARTE1",131,0)
+ I RACT="V",$P($G(^RA(72,X,.1)),"^",5)="Y" S DIE("NO^")="BACK"
+"RTN","RARTE1",132,0)
+ I 'RAXIT D ^DIE K DA,DE,DQ,DIE,DR
+"RTN","RARTE1",133,0)
+ I RAXIT!($P(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0),U,13)="")!($D(Y)) D DXULOC G PACS
+"RTN","RARTE1",134,0)
+ S DR="50///"_RACN
+"RTN","RARTE1",135,0)
+ S DR(2,70.03)=13.1
+"RTN","RARTE1",136,0)
+ S DR(3,70.14)=.01_";I $D(^RA(78.3,+X,0)),$P(^(0),""^"",4)=""y"" S RAAB=1"
+"RTN","RARTE1",137,0)
+ S DA(1)=RADFN,DA=RADTI,DIE="^RADPT("_DA(1)_",""DT"","
+"RTN","RARTE1",138,0)
+ ;
+"RTN","RARTE1",139,0)
+ I 'RAXIT D ^DIE K DA,DE,DQ,DIE,DR
+"RTN","RARTE1",140,0)
+ ;
+"RTN","RARTE1",141,0)
+COPYDX ;if we have a printset copy over the Dx code data (both primary & secondary)
+"RTN","RARTE1",142,0)
+ ;to all our descendents before building our HL7 ORU messsages.
+"RTN","RARTE1",143,0)
+ I RAPRTSET S RADRS=1,RAXIT=0 D COPY^RARTE2 ;P47
+"RTN","RARTE1",144,0)
+ ;unlock the correct sub-file (pset?)
+"RTN","RARTE1",145,0)
+ D DXULOC
+"RTN","RARTE1",146,0)
+ ;
+"RTN","RARTE1",147,0)
+PACS I ($P(^RARPT(RARPT,0),U,5)="V")!($P(^(0),U,5)="R") D RPT^RAHLRPC
+"RTN","RARTE1",148,0)
+ ;pre p124: "^V^EF" post p124 "^V^EF^"
+"RTN","RARTE1",149,0)
+ I "^V^EF^"[("^"_$P(^RARPT(RARPT,0),U,5)_"^"),$T(CREATE^WVRALINK)]"" D CREATE^WVRALINK(RADFN,RADTI,RACNI) ; women's health
+"RTN","RARTE1",150,0)
+ Q
+"RTN","RARTE1",151,0)
+ ;
+"RTN","RARTE1",152,0)
+ASKBTCH R !!,"Do you want to batch print reports? Yes// ",X:DTIME S:'$T X="^" S:X="" X="Y" Q:X["^"  I "Nn"'[$E(X),"Yy"'[$E(X) W:X'["?" $C(7) W !!?3,"Enter 'YES' to batch print reports, or 'NO' not to." G ASKBTCH
+"RTN","RARTE1",153,0)
+ Q
+"RTN","RARTE1",154,0)
+ ;
+"RTN","RARTE1",155,0)
+ASKPRT R !!,"Do you want to print batch now? No// ",X:DTIME S:'$T!(X="")!(X["^") X="N" I "Nn"'[$E(X),"Yy"'[$E(X) W:X'["?" $C(7) W !!?3,"Enter 'YES' to print this batch, or 'NO' not to." G ASKPRT
+"RTN","RARTE1",156,0)
+ Q
+"RTN","RARTE1",157,0)
+DICW ; Build DIC("W") string
+"RTN","RARTE1",158,0)
+ N DO D DO^DIC1
+"RTN","RARTE1",159,0)
+ S DIC("W")=$S($G(DIC("W"))]"":DIC("W")_" ",1:"")_"W ""   "",$$FLD^RARTFLDS(+Y,""PROC"")"
+"RTN","RARTE1",160,0)
+ Q
+"RTN","RARTE1",161,0)
+IMPRPT(Y) ; Does the report we are currently editing have either Report
+"RTN","RARTE1",162,0)
+ ; or Impression Text?
+"RTN","RARTE1",163,0)
+ ; Input : 'Y' - the ien of the report being edited
+"RTN","RARTE1",164,0)
+ ; Output: '1' - either impression or report text exists, '0' - neither
+"RTN","RARTE1",165,0)
+ ;               report or impression text exists.
+"RTN","RARTE1",166,0)
+ Q $S(+$O(^RARPT(Y,"I",0)):1,+$O(^RARPT(Y,"R",0)):1,1:0)
+"RTN","RARTE1",167,0)
+ ;
+"RTN","RARTE1",168,0)
+DXLOC ;lock the correct RAD/NUC MED PATIENT sub-file
+"RTN","RARTE1",169,0)
+ S:'RAPRTSET RAXIT=$$LOCK^RAUTL12("^RADPT("_RADFN_",""DT"","_RADTI_",""P"",",RACNI)
+"RTN","RARTE1",170,0)
+ S:RAPRTSET RAXIT=$$LOCK^RAUTL12("^RADPT("_RADFN_",""DT"",",RADTI)
+"RTN","RARTE1",171,0)
+ Q
+"RTN","RARTE1",172,0)
+ ;
+"RTN","RARTE1",173,0)
+DXULOC ;unlock the correct RAD/NUC MED PATIENT sub-file
+"RTN","RARTE1",174,0)
+ D:'RAPRTSET UNLOCK^RAUTL12("^RADPT("_RADFN_",""DT"","_RADTI_",""P"",",RACNI)
+"RTN","RARTE1",175,0)
+ D:RAPRTSET UNLOCK^RAUTL12("^RADPT("_RADFN_",""DT"",",RADTI)
+"RTN","RARTE1",176,0)
+ Q
+"RTN","RARTE1",177,0)
+ ;
+"RTN","RARTE6")
+0^1^B138930014^B140134431
+"RTN","RARTE6",1,0)
+RARTE6 ;HISC/SM Restore deleted report ; Oct 10, 2019@09:41:22
+"RTN","RARTE6",2,0)
+ ;;5.0;Radiology/Nuclear Medicine;**56,95,99,47,163**;Mar 16, 1998;Build 1
+"RTN","RARTE6",3,0)
+ ;Supported IA #10060 ^VA(200
+"RTN","RARTE6",4,0)
+ ;Supported IA #2053 FILE^DIE, UPDATE^DIE
+"RTN","RARTE6",5,0)
+ ;Supported IA #2052 GET1^DID
+"RTN","RARTE6",6,0)
+ ;Supported IA #2056 GET1^DIQ
+"RTN","RARTE6",7,0)
+ ;Supported IA #10103 NOW^XLFDT
+"RTN","RARTE6",8,0)
+ ;Supported IA #2055 ROOT^DILFD
+"RTN","RARTE6",9,0)
+ ;Supported IA #10060 GETS^DIQ
+"RTN","RARTE6",10,0)
+ ;P99, added pregnancy screen and pregnancy screen comment
+"RTN","RARTE6",11,0)
+ Q
+"RTN","RARTE6",12,0)
+RSTR ;restore deleted report
+"RTN","RARTE6",13,0)
+ F I=1:1:5 W !?4,$P($T(INTRO+I),";;",2)
+"RTN","RARTE6",14,0)
+ W !
+"RTN","RARTE6",15,0)
+ S RAXIT=0 ; =0 exit normally, =1 exit early
+"RTN","RARTE6",16,0)
+ I '$D(^XUSEC("RA MGR",DUZ)) W !!,"Supervisory key RA MGR is needed for this option." Q
+"RTN","RARTE6",17,0)
+ S DIC("S")="I $P(^(0),""^"",5)=""X""" ;only select deleted reports
+"RTN","RARTE6",18,0)
+ S DIC("A")="Select Deleted Report to restore: "
+"RTN","RARTE6",19,0)
+ S DIC="^RARPT(",DIC(0)="AEMQZ"
+"RTN","RARTE6",20,0)
+ D DICW^RARTST1,^DIC K DIC I Y<0 G FINISH
+"RTN","RARTE6",21,0)
+ S RARPT=+Y
+"RTN","RARTE6",22,0)
+ W !
+"RTN","RARTE6",23,0)
+ D CHECK G:RAXIT NOTDONE ;check if case has rpt & DX codes
+"RTN","RARTE6",24,0)
+ D ASK1 G:RAXIT NOTDONE ;ask if want restore deleted report
+"RTN","RARTE6",25,0)
+ D ASSOC G:RAXIT NOTDONE ;display associated case(s) & ask user again if want continue
+"RTN","RARTE6",26,0)
+ D RESTORE ;restore rpt status, link rpt to case(s)
+"RTN","RARTE6",27,0)
+ D FINISH
+"RTN","RARTE6",28,0)
+ Q
+"RTN","RARTE6",29,0)
+CHECK ; check if associated case(s) has rpt and DX codes
+"RTN","RARTE6",30,0)
+ S RA74=^RARPT(RARPT,0)
+"RTN","RARTE6",31,0)
+ S RADFN=+$P(RA74,U,2),RADTI=9999999.9999-$P(RA74,U,3),RACN=+$P($P(RA74,U,1),"-",$L($P(RA74,U,1),"-"))
+"RTN","RARTE6",32,0)
+ S RACNI=$O(^RADPT(RADFN,"DT",RADTI,"P","B",RACN,0))
+"RTN","RARTE6",33,0)
+ S RA70=$G(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0))
+"RTN","RARTE6",34,0)
+ I 'RADFN!('RADTI)!('RACNI)!(RA70="") D ERR0 Q
+"RTN","RARTE6",35,0)
+ S RANME=$$GET1^DIQ(2,RADFN,.01),RAST=+$P(RA70,U,3)
+"RTN","RARTE6",36,0)
+ S RAPRC=$S($D(^RAMIS(71,+$P(RA70,U,2),0)):$P(^(0),U),1:"Unknown")
+"RTN","RARTE6",37,0)
+ S RASSN=$$SSN^RAUTL,RASUBY0=RA70
+"RTN","RARTE6",38,0)
+ S RANODE=$G(^RADPT(RADFN,"DT",RADTI,0))
+"RTN","RARTE6",39,0)
+ ; check if case(s) already have a report
+"RTN","RARTE6",40,0)
+ D EN2^RAUTL20(.RAMEMARR)
+"RTN","RARTE6",41,0)
+ I RAPRTSET D
+"RTN","RARTE6",42,0)
+ .S RA1=0
+"RTN","RARTE6",43,0)
+ .F  S RA1=$O(RAMEMARR(RA1)) Q:RA1=""  D
+"RTN","RARTE6",44,0)
+ ..I $P(^RADPT(RADFN,"DT",RADTI,"P",RA1,0),U,17)'="" D ERR3($P(RAMEMARR(RA1),"^"))
+"RTN","RARTE6",45,0)
+ ..Q
+"RTN","RARTE6",46,0)
+ .Q
+"RTN","RARTE6",47,0)
+ E  I $P(RA70,U,17) D ERR3($P(RA74,U,1)) Q
+"RTN","RARTE6",48,0)
+ ; check if case(s) already have DX codes, staff, resident
+"RTN","RARTE6",49,0)
+ ; don't use IF ELSE here due to outside calls
+"RTN","RARTE6",50,0)
+ ;
+"RTN","RARTE6",51,0)
+ ; Printset cases
+"RTN","RARTE6",52,0)
+ I RAPRTSET D  Q
+"RTN","RARTE6",53,0)
+ .S RA1=0
+"RTN","RARTE6",54,0)
+ .F  S RA1=$O(RAMEMARR(RA1)) Q:RA1=""  D
+"RTN","RARTE6",55,0)
+ ..; check primary
+"RTN","RARTE6",56,0)
+ ..F RA2=13,15,12 I $P(^RADPT(RADFN,"DT",RADTI,"P",RA1,0),U,RA2)'="" D ERR2($P(RAMEMARR(RA1),"^"),70.03,RA2)
+"RTN","RARTE6",57,0)
+ ..; check secondary
+"RTN","RARTE6",58,0)
+ ..S RAIENS=1_","_RA1_","_RADTI_","_RADFN_","
+"RTN","RARTE6",59,0)
+ ..F RA2=70.14,70.11,70.09 S RAROOT=$$ROOT^DILFD(RA2,RAIENS) I $O(@(RAROOT_"0)")) D ERR2($P(RAMEMARR(RA1),"^"),RA2,.01)
+"RTN","RARTE6",60,0)
+ ..Q
+"RTN","RARTE6",61,0)
+ .Q
+"RTN","RARTE6",62,0)
+ ; single case
+"RTN","RARTE6",63,0)
+ F RA2=13,15,12 I $P(RA70,U,RA2) D ERR2($P(RA74,U,1),70.03,RA2)
+"RTN","RARTE6",64,0)
+ S RAIENS=1_","_RACNI_","_RADTI_","_RADFN_","
+"RTN","RARTE6",65,0)
+ F RA2=70.14,70.11,70.09 S RAROOT=$$ROOT^DILFD(RA2,RAIENS) I $O(@(RAROOT_"0)")) D ERR2($P(RA74,U,1),RA2,.01)
+"RTN","RARTE6",66,0)
+ Q
+"RTN","RARTE6",67,0)
+ASK1 ; ask if want to restore report
+"RTN","RARTE6",68,0)
+ ; RAPRVIEN  last Activity Log rec in subfile 74.01
+"RTN","RARTE6",69,0)
+ ; RAPRVST   previous report status logged in latest activity log rec
+"RTN","RARTE6",70,0)
+ ; RALAST    last activity log record
+"RTN","RARTE6",71,0)
+ S RAPRVIEN=$O(^RARPT(RARPT,"L",""),-1)
+"RTN","RARTE6",72,0)
+ I 'RAPRVIEN D ERR1 Q
+"RTN","RARTE6",73,0)
+ S RALAST=$G(^RARPT(RARPT,"L",+RAPRVIEN,0))
+"RTN","RARTE6",74,0)
+ I RALAST="" D ERR1 Q
+"RTN","RARTE6",75,0)
+ S RAPRVST=$P(RALAST,U,4) ;previous rpt status
+"RTN","RARTE6",76,0)
+ K DIR
+"RTN","RARTE6",77,0)
+ S DIR(0)="Y",DIR("B")="NO"
+"RTN","RARTE6",78,0)
+ S DIR("A")="Do you want to restore this deleted report"
+"RTN","RARTE6",79,0)
+ S DIR("?")="Answer ""Y"" to assign the previous report status, "_$$GET1^DIQ(74.01,RAPRVIEN_","_RARPT_",",4)_", to this report."
+"RTN","RARTE6",80,0)
+ D ^DIR K DIR
+"RTN","RARTE6",81,0)
+ S:$D(DIRUT) RAXIT=1
+"RTN","RARTE6",82,0)
+ S:'Y RAXIT=1
+"RTN","RARTE6",83,0)
+ Q
+"RTN","RARTE6",84,0)
+ASSOC ;
+"RTN","RARTE6",85,0)
+ ; list case(s) for this report
+"RTN","RARTE6",86,0)
+ S (Y,RADTE)=+$P(RANODE,U)
+"RTN","RARTE6",87,0)
+ D D^RAUTL S RADATE=Y
+"RTN","RARTE6",88,0)
+ D DISPLAY
+"RTN","RARTE6",89,0)
+ W !
+"RTN","RARTE6",90,0)
+ K DIR
+"RTN","RARTE6",91,0)
+ S DIR(0)="Y",DIR("B")="NO"
+"RTN","RARTE6",92,0)
+ S DIR("A")="Are you sure you want to link this report back to the case"_$S(RAPRTSET:"s",1:"")
+"RTN","RARTE6",93,0)
+ S DIR("?")="Answer ""Y"" to link this report back to the case(s) shown above."
+"RTN","RARTE6",94,0)
+ D ^DIR K DIR
+"RTN","RARTE6",95,0)
+ S:$D(DIRUT) RAXIT=1
+"RTN","RARTE6",96,0)
+ S:'Y RAXIT=1
+"RTN","RARTE6",97,0)
+ Q
+"RTN","RARTE6",98,0)
+RESTORE ; set Report Status to "before delete" value, link to case(s)
+"RTN","RARTE6",99,0)
+ D SETFF(74,5,RARPT,RAPRVST)
+"RTN","RARTE6",100,0)
+ W !!?3,"... Restored ",$P(RA74,U,1),"'s report status to: ",$$GET1^DIQ(74,+RARPT,5),"."
+"RTN","RARTE6",101,0)
+ ;
+"RTN","RARTE6",102,0)
+ ; set activity log record
+"RTN","RARTE6",103,0)
+ S RAIENL="+1,"_RARPT_","
+"RTN","RARTE6",104,0)
+ D SETALOG(RAIENL,"R","")
+"RTN","RARTE6",105,0)
+ ;
+"RTN","RARTE6",106,0)
+ ; link report to single case or all cases of a printset
+"RTN","RARTE6",107,0)
+ I RAPRTSET D
+"RTN","RARTE6",108,0)
+ .S RA1=""
+"RTN","RARTE6",109,0)
+ .F  S RA1=$O(RAMEMARR(RA1)) Q:RA1=""  S $P(^RADPT(RADFN,"DT",RADTI,"P",RA1,0),U,17)=RARPT D MSG1($P(RAMEMARR(RA1),"^"))
+"RTN","RARTE6",110,0)
+ .Q
+"RTN","RARTE6",111,0)
+ E  S $P(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0),U,17)=RARPT D MSG1($P(RA74,U,1))
+"RTN","RARTE6",112,0)
+ ;
+"RTN","RARTE6",113,0)
+ ;Restore Primary and Secondary DX codes, Staff and Residents
+"RTN","RARTE6",114,0)
+ ;
+"RTN","RARTE6",115,0)
+ F RAFLD=5,7,9 S RAPREV=$P(RALAST,U,RAFLD) D:RAPREV SET70(RAFLD)
+"RTN","RARTE6",116,0)
+ W !!!?3,"** You need to edit the case"_$S(RAPRTSET:"s",1:"")_" to update the exam status. **"
+"RTN","RARTE6",117,0)
+ Q
+"RTN","RARTE6",118,0)
+SET70(X) ; put back previous DX codes, Staff, Residents into case record
+"RTN","RARTE6",119,0)
+ ; assumes if no primary then no secondaries
+"RTN","RARTE6",120,0)
+ K RAFDA,RAA
+"RTN","RARTE6",121,0)
+ N RA1
+"RTN","RARTE6",122,0)
+ S RAIENS=1_","_RAPRVIEN_","_RARPT_","
+"RTN","RARTE6",123,0)
+ ;
+"RTN","RARTE6",124,0)
+ ; X is the field number from subfile 74.01:
+"RTN","RARTE6",125,0)
+ ; 5 = BEFORE DELETION PRIM. DX CODE
+"RTN","RARTE6",126,0)
+ ; 7 = BEFORE DELETION PRIM. STAFF
+"RTN","RARTE6",127,0)
+ ; 9 = BEFORE DELETION PRIM. RESIDENT
+"RTN","RARTE6",128,0)
+ ;
+"RTN","RARTE6",129,0)
+ ; RAF1 = subfile number from file 74's activity log
+"RTN","RARTE6",130,0)
+ ; RAF2 = subfile number from file 70's secondaries
+"RTN","RARTE6",131,0)
+ ; RAF3 = subfile number pointed to from file 70's secondaries
+"RTN","RARTE6",132,0)
+ ; RAPIECE = piece in 70.03's 0 node
+"RTN","RARTE6",133,0)
+ S RAF1=$S(X=5:74.16,X=7:74.18,X=9:74.19,1:"") Q:RAF1=""
+"RTN","RARTE6",134,0)
+ S RAF2=$S(X=5:70.14,X=7:70.11,X=9:70.09,1:"") Q:RAF2=""
+"RTN","RARTE6",135,0)
+ S RAF3=$$GET1^DID(RAF2,.01,"","POINTER")
+"RTN","RARTE6",136,0)
+ ; extract file number from RAF3
+"RTN","RARTE6",137,0)
+ S RAF3=$TR(RAF3,$TR(RAF3,"0123456789."))
+"RTN","RARTE6",138,0)
+ ;piece number for Primary DX/Staff/Resident in 70.03
+"RTN","RARTE6",139,0)
+ S RAPIECE=$S(X=5:13,X=7:15,X=9:12,1:"") Q:RAPIECE=""
+"RTN","RARTE6",140,0)
+ S RAROOT=$$ROOT^DILFD(RAF1,RAIENS,1) ;closed root under file 74's Activity Log
+"RTN","RARTE6",141,0)
+ ;copy secondaries into RAA()
+"RTN","RARTE6",142,0)
+ M RAA=@RAROOT
+"RTN","RARTE6",143,0)
+ ;
+"RTN","RARTE6",144,0)
+ G:RAPRTSET PSET
+"RTN","RARTE6",145,0)
+ ;
+"RTN","RARTE6",146,0)
+ ; single case
+"RTN","RARTE6",147,0)
+ ;
+"RTN","RARTE6",148,0)
+ ; copy Primary into single case
+"RTN","RARTE6",149,0)
+ S RAFDA(70.03,RACNI_","_RADTI_","_RADFN_",",RAPIECE)=RAPREV
+"RTN","RARTE6",150,0)
+ D FILE^DIE("","RAFDA","RAMSG")
+"RTN","RARTE6",151,0)
+ I $D(RAMSG("DIERR")) D ERR4($P(RA74,U,1),$$GET1^DID(70.03,RAPIECE,"","LABEL"),$$GET1^DIQ(RAF3,RAPREV,.01))
+"RTN","RARTE6",152,0)
+ E  D MSG2($P(RA74,U,1),$$GET1^DID(70.03,RAPIECE,"","LABEL"),$$GET1^DIQ(RAF3,RAPREV,.01))
+"RTN","RARTE6",153,0)
+ K RAFDA,RAMSG
+"RTN","RARTE6",154,0)
+ ;
+"RTN","RARTE6",155,0)
+ Q:$O(RAA(0))'>0  ; no secondaries
+"RTN","RARTE6",156,0)
+ ;
+"RTN","RARTE6",157,0)
+ ;copy secondary items into single case
+"RTN","RARTE6",158,0)
+ S RA1=0
+"RTN","RARTE6",159,0)
+ F  S RA1=$O(RAA(RA1)) Q:'RA1  S RAX=$G(RAA(RA1,0)) D:RAX
+"RTN","RARTE6",160,0)
+ .S RAFDA(RAF2,"+2,"_RACNI_","_RADTI_","_RADFN_",",.01)=RAX
+"RTN","RARTE6",161,0)
+ .D UPDATE^DIE(,"RAFDA",,"RAMSG")
+"RTN","RARTE6",162,0)
+ .I $D(RAMSG("DIERR")) D ERR4($P(RA74,U,1),$$GET1^DID(RAF2,.01,"","LABEL"),$$GET1^DIQ(RAF3,RAX,.01))
+"RTN","RARTE6",163,0)
+ .E  D MSG2($P(RA74,U,1),$$GET1^DID(RAF2,.01,"","LABEL"),$$GET1^DIQ(RAF3,RAX,.01))
+"RTN","RARTE6",164,0)
+ .K RAFDA,RAMSG
+"RTN","RARTE6",165,0)
+ .Q
+"RTN","RARTE6",166,0)
+ Q
+"RTN","RARTE6",167,0)
+ ;
+"RTN","RARTE6",168,0)
+ ; cases from printset
+"RTN","RARTE6",169,0)
+ ;
+"RTN","RARTE6",170,0)
+PSET ; copy Primary into cases of a printset
+"RTN","RARTE6",171,0)
+ S RA1=0
+"RTN","RARTE6",172,0)
+ F  S RA1=$O(RAMEMARR(RA1)) Q:RA1=""  D
+"RTN","RARTE6",173,0)
+ .S RAFDA(70.03,RA1_","_RADTI_","_RADFN_",",RAPIECE)=RAPREV
+"RTN","RARTE6",174,0)
+ .D FILE^DIE("","RAFDA","RAMSG")
+"RTN","RARTE6",175,0)
+ .I $D(RAMSG("DIERR")) D ERR4($P(RAMEMARR(RA1),"^"),$$GET1^DID(70.03,RAPIECE,"","LABEL"),$$GET1^DIQ(RAF3,RAPREV,.01))
+"RTN","RARTE6",176,0)
+ .;E  D MSG2(+RAMEMARR(RA1),$$GET1^DID(70.03,RAPIECE,"","LABEL"),$$GET1^DIQ(RAF3,RAPREV,.01))
+"RTN","RARTE6",177,0)
+ .E  D MSG2($P(RAMEMARR(RA1),"^"),$$GET1^DID(70.03,RAPIECE,"","LABEL"),$$GET1^DIQ(RAF3,RAPREV,.01))
+"RTN","RARTE6",178,0)
+ .K RAFDA,RAMSG
+"RTN","RARTE6",179,0)
+ .Q:$O(RAA(0))'>0  ; no secondary DXs
+"RTN","RARTE6",180,0)
+ .; copy secondaries into cases of a printset
+"RTN","RARTE6",181,0)
+ .S RA2=0
+"RTN","RARTE6",182,0)
+ .F  S RA2=$O(RAA(RA2)) Q:'RA2  S RAX=$G(RAA(RA2,0)) D:RAX
+"RTN","RARTE6",183,0)
+ ..S RAFDA(RAF2,"+2,"_RA1_","_RADTI_","_RADFN_",",.01)=RAX
+"RTN","RARTE6",184,0)
+ ..D UPDATE^DIE(,"RAFDA",,"RAMSG")
+"RTN","RARTE6",185,0)
+ ..I $D(RAMSG("DIERR")) D ERR4($P(RAMEMARR(RA1),"^"),$$GET1^DID(RAF2,.01,"","LABEL"),$$GET1^DIQ(RAF3,RAX,.01))
+"RTN","RARTE6",186,0)
+ ..;E  D MSG2(+RAMEMARR(RA1),$$GET1^DID(RAF2,.01,"","LABEL"),$$GET1^DIQ(RAF3,RAX,.01))
+"RTN","RARTE6",187,0)
+ ..E  D MSG2($P(RAMEMARR(RA1),"^"),$$GET1^DID(RAF2,.01,"","LABEL"),$$GET1^DIQ(RAF3,RAX,.01))
+"RTN","RARTE6",188,0)
+ ..K RAFDA,RAMSG
+"RTN","RARTE6",189,0)
+ ..Q
+"RTN","RARTE6",190,0)
+ .Q
+"RTN","RARTE6",191,0)
+ Q
+"RTN","RARTE6",192,0)
+SETFF(RA1,RA2,RA3,RA4,RA5) ;reset file's field value
+"RTN","RARTE6",193,0)
+ ;RA1 file number
+"RTN","RARTE6",194,0)
+ ;RA2 field number
+"RTN","RARTE6",195,0)
+ ;RA3 IEN in file
+"RTN","RARTE6",196,0)
+ ;RA4 field value to set in record IEN
+"RTN","RARTE6",197,0)
+ ;RA5 (optional), set to "E" for external
+"RTN","RARTE6",198,0)
+ N RAFDA
+"RTN","RARTE6",199,0)
+ S RAFDA(RA1,RA3_",",RA2)=RA4
+"RTN","RARTE6",200,0)
+ I $G(RA5)="E" D FILE^DIE("E","RAFDA")
+"RTN","RARTE6",201,0)
+ E  D FILE^DIE("","RAFDA")
+"RTN","RARTE6",202,0)
+ Q
+"RTN","RARTE6",203,0)
+SETALOG(RA1,RA2,RA3) ;set new record in Activity log 74.01
+"RTN","RARTE6",204,0)
+ ;RA1  ien string, eg., "+1,"_RARPT_","
+"RTN","RARTE6",205,0)
+ ;RA2  type of action
+"RTN","RARTE6",206,0)
+ ;RA3  current report status code
+"RTN","RARTE6",207,0)
+ ;
+"RTN","RARTE6",208,0)
+ N RAFDA
+"RTN","RARTE6",209,0)
+ S RAFDA(74.01,RA1,.01)=+$E($$NOW^XLFDT(),1,12)
+"RTN","RARTE6",210,0)
+ S RAFDA(74.01,RA1,2)=RA2
+"RTN","RARTE6",211,0)
+ S RAFDA(74.01,RA1,3)=$G(DUZ)
+"RTN","RARTE6",212,0)
+ S:$G(RA3)]"" RAFDA(74.01,RA1,4)=RA3 ;only del rpt would have data here
+"RTN","RARTE6",213,0)
+ D UPDATE^DIE(,"RAFDA")
+"RTN","RARTE6",214,0)
+ Q
+"RTN","RARTE6",215,0)
+MSG1(X) ;
+"RTN","RARTE6",216,0)
+ W !?3,"... Linked restored report to case no. ",X
+"RTN","RARTE6",217,0)
+ Q
+"RTN","RARTE6",218,0)
+MSG2(X,Y,Z) ;
+"RTN","RARTE6",219,0)
+ W !?3,"... Restored case ",X,"'s ",Y," to: ",Z
+"RTN","RARTE6",220,0)
+ Q
+"RTN","RARTE6",221,0)
+ERR0 ;
+"RTN","RARTE6",222,0)
+ W !,"Unable to determine case previously associated with this report."
+"RTN","RARTE6",223,0)
+ S RAXIT=1
+"RTN","RARTE6",224,0)
+ Q
+"RTN","RARTE6",225,0)
+ERR1 W !!,"Cannot determine previous report status.",!
+"RTN","RARTE6",226,0)
+ S RAXIT=1
+"RTN","RARTE6",227,0)
+ Q
+"RTN","RARTE6",228,0)
+ERR2(X,Y,Z) ;X=External short case No, Y=File no., Z=Field no.
+"RTN","RARTE6",229,0)
+ W !,"Case #",X," already has ",$$GET1^DID(Y,Z,"","LABEL")
+"RTN","RARTE6",230,0)
+ S RAXIT=1
+"RTN","RARTE6",231,0)
+ Q
+"RTN","RARTE6",232,0)
+ERR3(X) ;
+"RTN","RARTE6",233,0)
+ W !,"Case #",X," is already associated with a report!"
+"RTN","RARTE6",234,0)
+ S RAXIT=1
+"RTN","RARTE6",235,0)
+ Q
+"RTN","RARTE6",236,0)
+ERR4(X,Y,Z) ;
+"RTN","RARTE6",237,0)
+ W !!?3,"Cannot restore case ",X,"'s ",Y," to: ",Z
+"RTN","RARTE6",238,0)
+ Q
+"RTN","RARTE6",239,0)
+NOTDONE ;
+"RTN","RARTE6",240,0)
+ W !!?3,"Restoration was not done."
+"RTN","RARTE6",241,0)
+ ; continue to clean up
+"RTN","RARTE6",242,0)
+FINISH ; clean up and exit
+"RTN","RARTE6",243,0)
+ R !!!,"Press RETURN to exit. ",X:DTIME
+"RTN","RARTE6",244,0)
+ K DIRUT,I
+"RTN","RARTE6",245,0)
+ K RA1,RA2,RA3,RA4,RA5,RA18EX,RA70,RA74,RAA,RACMDATA
+"RTN","RARTE6",246,0)
+ K RACN,RACNI,RADATE,RADFN,RADTE,RADTI,RADUZ,RAFDA,RAF1,RAF2,RAF3
+"RTN","RARTE6",247,0)
+ K RAI,RAIENL,RAIENS,RAIENSUB,RALAST,RALCKFLG,RAMEMARR,RANME,RANODE
+"RTN","RARTE6",248,0)
+ K RAOUT,RAPIECE,RAPRC,RAPRTSET,RAPRVIEN,RAPREV,RAPRVST,RAROOT,RARPT
+"RTN","RARTE6",249,0)
+ K RASSN,RAST,RASUB70,RASUBY0,RAX,RAXIT,X,XY,Y,Z
+"RTN","RARTE6",250,0)
+ Q
+"RTN","RARTE6",251,0)
+DISPLAY ; Display exam specific info, edit/enter the report
+"RTN","RARTE6",252,0)
+ ; adapted from routine RARTE
+"RTN","RARTE6",253,0)
+ N RASSAN,RACNDSP S RASSAN=$$SSANVAL^RAHLRU1(RADFN,RADTI,RACNI)
+"RTN","RARTE6",254,0)
+ S RACNDSP=$S((RASSAN'=""):RASSAN,1:RACN)
+"RTN","RARTE6",255,0)
+ S RA18EX=0 ;P18 for quit if uparrow inside PUTTCOM
+"RTN","RARTE6",256,0)
+ I '($D(^RADPT(RADFN,"DT",RADTI,"P",RACNI,0))#2) D  D Q1^RARTE5 QUIT
+"RTN","RARTE6",257,0)
+ . I $$USESSAN^RAHLRU1() W !!?2,"Case #: ",RACNDSP," for ",RANME S RAXIT=1
+"RTN","RARTE6",258,0)
+ . I '$$USESSAN^RAHLRU1() W !!?2,"Case #: ",RACN," for ",RANME S RAXIT=1
+"RTN","RARTE6",259,0)
+ . W !?2,"Procedure: '",$E(RAPRC,1,45),"' has been deleted"
+"RTN","RARTE6",260,0)
+ . W !?2,"by another user!",$C(7)
+"RTN","RARTE6",261,0)
+ . Q
+"RTN","RARTE6",262,0)
+ ;
+"RTN","RARTE6",263,0)
+ S RAI="",$P(RAI,"-",80)="" W !,RAI
+"RTN","RARTE6",264,0)
+ W !?1,"Name     : ",$E(RANME,1,25),?40,"Pt ID       : ",RASSN
+"RTN","RARTE6",265,0)
+ I $$USESSAN^RAHLRU1() W !?1,"Case No. : ",RACNDSP,?40,"Exm. St     : ",$E($P($G(^RA(72,+RAST,0)),"^"),1,22),!?1,"Procedure: ",$E(RAPRC,1,45)
+"RTN","RARTE6",266,0)
+ I '$$USESSAN^RAHLRU1() W !?1,"Case No. : ",RACN,?18,"Exm. St: ",$E($P($G(^RA(72,+RAST,0)),"^"),1,12),?40,"Procedure   : ",$E(RAPRC,1,25)
+"RTN","RARTE6",267,0)
+ ;check for contrast media; display if CM data exists (patch 45)
+"RTN","RARTE6",268,0)
+ S RACMDATA=$$CMEDIA^RAUTL8(RADFN,RADTI,RACNI)
+"RTN","RARTE6",269,0)
+ D:$L(RACMDATA) CMEDIA^RARTE(RACMDATA)
+"RTN","RARTE6",270,0)
+ K RACMDATA
+"RTN","RARTE6",271,0)
+ S RA18EX=$$PUTTCOM2^RAUTL11(RADFN,RADTI,RACN," Tech.Comment: ",15,70,-1,0) ;P18
+"RTN","RARTE6",272,0)
+ I RA18EX=-1 Q  ;P18
+"RTN","RARTE6",273,0)
+ ;
+"RTN","RARTE6",274,0)
+ K RAMEMARR D EN2^RAUTL20(.RAMEMARR) ;recalculate RAPRTSET
+"RTN","RARTE6",275,0)
+ ; if printset, display cases and continue on to display Exam Date
+"RTN","RARTE6",276,0)
+ I RAPRTSET D
+"RTN","RARTE6",277,0)
+ . S RA1=""
+"RTN","RARTE6",278,0)
+ . F  S RA1=$O(RAMEMARR(RA1)) Q:RA1=""!(RA18EX=-1)  I RA1'=RACNI D
+"RTN","RARTE6",279,0)
+ .. I $$USESSAN^RAHLRU1() W !,?1,"Case No. : ",$P(RAMEMARR(RA1),U)
+"RTN","RARTE6",280,0)
+ .. I '$$USESSAN^RAHLRU1() W !,?1,"Case No. : ",+RAMEMARR(RA1)
+"RTN","RARTE6",281,0)
+ .. I $$USESSAN^RAHLRU1() W:$P(RAMEMARR(RA1),"^",4)]"" ?40,"Exm. St     : ",$E($P($G(^RA(72,$P(RAMEMARR(RA1),"^",4),0)),"^"),1,22) W !?1,"Procedure: ",$E($P($G(^RAMIS(71,+$P(RAMEMARR(RA1),"^",2),0)),"^"),1,45)
+"RTN","RARTE6",282,0)
+ .. I '$$USESSAN^RAHLRU1() W:$P(RAMEMARR(RA1),"^",4)]"" ?18,"Exm. St: ",$E($P($G(^RA(72,$P(RAMEMARR(RA1),"^",4),0)),"^"),1,12) W ?40,"Procedure   : ",$E($P($G(^RAMIS(71,+$P(RAMEMARR(RA1),"^",2),0)),"^"),1,26)
+"RTN","RARTE6",283,0)
+ .. ;check printset for contrast media; display if CM data exists
+"RTN","RARTE6",284,0)
+ .. S RACMDATA=$$CMEDIA^RAUTL8(RADFN,RADTI,RA1)
+"RTN","RARTE6",285,0)
+ .. D:$L(RACMDATA) CMEDIA^RARTE(RACMDATA)
+"RTN","RARTE6",286,0)
+ .. K RACMDATA
+"RTN","RARTE6",287,0)
+ .. I $P(RAMEMARR(RA1),"^")["-" S RA18EX=$$PUTTCOM2^RAUTL11(RADFN,RADTI,$P($P(RAMEMARR(RA1),"^"),"-",3)," Tech.Comment: ",15,70,-1,0) Q:RA18EX=-1
+"RTN","RARTE6",288,0)
+ .. I $P(RAMEMARR(RA1),"^")'["-" S RA18EX=$$PUTTCOM2^RAUTL11(RADFN,RADTI,+RAMEMARR(RA1)," Tech.Comment: ",15,70,-1,0) Q:RA18EX=-1  ;P18
+"RTN","RARTE6",289,0)
+ .. Q
+"RTN","RARTE6",290,0)
+ . Q
+"RTN","RARTE6",291,0)
+ ;continue display
+"RTN","RARTE6",292,0)
+ I RA18EX=-1 Q  ;P18
+"RTN","RARTE6",293,0)
+ S Y(0)=RASUBY0
+"RTN","RARTE6",294,0)
+ S RAIENS=RACNI_","_RADTI_","_RADFN_","
+"RTN","RARTE6",295,0)
+ D GETS^DIQ(70.03,RAIENS,"14;175*","E","RAOUT")
+"RTN","RARTE6",296,0)
+ W !?1,"Exam Date: ",RADATE,?40,"Technologist: "
+"RTN","RARTE6",297,0)
+ S RAIENSUB=$O(RAOUT(70.12,0))
+"RTN","RARTE6",298,0)
+ W:RAIENSUB]"" $E($G(RAOUT(70.12,RAIENSUB,.01,"E")),1,25)
+"RTN","RARTE6",299,0)
+ ;p99 begins
+"RTN","RARTE6",300,0)
+ W !?1,"Req Phys : ",$E($G(RAOUT(70.03,RAIENS,14,"E")),1,25)
+"RTN","RARTE6",301,0)
+ I $$PTSEX^RAUTL8(RADFN)="F" D
+"RTN","RARTE6",302,0)
+ .D GETS^DIQ(70.03,RAIENS,"32;80","I","RAOUT")
+"RTN","RARTE6",303,0)
+ .N RA3 S RA3=$G(RAOUT(70.03,RAIENS,32,"I"))
+"RTN","RARTE6",304,0)
+ .W:RA3'="" !?1,"Pregnancy Screen: ",$S(RA3="y":"Patient answered yes",RA3="n":"Patient answered no",RA3="u":"Patient is unable to answer or is unsure",1:"")
+"RTN","RARTE6",305,0)
+ .W:(RA3'="n")&($G(RAOUT(70.03,RAIENS,80,"I"))'="") !?1,"Pregnancy Screen Comment: ",$G(RAOUT(70.03,RAIENS,80,"I"))
+"RTN","RARTE6",306,0)
+ ;p99 ends
+"RTN","RARTE6",307,0)
+ W !,RAI
+"RTN","RARTE6",308,0)
+ Q
+"RTN","RARTE6",309,0)
+LOCK(X,Y) ; Lock the data global
+"RTN","RARTE6",310,0)
+ ; uses var DILOCKTM, code taken from rtn RAUTL12
+"RTN","RARTE6",311,0)
+ ; 'X' is the global root
+"RTN","RARTE6",312,0)
+ ; 'Y' is the record number
+"RTN","RARTE6",313,0)
+ ; KLM/163 - remove setting of RADUZ and ^TMP("RAD LOCKS"
+"RTN","RARTE6",314,0)
+ N RALCKFLG,XY
+"RTN","RARTE6",315,0)
+ ;S RADUZ=+$G(DUZ),RALCKFLG=0,
+"RTN","RARTE6",316,0)
+ S RALCKFLG=0,XY=X_Y
+"RTN","RARTE6",317,0)
+ L +@(XY_")"):DILOCKTM
+"RTN","RARTE6",318,0)
+ I '$T S RALCKFLG=1 D
+"RTN","RARTE6",319,0)
+ . W !?5,"This record is being edited by another user."
+"RTN","RARTE6",320,0)
+ . W !?5,"Try again later!",$C(7)
+"RTN","RARTE6",321,0)
+ . Q
+"RTN","RARTE6",322,0)
+ ;E  D
+"RTN","RARTE6",323,0)
+ ;. S ^TMP("RAD LOCKS",$J,RADUZ,X,Y)=""
+"RTN","RARTE6",324,0)
+ ;. Q
+"RTN","RARTE6",325,0)
+ Q RALCKFLG
+"RTN","RARTE6",326,0)
+INTRO ;
+"RTN","RARTE6",327,0)
+ ;; +--------------------------------------------------------+
+"RTN","RARTE6",328,0)
+ ;; |                                                        |
+"RTN","RARTE6",329,0)
+ ;; |    This option is for restoring a deleted report.      |
+"RTN","RARTE6",330,0)
+ ;; |                                                        |
+"RTN","RARTE6",331,0)
+ ;; +--------------------------------------------------------+
+"RTN","RAUTL12")
+0^2^B14003063^B13921156
+"RTN","RAUTL12",1,0)
+RAUTL12 ;HISC/CAH,FPT,GJC-Utility Routine ; Oct 18, 2019@10:38:15
+"RTN","RAUTL12",2,0)
+ ;;5.0;Radiology/Nuclear Medicine;**75,163**;Mar 16, 1998;Build 1
+"RTN","RAUTL12",3,0)
+ ;
+"RTN","RAUTL12",4,0)
+IMGTY(X,Y,Z) ; Determines the Imaging Type
+"RTN","RAUTL12",5,0)
+ ; 'X' ->  either 'e', 'l', or 'p'
+"RTN","RAUTL12",6,0)
+ ;         'e' means we determine the Imaging Type from the 'Registered
+"RTN","RAUTL12",7,0)
+ ;         Exams' multiple in Rad/Nuc Med Patient file (70)
+"RTN","RAUTL12",8,0)
+ ;         'l' means that we determine the Imaging Type from data in the
+"RTN","RAUTL12",9,0)
+ ;         Imaging Locations file (79.1)
+"RTN","RAUTL12",10,0)
+ ;         'p' means that we determine the Imaging Type from data in the
+"RTN","RAUTL12",11,0)
+ ;         Rad/Nuc Med Procedures file (71)
+"RTN","RAUTL12",12,0)
+ ;
+"RTN","RAUTL12",13,0)
+ ; 'Y' ->  The value of D0 in the above files.
+"RTN","RAUTL12",14,0)
+ ;
+"RTN","RAUTL12",15,0)
+ ; 'Z' ->  The value of D1 in the Rad/Nuc Med Patient file (70).
+"RTN","RAUTL12",16,0)
+ ; [ This routine passes back the Imaging Type in the external format ]
+"RTN","RAUTL12",17,0)
+ N A,B,RAXYZ
+"RTN","RAUTL12",18,0)
+ I X="e" D
+"RTN","RAUTL12",19,0)
+ . S A=$G(^RADPT(+$G(Y),"DT",+$G(Z),0)),B=+$P(A,U,2)
+"RTN","RAUTL12",20,0)
+ . S RAXYZ=$P($G(^RA(79.2,B,0)),U)
+"RTN","RAUTL12",21,0)
+ . Q
+"RTN","RAUTL12",22,0)
+ I X="l" D
+"RTN","RAUTL12",23,0)
+ . S A=$G(^RA(79.1,+$G(Y),0)),B=+$P(A,U,6)
+"RTN","RAUTL12",24,0)
+ . S RAXYZ=$P($G(^RA(79.2,B,0)),U)
+"RTN","RAUTL12",25,0)
+ . Q
+"RTN","RAUTL12",26,0)
+ I X="p" D
+"RTN","RAUTL12",27,0)
+ . S A=$G(^RAMIS(71,+$G(Y),0)),B=+$P(A,U,12)
+"RTN","RAUTL12",28,0)
+ . S RAXYZ=$P($G(^RA(79.2,B,0)),U)
+"RTN","RAUTL12",29,0)
+ . Q
+"RTN","RAUTL12",30,0)
+ Q RAXYZ
+"RTN","RAUTL12",31,0)
+ ;
+"RTN","RAUTL12",32,0)
+LOCK(X,Y) ; Lock the data global
+"RTN","RAUTL12",33,0)
+ ; 'X' is the global root
+"RTN","RAUTL12",34,0)
+ ; 'Y' is the record number
+"RTN","RAUTL12",35,0)
+ ; KLM/163 - remove setting of RADUZ and ^TMP("RAD LOCS"
+"RTN","RAUTL12",36,0)
+ N RALCKFLG,XY
+"RTN","RAUTL12",37,0)
+ ;S RADUZ=+$G(DUZ),
+"RTN","RAUTL12",38,0)
+ S RALCKFLG=0,XY=X_Y
+"RTN","RAUTL12",39,0)
+ L +@(XY_")"):5
+"RTN","RAUTL12",40,0)
+ I '$T S RALCKFLG=1 D
+"RTN","RAUTL12",41,0)
+ . W !?5,"This record is being edited by another user."
+"RTN","RAUTL12",42,0)
+ . W !?5,"Try again later!",$C(7)
+"RTN","RAUTL12",43,0)
+ . Q
+"RTN","RAUTL12",44,0)
+ ;E  D
+"RTN","RAUTL12",45,0)
+ ;. S ^TMP("RAD LOCKS",$J,RADUZ,X,Y)=""
+"RTN","RAUTL12",46,0)
+ ;. Q
+"RTN","RAUTL12",47,0)
+ Q RALCKFLG
+"RTN","RAUTL12",48,0)
+ ;
+"RTN","RAUTL12",49,0)
+UNLOCK(X,Y) ; Unlock the data global
+"RTN","RAUTL12",50,0)
+ ;KLM/163 - remove setting of RADUZ and ^TMP("RAD LOCS"
+"RTN","RAUTL12",51,0)
+ N XY ;S RADUZ=+$G(DUZ),
+"RTN","RAUTL12",52,0)
+ S XY=X_Y L -@(XY_")")
+"RTN","RAUTL12",53,0)
+ ;K ^TMP("RAD LOCKS",$J,RADUZ,X,Y)
+"RTN","RAUTL12",54,0)
+ Q
+"RTN","RAUTL12",55,0)
+EXTRA(RAQI) ;Input is RAQI (Modifier)
+"RTN","RAUTL12",56,0)
+ ;Output is AMIS Credit Indicator: RABILAT = BILATERAL,
+"RTN","RAUTL12",57,0)
+ ;RAPORT = PORTABLE, and RAOR = OPERATING ROOM.
+"RTN","RAUTL12",58,0)
+ S RAQI=$P($G(^RAMIS(71.2,RAQI,0)),U,2) S:RAQI="b" RABILAT="" S:RAQI="p" RAPORT="" S:RAQI="o" RAOR=""
+"RTN","RAUTL12",59,0)
+ Q
+"RTN","RAUTL12",60,0)
+  ;
+"RTN","RAUTL12",61,0)
+DESDT(RAPRI) ; Obtain 'Date Desired (NOT appt date)' by DIR call.
+"RTN","RAUTL12",62,0)
+ ; Input: IEN of procedure
+"RTN","RAUTL12",63,0)
+ ; The 'Date Desired' is passed back in internal format.
+"RTN","RAUTL12",64,0)
+ ; 75.1 -> Rad Orders File    Fld 21 -> Date desired
+"RTN","RAUTL12",65,0)
+ N DIR,DIROUT,DIRUT,DUOUT,DTOUT,X,Y
+"RTN","RAUTL12",66,0)
+ I '$D(RAPKG),($D(ORVP)),($D(ORL)),($D(ORNP)) D PROCMSG^RAUTL5(RAPRI)
+"RTN","RAUTL12",67,0)
+ F  D  Q:Y'=""
+"RTN","RAUTL12",68,0)
+ .S DIR("?",1)="The 'Date Desired' field contains the date for which the rad/nuc med exam"
+"RTN","RAUTL12",69,0)
+ .S DIR("?",2)="is requested. 'Date Desired' is required and should not be interpreted as"
+"RTN","RAUTL12",70,0)
+ .S DIR("?")="an appointment date."
+"RTN","RAUTL12",71,0)
+ .S DIR(0)="75.1,21" D ^DIR
+"RTN","RAUTL12",72,0)
+ .S:$D(DTOUT)#2!($D(DUOUT)#2) Y=-1
+"RTN","RAUTL12",73,0)
+ .Q
+"RTN","RAUTL12",74,0)
+ Q Y
+"RTN","RAUTL12",75,0)
+ ;
+"RTN","RAUTL12",76,0)
+PTLOC() ; Current patient location.  Used for entry: 'CURRENT PATIENT
+"RTN","RAUTL12",77,0)
+ ; LOCATION' in the Label Print Fields file. (78.7)
+"RTN","RAUTL12",78,0)
+ ; 'X' is the patient's DFN.  DFN must be a positive integer.
+"RTN","RAUTL12",79,0)
+ N %,%H,%I,A,B,C,DFN,VAERR,VAIN,X,Y,Y1,Y2,Y3,Y4,Y5
+"RTN","RAUTL12",80,0)
+ S Y=$$NOW^XLFDT(),Y1=$P(Y,"."),Y2=$E($P(Y,".",2),1,4)
+"RTN","RAUTL12",81,0)
+ S Y3=$E(Y1,4,5)_"-"_$E(Y1,6,7)_"-"_(1700+$E(Y1,1,3))
+"RTN","RAUTL12",82,0)
+ S Y4=$E(Y2,1,2)_":"_$E(Y2,3,4)
+"RTN","RAUTL12",83,0)
+ S Y5=Y3_"@"_Y4,DFN=+$P($G(^RADPT(+$G(RADFN),0)),"^")
+"RTN","RAUTL12",84,0)
+ Q:'+$G(DFN) "OP Unknown/"_Y5
+"RTN","RAUTL12",85,0)
+ D INP^VADPT ; If currently an inpatient, grab the ward.
+"RTN","RAUTL12",86,0)
+ I $P($G(VAIN(4)),"^",2)]"" D  Q Y
+"RTN","RAUTL12",87,0)
+ . S Y=$E($P($G(VAIN(4)),"^",2),1,15)_"/"_Y5
+"RTN","RAUTL12",88,0)
+ . Q
+"RTN","RAUTL12",89,0)
+ ; If not currently an inpatient, check if last recorded patient location
+"RTN","RAUTL12",90,0)
+ ; is a ward.  If it is a ward or operating room, pass back 'OP Unknown'.
+"RTN","RAUTL12",91,0)
+ ; We do not have the benefit of PIMS updating our Rad/Nuc Med files.
+"RTN","RAUTL12",92,0)
+ S X=+$P($G(^RADPT(+$G(RADFN),"DT",+$G(RADTI),"P",+$G(RACNI),0)),"^",11)
+"RTN","RAUTL12",93,0)
+ S A=+$P($G(^RAO(75.1,X,0)),"^",22),B=$G(^SC(A,0)),C=$P(B,"^",3)
+"RTN","RAUTL12",94,0)
+ Q:B']""!("WOR"[C) "OP Unknown/"_Y5
+"RTN","RAUTL12",95,0)
+ Q $P(B,"^")_" (Req'g Loc)"
+"RTN","RAUTL12",96,0)
+ ;
+"RTN","RAUTL12",97,0)
+IMG() ; Select one/many/all imaging types.  This code will be used for ALL
+"RTN","RAUTL12",98,0)
+ ; the options under the Procedure File Listings option as exported by
+"RTN","RAUTL12",99,0)
+ ; Rad/Nuc Med version 5.  I-Types are not screened.
+"RTN","RAUTL12",100,0)
+ ; Passes back '1' if I-Type(s) are selected, '0' if nothing selected.
+"RTN","RAUTL12",101,0)
+ N RADIC,RAQUIT,RAUTIL,X,Y
+"RTN","RAUTL12",102,0)
+ S RADIC="^RA(79.2,",RADIC(0)="QEAMZ"
+"RTN","RAUTL12",103,0)
+ S RADIC("A")="Select Imaging Type: ",RADIC("B")="All"
+"RTN","RAUTL12",104,0)
+ S RAUTIL="RA I-TYPE" W !! D EN1^RASELCT(.RADIC,RAUTIL)
+"RTN","RAUTL12",105,0)
+ Q $S($D(^TMP($J,"RA I-TYPE"))\10:1,1:0)
+"RTN","RAUTL12",106,0)
+ ;
+"RTN","RAUTL12",107,0)
+LOC(RAX) ; Select one/many/all imaging locations.  L-Types are not
+"RTN","RAUTL12",108,0)
+ ; screened.  Passes back '1' if L-Type(s) are selected, '0' if nothing
+"RTN","RAUTL12",109,0)
+ ; selected.  Used for the option: 'Location Parameter List' (4^RASYS)
+"RTN","RAUTL12",110,0)
+ N RADIC,RAQUIT,RAUTIL,X,Y
+"RTN","RAUTL12",111,0)
+ S RADIC="^RA(79.1,",RADIC(0)="QEFAMZ"
+"RTN","RAUTL12",112,0)
+ S RADIC("A")="Select Imaging Location: ",RADIC("B")="All"
+"RTN","RAUTL12",113,0)
+ S:'RAX RADIC("S")="N RADT S RADT=$P(^(0),""^"",19) I $S('RADT:1,RADT>DT:1,1:0)"
+"RTN","RAUTL12",114,0)
+ S RAUTIL="RA L-TYPE" W !! D EN1^RASELCT(.RADIC,RAUTIL)
+"RTN","RAUTL12",115,0)
+ Q $S($D(^TMP($J,"RA L-TYPE"))\10:1,1:0)
+"VER")
+8.0^22.2
+"BLD",10947,6)
+^144
+**END**
+**END**
+

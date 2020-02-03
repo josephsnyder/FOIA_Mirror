@@ -1,0 +1,989 @@
+EMERGENCY Released PSO*7*582 SEQ #475
+Extracted from mail message
+**KIDS**:PSO*7.0*582^
+
+**INSTALL NAME**
+PSO*7.0*582
+"BLD",11272,0)
+PSO*7.0*582^OUTPATIENT PHARMACY^0^3191009^y
+"BLD",11272,1,0)
+^^56^56^3191009^^
+"BLD",11272,1,1,0)
+This patch will address the following issue: 
+"BLD",11272,1,2,0)
+  
+"BLD",11272,1,3,0)
+INC7463016 - Septra SS prescription - Inbound eRx (CORPUS CHRISTI) received
+"BLD",11272,1,4,0)
+             an Rx and an error message was generated
+"BLD",11272,1,5,0)
+(d)INC7463169 - Ammonium Lactate prescription - Inbound eRx (CORPUS CHRISTI)
+"BLD",11272,1,6,0)
+                received an Rx and an error message was generated Detailed
+"BLD",11272,1,7,0)
+                Description 
+"BLD",11272,1,8,0)
+(d)INC7216102 - Inbound eRx (CORPUS CHRISTI) received an Rx and an error
+"BLD",11272,1,9,0)
+                message was generated
+"BLD",11272,1,10,0)
+(d)INC7720939 - Inbound eRx 2 prescriptions with fatal errors
+"BLD",11272,1,11,0)
+(d)INC7774257 - Inbound eRx - Fatal Errors
+"BLD",11272,1,12,0)
+(d)INC7793995 - Inbound eRx fatal error on one prescription in Corpus Christi
+"BLD",11272,1,13,0)
+                Outpatient Clinic Pharmacy
+"BLD",11272,1,14,0)
+ 
+"BLD",11272,1,15,0)
+Patient Safety Issues (PSIs):
+"BLD",11272,1,16,0)
+-----------------------------
+"BLD",11272,1,17,0)
+N/A
+"BLD",11272,1,18,0)
+ 
+"BLD",11272,1,19,0)
+     
+"BLD",11272,1,20,0)
+Defect Tracking System Ticket(s) & Overview: 
+"BLD",11272,1,21,0)
+--------------------------------------------
+"BLD",11272,1,22,0)
+INC7463016 - Septra SS prescription - Inbound eRx (CORPUS CHRISTI) received
+"BLD",11272,1,23,0)
+             an Rx and an error message was generated
+"BLD",11272,1,24,0)
+(d)INC7463169 - Ammonium Lactate prescription - Inbound eRx (CORPUS CHRISTI)
+"BLD",11272,1,25,0)
+                received an Rx and an error message was generated Detailed
+"BLD",11272,1,26,0)
+                Description 
+"BLD",11272,1,27,0)
+(d)INC7216102 - Inbound eRx (CORPUS CHRISTI) received an Rx and an error
+"BLD",11272,1,28,0)
+                message was generated
+"BLD",11272,1,29,0)
+(d)INC7720939 - Inbound eRx 2 prescriptions with fatal errors
+"BLD",11272,1,30,0)
+(d)INC7774257 - Inbound eRx - Fatal Errors
+"BLD",11272,1,31,0)
+(d)INC7793995 - Inbound eRx fatal error on one prescription in Corpus Christi
+"BLD",11272,1,32,0)
+                Outpatient Clinic Pharmacy
+"BLD",11272,1,33,0)
+ 
+"BLD",11272,1,34,0)
+Problem: 
+"BLD",11272,1,35,0)
+--------
+"BLD",11272,1,36,0)
+Corpus Christi VA Specialty Outpatient Clinic reported a fatal error 
+"BLD",11272,1,37,0)
+(<SUBSCRIPT> error) when trying to validate the Drug/SIG for an eRx record
+"BLD",11272,1,38,0)
+when using the Complete Orders from eRx [PSO ERX FINISH] option. The same
+"BLD",11272,1,39,0)
+error was reported by McAllen Outpatient Clinic. The error happens due to a
+"BLD",11272,1,40,0)
+missing "B" cross-reference entry in the PHARMACY PATIENT file (#55) for the
+"BLD",11272,1,41,0)
+patient being processed. It is unknown the reason why the "B" cross-reference
+"BLD",11272,1,42,0)
+entry is missing for certain patients.
+"BLD",11272,1,43,0)
+   
+"BLD",11272,1,44,0)
+Resolution: 
+"BLD",11272,1,45,0)
+-----------
+"BLD",11272,1,46,0)
+This patch will prevent the error from happening for patients that have the
+"BLD",11272,1,47,0)
+"B" cross-reference entry missing by ignoring it. The missing "B" cross-
+"BLD",11272,1,48,0)
+reference entry will have no negative impact in the processing of eRx 
+"BLD",11272,1,49,0)
+prescriptions for such patient because its use in the code was unnecessary
+"BLD",11272,1,50,0)
+for the option to work properly.
+"BLD",11272,1,51,0)
+       
+"BLD",11272,1,52,0)
+Technical Resolution: 
+"BLD",11272,1,53,0)
+---------------------
+"BLD",11272,1,54,0)
+Modified the line tag DU+1^PSOERXD1 to instead of using the "B" cross-
+"BLD",11272,1,55,0)
+reference to retrieve the patient IEN (Internal Entry Number) and set the 
+"BLD",11272,1,56,0)
+PSODFN variable to set the variable PSODFN directly with the PATIEN content.
+"BLD",11272,4,0)
+^9.64PA^^
+"BLD",11272,6.3)
+1
+"BLD",11272,"ABPKG")
+n
+"BLD",11272,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11272,"KRN",.4,0)
+.4
+"BLD",11272,"KRN",.401,0)
+.401
+"BLD",11272,"KRN",.402,0)
+.402
+"BLD",11272,"KRN",.403,0)
+.403
+"BLD",11272,"KRN",.5,0)
+.5
+"BLD",11272,"KRN",.84,0)
+.84
+"BLD",11272,"KRN",1.5,0)
+1.5
+"BLD",11272,"KRN",1.6,0)
+1.6
+"BLD",11272,"KRN",1.61,0)
+1.61
+"BLD",11272,"KRN",1.62,0)
+1.62
+"BLD",11272,"KRN",3.6,0)
+3.6
+"BLD",11272,"KRN",3.8,0)
+3.8
+"BLD",11272,"KRN",9.2,0)
+9.2
+"BLD",11272,"KRN",9.8,0)
+9.8
+"BLD",11272,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",11272,"KRN",9.8,"NM",1,0)
+PSOERXD1^^0^B131735326
+"BLD",11272,"KRN",9.8,"NM","B","PSOERXD1",1)
+
+"BLD",11272,"KRN",19,0)
+19
+"BLD",11272,"KRN",19.1,0)
+19.1
+"BLD",11272,"KRN",101,0)
+101
+"BLD",11272,"KRN",409.61,0)
+409.61
+"BLD",11272,"KRN",771,0)
+771
+"BLD",11272,"KRN",779.2,0)
+779.2
+"BLD",11272,"KRN",870,0)
+870
+"BLD",11272,"KRN",8989.51,0)
+8989.51
+"BLD",11272,"KRN",8989.52,0)
+8989.52
+"BLD",11272,"KRN",8994,0)
+8994
+"BLD",11272,"KRN","B",.4,.4)
+
+"BLD",11272,"KRN","B",.401,.401)
+
+"BLD",11272,"KRN","B",.402,.402)
+
+"BLD",11272,"KRN","B",.403,.403)
+
+"BLD",11272,"KRN","B",.5,.5)
+
+"BLD",11272,"KRN","B",.84,.84)
+
+"BLD",11272,"KRN","B",1.5,1.5)
+
+"BLD",11272,"KRN","B",1.6,1.6)
+
+"BLD",11272,"KRN","B",1.61,1.61)
+
+"BLD",11272,"KRN","B",1.62,1.62)
+
+"BLD",11272,"KRN","B",3.6,3.6)
+
+"BLD",11272,"KRN","B",3.8,3.8)
+
+"BLD",11272,"KRN","B",9.2,9.2)
+
+"BLD",11272,"KRN","B",9.8,9.8)
+
+"BLD",11272,"KRN","B",19,19)
+
+"BLD",11272,"KRN","B",19.1,19.1)
+
+"BLD",11272,"KRN","B",101,101)
+
+"BLD",11272,"KRN","B",409.61,409.61)
+
+"BLD",11272,"KRN","B",771,771)
+
+"BLD",11272,"KRN","B",779.2,779.2)
+
+"BLD",11272,"KRN","B",870,870)
+
+"BLD",11272,"KRN","B",8989.51,8989.51)
+
+"BLD",11272,"KRN","B",8989.52,8989.52)
+
+"BLD",11272,"KRN","B",8994,8994)
+
+"BLD",11272,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",11272,"QUES",0)
+^9.62^^
+"BLD",11272,"REQB",0)
+^9.611^1^1
+"BLD",11272,"REQB",1,0)
+PSO*7.0*551^2
+"BLD",11272,"REQB","B","PSO*7.0*551",1)
+
+"MBREQ")
+0
+"PKG",170,-1)
+1^1
+"PKG",170,0)
+OUTPATIENT PHARMACY^PSO^OUTPATIENT LABELS, PROFILE, INVENTORY, PRESCRIPTIONS
+"PKG",170,22,0)
+^9.49I^1^1
+"PKG",170,22,1,0)
+7.0^2971216^2981113^1
+"PKG",170,22,1,"PAH",1,0)
+582^3191009
+"PKG",170,22,1,"PAH",1,1,0)
+^^56^56^3191009
+"PKG",170,22,1,"PAH",1,1,1,0)
+This patch will address the following issue: 
+"PKG",170,22,1,"PAH",1,1,2,0)
+  
+"PKG",170,22,1,"PAH",1,1,3,0)
+INC7463016 - Septra SS prescription - Inbound eRx (CORPUS CHRISTI) received
+"PKG",170,22,1,"PAH",1,1,4,0)
+             an Rx and an error message was generated
+"PKG",170,22,1,"PAH",1,1,5,0)
+(d)INC7463169 - Ammonium Lactate prescription - Inbound eRx (CORPUS CHRISTI)
+"PKG",170,22,1,"PAH",1,1,6,0)
+                received an Rx and an error message was generated Detailed
+"PKG",170,22,1,"PAH",1,1,7,0)
+                Description 
+"PKG",170,22,1,"PAH",1,1,8,0)
+(d)INC7216102 - Inbound eRx (CORPUS CHRISTI) received an Rx and an error
+"PKG",170,22,1,"PAH",1,1,9,0)
+                message was generated
+"PKG",170,22,1,"PAH",1,1,10,0)
+(d)INC7720939 - Inbound eRx 2 prescriptions with fatal errors
+"PKG",170,22,1,"PAH",1,1,11,0)
+(d)INC7774257 - Inbound eRx - Fatal Errors
+"PKG",170,22,1,"PAH",1,1,12,0)
+(d)INC7793995 - Inbound eRx fatal error on one prescription in Corpus Christi
+"PKG",170,22,1,"PAH",1,1,13,0)
+                Outpatient Clinic Pharmacy
+"PKG",170,22,1,"PAH",1,1,14,0)
+ 
+"PKG",170,22,1,"PAH",1,1,15,0)
+Patient Safety Issues (PSIs):
+"PKG",170,22,1,"PAH",1,1,16,0)
+-----------------------------
+"PKG",170,22,1,"PAH",1,1,17,0)
+N/A
+"PKG",170,22,1,"PAH",1,1,18,0)
+ 
+"PKG",170,22,1,"PAH",1,1,19,0)
+     
+"PKG",170,22,1,"PAH",1,1,20,0)
+Defect Tracking System Ticket(s) & Overview: 
+"PKG",170,22,1,"PAH",1,1,21,0)
+--------------------------------------------
+"PKG",170,22,1,"PAH",1,1,22,0)
+INC7463016 - Septra SS prescription - Inbound eRx (CORPUS CHRISTI) received
+"PKG",170,22,1,"PAH",1,1,23,0)
+             an Rx and an error message was generated
+"PKG",170,22,1,"PAH",1,1,24,0)
+(d)INC7463169 - Ammonium Lactate prescription - Inbound eRx (CORPUS CHRISTI)
+"PKG",170,22,1,"PAH",1,1,25,0)
+                received an Rx and an error message was generated Detailed
+"PKG",170,22,1,"PAH",1,1,26,0)
+                Description 
+"PKG",170,22,1,"PAH",1,1,27,0)
+(d)INC7216102 - Inbound eRx (CORPUS CHRISTI) received an Rx and an error
+"PKG",170,22,1,"PAH",1,1,28,0)
+                message was generated
+"PKG",170,22,1,"PAH",1,1,29,0)
+(d)INC7720939 - Inbound eRx 2 prescriptions with fatal errors
+"PKG",170,22,1,"PAH",1,1,30,0)
+(d)INC7774257 - Inbound eRx - Fatal Errors
+"PKG",170,22,1,"PAH",1,1,31,0)
+(d)INC7793995 - Inbound eRx fatal error on one prescription in Corpus Christi
+"PKG",170,22,1,"PAH",1,1,32,0)
+                Outpatient Clinic Pharmacy
+"PKG",170,22,1,"PAH",1,1,33,0)
+ 
+"PKG",170,22,1,"PAH",1,1,34,0)
+Problem: 
+"PKG",170,22,1,"PAH",1,1,35,0)
+--------
+"PKG",170,22,1,"PAH",1,1,36,0)
+Corpus Christi VA Specialty Outpatient Clinic reported a fatal error 
+"PKG",170,22,1,"PAH",1,1,37,0)
+(<SUBSCRIPT> error) when trying to validate the Drug/SIG for an eRx record
+"PKG",170,22,1,"PAH",1,1,38,0)
+when using the Complete Orders from eRx [PSO ERX FINISH] option. The same
+"PKG",170,22,1,"PAH",1,1,39,0)
+error was reported by McAllen Outpatient Clinic. The error happens due to a
+"PKG",170,22,1,"PAH",1,1,40,0)
+missing "B" cross-reference entry in the PHARMACY PATIENT file (#55) for the
+"PKG",170,22,1,"PAH",1,1,41,0)
+patient being processed. It is unknown the reason why the "B" cross-reference
+"PKG",170,22,1,"PAH",1,1,42,0)
+entry is missing for certain patients.
+"PKG",170,22,1,"PAH",1,1,43,0)
+   
+"PKG",170,22,1,"PAH",1,1,44,0)
+Resolution: 
+"PKG",170,22,1,"PAH",1,1,45,0)
+-----------
+"PKG",170,22,1,"PAH",1,1,46,0)
+This patch will prevent the error from happening for patients that have the
+"PKG",170,22,1,"PAH",1,1,47,0)
+"B" cross-reference entry missing by ignoring it. The missing "B" cross-
+"PKG",170,22,1,"PAH",1,1,48,0)
+reference entry will have no negative impact in the processing of eRx 
+"PKG",170,22,1,"PAH",1,1,49,0)
+prescriptions for such patient because its use in the code was unnecessary
+"PKG",170,22,1,"PAH",1,1,50,0)
+for the option to work properly.
+"PKG",170,22,1,"PAH",1,1,51,0)
+       
+"PKG",170,22,1,"PAH",1,1,52,0)
+Technical Resolution: 
+"PKG",170,22,1,"PAH",1,1,53,0)
+---------------------
+"PKG",170,22,1,"PAH",1,1,54,0)
+Modified the line tag DU+1^PSOERXD1 to instead of using the "B" cross-
+"PKG",170,22,1,"PAH",1,1,55,0)
+reference to retrieve the patient IEN (Internal Entry Number) and set the 
+"PKG",170,22,1,"PAH",1,1,56,0)
+PSODFN variable to set the variable PSODFN directly with the PATIEN content.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","PSOERXD1")
+0^1^B131735326^B131924629
+"RTN","PSOERXD1",1,0)
+PSOERXD1 ;ALB/BWF - eRx Drug display/actions ; 8/3/2016 5:14pm
+"RTN","PSOERXD1",2,0)
+ ;;7.0;OUTPATIENT PHARMACY;**467,520,551,582**;DEC 1997;Build 1
+"RTN","PSOERXD1",3,0)
+ ;
+"RTN","PSOERXD1",4,0)
+EN ; -- main entry point for PSO ERX HOLDING QUEUE
+"RTN","PSOERXD1",5,0)
+ D EN^VALM("PSO ERX DRUG VALIDATION")
+"RTN","PSOERXD1",6,0)
+ Q
+"RTN","PSOERXD1",7,0)
+ ;
+"RTN","PSOERXD1",8,0)
+HDR ; -- header code
+"RTN","PSOERXD1",9,0)
+ S VALMHDR(1)="eRx Patient: "_$$GET1^DIQ(52.49,PSOIEN,.04,"E")
+"RTN","PSOERXD1",10,0)
+ S VALMHDR(2)="eRx Reference #: "_$$GET1^DIQ(52.49,PSOIEN,.01,"E")
+"RTN","PSOERXD1",11,0)
+ I $G(VALMBCK)="R" D INIT
+"RTN","PSOERXD1",12,0)
+ Q
+"RTN","PSOERXD1",13,0)
+ ;
+"RTN","PSOERXD1",14,0)
+INIT ;
+"RTN","PSOERXD1",15,0)
+ Q:'$G(PSOIEN)
+"RTN","PSOERXD1",16,0)
+ N LINE,ERXDRG,LINETXT,ERXQTY,ERXQQ,ERXDF,ERXSC,ERXRFLS,ERXDS,ERXDT,ERXDW,ERXDSUB,VADRG,NXTLINE,ORDITEM
+"RTN","PSOERXD1",17,0)
+ N ERXCOMM,ERXDRUG,ERXSIG,FILLDT,ISSDT,MAILWIN,PATSTAT,SGLOOP,SIGDATA,SIGLINE,SIGLOOP,VACLIN,VACOPIES,VADAYS
+"RTN","PSOERXD1",18,0)
+ N VADOSE,VADRGIEN,VAENBY,VAENDATE,VAPINST,VAPROV,VAPUS,VAQTY,VAREF,VAREMARK,VAROUTE,VASCHED,VASIG,VAVERB
+"RTN","PSOERXD1",19,0)
+ N PSODAT,PSONEW,SIGDATA,SGLOOP,PRVCARY,PCRFST,PCLOOP,INSTARY,IFRST,INLOOP,SEPLN,PATINST,PIARY,PILOOP
+"RTN","PSOERXD1",20,0)
+ N SFIRST,SIGARY,PSOIENS,PSODAT2,PFRST,FN,FSSIG,INST,PATIEN,PCFRST,PRVCOMM,PSODFN,SLOOP,ERXDIR,MANVAL
+"RTN","PSOERXD1",21,0)
+ N VASIG,VASARY,VALBY,VALDTTM,NFIRST,NLOOP,ERXNARY,DIE,DA,DR,INLOOP,ERXNOTE,PUC,DRGARY,DLP,X,Y,DINUM,DFN
+"RTN","PSOERXD1",22,0)
+ S LINE=0
+"RTN","PSOERXD1",23,0)
+ S PSOIENS=PSOIEN_","
+"RTN","PSOERXD1",24,0)
+ S FN=52.49
+"RTN","PSOERXD1",25,0)
+ D GETS^DIQ(52.49,PSOIEN,"**","IE","PSODAT")
+"RTN","PSOERXD1",26,0)
+ S PATIEN=$G(PSODAT(FN,PSOIENS,.05,"I"))
+"RTN","PSOERXD1",27,0)
+ ; stub entry in file 55 if it doesn't exist
+"RTN","PSOERXD1",28,0)
+ I $G(PATIEN) D
+"RTN","PSOERXD1",29,0)
+ .Q:$D(^PS(55,PATIEN,0))
+"RTN","PSOERXD1",30,0)
+ .S DIC="^PS(55,",DLAYGO=55
+"RTN","PSOERXD1",31,0)
+ .K DD,DO S DIC(0)="L",(DINUM,X)=PATIEN D FILE^DICN D:Y<1  K DIC,DA,DR,DD,DO,DLAYGO
+"RTN","PSOERXD1",32,0)
+ ..S $P(^PS(55,PATIEN,0),"^")=PATIEN K DIK,DA S DA=PATIEN,DIK="^PS(55,",DIK(1)=.01 D EN^DIK K DIK,DA
+"RTN","PSOERXD1",33,0)
+ S ERXDRUG=$G(PSODAT(FN,PSOIENS,3.1,"E"))
+"RTN","PSOERXD1",34,0)
+ ; quantity
+"RTN","PSOERXD1",35,0)
+ S ERXQTY=$G(PSODAT(FN,PSOIENS,5.1,"E"))
+"RTN","PSOERXD1",36,0)
+ ; quantity qualifier
+"RTN","PSOERXD1",37,0)
+ S ERXQQ=$G(PSODAT(FN,PSOIENS,5.2,"E"))
+"RTN","PSOERXD1",38,0)
+ ; drug form code
+"RTN","PSOERXD1",39,0)
+ S ERXDF=$G(PSODAT(FN,PSOIENS,41,"E"))
+"RTN","PSOERXD1",40,0)
+ ; strength code
+"RTN","PSOERXD1",41,0)
+ S ERXSC=$G(PSODAT(FN,PSOIENS,43,"E"))
+"RTN","PSOERXD1",42,0)
+ ; refills
+"RTN","PSOERXD1",43,0)
+ S ERXRFLS=$G(PSODAT(FN,PSOIENS,5.6,"E"))
+"RTN","PSOERXD1",44,0)
+ ;/BLB/ PSO*7.0*520 - BEGIN CHANGE
+"RTN","PSOERXD1",45,0)
+ I ERXRFLS="" D
+"RTN","PSOERXD1",46,0)
+ .S ERXRFLS=$G(PSODAT(FN,PSOIENS,5.7,"I"))
+"RTN","PSOERXD1",47,0)
+ ;/BLB/ - END CHANGE
+"RTN","PSOERXD1",48,0)
+ ; days supply
+"RTN","PSOERXD1",49,0)
+ S ERXDS=$G(PSODAT(FN,PSOIENS,5.5,"E"))
+"RTN","PSOERXD1",50,0)
+ ; erx date
+"RTN","PSOERXD1",51,0)
+ S ERXDT=$G(PSODAT(FN,PSOIENS,.03,"E"))
+"RTN","PSOERXD1",52,0)
+ ; written date
+"RTN","PSOERXD1",53,0)
+ S ERXDW=$G(PSODAT(FN,PSOIENS,5.9,"E"))
+"RTN","PSOERXD1",54,0)
+ ; substitutions
+"RTN","PSOERXD1",55,0)
+ ;/BLB/ PSO*7.0*551 - BEGIN CHANGE - ADDING SUBSTITUTION DISPLAY
+"RTN","PSOERXD1",56,0)
+ S ERXDSUB=$G(PSODAT(FN,PSOIENS,5.8,"I"))
+"RTN","PSOERXD1",57,0)
+ S ERXDSUB=$S(ERXDSUB=1:"NO",ERXDSUB=0:"YES",1:"")
+"RTN","PSOERXD1",58,0)
+ ;/BLB/ PSO*7.0*551 - END CHANGE
+"RTN","PSOERXD1",59,0)
+ ; va (matched) drug
+"RTN","PSOERXD1",60,0)
+ S ERXDIR=$G(PSODAT(FN,PSOIENS,7,"E"))
+"RTN","PSOERXD1",61,0)
+ S VADRG=$G(PSODAT(FN,PSOIENS,3.2,"E"))
+"RTN","PSOERXD1",62,0)
+ I VADRG']"" S VADRG="NOT LINKED"
+"RTN","PSOERXD1",63,0)
+ S PUC=$G(PSODAT(FN,PSOIENS,42,"E"))
+"RTN","PSOERXD1",64,0)
+ D TXT2ARY(.DRGARY,ERXDRUG,,70)
+"RTN","PSOERXD1",65,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"eRx Drug: "_$G(DRGARY(1)))
+"RTN","PSOERXD1",66,0)
+ S DLP=1
+"RTN","PSOERXD1",67,0)
+ F  S DLP=$O(DRGARY(DLP)) Q:'DLP  D
+"RTN","PSOERXD1",68,0)
+ .S LINE=LINE+1 D SET^VALM10(LINE,"          "_$G(DRGARY(DLP)))
+"RTN","PSOERXD1",69,0)
+ S LINE=LINE+1
+"RTN","PSOERXD1",70,0)
+ D ADDITEM^PSOERX1A(.LINETXT,"Qty: ",ERXQTY,1,26)
+"RTN","PSOERXD1",71,0)
+ D ADDITEM^PSOERX1A(.LINETXT,"Days Supply: ",ERXDS,28,26)
+"RTN","PSOERXD1",72,0)
+ D ADDITEM^PSOERX1A(.LINETXT,"Date Written: ",$P(ERXDW,"@"),54,26)
+"RTN","PSOERXD1",73,0)
+ D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",74,0)
+ S LINE=LINE+1
+"RTN","PSOERXD1",75,0)
+ ;/BLB/ PSO*7.0*551 - BEGIN CHANGE -CORRECTING QTY QUAL TO CODE LIST QUAL
+"RTN","PSOERXD1",76,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"Code List Qualifier: "_ERXQQ)
+"RTN","PSOERXD1",77,0)
+ ;/BLB/ PSO*7.0*551 - END CHANGE - 
+"RTN","PSOERXD1",78,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"Drug Form: "_ERXDF)
+"RTN","PSOERXD1",79,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"Strength: "_ERXSC)
+"RTN","PSOERXD1",80,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"Potency Unit Code: "_PUC)
+"RTN","PSOERXD1",81,0)
+ S LINE=LINE+1
+"RTN","PSOERXD1",82,0)
+ S LINE=LINE+1
+"RTN","PSOERXD1",83,0)
+ D ADDITEM^PSOERX1A(.LINETXT,"Refills: ",ERXRFLS,1,15)
+"RTN","PSOERXD1",84,0)
+ ;/BLB/ PSO*7.0*551 - BEGIN CHANGE - CHANGED TEXT FROM "DO NOT SUB" TO "SUBSTITUTIONS? :"
+"RTN","PSOERXD1",85,0)
+ D ADDITEM^PSOERX1A(.LINETXT,"Substitutions? : ",ERXDSUB,28,50)
+"RTN","PSOERXD1",86,0)
+ ;/BLB PSO*7.0*551
+"RTN","PSOERXD1",87,0)
+ D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",88,0)
+ S SIGDATA=""
+"RTN","PSOERXD1",89,0)
+ D TXT2ARY(.SIGARY,ERXDIR,,70)
+"RTN","PSOERXD1",90,0)
+ S SFIRST=$O(SIGARY(0))
+"RTN","PSOERXD1",91,0)
+ S SGLOOP=0 F  S SGLOOP=$O(SIGARY(SGLOOP)) Q:'SGLOOP  D
+"RTN","PSOERXD1",92,0)
+ .S LINE=LINE+1 D SET^VALM10(LINE,$S(SGLOOP=SFIRST:"eRx Sig: ",1:"         ")_$G(SIGARY(SGLOOP)))
+"RTN","PSOERXD1",93,0)
+ S ERXNOTE=$G(PSODAT(FN,PSOIENS,8,"E"))
+"RTN","PSOERXD1",94,0)
+ D TXT2ARY(.ERXNARY,ERXNOTE,,65)
+"RTN","PSOERXD1",95,0)
+ S NFIRST=$O(ERXNARY(0))
+"RTN","PSOERXD1",96,0)
+ S NLOOP=0 F  S NLOOP=$O(ERXNARY(NLOOP)) Q:'NLOOP  D
+"RTN","PSOERXD1",97,0)
+ .S LINE=LINE+1 D SET^VALM10(LINE,$S(NLOOP=NFIRST:"eRx Notes: ",1:"           ")_$G(ERXNARY(NLOOP)))
+"RTN","PSOERXD1",98,0)
+ S DFN=$$GET1^DIQ(52.49,PSOIEN,.05,"I")
+"RTN","PSOERXD1",99,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"")
+"RTN","PSOERXD1",100,0)
+ S $P(SEPLN,"-",80)="-" D SET^VALM10(LINE,SEPLN)
+"RTN","PSOERXD1",101,0)
+ ; vista drug information
+"RTN","PSOERXD1",102,0)
+ S MANVAL=$$GET1^DIQ(52.49,PSOIEN,1.5,"I")
+"RTN","PSOERXD1",103,0)
+ S VALBY=$$GET1^DIQ(52.49,PSOIEN,1.11,"E")
+"RTN","PSOERXD1",104,0)
+ S VALDTTM=$$GET1^DIQ(52.49,PSOIEN,1.12,"E")
+"RTN","PSOERXD1",105,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"Status: "_$S(MANVAL:"VALIDATED ("_VALBY_" - "_VALDTTM_")",1:"NOT VALIDATED"))
+"RTN","PSOERXD1",106,0)
+ ;/BLB/ PSO*7.0*520 - BEGIN CHANGE
+"RTN","PSOERXD1",107,0)
+ I $$GET1^DIQ(52.49,PSOIEN,.05,"I") D
+"RTN","PSOERXD1",108,0)
+ .D ALG^PSOERXU1(.LINE)
+"RTN","PSOERXD1",109,0)
+ ;/BLB/ PSO*7.0*520
+"RTN","PSOERXD1",110,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"")
+"RTN","PSOERXD1",111,0)
+ S VADRGIEN=$G(PSODAT(52.49,PSOIENS,3.2,"I"))
+"RTN","PSOERXD1",112,0)
+ S VADRG=$S(VADRGIEN:$$GET1^DIQ(50,VADRGIEN,.01,"E"),1:"NOT MATCHED")
+"RTN","PSOERXD1",113,0)
+ S LINE=LINE+1 D SET^VALM10(LINE," (1) Vista Drug: "_VADRG)
+"RTN","PSOERXD1",114,0)
+ ; may not need clinic or remarks.
+"RTN","PSOERXD1",115,0)
+ S (VACLIN,VAREMARK)=""
+"RTN","PSOERXD1",116,0)
+ S VAPROV=$G(PSODAT(52.49,PSOIENS,2.3,"E"))
+"RTN","PSOERXD1",117,0)
+ S INST=$G(PSODAT(52.49,PSOIENS,26,"E"))
+"RTN","PSOERXD1",118,0)
+ ; if erx user comments exist, should we display them separately from the erx provider directions?
+"RTN","PSOERXD1",119,0)
+ I $D(PSODAT(52.49,PSOIENS,30)) S PRVCOMM=$G(PSODAT(52.49,PSOIENS,30,"E"))
+"RTN","PSOERXD1",120,0)
+ I '$L($G(PRVCOMM)) S PRVCOMM=$G(PSODAT(52.49,PSOIENS,8,"E"))
+"RTN","PSOERXD1",121,0)
+ S VADAYS=$G(PSODAT(52.49,PSOIENS,20.2,"E"))
+"RTN","PSOERXD1",122,0)
+ S VAQTY=$G(PSODAT(52.49,PSOIENS,20.1,"E"))
+"RTN","PSOERXD1",123,0)
+ S VAVERB=$G(PSODAT(52.49,PSOIENS,20.3,"E"))
+"RTN","PSOERXD1",124,0)
+ S PATSTAT=$$GET1^DIQ(55,PATIEN,3,"E")
+"RTN","PSOERXD1",125,0)
+ S MAILWIN=$G(PSODAT(52.49,PSOIENS,20.4,"E")) I MAILWIN="" S DIE="^PS(52.49,",DA=PSOIEN,DR="20.4///W" D ^DIE K DIE
+"RTN","PSOERXD1",126,0)
+ S VAREF=$G(PSODAT(52.49,PSOIENS,20.5,"E"))
+"RTN","PSOERXD1",127,0)
+ S PATINST=$G(PSODAT(52.49,PSOIENS,27,"E"))
+"RTN","PSOERXD1",128,0)
+ S PATINST=$$LSIG^PSOQUTIL(PATINST)
+"RTN","PSOERXD1",129,0)
+ ; testing instruction building
+"RTN","PSOERXD1",130,0)
+ ; end testing
+"RTN","PSOERXD1",131,0)
+ S VACLIN=$G(PSODAT(52.49,PSOIENS,20.6,"E")) I VACLIN="" S DIE="^PS(52.49,",DA=PSOIEN,DR="20.6///"_$$GET1^DIQ(59,PSOSITE,10,"I") D ^DIE K DIE
+"RTN","PSOERXD1",132,0)
+ D TXT2ARY(.PIARY,PATINST,,55)
+"RTN","PSOERXD1",133,0)
+ D DOSE
+"RTN","PSOERXD1",134,0)
+ ; pat instructions built from dosage multiple
+"RTN","PSOERXD1",135,0)
+ S PFRST="",PFRST=$O(PIARY(0)) I 'PFRST S PFRST=0
+"RTN","PSOERXD1",136,0)
+ S LINE=LINE+1 D SET^VALM10(LINE," (3) Pat Instructions: "_$G(PIARY(PFRST)))
+"RTN","PSOERXD1",137,0)
+ S PILOOP=PFRST F  S PILOOP=$O(PIARY(PILOOP)) Q:'PILOOP  D
+"RTN","PSOERXD1",138,0)
+ .S LINE=LINE+1 D SET^VALM10(LINE,"                       "_$G(PIARY(PILOOP)))
+"RTN","PSOERXD1",139,0)
+ ; provider comments come from the 'notes' field in 52.49 (#8)
+"RTN","PSOERXD1",140,0)
+ D TXT2ARY(.PRVCARY,PRVCOMM,,57)
+"RTN","PSOERXD1",141,0)
+ S PCFRST=$O(PRVCARY(0))
+"RTN","PSOERXD1",142,0)
+ S PCLOOP=0 F  S PCLOOP=$O(PRVCARY(PCLOOP)) Q:'PCLOOP  D
+"RTN","PSOERXD1",143,0)
+ .S LINE=LINE+1 D SET^VALM10(LINE,$S(PCFRST=PCLOOP:" (4) Provider Comments: ",1:"                        ")_PRVCARY(PCLOOP))
+"RTN","PSOERXD1",144,0)
+ ; instructions are the unaltered SIG.
+"RTN","PSOERXD1",145,0)
+ ; if the instructions are longer than 57, convert to array for display
+"RTN","PSOERXD1",146,0)
+ S VASIG=""
+"RTN","PSOERXD1",147,0)
+ S SLOOP=0 F  S SLOOP=$O(^PS(52.49,PSOIEN,"SIG",SLOOP)) Q:'SLOOP  D
+"RTN","PSOERXD1",148,0)
+ .I '$L($G(VASIG)) S VASIG=$G(^PS(52.49,PSOIEN,"SIG",SLOOP,0)) Q
+"RTN","PSOERXD1",149,0)
+ .S VASIG=$G(VASIG)_" "_$G(^PS(52.49,PSOIEN,"SIG",SLOOP,0))
+"RTN","PSOERXD1",150,0)
+ S INLOOP=0 F  S INLOOP=$O(PSODAT(52.49,PSOIENS,31,INLOOP)) Q:'INLOOP  D
+"RTN","PSOERXD1",151,0)
+ .I '$L(INST) S INST=$G(PSODAT(52.49,PSOIENS,31,INLOOP)) Q
+"RTN","PSOERXD1",152,0)
+ .S INST=INST_" "_$G(PSODAT(52.49,PSOIENS,31,INLOOP))
+"RTN","PSOERXD1",153,0)
+ D TXT2ARY(.INSTARY,INST,,57)
+"RTN","PSOERXD1",154,0)
+ S IFRST=$O(INSTARY(0))
+"RTN","PSOERXD1",155,0)
+ S INLOOP=0 F  S INLOOP=$O(INSTARY(INLOOP)) Q:'INLOOP  D
+"RTN","PSOERXD1",156,0)
+ .S LINE=LINE+1 D SET^VALM10(LINE,$S(IFRST=INLOOP:"          Instructions: ",1:"                        ")_$G(INSTARY(INLOOP)))
+"RTN","PSOERXD1",157,0)
+ S VASIG=VASIG_" "_PATINST_PRVCOMM
+"RTN","PSOERXD1",158,0)
+ D TXT2ARY(.VASARY,VASIG,,55)
+"RTN","PSOERXD1",159,0)
+ S FSSIG=$O(VASARY(0))
+"RTN","PSOERXD1",160,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"                   SIG: "_$S(FSSIG:$G(VASARY(FSSIG)),1:""))
+"RTN","PSOERXD1",161,0)
+ S SLOOP=1 F  S SLOOP=$O(VASARY(SLOOP)) Q:'SLOOP  D
+"RTN","PSOERXD1",162,0)
+ .S LINE=LINE+1 D SET^VALM10(LINE,"                        "_VASARY(SLOOP))
+"RTN","PSOERXD1",163,0)
+ S LINETXT=""
+"RTN","PSOERXD1",164,0)
+ S LINE=LINE+1 D SET^VALM10(LINE," (5) Patient Status: "_PATSTAT)
+"RTN","PSOERXD1",165,0)
+ S LINE=LINE+1
+"RTN","PSOERXD1",166,0)
+ ;/BLB/ PSO*7.0*551 - BEGIN CHANGE - CHANGING ORDER OF QTY AND DAYS SUPPLY
+"RTN","PSOERXD1",167,0)
+ D ADDITEM^PSOERX1A(.LINETXT," (6) QTY: ",VAQTY,1,25)
+"RTN","PSOERXD1",168,0)
+ D ADDITEM^PSOERX1A(.LINETXT,"     (7) Days Supply: ",VADAYS,40,30)
+"RTN","PSOERXD1",169,0)
+ ;/BLB/ PSO*7.0*551 - END CHANGE
+"RTN","PSOERXD1",170,0)
+ D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",171,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"    Provider ordered '"_$S($L(ERXRFLS):ERXRFLS,1:0)_"' refills")
+"RTN","PSOERXD1",172,0)
+ S LINE=LINE+1
+"RTN","PSOERXD1",173,0)
+ D ADDITEM^PSOERX1A(.LINETXT," (8) # of Refills: ",VAREF,1,30)
+"RTN","PSOERXD1",174,0)
+ ; routing defaults to 'M'ail
+"RTN","PSOERXD1",175,0)
+ D ADDITEM^PSOERX1A(.LINETXT,"(9) Routing: ",MAILWIN,45,25)
+"RTN","PSOERXD1",176,0)
+ D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",177,0)
+ S LINE=LINE+1 D SET^VALM10(LINE," (10)    Clinic: "_VACLIN)
+"RTN","PSOERXD1",178,0)
+ S LINE=LINE+1 D SET^VALM10(LINE,"       Provider: "_VAPROV)
+"RTN","PSOERXD1",179,0)
+ S VALMCNT=LINE
+"RTN","PSOERXD1",180,0)
+ S EDTYP="D"
+"RTN","PSOERXD1",181,0)
+ K PSODAT,PSONEW,DOENT,TDUR
+"RTN","PSOERXD1",182,0)
+ Q
+"RTN","PSOERXD1",183,0)
+ ;
+"RTN","PSOERXD1",184,0)
+HELP ; -- help code
+"RTN","PSOERXD1",185,0)
+ S X="?" D DISP^XQORM1 W !!
+"RTN","PSOERXD1",186,0)
+ Q
+"RTN","PSOERXD1",187,0)
+ ;
+"RTN","PSOERXD1",188,0)
+EXIT ; -- exit code
+"RTN","PSOERXD1",189,0)
+ K @VALMAR,EDTYP
+"RTN","PSOERXD1",190,0)
+ Q
+"RTN","PSOERXD1",191,0)
+ ;
+"RTN","PSOERXD1",192,0)
+EXPND ; -- expand code
+"RTN","PSOERXD1",193,0)
+ Q
+"RTN","PSOERXD1",194,0)
+ ; ARY - array to store the output (pass by reference)
+"RTN","PSOERXD1",195,0)
+ ; TEXT - the text to convert into the array format
+"RTN","PSOERXD1",196,0)
+ ; DELIM - delimiter for text (default is space)
+"RTN","PSOERXD1",197,0)
+ ; MAXLEN - maximum length of each array items text, defaults to 80
+"RTN","PSOERXD1",198,0)
+TXT2ARY(ARY,TEXT,DELIM,MAXLEN) ;
+"RTN","PSOERXD1",199,0)
+ N WORD,I,LCNT,LINETXT,S
+"RTN","PSOERXD1",200,0)
+ S S=$S($D(DELIM):DELIM,1:" ")
+"RTN","PSOERXD1",201,0)
+ I '$G(MAXLEN) S MAXLEN=80
+"RTN","PSOERXD1",202,0)
+ S LCNT=1,LINETXT=""
+"RTN","PSOERXD1",203,0)
+ F I=1:1:$L(TEXT,S) D
+"RTN","PSOERXD1",204,0)
+ .S WORD=$P(TEXT,S,I)
+"RTN","PSOERXD1",205,0)
+ .I $L(LINETXT)+$L(S)+$L(WORD)>MAXLEN D  Q
+"RTN","PSOERXD1",206,0)
+ ..S ARY(LCNT)=LINETXT
+"RTN","PSOERXD1",207,0)
+ ..S LCNT=LCNT+1,LINETXT=WORD
+"RTN","PSOERXD1",208,0)
+ .I '$L(LINETXT) S LINETXT=WORD Q
+"RTN","PSOERXD1",209,0)
+ .S LINETXT=LINETXT_S_WORD
+"RTN","PSOERXD1",210,0)
+ ; if there is information left, set it into the array
+"RTN","PSOERXD1",211,0)
+ I $L(LINETXT) S ARY(LCNT)=$G(LINETXT)
+"RTN","PSOERXD1",212,0)
+ Q
+"RTN","PSOERXD1",213,0)
+DOSE ;displays dosing info for pending orders.  called from psoorfi1
+"RTN","PSOERXD1",214,0)
+ K II,UNITS S DS=1
+"RTN","PSOERXD1",215,0)
+ I '$O(^PS(52.49,PSOIEN,21,0)) S LINE=LINE+1,LINETXT="" D ADDITEM^PSOERX1A(.LINETXT," (2)          *Dosage:",,1,30) D SET^VALM10(LINE,LINETXT) S LINETXT="" G DOSEX
+"RTN","PSOERXD1",216,0)
+ F I=0:0 S I=$O(^PS(52.49,PSOIEN,21,I)) Q:'I  S DOSE=$G(^PS(52.49,PSOIEN,21,I,1)),DOSE1=$G(^(2)) D  D DOSE1
+"RTN","PSOERXD1",217,0)
+ .S II=$G(II)+1 K PSONEW("UNITS",II)
+"RTN","PSOERXD1",218,0)
+ .S PSONEW("DOSE",II)=$P(DOSE1,"^"),PSONEW("DOSE ORDERED",II)=$P(DOSE1,"^",2),PSONEW("UNITS",II)=$P(DOSE,"^",9),PSONEW("NOUN",II)=$P(DOSE,"^",5)
+"RTN","PSOERXD1",219,0)
+ .S:$P(DOSE,"^",9) UNITS=$P(^PS(50.607,$P(DOSE,"^",9),0),"^")
+"RTN","PSOERXD1",220,0)
+ .S PSONEW("VERB",II)=$P(DOSE,"^",10),PSONEW("ROUTE",II)=$P(DOSE,"^",8)
+"RTN","PSOERXD1",221,0)
+ .S ROUTE="" S:$P(DOSE,"^",8) ROUTE=$P(^PS(51.2,$P(DOSE,"^",8),0),"^")
+"RTN","PSOERXD1",222,0)
+ .S PSONEW("SCHEDULE",II)=$P(DOSE,"^"),PSONEW("DURATION",II)=$P(DOSE,"^",2)
+"RTN","PSOERXD1",223,0)
+ .S DOENT=$G(DOENT)+1 I $P(DOSE,"^",6)]"" S PSONEW("CONJUNCTION",II)=$S($P(DOSE,"^",6)="S":"T",$P(DOSE,"^",6)="X":"X",1:"A")
+"RTN","PSOERXD1",224,0)
+ .I 'PSONEW("DOSE ORDERED",II),$G(PSONEW("VERB",II))]"" D
+"RTN","PSOERXD1",225,0)
+ ..S LINETXT="" S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"               Verb: ",$G(PSONEW("VERB",II)),1,40)
+"RTN","PSOERXD1",226,0)
+ ..D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",227,0)
+ .S:$G(DS) LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT," (2)","",1,5)
+"RTN","PSOERXD1",228,0)
+DOSEX S PSONEW("ENT")=+$G(II) K DOSE,DOSE1,II,I,UNITS,ROUTE,DG
+"RTN","PSOERXD1",229,0)
+ Q
+"RTN","PSOERXD1",230,0)
+DOSE1 ;
+"RTN","PSOERXD1",231,0)
+ I $G(DS)=1 D ADDITEM^PSOERX1A(.LINETXT,"        *Dosage:","",4,30) D FMD G DU
+"RTN","PSOERXD1",232,0)
+ S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"            *Dosage:","",1,30) D FMD
+"RTN","PSOERXD1",233,0)
+DU ;
+"RTN","PSOERXD1",234,0)
+ S PSODFN=+$G(PATIEN)
+"RTN","PSOERXD1",235,0)
+ I 'PSONEW("DOSE ORDERED",I),$P($G(^PS(55,PSODFN,"LAN")),"^") D
+"RTN","PSOERXD1",236,0)
+ .S LINE=LINE+1,LINETXT="" D ADDITEM^PSOERX1A(.LINETXT,"  Oth. Lang. Dosage: ",$G(PSONEW("ODOSE",I)),1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",237,0)
+ I PSONEW("DOSE ORDERED",II),$G(PSONEW("VERB",II))]"" D
+"RTN","PSOERXD1",238,0)
+ .S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"               Verb: ",$G(PSONEW("VERB",II)),1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",239,0)
+ .S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"     Dispense Units: ",$S($E(PSONEW("DOSE ORDERED",II),1)=".":"0",1:"")_PSONEW("DOSE ORDERED",II),1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",240,0)
+ I PSONEW("NOUN",II)]"" D
+"RTN","PSOERXD1",241,0)
+ .S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"               Noun: ",PSONEW("NOUN",II),1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",242,0)
+ I $G(ROUTE)]"" D
+"RTN","PSOERXD1",243,0)
+ .S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"             *Route: ",$G(ROUTE),1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",244,0)
+ S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"          *Schedule: ",PSONEW("SCHEDULE",II),1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",245,0)
+ I $G(PSONEW("DURATION",II))]"" D
+"RTN","PSOERXD1",246,0)
+ .S PSONEW("DURATION",II)=$S($E(PSONEW("DURATION",II),1)'?.N:$E(PSONEW("DURATION",II),2,99)_$E(PSONEW("DURATION",II),1),1:PSONEW("DURATION",II))
+"RTN","PSOERXD1",247,0)
+ .S TDUR=PSONEW("DURATION",II)_" ("_$S(PSONEW("DURATION",II)["M":"MINUTES",PSONEW("DURATION",II)["H":"HOURS",PSONEW("DURATION",II)["L":"MONTHS",PSONEW("DURATION",II)["W":"WEEKS",1:"DAYS")_")"
+"RTN","PSOERXD1",248,0)
+ .S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"          *Duration: ",TDUR,1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",249,0)
+ I $G(PSONEW("CONJUNCTION",II))]"" D
+"RTN","PSOERXD1",250,0)
+ .S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT,"       *Conjunction: ",$S(PSONEW("CONJUNCTION",II)="T":"THEN",PSONEW("CONJUNCTION",II)="X":"EXCEPT",1:"AND"),1,50) D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",251,0)
+ Q
+"RTN","PSOERXD1",252,0)
+FMD ;
+"RTN","PSOERXD1",253,0)
+ Q:$G(PSONEW("DOSE",II))']""  S MIG=PSONEW("DOSE",II)
+"RTN","PSOERXD1",254,0)
+ I $E(MIG,1)=".",$G(PSONEW("DOSE ORDERED",II)) S MIG="0"_MIG
+"RTN","PSOERXD1",255,0)
+ F SG=1:1:$L(MIG," ") D
+"RTN","PSOERXD1",256,0)
+ .I $L(LINETXT_" "_$P(MIG," ",SG))>80 D  Q
+"RTN","PSOERXD1",257,0)
+ ..S LINE=LINE+1 D ADDITEM^PSOERX1A(.LINETXT," ","",20,1)
+"RTN","PSOERXD1",258,0)
+ ..D ADDITEM^PSOERX1A(.LINETXT," ",$P(MIG," ",SG),$L(LINETXT),$L($P(MIG," ",SG))+1)
+"RTN","PSOERXD1",259,0)
+ .D ADDITEM^PSOERX1A(.LINETXT," ",$P(MIG," ",SG),$L(LINETXT),$L($P(MIG," ",SG))+1)
+"RTN","PSOERXD1",260,0)
+ D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",261,0)
+ I $G(UNITS)]"" D
+"RTN","PSOERXD1",262,0)
+ .I $L(LINETXT_" ("_UNITS_")")>80 D  Q
+"RTN","PSOERXD1",263,0)
+ ..S LINE=LINE+1,LINETXT=""
+"RTN","PSOERXD1",264,0)
+ ..D ADDITEM^PSOERX1A(.LINETXT," ","",20,1)
+"RTN","PSOERXD1",265,0)
+ ..D ADDITEM^PSOERX1A(.LINETXT," ("_UNITS_")",22,50)
+"RTN","PSOERXD1",266,0)
+ ..D SET^VALM10(LINE,LINETXT) S LINETXT=""
+"RTN","PSOERXD1",267,0)
+ K DS,MIG,SG
+"RTN","PSOERXD1",268,0)
+ ; Consider invoking this as a future enhancement.
+"RTN","PSOERXD1",269,0)
+ ;I '$G(PSONEW("DOSE ORDERED",II)),$P($G(^PS(55,PSODFN,"LAN")),"^") D LAN^PSOORED5
+"RTN","PSOERXD1",270,0)
+ Q
+"VER")
+8.0^22.2
+"BLD",11272,6)
+^475
+**END**
+**END**
+

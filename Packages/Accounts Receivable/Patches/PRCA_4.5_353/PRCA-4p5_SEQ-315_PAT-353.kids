@@ -1,0 +1,505 @@
+Released PRCA*4.5*353 SEQ #315
+Extracted from mail message
+**KIDS**:PRCA*4.5*353^
+
+**INSTALL NAME**
+PRCA*4.5*353
+"BLD",11492,0)
+PRCA*4.5*353^ACCOUNTS RECEIVABLE^0^3191002^y
+"BLD",11492,1,0)
+^^6^6^3190705^
+"BLD",11492,1,1,0)
+When a bill principal balance is auto-decreased to zero, any 
+"BLD",11492,1,2,0)
+remaining Interest Balance, Administrative Cost Balance, Court Cost 
+"BLD",11492,1,3,0)
+and Marshall Fee should be adjusted to zero.
+"BLD",11492,1,4,0)
+ 
+"BLD",11492,1,5,0)
+Also, when a cancelled charge (decrease) from IB updates an AR bill that
+"BLD",11492,1,6,0)
+has a 'SUSPENSED' status, the charge should be posted to the bill.
+"BLD",11492,4,0)
+^9.64PA^^
+"BLD",11492,6.3)
+15
+"BLD",11492,"ABPKG")
+n
+"BLD",11492,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11492,"KRN",.4,0)
+.4
+"BLD",11492,"KRN",.401,0)
+.401
+"BLD",11492,"KRN",.402,0)
+.402
+"BLD",11492,"KRN",.403,0)
+.403
+"BLD",11492,"KRN",.5,0)
+.5
+"BLD",11492,"KRN",.84,0)
+.84
+"BLD",11492,"KRN",1.5,0)
+1.5
+"BLD",11492,"KRN",1.6,0)
+1.6
+"BLD",11492,"KRN",1.61,0)
+1.61
+"BLD",11492,"KRN",1.62,0)
+1.62
+"BLD",11492,"KRN",3.6,0)
+3.6
+"BLD",11492,"KRN",3.8,0)
+3.8
+"BLD",11492,"KRN",9.2,0)
+9.2
+"BLD",11492,"KRN",9.8,0)
+9.8
+"BLD",11492,"KRN",9.8,"NM",0)
+^9.68A^2^2
+"BLD",11492,"KRN",9.8,"NM",1,0)
+PRCASER1^^0^B25107568
+"BLD",11492,"KRN",9.8,"NM",2,0)
+RCBEUTR2^^0^B5224150
+"BLD",11492,"KRN",9.8,"NM","B","PRCASER1",1)
+
+"BLD",11492,"KRN",9.8,"NM","B","RCBEUTR2",2)
+
+"BLD",11492,"KRN",19,0)
+19
+"BLD",11492,"KRN",19.1,0)
+19.1
+"BLD",11492,"KRN",101,0)
+101
+"BLD",11492,"KRN",409.61,0)
+409.61
+"BLD",11492,"KRN",771,0)
+771
+"BLD",11492,"KRN",779.2,0)
+779.2
+"BLD",11492,"KRN",870,0)
+870
+"BLD",11492,"KRN",8989.51,0)
+8989.51
+"BLD",11492,"KRN",8989.52,0)
+8989.52
+"BLD",11492,"KRN",8994,0)
+8994
+"BLD",11492,"KRN","B",.4,.4)
+
+"BLD",11492,"KRN","B",.401,.401)
+
+"BLD",11492,"KRN","B",.402,.402)
+
+"BLD",11492,"KRN","B",.403,.403)
+
+"BLD",11492,"KRN","B",.5,.5)
+
+"BLD",11492,"KRN","B",.84,.84)
+
+"BLD",11492,"KRN","B",1.5,1.5)
+
+"BLD",11492,"KRN","B",1.6,1.6)
+
+"BLD",11492,"KRN","B",1.61,1.61)
+
+"BLD",11492,"KRN","B",1.62,1.62)
+
+"BLD",11492,"KRN","B",3.6,3.6)
+
+"BLD",11492,"KRN","B",3.8,3.8)
+
+"BLD",11492,"KRN","B",9.2,9.2)
+
+"BLD",11492,"KRN","B",9.8,9.8)
+
+"BLD",11492,"KRN","B",19,19)
+
+"BLD",11492,"KRN","B",19.1,19.1)
+
+"BLD",11492,"KRN","B",101,101)
+
+"BLD",11492,"KRN","B",409.61,409.61)
+
+"BLD",11492,"KRN","B",771,771)
+
+"BLD",11492,"KRN","B",779.2,779.2)
+
+"BLD",11492,"KRN","B",870,870)
+
+"BLD",11492,"KRN","B",8989.51,8989.51)
+
+"BLD",11492,"KRN","B",8989.52,8989.52)
+
+"BLD",11492,"KRN","B",8994,8994)
+
+"BLD",11492,"QDEF")
+^^^^NO^^^^^^NO
+"BLD",11492,"QUES",0)
+^9.62^^
+"BLD",11492,"REQB",0)
+^9.611^2^2
+"BLD",11492,"REQB",1,0)
+PRCA*4.5*337^2
+"BLD",11492,"REQB",2,0)
+PRCA*4.5*169^2
+"BLD",11492,"REQB","B","PRCA*4.5*169",2)
+
+"BLD",11492,"REQB","B","PRCA*4.5*337",1)
+
+"MBREQ")
+0
+"PKG",142,-1)
+1^1
+"PKG",142,0)
+ACCOUNTS RECEIVABLE^PRCA^BILL COLLECTIONS
+"PKG",142,22,0)
+^9.49I^1^1
+"PKG",142,22,1,0)
+4.5^^2950320
+"PKG",142,22,1,"PAH",1,0)
+353^3191002
+"PKG",142,22,1,"PAH",1,1,0)
+^^6^6^3191002
+"PKG",142,22,1,"PAH",1,1,1,0)
+When a bill principal balance is auto-decreased to zero, any 
+"PKG",142,22,1,"PAH",1,1,2,0)
+remaining Interest Balance, Administrative Cost Balance, Court Cost 
+"PKG",142,22,1,"PAH",1,1,3,0)
+and Marshall Fee should be adjusted to zero.
+"PKG",142,22,1,"PAH",1,1,4,0)
+ 
+"PKG",142,22,1,"PAH",1,1,5,0)
+Also, when a cancelled charge (decrease) from IB updates an AR bill that
+"PKG",142,22,1,"PAH",1,1,6,0)
+has a 'SUSPENSED' status, the charge should be posted to the bill.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","PRCASER1")
+0^1^B25107568^B19502485
+"RTN","PRCASER1",1,0)
+PRCASER1 ;WASH-ISC@ALTOONA,PA/RGY - Accept transaction from billing engine ;9/8/93  2:21 PM
+"RTN","PRCASER1",2,0)
+V ;;4.5;Accounts Receivable;**48,104,165,233,301,307,337,353**;Mar 20, 1995;Build 15
+"RTN","PRCASER1",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","PRCASER1",4,0)
+ ;
+"RTN","PRCASER1",5,0)
+ ;PRCA*4.5*337 Added a bill lock to insure that decreases are stacked
+"RTN","PRCASER1",6,0)
+ ;             instead of slamming bill simultaneously.
+"RTN","PRCASER1",7,0)
+ ;
+"RTN","PRCASER1",8,0)
+ ;PRCA*4.5*353 Add check to clear (exempt) any interest and admin
+"RTN","PRCASER1",9,0)
+ ;             fees when a decrease makes principle balance zero
+"RTN","PRCASER1",10,0)
+ ;             In addition, added modification that will allow 
+"RTN","PRCASER1",11,0)
+ ;             decreases to post to 'Suspended' bills to avoid
+"RTN","PRCASER1",12,0)
+ ;             further billing issues if the bill is re-opened.
+"RTN","PRCASER1",13,0)
+ ;
+"RTN","PRCASER1",14,0)
+ NEW AMT,AMT1,PRCAERR,PRCABN,PRCADJ,X1,XMDUZ,XMSUB,XMTEXT,XMY,DEBT
+"RTN","PRCASER1",15,0)
+ I '$D(X) S Y="-1^PRCA020" G Q
+"RTN","PRCASER1",16,0)
+ I $O(^PRCA(430.3,"AC",+X,0))'?1N.N,$P($G(^PRCA(430.3,+X,0)),"^",3)'=21 S Y="-1^PRCA021" G Q
+"RTN","PRCASER1",17,0)
+ I +X'=21,$P($G(^PRCA(430.3,+X,0)),"^",3)'=21 S Y="-1^PRCA022" G Q
+"RTN","PRCASER1",18,0)
+ I $P(X,"^",2)'?.N.1".".2N S Y="-1^PRCA023" G Q
+"RTN","PRCASER1",19,0)
+ I $P(X,"^",2)'>0 S Y="-1^PRCA017" G Q
+"RTN","PRCASER1",20,0)
+ I $P(X,"^",3)="" S Y="-1^PRCA006" G Q
+"RTN","PRCASER1",21,0)
+ S PRCABN=$O(^PRCA(430,"B",$P(X,"^",3),0)) I $G(^PRCA(430,+PRCABN,0))="" S Y="-1^PRCA007" G Q
+"RTN","PRCASER1",22,0)
+ I '$D(^VA(200,+$P(X,"^",4),0)) S Y="-1^PRCA013" G Q
+"RTN","PRCASER1",23,0)
+ I $P(X,"^",5)'?7N S Y="-1^PRCA024" G Q
+"RTN","PRCASER1",24,0)
+ S (AMT1,AMT)=$P(X,"^",2)
+"RTN","PRCASER1",25,0)
+ D DEC(PRCABN,.AMT,$P(X,"^",4),$P(X,U,6),$P(X,U,5))
+"RTN","PRCASER1",26,0)
+ S XMDUZ="AR Package",XMTEXT="X1(",DEBT=$P($G(^PRCA(430,PRCABN,0)),"^",9),DEBT=$E($$NAM^RCFN01(DEBT),1)_" ("_$E($$SSN^RCFN01(DEBT),6,9)_")"
+"RTN","PRCASER1",27,0)
+ I AMT'=AMT1 S X1(1)="A decrease adjustment for bill/Pt name (SSN) #"_$P(X,"^",3)_"/"_DEBT_" has been",XMSUB="Automatic Adj: "_$P(X,"^",3)
+"RTN","PRCASER1",28,0)
+ I AMT=AMT1 S X1(1)="**** NOTICE: A decrease adjustment for bill/Pt name (SSN) #"_$P(X,U,3)_"/"_DEBT,XMSUB="Manual Adj: "_$P(X,U,3),X1(3)=" "
+"RTN","PRCASER1",29,0)
+ S Y=DT X ^DD("DD") S X1(2)=$S(AMT'=AMT1:"automatically",1:"needs to be manually")_" applied in the amount of $"_$J($S(AMT1=AMT:AMT1,1:AMT1-AMT),0,2)_" on "_Y_"."
+"RTN","PRCASER1",30,0)
+ I AMT,AMT'=AMT1 S X1(3)="Please review bill for proper application of the unapplied amount of $"_$J(AMT,0,2)_"."
+"RTN","PRCASER1",31,0)
+ S X1(4)=" ",X1(5)="Data sent from Service"
+"RTN","PRCASER1",32,0)
+ S X1(6)="        Amount: $"_$J(AMT1,0,2)
+"RTN","PRCASER1",33,0)
+ S Y=$P(X,U,5) X ^DD("DD") S X1(7)="          Date: "_Y
+"RTN","PRCASER1",34,0)
+ S X1(8)="        Reason: "_$S($P(X,"^",6)]"":$P(X,"^",6),1:"N/A")
+"RTN","PRCASER1",35,0)
+ S X1(9)=" Adjustment by: "_$P($G(^VA(200,+$P(X,"^",4),0)),"^")
+"RTN","PRCASER1",36,0)
+ S AMT=0 F X=1:1:5 S AMT=AMT+$P($G(^PRCA(430,PRCABN,7)),U,X)
+"RTN","PRCASER1",37,0)
+ S AMT1=AMT-+$G(^PRCA(430,PRCABN,7))
+"RTN","PRCASER1",38,0)
+ S X=$P(^PRCA(430.3,+$P($G(^PRCA(430,PRCABN,0)),U,8),0),U,1)
+"RTN","PRCASER1",39,0)
+ S X1(10)=" ",X1(12)=" ",X1(13)="Bill status is "_$S(XMSUB["Auto":"now ",1:"")_X_" with a balance of $"_$J(AMT,0,2)_".",X1(14)=" "
+"RTN","PRCASER1",40,0)
+ I AMT1>0 S X1(15)=" *WARNING*  There is outstanding administrative charges of $"_$J(AMT1,0,2)_".",X1(16)="            An adjustment of administrative charges MAY need to be done."
+"RTN","PRCASER1",41,0)
+ S XMY("G.PRCA ADJUSTMENT TRANS")=""
+"RTN","PRCASER1",42,0)
+ D ^XMD
+"RTN","PRCASER1",43,0)
+Q S Y=$S($G(Y)<0:Y,1:1) Q
+"RTN","PRCASER1",44,0)
+ ;
+"RTN","PRCASER1",45,0)
+DEC(PRCABN,AMT,APR,REA,BDT,PRCAEN) ;Auto decrease from service Bill#,Tran amt,person,reason,Tran date
+"RTN","PRCASER1",46,0)
+ NEW BAL,DA,DIC,DIE,DR,ERR,PRCA,PRCAA2,PRCAMT,PRCASV,X,PRCAAMT,PRCATRAN S Y=1
+"RTN","PRCASER1",47,0)
+ L +^PRCA(430,PRCABN,"PRCASER1"):$S(DILOCKTM>30:DILOCKTM,1:30) I '$T S Y="-1^PRCA004^AR Package 'busy' while trying to add transaction." Q
+"RTN","PRCASER1",48,0)
+ S PRCAEN="",BAL=+$G(^PRCA(430,PRCABN,7)) I 'BAL S Y="-1^Bill balance less than decrease" G Q1
+"RTN","PRCASER1",49,0)
+ I $P(^PRCA(430,PRCABN,0),U,8)'=$O(^PRCA(430.3,"AC",102,"")),$P(^PRCA(430,PRCABN,0),U,8)'=$O(^PRCA(430.3,"AC",112,"")),$P(^PRCA(430,PRCABN,0),U,8)'=$O(^PRCA(430.3,"AC",240,"")) S Y="-1^Invalid status for posting" G Q1   ;PRCA*4.5*353
+"RTN","PRCASER1",50,0)
+ I $P(^PRCA(430,PRCABN,0),U,2)=$O(^PRCA(430.2,"AC",33,0)) S Y="-1^Cannot post against pre-pay bill" G Q1
+"RTN","PRCASER1",51,0)
+ S BAL=$S(AMT>BAL:BAL,1:AMT)
+"RTN","PRCASER1",52,0)
+ S PRCA("ADJ")=$O(^PRCA(430.3,"AC",21,0)),PRCASV("FY")=$$FY^RCFN01(DT)_U_BAL,PRCASV("APR")=APR,PRCASV("BDT")=$S($G(BDT)>0:BDT,1:DT)
+"RTN","PRCASER1",53,0)
+ D SETTR^PRCAUTL,PATTR^PRCAUTL S DIE="^PRCA(433,",DR="[PRCA FY ADJ2 BATCH]",DA=PRCAEN D ^DIE
+"RTN","PRCASER1",54,0)
+ S PRCAA2=$P(^PRCA(433,PRCAEN,4,0),U,3) D UPFY^PRCADJ,TRANUP^PRCAUTL
+"RTN","PRCASER1",55,0)
+ I ("^30^31^")[("^"_$P($G(^PRCA(430,PRCABN,0)),"^",2)_"^") D EN^PRCAFBDM(PRCABN,BAL,PRCA("ADJ"),$G(PRCADJ("BDT")),PRCAEN,.ERR)
+"RTN","PRCASER1",56,0)
+ D UPPRIN^PRCADJ
+"RTN","PRCASER1",57,0)
+ I "AutoAUTO"'[$E(REA,1,4) S REA="Auto Dec.: "_REA
+"RTN","PRCASER1",58,0)
+ S DA=PRCAEN,DIE="^PRCA(433,",DR="41///"_REA D ^DIE
+"RTN","PRCASER1",59,0)
+ S AMT=AMT-+$P($G(^PRCA(433,PRCAEN,1)),U,5)
+"RTN","PRCASER1",60,0)
+ I PRCAEN,$D(^PRCA(430,"TCSP",PRCABN)) D DECADJ^RCTCSPU(PRCABN,PRCAEN) ;prca*4.5*301 add cs decrease adjustment 5B
+"RTN","PRCASER1",61,0)
+ S PRCAAMT=$G(^PRCA(430,PRCABN,7)) I $P(PRCAAMT,U)=0,($P(PRCAAMT,U,2)+$P(PRCAAMT,"^",3)+$P(PRCAAMT,"^",4)+$P(PRCAAMT,"^",5)'=0) D   ;PRCA*4.5*353
+"RTN","PRCASER1",62,0)
+ . S PRCATRAN=$$EXEMPT^RCBEUTR2(PRCABN,$P(PRCAAMT,"^",2)_"^"_$P(PRCAAMT,"^",3)_"^^"_$P(PRCAAMT,"^",4)_"^"_$P(PRCAAMT,"^",5),"PRINCIPAL BAL EQUALS ZERO",DT,1)
+"RTN","PRCASER1",63,0)
+ . I PRCATRAN,$D(^PRCA(430,"TCSP",PRCABN)) D DECADJ^RCTCSPU(PRCABN,PRCATRAN)
+"RTN","PRCASER1",64,0)
+Q1 L -^PRCA(430,PRCABN,"PRCASER1") S Y=$S($G(Y)<0:Y,1:1)
+"RTN","PRCASER1",65,0)
+ Q
+"RTN","RCBEUTR2")
+0^2^B5224150^B4001478
+"RTN","RCBEUTR2",1,0)
+RCBEUTR2 ;WISC/RFJ - create an exempt transaction                      ;1 Jun 00
+"RTN","RCBEUTR2",2,0)
+ ;;4.5;Accounts Receivable;**153,169,353**;Mar 20, 1995;Build 15
+"RTN","RCBEUTR2",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","RCBEUTR2",4,0)
+ Q
+"RTN","RCBEUTR2",5,0)
+ ;
+"RTN","RCBEUTR2",6,0)
+ ;PRCA*4.5*353 Added RCVALL flag parameter to ensure
+"RTN","RCBEUTR2",7,0)
+ ;             Marshall Cost and Court Cost are used
+"RTN","RCBEUTR2",8,0)
+ ;             as correct total increase when clearing
+"RTN","RCBEUTR2",9,0)
+ ;             all associated cost when Principal value
+"RTN","RCBEUTR2",10,0)
+ ;             goes to zero via a decrease transaction
+"RTN","RCBEUTR2",11,0)
+ ;
+"RTN","RCBEUTR2",12,0)
+EXEMPT(RCBILLDA,RCVALUE,RCCOMMNT,RCDATE,RCVALL) ;  exempt an intererst/admin charge
+"RTN","RCBEUTR2",13,0)
+ ;  for a bill.  rcvalue = interest ^ admin ^ penalty ^ mf ^ cc
+"RTN","RCBEUTR2",14,0)
+ ;  for the transaction.  rcdate = process date (optional)
+"RTN","RCBEUTR2",15,0)
+ ;  rcval indicates to also account for marshall cost & court cost in value calc
+"RTN","RCBEUTR2",16,0)
+ ;  returns transaction number if successful
+"RTN","RCBEUTR2",17,0)
+ ;
+"RTN","RCBEUTR2",18,0)
+ N RCDRSTRG,RCTRANDA,Y,RCDTOTL,RCDATA7,RCTOTB
+"RTN","RCBEUTR2",19,0)
+ ;  add the transaction (if added to 433, transaction is locked)
+"RTN","RCBEUTR2",20,0)
+ S RCTRANDA=$$ADD433^RCBEUTRA(RCBILLDA,14) I 'RCTRANDA Q 0
+"RTN","RCBEUTR2",21,0)
+ ;
+"RTN","RCBEUTR2",22,0)
+ ;  build dr string
+"RTN","RCBEUTR2",23,0)
+ ;  transaction date (strip off time)
+"RTN","RCBEUTR2",24,0)
+ S RCDRSTRG="11////"_$S($G(RCDATE):$P(RCDATE,"."),1:DT)_";"
+"RTN","RCBEUTR2",25,0)
+ ;  transaction values
+"RTN","RCBEUTR2",26,0)
+ S RCDTOTL=0 S RCDTOTL=$P(RCVALUE,"^")+$P(RCVALUE,"^",2)+$P(RCVALUE,"^",3)   ;PRCA*4.5*353
+"RTN","RCBEUTR2",27,0)
+ I $G(RCVALL) D   ;PRCA*4.5*353
+"RTN","RCBEUTR2",28,0)
+ . S RCDTOTL=RCDTOTL+$P(RCVALUE,"^",4)+$P(RCVALUE,"^",5)
+"RTN","RCBEUTR2",29,0)
+ . S RCCOMMNT(1)=RCCOMMNT
+"RTN","RCBEUTR2",30,0)
+ S RCDRSTRG=RCDRSTRG_"15////"_RCDTOTL_";"   ;PRCA*4.5*353
+"RTN","RCBEUTR2",31,0)
+ I $P(RCVALUE,"^",1) S RCDRSTRG=RCDRSTRG_"27////"_$P(RCVALUE,"^",1)_";"  ;interest
+"RTN","RCBEUTR2",32,0)
+ I $P(RCVALUE,"^",2) S RCDRSTRG=RCDRSTRG_"28////"_$P(RCVALUE,"^",2)_";"  ;admin
+"RTN","RCBEUTR2",33,0)
+ I $P(RCVALUE,"^",3) S RCDRSTRG=RCDRSTRG_"29////"_$P(RCVALUE,"^",3)_";"  ;penalty
+"RTN","RCBEUTR2",34,0)
+ I $P(RCVALUE,"^",4) S RCDRSTRG=RCDRSTRG_"25////"_$P(RCVALUE,"^",4)_";"  ;mf
+"RTN","RCBEUTR2",35,0)
+ I $P(RCVALUE,"^",5) S RCDRSTRG=RCDRSTRG_"26////"_$P(RCVALUE,"^",5)_";"  ;cc
+"RTN","RCBEUTR2",36,0)
+ I $G(RCDATE) S RCDRSTRG=RCDRSTRG_"19////"_RCDATE_";"  ;date entered
+"RTN","RCBEUTR2",37,0)
+ ;
+"RTN","RCBEUTR2",38,0)
+ ;  input the fields for the transaction
+"RTN","RCBEUTR2",39,0)
+ S Y=$$EDIT433^RCBEUTRA(RCTRANDA,RCDRSTRG) I 'Y L -^PRCA(433,RCTRANDA) Q 0
+"RTN","RCBEUTR2",40,0)
+ ;
+"RTN","RCBEUTR2",41,0)
+ ;  set the comment
+"RTN","RCBEUTR2",42,0)
+ I $D(RCCOMMNT(1)) D ADDCOMM^RCBEUTRA(RCTRANDA,.RCCOMMNT)
+"RTN","RCBEUTR2",43,0)
+ ;
+"RTN","RCBEUTR2",44,0)
+ ;  move over 433 from 430 (no principal, just move it)
+"RTN","RCBEUTR2",45,0)
+ D FY433^RCBEUTRA(RCTRANDA)
+"RTN","RCBEUTR2",46,0)
+ ;
+"RTN","RCBEUTR2",47,0)
+ ;  mark the transaction as processed
+"RTN","RCBEUTR2",48,0)
+ D PROCESS^RCBEUTRA(RCTRANDA)
+"RTN","RCBEUTR2",49,0)
+ ;
+"RTN","RCBEUTR2",50,0)
+ ;  update the bill file with the balance of the transaction
+"RTN","RCBEUTR2",51,0)
+ D SETBAL^RCBEUBIL(RCTRANDA)
+"RTN","RCBEUTR2",52,0)
+ ;
+"RTN","RCBEUTR2",53,0)
+ ;  if the bill has no balance, close or cancel it
+"RTN","RCBEUTR2",54,0)
+ D CLOSEIT^RCBEUTR1(RCBILLDA)
+"RTN","RCBEUTR2",55,0)
+ ;
+"RTN","RCBEUTR2",56,0)
+ ;  clear the lock and return the transaction added
+"RTN","RCBEUTR2",57,0)
+ L -^PRCA(433,RCTRANDA)
+"RTN","RCBEUTR2",58,0)
+ Q RCTRANDA
+"VER")
+8.0^22.2
+"BLD",11492,6)
+^315
+**END**
+**END**
+

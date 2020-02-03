@@ -1,0 +1,719 @@
+Released LA*5.2*99 SEQ #73
+Extracted from mail message
+**KIDS**:LA*5.2*99^
+
+**INSTALL NAME**
+LA*5.2*99
+"BLD",11454,0)
+LA*5.2*99^AUTOMATED LAB INSTRUMENTS^0^3191022^y
+"BLD",11454,1,0)
+^^5^5^3190405^
+"BLD",11454,1,1,0)
+The patch addresses one (1) issue: 
+"BLD",11454,1,2,0)
+ 
+"BLD",11454,1,3,0)
+1.      When a result returns from a send-out laboratory containing 
+"BLD",11454,1,4,0)
+results with a reference range with a negative value, VistA Lab parses 
+"BLD",11454,1,5,0)
+the values erroneously and renders the range as a positive value.
+"BLD",11454,4,0)
+^9.64PA^^
+"BLD",11454,6.3)
+3
+"BLD",11454,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11454,"KRN",.4,0)
+.4
+"BLD",11454,"KRN",.401,0)
+.401
+"BLD",11454,"KRN",.402,0)
+.402
+"BLD",11454,"KRN",.403,0)
+.403
+"BLD",11454,"KRN",.5,0)
+.5
+"BLD",11454,"KRN",.84,0)
+.84
+"BLD",11454,"KRN",1.5,0)
+1.5
+"BLD",11454,"KRN",1.6,0)
+1.6
+"BLD",11454,"KRN",1.61,0)
+1.61
+"BLD",11454,"KRN",1.62,0)
+1.62
+"BLD",11454,"KRN",3.6,0)
+3.6
+"BLD",11454,"KRN",3.8,0)
+3.8
+"BLD",11454,"KRN",9.2,0)
+9.2
+"BLD",11454,"KRN",9.8,0)
+9.8
+"BLD",11454,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",11454,"KRN",9.8,"NM",1,0)
+LA7VIN5A^^0^B38793140
+"BLD",11454,"KRN",9.8,"NM","B","LA7VIN5A",1)
+
+"BLD",11454,"KRN",19,0)
+19
+"BLD",11454,"KRN",19.1,0)
+19.1
+"BLD",11454,"KRN",101,0)
+101
+"BLD",11454,"KRN",409.61,0)
+409.61
+"BLD",11454,"KRN",771,0)
+771
+"BLD",11454,"KRN",779.2,0)
+779.2
+"BLD",11454,"KRN",870,0)
+870
+"BLD",11454,"KRN",8989.51,0)
+8989.51
+"BLD",11454,"KRN",8989.52,0)
+8989.52
+"BLD",11454,"KRN",8994,0)
+8994
+"BLD",11454,"KRN","B",.4,.4)
+
+"BLD",11454,"KRN","B",.401,.401)
+
+"BLD",11454,"KRN","B",.402,.402)
+
+"BLD",11454,"KRN","B",.403,.403)
+
+"BLD",11454,"KRN","B",.5,.5)
+
+"BLD",11454,"KRN","B",.84,.84)
+
+"BLD",11454,"KRN","B",1.5,1.5)
+
+"BLD",11454,"KRN","B",1.6,1.6)
+
+"BLD",11454,"KRN","B",1.61,1.61)
+
+"BLD",11454,"KRN","B",1.62,1.62)
+
+"BLD",11454,"KRN","B",3.6,3.6)
+
+"BLD",11454,"KRN","B",3.8,3.8)
+
+"BLD",11454,"KRN","B",9.2,9.2)
+
+"BLD",11454,"KRN","B",9.8,9.8)
+
+"BLD",11454,"KRN","B",19,19)
+
+"BLD",11454,"KRN","B",19.1,19.1)
+
+"BLD",11454,"KRN","B",101,101)
+
+"BLD",11454,"KRN","B",409.61,409.61)
+
+"BLD",11454,"KRN","B",771,771)
+
+"BLD",11454,"KRN","B",779.2,779.2)
+
+"BLD",11454,"KRN","B",870,870)
+
+"BLD",11454,"KRN","B",8989.51,8989.51)
+
+"BLD",11454,"KRN","B",8989.52,8989.52)
+
+"BLD",11454,"KRN","B",8994,8994)
+
+"BLD",11454,"QUES",0)
+^9.62^^
+"BLD",11454,"REQB",0)
+^9.611^1^1
+"BLD",11454,"REQB",1,0)
+LA*5.2*88^2
+"BLD",11454,"REQB","B","LA*5.2*88",1)
+
+"MBREQ")
+0
+"PKG",53,-1)
+1^1
+"PKG",53,0)
+AUTOMATED LAB INSTRUMENTS^LA
+"PKG",53,22,0)
+^9.49I^1^1
+"PKG",53,22,1,0)
+5.2^2940927^2981028^66481
+"PKG",53,22,1,"PAH",1,0)
+99^3191022
+"PKG",53,22,1,"PAH",1,1,0)
+^^5^5^3191022
+"PKG",53,22,1,"PAH",1,1,1,0)
+The patch addresses one (1) issue: 
+"PKG",53,22,1,"PAH",1,1,2,0)
+ 
+"PKG",53,22,1,"PAH",1,1,3,0)
+1.      When a result returns from a send-out laboratory containing 
+"PKG",53,22,1,"PAH",1,1,4,0)
+results with a reference range with a negative value, VistA Lab parses 
+"PKG",53,22,1,"PAH",1,1,5,0)
+the values erroneously and renders the range as a positive value.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","LA7VIN5A")
+0^1^B38793140^B34608326
+"RTN","LA7VIN5A",1,0)
+LA7VIN5A ;DALOI/JMC - Process Incoming UI Msgs, continued ;APRIL 4, 2016@16:27
+"RTN","LA7VIN5A",2,0)
+ ;;5.2;AUTOMATED LAB INSTRUMENTS;**46,64,67,72,66,74,88,99**;Sep 27, 1994;Build 3
+"RTN","LA7VIN5A",3,0)
+ ;
+"RTN","LA7VIN5A",4,0)
+ ; This routine is a continuation of LA7VIN5.
+"RTN","LA7VIN5A",5,0)
+ ; It performs processing of fields in OBX segments.
+"RTN","LA7VIN5A",6,0)
+ Q
+"RTN","LA7VIN5A",7,0)
+ ;
+"RTN","LA7VIN5A",8,0)
+ ;
+"RTN","LA7VIN5A",9,0)
+XFORM ; Transform the result based on fields 12,13,14,16,17 in the Chem Test
+"RTN","LA7VIN5A",10,0)
+ ; multiple in the Auto Instrument file (62.4), or set on the fly from PARAM 1
+"RTN","LA7VIN5A",11,0)
+ ;
+"RTN","LA7VIN5A",12,0)
+ N LA7I
+"RTN","LA7VIN5A",13,0)
+ S LA7XFORM=LA76241(2)
+"RTN","LA7VIN5A",14,0)
+ ;
+"RTN","LA7VIN5A",15,0)
+ ; get PARAM 1 overrides
+"RTN","LA7VIN5A",16,0)
+ I $D(LA7XFORM(1)),LA7XFORM(1)?1.N S $P(LA7XFORM,"^")=LA7XFORM(1)
+"RTN","LA7VIN5A",17,0)
+ F LA7I=2,3,5,6 I $D(LA7XFORM(LA7I)) S $P(LA7XFORM,"^",LA7I)=LA7XFORM(LA7I)
+"RTN","LA7VIN5A",18,0)
+ ; set up defaults if field was not answered
+"RTN","LA7VIN5A",19,0)
+ ; accept results,yes
+"RTN","LA7VIN5A",20,0)
+ I $P(LA7XFORM,"^",3)="" S $P(LA7XFORM,"^",3)=1
+"RTN","LA7VIN5A",21,0)
+ ; strip spaces,no
+"RTN","LA7VIN5A",22,0)
+ I $P(LA7XFORM,"^",6)="" S $P(LA7XFORM,"^",6)=0
+"RTN","LA7VIN5A",23,0)
+ ; now transform
+"RTN","LA7VIN5A",24,0)
+ ;
+"RTN","LA7VIN5A",25,0)
+ ; Don't accept results
+"RTN","LA7VIN5A",26,0)
+ I '$P(LA7XFORM,"^",3) S LA7VAL="" Q
+"RTN","LA7VIN5A",27,0)
+ ;
+"RTN","LA7VIN5A",28,0)
+ ; Only accept "FINAL" type results
+"RTN","LA7VIN5A",29,0)
+ I $P(LA7XFORM,"^",3)=2,"CFUX"'[LA7ORS S LA7VAL="" Q
+"RTN","LA7VIN5A",30,0)
+ ;
+"RTN","LA7VIN5A",31,0)
+ ; Accept ordered tests only
+"RTN","LA7VIN5A",32,0)
+ ; If LEDI interface (10) and message indicates a reflex ("G") or add-on test ("A")
+"RTN","LA7VIN5A",33,0)
+ ;  then process anyway in case it has not been added to accession.
+"RTN","LA7VIN5A",34,0)
+ I $P(LA7XFORM,"^",5) D
+"RTN","LA7VIN5A",35,0)
+ . I LA7INTYP=10,LA7SAC?1(1"A",1"G") Q
+"RTN","LA7VIN5A",36,0)
+ . S LA7LIMIT=1
+"RTN","LA7VIN5A",37,0)
+ ; Check if Lab UI and auto release then always set ordered tests only.
+"RTN","LA7VIN5A",38,0)
+ I LA7INTYP=1,LA7AUTORELEASE S LA7LIMIT=1
+"RTN","LA7VIN5A",39,0)
+ ;
+"RTN","LA7VIN5A",40,0)
+ ; Decimal places if number of places defined
+"RTN","LA7VIN5A",41,0)
+ I $P(LA7XFORM,"^")?1.N D JUSTDEC
+"RTN","LA7VIN5A",42,0)
+ ;
+"RTN","LA7VIN5A",43,0)
+ ; Strip spaces
+"RTN","LA7VIN5A",44,0)
+ I $P(LA7XFORM,"^",6) S LA7VAL=$TR(LA7VAL," ","")
+"RTN","LA7VIN5A",45,0)
+ ;
+"RTN","LA7VIN5A",46,0)
+ ; Make result a comment
+"RTN","LA7VIN5A",47,0)
+ ; Set value to null after making into remark, don't store twice.
+"RTN","LA7VIN5A",48,0)
+ I $P(LA7XFORM,"^",2) D
+"RTN","LA7VIN5A",49,0)
+ . N LA7Y
+"RTN","LA7VIN5A",50,0)
+ . ; Store comment in ^LAH global
+"RTN","LA7VIN5A",51,0)
+ . S LA7Y=$P(LA7RMK(0,+LA76241(0)),"^",2)
+"RTN","LA7VIN5A",52,0)
+ . D RMKSET^LASET(LA7LWL,LA7ISQN,LA7VAL,LA7Y)
+"RTN","LA7VIN5A",53,0)
+ . S LA7VAL=""
+"RTN","LA7VIN5A",54,0)
+ Q
+"RTN","LA7VIN5A",55,0)
+ ;
+"RTN","LA7VIN5A",56,0)
+ ;
+"RTN","LA7VIN5A",57,0)
+CHKDIE ; Check if value to be stored passes input transform of field in DD
+"RTN","LA7VIN5A",58,0)
+ N LA7ERR,LA7Y
+"RTN","LA7VIN5A",59,0)
+ ;
+"RTN","LA7VIN5A",60,0)
+ ; If result is on a LEDI interface (type=10) then don't check result against FileMan input transform.
+"RTN","LA7VIN5A",61,0)
+ ; VistA sends "canc" as test result when test is cancelled.
+"RTN","LA7VIN5A",62,0)
+ ; DoD sends "PL Canceled" --> change to "canc" for VistA storage.
+"RTN","LA7VIN5A",63,0)
+ I LA7INTYP=10 D  Q
+"RTN","LA7VIN5A",64,0)
+ . I LA7VAL="PL Cancelled" S LA7VAL="canc" Q
+"RTN","LA7VIN5A",65,0)
+ . I LA7VAL="PL Canceled" S LA7VAL="canc" Q
+"RTN","LA7VIN5A",66,0)
+ . I LA7VAL="PLCanceled" S LA7VAL="canc" Q
+"RTN","LA7VIN5A",67,0)
+ ;
+"RTN","LA7VIN5A",68,0)
+ ; If canc or comment value received then pass as these are valid results on VistA.
+"RTN","LA7VIN5A",69,0)
+ I LA7VAL="canc"!(LA7VAL="comment") Q
+"RTN","LA7VIN5A",70,0)
+ ;
+"RTN","LA7VIN5A",71,0)
+ ; If value fails data checker then log error and suppress result.
+"RTN","LA7VIN5A",72,0)
+ D CHK^DIE(LA7SUBFL,LA76304,"H",LA7VAL,.LA7Y,"LA7ERR")
+"RTN","LA7VIN5A",73,0)
+ I LA7Y="^" D
+"RTN","LA7VIN5A",74,0)
+ . N LA7X
+"RTN","LA7VIN5A",75,0)
+ . S LA7X=$G(LA7ERR("DIERR",1,"TEXT",1))
+"RTN","LA7VIN5A",76,0)
+ . S LA7ERR=37,LA7AERR=$$CREATE^LA7LOG(LA7ERR,1)
+"RTN","LA7VIN5A",77,0)
+ . S LA7VAL=""
+"RTN","LA7VIN5A",78,0)
+ Q
+"RTN","LA7VIN5A",79,0)
+ ;
+"RTN","LA7VIN5A",80,0)
+ ;
+"RTN","LA7VIN5A",81,0)
+JUSTDEC ; Justify to number of places specified
+"RTN","LA7VIN5A",82,0)
+ ;
+"RTN","LA7VIN5A",83,0)
+ N LA7DDTYP,LA7FMT,LA7I,LA7PRFIX,LA7X
+"RTN","LA7VIN5A",84,0)
+ ;
+"RTN","LA7VIN5A",85,0)
+ ; If LEDI interface (type=10) then skip decimal adjustment
+"RTN","LA7VIN5A",86,0)
+ I LA7INTYP=10 Q
+"RTN","LA7VIN5A",87,0)
+ ;
+"RTN","LA7VIN5A",88,0)
+ ; Get data name field type from DD
+"RTN","LA7VIN5A",89,0)
+ ; Only justify if Vista field is numeric or free text.
+"RTN","LA7VIN5A",90,0)
+ S LA7DDTYP=$$GET1^DID(LA7SUBFL,LA76304,"","TYPE")
+"RTN","LA7VIN5A",91,0)
+ I "NUMERIC^FREE TEXT"'[LA7DDTYP D  Q
+"RTN","LA7VIN5A",92,0)
+ . N LA7FLDNM
+"RTN","LA7VIN5A",93,0)
+ . S LA7FLDNM=$$GET1^DID(63.04,LA76304,"","LABEL")
+"RTN","LA7VIN5A",94,0)
+ . S LA7ERR=38,LA7AERR=$$CREATE^LA7LOG(LA7ERR,1)
+"RTN","LA7VIN5A",95,0)
+ ;
+"RTN","LA7VIN5A",96,0)
+ S LA7X=LA7VAL,(LA7FMT,LA7PRFIX)=""
+"RTN","LA7VIN5A",97,0)
+ ;
+"RTN","LA7VIN5A",98,0)
+ ; If comma formatted, strip comma and set flag to add back in.
+"RTN","LA7VIN5A",99,0)
+ S LA7X=$TR(LA7X,",","")
+"RTN","LA7VIN5A",100,0)
+ I LA7X'=LA7VAL S LA7FMT="P"
+"RTN","LA7VIN5A",101,0)
+ ;
+"RTN","LA7VIN5A",102,0)
+ ; If "<>=" formatted, strip and save to add back in.
+"RTN","LA7VIN5A",103,0)
+ F LA7I=1:1:$L(LA7X) Q:$E(LA7X,LA7I)'?1(1"<",1">",1"=")
+"RTN","LA7VIN5A",104,0)
+ I LA7I>1 D
+"RTN","LA7VIN5A",105,0)
+ . S LA7PRFIX=$E(LA7X,1,LA7I-1)
+"RTN","LA7VIN5A",106,0)
+ . S LA7X=$E(LA7X,LA7I,$L(LA7X))
+"RTN","LA7VIN5A",107,0)
+ ;
+"RTN","LA7VIN5A",108,0)
+ ; Format if starts with number or decimal point, skip other results.
+"RTN","LA7VIN5A",109,0)
+ I LA7X?1(1.N,.N1"."1.N) D
+"RTN","LA7VIN5A",110,0)
+ . S LA7X=$FN(LA7X,LA7FMT,+LA7XFORM)
+"RTN","LA7VIN5A",111,0)
+ . S LA7VAL=LA7PRFIX_LA7X
+"RTN","LA7VIN5A",112,0)
+ Q
+"RTN","LA7VIN5A",113,0)
+ ;
+"RTN","LA7VIN5A",114,0)
+ ;
+"RTN","LA7VIN5A",115,0)
+PRDID(LA7PRDID,LA7SFAC,LA7CS) ; Process/Store Producer's ID
+"RTN","LA7VIN5A",116,0)
+ ; Store where test was performed.
+"RTN","LA7VIN5A",117,0)
+ ; Call with LA7PRDID = Producer's ID field
+"RTN","LA7VIN5A",118,0)
+ ;            LA7SFAC = sending facility
+"RTN","LA7VIN5A",119,0)
+ ;              LA7CS = component encoding character
+"RTN","LA7VIN5A",120,0)
+ ;
+"RTN","LA7VIN5A",121,0)
+ ; Remove units/reference ranges when Lab UI interface so file #60 settings always used
+"RTN","LA7VIN5A",122,0)
+ I $G(LA7INTYP)=1 S $P(^LAH(LA7LWL,1,LA7ISQN,LA76304),"^",5)="" Q
+"RTN","LA7VIN5A",123,0)
+ ;
+"RTN","LA7VIN5A",124,0)
+ N LA74,LA7I,LA7X,LA7Y
+"RTN","LA7VIN5A",125,0)
+ ;
+"RTN","LA7VIN5A",126,0)
+ ; Store producer's id in LAH global with results.
+"RTN","LA7VIN5A",127,0)
+ ; LA7PRODID set with pointer to file #4 to be used by segments (NTE) that follow OBX's.
+"RTN","LA7VIN5A",128,0)
+ S (LA74,LA7PRODID)=$$RESFID^LA7VHLU2(LA7PRDID,LA7SFAC,LA7CS)
+"RTN","LA7VIN5A",129,0)
+ I LA74 S $P(^LAH(LA7LWL,1,LA7ISQN,LA76304),"^",9)=LA74 Q
+"RTN","LA7VIN5A",130,0)
+ ;
+"RTN","LA7VIN5A",131,0)
+ ; Don't store producer's id as comment.
+"RTN","LA7VIN5A",132,0)
+ I '$P(LA76241(2),"^",9) Q
+"RTN","LA7VIN5A",133,0)
+ ;
+"RTN","LA7VIN5A",134,0)
+ ; If unable to identify producer in file #4 then store as comment if field STORE PRODUCER'S ID (#20) enabled.
+"RTN","LA7VIN5A",135,0)
+ S LA7X=$P(LA7PRDID,LA7CS,2)
+"RTN","LA7VIN5A",136,0)
+ I LA7X="" Q
+"RTN","LA7VIN5A",137,0)
+ S LA7Y=$P(LA7RMK(0,+LA76241(0)),"^",2)
+"RTN","LA7VIN5A",138,0)
+ S LA7X=$S(LA7Y="":"P",1:"p")_"erformed by "_LA7X
+"RTN","LA7VIN5A",139,0)
+ D RMKSET^LASET(LA7LWL,LA7ISQN,LA7X,LA7Y)
+"RTN","LA7VIN5A",140,0)
+ ;
+"RTN","LA7VIN5A",141,0)
+ Q
+"RTN","LA7VIN5A",142,0)
+ ;
+"RTN","LA7VIN5A",143,0)
+ ;
+"RTN","LA7VIN5A",144,0)
+REFRNG(LA7X) ; Process/Store References Range.
+"RTN","LA7VIN5A",145,0)
+ ; Call with LA7X = reference range to store.
+"RTN","LA7VIN5A",146,0)
+ ;
+"RTN","LA7VIN5A",147,0)
+ N LA7Y,X,Y
+"RTN","LA7VIN5A",148,0)
+ ;
+"RTN","LA7VIN5A",149,0)
+ ; Check if Lab UI and not auto release then quit otherwise store ranges.
+"RTN","LA7VIN5A",150,0)
+ I LA7INTYP=1,'LA7AUTORELEASE Q
+"RTN","LA7VIN5A",151,0)
+ ;
+"RTN","LA7VIN5A",152,0)
+ ; Check if site does not want to store reference ranges on POC test.
+"RTN","LA7VIN5A",153,0)
+ I LA7INTYP>19,LA7INTYP<30,+$P(LA76241(2),"^",10)=0 Q
+"RTN","LA7VIN5A",154,0)
+ ;
+"RTN","LA7VIN5A",155,0)
+ ; Remove leading and trailing quotes from reference range.
+"RTN","LA7VIN5A",156,0)
+ S LA7X=$$TRIM^XLFSTR($G(LA7X),"RL","""")
+"RTN","LA7VIN5A",157,0)
+ I LA7X="" Q
+"RTN","LA7VIN5A",158,0)
+ ;
+"RTN","LA7VIN5A",159,0)
+ S X=$P($G(^LAH(LA7LWL,1,LA7ISQN,LA76304)),"^",5)
+"RTN","LA7VIN5A",160,0)
+ ;
+"RTN","LA7VIN5A",161,0)
+ ; Replace "TO" with "-" (Labcorp special)
+"RTN","LA7VIN5A",162,0)
+ I LA7X["TO" S LA7X=$P(LA7X,"TO",1)_"-"_$P(LA7X,"TO",2)
+"RTN","LA7VIN5A",163,0)
+ ;
+"RTN","LA7VIN5A",164,0)
+ ; A single value with minus sign = upper limit
+"RTN","LA7VIN5A",165,0)
+ I $E(LA7X)="-",$L(LA7X,"-")=2 S LA7X="<"_$E(LA7X,2,$L(LA7X))
+"RTN","LA7VIN5A",166,0)
+ ;
+"RTN","LA7VIN5A",167,0)
+ ; >lower limit (no upper limit e.g. >10) - store as low value
+"RTN","LA7VIN5A",168,0)
+ I LA7X?1">".N.1".".N S $P(X,"!",2)=$TR(LA7X,">",""),LA7X=""
+"RTN","LA7VIN5A",169,0)
+ ;
+"RTN","LA7VIN5A",170,0)
+ ; <upper limit (no lower limit e.g. <15) - store as high value
+"RTN","LA7VIN5A",171,0)
+ I LA7X?1"<".N.1".".N S $P(X,"!",3)=$TR(LA7X,"<",""),LA7X=""
+"RTN","LA7VIN5A",172,0)
+ ;
+"RTN","LA7VIN5A",173,0)
+ ; Alphabetic reference with hyphen
+"RTN","LA7VIN5A",174,0)
+ I LA7X?1.A1"-"1.A S $P(X,"!",2)=$C(34)_LA7X_$C(34),LA7X=""
+"RTN","LA7VIN5A",175,0)
+ ;
+"RTN","LA7VIN5A",176,0)
+ S LADASH=0 S:LA7X["-" LADASH=$L(LA7X,"-")
+"RTN","LA7VIN5A",177,0)
+ ; Lower limit value
+"RTN","LA7VIN5A",178,0)
+ S Y=$S(LADASH:$P(LA7X,"-",1,LADASH-1),1:$P(LA7X,"-"))
+"RTN","LA7VIN5A",179,0)
+ I Y'="" D
+"RTN","LA7VIN5A",180,0)
+ . I Y?.N.1".".N S $P(X,"!",2)=Y
+"RTN","LA7VIN5A",181,0)
+ . E  S $P(X,"!",2)=$C(34)_$$UNESC^LA7VHLU3(Y,LA7FS_LA7ECH)_$C(34)
+"RTN","LA7VIN5A",182,0)
+ ;
+"RTN","LA7VIN5A",183,0)
+ ; Upper limit value
+"RTN","LA7VIN5A",184,0)
+ I LADASH<4 S Y=$S(LADASH:$P(LA7X,"-",LADASH),1:$P(LA7X,"-",2))
+"RTN","LA7VIN5A",185,0)
+ I LADASH=4 S Y=$P(LA7X,"-",LADASH-1,LADASH)
+"RTN","LA7VIN5A",186,0)
+ I Y'="" D
+"RTN","LA7VIN5A",187,0)
+ . I Y?.N.1".".N S $P(X,"!",3)=Y
+"RTN","LA7VIN5A",188,0)
+ . E  S $P(X,"!",3)=$C(34)_$$UNESC^LA7VHLU3(Y,LA7FS_LA7ECH)_$C(34)
+"RTN","LA7VIN5A",189,0)
+ K LADASH
+"RTN","LA7VIN5A",190,0)
+ ;
+"RTN","LA7VIN5A",191,0)
+ ; Store reference range in LAH global with results.
+"RTN","LA7VIN5A",192,0)
+ S $P(^LAH(LA7LWL,1,LA7ISQN,LA76304),"^",5)=X
+"RTN","LA7VIN5A",193,0)
+ ;
+"RTN","LA7VIN5A",194,0)
+ Q
+"RTN","LA7VIN5A",195,0)
+ ;
+"RTN","LA7VIN5A",196,0)
+ ;
+"RTN","LA7VIN5A",197,0)
+ABFLAG(LA7X) ; Process/Store Abnormal Flags.
+"RTN","LA7VIN5A",198,0)
+ ; Call with LA7X = abnormal flags to store.
+"RTN","LA7VIN5A",199,0)
+ ; Converts flag to interpretation based on HL7 Table 0078.
+"RTN","LA7VIN5A",200,0)
+ ; If no match store code instead of interpretation
+"RTN","LA7VIN5A",201,0)
+ ;
+"RTN","LA7VIN5A",202,0)
+ N I,LA7I,LA7Y,X
+"RTN","LA7VIN5A",203,0)
+ ;
+"RTN","LA7VIN5A",204,0)
+ ; Check if Lab UI and not auto release then quit otherwise store abnormal flags.
+"RTN","LA7VIN5A",205,0)
+ I LA7INTYP=1,'LA7AUTORELEASE Q
+"RTN","LA7VIN5A",206,0)
+ ;
+"RTN","LA7VIN5A",207,0)
+ ; Store abnormal flags in LAH global with results.
+"RTN","LA7VIN5A",208,0)
+ ; Currently only storing high/low and critical flags
+"RTN","LA7VIN5A",209,0)
+ S LA7Y=$S(LA7X="L":"L",LA7X="H":"H",LA7X="LL":"L*",LA7X="HH":"H*",1:"")
+"RTN","LA7VIN5A",210,0)
+ S $P(^LAH(LA7LWL,1,LA7ISQN,LA76304),"^",2)=LA7Y
+"RTN","LA7VIN5A",211,0)
+ ;
+"RTN","LA7VIN5A",212,0)
+ ; Critical or designated abnormal tests generate bulletin/alert on LEDI (type=10) interfaces.
+"RTN","LA7VIN5A",213,0)
+ I LA7INTYP=10,LA7Y'="" D
+"RTN","LA7VIN5A",214,0)
+ . I $E(LA7Y,2)'="*",'$P(LA76241(2),"^",11) Q
+"RTN","LA7VIN5A",215,0)
+ . S LA7I=$O(^TMP("LA7 ABNORMAL RESULTS",$J,""),-1),LA7I=LA7I+1
+"RTN","LA7VIN5A",216,0)
+ . S X=LA7LWL_"^"_LA7ISQN_"^"_LA76304_"^"_LA76248_"^"_LA76249_"^"_LA7ORS_"^"_LA7TEST_"^"_$S(LA7TEST(0)'="":LA7TEST(0),1:LA7TEST(2,0))_"^"_$$P^LA7VHLU(.LA7SEG,9,LA7FS)
+"RTN","LA7VIN5A",217,0)
+ . S ^TMP("LA7 ABNORMAL RESULTS",$J,LA7I)=X
+"RTN","LA7VIN5A",218,0)
+ ;
+"RTN","LA7VIN5A",219,0)
+ ; If LEDI/POC interface and abnormal flag is not handled by VistA above then store as comment.
+"RTN","LA7VIN5A",220,0)
+ I LA7INTYP>9,LA7INTYP<30,LA7Y="",LA7X'="",LA7X'="N" D
+"RTN","LA7VIN5A",221,0)
+ . S X=" L^ H^LL^HH^ <^ >^ N^ A^AA^ U^ D^ B^ W^ S^ R^ I^MS^VS"
+"RTN","LA7VIN5A",222,0)
+ . S I=$F(X,LA7X)\3
+"RTN","LA7VIN5A",223,0)
+ . S LA7Y="normalcy status - "_$P($T(ABFLAGS+I^LA7VHLU1),";;",2)
+"RTN","LA7VIN5A",224,0)
+ . D RMKSET^LASET(LA7LWL,LA7ISQN,LA7Y,$P(LA7RMK(0,+LA76241(0)),"^",2))
+"RTN","LA7VIN5A",225,0)
+ ;
+"RTN","LA7VIN5A",226,0)
+ Q
+"RTN","LA7VIN5A",227,0)
+ ;
+"RTN","LA7VIN5A",228,0)
+ ;
+"RTN","LA7VIN5A",229,0)
+EII ; Store equipment instance identifier in LAH global with results.
+"RTN","LA7VIN5A",230,0)
+ ;
+"RTN","LA7VIN5A",231,0)
+ N I,LA7X,X
+"RTN","LA7VIN5A",232,0)
+ ;
+"RTN","LA7VIN5A",233,0)
+ S LA7X=""
+"RTN","LA7VIN5A",234,0)
+ F I=1:1:4 D
+"RTN","LA7VIN5A",235,0)
+ . S X=$P(LA7EII,LA7CS,I)
+"RTN","LA7VIN5A",236,0)
+ . I X="" Q
+"RTN","LA7VIN5A",237,0)
+ . S $P(LA7X,"!",I)=$TR(X,"!","~")
+"RTN","LA7VIN5A",238,0)
+ I LA7X'="" S $P(^LAH(LA7LWL,1,LA7ISQN,LA76304),"^",11)=LA7X
+"RTN","LA7VIN5A",239,0)
+ Q
+"VER")
+8.0^22.2
+"BLD",11454,6)
+^73
+**END**
+**END**
+

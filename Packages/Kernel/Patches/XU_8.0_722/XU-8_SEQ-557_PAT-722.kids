@@ -1,0 +1,583 @@
+Released XU*8*722 SEQ #557
+Extracted from mail message
+**KIDS**:XU*8.0*722^
+
+**INSTALL NAME**
+XU*8.0*722
+"BLD",1670,0)
+XU*8.0*722^KERNEL^0^3191120^y
+"BLD",1670,1,0)
+^^1^1^3191119^
+"BLD",1670,1,1,0)
+Please refer to the Description in Forum Patch Module for details.
+"BLD",1670,4,0)
+^9.64PA^^
+"BLD",1670,6.3)
+92
+"BLD",1670,"ABPKG")
+n
+"BLD",1670,"KRN",0)
+^9.67PA^1.5^26
+"BLD",1670,"KRN",.4,0)
+.4
+"BLD",1670,"KRN",.401,0)
+.401
+"BLD",1670,"KRN",.402,0)
+.402
+"BLD",1670,"KRN",.403,0)
+.403
+"BLD",1670,"KRN",.5,0)
+.5
+"BLD",1670,"KRN",.84,0)
+.84
+"BLD",1670,"KRN",1.5,0)
+1.5
+"BLD",1670,"KRN",1.6,0)
+1.6
+"BLD",1670,"KRN",1.61,0)
+1.61
+"BLD",1670,"KRN",1.62,0)
+1.62
+"BLD",1670,"KRN",3.6,0)
+3.6
+"BLD",1670,"KRN",3.8,0)
+3.8
+"BLD",1670,"KRN",9.2,0)
+9.2
+"BLD",1670,"KRN",9.8,0)
+9.8
+"BLD",1670,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",1670,"KRN",9.8,"NM",1,0)
+XULMLD^^0^B21230564
+"BLD",1670,"KRN",9.8,"NM","B","XULMLD",1)
+ 
+"BLD",1670,"KRN",19,0)
+19
+"BLD",1670,"KRN",19.1,0)
+19.1
+"BLD",1670,"KRN",101,0)
+101
+"BLD",1670,"KRN",409.61,0)
+409.61
+"BLD",1670,"KRN",771,0)
+771
+"BLD",1670,"KRN",779.2,0)
+779.2
+"BLD",1670,"KRN",870,0)
+870
+"BLD",1670,"KRN",8989.51,0)
+8989.51
+"BLD",1670,"KRN",8989.52,0)
+8989.52
+"BLD",1670,"KRN",8993,0)
+8993
+"BLD",1670,"KRN",8994,0)
+8994
+"BLD",1670,"KRN",9002226,0)
+9002226
+"BLD",1670,"KRN","B",.4,.4)
+ 
+"BLD",1670,"KRN","B",.401,.401)
+ 
+"BLD",1670,"KRN","B",.402,.402)
+ 
+"BLD",1670,"KRN","B",.403,.403)
+ 
+"BLD",1670,"KRN","B",.5,.5)
+ 
+"BLD",1670,"KRN","B",.84,.84)
+ 
+"BLD",1670,"KRN","B",1.5,1.5)
+ 
+"BLD",1670,"KRN","B",1.6,1.6)
+ 
+"BLD",1670,"KRN","B",1.61,1.61)
+ 
+"BLD",1670,"KRN","B",1.62,1.62)
+ 
+"BLD",1670,"KRN","B",3.6,3.6)
+ 
+"BLD",1670,"KRN","B",3.8,3.8)
+ 
+"BLD",1670,"KRN","B",9.2,9.2)
+ 
+"BLD",1670,"KRN","B",9.8,9.8)
+ 
+"BLD",1670,"KRN","B",19,19)
+ 
+"BLD",1670,"KRN","B",19.1,19.1)
+ 
+"BLD",1670,"KRN","B",101,101)
+ 
+"BLD",1670,"KRN","B",409.61,409.61)
+ 
+"BLD",1670,"KRN","B",771,771)
+ 
+"BLD",1670,"KRN","B",779.2,779.2)
+ 
+"BLD",1670,"KRN","B",870,870)
+ 
+"BLD",1670,"KRN","B",8989.51,8989.51)
+ 
+"BLD",1670,"KRN","B",8989.52,8989.52)
+ 
+"BLD",1670,"KRN","B",8993,8993)
+ 
+"BLD",1670,"KRN","B",8994,8994)
+ 
+"BLD",1670,"KRN","B",9002226,9002226)
+ 
+"BLD",1670,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",1670,"QUES",0)
+^9.62^^
+"BLD",1670,"REQB",0)
+^9.611^1^1
+"BLD",1670,"REQB",1,0)
+XU*8.0*608^1
+"BLD",1670,"REQB","B","XU*8.0*608",1)
+ 
+"MBREQ")
+0
+"PKG",3,-1)
+1^1
+"PKG",3,0)
+KERNEL^XU^SIGN-ON, SECURITY, MENU DRIVER, DEVICES, TASKMAN^
+"PKG",3,22,0)
+^9.49I^1^1
+"PKG",3,22,1,0)
+8.0^3090706^3090706^6
+"PKG",3,22,1,"PAH",1,0)
+722^3191120
+"PKG",3,22,1,"PAH",1,1,0)
+^^1^1^3191120
+"PKG",3,22,1,"PAH",1,1,1,0)
+Please refer to the Description in Forum Patch Module for details.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+ 
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","XULMLD")
+0^1^B21230564^B21250798
+"RTN","XULMLD",1,0)
+XULMLD ;IRMFO-ALB/CJM/SWO/RGG - KERNEL LOCK MANAGER ; 11/20/19 9:45am
+"RTN","XULMLD",2,0)
+ ;;8.0;KERNEL;**608,722**;JUL 10, 1995;Build 90
+"RTN","XULMLD",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified
+"RTN","XULMLD",4,0)
+ ;
+"RTN","XULMLD",5,0)
+ ;  ******************************************************************
+"RTN","XULMLD",6,0)
+ ;  *                                                                *
+"RTN","XULMLD",7,0)
+ ;  *  The Kernel Lock Manager is based on the VistA Lock Manager    *
+"RTN","XULMLD",8,0)
+ ;  *        developed by Tommy Martin.                              *
+"RTN","XULMLD",9,0)
+ ;  *                                                                *
+"RTN","XULMLD",10,0)
+ ;  ******************************************************************
+"RTN","XULMLD",11,0)
+ ;
+"RTN","XULMLD",12,0)
+ ;
+"RTN","XULMLD",13,0)
+ ;Contains routines that derive information from a lock by using
+"RTN","XULMLD",14,0)
+ ;the LOCK DICTIONARY
+"RTN","XULMLD",15,0)
+ ;
+"RTN","XULMLD",16,0)
+FIND(LOCK,FILES,XULMVAR) ;
+"RTN","XULMLD",17,0)
+ ;Description:  This function finds a match to the LOCK in the lock
+"RTN","XULMLD",18,0)
+ ;dictionary.  If successful it returns the ien of the lock template,
+"RTN","XULMLD",19,0)
+ ;0 otherwise.
+"RTN","XULMLD",20,0)
+ ;
+"RTN","XULMLD",21,0)
+ ;Input:
+"RTN","XULMLD",22,0)
+ ;   LOCK - an entry in the lock table
+"RTN","XULMLD",23,0)
+ ;Output:
+"RTN","XULMLD",24,0)
+ ;   function returns the ien of the matching lock template, 0 otherwise
+"RTN","XULMLD",25,0)
+ ;   FILES (pass-by-reference) a list of files that can be referenced
+"RTN","XULMLD",26,0)
+ ;                             by LOCK. Subscripts are:
+"RTN","XULMLD",27,0)
+ ;           (<file #>)=<ien of the entry in FILE REFERENCES multip>
+"RTN","XULMLD",28,0)
+ ;   XULMVAR (pass-by-references) list of variables found within the lock
+"RTN","XULMLD",29,0)
+ ;                                template.  Subscripts are:
+"RTN","XULMLD",30,0)
+ ;           (<variable name>)=<value>
+"RTN","XULMLD",31,0)
+ ;
+"RTN","XULMLD",32,0)
+ N TEMPLATE,VAR,MATCH
+"RTN","XULMLD",33,0)
+ S (MATCH,TEMPLATE)=0
+"RTN","XULMLD",34,0)
+ S VAR=$P(LOCK,"(")
+"RTN","XULMLD",35,0)
+ S VAR=$O(^XLM(8993,"AC",VAR),-1)
+"RTN","XULMLD",36,0)
+ F  S VAR=$O(^XLM(8993,"AC",VAR)) Q:VAR'=$P(LOCK,"(")  D  Q:TEMPLATE
+"RTN","XULMLD",37,0)
+ .S TEMPLATE=0
+"RTN","XULMLD",38,0)
+ .F  S TEMPLATE=$O(^XLM(8993,"AC",VAR,TEMPLATE)) Q:'TEMPLATE  Q:$$MATCH(LOCK,TEMPLATE,.FILES,.VARS)
+"RTN","XULMLD",39,0)
+ .;
+"RTN","XULMLD",40,0)
+ .;If no full match, check for allowable partial match
+"RTN","XULMLD",41,0)
+ .I 'TEMPLATE D
+"RTN","XULMLD",42,0)
+ ..N PARTS,PCOUNT,PLOCK
+"RTN","XULMLD",43,0)
+ ..D PARSE(LOCK,.PARTS) ;PARTS(0)=count of subscripts in LOCK
+"RTN","XULMLD",44,0)
+ ..F  S TEMPLATE=$O(^XLM(8993,"AC",VAR,+TEMPLATE)) Q:'TEMPLATE  D  Q:MATCH
+"RTN","XULMLD",45,0)
+ ...Q:'$P($G(^XLM(8993,TEMPLATE,1)),"^",3)
+"RTN","XULMLD",46,0)
+ ...S PCOUNT=$P($G(^XLM(8993,TEMPLATE,2,0)),"^",4) ;PCOUNT=count of subscripts in TEMPLATE
+"RTN","XULMLD",47,0)
+ ...Q:PCOUNT'<PARTS(0)
+"RTN","XULMLD",48,0)
+ ...S PLOCK=$NA(LOCK,PCOUNT)
+"RTN","XULMLD",49,0)
+ ...S:$$MATCH(PLOCK,TEMPLATE,.FILES,.VARS) MATCH=1
+"RTN","XULMLD",50,0)
+ Q +TEMPLATE
+"RTN","XULMLD",51,0)
+ ;
+"RTN","XULMLD",52,0)
+MATCH(LOCK,IEN,FILES,XULMVAR) ;
+"RTN","XULMLD",53,0)
+ ;Description:  This function compares a lock to entries in the lock
+"RTN","XULMLD",54,0)
+ ;and returns 1 if they match, 0 otherwise.
+"RTN","XULMLD",55,0)
+ ;Input:
+"RTN","XULMLD",56,0)
+ ;   LOCK - an entry in the lock table
+"RTN","XULMLD",57,0)
+ ;   IEN - an entry# in the LOCK DICTIONARY
+"RTN","XULMLD",58,0)
+ ;Output:
+"RTN","XULMLD",59,0)
+ ;   function returns 1 if the lock matches the lock template, 0 otherwise
+"RTN","XULMLD",60,0)
+ ;   FILES (pass-by-reference) a list of files that can be referenced
+"RTN","XULMLD",61,0)
+ ;                             by LOCK. Subscripts are:
+"RTN","XULMLD",62,0)
+ ;           (<file #>)=<ien of the entry in FILE REFERENCES multip>
+"RTN","XULMLD",63,0)
+ ;   XULMVAR (pass-by-references) list of variables found within the lock
+"RTN","XULMLD",64,0)
+ ;                                template.  Subscripts are:
+"RTN","XULMLD",65,0)
+ ;           (<variable name>)=<value>
+"RTN","XULMLD",66,0)
+ ;           
+"RTN","XULMLD",67,0)
+ ;
+"RTN","XULMLD",68,0)
+ N NODE,ORDER,PARTS,PART,XULMBAD,XULMCODE,FILE,SUB,PARTIAL
+"RTN","XULMLD",69,0)
+ ;
+"RTN","XULMLD",70,0)
+ D PARSE(LOCK,.PARTS)
+"RTN","XULMLD",71,0)
+ Q:PARTS'=$P($$TEMPLATE^XULMU(IEN),"(") 0
+"RTN","XULMLD",72,0)
+ ;
+"RTN","XULMLD",73,0)
+ ;must have the same number of subscripts, OR, if partial matches allowed, possibly greater number of subscripts
+"RTN","XULMLD",74,0)
+ S PARTIAL=$P($G(^XLM(8993,IEN,1)),"^",3)
+"RTN","XULMLD",75,0)
+ I 'PARTIAL Q:PARTS(0)'=$P($G(^XLM(8993,IEN,2,0)),"^",4) 0
+"RTN","XULMLD",76,0)
+ I PARTIAL Q:PARTS(0)<$P($G(^XLM(8993,IEN,2,0)),"^",4) 0
+"RTN","XULMLD",77,0)
+ ;
+"RTN","XULMLD",78,0)
+ S (ORDER,SUB,XULMBAD)=0
+"RTN","XULMLD",79,0)
+ F ORDER=1:1:PARTS(0) S SUB=$O(^XLM(8993,IEN,2,"B",ORDER,0)) Q:'SUB  D  Q:XULMBAD
+"RTN","XULMLD",80,0)
+ .S NODE=$G(^XLM(8993,IEN,2,SUB,0))
+"RTN","XULMLD",81,0)
+ .I $P(NODE,"^",2)'=PARTS(ORDER) D
+"RTN","XULMLD",82,0)
+ ..N MUMPS
+"RTN","XULMLD",83,0)
+ ..I $P(NODE,"^",4)'="V" S XULMBAD=1 Q
+"RTN","XULMLD",84,0)
+ ..S XULMVAR($P(NODE,"^",2))=PARTS(ORDER)
+"RTN","XULMLD",85,0)
+ ..S MUMPS=$G(^XLM(8993,IEN,2,SUB,1))
+"RTN","XULMLD",86,0)
+ ..I $L(MUMPS) S XULMCODE($I(XULMCODE))=MUMPS
+"RTN","XULMLD",87,0)
+ ;
+"RTN","XULMLD",88,0)
+ Q:XULMBAD 'XULMBAD
+"RTN","XULMLD",89,0)
+ ;
+"RTN","XULMLD",90,0)
+ ;If there is variable check logic, execute it
+"RTN","XULMLD",91,0)
+ D
+"RTN","XULMLD",92,0)
+ .;define the application variables, but protect my own first
+"RTN","XULMLD",93,0)
+ .N I,IEN,LOCK,ORDER,PARTS,SUB,X,NODE,FILES,FILE,VAR,IDX,LOCKS
+"RTN","XULMLD",94,0)
+ .S VAR=""
+"RTN","XULMLD",95,0)
+ .F  S VAR=$O(XULMVAR(VAR)) Q:(VAR="")  N @VAR S @VAR=XULMVAR(VAR)
+"RTN","XULMLD",96,0)
+ .S XULMCODE=0
+"RTN","XULMLD",97,0)
+ .;
+"RTN","XULMLD",98,0)
+ .;execute the check logic - cached in XULMCODE
+"RTN","XULMLD",99,0)
+ .F  S XULMCODE=$O(XULMCODE(XULMCODE)) Q:'XULMCODE  D  Q:XULMBAD
+"RTN","XULMLD",100,0)
+ ..N Y
+"RTN","XULMLD",101,0)
+ ..N $ETRAP,$ESTACK S $ETRAP="G ERROR^XULMLD"
+"RTN","XULMLD",102,0)
+ ..X XULMCODE(XULMCODE)
+"RTN","XULMLD",103,0)
+ ..I $G(Y)'=1 S XULMBAD=1
+"RTN","XULMLD",104,0)
+ ;
+"RTN","XULMLD",105,0)
+ ;If this matches, get the file references
+"RTN","XULMLD",106,0)
+ I 'XULMBAD D
+"RTN","XULMLD",107,0)
+ .S FILE=0
+"RTN","XULMLD",108,0)
+ .F  S FILE=$O(^XLM(8993,IEN,3,"B",FILE)) Q:'FILE  S FILES(FILE)=$O(^XLM(8993,IEN,3,"B",FILE,0))
+"RTN","XULMLD",109,0)
+ E  K XULMVAR
+"RTN","XULMLD",110,0)
+ ;
+"RTN","XULMLD",111,0)
+ ;
+"RTN","XULMLD",112,0)
+ Q 'XULMBAD
+"RTN","XULMLD",113,0)
+ ;
+"RTN","XULMLD",114,0)
+PARSE(LOCK,PARTS) ;
+"RTN","XULMLD",115,0)
+ ;Parse the lock into its partS
+"RTN","XULMLD",116,0)
+ ;Input:
+"RTN","XULMLD",117,0)
+ ;   LOCK - entry from the lock table
+"RTN","XULMLD",118,0)
+ ;Output:
+"RTN","XULMLD",119,0)
+ ;   PARTS (pass by reference) the LOCK components are in this array
+"RTN","XULMLD",120,0)
+ ;
+"RTN","XULMLD",121,0)
+ N I
+"RTN","XULMLD",122,0)
+ K PARTS
+"RTN","XULMLD",123,0)
+ S PARTS(0)=$QLENGTH(LOCK)
+"RTN","XULMLD",124,0)
+ S PARTS=$QSUBSCRIPT(LOCK,0)
+"RTN","XULMLD",125,0)
+ F I=1:1:PARTS(0) S PARTS(I)=$QSUBSCRIPT(LOCK,I)
+"RTN","XULMLD",126,0)
+ Q
+"RTN","XULMLD",127,0)
+ ;
+"RTN","XULMLD",128,0)
+ ;
+"RTN","XULMLD",129,0)
+GETREFS(IEN,FILES,XULMVAR) ;
+"RTN","XULMLD",130,0)
+ ;Get file referencs for a lock.
+"RTN","XULMLD",131,0)
+ ;Input:
+"RTN","XULMLD",132,0)
+ ;  IEN - entry in the LOCK DICTIONARY
+"RTN","XULMLD",133,0)
+ ;  FILES - list of files to get references for
+"RTN","XULMLD",134,0)
+ ;  XULMVAR - variables parsed out of a lock table entry
+"RTN","XULMLD",135,0)
+ ;Output:
+"RTN","XULMLD",136,0)
+ ;  FILES - for each file on the list, returns the references info
+"RTN","XULMLD",137,0)
+ ;      (<file #>,"IEN")=<DA>^<DA(1)^DA(2)^etc.
+"RTN","XULMLD",138,0)
+ ;      (file #>,<1,2,3,etc.>)=<file identifier element>
+"RTN","XULMLD",139,0)
+ ;
+"RTN","XULMLD",140,0)
+ ;
+"RTN","XULMLD",141,0)
+ N XULMCODE,ID,FILE
+"RTN","XULMLD",142,0)
+ S FILE=0
+"RTN","XULMLD",143,0)
+ F  S FILE=$O(FILES(FILE)) Q:'FILE  S XULMCODE=$G(^XLM(8993,IEN,3,FILES(FILE),1)) D
+"RTN","XULMLD",144,0)
+ .D
+"RTN","XULMLD",145,0)
+ ..N FILE,IEN,FILES
+"RTN","XULMLD",146,0)
+ ..N $ETRAP,$ESTACK S $ETRAP="G ERROR^XULMLD"
+"RTN","XULMLD",147,0)
+ ..;we have the computable code, now set the variables
+"RTN","XULMLD",148,0)
+ ..S XULMVAR=""
+"RTN","XULMLD",149,0)
+ ..F  S XULMVAR=$O(XULMVAR(XULMVAR)) Q:(XULMVAR="")  N @XULMVAR S @XULMVAR=XULMVAR(XULMVAR)
+"RTN","XULMLD",150,0)
+ ..;
+"RTN","XULMLD",151,0)
+ ..;now XECUTE it! It will return ID()
+"RTN","XULMLD",152,0)
+ ..X XULMCODE
+"RTN","XULMLD",153,0)
+ .M FILES(FILE)=ID
+"RTN","XULMLD",154,0)
+ Q
+"RTN","XULMLD",155,0)
+ ;
+"RTN","XULMLD",156,0)
+ERROR ;
+"RTN","XULMLD",157,0)
+ S $ETRAP="Q:$QUIT """" Q"
+"RTN","XULMLD",158,0)
+ ;quit back to the Taskman error trap on these errors
+"RTN","XULMLD",159,0)
+ I ($ECODE["TOOMANYFILES")!($ECODE["EDITED") D  Q:$QUIT "" Q
+"RTN","XULMLD",160,0)
+ .D UNWIND^%ZTER
+"RTN","XULMLD",161,0)
+ ;can log error and continue processing
+"RTN","XULMLD",162,0)
+ N XUPARMS,LOGIN,PARMS
+"RTN","XULMLD",163,0)
+ D ^%ZTER
+"RTN","XULMLD",164,0)
+ S $ECODE=""
+"RTN","XULMLD",165,0)
+ Q:$QUIT "" Q
+"RTN","XULMLD",166,0)
+ ;
+"RTN","XULMLD",167,0)
+ ;
+"RTN","XULMLD",168,0)
+ ;
+"RTN","XULMLD",169,0)
+ ;
+"RTN","XULMLD",170,0)
+ ;
+"RTN","XULMLD",171,0)
+ ;
+"RTN","XULMLD",172,0)
+ ;
+"RTN","XULMLD",173,0)
+ ;
+"VER")
+8.0^22.2
+"BLD",1670,6)
+^557
+**END**
+**END**
+

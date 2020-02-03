@@ -4,20 +4,21 @@ FOIA Mirror Repository
 This repository contains a subset of the files and content available from the
 FOIA content available initially from https://foia-vista.osehra.org.  The files
 found in this repository are the ones that fit without using the Git LFS
-capabilities.  The larger files are 
+capabilities.  The larger files are listed under the Large_Files_Not_Included.txt.  
+Note if you are using Git LFS, you need to back fill the missing large files to the associated Package directories.
 
 
 How to populate directories
 ---------------------------
 
-OSEHRA has generated a script which will examine a directory and place the
+OSEHRA has generated a script - PopulatePatchesByPackage.py, which will examine a directory and place the
 files that it finds into a properly named set of directories for each Package.
 The packages that are generated are based upon the content of the
 ``Packages.csv`` found at the top level of the repository.
 
 
 The PopulatePatchesByPackage.py file can be found within the ``Scripts``
-directory of the `OSEHRA/VistA`_ repository.  The repository can be cloned via
+directory of the `OSEHRA/VistA`_ repository.  To run the script, you need to clone the entire repository via
 Git or by downloading it from the Github website.
 
 We recommend that `Python 3`_ be installed.
@@ -41,7 +42,7 @@ a patch called ``SD*5.3*10005``.  Below, we can see it in the proper directory.
     'SD_5.3_10005.txt'    <...>
 
 Then, in the same directory, execute the ``PopulatePatchesByPackage.py`` script.
-The invocation is  as follows: Use the Python executable with the path to the
+The invocation is  as follows (assuming a linux shell, i.e., Windows Git Bash) : Use the Python executable with the path to the
 ``PopulatePatchesByPackage.py`` file. Then, use the "<" symbol to "send" the
 content of the repository's Packages.csv file to the script via STDIN.
 The following is an example:

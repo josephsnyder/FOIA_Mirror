@@ -1,0 +1,600 @@
+KIDS Distribution saved on Aug 27, 2019@10:25:18
+PSB*3*122
+**KIDS**:PSB*3.0*122^
+
+**INSTALL NAME**
+PSB*3.0*122
+"BLD",9353,0)
+PSB*3.0*122^BAR CODE MED ADMIN^0^3190827^y
+"BLD",9353,1,0)
+^^41^41^3190827^^
+"BLD",9353,1,1,0)
+This patch will resolve the following issue.
+"BLD",9353,1,2,0)
+ 
+"BLD",9353,1,3,0)
+INC3062938 - BCBU/VISTA
+"BLD",9353,1,4,0)
+    
+"BLD",9353,1,5,0)
+Defect Tracking System Ticket(s) & Overview:
+"BLD",9353,1,6,0)
+--------------------------------------------
+"BLD",9353,1,7,0)
+INC3062938 - BCBU/VISTA
+"BLD",9353,1,8,0)
+        
+"BLD",9353,1,9,0)
+Problem: 
+"BLD",9353,1,10,0)
+--------
+"BLD",9353,1,11,0)
+The South Texas Veterans Health Care Medical Center reported two problems
+"BLD",9353,1,12,0)
+with the the Initialize a Backup Workstation with BCMA Users [PSB BCBU USER
+"BLD",9353,1,13,0)
+INIT] option:
+"BLD",9353,1,14,0)
+  1) Users were not able to access the BCBU workstations with their ACCESS/
+"BLD",9353,1,15,0)
+     VERIFY codes after the option above was run. Thei ACCESS/VERIFY codes
+"BLD",9353,1,16,0)
+     should match what they use in the main VistA account. Usually, a re-run
+"BLD",9353,1,17,0)
+     of the option resolves the problem, which is not ideal.
+"BLD",9353,1,18,0)
+  2) If there are two users with similar names (e.g., 'NURSE,USER' and 
+"BLD",9353,1,19,0)
+     'NURSE,USER A' existed, the user with the shorter name would not be able
+"BLD",9353,1,20,0)
+     to access the BCBU workstation, even after the second initialization.
+"BLD",9353,1,21,0)
+     
+"BLD",9353,1,22,0)
+Resolution:
+"BLD",9353,1,23,0)
+-----------
+"BLD",9353,1,24,0)
+1) The setting of cross-references for the newly created users at the
+"BLD",9353,1,25,0)
+   initialized BCBU workstation was being executed before their ACCESS/
+"BLD",9353,1,26,0)
+   VERIFY codes were saved. To resolve the problem the cross-references
+"BLD",9353,1,27,0)
+   setting was moved to run after the ACCESS/VERIFY codes are saved and it
+"BLD",9353,1,28,0)
+   will address this problem.
+"BLD",9353,1,29,0)
+2) The problem happened because the user lookup for 'NURSE,USER' would
+"BLD",9353,1,30,0)
+   find more than one match, 'NURSE,USER' and 'NURSE,USER A' which would
+"BLD",9353,1,31,0)
+   prevent it from being updated. To resolve this problem the lookup call
+"BLD",9353,1,32,0)
+   to find the user record was changed to perform and EXACT match for the
+"BLD",9353,1,33,0)
+   user name. This way a lookup for 'NURSE,USER' will not find 'NURSE,USER 
+"BLD",9353,1,34,0)
+   A' as a possible match.
+"BLD",9353,1,35,0)
+ 
+"BLD",9353,1,36,0)
+Technical Resolution:
+"BLD",9353,1,37,0)
+---------------------
+"BLD",9353,1,38,0)
+1) Moved the call to IX1^DIK from line FILE+19 to FILE+23 in the ALPBGEN1
+"BLD",9353,1,39,0)
+   routine, which is past the setting of the ACCESS/VERIFY codes.
+"BLD",9353,1,40,0)
+2) Changed the DIC(0)="LM" to DIC(0)="LMX" at line FILE+9 in the ALPBGEN1
+"BLD",9353,1,41,0)
+   routine, which will force an exact match of the user name.
+"BLD",9353,4,0)
+^9.64PA^^
+"BLD",9353,6.3)
+3
+"BLD",9353,"KRN",0)
+^9.67PA^1.5^24
+"BLD",9353,"KRN",.4,0)
+.4
+"BLD",9353,"KRN",.401,0)
+.401
+"BLD",9353,"KRN",.402,0)
+.402
+"BLD",9353,"KRN",.403,0)
+.403
+"BLD",9353,"KRN",.5,0)
+.5
+"BLD",9353,"KRN",.84,0)
+.84
+"BLD",9353,"KRN",1.5,0)
+1.5
+"BLD",9353,"KRN",1.6,0)
+1.6
+"BLD",9353,"KRN",1.61,0)
+1.61
+"BLD",9353,"KRN",1.62,0)
+1.62
+"BLD",9353,"KRN",3.6,0)
+3.6
+"BLD",9353,"KRN",3.8,0)
+3.8
+"BLD",9353,"KRN",9.2,0)
+9.2
+"BLD",9353,"KRN",9.8,0)
+9.8
+"BLD",9353,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",9353,"KRN",9.8,"NM",1,0)
+ALPBGEN1^^0^B23953842
+"BLD",9353,"KRN",9.8,"NM","B","ALPBGEN1",1)
+
+"BLD",9353,"KRN",19,0)
+19
+"BLD",9353,"KRN",19.1,0)
+19.1
+"BLD",9353,"KRN",101,0)
+101
+"BLD",9353,"KRN",409.61,0)
+409.61
+"BLD",9353,"KRN",771,0)
+771
+"BLD",9353,"KRN",779.2,0)
+779.2
+"BLD",9353,"KRN",870,0)
+870
+"BLD",9353,"KRN",8989.51,0)
+8989.51
+"BLD",9353,"KRN",8989.52,0)
+8989.52
+"BLD",9353,"KRN",8994,0)
+8994
+"BLD",9353,"KRN","B",.4,.4)
+
+"BLD",9353,"KRN","B",.401,.401)
+
+"BLD",9353,"KRN","B",.402,.402)
+
+"BLD",9353,"KRN","B",.403,.403)
+
+"BLD",9353,"KRN","B",.5,.5)
+
+"BLD",9353,"KRN","B",.84,.84)
+
+"BLD",9353,"KRN","B",1.5,1.5)
+
+"BLD",9353,"KRN","B",1.6,1.6)
+
+"BLD",9353,"KRN","B",1.61,1.61)
+
+"BLD",9353,"KRN","B",1.62,1.62)
+
+"BLD",9353,"KRN","B",3.6,3.6)
+
+"BLD",9353,"KRN","B",3.8,3.8)
+
+"BLD",9353,"KRN","B",9.2,9.2)
+
+"BLD",9353,"KRN","B",9.8,9.8)
+
+"BLD",9353,"KRN","B",19,19)
+
+"BLD",9353,"KRN","B",19.1,19.1)
+
+"BLD",9353,"KRN","B",101,101)
+
+"BLD",9353,"KRN","B",409.61,409.61)
+
+"BLD",9353,"KRN","B",771,771)
+
+"BLD",9353,"KRN","B",779.2,779.2)
+
+"BLD",9353,"KRN","B",870,870)
+
+"BLD",9353,"KRN","B",8989.51,8989.51)
+
+"BLD",9353,"KRN","B",8989.52,8989.52)
+
+"BLD",9353,"KRN","B",8994,8994)
+
+"BLD",9353,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",9353,"QUES",0)
+^9.62^^
+"BLD",9353,"REQB",0)
+^9.611^1^1
+"BLD",9353,"REQB",1,0)
+PSB*3.0*102^2
+"BLD",9353,"REQB","B","PSB*3.0*102",1)
+
+"MBREQ")
+0
+"PKG",536,-1)
+1^1
+"PKG",536,0)
+BAR CODE MED ADMIN^PSB^BAR CODE MEDICATION ADMINISTRATION
+"PKG",536,20,0)
+^9.402P^^
+"PKG",536,22,0)
+^9.49I^1^1
+"PKG",536,22,1,0)
+3.0^3040224^3040318^11874
+"PKG",536,22,1,"PAH",1,0)
+122^3190827^1776
+"PKG",536,22,1,"PAH",1,1,0)
+^^41^41^3190827
+"PKG",536,22,1,"PAH",1,1,1,0)
+This patch will resolve the following issue.
+"PKG",536,22,1,"PAH",1,1,2,0)
+ 
+"PKG",536,22,1,"PAH",1,1,3,0)
+INC3062938 - BCBU/VISTA
+"PKG",536,22,1,"PAH",1,1,4,0)
+    
+"PKG",536,22,1,"PAH",1,1,5,0)
+Defect Tracking System Ticket(s) & Overview:
+"PKG",536,22,1,"PAH",1,1,6,0)
+--------------------------------------------
+"PKG",536,22,1,"PAH",1,1,7,0)
+INC3062938 - BCBU/VISTA
+"PKG",536,22,1,"PAH",1,1,8,0)
+        
+"PKG",536,22,1,"PAH",1,1,9,0)
+Problem: 
+"PKG",536,22,1,"PAH",1,1,10,0)
+--------
+"PKG",536,22,1,"PAH",1,1,11,0)
+The South Texas Veterans Health Care Medical Center reported two problems
+"PKG",536,22,1,"PAH",1,1,12,0)
+with the the Initialize a Backup Workstation with BCMA Users [PSB BCBU USER
+"PKG",536,22,1,"PAH",1,1,13,0)
+INIT] option:
+"PKG",536,22,1,"PAH",1,1,14,0)
+  1) Users were not able to access the BCBU workstations with their ACCESS/
+"PKG",536,22,1,"PAH",1,1,15,0)
+     VERIFY codes after the option above was run. Thei ACCESS/VERIFY codes
+"PKG",536,22,1,"PAH",1,1,16,0)
+     should match what they use in the main VistA account. Usually, a re-run
+"PKG",536,22,1,"PAH",1,1,17,0)
+     of the option resolves the problem, which is not ideal.
+"PKG",536,22,1,"PAH",1,1,18,0)
+  2) If there are two users with similar names (e.g., 'NURSE,USER' and 
+"PKG",536,22,1,"PAH",1,1,19,0)
+     'NURSE,USER A' existed, the user with the shorter name would not be able
+"PKG",536,22,1,"PAH",1,1,20,0)
+     to access the BCBU workstation, even after the second initialization.
+"PKG",536,22,1,"PAH",1,1,21,0)
+     
+"PKG",536,22,1,"PAH",1,1,22,0)
+Resolution:
+"PKG",536,22,1,"PAH",1,1,23,0)
+-----------
+"PKG",536,22,1,"PAH",1,1,24,0)
+1) The setting of cross-references for the newly created users at the
+"PKG",536,22,1,"PAH",1,1,25,0)
+   initialized BCBU workstation was being executed before their ACCESS/
+"PKG",536,22,1,"PAH",1,1,26,0)
+   VERIFY codes were saved. To resolve the problem the cross-references
+"PKG",536,22,1,"PAH",1,1,27,0)
+   setting was moved to run after the ACCESS/VERIFY codes are saved and it
+"PKG",536,22,1,"PAH",1,1,28,0)
+   will address this problem.
+"PKG",536,22,1,"PAH",1,1,29,0)
+2) The problem happened because the user lookup for 'NURSE,USER' would
+"PKG",536,22,1,"PAH",1,1,30,0)
+   find more than one match, 'NURSE,USER' and 'NURSE,USER A' which would
+"PKG",536,22,1,"PAH",1,1,31,0)
+   prevent it from being updated. To resolve this problem the lookup call
+"PKG",536,22,1,"PAH",1,1,32,0)
+   to find the user record was changed to perform and EXACT match for the
+"PKG",536,22,1,"PAH",1,1,33,0)
+   user name. This way a lookup for 'NURSE,USER' will not find 'NURSE,USER 
+"PKG",536,22,1,"PAH",1,1,34,0)
+   A' as a possible match.
+"PKG",536,22,1,"PAH",1,1,35,0)
+ 
+"PKG",536,22,1,"PAH",1,1,36,0)
+Technical Resolution:
+"PKG",536,22,1,"PAH",1,1,37,0)
+---------------------
+"PKG",536,22,1,"PAH",1,1,38,0)
+1) Moved the call to IX1^DIK from line FILE+19 to FILE+23 in the ALPBGEN1
+"PKG",536,22,1,"PAH",1,1,39,0)
+   routine, which is past the setting of the ACCESS/VERIFY codes.
+"PKG",536,22,1,"PAH",1,1,40,0)
+2) Changed the DIC(0)="LM" to DIC(0)="LMX" at line FILE+9 in the ALPBGEN1
+"PKG",536,22,1,"PAH",1,1,41,0)
+   routine, which will force an exact match of the user name.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","ALPBGEN1")
+0^1^B23953842
+"RTN","ALPBGEN1",1,0)
+ALPBGEN1 ;SFVAMC/JC - Parse and File HL7 PMU messages ;05/10/07
+"RTN","ALPBGEN1",2,0)
+ ;;3.0;BAR CODE MED ADMIN;**8,37,102,122**;Mar 2004;Build 3
+"RTN","ALPBGEN1",3,0)
+ ;;Per VHA Directive 2004-038, this routine should not be modified.
+"RTN","ALPBGEN1",4,0)
+ Q
+"RTN","ALPBGEN1",5,0)
+ ;
+"RTN","ALPBGEN1",6,0)
+PARSIT ;PARSE MESSAGE ON RECEIVING SIDE
+"RTN","ALPBGEN1",7,0)
+ N FS,EC,CS,RS,ESC,SS,EEC,EFS,ECS,ERS,ESS,ALPBID,ALPBKY,ALPBMENU,ALPBMT,ALPBVC,DATE,DIK,DLAYGO,STF
+"RTN","ALPBGEN1",8,0)
+ S FS=$G(HL("FS")) I FS="" W !,"NO SEPARATOR" Q:FS=""  ;Field separator
+"RTN","ALPBGEN1",9,0)
+ S EC=$G(HL("ECH")) Q:EC=""  ;Encoding Charaters
+"RTN","ALPBGEN1",10,0)
+ S CS=$E(EC) ;Component separator
+"RTN","ALPBGEN1",11,0)
+ S RS=$E(EC,2) ;Repitition separator
+"RTN","ALPBGEN1",12,0)
+ S ESC=$E(EC,3) ;Escape character
+"RTN","ALPBGEN1",13,0)
+ S SS=$E(EC,4) ;Subcomponent separator
+"RTN","ALPBGEN1",14,0)
+ S EEC=ESC_"E"_ESC ;escaped escape character
+"RTN","ALPBGEN1",15,0)
+ S EFS=ESC_"F"_ESC ;escaped field sep
+"RTN","ALPBGEN1",16,0)
+ S ECS=ESC_"S"_ESC ;escaped component sep
+"RTN","ALPBGEN1",17,0)
+ S ERS=ESC_"R"_ESC ; escaped repitition sep
+"RTN","ALPBGEN1",18,0)
+ S ESS=ESC_"T"_ESC ;escaped subcomponent separator
+"RTN","ALPBGEN1",19,0)
+ N ALPBI,ALBPJ,ALPBX,ALPBAC,ACLPVC,ALPBSSN,ALPBERR,ALPBNAM,ALPBTRM
+"RTN","ALPBGEN1",20,0)
+ F  X HLNEXT Q:$G(HLQUIT)'>0  D
+"RTN","ALPBGEN1",21,0)
+ . I $E(HLNODE,1,3)="EVN" S ALPBMT=$P(HLNODE,2)
+"RTN","ALPBGEN1",22,0)
+ . I $E(HLNODE,1,3)="STF" S STF=$E(HLNODE,5,9999) D PSTF
+"RTN","ALPBGEN1",23,0)
+ Q
+"RTN","ALPBGEN1",24,0)
+PSTF ;Process STF segment
+"RTN","ALPBGEN1",25,0)
+ S ALPBKY=$P(STF,FS,1) Q:ALPBKY'[200_CS_"VISTA"
+"RTN","ALPBGEN1",26,0)
+ S ALPBID=$P(STF,FS,2) S ALPBSSN=$E(ALPBID,1,9),ALPBAC=$P(ALPBID,RS,2),ALPBVC=$P(ALPBID,RS,3) D
+"RTN","ALPBGEN1",27,0)
+ . S ALPBSSN=$TR(ALPBSSN,"-","")
+"RTN","ALPBGEN1",28,0)
+ . I ALPBAC']"" S ALERR("ACCESS")="MISSING ACCESS CODE"
+"RTN","ALPBGEN1",29,0)
+ . ;Unescape Access Code
+"RTN","ALPBGEN1",30,0)
+ . S ALPBAC=$$UNESC(ALPBAC)
+"RTN","ALPBGEN1",31,0)
+ . ;Unescape Verify Code
+"RTN","ALPBGEN1",32,0)
+ . S ALPBVC=$$UNESC(ALPBVC)
+"RTN","ALPBGEN1",33,0)
+ S ALPBNAM=$P(STF,FS,3),ALPBNAM=$P(ALPBNAM,CS,1)_","_$P(ALPBNAM,CS,2)_" "_$P(ALPBNAM,CS,3)_" "_$P(ALPBNAM,CS,4)
+"RTN","ALPBGEN1",34,0)
+ I ALPBNAM["  " S ALPBNAM=$TR(ALPBNAM," ","") I ALPBNAM']"" S ALERR("NAME")="MISSING NAME"
+"RTN","ALPBGEN1",35,0)
+ I $D(ALERR) G PERR
+"RTN","ALPBGEN1",36,0)
+ S ALPBDIS=$S($P(STF,FS,7)="I":1,1:0)
+"RTN","ALPBGEN1",37,0)
+ I $P(STF,FS,13)]"" S ALPBTRM=$$HL7TFM^XLFDT($P(STF,FS,13),"L")
+"RTN","ALPBGEN1",38,0)
+FILE ;Store File 200 data on backup system
+"RTN","ALPBGEN1",39,0)
+ N Y,DIC,DIE,DA,DR
+"RTN","ALPBGEN1",40,0)
+ Q:'$D(ALPBNAM)
+"RTN","ALPBGEN1",41,0)
+ Q:$L(ALPBSSN)'=9
+"RTN","ALPBGEN1",42,0)
+ ;Try exact SSn lookup first
+"RTN","ALPBGEN1",43,0)
+ K Y S DIC="^VA(200,",DIC(0)="X",X=ALPBSSN,D="SSN" D IX^DIC
+"RTN","ALPBGEN1",44,0)
+ ;
+"RTN","ALPBGEN1",45,0)
+ ;If SSN lookup fails, try name lookup and add User only if it does not have a Termination Date or DIUSER
+"RTN","ALPBGEN1",46,0)
+ I +Y<1,'$G(ALPBTRM),'$G(ALPBDIS) S DLAYGO=200,DIC="^VA(200,",DIC(0)="LMX",X=ALPBNAM D ^DIC K DIC,DA,DR
+"RTN","ALPBGEN1",47,0)
+ I +Y>0 S (ALPBDA,DA)=+Y S ALPBMENU=$O(^DIC(19,"B","PSB BCBU WRKSTN MAIN",0)) D
+"RTN","ALPBGEN1",48,0)
+ . ;Update name too
+"RTN","ALPBGEN1",49,0)
+ . S DIE="^VA(200,",DR=".01////"_ALPBNAM
+"RTN","ALPBGEN1",50,0)
+ . S DR=DR_";7////"_$S('$G(ALPBDIS):"@",1:ALPBDIS)
+"RTN","ALPBGEN1",51,0)
+ . I ALPBSSN]"",$L(ALPBSSN)=9 S DR=DR_";9////"_ALPBSSN
+"RTN","ALPBGEN1",52,0)
+ . I +ALPBMENU S DR=DR_";201////"_ALPBMENU
+"RTN","ALPBGEN1",53,0)
+ . S DR=DR_";9.2////"_$S('$G(ALPBTRM):"@",1:ALPBTRM)
+"RTN","ALPBGEN1",54,0)
+ . I $G(DR)]"" D ^DIE K DIC,DA,DR S DIK=DIE,DA=ALPBDA
+"RTN","ALPBGEN1",55,0)
+ . ; Direct set used for the ACCESS and VERIFY CODE fields because they may contain semi-colon (;), which affects the DIE call
+"RTN","ALPBGEN1",56,0)
+ . I $D(^VA(200,ALPBDA,0)) D
+"RTN","ALPBGEN1",57,0)
+ . . S $P(^VA(200,ALPBDA,0),"^",3)=ALPBAC
+"RTN","ALPBGEN1",58,0)
+ . . S $P(^VA(200,ALPBDA,.1),"^",2)=$S($G(ALPBDIS)!$G(ALPBTRM):"",1:ALPBVC)
+"RTN","ALPBGEN1",59,0)
+ . . S $P(^VA(200,ALPBDA,.1),"^",1)=$H
+"RTN","ALPBGEN1",60,0)
+ . D IX1^DIK
+"RTN","ALPBGEN1",61,0)
+ K ALPBDA,HL,ALPBDIS,ALPBI,ALBPJ,ALPBX,ALPBAC,ACLPVC,ALPBSSN,ALERR,ALPBNAM,ALPBTRM
+"RTN","ALPBGEN1",62,0)
+ Q
+"RTN","ALPBGEN1",63,0)
+UNESC(ST,PR) ;Unescape string from message
+"RTN","ALPBGEN1",64,0)
+ ;ST=String to translate
+"RTN","ALPBGEN1",65,0)
+ ;PR=Event Protocol to set up HL array variables (optional)
+"RTN","ALPBGEN1",66,0)
+ ;First, do the escape character
+"RTN","ALPBGEN1",67,0)
+ I $G(ST)="" Q ""
+"RTN","ALPBGEN1",68,0)
+ S PR=$G(PR) I PR]"" D INIT^HLFNC2(PR,.HL)
+"RTN","ALPBGEN1",69,0)
+ I '$D(HL) D
+"RTN","ALPBGEN1",70,0)
+ . S HL("FS")="^"
+"RTN","ALPBGEN1",71,0)
+ . S HL("ECH")="~|\&"
+"RTN","ALPBGEN1",72,0)
+ S FS=$G(HL("FS")) I FS="" Q "" ;Field separator
+"RTN","ALPBGEN1",73,0)
+ S EC=$G(HL("ECH")) I EC="" Q ""  ;Encoding Charaters
+"RTN","ALPBGEN1",74,0)
+ S CS=$E(EC) ;Component separator
+"RTN","ALPBGEN1",75,0)
+ S RS=$E(EC,2) ;Repitition separator
+"RTN","ALPBGEN1",76,0)
+ S ESC=$E(EC,3) ;Escape character
+"RTN","ALPBGEN1",77,0)
+ S SS=$E(EC,4) ;Subcomponent separator
+"RTN","ALPBGEN1",78,0)
+ S EEC=ESC_"E"_ESC ;escaped escape character
+"RTN","ALPBGEN1",79,0)
+ S EFS=ESC_"F"_ESC ;escaped field sep
+"RTN","ALPBGEN1",80,0)
+ S ECS=ESC_"S"_ESC ;escaped component sep
+"RTN","ALPBGEN1",81,0)
+ S ERS=ESC_"R"_ESC ; escaped repitition sep
+"RTN","ALPBGEN1",82,0)
+ S ESS=ESC_"T"_ESC ;escaped subcomponent separator
+"RTN","ALPBGEN1",83,0)
+ K I,J,K,L,X F  S X=$F(ST,EEC) S:X I=$G(I)+1,K(I)=$E(ST,1,X-1),ST=$E(ST,X,999) S:'X K($G(I)+1)=ST Q:'X
+"RTN","ALPBGEN1",84,0)
+ S I=0 F  S I=$O(K(I)) Q:I<1  S:K(I)[EEC K(I)=$P(K(I),EEC)_ESC S L=$G(L)_K(I)
+"RTN","ALPBGEN1",85,0)
+ I $G(L)]"" S ST=L
+"RTN","ALPBGEN1",86,0)
+ ;
+"RTN","ALPBGEN1",87,0)
+ K I,J,K,L,X F  S X=$F(ST,EFS) S:X I=$G(I)+1,K(I)=$E(ST,1,X-1),ST=$E(ST,X,999) S:'X K($G(I)+1)=ST Q:'X
+"RTN","ALPBGEN1",88,0)
+ S I=0 F  S I=$O(K(I)) Q:I<1  S:K(I)[EFS K(I)=$P(K(I),EFS)_FS S L=$G(L)_K(I)
+"RTN","ALPBGEN1",89,0)
+ I $G(L)]"" S ST=L
+"RTN","ALPBGEN1",90,0)
+ ;
+"RTN","ALPBGEN1",91,0)
+ K I,J,K,L,X S I=0 F  S X=$F(ST,ECS) S:X I=$G(I)+1,K(I)=$E(ST,1,X-1),ST=$E(ST,X,999) S:'X K(I+1)=ST Q:'X
+"RTN","ALPBGEN1",92,0)
+ S I=0 F  S I=$O(K(I)) Q:I<1  S:K(I)[ECS K(I)=$P(K(I),ECS)_CS S L=$G(L)_K(I)
+"RTN","ALPBGEN1",93,0)
+ I $G(L)]"" S ST=L
+"RTN","ALPBGEN1",94,0)
+ ;
+"RTN","ALPBGEN1",95,0)
+ K I,J,K,L,X S I=0 F  S X=$F(ST,ERS) S:X I=$G(I)+1,K(I)=$E(ST,1,X-1),ST=$E(ST,X,999) S:'X K(I+1)=ST Q:'X
+"RTN","ALPBGEN1",96,0)
+ S I=0 F  S I=$O(K(I)) Q:I<1  S:K(I)[ERS K(I)=$P(K(I),ERS)_RS S L=$G(L)_K(I)
+"RTN","ALPBGEN1",97,0)
+ I $G(L)]"" S ST=L
+"RTN","ALPBGEN1",98,0)
+ ;
+"RTN","ALPBGEN1",99,0)
+ K I,J,K,L,X S I=0 F  S X=$F(ST,ESS) S:X I=$G(I)+1,K(I)=$E(ST,1,X-1),ST=$E(ST,X,999) S:'X K(I+1)=ST Q:'X
+"RTN","ALPBGEN1",100,0)
+ S I=0 F  S I=$O(K(I)) Q:I<1  S:K(I)[ESS K(I)=$P(K(I),ESS)_SS S L=$G(L)_K(I)
+"RTN","ALPBGEN1",101,0)
+ I $G(L)]"" S ST=L
+"RTN","ALPBGEN1",102,0)
+ K I,J,K,L,X
+"RTN","ALPBGEN1",103,0)
+ Q ST
+"RTN","ALPBGEN1",104,0)
+PERR ;PROCESSING ERRORS
+"RTN","ALPBGEN1",105,0)
+ H 1 S DATE=$$NOW^XLFDT M ^TMP("BCBU",$J,$S($G(ALPBSSN)'="":ALPBSSN,1:0),DATE)=ALERR
+"RTN","ALPBGEN1",106,0)
+ K ALERR
+"RTN","ALPBGEN1",107,0)
+ Q
+"VER")
+8.0^22.2
+**END**
+**END**
