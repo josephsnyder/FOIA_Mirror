@@ -1,0 +1,311 @@
+EMERGENCY Released VPR*1*22 SEQ #18
+Extracted from mail message
+**KIDS**:VPR*1.0*22^
+
+**INSTALL NAME**
+VPR*1.0*22
+"BLD",9491,0)
+VPR*1.0*22^VIRTUAL PATIENT RECORD^0^3200114^y
+"BLD",9491,1,0)
+^^2^2^3200114^
+"BLD",9491,1,1,0)
+Emergency Patch to correct incident INC9096091 with undefined errors in
+"BLD",9491,1,2,0)
+VPR PTF entity.
+"BLD",9491,4,0)
+^9.64PA^^
+"BLD",9491,6.3)
+3
+"BLD",9491,"KRN",0)
+^9.67PA^1.5^24
+"BLD",9491,"KRN",.4,0)
+.4
+"BLD",9491,"KRN",.401,0)
+.401
+"BLD",9491,"KRN",.402,0)
+.402
+"BLD",9491,"KRN",.403,0)
+.403
+"BLD",9491,"KRN",.5,0)
+.5
+"BLD",9491,"KRN",.84,0)
+.84
+"BLD",9491,"KRN",1.5,0)
+1.5
+"BLD",9491,"KRN",1.5,"NM",0)
+^9.68A^1^1
+"BLD",9491,"KRN",1.5,"NM",1,0)
+VPR PTF^^0
+"BLD",9491,"KRN",1.5,"NM","B","VPR PTF",1)
+
+"BLD",9491,"KRN",1.6,0)
+1.6
+"BLD",9491,"KRN",1.61,0)
+1.61
+"BLD",9491,"KRN",1.62,0)
+1.62
+"BLD",9491,"KRN",3.6,0)
+3.6
+"BLD",9491,"KRN",3.8,0)
+3.8
+"BLD",9491,"KRN",9.2,0)
+9.2
+"BLD",9491,"KRN",9.8,0)
+9.8
+"BLD",9491,"KRN",19,0)
+19
+"BLD",9491,"KRN",19.1,0)
+19.1
+"BLD",9491,"KRN",101,0)
+101
+"BLD",9491,"KRN",409.61,0)
+409.61
+"BLD",9491,"KRN",771,0)
+771
+"BLD",9491,"KRN",779.2,0)
+779.2
+"BLD",9491,"KRN",870,0)
+870
+"BLD",9491,"KRN",8989.51,0)
+8989.51
+"BLD",9491,"KRN",8989.52,0)
+8989.52
+"BLD",9491,"KRN",8994,0)
+8994
+"BLD",9491,"KRN","B",.4,.4)
+
+"BLD",9491,"KRN","B",.401,.401)
+
+"BLD",9491,"KRN","B",.402,.402)
+
+"BLD",9491,"KRN","B",.403,.403)
+
+"BLD",9491,"KRN","B",.5,.5)
+
+"BLD",9491,"KRN","B",.84,.84)
+
+"BLD",9491,"KRN","B",1.5,1.5)
+
+"BLD",9491,"KRN","B",1.6,1.6)
+
+"BLD",9491,"KRN","B",1.61,1.61)
+
+"BLD",9491,"KRN","B",1.62,1.62)
+
+"BLD",9491,"KRN","B",3.6,3.6)
+
+"BLD",9491,"KRN","B",3.8,3.8)
+
+"BLD",9491,"KRN","B",9.2,9.2)
+
+"BLD",9491,"KRN","B",9.8,9.8)
+
+"BLD",9491,"KRN","B",19,19)
+
+"BLD",9491,"KRN","B",19.1,19.1)
+
+"BLD",9491,"KRN","B",101,101)
+
+"BLD",9491,"KRN","B",409.61,409.61)
+
+"BLD",9491,"KRN","B",771,771)
+
+"BLD",9491,"KRN","B",779.2,779.2)
+
+"BLD",9491,"KRN","B",870,870)
+
+"BLD",9491,"KRN","B",8989.51,8989.51)
+
+"BLD",9491,"KRN","B",8989.52,8989.52)
+
+"BLD",9491,"KRN","B",8994,8994)
+
+"KRN",1.5,78,-1)
+0^1
+"KRN",1.5,78,0)
+VPR PTF^45^^^^S
+"KRN",1.5,78,.1)
+Diagnosis
+"KRN",1.5,78,1,0)
+^1.51^9^8
+"KRN",1.5,78,1,1,0)
+FromTime^2^S^45^2^^1
+"KRN",1.5,78,1,1,4)
+S VALUE=$$DATE^VPRSDA(VALUE)
+"KRN",1.5,78,1,1,6)
+S VALUE=$G(VPRPTF("ADMISSION DATE"))
+"KRN",1.5,78,1,2,0)
+ToTime^3^S^45^70^^1
+"KRN",1.5,78,1,2,4)
+S VALUE=$$DATE^VPRSDA(VALUE)
+"KRN",1.5,78,1,2,6)
+S VALUE=$G(VPRPTF("DISCHARGE DATE")),VPRDISDT=VALUE
+"KRN",1.5,78,1,3,0)
+DiagnosingClinician^6^E^45^79.1^^1^VPR PROVIDER
+"KRN",1.5,78,1,3,6)
+S VALUE=$G(VPRPTF("DISCHARGE PROVIDER"))
+"KRN",1.5,78,1,4,0)
+Diagnosis^7^E^45^79^^1^VPR ICD
+"KRN",1.5,78,1,4,6)
+S VALUE=$P(VPRPTF,U,2),DATA("DATE")=$G(VPRDISDT,DT)
+"KRN",1.5,78,1,5,0)
+DiagnosisType^8^E^45^^^^VPR CODE TABLE
+"KRN",1.5,78,1,5,6)
+S VALUE="DXLS^Diagnosis for Length of Stay"
+"KRN",1.5,78,1,6,0)
+EnteredAt^17^E^45^3^^^VPR FACILITY
+"KRN",1.5,78,1,6,4)
+S VALUE=+$O(^DIC(4,"D",VALUE,0)) ;PTF saves stn#
+"KRN",1.5,78,1,6,6)
+S VALUE=$G(VPRPTF("FACILITY"))
+"KRN",1.5,78,1,7,0)
+EncounterNumber^4^S^45
+"KRN",1.5,78,1,7,4)
+S:'$D(^AUPNVSIT(VALUE,0)) VALUE=""
+"KRN",1.5,78,1,7,6)
+N ADM S ADM=$$FIND1^DIC(405,,"Q",DIEN,"APTF"),VALUE=$$VNUM^VPRSDA(ADM)
+"KRN",1.5,78,1,9,0)
+ExternalId^19^I
+"KRN",1.5,78,1,9,4)
+S VALUE=VALUE_";PTF"
+"KRN",1.5,78,1,"B","DiagnosingClinician",3)
+
+"KRN",1.5,78,1,"B","Diagnosis",4)
+
+"KRN",1.5,78,1,"B","DiagnosisType",5)
+
+"KRN",1.5,78,1,"B","EncounterNumber",7)
+
+"KRN",1.5,78,1,"B","EnteredAt",6)
+
+"KRN",1.5,78,1,"B","ExternalId",9)
+
+"KRN",1.5,78,1,"B","FromTime",1)
+
+"KRN",1.5,78,1,"B","ToTime",2)
+
+"KRN",1.5,78,1,"SEQ",2,1)
+
+"KRN",1.5,78,1,"SEQ",3,2)
+
+"KRN",1.5,78,1,"SEQ",4,7)
+
+"KRN",1.5,78,1,"SEQ",6,3)
+
+"KRN",1.5,78,1,"SEQ",7,4)
+
+"KRN",1.5,78,1,"SEQ",8,5)
+
+"KRN",1.5,78,1,"SEQ",17,6)
+
+"KRN",1.5,78,1,"SEQ",19,9)
+
+"KRN",1.5,78,3)
+K VPRDISDT,VPRPTF
+"KRN",1.5,78,4)
+K VPRPTF D:$D(^DGPT(+DIEN,0)) PTF^DGPTPXRM(+DIEN,.VPRPTF) S VPRPTF=DIEN,DIEN=+DIEN I '$P(VPRPTF,U,2) N X S X=$$GET1^DIQ(45,DIEN,79,"I") S $P(VPRPTF,U,2)=X S:'X DDEOUT=1
+"KRN",1.5,78,5)
+PTF^VPRSDAQ
+"KRN",1.5,78,19,0)
+^^1^1^3181227^
+"KRN",1.5,78,19,1,0)
+This entity populates the Diagnosis container in HealthShare.
+"MBREQ")
+0
+"ORD",28,1.5)
+1.5;28;;;ENT^XPDTA2;ENTF1^XPDIA0;ENTE1^XPDIA0;ENTF2^XPDIA0;;ENTDEL^XPDIA0(%)
+"ORD",28,1.5,0)
+ENTITY
+"PKG",571,-1)
+1^1
+"PKG",571,0)
+VIRTUAL PATIENT RECORD^VPR^Utilities to manage a virtual copy of the patient record
+"PKG",571,22,0)
+^9.49I^1^1
+"PKG",571,22,1,0)
+1.0^3110804^3110901^1
+"PKG",571,22,1,"PAH",1,0)
+22^3200114
+"PKG",571,22,1,"PAH",1,1,0)
+^^2^2^3200114
+"PKG",571,22,1,"PAH",1,1,1,0)
+Emergency Patch to correct incident INC9096091 with undefined errors in
+"PKG",571,22,1,"PAH",1,1,2,0)
+VPR PTF entity.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"VER")
+8.0^22.2
+"BLD",9491,6)
+^18
+**END**
+**END**
+

@@ -1,0 +1,929 @@
+EMERGENCY Released TIU*1*329 SEQ #292
+Extracted from mail message
+**KIDS**:TIU*1.0*329^
+
+**INSTALL NAME**
+TIU*1.0*329
+"BLD",11453,0)
+TIU*1.0*329^TEXT INTEGRATION UTILITIES^0^3191119^y
+"BLD",11453,1,0)
+^^10^10^3191113^
+"BLD",11453,1,1,0)
+ 
+"BLD",11453,1,2,0)
+The Community Care Referrals and Authorizations (CCR&A) application is an
+"BLD",11453,1,3,0)
+enterprise-wide system used by Community Care (CC) staff to
+"BLD",11453,1,4,0)
+automatically generate referrals and authorizations for all Veterans
+"BLD",11453,1,5,0)
+receiving care in the community. Clinical and VA CC staff located at VA 
+"BLD",11453,1,6,0)
+Medical Centers, Outpatient Clinics, Community Based Outpatient Clinics,
+"BLD",11453,1,7,0)
+and VISN offices use this application.  The CCR&A solution is an integral
+"BLD",11453,1,8,0)
+component of the VA Community Care Information Technology (IT)
+"BLD",11453,1,9,0)
+architecture that allows Veterans to receive care from Community 
+"BLD",11453,1,10,0)
+Providers.
+"BLD",11453,4,0)
+^9.64PA^^
+"BLD",11453,6)
+1^
+"BLD",11453,6.3)
+42
+"BLD",11453,225000)
+1
+"BLD",11453,"ABPKG")
+n
+"BLD",11453,"INI")
+
+"BLD",11453,"INID")
+^
+"BLD",11453,"INIT")
+LINK^TIUPT329
+"BLD",11453,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11453,"KRN",.4,0)
+.4
+"BLD",11453,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",11453,"KRN",.401,0)
+.401
+"BLD",11453,"KRN",.402,0)
+.402
+"BLD",11453,"KRN",.403,0)
+.403
+"BLD",11453,"KRN",.5,0)
+.5
+"BLD",11453,"KRN",.84,0)
+.84
+"BLD",11453,"KRN",1.5,0)
+1.5
+"BLD",11453,"KRN",1.6,0)
+1.6
+"BLD",11453,"KRN",1.61,0)
+1.61
+"BLD",11453,"KRN",1.62,0)
+1.62
+"BLD",11453,"KRN",3.6,0)
+3.6
+"BLD",11453,"KRN",3.8,0)
+3.8
+"BLD",11453,"KRN",9.2,0)
+9.2
+"BLD",11453,"KRN",9.8,0)
+9.8
+"BLD",11453,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",11453,"KRN",9.8,"NM",1,0)
+TIUCCRHL^^0^B107390016
+"BLD",11453,"KRN",9.8,"NM","B","TIUCCRHL",1)
+
+"BLD",11453,"KRN",19,0)
+19
+"BLD",11453,"KRN",19,"NM",0)
+^9.68A^^0
+"BLD",11453,"KRN",19.1,0)
+19.1
+"BLD",11453,"KRN",101,0)
+101
+"BLD",11453,"KRN",101,"NM",0)
+^9.68A^^0
+"BLD",11453,"KRN",409.61,0)
+409.61
+"BLD",11453,"KRN",771,0)
+771
+"BLD",11453,"KRN",771,"NM",0)
+^9.68A^^0
+"BLD",11453,"KRN",779.2,0)
+779.2
+"BLD",11453,"KRN",870,0)
+870
+"BLD",11453,"KRN",870,"NM",0)
+^9.68A^^0
+"BLD",11453,"KRN",8989.51,0)
+8989.51
+"BLD",11453,"KRN",8989.52,0)
+8989.52
+"BLD",11453,"KRN",8994,0)
+8994
+"BLD",11453,"KRN","B",.4,.4)
+
+"BLD",11453,"KRN","B",.401,.401)
+
+"BLD",11453,"KRN","B",.402,.402)
+
+"BLD",11453,"KRN","B",.403,.403)
+
+"BLD",11453,"KRN","B",.5,.5)
+
+"BLD",11453,"KRN","B",.84,.84)
+
+"BLD",11453,"KRN","B",1.5,1.5)
+
+"BLD",11453,"KRN","B",1.6,1.6)
+
+"BLD",11453,"KRN","B",1.61,1.61)
+
+"BLD",11453,"KRN","B",1.62,1.62)
+
+"BLD",11453,"KRN","B",3.6,3.6)
+
+"BLD",11453,"KRN","B",3.8,3.8)
+
+"BLD",11453,"KRN","B",9.2,9.2)
+
+"BLD",11453,"KRN","B",9.8,9.8)
+
+"BLD",11453,"KRN","B",19,19)
+
+"BLD",11453,"KRN","B",19.1,19.1)
+
+"BLD",11453,"KRN","B",101,101)
+
+"BLD",11453,"KRN","B",409.61,409.61)
+
+"BLD",11453,"KRN","B",771,771)
+
+"BLD",11453,"KRN","B",779.2,779.2)
+
+"BLD",11453,"KRN","B",870,870)
+
+"BLD",11453,"KRN","B",8989.51,8989.51)
+
+"BLD",11453,"KRN","B",8989.52,8989.52)
+
+"BLD",11453,"KRN","B",8994,8994)
+
+"BLD",11453,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",11453,"QUES",0)
+^9.62^^0
+"BLD",11453,"REQB",0)
+^9.611^1^1
+"BLD",11453,"REQB",1,0)
+TIU*1.0*327^1
+"BLD",11453,"REQB","B","TIU*1.0*327",1)
+
+"INIT")
+LINK^TIUPT329
+"MBREQ")
+0
+"PKG",588,-1)
+1^1
+"PKG",588,0)
+TEXT INTEGRATION UTILITIES^TIU^Text Integration Utilities 
+"PKG",588,22,0)
+^9.49I^1^1
+"PKG",588,22,1,0)
+1.0^2970620^2971202^1
+"PKG",588,22,1,"PAH",1,0)
+329^3191119
+"PKG",588,22,1,"PAH",1,1,0)
+^^10^10^3191119
+"PKG",588,22,1,"PAH",1,1,1,0)
+ 
+"PKG",588,22,1,"PAH",1,1,2,0)
+The Community Care Referrals and Authorizations (CCR&A) application is an
+"PKG",588,22,1,"PAH",1,1,3,0)
+enterprise-wide system used by Community Care (CC) staff to
+"PKG",588,22,1,"PAH",1,1,4,0)
+automatically generate referrals and authorizations for all Veterans
+"PKG",588,22,1,"PAH",1,1,5,0)
+receiving care in the community. Clinical and VA CC staff located at VA 
+"PKG",588,22,1,"PAH",1,1,6,0)
+Medical Centers, Outpatient Clinics, Community Based Outpatient Clinics,
+"PKG",588,22,1,"PAH",1,1,7,0)
+and VISN offices use this application.  The CCR&A solution is an integral
+"PKG",588,22,1,"PAH",1,1,8,0)
+component of the VA Community Care Information Technology (IT)
+"PKG",588,22,1,"PAH",1,1,9,0)
+architecture that allows Veterans to receive care from Community 
+"PKG",588,22,1,"PAH",1,1,10,0)
+Providers.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","TIUCCRHL")
+0^1^B107390016^B103035520
+"RTN","TIUCCRHL",1,0)
+TIUCCRHL ;LB/PB - Send TIU Notes MDM-T02 HL7 Message to CCRA/HSRM ;02/01/19 09:00
+"RTN","TIUCCRHL",2,0)
+ ;;1.0;TEXT INTEGRATION UTILITIES;**323,327,329**;Oct 24, 2019;Build 42
+"RTN","TIUCCRHL",3,0)
+ ;This patch requires:
+"RTN","TIUCCRHL",4,0)
+ ;four (4) CCRA TIU Historical Documents :
+"RTN","TIUCCRHL",5,0)
+ ;     1   COMMUNITY CARE - PATIENT LETTER       TITLE  
+"RTN","TIUCCRHL",6,0)
+ ;     Std Title: NONVA PROGRESS NOTE
+"RTN","TIUCCRHL",7,0)
+ ;     2   COMMUNITY CARE- ADMINISTRATIVE REQUEST       TITLE  
+"RTN","TIUCCRHL",8,0)
+ ;     Std Title: ADMINISTRATIVE NOTE
+"RTN","TIUCCRHL",9,0)
+ ;     3   COMMUNITY CARE-COORDINATION NOTE       TITLE  
+"RTN","TIUCCRHL",10,0)
+ ;      Std Title: NONVA PROGRESS NOTE
+"RTN","TIUCCRHL",11,0)
+ ;     4   COMMUNITY CARE-HOSPITAL NOTIFICATION NOTE       TITLE  
+"RTN","TIUCCRHL",12,0)
+ ;      Std Title: PRIMARY CARE ADMINISTRATIVE NOTE
+"RTN","TIUCCRHL",13,0)
+ ;
+"RTN","TIUCCRHL",14,0)
+ ;DBIA# Supported Reference
+"RTN","TIUCCRHL",15,0)
+ ;----- --------------------------------
+"RTN","TIUCCRHL",16,0)
+ ;2161  INIT^HLFNC2
+"RTN","TIUCCRHL",17,0)
+ ;2164  GENERATE^HLMA
+"RTN","TIUCCRHL",18,0)
+ ;3267  SSN^DPTLK1
+"RTN","TIUCCRHL",19,0)
+ ;3630  BLDPID^VAFCQRY
+"RTN","TIUCCRHL",20,0)
+ ;10103 FMTE^XLFDT, FMTHL7^XLFDT
+"RTN","TIUCCRHL",21,0)
+ ;10104 UP^XLFSTR
+"RTN","TIUCCRHL",22,0)
+ ;10106 FMDATE^HLFNC
+"RTN","TIUCCRHL",23,0)
+ ;1252  OUTPTPR^SDUTL3
+"RTN","TIUCCRHL",24,0)
+ ;6917  EN^VAFHLIN1
+"RTN","TIUCCRHL",25,0)
+ ;10106 HLADDR^HLFNC
+"RTN","TIUCCRHL",26,0)
+ ;2467  OR^ORX8
+"RTN","TIUCCRHL",27,0)
+ ;2171  NS^XUAF4
+"RTN","TIUCCRHL",28,0)
+ ;Fileman READ OF 8925:
+"RTN","TIUCCRHL",29,0)
+ ;      .01      DOCUMENT TYPE        0;1      Read w/Fileman
+"RTN","TIUCCRHL",30,0)
+ ;      .02      PATIENT              0;2      Read w/Fileman
+"RTN","TIUCCRHL",31,0)
+ ;      .03      VISIT                0;3      Read w/Fileman
+"RTN","TIUCCRHL",32,0)
+ ;      .04      PARENT DOCUMENT TYPE (P8925.1)
+"RTN","TIUCCRHL",33,0)
+ ;      .05      STATUS               0;5      Read w/Fileman
+"RTN","TIUCCRHL",34,0)
+ ;      .06      PARENT               0;6      Read w/Fileman
+"RTN","TIUCCRHL",35,0)
+ ;      .11      CREDIT STOP CODE ON  0;11     Read w/Fileman
+"RTN","TIUCCRHL",36,0)
+ ;      .07      EPISODE BEGIN DATE/T 0;7      Read w/Fileman
+"RTN","TIUCCRHL",37,0)
+ ;      .13      VISIT TYPE           0;13     Read w/Fileman
+"RTN","TIUCCRHL",38,0)
+ ;      1202     AUTHOR/DICTATOR      12;2     Read w/Fileman
+"RTN","TIUCCRHL",39,0)
+ ;      1204     EXPECTED SIGNER      12;4     Read w/Fileman
+"RTN","TIUCCRHL",40,0)
+ ;      1208     EXPECTED COSIGNER    12;8     Read w/Fileman
+"RTN","TIUCCRHL",41,0)
+ ;      1211     VISIT LOCATION       12;11    Read w/Fileman
+"RTN","TIUCCRHL",42,0)
+ ;      1506     COSIGNER NEEDED      15;6     Read w/Fileman
+"RTN","TIUCCRHL",43,0)
+ ;      1201     ENTRY DATE/TIME      12;1     Read w/Fileman
+"RTN","TIUCCRHL",44,0)
+ ;      1301     REFERENCE DATE       13;1     Read w/Fileman
+"RTN","TIUCCRHL",45,0)
+ ;  GLOBAL REFERENCE: 
+"RTN","TIUCCRHL",46,0)
+ ;    ^TIU(8925,'AAU'
+"RTN","TIUCCRHL",47,0)
+ ;  GLOBAL REFERENCE: 
+"RTN","TIUCCRHL",48,0)
+ ;    ^TIU(8925,'ASUP'
+"RTN","TIUCCRHL",49,0)
+ ;   GLOBAL REFERENCE: 
+"RTN","TIUCCRHL",50,0)
+ ;    ^TIU(8925,'APT'
+"RTN","TIUCCRHL",51,0)
+ ;  GLOBAL REFERENCE: 
+"RTN","TIUCCRHL",52,0)
+ ;    ^TIU(8925,'ACLPT'
+"RTN","TIUCCRHL",53,0)
+ ;==============================================================
+"RTN","TIUCCRHL",54,0)
+ Q
+"RTN","TIUCCRHL",55,0)
+ ;
+"RTN","TIUCCRHL",56,0)
+EN() ;Entry point to routine called from POSTSIGN^TIULC1 for the CCRA TIU Documents - Historical
+"RTN","TIUCCRHL",57,0)
+ ;Expects the context has defined: DFN (Patient IEN -^DPT(), DA (TIU document ID:^TIU(8925,DA)
+"RTN","TIUCCRHL",58,0)
+ ;
+"RTN","TIUCCRHL",59,0)
+ N I,GMRCDA,GMRCM,STATUS,POSTSIGC,PARDOCTY,OK,TIUTYP
+"RTN","TIUCCRHL",60,0)
+ ;SET HL7 VARIABLES
+"RTN","TIUCCRHL",61,0)
+ N FS,CS,RS,ES,SS,MID,HLQUIT,HLNODE
+"RTN","TIUCCRHL",62,0)
+ N MSG,HDR,SEG,SEGTYPE,MSGARY,LASTSEG,HDRTIME,ABORT,BASEDT,CLINARY,COUNT,PROVDTL
+"RTN","TIUCCRHL",63,0)
+ ;
+"RTN","TIUCCRHL",64,0)
+ I +$G(DA)'>0 S ^TMP("TIUHL7CCRA",$J,"ERR NO TIU Document IEN("_DA_") passed from CPRS")="" Q
+"RTN","TIUCCRHL",65,0)
+ ;Patch 329 fix thE undefined DFN, occuring  when  the user comes back in CPRS
+"RTN","TIUCCRHL",66,0)
+ ;and signs a previously saved and unsigned note
+"RTN","TIUCCRHL",67,0)
+ I $G(DFN)="" D
+"RTN","TIUCCRHL",68,0)
+ . S DFN=$P($G(^TIU(8925,+DA,0)),"^",2)
+"RTN","TIUCCRHL",69,0)
+ . I $G(DFN)="" S ^TMP("TIUHL7CCRA",$J,"ERR NO TIU Document IEN("_DA_") passed from CPRS")="" Q
+"RTN","TIUCCRHL",70,0)
+ ;
+"RTN","TIUCCRHL",71,0)
+ N SNAME,GMRCHL,ZERR,ZCNT,ECH,DATA,GDATA,URG,TYP,RES,EFFDT,PDUZ,PN,ADDR,PH,GMRCP,SENS,DX,DXCODE
+"RTN","TIUCCRHL",72,0)
+ N PCP,PCDUZ,PCPN,PCADDR,PCPH
+"RTN","TIUCCRHL",73,0)
+ S SNAME="TIU CCRA-HSRM MDM-T02 SERVER"
+"RTN","TIUCCRHL",74,0)
+ S GMRCHL("EID")=$$FIND1^DIC(101,,"X",SNAME)
+"RTN","TIUCCRHL",75,0)
+ Q:'GMRCHL("EID")  D INIT^HLFNC2(GMRCHL("EID"),.GMRCHL)
+"RTN","TIUCCRHL",76,0)
+ S ZERR="",ZCNT=0,ECH=$E(GMRCHL("ECH")) ;component separator
+"RTN","TIUCCRHL",77,0)
+ S FS=$G(GMRCHL("FS"),"|")
+"RTN","TIUCCRHL",78,0)
+ S CS=$E($G(GMRCHL("ECH")),1) S:CS="" CS="^"
+"RTN","TIUCCRHL",79,0)
+ S RS=$E($G(GMRCHL("ECH")),2) S:RS="" RS="~"
+"RTN","TIUCCRHL",80,0)
+ S ES=$E($G(GMRCHL("ECH")),3) S:ES="" ES="\"
+"RTN","TIUCCRHL",81,0)
+ S SS=$E($G(GMRCHL("ECH")),4) S:SS="" SS="&"
+"RTN","TIUCCRHL",82,0)
+ S MID=$G(GMRCHL("MID"))
+"RTN","TIUCCRHL",83,0)
+ S (HLQUIT,HLNODE)=0
+"RTN","TIUCCRHL",84,0)
+ ;
+"RTN","TIUCCRHL",85,0)
+ S GMRCDA=$G(DA)
+"RTN","TIUCCRHL",86,0)
+ S POSTSIGC=""
+"RTN","TIUCCRHL",87,0)
+  ;Check if document DA passed in has  Addenda, and retrieve the most recent one
+"RTN","TIUCCRHL",88,0)
+ I $D(^TIU(8925,"DAD",$G(DA)))=10 S GMRCDA=+$O(^TIU(8925,"DAD",$G(DA),99999999),-1)
+"RTN","TIUCCRHL",89,0)
+ ;
+"RTN","TIUCCRHL",90,0)
+ ;get TIU Note data in ^TMP
+"RTN","TIUCCRHL",91,0)
+ S DATA=$NA(^TMP("TIUHL7CCRA",$J)) K @DATA
+"RTN","TIUCCRHL",92,0)
+ ;file,record,field,parm,targetarray,errortargetarray,internal
+"RTN","TIUCCRHL",93,0)
+ D GETS^DIQ(8925,GMRCDA,"*","IE",DATA)
+"RTN","TIUCCRHL",94,0)
+ ;File 8925 data IN ^TMP
+"RTN","TIUCCRHL",95,0)
+ S GDATA=$NA(^TMP("TIUHL7CCRA",$J,8925,+GMRCDA_","))
+"RTN","TIUCCRHL",96,0)
+ ;Patch TIU*1*329 fix <undefined> When User picks up an unsigned  note  from another CPRS session-
+"RTN","TIUCCRHL",97,0)
+ ;I DFN'=$G(@GDATA@(.02,"I")) S ^TMP("TIUHL7CCRA",$J,"ERR: CPRS Patient DFN :"_DFN_" doesn't match Document Patient DFN: "_$G(@GDATA@(.02,"I")))="" Q
+"RTN","TIUCCRHL",98,0)
+ I $G(DFN)'=$G(@GDATA@(.02,"I")) S ^TMP("TIUHL7CCRA",$J,"ERR: CPRS Patient DFN :"_$G(DFN)_" doesn't match Document Patient DFN: "_$G(@GDATA@(.02,"I")))="" Q
+"RTN","TIUCCRHL",99,0)
+ ;check if addendum DA is passed in and check if it is for Community
+"RTN","TIUCCRHL",100,0)
+ S TIUTYP=$G(@GDATA@(.01,"E"))
+"RTN","TIUCCRHL",101,0)
+ S OK=1
+"RTN","TIUCCRHL",102,0)
+ I TIUTYP="ADDENDUM" D
+"RTN","TIUCCRHL",103,0)
+ . ;check if parent title has the POST-SIGNATURE CODE
+"RTN","TIUCCRHL",104,0)
+ . S PARDOCTY=+$G(^TIU(8925,$G(DA),0))
+"RTN","TIUCCRHL",105,0)
+ . I +$G(PARDOCTY)<=0 S OK=0
+"RTN","TIUCCRHL",106,0)
+ . S POSTSIGC=$$GET1^DIQ(8925.1,PARDOCTY_",",4.9)
+"RTN","TIUCCRHL",107,0)
+ . I POSTSIGC'["TIUCCRHL" S OK=0 S ^TMP("TIUHL7CCRA",$J,"ERR: TIU ADDENDA IS NOT SETUP TO SEND MHM-T02:"_POSTSIGC)=""
+"RTN","TIUCCRHL",108,0)
+ . I $G(@GDATA@(.05,"E"))'="COMPLETED" S OK=0 S ^TMP("TIUHL7CCRA",$J,"ERR: TIU ADDENDA STATUS IS NOT COMPLETED:"_$G(@GDATA@(.05,"E")))=""
+"RTN","TIUCCRHL",109,0)
+ I OK<1  Q  ;QUIT if addendum and original note does not have the CCRA HL7 trigger code
+"RTN","TIUCCRHL",110,0)
+ ;
+"RTN","TIUCCRHL",111,0)
+ ;start creating the segments.
+"RTN","TIUCCRHL",112,0)
+ ;EVN Segment
+"RTN","TIUCCRHL",113,0)
+ ;  EVN 1-Event Type Code:  "T02"
+"RTN","TIUCCRHL",114,0)
+ ;  EVN 3-Recorded Date/Time: 1201     ENTRY DATE/TIME
+"RTN","TIUCCRHL",115,0)
+ ;  EVN 4-Event Reason: can use "O"-Other / "02"-Physician/health practitioner order
+"RTN","TIUCCRHL",116,0)
+ ;  EVN 5-Operator ID: 1202     AUTHOR/DICTATOR IEN(+DUZ)
+"RTN","TIUCCRHL",117,0)
+ ;  EVN 6-Event Occurred: 1301     REFERENCE DATE
+"RTN","TIUCCRHL",118,0)
+ ;  EVN 7-Event Facility: 1211     VISIT LOCATION (P44)
+"RTN","TIUCCRHL",119,0)
+ ;
+"RTN","TIUCCRHL",120,0)
+ S ZCNT=ZCNT+1
+"RTN","TIUCCRHL",121,0)
+ S GMRCM(ZCNT)="EVN"_FS_"T02"_FS_FS_$$FMTHL7^XLFDT($G(@GDATA@(1201,"I")))_FS_"O"_FS_$G(@GDATA@(1202,"I"))
+"RTN","TIUCCRHL",122,0)
+ S GMRCM(ZCNT)=GMRCM(ZCNT)_FS_$$FMTHL7^XLFDT($G(@GDATA@(1301,"I")))_FS_$G(@GDATA@(1211,"I"))_CS_$G(@GDATA@(1211,"E"))
+"RTN","TIUCCRHL",123,0)
+ ;
+"RTN","TIUCCRHL",124,0)
+ ;PID segment -  May be multiple nodes in the return array - make nodes 2-n sub nodes
+"RTN","TIUCCRHL",125,0)
+ S DFN=$G(@GDATA@(.02,"I")),ZERR=""
+"RTN","TIUCCRHL",126,0)
+ D BLDPID^VAFCQRY(DFN,1,"ALL",.GMRCP,.GMRCHL,ZERR)
+"RTN","TIUCCRHL",127,0)
+ S I=0 F  S I=$O(GMRCP(I)) Q:'I  D
+"RTN","TIUCCRHL",128,0)
+ .I I=1 S ZCNT=ZCNT+1,GMRCM(ZCNT)=$TR(GMRCP(I),"""") Q
+"RTN","TIUCCRHL",129,0)
+ .S GMRCM(ZCNT,I)=$TR(GMRCP(I),"""")
+"RTN","TIUCCRHL",130,0)
+ K GMRCP
+"RTN","TIUCCRHL",131,0)
+ ; 
+"RTN","TIUCCRHL",132,0)
+ ;PV1 segment
+"RTN","TIUCCRHL",133,0)
+ D IN5^VADPT ;VAIP(18)=Attending Physician, VAIP(13,5)=Primary Physician for admission
+"RTN","TIUCCRHL",134,0)
+ S ZCNT=ZCNT+1,GMRCM(ZCNT)="PV1"_FS_"1"_FS_$S(VAIP(13):"I",1:"O")_FS_FS_FS_FS_FS_VAIP(18)_FS
+"RTN","TIUCCRHL",135,0)
+ I VAIP(5) S $P(GMRCM(ZCNT),FS,4)=VAIP(5) ;location for last movement event
+"RTN","TIUCCRHL",136,0)
+ N GMRCDIV
+"RTN","TIUCCRHL",137,0)
+ S GMRCDIV=$$NS^XUAF4(DUZ(2)),GMRCDIV=$P(GMRCDIV,CS,2) ; add in division value
+"RTN","TIUCCRHL",138,0)
+ N A,B S A=SS_GMRCDIV,B=$P(GMRCM(ZCNT),FS,4),$P(B,CS,4)=A,$P(GMRCM(ZCNT),FS,4)=B K A,B
+"RTN","TIUCCRHL",139,0)
+ K GMRCDIV
+"RTN","TIUCCRHL",140,0)
+ ;
+"RTN","TIUCCRHL",141,0)
+ S SENS=$$SSN^DPTLK1(DFN) I SENS["*SENSITIVE*" S $P(GMRCM(ZCNT),FS,17)="R" ;sensitive patient
+"RTN","TIUCCRHL",142,0)
+ S $P(GMRCM(ZCNT),FS,18)=VAIP(13,5)
+"RTN","TIUCCRHL",143,0)
+ K VAIP
+"RTN","TIUCCRHL",144,0)
+ D KVA^VADPT
+"RTN","TIUCCRHL",145,0)
+ ;
+"RTN","TIUCCRHL",146,0)
+ ;TXA segment
+"RTN","TIUCCRHL",147,0)
+ ;  TXA.1 Set ID - TXA: "1"
+"RTN","TIUCCRHL",148,0)
+ ;  TXA.2 Document Type: .01      DOCUMENT TYPE
+"RTN","TIUCCRHL",149,0)
+ ;  TXA.4 Activity Date/Time:  1301     REFERENCE DATE
+"RTN","TIUCCRHL",150,0)
+ ;  TXA.8 Edit Date/Time: 1201     ENTRY DATE/TIME
+"RTN","TIUCCRHL",151,0)
+ ;  TXA.12 Unique Document Number: GMRCDA   TIU note IEN
+"RTN","TIUCCRHL",152,0)
+ ;  TXA.13 Parent Document Number: GMRCDA/DA        TIU note/ADDENDUM IEN
+"RTN","TIUCCRHL",153,0)
+ ;  TXA.16 Unique Document File Name: ADDENDUM Parent Document Title
+"RTN","TIUCCRHL",154,0)
+ ;   XA.17 Document Completion Status: .05      STATUS
+"RTN","TIUCCRHL",155,0)
+ S ZCNT=ZCNT+1
+"RTN","TIUCCRHL",156,0)
+ S GMRCM(ZCNT)="TXA"_FS_"1"_FS_$G(@GDATA@(.01,"E"))_FS_FS_$$FMTHL7^XLFDT($G(@GDATA@(1301,"I")))_FS_FS_FS_FS_$$FMTHL7^XLFDT($G(@GDATA@(1201,"I")))
+"RTN","TIUCCRHL",157,0)
+ S GMRCM(ZCNT)=GMRCM(ZCNT)_FS_FS_FS_FS_GMRCDA_FS_$G(@GDATA@(.06,"I"))_FS_FS_FS_$G(@GDATA@(.06,"E"))_FS_$G(@GDATA@(.05,"E"))
+"RTN","TIUCCRHL",158,0)
+ ;
+"RTN","TIUCCRHL",159,0)
+ ;OBX segment
+"RTN","TIUCCRHL",160,0)
+ ;      OBX.1-Set ID: 1
+"RTN","TIUCCRHL",161,0)
+ ;      OBX.2-Value Type: "TX"
+"RTN","TIUCCRHL",162,0)
+ ;      OBX.3-Observation Identifier:TIU note IEN (GMRCDA)
+"RTN","TIUCCRHL",163,0)
+ ;      OBX.11-Observation result status codes interpretation: F (Final results)
+"RTN","TIUCCRHL",164,0)
+ ;      OBX.14-Date/Time of the Observation:  1201 -TIU ENTRY DATE/TIME
+"RTN","TIUCCRHL",165,0)
+ ;      OBX.16-ResponsibleObserver() : 1204     EXPECTED SIGNER /1208 EXPECTED COSIGNER
+"RTN","TIUCCRHL",166,0)
+ N PRSIG1,PRSIG2
+"RTN","TIUCCRHL",167,0)
+ S ZCNT=ZCNT+1
+"RTN","TIUCCRHL",168,0)
+ S GMRCM(ZCNT)="OBX"_FS_"1"_FS_"TX"_FS_GMRCDA_FS_FS_FS_FS_FS_FS_FS_FS_"F"_FS_FS_FS_$$FMTHL7^XLFDT($G(@GDATA@(1201,"I")))
+"RTN","TIUCCRHL",169,0)
+ S GMRCM(ZCNT)=GMRCM(ZCNT)_FS_FS_$P($G(@GDATA@(1204,"E")),",",1)_CS_$P($G(@GDATA@(1204,"E")),",",2)
+"RTN","TIUCCRHL",170,0)
+ S GMRCM(ZCNT)=GMRCM(ZCNT)_SS_$P($G(@GDATA@(1208,"E")),",",1)_CS_$P($G(@GDATA@(1208,"E")),",",2)
+"RTN","TIUCCRHL",171,0)
+ ;
+"RTN","TIUCCRHL",172,0)
+ ;NTE segment
+"RTN","TIUCCRHL",173,0)
+ D NTE(.GMRCHL)
+"RTN","TIUCCRHL",174,0)
+ ;
+"RTN","TIUCCRHL",175,0)
+ ;Send HL7 Message
+"RTN","TIUCCRHL",176,0)
+ N HL,HLA,GMRCRES,GMRCHLP
+"RTN","TIUCCRHL",177,0)
+ M HL=GMRCHL,HLA("HLS")=GMRCM
+"RTN","TIUCCRHL",178,0)
+ M GMRCHL=^XTMP("TIUHL7CCRA","MESSAGE")
+"RTN","TIUCCRHL",179,0)
+ D GENERATE^HLMA(GMRCHL("EID"),"LM",1,.GMRCRES,"",.GMRCHLP)
+"RTN","TIUCCRHL",180,0)
+ K ^TMP("TIUHL7CCRA",$J)
+"RTN","TIUCCRHL",181,0)
+ Q
+"RTN","TIUCCRHL",182,0)
+NTE(HL) ; Find TIU and build NTE segments
+"RTN","TIUCCRHL",183,0)
+ N NTECNT,X S NTECNT=1
+"RTN","TIUCCRHL",184,0)
+ D AUTHDTTM
+"RTN","TIUCCRHL",185,0)
+ ; Build NTE for CM^ADDENDED
+"RTN","TIUCCRHL",186,0)
+ N GMRCCMP
+"RTN","TIUCCRHL",187,0)
+ S GMRCCMP=""
+"RTN","TIUCCRHL",188,0)
+ S ZCNT=ZCNT+1,GMRCM(ZCNT)="NTE"_FS_NTECNT_FS_"P"_FS_"Progress Note:"_$G(@GDATA@(.01,"E"))
+"RTN","TIUCCRHL",189,0)
+ ;check if Document Type is ADDENDUM
+"RTN","TIUCCRHL",190,0)
+ S TIUTYP=$G(@GDATA@(.01,"E"))
+"RTN","TIUCCRHL",191,0)
+ I TIUTYP="ADDENDUM" D
+"RTN","TIUCCRHL",192,0)
+ . S GMRCCMP=$$DATE^GMRCCCRA($G(@GDATA@(1301,"I")),"MM/DD/CCYY")_" ADDENDUM"_"                      STATUS: "_$$GET1^DIQ(8925,+GMRCDA_",",.05)
+"RTN","TIUCCRHL",193,0)
+ S I=0
+"RTN","TIUCCRHL",194,0)
+ F  S I=$O(@GDATA@(2,I)) Q:+I=0  S X=@GDATA@(2,I) D
+"RTN","TIUCCRHL",195,0)
+ .S X=$$TRIM^XLFSTR(X) I $L(X)=0 Q
+"RTN","TIUCCRHL",196,0)
+ .S X=$$TIUC(X) ; Check for control characters -emergency patch TIU*1.0*32
+"RTN","TIUCCRHL",197,0)
+ .I $L(X)=0 Q
+"RTN","TIUCCRHL",198,0)
+ .D HL7TXT^GMRCHL7P(.X,.HL,"\")
+"RTN","TIUCCRHL",199,0)
+ .S ZCNT=ZCNT+1,NTECNT=NTECNT+1,GMRCM(ZCNT)="NTE"_FS_NTECNT_FS_FS_X
+"RTN","TIUCCRHL",200,0)
+ Q
+"RTN","TIUCCRHL",201,0)
+ ;
+"RTN","TIUCCRHL",202,0)
+AUTHDTTM ; Add Author and Date/Time to NTE
+"RTN","TIUCCRHL",203,0)
+ S ZCNT=ZCNT+1,GMRCM(ZCNT)="NTE"_FS_NTECNT_FS_FS_"Author\R\\R\"_$G(@GDATA@(1202,"E"))
+"RTN","TIUCCRHL",204,0)
+ S ZCNT=ZCNT+1,NTECNT=NTECNT+1,GMRCM(ZCNT)="NTE"_FS_NTECNT_FS_FS_"Datetime\R\\R\"_$$FMTHL7^XLFDT($G(@GDATA@(1201,"I")))
+"RTN","TIUCCRHL",205,0)
+ S ZCNT=ZCNT+1,NTECNT=NTECNT+1,GMRCM(ZCNT)="NTE"_FS_NTECNT_FS_FS_"Comment\R\\R\"
+"RTN","TIUCCRHL",206,0)
+ S NTECNT=4
+"RTN","TIUCCRHL",207,0)
+ Q
+"RTN","TIUCCRHL",208,0)
+ ;
+"RTN","TIUCCRHL",209,0)
+TIME(X,FMT) ; Copied from $$TIME^TIULS
+"RTN","TIUCCRHL",210,0)
+ ; Receives X as 2910419.01 and FMT=Return Format of time (HH:MM:SS).
+"RTN","TIUCCRHL",211,0)
+ N HR,MIN,SEC,TIUI
+"RTN","TIUCCRHL",212,0)
+ I $S('$D(FMT):1,'$L(FMT):1,1:0) S FMT="HR:MIN"
+"RTN","TIUCCRHL",213,0)
+ S X=$P(X,".",2),HR=$E(X,1,2)_$E("00",0,2-$L($E(X,1,2))),MIN=$E(X,3,4)_$E("00",0,2-$L($E(X,3,4))),SEC=$E(X,5,6)_$E("00",0,2-$L($E(X,5,6)))
+"RTN","TIUCCRHL",214,0)
+ F TIUI="HR","MIN","SEC" S:FMT[TIUI FMT=$P(FMT,TIUI)_@TIUI_$P(FMT,TIUI,2)
+"RTN","TIUCCRHL",215,0)
+ Q FMT
+"RTN","TIUCCRHL",216,0)
+DATE(X,FMT) ; Copied from $$DATE^TIULS
+"RTN","TIUCCRHL",217,0)
+ ; Call with X=2910419.01 and FMT=Return Format of date ("MM/DD")
+"RTN","TIUCCRHL",218,0)
+ N AMTH,MM,CC,DD,YY,TIUI,TIUTMP
+"RTN","TIUCCRHL",219,0)
+ I +X'>0 S $P(TIUTMP," ",$L($G(FMT))+1)="",FMT=TIUTMP G QDATE
+"RTN","TIUCCRHL",220,0)
+ I $S('$D(FMT):1,'$L(FMT):1,1:0) S FMT="MM/DD/YY"
+"RTN","TIUCCRHL",221,0)
+ S MM=$E(X,4,5),DD=$E(X,6,7),YY=$E(X,2,3),CC=17+$E(X)
+"RTN","TIUCCRHL",222,0)
+ S:FMT["AMTH" AMTH=$P("JAN^FEB^MAR^APR^MAY^JUN^JUL^AUG^SEP^OCT^NOV^DEC","^",+MM)
+"RTN","TIUCCRHL",223,0)
+ F TIUI="AMTH","MM","DD","CC","YY" S:FMT[TIUI FMT=$P(FMT,TIUI)_@TIUI_$P(FMT,TIUI,2)
+"RTN","TIUCCRHL",224,0)
+ I FMT["HR" S FMT=$$TIME(X,FMT)
+"RTN","TIUCCRHL",225,0)
+QDATE Q FMT
+"RTN","TIUCCRHL",226,0)
+ ;
+"RTN","TIUCCRHL",227,0)
+ACK ; Process ACK HL7 messages
+"RTN","TIUCCRHL",228,0)
+ N GMRCMSG,I,X,DONE,MSGID,ERRARY,ERRI
+"RTN","TIUCCRHL",229,0)
+ ;Get the message
+"RTN","TIUCCRHL",230,0)
+ S ERRI=0
+"RTN","TIUCCRHL",231,0)
+ F I=1:1 X HLNEXT Q:(HLQUIT'>0)  D
+"RTN","TIUCCRHL",232,0)
+ . S GMRCMSG(I,1)=HLNODE
+"RTN","TIUCCRHL",233,0)
+ . S X=0 F  S X=+$O(HLNODE(X)) Q:'X  S GMRCMSG(I,(X+1))=HLNODE(X)
+"RTN","TIUCCRHL",234,0)
+ S DONE=0
+"RTN","TIUCCRHL",235,0)
+ S I=0 F  S I=$O(GMRCMSG(I)) Q:'+I  D  Q:DONE
+"RTN","TIUCCRHL",236,0)
+ . I $P($G(GMRCMSG(I,1)),"|",1)="MSA" D  Q
+"RTN","TIUCCRHL",237,0)
+ . . I $P($G(GMRCMSG(I,1)),"|",2)="AA" S DONE=1 Q
+"RTN","TIUCCRHL",238,0)
+ . . S MSGID=$P($G(GMRCMSG(I,1)),"|",3)
+"RTN","TIUCCRHL",239,0)
+ . I $P($G(GMRCMSG(I,1)),"|",1)="ERR" D
+"RTN","TIUCCRHL",240,0)
+ . . ;Process Error
+"RTN","TIUCCRHL",241,0)
+ . . S ERRI=ERRI+1
+"RTN","TIUCCRHL",242,0)
+ . . S ERRARY(ERRI,2)=$P($G(GMRCMSG(I,1)),"|",3)
+"RTN","TIUCCRHL",243,0)
+ . . I $P($G(GMRCMSG(I,1)),"|",6)'="" D  Q
+"RTN","TIUCCRHL",244,0)
+ . . . S ERRARY(ERRI,3)=$P($P($G(GMRCMSG(I,1)),"|",6),"^",4)_"^"_$P($P($G(GMRCMSG(I,1)),"|",6),"^",5)
+"RTN","TIUCCRHL",245,0)
+ . . S ERRARY(ERRI,3)=$P($G(GMRCMSG(I,1)),"|",4)
+"RTN","TIUCCRHL",246,0)
+ I $D(ERRARY) D MESSAGE(MSGID,.ERRARY)
+"RTN","TIUCCRHL",247,0)
+ Q
+"RTN","TIUCCRHL",248,0)
+MESSAGE(MSGID,ERRARY) ; Send a MailMan Message with the errors
+"RTN","TIUCCRHL",249,0)
+ N MSGTEXT,DUZ,XMDUZ,XMSUB,XMTEXT,XMY,XMMG,XMSTRIP,XMROU,DIFROM,XMYBLOB,XMZ,XMMG,DATE,J
+"RTN","TIUCCRHL",250,0)
+ S DATE=$$FMTE^XLFDT($$FMDATE^HLFNC($P(HL("DTM"),"-",1)))
+"RTN","TIUCCRHL",251,0)
+ S XMSUB="TIU CCRA Consults to HSRM HL7 Error"
+"RTN","TIUCCRHL",252,0)
+ S MSGTEXT(1)=" "
+"RTN","TIUCCRHL",253,0)
+ S MSGTEXT(2)="Error in transmitting HL7 message to HSRM"
+"RTN","TIUCCRHL",254,0)
+ S MSGTEXT(3)="Date:       "_DATE
+"RTN","TIUCCRHL",255,0)
+ S MSGTEXT(4)="Message ID: "_MSGID
+"RTN","TIUCCRHL",256,0)
+ S MSGTEXT(5)="Error(s):"
+"RTN","TIUCCRHL",257,0)
+ S I=0,J=5 F  S I=$O(ERRARY(I)) Q:'I  D
+"RTN","TIUCCRHL",258,0)
+ . S J=J+1,MSGTEXT(J)=" "
+"RTN","TIUCCRHL",259,0)
+ . S J=J+1,MSGTEXT(J)="   "_$P($G(ERRARY(I,3)),U)_" - "_$P($G(ERRARY(I,3)),U,2)
+"RTN","TIUCCRHL",260,0)
+ . I $P($G(ERRARY(I,2)),U,1)'="" S J=J+1,MSGTEXT(J)="      Segment:       "_$P($G(ERRARY(I,2)),U,1)
+"RTN","TIUCCRHL",261,0)
+ . I $P($G(ERRARY(I,2)),U,2)'="" S J=J+1,MSGTEXT(J)="      Sequence:      "_$P($G(ERRARY(I,2)),U,2)
+"RTN","TIUCCRHL",262,0)
+ . I $P($G(ERRARY(I,2)),U,3)'="" S J=J+1,MSGTEXT(J)="      Field:         "_$P($G(ERRARY(I,2)),U,3)
+"RTN","TIUCCRHL",263,0)
+ . I $P($G(ERRARY(I,2)),U,4)'="" S J=J+1,MSGTEXT(J)="      Fld Rep:       "_$P($G(ERRARY(I,2)),U,4)
+"RTN","TIUCCRHL",264,0)
+ . I $P($G(ERRARY(I,2)),U,5)'="" S J=J+1,MSGTEXT(J)="      Component:     "_$P($G(ERRARY(I,2)),U,5)
+"RTN","TIUCCRHL",265,0)
+ . I $P($G(ERRARY(I,2)),U,6)'="" S J=J+1,MSGTEXT(J)="      Sub-component: "_$P($G(ERRARY(I,2)),U,6)
+"RTN","TIUCCRHL",266,0)
+ S XMTEXT="MSGTEXT("
+"RTN","TIUCCRHL",267,0)
+ S XMDUZ="TIU-CCRA->HSRM Transaction Error"
+"RTN","TIUCCRHL",268,0)
+ S XMY("G.GMRC HCP HL7 MESSAGES")=""
+"RTN","TIUCCRHL",269,0)
+ D ^XMD
+"RTN","TIUCCRHL",270,0)
+ Q
+"RTN","TIUCCRHL",271,0)
+TIUC(X) ; Check each segment of the TIU notes for HL7 control characters
+"RTN","TIUCCRHL",272,0)
+ Q:$G(X)=""
+"RTN","TIUCCRHL",273,0)
+ I $G(X)[$C(13,10,10) S X=$TR(X,$C(13,10,10),"") ; <cr><lf><lf>
+"RTN","TIUCCRHL",274,0)
+ I $G(X)[$C(13,10) S X=$TR(X,$C(13,10),"") ; <cr><lf>
+"RTN","TIUCCRHL",275,0)
+ I $G(X)[$C(13) S X=$TR(X,$C(13),"") ; TERM char
+"RTN","TIUCCRHL",276,0)
+ I $G(X)[$C(1) S X=$TR(X,$C(1),"") ; SOH
+"RTN","TIUCCRHL",277,0)
+ I $G(X)[$C(2) S X=$TR(X,$C(2),"") ; STX
+"RTN","TIUCCRHL",278,0)
+ I $G(X)[$C(3) S X=$TR(X,$C(3),"") ; ETX
+"RTN","TIUCCRHL",279,0)
+ I $G(X)[$C(4) S X=$TR(X,$C(4),"") ; EOT
+"RTN","TIUCCRHL",280,0)
+ I $G(X)[$C(5) S X=$TR(X,$C(5),"") ; ENQ
+"RTN","TIUCCRHL",281,0)
+ I $G(X)[$C(6) S X=$TR(X,$C(6),"") ; ACK
+"RTN","TIUCCRHL",282,0)
+ I $G(X)[$C(21) S X=$TR(X,$C(21),"") ; NAK
+"RTN","TIUCCRHL",283,0)
+ I $G(X)[$C(23) S X=$TR(X,$C(23),"") ; ETB
+"RTN","TIUCCRHL",284,0)
+ Q X
+"RTN","TIUPT329")
+0^^B3161116^n/a
+"RTN","TIUPT329",1,0)
+TIUPT329 ;;LB/PB - CCRA POST INSTALL;NOV 4, 2019
+"RTN","TIUPT329",2,0)
+ ;;1.0;TEXT INTEGRATION UTILITIES;**329**;NOV 4, 2019;Build 42
+"RTN","TIUPT329",3,0)
+ ;;Per VA directive 6402, this routine should not be modified.
+"RTN","TIUPT329",4,0)
+ ;Post install routine for patch TIU*1.0*329.
+"RTN","TIUPT329",5,0)
+ ;Checks for the TIUCCRA logical link, if it exists, edits the link to remove
+"RTN","TIUPT329",6,0)
+ ;the institution and to add the dns domain for the HC server
+"RTN","TIUPT329",7,0)
+ Q
+"RTN","TIUPT329",8,0)
+ D LINK
+"RTN","TIUPT329",9,0)
+ Q
+"RTN","TIUPT329",10,0)
+LINK ; update the TMP_Send Link
+"RTN","TIUPT329",11,0)
+ N LIEN,VAL,SDERR,FDA,DNS
+"RTN","TIUPT329",12,0)
+ D MES^XPDUTL("Checking VistA system for TIUCCRA logical link setup...")
+"RTN","TIUPT329",13,0)
+ S VAL="TIUCCRA"
+"RTN","TIUPT329",14,0)
+ S LIEN=$$FIND1^DIC(870,,"B",.VAL)
+"RTN","TIUPT329",15,0)
+ I $G(LIEN)'>0 D MES^XPDUTL("Link doesn't exists") Q
+"RTN","TIUPT329",16,0)
+ S DNS=$$GET1^DIQ(870,$G(LIEN)_",",400.01,"I")
+"RTN","TIUPT329",17,0)
+ D MES^XPDUTL("")
+"RTN","TIUPT329",18,0)
+ D MES^XPDUTL("")
+"RTN","TIUPT329",19,0)
+ D MES^XPDUTL("")
+"RTN","TIUPT329",20,0)
+ D MES^XPDUTL("TIUCCRA logical link being set up now. ")
+"RTN","TIUPT329",21,0)
+ D MES^XPDUTL("")
+"RTN","TIUPT329",22,0)
+ D MES^XPDUTL("")
+"RTN","TIUPT329",23,0)
+ D MES^XPDUTL("")
+"RTN","TIUPT329",24,0)
+ ;
+"RTN","TIUPT329",25,0)
+ ; file link with IP address and port entered
+"RTN","TIUPT329",26,0)
+ K FDA,SDERR
+"RTN","TIUPT329",27,0)
+ S FDA(870,$G(LIEN)_",",.02)="@" ; delete the station number
+"RTN","TIUPT329",28,0)
+ S FDA(870,$G(LIEN)_",",.08)=$G(DNS) ; add dns domain for HealthConnect server
+"RTN","TIUPT329",29,0)
+ D UPDATE^DIE(,"FDA",$G(LIEN)_",","SDERR") K FDA
+"RTN","TIUPT329",30,0)
+ D MES^XPDUTL("")
+"RTN","TIUPT329",31,0)
+ I $D(SDERR) D  Q  ; something went wrong
+"RTN","TIUPT329",32,0)
+ .D MES^XPDUTL("FileMan error when editing the TIUCCRA Link.")
+"RTN","TIUPT329",33,0)
+ D MES^XPDUTL("TIUCCRA Link has been updated.")
+"RTN","TIUPT329",34,0)
+ Q
+"RTN","TIUPT329",35,0)
+QEND K DIR,SDERR Q
+"RTN","TIUPT329",36,0)
+QABORT S XPDABORT=1 K DIR,SDERR Q
+"VER")
+8.0^22.2
+"BLD",11453,6)
+^292
+**END**
+**END**
+

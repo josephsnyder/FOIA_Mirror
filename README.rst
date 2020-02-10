@@ -23,6 +23,8 @@ Git or by downloading it from the Github website.
 
 We recommend that `Python 3`_ be installed.
 
+Note that when installing Python 3 in Windows, make sure to check the setting "Add Python 3.x to PATH".  This will allow python script to run in the Git Bash command line.
+
 Repository Preparation
 **********************
 

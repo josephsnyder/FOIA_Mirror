@@ -1,0 +1,1553 @@
+Released PRCA*4.5*359 SEQ #318
+Extracted from mail message
+**KIDS**:PRCA*4.5*359^
+
+**INSTALL NAME**
+PRCA*4.5*359
+"BLD",11527,0)
+PRCA*4.5*359^ACCOUNTS RECEIVABLE^0^3191018^y
+"BLD",11527,1,0)
+^^9^9^3191013^
+"BLD",11527,1,1,0)
+Accounts Receivable patch, PRCA*4.5*359, address the following issues:
+"BLD",11527,1,2,0)
+ 
+"BLD",11527,1,3,0)
+1. A subscript error, <SUBSCRIPT>UPDTMPB+12^RCDPENR1, is impacting the 
+"BLD",11527,1,4,0)
+   weekly Accounts Receivable (AR) Diagnostic Measures Statistical
+"BLD",11527,1,5,0)
+   Reports for users.
+"BLD",11527,1,6,0)
+ 
+"BLD",11527,1,7,0)
+2. When editing debtor address information in the option Address 
+"BLD",11527,1,8,0)
+   Display/Edit [PRCA VEN BIL], the formatting of the phone number
+"BLD",11527,1,9,0)
+   and zip code displayed is incorrect. 
+"BLD",11527,4,0)
+^9.64PA^^
+"BLD",11527,6.3)
+13
+"BLD",11527,"ABPKG")
+n
+"BLD",11527,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11527,"KRN",.4,0)
+.4
+"BLD",11527,"KRN",.401,0)
+.401
+"BLD",11527,"KRN",.402,0)
+.402
+"BLD",11527,"KRN",.403,0)
+.403
+"BLD",11527,"KRN",.5,0)
+.5
+"BLD",11527,"KRN",.84,0)
+.84
+"BLD",11527,"KRN",1.5,0)
+1.5
+"BLD",11527,"KRN",1.6,0)
+1.6
+"BLD",11527,"KRN",1.61,0)
+1.61
+"BLD",11527,"KRN",1.62,0)
+1.62
+"BLD",11527,"KRN",3.6,0)
+3.6
+"BLD",11527,"KRN",3.8,0)
+3.8
+"BLD",11527,"KRN",9.2,0)
+9.2
+"BLD",11527,"KRN",9.8,0)
+9.8
+"BLD",11527,"KRN",9.8,"NM",0)
+^9.68A^3^2
+"BLD",11527,"KRN",9.8,"NM",1,0)
+RCDPENR1^^0^B223926486
+"BLD",11527,"KRN",9.8,"NM",3,0)
+RCAM^^0^B29897928
+"BLD",11527,"KRN",9.8,"NM","B","RCAM",3)
+
+"BLD",11527,"KRN",9.8,"NM","B","RCDPENR1",1)
+
+"BLD",11527,"KRN",19,0)
+19
+"BLD",11527,"KRN",19.1,0)
+19.1
+"BLD",11527,"KRN",101,0)
+101
+"BLD",11527,"KRN",409.61,0)
+409.61
+"BLD",11527,"KRN",771,0)
+771
+"BLD",11527,"KRN",779.2,0)
+779.2
+"BLD",11527,"KRN",870,0)
+870
+"BLD",11527,"KRN",8989.51,0)
+8989.51
+"BLD",11527,"KRN",8989.52,0)
+8989.52
+"BLD",11527,"KRN",8994,0)
+8994
+"BLD",11527,"KRN","B",.4,.4)
+
+"BLD",11527,"KRN","B",.401,.401)
+
+"BLD",11527,"KRN","B",.402,.402)
+
+"BLD",11527,"KRN","B",.403,.403)
+
+"BLD",11527,"KRN","B",.5,.5)
+
+"BLD",11527,"KRN","B",.84,.84)
+
+"BLD",11527,"KRN","B",1.5,1.5)
+
+"BLD",11527,"KRN","B",1.6,1.6)
+
+"BLD",11527,"KRN","B",1.61,1.61)
+
+"BLD",11527,"KRN","B",1.62,1.62)
+
+"BLD",11527,"KRN","B",3.6,3.6)
+
+"BLD",11527,"KRN","B",3.8,3.8)
+
+"BLD",11527,"KRN","B",9.2,9.2)
+
+"BLD",11527,"KRN","B",9.8,9.8)
+
+"BLD",11527,"KRN","B",19,19)
+
+"BLD",11527,"KRN","B",19.1,19.1)
+
+"BLD",11527,"KRN","B",101,101)
+
+"BLD",11527,"KRN","B",409.61,409.61)
+
+"BLD",11527,"KRN","B",771,771)
+
+"BLD",11527,"KRN","B",779.2,779.2)
+
+"BLD",11527,"KRN","B",870,870)
+
+"BLD",11527,"KRN","B",8989.51,8989.51)
+
+"BLD",11527,"KRN","B",8989.52,8989.52)
+
+"BLD",11527,"KRN","B",8994,8994)
+
+"BLD",11527,"QDEF")
+^^^^NO^^^^^^YES
+"BLD",11527,"QUES",0)
+^9.62^^
+"BLD",11527,"REQB",0)
+^9.611^2^2
+"BLD",11527,"REQB",1,0)
+PRCA*4.5*304^2
+"BLD",11527,"REQB",2,0)
+PRCA*4.5*223^2
+"BLD",11527,"REQB","B","PRCA*4.5*223",2)
+
+"BLD",11527,"REQB","B","PRCA*4.5*304",1)
+
+"MBREQ")
+0
+"PKG",142,-1)
+1^1
+"PKG",142,0)
+ACCOUNTS RECEIVABLE^PRCA^BILL COLLECTIONS
+"PKG",142,22,0)
+^9.49I^1^1
+"PKG",142,22,1,0)
+4.5^^2950320
+"PKG",142,22,1,"PAH",1,0)
+359^3191018
+"PKG",142,22,1,"PAH",1,1,0)
+^^9^9^3191018
+"PKG",142,22,1,"PAH",1,1,1,0)
+Accounts Receivable patch, PRCA*4.5*359, address the following issues:
+"PKG",142,22,1,"PAH",1,1,2,0)
+ 
+"PKG",142,22,1,"PAH",1,1,3,0)
+1. A subscript error, <SUBSCRIPT>UPDTMPB+12^RCDPENR1, is impacting the 
+"PKG",142,22,1,"PAH",1,1,4,0)
+   weekly Accounts Receivable (AR) Diagnostic Measures Statistical
+"PKG",142,22,1,"PAH",1,1,5,0)
+   Reports for users.
+"PKG",142,22,1,"PAH",1,1,6,0)
+ 
+"PKG",142,22,1,"PAH",1,1,7,0)
+2. When editing debtor address information in the option Address 
+"PKG",142,22,1,"PAH",1,1,8,0)
+   Display/Edit [PRCA VEN BIL], the formatting of the phone number
+"PKG",142,22,1,"PAH",1,1,9,0)
+   and zip code displayed is incorrect. 
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+YES
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+2
+"RTN","RCAM")
+0^3^B29897928^B26056904
+"RTN","RCAM",1,0)
+RCAM ;WASH-ISC@ALTOONA,PA/RGY-Manager Debtor Information ;12/19/96  12:48 PM
+"RTN","RCAM",2,0)
+V ;;4.5;Accounts Receivable;**34,190,198,223,359**;Mar 20, 1995;Build 13
+"RTN","RCAM",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","RCAM",4,0)
+ ;
+"RTN","RCAM",5,0)
+ ;PRCA*4.5*359 Ensure displayed phone is correct format: 111-222-3333
+"RTN","RCAM",6,0)
+ ;
+"RTN","RCAM",7,0)
+ NEW DIC,DIE,DIR,DIRUT,DUOUT,DTOUT,DR,DA,Y
+"RTN","RCAM",8,0)
+ F  W ! S DIC="^RCD(340,",DIC(0)="QEAM" D ^DIC Q:Y<0  S DA=+Y,DR=$S($P(Y,U,2)["DPT(":".02;",$P(Y,U,2)[";DIC(36,":".05;",$P(Y,U,2)[";DIC(4,":".05;",1:"")_2,DIE="^RCD(340," D ^DIE
+"RTN","RCAM",9,0)
+ Q
+"RTN","RCAM",10,0)
+EDT ;Select AR Debtor address information
+"RTN","RCAM",11,0)
+ NEW DIC,Y,RCDB
+"RTN","RCAM",12,0)
+ N DPTNOFZY,DPTNOFZK S (DPTNOFZY,DPTNOFZK)=1
+"RTN","RCAM",13,0)
+ F  W ! S DIC="^RCD(340,",DIC(0)="QEAM" D ^DIC Q:Y<0  D EN1($P(^RCD(340,+Y,0),U)) Q:$D(DTOUT)
+"RTN","RCAM",14,0)
+ Q
+"RTN","RCAM",15,0)
+EN1(RCDB) ;Edit Debtor address
+"RTN","RCAM",16,0)
+ D DIS(RCDB)
+"RTN","RCAM",17,0)
+ I RCDB["VA(200" D PER(RCDB) G Q2
+"RTN","RCAM",18,0)
+ I RCDB["DPT(" D PAT(RCDB) G Q2
+"RTN","RCAM",19,0)
+ I RCDB["PRC(440" D VEN(RCDB) G Q2
+"RTN","RCAM",20,0)
+ I RCDB["DIC(4" D INST(RCDB) G Q2
+"RTN","RCAM",21,0)
+ I RCDB["DIC(36" D INSUR(RCDB)
+"RTN","RCAM",22,0)
+Q2 Q
+"RTN","RCAM",23,0)
+PER(RCDB) ;Edit person address
+"RTN","RCAM",24,0)
+ NEW DA,DIE,DR
+"RTN","RCAM",25,0)
+ S DA=+RCDB,DIE="^VA(200,",DR=".111;.112;.113;.114;.115;.116;.131" D ^DIE
+"RTN","RCAM",26,0)
+ Q
+"RTN","RCAM",27,0)
+INSUR(RCDB) ;Edit insurance address
+"RTN","RCAM",28,0)
+ W !!,"Sorry, edit to the insurance file must be done via MAS",!!
+"RTN","RCAM",29,0)
+ Q
+"RTN","RCAM",30,0)
+PAT(RCDB) ;Edit Patient Address
+"RTN","RCAM",31,0)
+ NEW RCDB0,RCAD,DIR,DIRUT,DUOUT,DIROUT,DA,DIE,DR,ADR1,ADR2,ADR3
+"RTN","RCAM",32,0)
+ S RCDB0=$O(^RCD(340,"B",RCDB,0))
+"RTN","RCAM",33,0)
+ S ADR1=$$PAT^RCAMADD(+RCDB,0) ;permanent address
+"RTN","RCAM",34,0)
+ S ADR2=$$PAT^RCAMADD(+RCDB,1) ;confidential mailing address
+"RTN","RCAM",35,0)
+ S ADR3=$$ARDEB^RCAMADD(RCDB0) ;accounts receivable address
+"RTN","RCAM",36,0)
+ W !,"Address from Patient file: " I ADR2'="" W ?40,"Confidential Address from Patient file:"
+"RTN","RCAM",37,0)
+ W ! D DIS2(ADR1,ADR2)
+"RTN","RCAM",38,0)
+ W !,"Address from AR Debtor file: "
+"RTN","RCAM",39,0)
+ W ! D DIS2(ADR3,"")
+"RTN","RCAM",40,0)
+PAT1 S DA=RCDB0
+"RTN","RCAM",41,0)
+ S DIR("B")=$S($P($G(^RCD(340,+RCDB0,1)),U,9):"YES",1:"NO")
+"RTN","RCAM",42,0)
+ S DIR(0)="340,1.09^AO" D ^DIR
+"RTN","RCAM",43,0)
+ G:$D(DIRUT) Q1
+"RTN","RCAM",44,0)
+ S $P(^RCD(340,+RCDB0,1),U,9)=Y
+"RTN","RCAM",45,0)
+ S DIE="^RCD(340,",DR="[RCAM ADDRESS EDIT]" D ^DIE
+"RTN","RCAM",46,0)
+ I $P($G(^RCD(340,+RCDB0,1)),U,9) D
+"RTN","RCAM",47,0)
+ .N DIK,DA,DR
+"RTN","RCAM",48,0)
+ .S DA=$O(^RC(341,"AD",+RCDB0,2,0))
+"RTN","RCAM",49,0)
+ .Q:'DA  S DA=$O(^RC(341,"AD",+RCDB0,2,DA,0))
+"RTN","RCAM",50,0)
+ .Q:'DA
+"RTN","RCAM",51,0)
+ .Q:'$P($G(^RC(341,+DA,0)),U,7)
+"RTN","RCAM",52,0)
+ .S RCDA=DA
+"RTN","RCAM",53,0)
+ .S X1=DT,X2=$P($G(^RC(341,+DA,0)),U,7) D ^%DTC
+"RTN","RCAM",54,0)
+ .Q:X>90
+"RTN","RCAM",55,0)
+ .S DA=RCDA
+"RTN","RCAM",56,0)
+ .S DIK="^RC(341,"
+"RTN","RCAM",57,0)
+ .D ^DIK
+"RTN","RCAM",58,0)
+ .S DA="" F  S DA=$O(^PRCA(430,"AS",+RCDB0,16,DA)) Q:'DA  I $G(^PRCA(430,+DA,6)) S $P(^PRCA(430,+DA,6),U,7)="" F DA(1)=1:1:3 S $P(^PRCA(430,+DA,6),U,DA(1))=""
+"RTN","RCAM",59,0)
+CHK ;Check Address for patients
+"RTN","RCAM",60,0)
+ S Y=0,RCAD=$G(^RCD(340,RCDB0,1)) F X=1,4,5,6 I $P(RCAD,U,X)]"" S Y=Y+1
+"RTN","RCAM",61,0)
+ I $P(RCAD,U,8)]"" S Y=Y+1
+"RTN","RCAM",62,0)
+ I Y=4!'Y G Q1
+"RTN","RCAM",63,0)
+ I $P(RCAD,U)]"",$P(RCAD,U,4)]"",$P(RCAD,U,5)]"",$P(RCAD,U,6)]"" G Q1
+"RTN","RCAM",64,0)
+ I $P(RCAD,U)]"",$P(RCAD,U,4)]"",$P(RCAD,U,5)]"",$P(RCAD,U,8)]"" G Q1
+"RTN","RCAM",65,0)
+ W !!,"*** WARNING: There appears to be incomplete address information",!
+"RTN","RCAM",66,0)
+ I $D(DTOUT) D DELA S DTOUT=1 G Q1
+"RTN","RCAM",67,0)
+ W ! S DIR(0)="YA",DIR("B")="YES",DIR("A")="Do you want to re-edit the information? " D ^DIR
+"RTN","RCAM",68,0)
+ G:Y PAT1 D DELA
+"RTN","RCAM",69,0)
+Q1 Q
+"RTN","RCAM",70,0)
+DELA ;Delete AR debtor address information
+"RTN","RCAM",71,0)
+ S DA=RCDB0,DIE="^RCD(340,",DR="1.01///@;1.02///@;1.03///@;1.04///@;1.05///@;1.06///@" D ^DIE W !,"*** Old address information deleted from AR address file ***",!
+"RTN","RCAM",72,0)
+ Q
+"RTN","RCAM",73,0)
+INST(RCDB) ;Edit institution
+"RTN","RCAM",74,0)
+ NEW DA,DIE,DR
+"RTN","RCAM",75,0)
+ S DA=+RCDB,DIE="^DIC(4,",DR="1.01;1.02;1.03;.02;1.04" D ^DIE
+"RTN","RCAM",76,0)
+ Q
+"RTN","RCAM",77,0)
+VEN(RCDB) ;Edit Vendor file
+"RTN","RCAM",78,0)
+ NEW DA,DIE,DR
+"RTN","RCAM",79,0)
+ S DA=+RCDB,DIE="^PRC(440,",DR="22.1;22.2;22.3;22.4;22.5;22.6;22.7" D ^DIE
+"RTN","RCAM",80,0)
+ Q
+"RTN","RCAM",81,0)
+DIS(RCDB) ;Display address information
+"RTN","RCAM",82,0)
+ NEW RCDB0,RCCONF,ADR1,ADR2,RCNAM
+"RTN","RCAM",83,0)
+ S RCDB0=$O(^RCD(340,"B",RCDB,0))
+"RTN","RCAM",84,0)
+ G:'$D(^RCD(340,+RCDB0,0)) Q3
+"RTN","RCAM",85,0)
+ S RCNAM=$$NAM^RCFN01(RCDB0) ;debtor name
+"RTN","RCAM",86,0)
+ S ADR1=$$DADD^RCAMADD(RCDB),ADR2=""
+"RTN","RCAM",87,0)
+ I RCDB["DPT(" S ADR2=$$PAT^RCAMADD(+RCDB,1) ;get veteran's confidential address, if any
+"RTN","RCAM",88,0)
+ W @IOF,!,"Address Accounts Receivable will use: "
+"RTN","RCAM",89,0)
+ I ADR2'="" W ?40,"Address for mailing to veteran:"
+"RTN","RCAM",90,0)
+ W !!
+"RTN","RCAM",91,0)
+ W ?3,RCNAM I ADR2'="" W ?42,RCNAM
+"RTN","RCAM",92,0)
+ D DIS2(ADR1,ADR2)
+"RTN","RCAM",93,0)
+ I $P($G(^RCD(340,RCDB0,0)),U,7)=1 D
+"RTN","RCAM",94,0)
+ . W ?3,"Large print needed on statements: YES",!
+"RTN","RCAM",95,0)
+Q3 Q
+"RTN","RCAM",96,0)
+DIS1 ;
+"RTN","RCAM",97,0)
+ I $L($P(X,U,6))>5 S $P(X,U,6)=$E($P(X,U,6),1,5)_"-"_$E($P(X,U,6),6,9)   ;PRCA*4.5*359
+"RTN","RCAM",98,0)
+ W !?5,$P(X,U) W:$P(X,U,2)]"" !?5,$P(X,U,2) W:$P(X,U,3)]"" !?5,$P(X,U,3) W:$P(X,U,4)]"" !?5,$P(X,U,4),", ",$P(X,U,5)," ",$P(X,U,6) W:$P(X,U,7)'="" !?5,"Phone: ",$P(X,U,7) W !
+"RTN","RCAM",99,0)
+ Q
+"RTN","RCAM",100,0)
+ ; Display two addresses in two columns.
+"RTN","RCAM",101,0)
+DIS2(ADR1,ADR2) N TAB1,TAB2
+"RTN","RCAM",102,0)
+ S TAB1=3,TAB2=42
+"RTN","RCAM",103,0)
+ I ($P(ADR1,U,1)'="")!($P(ADR2,U,1)'="") W !?TAB1,$P(ADR1,U,1) I $P(ADR2,U,1)'="" W " ",?TAB2,$P(ADR2,U,1)
+"RTN","RCAM",104,0)
+ I ($P(ADR1,U,2)'="")!($P(ADR2,U,2)'="") W !?TAB1,$P(ADR1,U,2) I $P(ADR2,U,2)'="" W " ",?TAB2,$P(ADR2,U,2)
+"RTN","RCAM",105,0)
+ I ($P(ADR1,U,3)'="")!($P(ADR2,U,3)'="") W !?TAB1,$P(ADR1,U,3) I $P(ADR2,U,3)'="" W " ",?TAB2,$P(ADR2,U,3)
+"RTN","RCAM",106,0)
+ I ($P(ADR1,U,4)'="")!($P(ADR2,U,4)'="") W ! D
+"RTN","RCAM",107,0)
+ . I $L($P(ADR1,U,6))>5,$P(ADR1,U,6)'["-" S $P(ADR1,U,6)=$E($P(ADR1,U,6),1,5)_"-"_$E($P(ADR1,U,6),6,9)   ;PRCA*4.5*359
+"RTN","RCAM",108,0)
+ . W:$P(ADR1,U,4)'="" ?TAB1,$P(ADR1,U,4),", ",$P(ADR1,U,5)," ",$P(ADR1,U,6)
+"RTN","RCAM",109,0)
+ . W:$P(ADR2,U,4)'="" " ",?TAB2,$P(ADR2,U,4),", ",$P(ADR2,U,5)," ",$P(ADR2,U,6)
+"RTN","RCAM",110,0)
+ I $P(ADR1,U,7)?10N D    ;PRCA*4.5*359
+"RTN","RCAM",111,0)
+ . N RCPHN
+"RTN","RCAM",112,0)
+ . S RCPHN=$P(ADR1,U,7),RCPHN=$E(RCPHN,1,3)_"-"_$E(RCPHN,4,6)_"-"_$E(RCPHN,7,10)
+"RTN","RCAM",113,0)
+ . S $P(ADR1,U,7)=RCPHN
+"RTN","RCAM",114,0)
+ W:$P(ADR1,U,7)'="" !?TAB1,"Phone: ",$P(ADR1,U,7) ; conf address doesn't have phone no.
+"RTN","RCAM",115,0)
+ W !
+"RTN","RCAM",116,0)
+ Q
+"RTN","RCAM",117,0)
+FOL ;Called by input transform from 341,4.02
+"RTN","RCAM",118,0)
+ I X<$P($G(^RC(341,DA,0)),U,6) W !!,*7,"Follow-up Date is before Date of Contact",! K X Q
+"RTN","RCAM",119,0)
+ I $P($G(^RC(341,DA,0)),U,6)="" W !!,*7,"Date of Contact does not exist!",! K X Q
+"RTN","RCAM",120,0)
+ Q
+"RTN","RCDPENR1")
+0^1^B223926486^B219791139
+"RTN","RCDPENR1",1,0)
+RCDPENR1 ;ALB/SAB - EPay National Reports ;12/10/14
+"RTN","RCDPENR1",2,0)
+ ;;4.5;Accounts Receivable;**304,359**;Mar 20, 1995;Build 13
+"RTN","RCDPENR1",3,0)
+ ;;Per VA Directive 6402, this routine should not be modified.
+"RTN","RCDPENR1",4,0)
+ ;
+"RTN","RCDPENR1",5,0)
+ ;PRCA*4.5*359 Do not process Bill/Claim that is Cancelled
+"RTN","RCDPENR1",6,0)
+ ;             or does not have Provider pointer.
+"RTN","RCDPENR1",7,0)
+ ; 
+"RTN","RCDPENR1",8,0)
+ ;Read ^DGCR(399) via Private IA 3820
+"RTN","RCDPENR1",9,0)
+ ;Read ^IBA(364) via Private IA 6209
+"RTN","RCDPENR1",10,0)
+ ;Read ^IBA(364.1) via Private IA 6210
+"RTN","RCDPENR1",11,0)
+ ;Use DIV^IBJDF2 via Private IA 3130
+"RTN","RCDPENR1",12,0)
+ Q
+"RTN","RCDPENR1",13,0)
+ ;
+"RTN","RCDPENR1",14,0)
+ ; Entry point for manual run report (from VS option)
+"RTN","RCDPENR1",15,0)
+835837()  ;  835-837 summary report
+"RTN","RCDPENR1",16,0)
+ ;
+"RTN","RCDPENR1",17,0)
+ N RCBGDT,RCDISP,RCENDDT,RCPYRLST,RCDIV,RCRPT,RCRQDIV,RCSUMFLG,RCEX,RCPAYR
+"RTN","RCDPENR1",18,0)
+ ;
+"RTN","RCDPENR1",19,0)
+ ; Alert software to display to screen or not if Manually re-running the report.
+"RTN","RCDPENR1",20,0)
+ S RCDISP=1
+"RTN","RCDPENR1",21,0)
+ ;
+"RTN","RCDPENR1",22,0)
+ ; Ask for Division
+"RTN","RCDPENR1",23,0)
+ S RCRQDIV=$$GETDIV^RCDPENR2(.RCDIV)
+"RTN","RCDPENR1",24,0)
+ Q:RCRQDIV=-1
+"RTN","RCDPENR1",25,0)
+ ;
+"RTN","RCDPENR1",26,0)
+ S RCEX=$$GETPAY^RCDPENRU(.RCPAYR) Q:'RCEX
+"RTN","RCDPENR1",27,0)
+ S RCPYRLST("START")=$P($G(RCPAYR("START")),U,4),RCPYRLST("END")=$P($G(RCPAYR("END")),U,4)
+"RTN","RCDPENR1",28,0)
+ ;
+"RTN","RCDPENR1",29,0)
+ ; Ask the user for report type, with no Main Prompt
+"RTN","RCDPENR1",30,0)
+ S RCRPT=$$GETRPT^RCDPENR2(0)
+"RTN","RCDPENR1",31,0)
+ Q:RCRPT=-1
+"RTN","RCDPENR1",32,0)
+ ;
+"RTN","RCDPENR1",33,0)
+ S RCSUMFLG=$S(RCRPT="S":1,1:0)
+"RTN","RCDPENR1",34,0)
+ ;
+"RTN","RCDPENR1",35,0)
+ ; Retrieve start date
+"RTN","RCDPENR1",36,0)
+ S RCBGDT=$$GETSDATE^RCDPENR2()
+"RTN","RCDPENR1",37,0)
+ Q:RCBGDT=-1
+"RTN","RCDPENR1",38,0)
+ ;
+"RTN","RCDPENR1",39,0)
+ ; Retrieve end date.  Send user start date as the lower bound.
+"RTN","RCDPENR1",40,0)
+ S RCENDDT=$$GETEDATE^RCDPENR2(RCBGDT)
+"RTN","RCDPENR1",41,0)
+ Q:RCENDDT=-1
+"RTN","RCDPENR1",42,0)
+ D AUTO(RCDISP,RCBGDT,RCENDDT,.RCPYRLST,RCRQDIV,RCSUMFLG)
+"RTN","RCDPENR1",43,0)
+ Q
+"RTN","RCDPENR1",44,0)
+ ;
+"RTN","RCDPENR1",45,0)
+ ;Entry Point for automated calls
+"RTN","RCDPENR1",46,0)
+AUTO(RCDISP,RCBGDT,RCENDDT,RCPYRLST,RCRQDIV,RCSUMFLG) ;
+"RTN","RCDPENR1",47,0)
+ ; RCDISP - Display results to screen or archive file flag
+"RTN","RCDPENR1",48,0)
+ ; RCBGDT - begin date of the report
+"RTN","RCDPENR1",49,0)
+ ; RCENDDT - End date of the report
+"RTN","RCDPENR1",50,0)
+ ; RCPYRLST - Payers to report on (All, range, or single payer)
+"RTN","RCDPENR1",51,0)
+ ; RCRQDIV - Division to report on - (A)ll or a single division
+"RTN","RCDPENR1",52,0)
+ ; RCSUMFLG - (S)ummary or (G)rand Total Report
+"RTN","RCDPENR1",53,0)
+ ;
+"RTN","RCDPENR1",54,0)
+ ;Select output device
+"RTN","RCDPENR1",55,0)
+ I RCDISP S %ZIS="QM" D ^%ZIS Q:POP
+"RTN","RCDPENR1",56,0)
+ ;Option to queue
+"RTN","RCDPENR1",57,0)
+ I 'RCDISP,$D(IO("Q")) D  Q
+"RTN","RCDPENR1",58,0)
+ .N ZTDESC,ZTQUEUED,ZTRTN,ZTSAVE,ZTSK
+"RTN","RCDPENR1",59,0)
+ .S ZTRTN="REPORT^RCDPENR1"
+"RTN","RCDPENR1",60,0)
+ .S ZTDESC="EDI Volume Statistics Report"
+"RTN","RCDPENR1",61,0)
+ .S ZTSAVE("RC*")=""
+"RTN","RCDPENR1",62,0)
+ .D ^%ZTLOAD
+"RTN","RCDPENR1",63,0)
+ .I $D(ZTSK) W !!,"Task number "_ZTSK_" has been queued."
+"RTN","RCDPENR1",64,0)
+ .E  W !!,"Unable to queue this job."
+"RTN","RCDPENR1",65,0)
+ .K ZTSK,IO("Q") D HOME^%ZIS
+"RTN","RCDPENR1",66,0)
+ ;
+"RTN","RCDPENR1",67,0)
+ ;Compile and Print Report
+"RTN","RCDPENR1",68,0)
+ D REPORT
+"RTN","RCDPENR1",69,0)
+ Q
+"RTN","RCDPENR1",70,0)
+ ;
+"RTN","RCDPENR1",71,0)
+REPORT   ; Trace the ERA file for the given date range
+"RTN","RCDPENR1",72,0)
+ ;
+"RTN","RCDPENR1",73,0)
+ N RCPYRS,RCINS,RCDATA,RCDTLDT,RCDTLIEN,RCIEN,RCEOB,RCBILLNO,RCBATCH,RCTYPE,RCPHARM
+"RTN","RCDPENR1",74,0)
+ ;
+"RTN","RCDPENR1",75,0)
+ ; Clear temp arrays
+"RTN","RCDPENR1",76,0)
+ K ^TMP("RCDPEADP",$J),^TMP("RCDPENR1",$J),^TMP("RCDPENR2",$J)
+"RTN","RCDPENR1",77,0)
+ ;
+"RTN","RCDPENR1",78,0)
+ ; Compile list of divisions
+"RTN","RCDPENR1",79,0)
+ D DIV^RCDPENR2(.RCDIV)
+"RTN","RCDPENR1",80,0)
+ ;
+"RTN","RCDPENR1",81,0)
+ ; Compile the list of payers
+"RTN","RCDPENR1",82,0)
+ D PYRARY^RCDPENRU(RCPYRLST("START"),RCPYRLST("END"),2)  ; use 835 insurance file payer list
+"RTN","RCDPENR1",83,0)
+ ;
+"RTN","RCDPENR1",84,0)
+ ; Compile report
+"RTN","RCDPENR1",85,0)
+ ; Gather raw data
+"RTN","RCDPENR1",86,0)
+ D GET837(RCBGDT,RCENDDT,RCSUMFLG)
+"RTN","RCDPENR1",87,0)
+ D GETNCPDP(RCBGDT,RCENDDT,RCSUMFLG)
+"RTN","RCDPENR1",88,0)
+ D GET835(RCBGDT,RCENDDT,RCSUMFLG)
+"RTN","RCDPENR1",89,0)
+ ;
+"RTN","RCDPENR1",90,0)
+ ;Check for data captures
+"RTN","RCDPENR1",91,0)
+ I '$D(^TMP("RCDPENR1",$J)) D  Q
+"RTN","RCDPENR1",92,0)
+ .  W !!,"There was no data available for the requested report.  Please try again."
+"RTN","RCDPENR1",93,0)
+ ;
+"RTN","RCDPENR1",94,0)
+ ;Generate the statistics if any data captured
+"RTN","RCDPENR1",95,0)
+ D COMPILE(RCSUMFLG)
+"RTN","RCDPENR1",96,0)
+ ;
+"RTN","RCDPENR1",97,0)
+ ; Print out the results
+"RTN","RCDPENR1",98,0)
+ D PRINT(RCSUMFLG)
+"RTN","RCDPENR1",99,0)
+ ;
+"RTN","RCDPENR1",100,0)
+ Q 
+"RTN","RCDPENR1",101,0)
+ ;
+"RTN","RCDPENR1",102,0)
+ ;Generate the needed statistics for the report
+"RTN","RCDPENR1",103,0)
+COMPILE(RCSUMFLG) ;
+"RTN","RCDPENR1",104,0)
+ ;
+"RTN","RCDPENR1",105,0)
+ ; Temp Array Structure - ^TMP("RCDPENR1",$J,"CLAIM",RCMP,RCPAYER,RCCLAIM)=Send Date^Receive Date
+"RTN","RCDPENR1",106,0)
+ N RCMP,RCTOT,RCTDAYS,RCDATA,RCSDATE,RCEDATE,RCCLAIM,RCPAYER,RCDAYS,RCMCT,RCPCT,RCIDX,RCTYPE
+"RTN","RCDPENR1",107,0)
+ ;
+"RTN","RCDPENR1",108,0)
+ ; Generate Grand Totals
+"RTN","RCDPENR1",109,0)
+ S RCMP=""
+"RTN","RCDPENR1",110,0)
+ F  S RCMP=$O(^TMP("RCDPENR1",$J,"CLAIM",RCMP)) Q:RCMP=""  D
+"RTN","RCDPENR1",111,0)
+ . S RCPAYER=""
+"RTN","RCDPENR1",112,0)
+ . F  S RCPAYER=$O(^TMP("RCDPENR1",$J,"CLAIM",RCMP,RCPAYER)) Q:RCPAYER=""  D
+"RTN","RCDPENR1",113,0)
+ . . S RCCLAIM=""
+"RTN","RCDPENR1",114,0)
+ . . F  S RCCLAIM=$O(^TMP("RCDPENR1",$J,"CLAIM",RCMP,RCPAYER,RCCLAIM)) Q:RCCLAIM=""  D
+"RTN","RCDPENR1",115,0)
+ . . . S RCDATA=$G(^TMP("RCDPENR1",$J,"CLAIM",RCMP,RCPAYER,RCCLAIM))
+"RTN","RCDPENR1",116,0)
+ . . . Q:RCDATA=""
+"RTN","RCDPENR1",117,0)
+ . . . S RCSDATE=$P(RCDATA,U),RCEDATE=$P(RCDATA,U,2)
+"RTN","RCDPENR1",118,0)
+ . . . Q:(RCSDATE="")&(RCEDATE="")
+"RTN","RCDPENR1",119,0)
+ . . . I RCSDATE'="" D
+"RTN","RCDPENR1",120,0)
+ . . . . S ^TMP("RCDPENR1",$J,"RCTOT","837",RCMP,"G")=+$G(^TMP("RCDPENR1",$J,"RCTOT","837",RCMP,"G"))+1
+"RTN","RCDPENR1",121,0)
+ . . . . S:RCSUMFLG ^TMP("RCDPENR1",$J,"RCTOT","SUMMARY","837",RCMP,RCPAYER)=+$G(^TMP("RCDPENR1",$J,"RCTOT","SUMMARY","837",RCMP,RCPAYER))+1
+"RTN","RCDPENR1",122,0)
+ . . . ;
+"RTN","RCDPENR1",123,0)
+ . . . I RCEDATE'="" D
+"RTN","RCDPENR1",124,0)
+ . . . . S ^TMP("RCDPENR1",$J,"RCTOT","835",RCMP,"G")=+$G(^TMP("RCDPENR1",$J,"RCTOT","835",RCMP,"G"))+1
+"RTN","RCDPENR1",125,0)
+ . . . . S:RCSUMFLG ^TMP("RCDPENR1",$J,"RCTOT","SUMMARY","835",RCMP,RCPAYER)=+$G(^TMP("RCDPENR1",$J,"RCTOT","SUMMARY","835",RCMP,RCPAYER))+1
+"RTN","RCDPENR1",126,0)
+ . . . ;
+"RTN","RCDPENR1",127,0)
+ . . . I (RCSDATE'="")&(RCEDATE'="") D
+"RTN","RCDPENR1",128,0)
+ . . . . S RCDAYS=$$FMTH^XLFDT(RCEDATE,1)-$$FMTH^XLFDT(RCSDATE,1)
+"RTN","RCDPENR1",129,0)
+ . . . . ;
+"RTN","RCDPENR1",130,0)
+ . . . . ; update counters for grand total report
+"RTN","RCDPENR1",131,0)
+ . . . . S ^TMP("RCDPENR1",$J,"RCTDAYS","BOTH",RCMP,"G")=+$G(^TMP("RCDPENR1",$J,"RCTDAYS","BOTH",RCMP,"G"))+RCDAYS
+"RTN","RCDPENR1",132,0)
+ . . . . S ^TMP("RCDPENR1",$J,"RCTOT","BOTH",RCMP,"G")=+$G(^TMP("RCDPENR1",$J,"RCTOT","BOTH",RCMP,"G"))+1
+"RTN","RCDPENR1",133,0)
+ . . . . ;
+"RTN","RCDPENR1",134,0)
+ . . . . ; update counters for the payer summary totals, if requested
+"RTN","RCDPENR1",135,0)
+ . . . . I RCSUMFLG D
+"RTN","RCDPENR1",136,0)
+ . . . . . S ^TMP("RCDPENR1",$J,"RCTOT","SUMMARY","BOTH",RCMP,RCPAYER)=+$G(^TMP("RCDPENR1",$J,"RCTOT","SUMMARY","BOTH",RCMP,RCPAYER))+1
+"RTN","RCDPENR1",137,0)
+ . . . . . S ^TMP("RCDPENR1",$J,"RCTDAYS","SUMMARY","BOTH",RCMP,RCPAYER)=+$G(^TMP("RCDPENR1",$J,"RCTDAYS","SUMMARY","BOTH",RCMP,RCPAYER))+RCDAYS
+"RTN","RCDPENR1",138,0)
+ ;
+"RTN","RCDPENR1",139,0)
+ ;Calculate data for the report
+"RTN","RCDPENR1",140,0)
+ ;
+"RTN","RCDPENR1",141,0)
+ ;Get the grand total counts for the claims with both 837s and 835s
+"RTN","RCDPENR1",142,0)
+ S RCMCT=+$G(^TMP("RCDPENR1",$J,"RCTOT","BOTH","M","G"))
+"RTN","RCDPENR1",143,0)
+ S RCPCT=+$G(^TMP("RCDPENR1",$J,"RCTOT","BOTH","P","G"))
+"RTN","RCDPENR1",144,0)
+ ;
+"RTN","RCDPENR1",145,0)
+ ;Grand Totals
+"RTN","RCDPENR1",146,0)
+ S RCDATA=""
+"RTN","RCDPENR1",147,0)
+ S $P(RCDATA,U)=+$G(^TMP("RCDPENR1",$J,"RCTOT","837","M","G"))
+"RTN","RCDPENR1",148,0)
+ S $P(RCDATA,U,2)=+$G(^TMP("RCDPENR1",$J,"RCTOT","837","P","G"))
+"RTN","RCDPENR1",149,0)
+ S $P(RCDATA,U,3)=+$G(^TMP("RCDPENR1",$J,"RCTOT","835","M","G"))
+"RTN","RCDPENR1",150,0)
+ S $P(RCDATA,U,4)=+$G(^TMP("RCDPENR1",$J,"RCTOT","835","P","G"))
+"RTN","RCDPENR1",151,0)
+ S $P(RCDATA,U,5)=+$G(^TMP("RCDPENR1",$J,"RCTOT","BOTH","M","G"))
+"RTN","RCDPENR1",152,0)
+ S $P(RCDATA,U,6)=+$G(^TMP("RCDPENR1",$J,"RCTOT","BOTH","P","G"))
+"RTN","RCDPENR1",153,0)
+ S $P(RCDATA,U,7)=+$S(+RCMCT:+$G(^TMP("RCDPENR1",$J,"RCTDAYS","BOTH","M","G"))/+RCMCT,1:0)
+"RTN","RCDPENR1",154,0)
+ S $P(RCDATA,U,8)=+$S(+RCPCT:+$G(^TMP("RCDPENR1",$J,"RCTDAYS","BOTH","P","G"))/+RCPCT,1:0)
+"RTN","RCDPENR1",155,0)
+ S ^TMP("RCDPENR1",$J,"GTOT")=RCDATA
+"RTN","RCDPENR1",156,0)
+ ;
+"RTN","RCDPENR1",157,0)
+ ;quit if no Payer Summary
+"RTN","RCDPENR1",158,0)
+ Q:'RCSUMFLG
+"RTN","RCDPENR1",159,0)
+ ;
+"RTN","RCDPENR1",160,0)
+ ;Generate Payer level information.
+"RTN","RCDPENR1",161,0)
+ ;first the Totals
+"RTN","RCDPENR1",162,0)
+ S RCTYPE=""
+"RTN","RCDPENR1",163,0)
+ F  S RCTYPE=$O(^TMP("RCDPENR1",$J,"RCTOT","SUMMARY",RCTYPE)) Q:RCTYPE=""  D
+"RTN","RCDPENR1",164,0)
+ . S RCMP=""
+"RTN","RCDPENR1",165,0)
+ . F  S RCMP=$O(^TMP("RCDPENR1",$J,"RCTOT","SUMMARY",RCTYPE,RCMP))  Q:RCMP=""  D
+"RTN","RCDPENR1",166,0)
+ . . S RCPAYER=""
+"RTN","RCDPENR1",167,0)
+ . . F  S RCPAYER=$O(^TMP("RCDPENR1",$J,"RCTOT","SUMMARY",RCTYPE,RCMP,RCPAYER)) Q:RCPAYER=""  D
+"RTN","RCDPENR1",168,0)
+ . . . S RCIDX=$S(RCTYPE="837":1,RCTYPE="835":3,1:5)
+"RTN","RCDPENR1",169,0)
+ . . . S:RCMP="P" RCIDX=RCIDX+1
+"RTN","RCDPENR1",170,0)
+ . . . S $P(^TMP("RCDPENR1",$J,"SUMMARY",RCPAYER),U,RCIDX)=+$G(^TMP("RCDPENR1",$J,"RCTOT","SUMMARY",RCTYPE,RCMP,RCPAYER))
+"RTN","RCDPENR1",171,0)
+ ;
+"RTN","RCDPENR1",172,0)
+ ; Next, the total days count
+"RTN","RCDPENR1",173,0)
+ S RCMP=""
+"RTN","RCDPENR1",174,0)
+ F  S RCMP=$O(^TMP("RCDPENR1",$J,"RCTDAYS","SUMMARY","BOTH",RCMP))  Q:RCMP=""  D
+"RTN","RCDPENR1",175,0)
+ . S RCPAYER=""
+"RTN","RCDPENR1",176,0)
+ . F  S RCPAYER=$O(^TMP("RCDPENR1",$J,"RCTDAYS","SUMMARY","BOTH",RCMP,RCPAYER)) Q:RCPAYER=""  D
+"RTN","RCDPENR1",177,0)
+ . . S RCIDX=$S(RCMP="M":7,1:8)
+"RTN","RCDPENR1",178,0)
+ . . S $P(^TMP("RCDPENR1",$J,"SUMMARY",RCPAYER),U,RCIDX)=+$G(^TMP("RCDPENR1",$J,"RCTDAYS","SUMMARY","BOTH",RCMP,RCPAYER))
+"RTN","RCDPENR1",179,0)
+ ;
+"RTN","RCDPENR1",180,0)
+ Q
+"RTN","RCDPENR1",181,0)
+ ;
+"RTN","RCDPENR1",182,0)
+ ;Print the results.  Send via e-mail if not displaying to screen
+"RTN","RCDPENR1",183,0)
+PRINT(RCSUMFLG) ;Print the results
+"RTN","RCDPENR1",184,0)
+ ;
+"RTN","RCDPENR1",185,0)
+ N RCSTOP,RCPAGE,RCLINE,RCRUNDT,RCRPIEN,RCXMZ,RCTFLG,RCFLG
+"RTN","RCDPENR1",186,0)
+ ;
+"RTN","RCDPENR1",187,0)
+ S RCLINE="",$P(RCLINE,"-",IOM)="",RCTFLG=0,RCRPIEN="",RCFLG=0
+"RTN","RCDPENR1",188,0)
+ ;
+"RTN","RCDPENR1",189,0)
+ ; Init the stop flag, page count
+"RTN","RCDPENR1",190,0)
+ S RCSTOP=0,RCPAGE=0
+"RTN","RCDPENR1",191,0)
+ ;
+"RTN","RCDPENR1",192,0)
+ ; Set the Run date for the report
+"RTN","RCDPENR1",193,0)
+ S RCRUNDT=$$FMTE^XLFDT($$NOW^XLFDT,2)
+"RTN","RCDPENR1",194,0)
+ ;
+"RTN","RCDPENR1",195,0)
+ ; Open the device
+"RTN","RCDPENR1",196,0)
+ I RCDISP U IO
+"RTN","RCDPENR1",197,0)
+ ;
+"RTN","RCDPENR1",198,0)
+ I 'RCDISP D  Q:'RCRPIEN
+"RTN","RCDPENR1",199,0)
+ . S RCRPIEN=$$INITARCH("VOLUME STATISTICS")
+"RTN","RCDPENR1",200,0)
+ ;
+"RTN","RCDPENR1",201,0)
+ ; Display Header
+"RTN","RCDPENR1",202,0)
+ D HEADER
+"RTN","RCDPENR1",203,0)
+ ;
+"RTN","RCDPENR1",204,0)
+ ; Display the detail
+"RTN","RCDPENR1",205,0)
+ I RCSUMFLG S RCTFLG=1 S RCFLG=$$SUMMARY(RCTFLG)
+"RTN","RCDPENR1",206,0)
+ Q:RCFLG=-1
+"RTN","RCDPENR1",207,0)
+ ;
+"RTN","RCDPENR1",208,0)
+ ; Display the grand total at the end
+"RTN","RCDPENR1",209,0)
+ D GRAND(RCTFLG)
+"RTN","RCDPENR1",210,0)
+ ;
+"RTN","RCDPENR1",211,0)
+ ; If not displaying to screen and not redoing, send
+"RTN","RCDPENR1",212,0)
+ I 'RCDISP D
+"RTN","RCDPENR1",213,0)
+ . S RCXMZ=$$XM^RCDPENRU(RCRPIEN,RCBGDT,RCENDDT,"AR VOLUME STATISTICS REPORT")
+"RTN","RCDPENR1",214,0)
+ ;
+"RTN","RCDPENR1",215,0)
+ ;Report finished
+"RTN","RCDPENR1",216,0)
+ I 'RCSTOP D
+"RTN","RCDPENR1",217,0)
+ . I RCDISP,$Y>(IOSL-6) D ASK^RCDPEADP(.RCSTOP,0) Q:RCSTOP  D HEADER
+"RTN","RCDPENR1",218,0)
+ . I 'RCSTOP,RCDISP W !,$$ENDORPRT^RCDPEARL
+"RTN","RCDPENR1",219,0)
+ W !
+"RTN","RCDPENR1",220,0)
+ ;
+"RTN","RCDPENR1",221,0)
+ ;Close device
+"RTN","RCDPENR1",222,0)
+ I '$D(ZTQUEUED) D ^%ZISC
+"RTN","RCDPENR1",223,0)
+ I $D(ZTQUEUED) S ZTREQ="@"
+"RTN","RCDPENR1",224,0)
+ Q
+"RTN","RCDPENR1",225,0)
+ ;
+"RTN","RCDPENR1",226,0)
+ Q
+"RTN","RCDPENR1",227,0)
+HEADER ;Print the results
+"RTN","RCDPENR1",228,0)
+ ;
+"RTN","RCDPENR1",229,0)
+ N RCDIVTXT,RCPYRTXT,RCSPACE,RCDATE,RCSTR
+"RTN","RCDPENR1",230,0)
+ ;
+"RTN","RCDPENR1",231,0)
+ S RCSPACE=""
+"RTN","RCDPENR1",232,0)
+ S $P(RCSPACE," ",80)=""
+"RTN","RCDPENR1",233,0)
+ S RCDIVTXT=$$DIVTXT()
+"RTN","RCDPENR1",234,0)
+ S RCPYRTXT=$$PAYERTXT(36)
+"RTN","RCDPENR1",235,0)
+ S RCDATE="DATE RANGE: "_$$FMTE^XLFDT(RCBGDT,2)_" - "_$$FMTE^XLFDT(RCENDDT,2)
+"RTN","RCDPENR1",236,0)
+ ;
+"RTN","RCDPENR1",237,0)
+RPTHDR ;
+"RTN","RCDPENR1",238,0)
+ S RCPAGE=RCPAGE+1
+"RTN","RCDPENR1",239,0)
+ I RCDISP D  Q
+"RTN","RCDPENR1",240,0)
+ . W @IOF,?15,"EDI VOLUME STATISTICS REPORT"
+"RTN","RCDPENR1",241,0)
+ . W ?70,"PAGE ",$J(RCPAGE,3),!
+"RTN","RCDPENR1",242,0)
+ . W ?5,RCDIVTXT,?41,RCPYRTXT,!
+"RTN","RCDPENR1",243,0)
+ . W ?5,RCDATE,?52,"RUN DATE: ",RCRUNDT,!
+"RTN","RCDPENR1",244,0)
+ . W RCLINE,!
+"RTN","RCDPENR1",245,0)
+ I 'RCDISP D
+"RTN","RCDPENR1",246,0)
+ . S RCSTR=RCDIVTXT_U_RCPYRTXT_U_RCDATE
+"RTN","RCDPENR1",247,0)
+ . D SAVEDATA(RCSTR,RCRPIEN)
+"RTN","RCDPENR1",248,0)
+ ;
+"RTN","RCDPENR1",249,0)
+ Q
+"RTN","RCDPENR1",250,0)
+ ;
+"RTN","RCDPENR1",251,0)
+ ;Determine the text to display for the division prompt
+"RTN","RCDPENR1",252,0)
+DIVTXT() ;
+"RTN","RCDPENR1",253,0)
+ ;
+"RTN","RCDPENR1",254,0)
+ N RCDIV,RCTXT
+"RTN","RCDPENR1",255,0)
+ ; 
+"RTN","RCDPENR1",256,0)
+ Q:$D(^TMP("RCDPENR2",$J,"DIVALL")) "ALL DIVISIONS"
+"RTN","RCDPENR1",257,0)
+ ;
+"RTN","RCDPENR1",258,0)
+ ;Build list of divisions
+"RTN","RCDPENR1",259,0)
+ ;
+"RTN","RCDPENR1",260,0)
+ S RCDIV="",RCTXT=""
+"RTN","RCDPENR1",261,0)
+ F  S RCDIV=$O(^TMP("RCDPENR2",$J,"DIV",RCDIV)) Q:RCDIV=""  D
+"RTN","RCDPENR1",262,0)
+ . S RCTXT=RCTXT_RCDIV_","
+"RTN","RCDPENR1",263,0)
+ ;
+"RTN","RCDPENR1",264,0)
+ ; Remove comma at the end. 
+"RTN","RCDPENR1",265,0)
+ S RCTXT=$E(RCTXT,1,$L(RCTXT)-1)
+"RTN","RCDPENR1",266,0)
+ ;
+"RTN","RCDPENR1",267,0)
+ ; Display the first 35 characters of the division text list,
+"RTN","RCDPENR1",268,0)
+ Q $E(RCTXT,1,35)
+"RTN","RCDPENR1",269,0)
+ ;
+"RTN","RCDPENR1",270,0)
+ ;Determine the text to display for the division prompt
+"RTN","RCDPENR1",271,0)
+PAYERTXT(RCFILE) ;
+"RTN","RCDPENR1",272,0)
+ ;
+"RTN","RCDPENR1",273,0)
+ N RCINS,RCTXT
+"RTN","RCDPENR1",274,0)
+ ;
+"RTN","RCDPENR1",275,0)
+ ;If all payers selected, return that message
+"RTN","RCDPENR1",276,0)
+ Q:$D(^TMP("RCDPEADP",$J,"INS","A")) "ALL PAYERS"
+"RTN","RCDPENR1",277,0)
+ ;
+"RTN","RCDPENR1",278,0)
+ ; Build the list of payers
+"RTN","RCDPENR1",279,0)
+ S RCINS="",RCTXT=""
+"RTN","RCDPENR1",280,0)
+ F  S RCINS=$O(^TMP("RCDPEADP",$J,"INS",RCINS)) Q:RCINS=""  D
+"RTN","RCDPENR1",281,0)
+ . S RCTXT=RCTXT_$$GET1^DIQ(RCFILE,RCINS_",",".01","E")_","
+"RTN","RCDPENR1",282,0)
+ ;
+"RTN","RCDPENR1",283,0)
+ ; Remove comma at the end. 
+"RTN","RCDPENR1",284,0)
+ S RCTXT=$E(RCTXT,1,$L(RCTXT)-1)
+"RTN","RCDPENR1",285,0)
+ ;
+"RTN","RCDPENR1",286,0)
+ ; Display the first 35 characters of the division text list,
+"RTN","RCDPENR1",287,0)
+ Q $E(RCTXT,1,35)
+"RTN","RCDPENR1",288,0)
+ ;
+"RTN","RCDPENR1",289,0)
+SUMMARY(RCTFLG) ;Print the Payer Summary portion of the report
+"RTN","RCDPENR1",290,0)
+ ;
+"RTN","RCDPENR1",291,0)
+ N RCINS,RCLPDATA,RC835,RC837,RCDTPCT,RCFLG
+"RTN","RCDPENR1",292,0)
+ ;
+"RTN","RCDPENR1",293,0)
+ S RCINS=0,RCFLG=1
+"RTN","RCDPENR1",294,0)
+ F  S RCINS=$O(^TMP("RCDPENR1",$J,"SUMMARY",RCINS)) Q:RCINS=""  D  Q:RCFLG=-1
+"RTN","RCDPENR1",295,0)
+ . S RCLPDATA=$G(^TMP("RCDPENR1",$J,"SUMMARY",RCINS))
+"RTN","RCDPENR1",296,0)
+ . S RCFLG=$$PRINTRP^RCDPENR4("PAYER NAME: "_RCINS,RCLPDATA,RCRPIEN,RCDISP,RCTFLG)
+"RTN","RCDPENR1",297,0)
+ Q RCFLG
+"RTN","RCDPENR1",298,0)
+ ;
+"RTN","RCDPENR1",299,0)
+ ;Total for all payers in report
+"RTN","RCDPENR1",300,0)
+GRAND(RCTFLG) ;
+"RTN","RCDPENR1",301,0)
+ ;
+"RTN","RCDPENR1",302,0)
+ N RCDATA,RCFLG
+"RTN","RCDPENR1",303,0)
+ ;
+"RTN","RCDPENR1",304,0)
+ S RCDATA=$G(^TMP("RCDPENR1",$J,"GTOT"))
+"RTN","RCDPENR1",305,0)
+ S RCFLG=$$PRINTRP^RCDPENR4("GRAND TOTAL ALL PAYERS",RCDATA,RCRPIEN,RCDISP,RCTFLG)
+"RTN","RCDPENR1",306,0)
+ Q
+"RTN","RCDPENR1",307,0)
+ ; 
+"RTN","RCDPENR1",308,0)
+ ; Retrieve the needed 835 information.
+"RTN","RCDPENR1",309,0)
+GET835(RCSDATE,RCEDATE,RCSUMFLG) ;
+"RTN","RCDPENR1",310,0)
+ ;
+"RTN","RCDPENR1",311,0)
+ N RCLDATE,RCBDIV,RCIEN,RCDATA,RCLIEN,RCDTLDT,RCEOB,RCBILL,RCMP
+"RTN","RCDPENR1",312,0)
+ ;
+"RTN","RCDPENR1",313,0)
+ S RCLDATE=RCSDATE-.001
+"RTN","RCDPENR1",314,0)
+ ;
+"RTN","RCDPENR1",315,0)
+ F  S RCLDATE=$O(^RCY(344.4,"AFD",RCLDATE)) Q:RCLDATE>RCEDATE  Q:RCLDATE=""  D
+"RTN","RCDPENR1",316,0)
+ . S RCIEN=""
+"RTN","RCDPENR1",317,0)
+ . F  S RCIEN=$O(^RCY(344.4,"AFD",RCLDATE,RCIEN)) Q:'RCIEN  D  Q
+"RTN","RCDPENR1",318,0)
+ .. S RCDATA=$G(^RCY(344.4,RCIEN,0))
+"RTN","RCDPENR1",319,0)
+ .. Q:RCDATA=""         ;No data defined in the transaction
+"RTN","RCDPENR1",320,0)
+ .. Q:'$P(RCDATA,U,10)  ;Transaction is an MRA
+"RTN","RCDPENR1",321,0)
+ .. S RCLIEN=0
+"RTN","RCDPENR1",322,0)
+ .. F  S RCLIEN=$O(^RCY(344.4,RCIEN,1,RCLIEN)) Q:RCLIEN=""  D  Q
+"RTN","RCDPENR1",323,0)
+ ... S RCDTLDT=$G(^RCY(344.4,RCIEN,1,RCLIEN,0))   ;Get the ERA Detail
+"RTN","RCDPENR1",324,0)
+ ... Q:RCDTLDT=""             ;Quit if no ERA Detail
+"RTN","RCDPENR1",325,0)
+ ... S RCEOB=$P(RCDTLDT,U,2)  ;Get the EOB info
+"RTN","RCDPENR1",326,0)
+ ... Q:'RCEOB                 ;quit if no info
+"RTN","RCDPENR1",327,0)
+ ... ;
+"RTN","RCDPENR1",328,0)
+ ... ; Get the BILL/CLAIM IEN from the #399 file
+"RTN","RCDPENR1",329,0)
+ ... S RCBILL=$$BILLIEN(RCEOB)
+"RTN","RCDPENR1",330,0)
+ ... Q:RCBILL=""    ;EEOB corrupted, quit
+"RTN","RCDPENR1",331,0)
+ ... ;
+"RTN","RCDPENR1",332,0)
+ ... ;Get the insurance companY
+"RTN","RCDPENR1",333,0)
+ ... S RCINS=$$GET1^DIQ(361.1,RCEOB_",",.02,"I")  ;Get the insurance company ID.
+"RTN","RCDPENR1",334,0)
+ ... S RCPAYER=$$GET1^DIQ(361.1,RCEOB_",",.02,"E")  ;Get the insurance company ID.
+"RTN","RCDPENR1",335,0)
+ ... Q:RCPAYER=""
+"RTN","RCDPENR1",336,0)
+ ... ;
+"RTN","RCDPENR1",337,0)
+ ... ; If payer not in list, then exit.
+"RTN","RCDPENR1",338,0)
+ ... Q:'$$INSCHK^RCDPENRU(RCINS)
+"RTN","RCDPENR1",339,0)
+ ... ;
+"RTN","RCDPENR1",340,0)
+ ... ; Get the division
+"RTN","RCDPENR1",341,0)
+ ... S RCBDIV=$$DIV^IBJDF2(RCBILL)
+"RTN","RCDPENR1",342,0)
+ ... ;
+"RTN","RCDPENR1",343,0)
+ ... ; Quit if user specified a specific division and bill is not in that Division
+"RTN","RCDPENR1",344,0)
+ ... I '$D(^TMP("RCDPENR2",$J,"DIVALL"))&'$D(^TMP("RCDPENR2",$J,"DIV",RCBDIV)) Q 
+"RTN","RCDPENR1",345,0)
+ ... ;
+"RTN","RCDPENR1",346,0)
+ ... ; Check to see if it is an ERA for a pharmacy claim or a medical claim
+"RTN","RCDPENR1",347,0)
+ ... S RCMP=$S($$PHARM^RCDPEWLP(RCIEN):"P",1:"M")
+"RTN","RCDPENR1",348,0)
+ ... ;
+"RTN","RCDPENR1",349,0)
+ ... D UPDTMP8(RCLDATE,RCMP,RCBILL,RCSUMFLG,RCPAYER,RCEOB)
+"RTN","RCDPENR1",350,0)
+ Q
+"RTN","RCDPENR1",351,0)
+ ;
+"RTN","RCDPENR1",352,0)
+BILLIEN(RCEOB)  ; Retrieve the IEN for the Bill attached to the EOB
+"RTN","RCDPENR1",353,0)
+ ; To find the external Bill number, please use GETBILL^RCDPESR0
+"RTN","RCDPENR1",354,0)
+ ;
+"RTN","RCDPENR1",355,0)
+ Q $$GET1^DIQ(361.1,RCEOB_",",.01,"I")
+"RTN","RCDPENR1",356,0)
+ ;
+"RTN","RCDPENR1",357,0)
+ ;Retrieve all necessary information for the 837s sent during the requested period by
+"RTN","RCDPENR1",358,0)
+ ;using the 837 Transmission batches.
+"RTN","RCDPENR1",359,0)
+GET837(RCSDATE,RCEDATE,RCSUMFLG) ;
+"RTN","RCDPENR1",360,0)
+ ;RCSDATE - Start date of extraction
+"RTN","RCDPENR1",361,0)
+ ;RCEDATE - End date of extraction
+"RTN","RCDPENR1",362,0)
+ ;RCSUMFLG - Type of report (Payer Summary or Grand Total)
+"RTN","RCDPENR1",363,0)
+ ;
+"RTN","RCDPENR1",364,0)
+ N RCBATCH,RCLDATE,RCPAYER,RCIEN,RCDATA,RCBILL,RCBDIV,RCINS
+"RTN","RCDPENR1",365,0)
+ ;
+"RTN","RCDPENR1",366,0)
+ ;Get the 837 batches sent within the given date range.
+"RTN","RCDPENR1",367,0)
+ S RCLDATE=RCSDATE-.001
+"RTN","RCDPENR1",368,0)
+ ;
+"RTN","RCDPENR1",369,0)
+ F  S RCLDATE=$O(^IBA(364.1,"FDATE",RCLDATE)) Q:RCLDATE=""  Q:RCLDATE>RCEDATE  D
+"RTN","RCDPENR1",370,0)
+ . S RCBATCH=0
+"RTN","RCDPENR1",371,0)
+ . F  S RCBATCH=$O(^IBA(364.1,"FDATE",RCLDATE,RCBATCH)) Q:RCBATCH=""  D
+"RTN","RCDPENR1",372,0)
+ .. S RCINS=$$GET1^DIQ(364.1,RCBATCH_",",.12,"I")
+"RTN","RCDPENR1",373,0)
+ .. S RCPAYER=$$GET1^DIQ(364.1,RCBATCH_",",.12,"E")
+"RTN","RCDPENR1",374,0)
+ .. Q:RCPAYER=""
+"RTN","RCDPENR1",375,0)
+ .. ;
+"RTN","RCDPENR1",376,0)
+ .. ;If payer not in list, then exit.
+"RTN","RCDPENR1",377,0)
+ .. Q:'$$INSCHK^RCDPENRU(RCINS)
+"RTN","RCDPENR1",378,0)
+ .. ;
+"RTN","RCDPENR1",379,0)
+ .. S RCIEN=0
+"RTN","RCDPENR1",380,0)
+ .. F  S RCIEN=$O(^IBA(364,"C",RCBATCH,RCIEN)) Q:RCIEN=""  D
+"RTN","RCDPENR1",381,0)
+ ... S RCDATA=$G(^IBA(364,RCIEN,0))
+"RTN","RCDPENR1",382,0)
+ ... S RCBILL=$P(RCDATA,U)    ; Get the Bill #
+"RTN","RCDPENR1",383,0)
+ ... Q:RCBILL=""  ; Corrupted batch information, don't count toward totals.
+"RTN","RCDPENR1",384,0)
+ ... S RCBDIV=$$DIV^IBJDF2(RCBILL)
+"RTN","RCDPENR1",385,0)
+ ... ;
+"RTN","RCDPENR1",386,0)
+ ... ; Quit if user specified a specific division and bill is not in that Division
+"RTN","RCDPENR1",387,0)
+ ... I '$D(^TMP("RCDPENR2",$J,"DIVALL"))&'$D(^TMP("RCDPENR2",$J,"DIV",RCBDIV)) Q 
+"RTN","RCDPENR1",388,0)
+ ... D UPDTMPB(RCLDATE,1,"M",RCBILL,RCSUMFLG,RCPAYER)
+"RTN","RCDPENR1",389,0)
+ ;
+"RTN","RCDPENR1",390,0)
+ ;Exit
+"RTN","RCDPENR1",391,0)
+ Q
+"RTN","RCDPENR1",392,0)
+ ;
+"RTN","RCDPENR1",393,0)
+ ;Update the Temporary array with the Billing information.
+"RTN","RCDPENR1",394,0)
+UPDTMPB(RCSEND,RCTOTFLG,RCMP,RCCLAIM,RCSUMFLG,RCPAYER) ;
+"RTN","RCDPENR1",395,0)
+ ; RCSEND   - Date 837 or NCPDP sent from site.
+"RTN","RCDPENR1",396,0)
+ ; RCTOTFLG - Add to the total count or not (1 yes, 837 sent this period, 0 if 837 sent in prior period
+"RTN","RCDPENR1",397,0)
+ ; RCMP     - Is this a (P)harmacy or (M)edical
+"RTN","RCDPENR1",398,0)
+ ; RCCLAIM  - The IEN for the Bill/Claim
+"RTN","RCDPENR1",399,0)
+ ; RCSUMFLG - If this flag is 1, add payer level entry for the Payer Summary report, otherwise send 0 for Grand Total only
+"RTN","RCDPENR1",400,0)
+ ; RCPAYER  - Payer for the claim (if generating a Payer Summary Report
+"RTN","RCDPENR1",401,0)
+ ;
+"RTN","RCDPENR1",402,0)
+ ;If the flag is 1, update the totals counter
+"RTN","RCDPENR1",403,0)
+ S:RCTOTFLG ^TMP("RCDPENR1",$J,"TOTAL",RCMP)=$P($G(^TMP("RCDPENR1",$J,"TOTAL",RCMP)),U)+1
+"RTN","RCDPENR1",404,0)
+ ;
+"RTN","RCDPENR1",405,0)
+ ;Add the claim to the list with its send date.
+"RTN","RCDPENR1",406,0)
+ S ^TMP("RCDPENR1",$J,"CLAIM",RCMP,RCPAYER,RCCLAIM)=RCSEND
+"RTN","RCDPENR1",407,0)
+ ;
+"RTN","RCDPENR1",408,0)
+ ;Add a payer level summation if producing a Payer Summary version of the report
+"RTN","RCDPENR1",409,0)
+ S:(RCTOTFLG)&(RCSUMFLG) $P(^TMP("RCDPENR1",$J,"TOTAL",RCMP,RCPAYER),U)=$P($G(^TMP("RCDPENR1",$J,"TOTAL",RCMP,RCPAYER)),U)+1
+"RTN","RCDPENR1",410,0)
+ ;
+"RTN","RCDPENR1",411,0)
+ Q
+"RTN","RCDPENR1",412,0)
+ ;
+"RTN","RCDPENR1",413,0)
+ ;Update the Temporary array with the 835 information.
+"RTN","RCDPENR1",414,0)
+UPDTMP8(RCRCVD,RCMP,RCCLAIM,RCSUMFLG,RCPAYER,RCEOB) ;
+"RTN","RCDPENR1",415,0)
+ ; RCRCVD   - Date 835 is received.
+"RTN","RCDPENR1",416,0)
+ ; RCMP     - Is this a (P)harmacy or (M)edical
+"RTN","RCDPENR1",417,0)
+ ; RCCLAIM  - The IEN for the Bill/Claim
+"RTN","RCDPENR1",418,0)
+ ; RCSUMFLG - If this flag is 1, add payer level entry for the Payer Summary report, otherwise send 0 for Grand Total only
+"RTN","RCDPENR1",419,0)
+ ; RCPAYER  - Payer for the claim (if generating a Payer Summary Report
+"RTN","RCDPENR1",420,0)
+ ; RCEOB    - EOB IEN for the 361.1 file.
+"RTN","RCDPENR1",421,0)
+ ;
+"RTN","RCDPENR1",422,0)
+ N RCSEND,RCBATCH
+"RTN","RCDPENR1",423,0)
+ ;
+"RTN","RCDPENR1",424,0)
+ ;If the flag is 1, update the totals counter
+"RTN","RCDPENR1",425,0)
+ S ^TMP("RCDPENR1",$J,"TOTAL","835")=$G(^TMP("RCDPENR1",$J,"TOTAL","835"))+1
+"RTN","RCDPENR1",426,0)
+ ;
+"RTN","RCDPENR1",427,0)
+ ;If the claim/bill associated with the 835 isn't currently in temp array
+"RTN","RCDPENR1",428,0)
+ ; add it but don't update the count.
+"RTN","RCDPENR1",429,0)
+ I '$D(^TMP("RCDPENR1",$J,"CLAIM",RCMP,RCPAYER,RCCLAIM)) D
+"RTN","RCDPENR1",430,0)
+ . S RCBATCH=$$GET1^DIQ(361.1,RCEOB_",",100.02,"I")
+"RTN","RCDPENR1",431,0)
+ . Q:RCBATCH=""
+"RTN","RCDPENR1",432,0)
+ . S RCSEND=$$GET1^DIQ(364.1,RCBATCH_",",1.01,"I")
+"RTN","RCDPENR1",433,0)
+ . D:RCSEND'="" UPDTMPB(RCSEND,0,RCMP,RCCLAIM,RCSUMFLG,RCPAYER)
+"RTN","RCDPENR1",434,0)
+ ;
+"RTN","RCDPENR1",435,0)
+ ;Add the claim to the list with its send date.
+"RTN","RCDPENR1",436,0)
+ S $P(^TMP("RCDPENR1",$J,"CLAIM",RCMP,RCPAYER,RCCLAIM),U,2)=RCRCVD
+"RTN","RCDPENR1",437,0)
+ ;
+"RTN","RCDPENR1",438,0)
+ ;Add a payer level summation if producing a Payer Summary version of the report
+"RTN","RCDPENR1",439,0)
+ S:RCSUMFLG $P(^TMP("RCDPENR1",$J,"TOTAL",RCMP,RCPAYER),U)=$P($G(^TMP("RCDPENR1",$J,"TOTAL",RCMP,RCPAYER)),U)+1
+"RTN","RCDPENR1",440,0)
+ ;
+"RTN","RCDPENR1",441,0)
+ Q
+"RTN","RCDPENR1",442,0)
+ ;
+"RTN","RCDPENR1",443,0)
+ ; Retrieve the Pharmacy (NCPDP data) needed for the report
+"RTN","RCDPENR1",444,0)
+GETNCPDP(RCSDATE,RCEDATE,RCSUMFLG) ;
+"RTN","RCDPENR1",445,0)
+ ;
+"RTN","RCDPENR1",446,0)
+ N RCLDATE,RCIEN,RCBILL,RCPAYER,RCFLAG,RCINS
+"RTN","RCDPENR1",447,0)
+ ;
+"RTN","RCDPENR1",448,0)
+ ; Loop through all of the bills received during the requested period.
+"RTN","RCDPENR1",449,0)
+ S RCLDATE=RCSDATE-.001
+"RTN","RCDPENR1",450,0)
+ ;
+"RTN","RCDPENR1",451,0)
+ F  S RCLDATE=$O(^DGCR(399,"APD",RCLDATE)) Q:'RCLDATE  Q:RCLDATE>RCEDATE  D
+"RTN","RCDPENR1",452,0)
+ . S RCIEN=0
+"RTN","RCDPENR1",453,0)
+ . F  S RCIEN=$O(^DGCR(399,"APD",RCLDATE,RCIEN)) Q:'RCIEN  D
+"RTN","RCDPENR1",454,0)
+ . . S RCFLAG=$$GETECME(RCIEN)
+"RTN","RCDPENR1",455,0)
+ . . Q:RCFLAG=""    ; No ECME number so not a Pharmacy bill
+"RTN","RCDPENR1",456,0)
+ . . S RCPAYER=$$GET1^DIQ(399,RCIEN_",",101,"E") I $P(^DGCR(399,RCIEN,0),U,13)=7!'RCPAYER Q   ;PRCA*4.5*359
+"RTN","RCDPENR1",457,0)
+ . . S RCINS=$$GET1^DIQ(399,RCIEN_",",101,"I")
+"RTN","RCDPENR1",458,0)
+ . . Q:'$$INSCHK^RCDPENRU(RCINS)       ;Dont add if not on approved insurance list
+"RTN","RCDPENR1",459,0)
+ . . D UPDTMPB(RCLDATE,1,"P",RCIEN,RCSUMFLG,RCPAYER)
+"RTN","RCDPENR1",460,0)
+ ;
+"RTN","RCDPENR1",461,0)
+ ;Exit
+"RTN","RCDPENR1",462,0)
+ Q
+"RTN","RCDPENR1",463,0)
+ ;
+"RTN","RCDPENR1",464,0)
+ ; Get the ECME# from the bill
+"RTN","RCDPENR1",465,0)
+GETECME(RCIEN) ;
+"RTN","RCDPENR1",466,0)
+ ; Used by:
+"RTN","RCDPENR1",467,0)
+ ;     Routine RCDPENR1
+"RTN","RCDPENR1",468,0)
+ ;     Routine PRCABJ1
+"RTN","RCDPENR1",469,0)
+ Q $$GET1^DIQ(399,RCIEN_",",460,"E")
+"RTN","RCDPENR1",470,0)
+ ;
+"RTN","RCDPENR1",471,0)
+ ;Save a line of data to the Archive file
+"RTN","RCDPENR1",472,0)
+SAVEDATA(RCDATA,IEN) ;
+"RTN","RCDPENR1",473,0)
+ ;
+"RTN","RCDPENR1",474,0)
+ N RCARY,IENS
+"RTN","RCDPENR1",475,0)
+ ;
+"RTN","RCDPENR1",476,0)
+ S IENS="+1,"_IEN_","
+"RTN","RCDPENR1",477,0)
+ S RCARY(344.911,IENS,.01)=RCDATA
+"RTN","RCDPENR1",478,0)
+ D UPDATE^DIE(,"RCARY")
+"RTN","RCDPENR1",479,0)
+ ;
+"RTN","RCDPENR1",480,0)
+ Q
+"RTN","RCDPENR1",481,0)
+ ;
+"RTN","RCDPENR1",482,0)
+ ;Initialize the Archive file entry
+"RTN","RCDPENR1",483,0)
+INITARCH(RPT) ;
+"RTN","RCDPENR1",484,0)
+ ;
+"RTN","RCDPENR1",485,0)
+ N FDA,FDAIEN,DT,DT1
+"RTN","RCDPENR1",486,0)
+ ;
+"RTN","RCDPENR1",487,0)
+ S DT=$$NOW^XLFDT
+"RTN","RCDPENR1",488,0)
+ S DT1=$E(DT,1,5)_"00"
+"RTN","RCDPENR1",489,0)
+ ;
+"RTN","RCDPENR1",490,0)
+ ; set up array
+"RTN","RCDPENR1",491,0)
+ S FDA(344.91,"+1,",.01)=RPT           ;Name of report
+"RTN","RCDPENR1",492,0)
+ S FDA(344.91,"+1,",.02)=DT1    ;Month/year report run
+"RTN","RCDPENR1",493,0)
+ S FDA(344.91,"+1,",.03)=1             ;Status
+"RTN","RCDPENR1",494,0)
+ S FDA(344.91,"+1,",.04)=DT            ;Start date of report
+"RTN","RCDPENR1",495,0)
+ ;
+"RTN","RCDPENR1",496,0)
+ ;file entry
+"RTN","RCDPENR1",497,0)
+ D UPDATE^DIE(,"FDA","FDAIEN")
+"RTN","RCDPENR1",498,0)
+ ;
+"RTN","RCDPENR1",499,0)
+ Q +$G(FDAIEN(1))
+"RTN","RCDPENR1",500,0)
+ ;
+"RTN","RCDPENR1",501,0)
+ ;Entry point for reprinting the header.
+"RTN","RCDPENR1",502,0)
+REPRINT(RCHDR,RCDATA) ;
+"RTN","RCDPENR1",503,0)
+ ;
+"RTN","RCDPENR1",504,0)
+ N RCDIVTXT,RCPYRTXT,RCSPACE,RCDATE,RCSTR,RCRUNDT,RCLINE,RCFLG
+"RTN","RCDPENR1",505,0)
+ S RCLINE="",$P(RCLINE,"-",IOM)=""
+"RTN","RCDPENR1",506,0)
+ ;
+"RTN","RCDPENR1",507,0)
+ ; Store the header into the correct variables
+"RTN","RCDPENR1",508,0)
+ S RCSPACE=""
+"RTN","RCDPENR1",509,0)
+ S $P(RCSPACE," ",80)=""
+"RTN","RCDPENR1",510,0)
+ S RCDIVTXT=$P(RCHDR,U)
+"RTN","RCDPENR1",511,0)
+ S RCPYRTXT=$P(RCHDR,U,2)
+"RTN","RCDPENR1",512,0)
+ S RCDATE=$P(RCHDR,U,3)
+"RTN","RCDPENR1",513,0)
+ S RCRUNDT=$$FMTE^XLFDT($$NOW^XLFDT,2)
+"RTN","RCDPENR1",514,0)
+ ;
+"RTN","RCDPENR1",515,0)
+ ; Call the Header Print routine
+"RTN","RCDPENR1",516,0)
+ D RPTHDR
+"RTN","RCDPENR1",517,0)
+ ;
+"RTN","RCDPENR1",518,0)
+ ; Reprint the body
+"RTN","RCDPENR1",519,0)
+ S RCFLG=$$PRINTRP^RCDPENR4("GRAND TOTAL ALL PAYERS",RCDATA,RCDISP)
+"RTN","RCDPENR1",520,0)
+ ;
+"RTN","RCDPENR1",521,0)
+ Q
+"VER")
+8.0^22.2
+"BLD",11527,6)
+^318
+**END**
+**END**
+

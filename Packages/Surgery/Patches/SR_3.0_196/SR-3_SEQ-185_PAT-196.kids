@@ -1,0 +1,415 @@
+Released SR*3*196 SEQ #185
+Extracted from mail message
+**KIDS**:SR*3.0*196^
+
+**INSTALL NAME**
+SR*3.0*196
+"BLD",11519,0)
+SR*3.0*196^SURGERY^0^3190701^y
+"BLD",11519,1,0)
+^^8^8^3190628^
+"BLD",11519,1,1,0)
+The patch addresses one (1) issue:
+"BLD",11519,1,2,0)
+ 
+"BLD",11519,1,3,0)
+1.   When the MAKE OPERATION REQUEST [SROOPREQ] option is used to 
+"BLD",11519,1,4,0)
+     delete an outstanding surgery request with a concurrent case 
+"BLD",11519,1,5,0)
+     request, the user is asked if they want to delete the concurrent
+"BLD",11519,1,6,0)
+     case and defaults to "yes". If the user accepts the default the
+"BLD",11519,1,7,0)
+     outstanding request AND concurrent cases are deleted regardless
+"BLD",11519,1,8,0)
+     whether the concurrent case is completed case.
+"BLD",11519,4,0)
+^9.64PA^^
+"BLD",11519,6.3)
+1
+"BLD",11519,"KRN",0)
+^9.67PA^1.5^24
+"BLD",11519,"KRN",.4,0)
+.4
+"BLD",11519,"KRN",.401,0)
+.401
+"BLD",11519,"KRN",.402,0)
+.402
+"BLD",11519,"KRN",.403,0)
+.403
+"BLD",11519,"KRN",.5,0)
+.5
+"BLD",11519,"KRN",.84,0)
+.84
+"BLD",11519,"KRN",1.5,0)
+1.5
+"BLD",11519,"KRN",1.6,0)
+1.6
+"BLD",11519,"KRN",1.61,0)
+1.61
+"BLD",11519,"KRN",1.62,0)
+1.62
+"BLD",11519,"KRN",3.6,0)
+3.6
+"BLD",11519,"KRN",3.8,0)
+3.8
+"BLD",11519,"KRN",9.2,0)
+9.2
+"BLD",11519,"KRN",9.8,0)
+9.8
+"BLD",11519,"KRN",9.8,"NM",0)
+^9.68A^1^1
+"BLD",11519,"KRN",9.8,"NM",1,0)
+SRSUPRQ^^0^B31551680
+"BLD",11519,"KRN",9.8,"NM","B","SRSUPRQ",1)
+
+"BLD",11519,"KRN",19,0)
+19
+"BLD",11519,"KRN",19.1,0)
+19.1
+"BLD",11519,"KRN",101,0)
+101
+"BLD",11519,"KRN",409.61,0)
+409.61
+"BLD",11519,"KRN",771,0)
+771
+"BLD",11519,"KRN",779.2,0)
+779.2
+"BLD",11519,"KRN",870,0)
+870
+"BLD",11519,"KRN",8989.51,0)
+8989.51
+"BLD",11519,"KRN",8989.52,0)
+8989.52
+"BLD",11519,"KRN",8994,0)
+8994
+"BLD",11519,"KRN","B",.4,.4)
+
+"BLD",11519,"KRN","B",.401,.401)
+
+"BLD",11519,"KRN","B",.402,.402)
+
+"BLD",11519,"KRN","B",.403,.403)
+
+"BLD",11519,"KRN","B",.5,.5)
+
+"BLD",11519,"KRN","B",.84,.84)
+
+"BLD",11519,"KRN","B",1.5,1.5)
+
+"BLD",11519,"KRN","B",1.6,1.6)
+
+"BLD",11519,"KRN","B",1.61,1.61)
+
+"BLD",11519,"KRN","B",1.62,1.62)
+
+"BLD",11519,"KRN","B",3.6,3.6)
+
+"BLD",11519,"KRN","B",3.8,3.8)
+
+"BLD",11519,"KRN","B",9.2,9.2)
+
+"BLD",11519,"KRN","B",9.8,9.8)
+
+"BLD",11519,"KRN","B",19,19)
+
+"BLD",11519,"KRN","B",19.1,19.1)
+
+"BLD",11519,"KRN","B",101,101)
+
+"BLD",11519,"KRN","B",409.61,409.61)
+
+"BLD",11519,"KRN","B",771,771)
+
+"BLD",11519,"KRN","B",779.2,779.2)
+
+"BLD",11519,"KRN","B",870,870)
+
+"BLD",11519,"KRN","B",8989.51,8989.51)
+
+"BLD",11519,"KRN","B",8989.52,8989.52)
+
+"BLD",11519,"KRN","B",8994,8994)
+
+"BLD",11519,"QUES",0)
+^9.62^^
+"BLD",11519,"REQB",0)
+^9.611^1^1
+"BLD",11519,"REQB",1,0)
+SR*3.0*184^1
+"BLD",11519,"REQB","B","SR*3.0*184",1)
+
+"MBREQ")
+0
+"PKG",308,-1)
+1^1
+"PKG",308,0)
+SURGERY^SR^SURGICAL DATA COLLECTION AND OPERATIONS SCHEDULING
+"PKG",308,22,0)
+^9.49I^1^1
+"PKG",308,22,1,0)
+3.0^2930624^2940818
+"PKG",308,22,1,"PAH",1,0)
+196^3190701
+"PKG",308,22,1,"PAH",1,1,0)
+^^8^8^3190701
+"PKG",308,22,1,"PAH",1,1,1,0)
+The patch addresses one (1) issue:
+"PKG",308,22,1,"PAH",1,1,2,0)
+ 
+"PKG",308,22,1,"PAH",1,1,3,0)
+1.   When the MAKE OPERATION REQUEST [SROOPREQ] option is used to 
+"PKG",308,22,1,"PAH",1,1,4,0)
+     delete an outstanding surgery request with a concurrent case 
+"PKG",308,22,1,"PAH",1,1,5,0)
+     request, the user is asked if they want to delete the concurrent
+"PKG",308,22,1,"PAH",1,1,6,0)
+     case and defaults to "yes". If the user accepts the default the
+"PKG",308,22,1,"PAH",1,1,7,0)
+     outstanding request AND concurrent cases are deleted regardless
+"PKG",308,22,1,"PAH",1,1,8,0)
+     whether the concurrent case is completed case.
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+1
+"RTN","SRSUPRQ")
+0^1^B31551680^B28802484
+"RTN","SRSUPRQ",1,0)
+SRSUPRQ ;B'HAM ISC/MAM - UPDATE REQUESTED OPERATIONS; AUGUST 29, 2001@9:04 AM
+"RTN","SRSUPRQ",2,0)
+ ;;3.0;Surgery;**7,47,58,67,107,114,100,154,177,184,196**;24 Jun 93;Build 1
+"RTN","SRSUPRQ",3,0)
+ ;
+"RTN","SRSUPRQ",4,0)
+ ; Reference to ^TMP("CSLSUR1" supported by DBIA #3498
+"RTN","SRSUPRQ",5,0)
+ ;
+"RTN","SRSUPRQ",6,0)
+ K SRSCHED
+"RTN","SRSUPRQ",7,0)
+ASK K DIC,SRCASE S SRSOUT=0,DIC=2,DIC(0)="QEAMZ",DIC("A")="Select Patient: " D ^DIC K DIC Q:Y<0  S SRDFN=+Y,SRNM=$P(Y(0),"^")
+"RTN","SRSUPRQ",8,0)
+ S (CNT,SRSDATE,SRTN)=0 F  S SRSDATE=$O(^SRF("AR",SRSDATE)) Q:'SRSDATE  F  S SRTN=$O(^SRF("AR",SRSDATE,SRDFN,SRTN)) Q:'SRTN  D SETUP
+"RTN","SRSUPRQ",9,0)
+ I '$D(SRCASE(1)) W !!,"There are no requested cases for "_SRNM_"." G END
+"RTN","SRSUPRQ",10,0)
+ S GRAMMER=$S($D(SRCASE(2)):"cases are",1:"case is") W @IOF,!,"The following "_GRAMMER_" requested for "_SRNM_":",!
+"RTN","SRSUPRQ",11,0)
+ S CNT=0 F  S CNT=$O(SRCASE(CNT)) Q:'CNT  D OPS W !,$P(SRCASE(CNT),"^",2),?15,SROPS(1) I $D(SROPS(2)) W !,?15,SROPS(2) I $D(SROPS(3)) W !,?15,SROPS(3)
+"RTN","SRSUPRQ",12,0)
+OPT S SREQ=1 I $D(SRCASE(2)) D MANY
+"RTN","SRSUPRQ",13,0)
+ G:"^"[SREQ END S:'$D(SRCASE(2)) SRTN=$P(SRCASE(1),"^") S SRSDATE=$E($P(^SRF(SRTN,0),"^",9),1,7) I $P(^SRF(SRTN,0),"^",4)="" D SS^SRSCHUP I SRSOUT K SRTN
+"RTN","SRSUPRQ",14,0)
+ Q:$D(SRSCHED)  G:'$D(SRTN) END W !!,"1. Delete",!,"2. Update Request Information",!,"3. Change the Request Date"
+"RTN","SRSUPRQ",15,0)
+SEL W !!,"Select Number: " R Z:DTIME S:'$T!("^"[Z) SRSOUT=1 G:SRSOUT END S:Z["?" Z=4
+"RTN","SRSUPRQ",16,0)
+ I Z<1!(Z>3)!(+Z\1'=Z) W !!,"If you want to delete this request, enter '1'.  Enter '2' if you only want",!,"to update the general information about this case, or '3' to change the date",!,"that this case is requested for." G SEL
+"RTN","SRSUPRQ",17,0)
+ I $D(^XTMP("SRLOCK-"_SRTN)) D MSG G END
+"RTN","SRSUPRQ",18,0)
+ I Z=1 D DEL G END
+"RTN","SRSUPRQ",19,0)
+ I Z=2 D UPDATE S SRSOUT=1 G END
+"RTN","SRSUPRQ",20,0)
+ I Z=3 D CHANGE^SRSDT
+"RTN","SRSUPRQ",21,0)
+END I '$D(SRLATE) S SRLATE=0
+"RTN","SRSUPRQ",22,0)
+ I 'SRLATE,'SRSOUT W !!,"Press RETURN to continue  " R X:DTIME
+"RTN","SRSUPRQ",23,0)
+ W @IOF D ^SRSKILL K SRTN,SRTN1,SRTNX
+"RTN","SRSUPRQ",24,0)
+ Q
+"RTN","SRSUPRQ",25,0)
+OPS S SROPER=$P(SRCASE(CNT),"^",3) K SROPS,MM,MMM S:$L(SROPER)<60 SROPS(1)=SROPER I $L(SROPER)>59 S SROPER=SROPER_"  " F M=1:1 D LOOP Q:MMM=""
+"RTN","SRSUPRQ",26,0)
+ Q
+"RTN","SRSUPRQ",27,0)
+LOOP ; break procedure if greater than 60 characters
+"RTN","SRSUPRQ",28,0)
+ S SROPS(M)="" F LOOP=1:1 S MM=$P(SROPER," "),MMM=$P(SROPER," ",2,200) Q:MMM=""  Q:$L(SROPS(M))+$L(MM)'<60  S SROPS(M)=SROPS(M)_MM_" ",SROPER=MMM
+"RTN","SRSUPRQ",29,0)
+ Q
+"RTN","SRSUPRQ",30,0)
+MANY ; select requested case if more than one
+"RTN","SRSUPRQ",31,0)
+ W !!,"Select Operation Request: " R SREQ:DTIME S:'$T SREQ="^" Q:"^"[SREQ  I SREQ["?"!'$D(SRCASE(SREQ)) W !!,"Enter the number corresponding to the request that will be updated or deleted. " G MANY
+"RTN","SRSUPRQ",32,0)
+ S SRTN=$P(SRCASE(SREQ),"^")
+"RTN","SRSUPRQ",33,0)
+ Q
+"RTN","SRSUPRQ",34,0)
+SETUP ; set SRCASE array to list requested cases for this patient
+"RTN","SRSUPRQ",35,0)
+ S CNT=CNT+1,SRSDT=$P(^SRF(SRTN,0),"^",9),SRSDT=$E(SRSDT,4,5)_"-"_$E(SRSDT,6,7)_"-"_$E(SRSDT,2,3),SRCASE(CNT)=SRTN_"^"_CNT_".  "_SRSDT_"^"_$P(^SRF(SRTN,"OP"),"^")
+"RTN","SRSUPRQ",36,0)
+ Q
+"RTN","SRSUPRQ",37,0)
+DEL ; delete request
+"RTN","SRSUPRQ",38,0)
+ S SRBOTH=0 W !!,"Are you sure that you want to delete this request ?  YES// " R X:DTIME S:'$T X="N" S:X="" X="Y" I X["?" W !!,"Enter RETURN if this request is to be deleted, or NO to quit. " G DEL
+"RTN","SRSUPRQ",39,0)
+ S X=$E(X) Q:"Yy"'[X  I '$$LOCK^SROUTL(SRTN) Q
+"RTN","SRSUPRQ",40,0)
+ K DIE,DR,DA S DA=SRTN,DIE=130,DR="36///0;Q;.09///"_SRSDATE D ^DIE K DR,DA,DIE S SRSDOC=$P(^SRF(SRTN,.1),"^",4)
+"RTN","SRSUPRQ",41,0)
+ S SRCON=$P($G(^SRF(SRTN,"CON")),"^") I SRCON D CON I SRBOTH="^" G END
+"RTN","SRSUPRQ",42,0)
+OPALSO ; delete from file 130
+"RTN","SRSUPRQ",43,0)
+ S SROPCOM="Operation ..."
+"RTN","SRSUPRQ",44,0)
+ S DFN=SRDFN,SRCC="",SRTNX=SRTN D KILL^SROPDEL,UNLOCK^SROUTL(SRTNX) S SRTN=SRTN1 I $D(SRCON) S SRC="" G:"^"[SRBOTH END I SRBOTH=1 S SRTN=SRCON,SRCC="Concurrent " D KILL^SROPDEL,UNLOCK^SROUTL(SRCON)
+"RTN","SRSUPRQ",45,0)
+ Q
+"RTN","SRSUPRQ",46,0)
+CON S SRCON=^SRF(SRTN,"CON"),SRC="the request for" D CC Q:SRBOTH="^"  I SRBOTH=1 K DIE,DR,DA S DA=SRCON,DIE=130,DR="36///0;Q;.09///"_SRSDATE D ^DIE K DR,DIE,DA S SRSDOCC=$P(^SRF(SRCON,.1),"^",4)
+"RTN","SRSUPRQ",47,0)
+ Q
+"RTN","SRSUPRQ",48,0)
+CC ; check to see if concurrent case should be deleted
+"RTN","SRSUPRQ",49,0)
+ W !!,"A concurrent case has been requested for this operation.  Do you want to",!,"delete "_SRC_" it also ?  YES// " R SRBOTH:DTIME S:'$T SRBOTH="^" I SRBOTH["?" W !!,"Enter 'Y' if you want to delete "_SRC_" concurrent case." G CC
+"RTN","SRSUPRQ",50,0)
+ S:SRBOTH="" SRBOTH="Y" S SRBOTH=$E(SRBOTH) I "YyNn"'[SRBOTH W !!,"Enter RETURN if you want these cases to remain concurrent." G CC
+"RTN","SRSUPRQ",51,0)
+ I SRBOTH["Y" S SRBOTH=1
+"RTN","SRSUPRQ",52,0)
+ I SRBOTH="^" Q
+"RTN","SRSUPRQ",53,0)
+ I $P($G(^SRF(SRCON,.2)),U,12)'="" D  Q
+"RTN","SRSUPRQ",54,0)
+ .W !!,"The concurrent procedure associated with this case: ",SRCON S SRBOTH=0
+"RTN","SRSUPRQ",55,0)
+ .W !,"has been completed and must remain in the file for your records."
+"RTN","SRSUPRQ",56,0)
+ .S DA=SRCON,DR="35///@",DIE=130 D ^DIE S SROERR=SRCON D ^SROERR0 S DA=SRTN,DR="35///@",DIE=130 D ^DIE
+"RTN","SRSUPRQ",57,0)
+ .K SRCON
+"RTN","SRSUPRQ",58,0)
+ .W !!,"Press RETURN to continue  " R X:DTIME
+"RTN","SRSUPRQ",59,0)
+ S DA=SRCON,DR="35///@",DIE=130 D ^DIE S SROERR=SRCON D ^SROERR0 S DA=SRTN,DR="35///@",DIE=130 D ^DIE
+"RTN","SRSUPRQ",60,0)
+ I SRBOTH'=1 K SRCON
+"RTN","SRSUPRQ",61,0)
+ Q
+"RTN","SRSUPRQ",62,0)
+UPDATE ; update requested operation
+"RTN","SRSUPRQ",63,0)
+ N SRLCK S SRLCK=$$LOCK^SROUTL(SRTN) Q:'SRLCK
+"RTN","SRSUPRQ",64,0)
+ D AVG^SRSREQ D RT K SRLNTH,SRLNTH1,DR,X
+"RTN","SRSUPRQ",65,0)
+ ;JAS - 7/31/13 - Patch 177 (NEXT LINE)
+"RTN","SRSUPRQ",66,0)
+ N SRICDV S SRICDV=$$ICDSTR^SROICD(SRTN)
+"RTN","SRSUPRQ",67,0)
+ S ST="UPDATE REQUEST",DA=SRTN,DIE=130,DR=$S($$SPIN^SRTOVRF():"[SRSRES-ENTRY1]",1:"[SRSRES-ENTRY]")
+"RTN","SRSUPRQ",68,0)
+ D EN2^SROVAR K Q3("VIEW"),Y
+"RTN","SRSUPRQ",69,0)
+ S SPD=$$CHKS^SRSCOR(SRTN)
+"RTN","SRSUPRQ",70,0)
+ D ^SRCUSS
+"RTN","SRSUPRQ",71,0)
+ I SPD'=$$CHKS^SRSCOR(SRTN) S ^TMP("CSLSUR1",$J)=""
+"RTN","SRSUPRQ",72,0)
+ K DR D:$D(SRODR) ^SROCON1
+"RTN","SRSUPRQ",73,0)
+ D RISK^SROAUTL3
+"RTN","SRSUPRQ",74,0)
+ D ^SROPCE1
+"RTN","SRSUPRQ",75,0)
+ S SROERR=SRTN K SRTX D ^SROERR0
+"RTN","SRSUPRQ",76,0)
+ I $G(SRLCK) D UNLOCK^SROUTL(SRTN)
+"RTN","SRSUPRQ",77,0)
+ Q
+"RTN","SRSUPRQ",78,0)
+RT ; start RT logging
+"RTN","SRSUPRQ",79,0)
+ I $D(XRTL) S XRTN="SRSUPRQ" D T0^%ZOSV
+"RTN","SRSUPRQ",80,0)
+ Q
+"RTN","SRSUPRQ",81,0)
+MSG W !!,"This case is currently being edited.",!,"Please try again later...",!! Q
+"VER")
+8.0^22.2
+"BLD",11519,6)
+^185
+**END**
+**END**
+
